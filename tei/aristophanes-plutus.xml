@@ -1,0 +1,3618 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
+<TEI xml:lang="greek" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title n="Pl." type="work">Plutus</title>
+				<title type="sub">Machine readable text</title>
+				<author key="Wikidata:Q43353">Aristophanes</author>
+				<editor n="OCT" role="editor">F.W. Hall and W.M. Geldart</editor>
+			</titleStmt>
+			      
+			<publicationStmt>
+				<publisher xml:id="GreekDraCor">GreekDraCor</publisher>
+				<idno type="URL">https://dracor.org/greek/aristophanes-plutus</idno>
+				<idno type="GreekDraCor">37</idno>
+				<availability>
+					<licence>
+						<ab>CC BY-SA 3.0 US</ab>
+						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
+					</licence>
+				</availability>
+				<idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q1196456</idno>
+			</publicationStmt>
+			
+
+			<extent>About 145Kb</extent>
+			<sourceDesc>
+				<biblStruct>
+					<bibl type="originalSource">
+						<author key="Wikidata:Q43353">Aristophanes</author>
+						<title>Aristophanes Comoediae, ed. F.W. Hall and W.M. Geldart, vol. 2</title>
+						<editor role="editor">F.W. Hall and W.M. Geldart</editor>
+						<imprint>
+							<pubPlace>Oxford</pubPlace>
+							<publisher>Clarendon Press, Oxford</publisher>
+							<date>1907</date>
+						</imprint>
+					</bibl>
+				</biblStruct>
+			</sourceDesc>
+			<bibl type="digitalSource">
+				<name>Perseus Digital Library (http://www.perseus.tufts.edu)</name>
+				<idno type="URL">http://www.perseus.tufts.edu/hopper/opensource/download</idno>
+				<availability status="free">
+					<p>In the public domain.</p>
+				</availability>
+			</bibl>
+		</fileDesc>
+		<profileDesc>
+			<particDesc>
+				<listPerson>
+					<person xml:id="xremulos">
+						<persName>Χρεμύλοs</persName>
+					</person>
+					<person xml:id="dikaios">
+						<persName>Δίκαιοs</persName>
+					</person>
+					<person xml:id="kariwn">
+						<persName>Καρίωn</persName>
+					</person>
+					<person xml:id="neanias">
+						<persName>Νεανίαs</persName>
+					</person>
+					<person xml:id="ermhs">
+						<persName>ʽερμῆs</persName>
+					</person>
+					<person xml:id="ploutos">
+						<persName>Πλοῦτοs</persName>
+					</person>
+					<person xml:id="bleyidhmos">
+						<persName>Βλεψίδημοs</persName>
+					</person>
+					<person xml:id="iereus">
+						<persName>ʽιερεύs</persName>
+					</person>
+					<person xml:id="graus">
+						<persName>Γραῦs</persName>
+					</person>
+					<person xml:id="penia">
+						<persName>Πενίa</persName>
+					</person>
+					<person xml:id="gunh">
+						<persName>Γυνη/</persName>
+					</person>
+					<person xml:id="xoros">
+						<persName>Χορόs</persName>
+					</person>
+					<person xml:id="sukofanths">
+						<persName>Συκοφάντηs</persName>
+					</person>
+				</listPerson>
+			</particDesc>
+			<textClass>
+				<keywords>
+					<term subtype="comedy" type="genreTitle">Comedy</term>
+				</keywords>
+			</textClass>
+			
+
+			<langUsage>
+				<language id="greek">Greek</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date>1988</date>
+				<respStmt>
+					<name>EM, Scott Ettinger and Roger Travis</name>
+					<resp>tagging</resp>
+				</respStmt>
+				<item>Text scanned at U. Chicago in 1988. Basic SGML tagging by Lowell Bowditch</item>
+			</change>
+			<change>
+				<date>9/92</date>
+				<respStmt>
+					<name>Bill Merrill</name>
+					<resp>ed.</resp>
+				</respStmt>
+				<item>Refined tagging</item>
+			</change>
+			<change>
+				<date>10/1/92</date>
+				<respStmt>
+					<name>Bill Merrill</name>
+					<resp>ed.</resp>
+				</respStmt>
+				<item>Replaced LYRIC Meter= tag with  SPEECH Meter=</item>
+			</change>
+			<change>
+				<date>01-Feb-00</date>
+				<respStmt>
+					<name>Anne Mahoney</name>
+					<resp>Markup</resp>
+				</respStmt>
+				<item>$Log: aristoph.pl_gk.xml,v $
+Revision 1.2  2010-06-21 16:42:23  gcrane
+small fixes to Greek errors -- mainly accent issues with the speaker names
+Revision 1.1  2009/10/08 19:12:07  rsingh04
+began reorganizing texts module by collection.  created separate work directory in texts module to keep hopper files separate from in progress files
+Revision 1.2  2005/08/01 15:50:24  packel
+removed stray item tags
+Revision 1.1  2005/07/25 14:28:47  packel
+Converted to XML
+Revision 1.9  2004/04/21 20:51:05  mimno
+added card 1s
+Revision 1.8  2003/07/01 22:14:37  yorkc
+Updated texts to TEI P4 and Perseus P4 extensions; minor cleanup (esp. character encodings and typos.)
+Revision 1.7  2000/03/06 20:10:31  amahoney
+remove spurious headers, which mess up short toc
+Revision 1.6  2000/03/04 20:33:54  dasmith
+Added separate funder entity to TEI header.
+Revision 1.5  2000/02/01 22:11:29  amahoney
+bring up to P3
+</item>
+			</change>
+		</revisionDesc>
+		<change>
+			<date>2019-05-03</date>
+			<respStmt>
+				<name>Boris Orekhov</name>
+				<resp>ed.</resp>
+			</respStmt>
+			<item>converted to P.5 Dracor format</item>
+		</change>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="Prologue">
+				<milestone n="1" unit="card"/>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ὡς ἀργαλέον πρᾶγμ' ἐςτὶν ὦ Ζεῦ καὶ θεοι\</l>
+					<l>δοῦλον γενέςθαι παραφρονοῦντος δεςπότου.</l>
+					<l>ἢν γὰρ τὰ βέλτιςθ' ὁ θεράπων λέξας τύχῃ,</l>
+					<l>δόξῃ δὲ μὴ δρᾶν ταῦτα τῷ κεκτημένῳ,</l>
+					<l n="5">μετέχειν ἀνάγκη τὸν θεράποντα τῶν κακῶν.</l>
+					<l>τοῦ ςώματος γὰρ οὐκ ἐᾷ τὸν κύριοn</l>
+					<l>κρατεῖν ὁ δαίμων, ἀλλὰ τὸν ἐωνημένον.</l>
+					<l>καὶ ταῦτα μὲν δὴ ταῦτα. τῷ δὲ Λοξίᾳ,</l>
+					<l>ὃς θεςπιῳδεῖ τρίποδος ἐκ χρυςηλάτου,</l>
+					<l n="10">μέμψιν δικαίαν μέμφομαι ταύτην, ὅτi</l>
+					<l>ἰατρὸς ὢν καὶ μάντις, ὥς φαςιν, ςοφὸs</l>
+					<l>μελαγχολῶντ' ἀπέπεμψέ μου τὸν δεςπότην,</l>
+					<l>ὅςτις ἀκολουθεῖ κατόπιν ἀνθρώπου τυφλοῦ,</l>
+					<l>τοὐναντίον δρῶν ἢ προςῆκ' αὐτῷ ποιεῖν.</l>
+					<l n="15">οἱ γὰρ βλέποντες τοῖς τυφλοῖς ἡγούμεθα,</l>
+					<l>οὗτος δ' ἀκολουθεῖ, κἀμὲ προςβιάζεται,</l>
+					<l>καὶ ταῦτ' ἀποκρινομένῳ τὸ παράπαν οὐδὲ γρῦ.</l>
+					<l>ἐγὼ μὲν οὖν οὐκ ἔςθ' ὅπως ςιγήςομαι,</l>
+					<l>ἢν μὴ φράςῃς ὅ τι τῷδ' ἀκολουθοῦμέν ποτe</l>
+					<l n="20">ὦ δέςποτ', ἀλλά ςοι παρέξω πράγματα.</l>
+					<l>οὐ γάρ με τυπτήςεις ςτέφανον ἔχοντά γε.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>μὰ Δί' ἀλλ' ἀφελὼν τὸν ςτέφανον, ἢν λυπῇς τί με,</l>
+					<l>ἵνα μᾶλλον ἀλγῇς.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">λῆρος: οὐ γὰρ παύςομαi</l>
+					<l>πρὶν ἂν φράςῃς μοι τίς ποτ' ἐςτὶν οὑτοςί:</l>
+					<l n="25">εὔνους γὰρ ὤν ςοι πυνθάνομαι πάνυ ςφόδρα.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ἀλλ' οὔ ςε κρύψω: τῶν ἐμῶν γὰρ οἰκετῶn</l>
+					<l>πιςτότατον ἡγοῦμαί ςε καὶ κλεπτίςτατον.</l>
+					<l>ἐγὼ θεοςεβὴς καὶ δίκαιος ὢν ἀνὴr</l>
+					<l>κακῶς ἔπραττον καὶ πένης ἦν:</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">οἶδά τοι.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l n="30">ἕτεροι δ' ἐπλούτουν ἱερόςυλοι ῥήτορεs</l>
+					<l>καὶ ςυκοφάνται καὶ πονηροί:</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">πείθομαι.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ἐπερηςόμενος οὖν ᾠχόμην ὡς τὸν θεόν,</l>
+					<l>τὸν ἐμὸν μὲν αὐτοῦ τοῦ ταλαιπώρου ςχεδὸn</l>
+					<l>ἤδη νομίζων ἐκτετοξεῦςθαι βίον,</l>
+					<l n="35">τὸν δ' υἱόν, ὅςπερ ὢν μόνος μοι τυγχάνει,</l>
+					<l>πευςόμενος εἰ χρὴ μεταβαλόντα τοὺς τρόπουs</l>
+					<l>εἶναι πανοῦργον, ἄδικον, ὑγιὲς μηδὲ ἕν,</l>
+					<l>ὡς τῷ βίῳ τοῦτ' αὐτὸ νομίςας ςυμφέρειν.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>τί δῆτα Φοῖβος ἔλακεν ἐκ τῶν ςτεμμάτων;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l n="40">πεύςει. ςαφῶς γὰρ ὁ θεὸς εἶπέ μοι τοδί:</l>
+					<l>ὅτῳ ξυναντήςαιμι πρῶτον ἐξιών,</l>
+					<l>ἐκέλευε τούτου μὴ μεθίεςθαί μ' ἔτι,</l>
+					<l>πείθειν δ' ἐμαυτῷ ξυνακολουθεῖν οἴκαδε.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>καὶ τῷ ξυναντᾷς δῆτα πρώτῳ;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">τουτῳί.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l n="45">εἶτ' οὐ ξυνίης τὴν ἐπίνοιαν τοῦ θεοῦ</l>
+					<l>φράζουςαν ὦ ςκαιότατέ ςοι ςαφέςτατa</l>
+					<l>ἀςκεῖν τὸν υἱὸν τὸν ἐπιχώριον τρόπον;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>τῷ τοῦτο κρίνεις;</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">δῆλον ὁτιὴ καὶ τυφͺλῶ</l>
+					<l>γνῶναι δοκεῖ τοῦθ', ὡς ςφόδρ' ἐςτὶ ςυμφέροn</l>
+					<l n="50">τὸ μηδὲν ἀςκεῖν ὑγιὲς ἐν τῷ νῦν χρόνῳ.</l>
+					<milestone ed="p" n="51" unit="card"/>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>οὐκ ἔςθ' ὅπως ὁ χρηςμὸς ἐς τοῦτο ῥέπει,</l>
+					<l>ἀλλ' εἰς ἕτερόν τι μεῖζον. ἢν δ' ἡμῖν φράͺςη</l>
+					<l>ὅςτις ποτ' ἐςτὶν οὑτοςὶ καὶ τοῦ χάριn</l>
+					<l>καὶ τοῦ δεόμενος ἦλθε μετὰ νῷν ἐνθαδί,</l>
+					<l n="55">πυθοιμεθ' ἂν τὸν χρηςμὸν ἡμῶν ὅ τι νοεῖ.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ἄγε δὴ ςὺ πότερον ςαυτὸν ὅςτις εἶ φράςεις,</l>
+					<l>ἢ τἀπὶ τούτοις δρῶ; λέγειν χρὴ ταχὺ πάνυ.</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l>ἐγὼ μὲν οἰμώζειν λέγω ςοι.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">μαναθάνειs</l>
+					<l>ὅς φηςιν εἶναι;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">ςοὶ λέγει τοῦτ', οὐκ ἐμοί:</l>
+					<l n="60">ςκαιῶς γὰρ αὐτοῦ καὶ χαλεπῶς ἐκπυνθάνει.</l>
+					<l>ἀλλ' εἴ τι χαίρεις ἀνδρὸς εὐόρκου τρόποις,</l>
+					<l>ἐμοὶ φράςον.</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l part="Y">κλάειν ἔγωγέ ςοι λέγω.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>δέχου τὸν ἄνδρα καὶ τὸν ὄρνιν τοῦ θεοῦ.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>οὔ τοι μὰ τὴν Δήμητρα χαιρήςεις ἔτι.</l>
+					<l n="65">εἰ μὴ φράςεις γάρ—</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">ἀπό ς' ὀλῶ κακὸν κακῶς.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ὦ τᾶν—</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l part="Y">ἀπαλλάχθητον ἀπ' ἐμοῦ.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">πώμαλα.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>καὶ μὴν ὃ λέγω βέλτιςτόν ἐςτ' ὦ δέςποτα.</l>
+					<l>ἀπολῶ τὸν ἄνθρωπον κάκιςτα τουτονί.</l>
+					<l>ἀναθεὶς γὰρ ἐπὶ κρημνόν τιν' αὐτὸν καταλιπωn</l>
+					<l n="70">ἄπειμ', ἵν' ἐκεῖθεν ἐκτραχηλιςθῇ πεςών.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ἀλλ' αἶρε ταχέως.</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l part="Y">μηδαμῶς.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">οὔκουν ἐρεῖς;</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l>ἀλλ' ἢν πύθηςθέ μ' ὅςτις εἴμ', εὖ οἶδ' ὅτi</l>
+					<l>κακόν τί μ' ἐργάςεςθε κοὐκ ἀφήςετον.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>νὴ τοὺς θεοὺς ἡμεῖς γ', ἐὰν βούλῃ γε ςύ.</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l n="75">μέθεςθε νῦν μου πρῶτον.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">ἤν, μεθίεμεν.</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l>ἀκούετον δή: δεῖ γὰρ ὡς ἔοικέ μe</l>
+					<l>λέγειν ἃ κρύπτειν ἦν παρεςκευαςμένος.</l>
+					<l>ἐγὼ γάρ εἰμι Πλοῦτος.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">ὦ μιαρώτατe</l>
+					<l>ἀνδρῶν ἁπάντων, εἶτ' ἐςίγας Πλοῦτος ὤν;</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l n="80">ςὺ Πλοῦτος, οὕτως ἀθλίως διακείμενος;</l>
+					<l>ὦ Φοῖβ' ῎απολλον καὶ θεοὶ καὶ δαίμονεs</l>
+					<l>καὶ Ζεῦ, τί φῄς; ἐκεῖνος ὄντως εἶ ςύ;</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l part="Y">ναί.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ἐκεῖνος αὐτός;</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l part="Y">αὐτότατος.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">πόθεν οὖν φράςοn</l>
+					<l>αὐχμῶν βαδίζεις;</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l part="Y">ἐκ Πατροκλέους ἔρχομαι,</l>
+					<l n="85">ὃς οὐκ ἐλούςατ' ἐξ ὅτουπερ ἐγένετο.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>τουτὶ δὲ τὸ κακὸν πῶς ἔπαθες; κάτειπέ μοι.</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l>ὁ Ζεύς με ταῦτ' ἔδραςεν ἀνθρώποις φθονῶν.</l>
+					<l>ἐγὼ γὰρ ὢν μειράκιον ἠπείλης' ὅτi</l>
+					<l>ὡς τοὺς δικαίους καὶ ςοφοὺς καὶ κοςμίουs</l>
+					<l n="90">μόνους βαδιοίμην: ὁ δέ μ' ἐποίηςεν τυφλόν,</l>
+					<l>ἵνα μὴ διαγιγνώςκοιμι τούτων μηδένα.</l>
+					<l>οὕτως ἐκεῖνος τοῖςι χρηςτοῖςι φθονεῖ.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>καὶ μὴν διὰ τοὺς χρηςτούς γε τιμᾶται μόνουs</l>
+					<l>καὶ τοὺς δικαίους.</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l part="Y">ὁμολογῶ ςοι.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">φέρε τί οὖν;</l>
+					<l n="95">εἰ πάλιν ἀναβλέψειας ὥςπερ καὶ πρὸ τοῦ,</l>
+					<l>φεύγοις ἂν ἤδη τοὺς πονηρούς;</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l part="Y">φήμ' ἐγώ.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ὡς τοὺς δικαίους δ' ἂν βαδίζοις;</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l part="Y">πάνυ μὲν οὖν:</l>
+					<l>πολλοῦ γὰρ αὐτοὺς οὐχ ἑόρακά πω χρόνου.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>καὶ θαῦμά γ' οὐδέν: οὐδ' ἐγὼ γὰρ ὁ βλέπων.</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l n="100">ἄφετόν με νῦν. ἴςτον γὰρ ἤδη τἀπ' ἐμοῦ.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>μὰ Δί' ἀλλὰ πολλῷ μᾶλλον ἑξόμεςθά ςου.</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l>οὐκ ἠγόρευον ὅτι παρέξειν πράγματa</l>
+					<l>ἐμέλλετόν μοι;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">καὶ ςύ γ' ἀντιβολῶ πιθοῦ,</l>
+					<l>καὶ μή μ' ἀπολίπῃς: οὐ γὰρ εὑρήςεις ἐμοῦ</l>
+					<l n="105">ζητῶν ἔτ' ἄνδρα τοὺς τρόπους βελτίονα.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>μὰ τὸν Δί' οὐ γὰρ ἔςτιν ἄλλος πλὴν ἐγώ.</l>
+					<milestone ed="p" n="107" unit="card"/>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l>ταυτὶ λέγουςι πάντες: ἡνίκ' ἂν δέ μοu</l>
+					<l>τύχως' ἀληθῶς καὶ γένωνται πλούςιοι,</l>
+					<l>ἀτεχνῶς ὑπερβάλλουςι τῇ μοχθηρίᾳ.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l n="110">ἔχει μὲν οὕτως, εἰςὶ δ' οὐ πάντες κακοί.</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l>μὰ Δί' ἀλλ' ἁπαξάπαντες.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">οἰμώξει μακρά.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ςοὶ δ' ὡς ἂν εἰδῇς ὅςα παρ' ἡμῖν ἢν μένῃs</l>
+					<l>γενήςετ' ἀγαθά, πρόςεχε τὸν νοῦν ἵνα πύθῃ.</l>
+					<l>οἶμαι γὰρ οἶμαι, ςὺν θεῷ δ' εἰρήςεται,</l>
+					<l n="115">ταύτης ἀπαλλάξειν ςε τῆς ὀφθαλμίαs</l>
+					<l>βλέψαι ποιήςας.</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l part="Y">μηδαμῶς τοῦτ' ἐργάςῃ.</l>
+					<l>οὐ βούλομαι γὰρ πάλιν ἀναβλέψαι.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">τί φῄς;</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ἅνθρωπος οὗτός ἐςτιν ἄθλιος φύςει.</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l>ὁ Ζεὺς † μὲν οὖν εἰδὼς τὰ τούτων μῶρ' ἔμ' εἰ†</l>
+					<l n="120">πύθοιτ' ἂν ἐπιτρίψειε.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">νῦν δ' οὐ τοῦτο δρᾷ,</l>
+					<l>ὅςτις ςε προςπταίοντα περινοςτεῖν ἐᾷ;</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l>οὐκ οἶδ': ἐγὼ δ' ἐκεῖνον ὀρρωδῶ πάνυ.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ἄληθες ὦ δειλότατε πάντων δαιμόνων;</l>
+					<l>οἴει γὰρ εἶναι τὴν Διὸς τυραννίδa</l>
+					<l n="125">καὶ τοὺς κεραυνοὺς ἀξίους τριωβόλου,</l>
+					<l>ἐὰν ἀναβλέψῃς ςὺ κἂν ςμικρὸν χρόνον;</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l>ἆ μὴ λέγ' ὦ πόνηρε ταῦτ'.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">ἔχ' ἥςυχος.</l>
+					<l>ἐγὼ γὰρ ἀποδείξω ςε τοῦ Διὸς πολυ\</l>
+					<l>μεῖζον δυνάμενον.</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l part="Y">ἐμὲ ςύ;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">νὴ τὸν οὐρανόν.</l>
+					<l n="130">αὐτίκα γὰρ ἄρχει διὰ τίν' ὁ Ζεὺς τῶν θεῶν;</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>διὰ τἀργύριον: πλεῖςτον γάρ ἐςτ' αὐτῷ.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">φέρe</l>
+					<l>τίς οὖν ὁ παρέχων ἐςτὶν αὐτῷ τοῦθ';</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">ὁδί.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>θύουςι δ' αὐτῷ διὰ τίν'; οὐ διὰ τουτονί;</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>καὶ νὴ Δί' εὔχονταί γε πλουτεῖν ἄντικρυς.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l n="135">οὔκουν ὅδ' ἐςτὶν αἴτιος καὶ ῥᾳδίωs</l>
+					<l>παύςειεν, εἰ βούλοιτο, ταῦτ' ἄν;</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l part="Y">ὅτι τί δή;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ὅτι οὐδ' ἂν εἷς θύςειεν ἀνθρώπων ἔτι,</l>
+					<l>οὐ βοῦν ἄν, οὐχὶ ψαιςτόν, οὐκ ἄλλ' οὐδὲ ἕν,</l>
+					<l>μὴ βουλομένου ςοῦ.</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l part="Y">πῶς;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">ὅπως;</l>
+					<l>οὐκ ἔςθ' ὅπωs</l>
+					<l n="140">ὠνήςεται δήπουθεν, ἢν ςὺ μὴ παρὼn</l>
+					<l>αὐτὸς διδῷς πἀργύριον: ὥςτε τοῦ Διὸs</l>
+					<l>τὴν δύνομιν, ἢν λυπῇ τι, καταλύςεις μόνος.</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l>τί λέγεις; δι' ἐμὲ θύουςιν αὐτῷ;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">φήμ' ἐγώ.</l>
+					<l>καὶ νὴ Δί' εἴ τί γ' ἔςτι λαμπρὸν καὶ καλὸn</l>
+					<l n="145">ἢ χαρίεν ἀνθρώποιςι, διὰ ςὲ γίγνεται.</l>
+					<l>ἅπαντα τῷ πλουτεῖν γάρ ἐςθ' ὑπήκοα.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ἔγωγέ τοι διὰ μικρὸν ἀργυρίδιοn</l>
+					<l>δοῦλος γεγένημαι, διὰ τὸ μὴ πλουτεῖν ἴςως.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>καὶ τάς γ' ἑταίρας φαςὶ τὰς Κορινθίας,</l>
+					<l n="150">ὅταν μὲν αὐτάς τις πένης πειρῶν τύχῃ,</l>
+					<l>οὐδὲ προςέχειν τὸν νοῦν, ἐὰν δὲ πλούςιος,</l>
+					<l>τὸν πρωκτὸν αὐτὰς εὐθὺς ὡς τοῦτον τρέπειν.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>καὶ τούς γε παῖδάς φαςι ταὐτὸ τοῦτο δρᾶn</l>
+					<l>οὐ τῶν ἐραςτῶν ἀλλὰ τἀργυρίου χάριν.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l n="155">οὐ τούς γε χρηςτούς, ἀλλὰ τοὺς πόρνους: ἐπει\</l>
+					<l>αἰτοῦςιν οὐκ ἀργύριον οἱ χρηςτοί.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">τί δαί;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ὁ μὲν ἵππον ἀγαθόν, ὁ δὲ κύνας θηρευτικάς.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>αἰςχυνόμενοι γὰρ ἀργύριον αἰτεῖν ἴςωs</l>
+					<l>ὀνόματι περιπέττουςι τὴν μοχθηρίαν.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l n="160">τέχναι δὲ πᾶςαι διὰ ςὲ καὶ ςοφίςματa</l>
+					<l>ἐν τοῖςιν ἀνθρώποιςίν ἐςθ' ηὑρημένα.</l>
+					<l>ὁ μὲν γὰρ ἡμῶν ςκυτοτομεῖ καθήμενος:</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ἕτερος δὲ χαλκεύει τις, ὁ δὲ τεκταίνεται:</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ὁ δὲ χρυςοχοεῖ γε χρυςίον παρὰ ςοῦ λαβών:</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l n="165">ὁ δὲ λωποδυτεῖ γε νὴ Δί', ὁ δὲ τοιχωρυχεῖ:</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ὁ δὲ γναφεύει γ':</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">ὁ δέ γε πλύνει κῴδια:</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ὁ δὲ βυρςοδεψεῖ γ':</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">ὁ δέ γε πωλεῖ κρόμμυα:</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ὁ δ' ἁλούς γε μοιχὸς διὰ ςέ που παρατίλλεται.</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l>οἴμοι τάλας ταυτί μ' ἐλάνθανεν πάλαι.</l>
+					<milestone ed="p" n="170" unit="card"/>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l n="170">μέγας δὲ βαςιλεὺς οὐχὶ διὰ τοῦτον κομᾷ;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ἐκκληςία δ' οὐχὶ διὰ τοῦτον γίγνεται;</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>τί δέ; τὰς τριήρεις οὐ ςὺ πληροῖς; εἰπέ μοι.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>τὸ δ' ἐν Κορίνθῳ ξενικὸν οὐχ οὗτος τρέφει;</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ὁ Πάμφιλος δ' οὐχι διὰ τοῦτον κλαύςεται;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l n="175">ὁ βελονοπώλης δ' οὐχὶ μετὰ τοῦ Παμφίλου;</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ʼαγύρριος δ' οὐχὶ διὰ τοῦτον πέρδεται;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>Φιλέψιος δ' οὐχ ἕνεκα ςοῦ μύθους λέγει;</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ἡ ξυμμαχία δ' οὐ διὰ ςὲ τοῖς Αἰγυπτίοις;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ἐρᾷ δὲ Λαὶ¨ς οὐ διὰ ςὲ Φιλωνίδου;</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l n="180">ὁ Τιμοθέου δὲ πύργος—</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">ἐμπέςοι γέ ςοι.</l>
+					<l>τὰ δὲ πράγματ' οὐχὶ διὰ ςὲ πάντα πράττεται;</l>
+					<l>μονώτατος γὰρ εἶ ςὺ πάντων αἴτιοs</l>
+					<l>καὶ τῶν κακῶν καὶ τῶν ἀγαθῶν, εὖ ἴςθ' ὅτι.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>κρατοῦςι γοῦν κἀν τοῖς πολέμοις ἑκάςτοτε,</l>
+					<l n="185">ἐφ' οἷς οὗτος ἐπικαθέζηται μόνον.</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l>ἐγὼ τοςαῦτα δυνατός εἰμ' εἷς ὢν ποιεῖν;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>καὶ ναὶ μὰ Δία τούτων γε πολλῷ πλείονα:</l>
+					<l>ὥςτ' οὐδὲ μεςτὸς ςοῦ γέγον' οὐδεὶς πώποτε.</l>
+					<l>τῶν μὲν γὰρ ἄλλων ἐςτὶ πάντων πληςμονή,</l>
+					<l n="190">ἔρωτοs</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">ἄρτωn</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">μουςικῆs</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">τραγημάτωn</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>τιμῆs</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">πλακούντωn</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">ἀνδραγαθίαs</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">ἰςχάδωn</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>φιλοτιμίαs</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">μάζηs</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">ςτρατηγίαs</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">φακῆς:</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ςοῦ δ' ἐγένετ' οὐδεὶς μεςτὸς οὐδεπώποτε.</l>
+					<l>ἀλλ' ἢν τάλαντά τις λάβῃ τριακαίδεκα,</l>
+					<l n="195">πολὺ μᾶλλον ἐπιθυμεῖ λαβεῖν ἑκκαίδεκα:</l>
+					<l>κἂν ταῦτ' ἀνύςηται, τετταράκοντα βούλεται,</l>
+					<l>ἤ φηςιν εἶν ἀβίωτον αὑτῷ τὸν βίον.</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l>εὖ τοι λέγειν ἔμοιγε φαίνεςθον πάνυ:</l>
+					<l>πλὴν ἓν μόνον δέδοικα.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">φράζε τοῦ πέρι;</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l n="200">ὅπως ἐγὼ τὴν δύναμιν ἣν ὑμεῖς φατe</l>
+					<l>ἔχειν με, ταύτης δεςπότης γενήςομαι.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>νὴ τὸν Δί' ἀλλὰ καὶ λέγουςι πάντες ὡs</l>
+					<l>δειλότατόν ἐςθ' ὁ Πλοῦτος.</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l part="Y">ἥκιςτ', ἀλλά μe</l>
+					<l>τοιχωρύχος τις διέβαλ'. ἐςδὺς γάρ ποτe</l>
+					<l n="205">οὐκ εἶχεν ἐς τὴν οἰκίαν οὐδὲν λαβεῖν,</l>
+					<l>εὑρὼν ἁπαξάπαντα κατακεκλῃμένα:</l>
+					<l>εἶτ' ὠνόμαςέ μου τὴν πρόνοιαν δειλίαν.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>μή νυν μελέτω ςοι μηδέν: ὡς ἐὰν γέͺνη</l>
+					<l>ἀνὴρ πρόθυμος αὐτὸς ἐς τὰ πράγματα,</l>
+					<l n="210">βλέποντ' ἀποδείξω ς' ὀξύτερον τοῦ Λυγκέως.</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l>πῶς οὖν δυνήςει τοῦτο δρᾶςαι θνητὸς ὤν;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ἔχω τιν' ἀγαθὴν ἐλπίδ' ἐξ ὧν εἶπέ μοi</l>
+					<l>ὁ Φοῖβος αὐτὸς Πυθικὴν ςείςας δάφνην.</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l>κἀκεῖνος οὖν ςύνοιδε ταῦτα;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">φήμ' ἐγώ.</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l n="215">ὁρᾶτε.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">μὴ φρόντιζε μηδὲν ὦγαθέ.</l>
+					<l>ἐγὼ γάρ, εὖ τοῦτ' ἴςθι, κεἰ δεῖ μ' ἀποθανεῖν,</l>
+					<l>αὐτὸς διαπράξω ταῦτα.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">κἂν βούλῃ γ', ἐγώ.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>πολλοὶ δ' ἔςονται χἄτεροι νῷν ξύμμαχοι,</l>
+					<l>ὅςοις δικαίοις οὖςιν οὐκ ἦν ἄλφιτα.</l>
+					<milestone ed="p" n="220" unit="card"/>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l n="220">παπαῖ πονηρούς γ' εἶπας ἡμῖν ςυμμάχους.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>οὐκ ἤν γε πλουτήςωςιν ἐξ ἀρχῆς πάλιν.</l>
+					<l>ἀλλ' ἴθι ςὺ μὲν ταχέως δραμών—</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">τί δρῶ; λέγε.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>τοὺς ξυγγεώργους κάλεςον, εὑρήςεις δ' ἴςωs</l>
+					<l>ἐν τοῖς ἀγροῖς αὐτοὺς ταλαιπωρουμένους,</l>
+					<l n="225">ὅπως ἂν ἴςον ἕκαςτος ἐνταυθοῖ παρὼn</l>
+					<l>ἡμῖν μετάςχῃ τοῦδε τοῦ Πλούτου μέρος.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>καὶ δὴ βαδίζω: τουτοδὶ τὸ κρεᾴδιοn</l>
+					<l>τῶν ἔνδοθέν τις εἰςενεγκάτω λαβών.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ἐμοὶ μελήςει τοῦτό γ': ἀλλ' ἀνύςας τρέχε.</l>
+					<l n="230">ςὺ δ' ὦ κράτιςτε Πλοῦτε πάντων δαιμόνωn</l>
+					<l>εἴςω μετ' ἐμοῦ δεῦρ' εἴςιθ': ἡ γὰρ οἰκίa</l>
+					<l>αὕτη 'ςτὶν ἣν δεῖ χρημάτων ςε τήμεροn</l>
+					<l>μεςτὴν ποιῆςαι καὶ δικαίως κἀδίκως.</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l>ἀλλ' ἄχθομαι μὲν εἰςιὼν νὴ τοὺς θεοὺs</l>
+					<l n="235">εἰς οἰκίαν ἑκάςτοτ' ἀλλοτρίαν πάνυ:</l>
+					<l>ἀγαθὸν γὰρ ἀπέλαυς' οὐδὲν αὐτοῦ πώποτε.</l>
+					<l>ἢν μὲν γὰρ ὡς φειδωλὸν εἰςελθὼν τύχω,</l>
+					<l>εὐθὺς κατώρυξέν με κατὰ τῆς γῆς κάτω:</l>
+					<l>κἄν τις προςέλθῃ χρηςτὸς ἄνθρωπος φίλοs</l>
+					<l n="240">αἰτῶν λαβεῖν τι ςμικρὸν ἀργυρίδιον,</l>
+					<l>ἔξαρνός ἐςτι μηδ' ἰδεῖν με πώποτε.</l>
+					<l>ἢν δ' ὡς παραπλῆγ' ἄνθρωπον εἰςελθὼν τύχω,</l>
+					<l>πόρναιςι καὶ κύβοιςι παραβεβλημένοs</l>
+					<l>γυμνὸς θύραζ' ἐξέπεςον ἐν ἀκαρεῖ χρόνου.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l n="245">μετρίου γὰρ ἀνδρὸς οὐκ ἐπέτυχες πώποτε.</l>
+					<l>ἐγὼ δὲ τούτου τοῦ τρόπου πώς εἰμ' ἀεί,</l>
+					<l>χαίρω τε γὰρ φειδόμενος ὡς οὐδεὶς ἀνὴr</l>
+					<l>πάλιν τ' ἀναλῶν, ἡνίκ' ἂν τούτου δέῃ.</l>
+					<l>ἀλλ' εἰςίωμεν, ὡς ἰδεῖν ςε βούλομαi</l>
+					<l n="250">καὶ τὴν γυναῖκα καὶ τὸν υἱὸν τὸν μόνον,</l>
+					<l>ὃν ἑγὼ φιλῶ μάλιςτα μετὰ ςέ.</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l part="Y">πείθομαι.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>τί γὰρ ἄν τις οὐχὶ πρὸς ςὲ τἀληθῆ λέγοι;</l>
+					<milestone ed="p" n="253" unit="card"/>
+				</sp>
+			</div1>
+			<div1 type="Parodos">
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ὦ πολλὰ δὴ τῷ δεςπότῃ ταὐτὸν θύμον φαγόντες,</l>
+					<l>ἄνδρες φίλοι καὶ δημόται καὶ τοῦ πονεῖν ἐραςταί,</l>
+					<l n="255">ἴτ' ἐγκονεῖτε ςπεύδεθ', ὡς ὁ καιρὸς οὐχὶ μέλλειν,</l>
+					<l>ἀλλ' ἔςτ' ἐπ' αὐτῆς τῆς ἀκμῆς, ᾗ δεῖ παρόντ' ἀμύνειν.</l>
+				</sp>
+				<sp who="#xoros">
+					<speaker>Χορόs</speaker>
+					<l>οὔκουν ὁρᾷς ὁρμωμένους ἡμᾶς πάλαι προθύμως,</l>
+					<l>ὡς εἰκός ἐςτιν ἀςθενεῖς γέροντας ἄνδρας ἤδη;</l>
+					<l>ςὺ δ' ἀξιοῖς ἴςως με θεῖν, πρὶν ταῦτα καὶ φράςαι μοi</l>
+					<l n="260">ὅτου χάριν μ' ὁ δεςπότης ὁ ςὸς κέκληκε δῦρο.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>οὔκουν πάλαι δήπου λέγω; ςὺ δ' αὐτὸς οὐκ ἀκούεις.</l>
+					<l>ὁ δεςπότης γάρ φηςιν ὑμᾶς ἡδέως ἅπανταs</l>
+					<l>ψυχροῦ βίου καὶ δυςκόλου ζήςειν ἀπαλλαγέντας.</l>
+				</sp>
+				<sp who="#xoros">
+					<speaker>Χορόs</speaker>
+					<l>ἔςτιν δὲ δὴ τί καὶ πόθεν τὸ πρᾶγμα τοῦθ' ὅ φηςιν;</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l n="265">ἔχων ἀφῖκται δεῦρο πρεςβύτην τιν' ὦ πόνηροi</l>
+					<l>ῥυπῶντα κυφὸν ἄθλιον ῥυςὸν μαδῶντα νωδόν:</l>
+					<l>οἶμαι δὲ νὴ τὸν οὐρανὸν καὶ ψωλὸν αὐτὸν εἶναι.</l>
+				</sp>
+				<sp who="#xoros">
+					<speaker>Χορόs</speaker>
+					<l>ὦ χρυςὸν ἀγγείλας ἐπῶν πῶς φῄς; πάλιν φράςον μοι.</l>
+					<l>δηλοῖς γὰρ αὐτὸν ςωρὸν ἥκειν χρημάτων ἔχοντα.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l n="270">πρεςβυτικῶν μὲν οὖν κακῶν ἔγωγ' ἔχοντα ςωρόν.</l>
+				</sp>
+				<sp who="#xoros">
+					<speaker>Χορόs</speaker>
+					<l>μῶν ἀξιοῖς φενακίςας ἔπειτ' ἀπαλλαγῆναi</l>
+					<l>ἀζήμοις, καὶ ταῦτ' ἐμοῦ βακτηρίαν ἔχοντος;</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>πάντως γὰρ ἄνθρωπον φύςει τοιοῦτον ἐς τὰ πάντa</l>
+					<l>ἡγεῖςθέ μ' εἶναι κοὐδὲν ἂν νομίζεθ' ὑγιὲς εἰπεῖν;</l>
+				</sp>
+				<sp who="#xoros">
+					<speaker>Χορόs</speaker>
+					<l n="275">ὡς ςεμνὸς οὑπίτριπτος: αἱ κνῆμαι δέ ςου βοῶςιn</l>
+					<l>‘ἰοὺ ἰού,’ τὰς χοίνικας καὶ τὰς πέδας ποθοῦςαι.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ἐν τῇ ςορῷ νυνὶ λαχὸν τὸ γράμμα ςου δικάζειν,</l>
+					<l>ςὺ δ' οὐ βαδίζεις, ὁ δὲ Χάρων τὸ ξύμβολον δίδωςιν.</l>
+				</sp>
+				<sp who="#xoros">
+					<speaker>Χορόs</speaker>
+					<l>διαρραγείης, ὡς μόθων εἶ καὶ φύςει κόβαλος,</l>
+					<l n="280">ὅςτις φενακίζεις, φράςαι δ' οὔπω τέτληκας ἡμῖν,</l>
+					<l>οἳ πολλὰ μοχθήςαντες οὐκ οὔςης ςχολῆς προθύμωs</l>
+					<l>δεῦρ' ἤλθομεν, πολλῶν θύμων ῥίζας διεκπερῶντες.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ἀλλ' οὐκέτ' ἂν κρύψαιμι. τὸν Πλοῦτον γὰρ ὦνδρες ἥκεi</l>
+					<l n="285">ἄγων ὁ δεςπότης, ὃς ὑμᾶς πλουςίους ποιήςει.</l>
+				</sp>
+				<sp who="#xoros">
+					<speaker>Χορόs</speaker>
+					<l>ὄντως γὰρ ἔςτι πλουςίοις ἡμῖν ἅπαςιν εἶναι;</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>νὴ τοὺς θεοὺς Μίδαις μὲν οὖν, ἢν ὦτ' ὄνου λάβητε.</l>
+				</sp>
+				<sp who="#xoros">
+					<speaker>Χορόs</speaker>
+					<l>ὡς ἥδομαι καὶ τέρπομαι καὶ βούλομαι χορεῦςαi</l>
+					<l>ὑφ' ἡδονῆς, εἴπερ λέγεις ὄντως ςὺ ταῦτ' ἀληθῆ.</l>
+					<milestone ed="p" n="290" unit="card"/>
+				</sp>
+			</div1>
+			<div1 type="Lyric-Scene">
+				<div2 n="1" type="strophe">
+					<sp who="#kariwn">
+						<speaker>Καρίωn</speaker>
+						<l n="290">καὶ μὴν ἐγὼ βουλήςομαι θρεττανελὸ τὸν Κύκλωπa</l>
+						<l>μιμούμενος καὶ τοῖν ποδοῖν ὡδὶ παρενςαλεύωn</l>
+						<l>ὑμᾶς ἄγειν. ἀλλ' εἶα τέκεα θαμίν' ἐπαναβοῶντεs</l>
+						<l>βληχώμενοί τε προβατίωn</l>
+						<l>αἰγῶν τε κιναβρώντων μέλh</l>
+						<l n="295">ἕπεςθ' ἀπεψωλημένοι: τράγοι δ' ἀκρατιεῖςθε.</l>
+						<milestone ed="p" n="296" unit="card"/>
+					</sp>
+				</div2>
+				<div2 n="1" type="antistrophe">
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l>ἡμεῖς δέ γ' αὖ ζητήςομεν θρεττανελὸ τὸν Κύκλωπa</l>
+						<l>βληχώμενοι, ςὲ τουτονὶ πεινῶντα καταλαβόντες,</l>
+						<l>πήραν ἔχοντα λάχανά τ' ἄγρια δροςερά, κραιπαλῶντa</l>
+						<l>ἡγούμενον τοῖς προβατίοις,</l>
+						<l n="300">εἰκῇ δὲ καταδαρθόντα ποu</l>
+						<l>μέγαν λαβόντες ἡμμένον ςφηκίςκον ἐκτυφλῶςαι.</l>
+						<milestone ed="p" n="302" unit="card"/>
+					</sp>
+				</div2>
+				<div2 n="2" type="strophe">
+					<sp who="#kariwn">
+						<speaker>Καρίωn</speaker>
+						<l>ἐγὼ δὲ τὴν Κίρκην γε τὴν τὰ φάρμακ' ἀνακυκῶςαν,</l>
+						<l>ἣ τοὺς ἑταίρους τοῦ Φιλωνίδου ποτ' ἐν Κορίνͺθω</l>
+						<l>ἔπειςεν ὡς ὄντας κάπρουs</l>
+						<l n="305">μεμαγμένον ςκῶρ ἐςθίειν, αὐτὴ δ' ἔματτεν αὐτοῖς,</l>
+						<l>μιμήςομαι πάντας τρόπους:</l>
+						<l>ὑμεῖς δὲ γρυλίζοντες ὑπὸ φιληδίαs</l>
+						<l>ἕπεςθε μητρὶ χοῖροι.</l>
+						<milestone ed="p" n="309" unit="card"/>
+					</sp>
+				</div2>
+				<div2 n="2a" type="antistrophe">
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l>οὐκοῦν ςε τὴν Κίρκην γε τὴν τὰ φάρμακ' ἀνακυκῶςαn</l>
+						<l n="310">καὶ μαγγανεύουςαν μολύνουςάν τε τοὺς ἑταίρουs</l>
+						<l>λαβόντες ὑπὸ φιληδίαs</l>
+						<l>τὸν Λαρτίου μιμούμενοι τῶν ὄρχεων κρεμῶμεν,</l>
+						<l>μινθώςομέν θ' ὥςπερ τράγοu</l>
+						<l>τὴν ῥῖνα: ςὺ δ' ʼαρίςτυλλος ὑποχάςκων ἐρεῖς,</l>
+						<l n="315">ἕπεςθε μητρὶ χοῖροι.</l>
+						<milestone ed="p" n="316" unit="card"/>
+					</sp>
+				</div2>
+				<div2 n="2b" type="antistrophe">
+					<sp who="#kariwn">
+						<speaker>Καρίωn</speaker>
+						<l>ἀλλ' εἶα νῦν τῶν ςκωμμάτων ἀπαλλαγέντες ἤδh</l>
+						<l>ὑμεῖς ἐπ' ἄλλ' εἶδος τρέπεςθ',</l>
+						<l>ἐγὼ δ' ἰὼν ἤδη λάθͺρα</l>
+						<l>βουλήςομαι τοῦ δεςπότοu</l>
+						<l n="320">λαβών τιν' ἄρτον καὶ κρέαs</l>
+						<l>μαςώμενος τὸ λοιπὸν οὕτω τῷ κόπῳ ξυνεῖναι.</l>
+						<milestone ed="p" n="322" unit="card"/>
+						<stage>Χοροῦ</stage>
+					</sp>
+				</div2>
+			</div1>
+			<div1 type="Episode">
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>χαίρειν μὲν ὑμᾶς ἐςτιν ὦνδρες δημόταi</l>
+					<l>ἀρχαῖον ἤδη προςαγορεύειν καὶ ςαπρόν:</l>
+					<l>ἀςπάζομαι δ' ὁτιὴ προθύμως ἥκετe</l>
+					<l n="325">καὶ ςυντεταμένως κοὐ κατεβλακευμένως.</l>
+					<l>ὅπως δέ μοι καὶ τἄλλα ςυμπαραςτάταi</l>
+					<l>ἔςεςθε καὶ ςωτῆρες ὄντως τοῦ θεοῦ.</l>
+				</sp>
+				<sp who="#xoros">
+					<speaker>Χορόs</speaker>
+					<l>θάρρει: βλέπειν γὰρ ἄντικρυς δόξεις μ' ῎αρη.</l>
+					<l>δεινὸν γὰρ εἰ τριωβόλου μὲν οὕνεκa</l>
+					<l n="330">ὠςτιζόμεςθ' ἑκάςτοτ' ἐν τἠκκληςίᾳ,</l>
+					<l>αὐτὸν δὲ τὸν Πλοῦτον παρείην τῳ λαβεῖν.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>καὶ μὴν ὁρῶ καὶ Βλεψίδημον τουτονι\</l>
+					<l>προςιόντα: δῆλος δ' ἐςτὶν ὅτι τοῦ πράγματοs</l>
+					<l>ἀκήκοέν τι τῇ βαδίςει καὶ τῷ τάχει.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l n="335">τί ἂν οὖν τὸ πρᾶγμ' εἴη; πόθεν καὶ τίνι τρόͺπω</l>
+					<l>Χρεμύλος πεπλούτηκ' ἐξαπίνης; οὐ πείθομαι.</l>
+					<l>καίτοι λόγος γ' ἦν νὴ τὸν ʽηρακλέα πολὺs</l>
+					<l>ἐπὶ τοῖςι κουρείοιςι τῶν καθημένων,</l>
+					<l>ὡς ἐξαπίνης ἀνὴρ γεγένηται πλούςιος.</l>
+					<l n="340">ἔςτιν δέ μοι τοῦτ' αὐτὸ θαυμάςιον, ὅπωs</l>
+					<l>χρηςτόν τι πράττων τοὺς φίλους μεταπέμπεται.</l>
+					<l>οὔκουν ἐπιχώριόν γε πρᾶγμ' ἐργάζεται.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ἀλλ' οὐδὲν ἀποκρύψας ἐρῶ: νὴ τοὺς θεοὺs</l>
+					<l>ὦ Βλεψίδημ' ἄμεινον ἢ χθὲς πράττομεν,</l>
+					<l n="345">ὥςτε μετέχειν ἔξεςτιν: εἶ γὰρ τῶν φίλων.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l>γέγονας δ' ἀληθῶς, ὡς λέγουςι, πλούςιος;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ἔςομαι μὲν οὖν αὐτίκα μάλ', ἢν θεὸς θέλῃ.</l>
+					<l>ἔνι γάρ τις ἔνι κίνδυνος ἐν τῷ πράγματι.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l>ποῖός τις;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">οἷος;</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l part="Y">λέγ' ἀνύςας ὅ τι φῄς ποτε.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l n="350">ἢν μὲν κατορθώςωμεν, εὖ πράττειν ἀεί:</l>
+					<l>ἢν δὲ ςφαλῶμεν, ἐπιτετρῖφθαι τὸ παράπαν.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l>τουτὶ πονηρὸν φαίνεται τὸ φορτίοn</l>
+					<l>καί μ' οὐκ ἀρέςκει. τό τε γὰρ ἐξαίφνης ἄγαn</l>
+					<l>οὕτως ὑπερπλουτεῖν τό τ' αὖ δεδοικέναi</l>
+					<l n="355">πρὸς ἀνδρὸς οὐδὲν ὑγιές ἐςτ' εἰργαςμένου.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>πῶς οὐδὲν ὑγιές;</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l part="Y">εἴ τι κεκλοφὼς νὴ Δίa</l>
+					<l>ἐκεῖθεν ἥκεις ἀργύριον ἢ χρυςίοn</l>
+					<l>παρὰ τοῦ θεοῦ, κἄπειτ' ἴςως ςοι μεταμέλει.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>῎απολλον ἀποτρόπαιε μὰ Δί' ἐγὼ μὲν οὔ.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l n="360">παῦςαι φλυαρῶν ὦγάθ': οῖδα γὰρ ςαφῶς.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ςὺ μηδὲν εἰς ἔμ' ὑπονόει τοιουτονί.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l>φεῦ,</l>
+					<l>ὡς οὐδὲν ἀτεχνῶς ὑγιές ἐςτιν οὐδενός,</l>
+					<l>ἀλλ' εἰςὶ τοῦ κέρδους ἅπαντες ἥττονες.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>οὔ τοι μὰ τὴν Δήμητρ' ὑγιαίνειν μοι δοκεῖς.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l n="365">ὡς πολὺ μεθέςτηχ' ὧν πρότερον εἶχεν τρόπων.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>μελαγχολᾷς ὦνθρωπε νὴ τὸν οὐρανόν.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l>ἀλλ' οὐδὲ τὸ βλέμμ' αὐτὸ κατὰ χώραν ἔχει,</l>
+					<l>ἀλλ' ἐςτὶν ἐπίδηλόν τι πεπανουργηκότι.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ςὺ μὲν οἶδ' ὃ κρώζεις: ὡς ἐμοῦ τι κεκλοφότοs</l>
+					<l n="370">ζητεῖς μεταλαβεῖν.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l part="Y">μεταλαβεῖν ζητῶ; τίνος;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>τὸ δ' ἐςτὶν οὐ τοιοῦτον ἀλλ' ἑτέρως ἔχον.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l>μῶν οὐ κέκλοφας ἀλλ' ἥρπακας;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">κακοδαιμονᾷς.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l>ἀλλ' οὐδὲ μὴν ἀπεςτέρηκάς γ' οὐδένα;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ου' δῆτ' ἔγωγ'.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l part="Y">ὦ ʽηράκλεις, φέρε ποῖ τις ἂn</l>
+					<l n="375">τράποιτο; τἀληθὲς γὰρ οὐκ ἐθέλει φράςαι.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>κατηγορεῖς γὰρ πρὶν μαθεῖν τὸ πρᾶγμά μου.</l>
+					<milestone ed="p" n="377" unit="card"/>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l>ὦ τᾶν ἐγώ τοι τοῦτ' ἀπὸ ςμικροῦ πάνu</l>
+					<l>ἐθέλω διαπρᾶξαι πρὶν πυθέςθαι τὴν πόλιν,</l>
+					<l>τὸ ςτόμ' ἐπιβύςας κέρμαςιν τῶν ῥητόρων.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l n="380">καὶ μὴν φίλως γ' ἄν μοι δοκεῖς νὴ τοὺς θεοὺs</l>
+					<l>τρεῖς μνᾶς ἀναλώςας λογίςαςθαι δώδεκα.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l>ὁρῶ τιν' ἐπὶ τοῦ βήματος καθεδούμενοn</l>
+					<l>ἱκετηρίαν ἔχοντα μετὰ τῶν παιδίωn</l>
+					<l>καὶ τῆς γυναικός, κου' διοίςοντ' ἄντικρυs</l>
+					<l n="385">τῶν ʽηρακλειδῶν οὐδ' ὁτιοῦν τῶν Παμφίλου.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>οὒκ ὦ κακόδαιμον, ἀλλὰ τοὺς χρηςτοὺς μόνουs</l>
+					<l>ἔγωγε καὶ τοὺς δεξιοὺς καὶ ςώφροναs</l>
+					<l>ἀπαρτὶ πλουτῆςαι ποιήςω.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l part="Y">τί ςὺ λέγεις;</l>
+					<l>οὕτω πάνυ πολλὰ κέκλοφας;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">οἴμοι τῶν κακῶν,</l>
+					<l n="390">ἀπολεῖς.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l part="Y">ςὺ μὲν οὖν ςεαυτόν, ὥς γ' ἐμοὶ δοκεῖς.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ου' δῆτ', ἐπεὶ τὸν Πλοῦτον ὦ μόχθηρε ςυ\</l>
+					<l>ἔχω.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l part="Y">ςὺ Πλοῦτον; ποῖον;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">αὐτὸν τὸν θεόν.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l>καὶ ποῦ 'ςτιν;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">ἔνδον.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l part="Y">ποῦ;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">παρ'</l>
+					<l>ἐμοί.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l part="Y">παρὰ ςοί;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">πάνυ.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l>οὐκ ἐς κόρακας; Πλοῦτος παρὰ ςοί;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">νὴ τοὺς θεούς.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l n="395">λὲγεις ἀληθῆ;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">φημί.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l part="Y">πρὸς τῆς ʽεςτίας;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>νὴ τὸν Ποςειδῶ.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l part="Y">τὸν θαλάττιον λέγεις;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>εἰ δ' ἔςτιν ἕτερός τις Ποςειδῶν, τὸν ἕτερον.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l>εἶτ' οὐ διαπέμπεις καὶ πρὸς ἡμᾶς τοὺς φίλους;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>οὐκ ἔςτι πω τὰ πράγματ' ἐν τούτῳ.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l part="Y">τί φῄς;</l>
+					<l n="400">οὐ τῷ μεταδοῦναι;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">μὰ Δία. δεῖ γὰρ πρῶτa</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l part="Y">τί;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>βλέψαι ποιῆςαι νώ—</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l part="Y">τίνα βλέψαι; φράςον.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>τὸν Πλοῦτον ὥςπερ πρότερον ἑνί γέ τῳ τρόπῳ.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l>τυφλὸς γὰρ ὄντως ἐςτί;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">νὴ τὸν οὐρανόν.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l>οὐκ ἐτὸς ἄρ' ὡς ἔμ' ἦλθεν οὐδεπώποτε.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l n="405">ἀλλ' ἢν θεοὶ θέλωςι, νῦν ἀφίξεται.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l>οὔκουν ἰατρὸν εἰςάγειν ἐχρῆν τινά;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>τίς δῆτ' ἰατρός ἐςτι νῦν ἐν τῇ πόλει;</l>
+					<l>οὔτε γὰρ ὁ μιςθὸς οὐδὲν ἔςτ' οὔθ' ἡ τέχνη.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l>ςκοπῶμεν.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">ἀλλ' οὐκ ἔςτιν.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l part="Y">οὐδ ἐμοὶ δοκεῖ.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l n="410">μὰ Δί' ἀλλ' ὅπερ πάλαι παρεςκευαζόμηn</l>
+					<l>ἐγώ, κατακλίνειν αὐτὸν εἰς ʼαςκληπιοῦ</l>
+					<l>κράτιςτόν ἐςτι.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l part="Y">πολὺ μὲν οὖν νὴ τοὺς θεούς.</l>
+					<l>μή νυν διάτριβ' ἀλλ' ἄνυε πράττων ἕν γέ τι.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>καὶ δὴ βαδίζω.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l part="Y">ςπεῦδέ νυν.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">τοῦτ' αὐτὸ δρῶ.</l>
+				</sp>
+				<sp who="#penia">
+					<speaker>Πενίa</speaker>
+					<l n="415">ὦ θερμὸν ἔργον κἀνόςιον καὶ παράνομοn</l>
+					<l>τολμῶντε δρᾶν ἀνθρωπαρίω κακοδαίμονε—</l>
+					<l>ποῖ ποῖ; τί φεύγετον; οὐ μενεῖτον;</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l part="Y">ʽηράκλεις.</l>
+					<milestone ed="p" n="418" unit="card"/>
+				</sp>
+				<sp who="#penia">
+					<speaker>Πενίa</speaker>
+					<l>ἐγὼ γὰρ ὑμᾶς ἐξολῶ κακοὺς κακῶς:</l>
+					<l>τόλμημα γὰρ τολμᾶτον οὐκ ἀναςχετόν,</l>
+					<l n="420">ἀλλ' οἷον οὐδεὶς ἄλλος οὐδεπώποτe</l>
+					<l>οὔτε θεὸς οὔτ' ἄνθρωπος: ὥςτ' ἀπολώλατον.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ςὺ δ' εἶ τίς; ὠχρὰ μὲν γὰρ εἶναί μοι δοκεῖς.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l>ἴςως ʼερινύς ἐςτιν ἐκ τραγῳδίας:</l>
+					<l>βλέπει γέ τοι μανικόν τι καὶ τραγῳδικόν.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l n="425">ἀλλ' οὐκ ἔχει γὰρ δᾷδας.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l part="Y">οὐκοῦν κλαύςεται.</l>
+				</sp>
+				<sp who="#penia">
+					<speaker>Πενίa</speaker>
+					<l>ὄιεςθε δ' εἶναι τίνα με;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">πανδοκεύτριαn</l>
+					<l>ἢ λεκιθόπωλιν. οὐ γὰρ ἂν τοςουτονι\</l>
+					<l>ἀνέκραγες ἡμῖν οὐδὲν ἠδικημένη.</l>
+				</sp>
+				<sp who="#penia">
+					<speaker>Πενίa</speaker>
+					<l>ἄληθες; οὐ γὰρ δεινότατα δεδράκατοn</l>
+					<l n="430">ζητοῦντες ἐκ πάςης με χώρας ἐκβαλεῖν;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>οὔκουν ὑπόλοιπον τὸ βάραθρόν ςοι γίγνεται;</l>
+					<l>ἀλλ' ἥτις εἶ λέγειν ς' ἐχρῆν αὐτίκα μάλα.</l>
+				</sp>
+				<sp who="#penia">
+					<speaker>Πενίa</speaker>
+					<l>ἣ ςφὼ ποιήςω τήμερον δοῦναι δίκηn</l>
+					<l>ἀνθ' ὧν ἐμὲ ζητεῖτον ἐνθένδ' ἀφανίςαι.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l n="435">ἆρ' ἐςτὶν ἡ καπηλὶς ἡκ τῶν γειτόνων,</l>
+					<l>ἣ ταῖς κοτύλαις ἀεί με διαλυμαίνεται;</l>
+				</sp>
+				<sp who="#penia">
+					<speaker>Πενίa</speaker>
+					<l>Πενία μὲν οὖν, ἣ ςφῷν ξυνοικῶ πόλλ' ἔτη.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l>ἄναξ ῎απολλον καὶ θεοί, ποῖ τις φύγῃ;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>οὗτος τί δρᾷς; ὦ δειλότατον ςὺ θηρίον:</l>
+					<l n="440">οὐ παραμενεῖς;</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l part="Y">ἥκιςτα πάντων.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">οὐ μενεῖς;</l>
+					<l>ἀλλ' ἄνδρε δύο γυναῖκα φεύγομεν μίαν;</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l>Πενία γάρ ἐςτιν ὦ πόνηρ', ἧς οὐδαμοῦ</l>
+					<l>οὐδὲν πέφυκε ζῷον ἐξωλέςτερον.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ςτῆθ', ἀντιβολῶ ςε, ςτῆθι.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l part="Y">μὰ Δί' ἐγὼ μὲν οὔ.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l n="445">καὶ μὴν λέγω, δεινότατον ἔργον παρὰ πολυ\</l>
+					<l>ἔργων ἁπάντων ἐργαςόμεθ', εἰ τὸν θεὸn</l>
+					<l>ἔρημον ἀπολιπόντε ποι φευξούμεθa</l>
+					<l>τηνδὶ δεδιότε, μηδὲ διαμαχούμεθα.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l>ποίοις ὅπλοιςιν ἢ δυνάμει πεποιθότες;</l>
+					<l n="450">ποῖον γὰρ οὐ θώρακα, ποίαν δ' ἀςπίδa</l>
+					<l>οὐκ ἐνέχυρον τίθηςιν ἡ μιαρωτάτη;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>θάρρει: μόνος γὰρ ὁ θεὸς οὗτος οἶδ' ὅτi</l>
+					<l>τροπαῖον ἂν ςτήςαιτο τῶν ταύτης τρόπων.</l>
+				</sp>
+				<sp who="#penia">
+					<speaker>Πενίa</speaker>
+					<l>γρύζειν δὲ καὶ τολμᾶτον ὦ καθάρματε,</l>
+					<l n="455">ἐπ' αὐτοφώρῳ δεινὰ δρῶντ' εἰλημμένω;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ςὺ δ' ὦ κάκιςτ' ἀπολουμένη τί λοιδορεῖ</l>
+					<l>ἡμῖν προςελθοῦς' οὐδ' ὁτιοῦν ἀδικουμένη;</l>
+				</sp>
+				<sp who="#penia">
+					<speaker>Πενίa</speaker>
+					<l>οὐδὲν γὰρ ὦ πρὸς τῶν θεῶν νομίζετe</l>
+					<l>ἀδικεῖν με τὸν Πλοῦτον ποιεῖν πειρωμένw</l>
+					<l n="460">βλέψαι πάλιν;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">τί οὖν ἀδικοῦμεν τοῦτό ςε,</l>
+					<l>εἰ πᾶςιν ἀνθρώποιςιν ἐκπορίζομεn</l>
+					<l>ἀγαθόν;</l>
+				</sp>
+				<sp who="#penia">
+					<speaker>Πενίa</speaker>
+					<l part="Y">τί δ' ἂν ὑμεῖς ἀγαθὸν ἐξεύροιθ';</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">ὅ τι;</l>
+					<l>ςὲ πρῶτον ἐκβαλόντες ἐκ τῆς ʽελλάδος.</l>
+				</sp>
+				<sp who="#penia">
+					<speaker>Πενίa</speaker>
+					<l>ἔμ' ἐκβαλόντες; καὶ τί ἂν νομίζετοn</l>
+					<l n="465">κακὸν ἐργάςαςθαι μεῖζον ἀνθρώπους;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">ὅ τι;</l>
+					<l>εἰ τοῦτο δρᾶν μέλλοντες ἐπιλαθοίμεθα.</l>
+					<milestone ed="p" n="467" unit="card"/>
+				</sp>
+				<sp who="#penia">
+					<speaker>Πενίa</speaker>
+					<l>καὶ μὴν περὶ τούτου ςφῷν ἐθέλω δοῦναι λόγοn</l>
+					<l>τὸ πρῶτον αὐτοῦ: κἂν μὲν ἀποφήνω μόνηn</l>
+					<l>ἀγαθῶν ἁπάντων οὖςαν αἰτίαν ἐμε\</l>
+					<l n="470">ὑμῖν δι' ἐμέ τε ζῶντας ὑμᾶς: εἰ δὲ μή,</l>
+					<l>ποιεῖτον ἤδη τοῦθ' ὅ τι ἂν ὑμῖν δοκῇ.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ταυτὶ ςὺ τολμᾷς ὦ μιαρωτάτη λέγειν;</l>
+				</sp>
+				<sp who="#penia">
+					<speaker>Πενίa</speaker>
+					<l>καὶ ςύ γε διδάςκου: πάνυ γὰρ οἶμαι ῥᾳδίωs</l>
+					<l>ἅπανθ' ἁμαρτάνοντά ς' ἀποδείξειν ἐγώ,</l>
+					<l n="475">εἰ τοὺς δικαίους φῂς ποιήςειν πλουςίους.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ὦ τύμπανα καὶ κύφωνες οὐκ ἀρήξετε;</l>
+				</sp>
+				<sp who="#penia">
+					<speaker>Πενίa</speaker>
+					<l>οὐ δεῖ ςχετλιάζειν καὶ βοᾶν πρὶν ἂν μάθῃς.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>καὶ τίς δύναιτ' ἂν μὴ βοᾶν ‘ἰοὺ ἰοὺ’</l>
+					<l>τοιαῦτ' ἀκούων;</l>
+				</sp>
+				<sp who="#penia">
+					<speaker>Πενίa</speaker>
+					<l part="Y">ὅςτις ἐςτὶν εὖ φρονῶν.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l n="480">τί δῆτά ςοι τίμημ' ἐπιγράψω τῇ δίκῃ,</l>
+					<l>ἐὰν ἁλῷς;</l>
+				</sp>
+				<sp who="#penia">
+					<speaker>Πενίa</speaker>
+					<l part="Y">ὅ τι ςοι δοκεῖ.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">καλῶς λέγεις.</l>
+				</sp>
+				<sp who="#penia">
+					<speaker>Πενίa</speaker>
+					<l>τὸ γὰρ αὔτ', ἐὰν ἡττᾶςθε, καὶ ςφὼ δεῖ παθεῖν.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ἱκανοὺς νομίζεις δῆτα θανάτους εἴκοςιν;</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l>ταύτῃ γε: νῷν δὲ δὔ ἀποχρήςουςιν μόνω.</l>
+				</sp>
+				<sp who="#penia">
+					<speaker>Πενίa</speaker>
+					<l n="485">οὐκ ἂν φθάνοιτον τοῦτο πράττοντ', ἢ τί γ' ἂn</l>
+					<l>ἔχοι τις ἂν δίκαιον ἀντειπεῖν ἔτι;</l>
+					<milestone ed="p" n="487" unit="card"/>
+				</sp>
+			</div1>
+			<div1 type="Agon">
+				<div2 met="anapests" type="katakeleusmenos">
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l n="487">ἀλλ' ἤδη χρῆν τι λέγειν ὑμᾶς ςοφὸν ᾧ νικήςετε τηνδι\</l>
+						<l>ἐν τοῖςι λόγοις ἀντιλέγοντες, μαλακὸν δ' ἐνδώςετε μηδέν.</l>
+						<milestone ed="p" n="489" unit="card"/>
+					</sp>
+				</div2>
+				<div2 met="anapests" type="epirrheme">
+					<sp who="#xremulos">
+						<speaker>Χρεμύλοs</speaker>
+						<l>φανερὸν μὲν ἔγωγ' οἶμαι γνῶναι τοῦτ' εἶναι πᾶςιν ὁμοίως,</l>
+						<l n="490">ὅτι τοὺς χρηςτοὺς τῶν ἀνθρώπων εὖ πράττειν ἐςτὶ δίκαιον,</l>
+						<l>τοὺς δὲ πονηροὺς καὶ τοὺς ἀθέους τούτων τἀναντία δήπου.</l>
+						<l>τοῦτ' οὖν ἡμεῖς ἐπιθυμοῦντες μόλις ηὕρομεν, ὥςτε γενέςθαi</l>
+						<l>βούλευμα καλὸν καὶ γενναῖον καὶ χρήςιμον εἰς ἅπαν ἔργον.</l>
+						<l>ἢν γὰρ ὁ Πλοῦτος νυνὶ βλέψῃ καὶ μὴ τυφλὸς ὢν περινοςτῇ,</l>
+						<l n="495">ὡς τοὺς ἀγαθοὺς τῶν ἀνθρώπων βαδιεῖται κοὐκ ἀπολείψει,</l>
+						<l>τοὺς δὲ πονηροὺς καὶ τοὺς ἀθέους φευξεῖται: κᾆτα ποιήςεi</l>
+						<l>πάντας χρηςτοὺς καὶ πλουτοῦντας δήπου τά τε θεῖα ςέβοντας.</l>
+						<l>καίτοι τούτου τοῖς ἀνθρώποις τίς ἂν ἐξεύροι ποτ' ἄμεινον;</l>
+					</sp>
+					<sp who="#bleyidhmos">
+						<speaker>Βλεψίδημοs</speaker>
+						<l>οὐδείς: τούτου μάρτυς ἐγώ ςοι: μηδὲν ταύτην γ' ἀνερώτα.</l>
+					</sp>
+					<sp who="#xremulos">
+						<speaker>Χρεμύλοs</speaker>
+						<l n="500">ὡς μὲν γὰρ νῦν ἡμῖν ὁ βίος τοῖς ἀνθρώποις διάκειται,</l>
+						<l>τίς ἂν οὐχ ἡγοῖτ' εἶναι μανίαν κακοδαιμονίαν τ' ἔτι μᾶλλον;</l>
+						<l>πολλοὶ μὲν γὰρ τῶν ἀνθρώπων ὄντες πλουτοῦςι πονηροί,</l>
+						<l>ἀδίκως αὐτὰ ξυλλεξάμενοι: πολλοὶ δ' ὄντες πάνυ χρηςτοι\</l>
+						<l>πράττουςι κακῶς καὶ πεινῶςιν μετὰ ςοῦ τε τὰ πλεῖςτα ςύνειςιν.</l>
+						<l n="505">οὔκουν εἶναί φημ', εἰ παύςει ταύτην βλέψας ποθ' ὁ Πλοῦτος,</l>
+						<l>ὁδὸν ἥντιν' ἰὼν τοῖς ἀνθρώποις ἀγάθ' ἄν μείζω πορίςειεν.</l>
+					</sp>
+					<sp who="#penia">
+						<speaker>Πενίa</speaker>
+						<l>ἀλλ' ὦ πάντων ῥᾷςτ' ἀνθρώπων ἀναπειςθέντ' οὐχ ὑγιαίνειn</l>
+						<l>δύο πρεςβύτα, ξυνθιαςώτα τοῦ ληρεῖν καὶ παραπαίειν,</l>
+						<l>εἰ τοῦτο γένοιθ' ὃ ποθεῖθ' ὑμεῖς, οὔ φημ' ἂν λυςιτελεῖν ςφῷν.</l>
+						<l n="510">εἰ γὰρ ὁ Πλοῦτος βλέψειε πάλιν διανείμειέν τ' ἴςον αὑτόν,</l>
+						<l>οὔτε τέχνην ἂν τῶν ἀνθρώπων οὔτ' ἂν ςοφίαν μελετῴh</l>
+						<l>οὐδείς: ἀμφοῖν δ' ὑμῖν τούτοιν ἀφανιςθέντοιν ἐθελήςεi</l>
+						<l>τίς χαλκεύειν ἢ ναυπηγεῖν ἢ ῥάπτειν ἢ τροχοποιεῖν,</l>
+						<l>ἢ ςκυτοτομεῖν ἢ πλινθουργεῖν ἢ πλύνειν ἢ ςκυλοδεψεῖν,</l>
+						<l n="515">ἢ γῆς ἀρότροις ῥήξας δάπεδον καρπὸν Δηοῦς θερίςαςθαι,</l>
+						<l>ἢν ἐξῇ ζῆν ἀργοῖς ὑμῖν πάντων ἀμελοῦςιν;</l>
+					</sp>
+					<sp who="#xremulos">
+						<speaker>Χρεμύλοs</speaker>
+						<l>λῆρον ληρεῖς. ταῦτα γὰρ ἡμῖν πάνθ' ὅςα νῦν δὴ κατέλεξαs</l>
+						<l>οἱ θεράποντες μοχθήςουςιν.</l>
+					</sp>
+					<sp who="#penia">
+						<speaker>Πενίa</speaker>
+						<l part="Y">πόθεν οὖν ἕξεις θεράποντας;</l>
+					</sp>
+					<sp who="#xremulos">
+						<speaker>Χρεμύλοs</speaker>
+						<l>ὠνηςόμεθ' ἀργυρίου δήπου.</l>
+					</sp>
+					<sp who="#penia">
+						<speaker>Πενίa</speaker>
+						<l part="Y">τίς δ' ἔςται πρῶτον ὁ πωλῶν,</l>
+						<l n="520">ὅταν ἀργύριον κἀκεῖνος ἔχῃ;</l>
+					</sp>
+					<sp who="#xremulos">
+						<speaker>Χρεμύλοs</speaker>
+						<l part="Y">κερδαίνειν βουλόμενός τιs</l>
+						<l>ἔμπορος ἥκων ἐκ Θετταλίας παρὰ πλείςτων ἀνδραποδιςτῶν.</l>
+					</sp>
+					<sp who="#penia">
+						<speaker>Πενίa</speaker>
+						<l>ἀλλ' οὐδ' ἔςται πρῶτον ἁπάντων οὐδεὶς οὐδ' ἀνδραποδιςτὴs</l>
+						<l>κατὰ τὸν λόγον ὃν ςὺ λέγεις δήπου. τίς γὰρ πλουτῶν ἐθελήςεi</l>
+						<l>κινδυνεύων περὶ τῆς ψυχῆς τῆς αὑτοῦ τοῦτο ποιῆςαι;</l>
+						<l n="525">ὥςτ' αὐτὸς ἀροῦν ἐπαναγκαςθεὶς καὶ ςκάπτειν τἄλλα τε μοχθεῖn</l>
+						<l>ὀδυνηρότερον τρίψεις βίοτον πολὺ τοῦ νῦν.</l>
+					</sp>
+					<sp who="#xremulos">
+						<speaker>Χρεμύλοs</speaker>
+						<l part="Y">ἐς κεφαλὴν ςοί.</l>
+					</sp>
+					<sp who="#penia">
+						<speaker>Πενίa</speaker>
+						<l>ἔτι δ' οὐχ ἕξεις οὔτ' ἐν κλίνῃ καταδαρθεῖν, οὐ γὰρ ἔςονται,</l>
+						<l>οὔτ' ἐν δάπιςιν: τίς γὰρ ὑφαίνειν ἐθελήςει χρυςίου ὄντος;</l>
+						<l>οὔτε μύροιςιν μυρίςαι ςτακτοῖς ὁπόταν νύμφην ἀγάγηςθον.</l>
+						<l n="530">οὔθ' ἱματίων βαπτῶν δαπάναις κοςμῆςαι ποικιλομόρφων.</l>
+						<l>καίτοι τί πλέον πλουτεῖν ἐςτιν τούτων πάντων ἀποροῦντας;</l>
+						<l>παρ' ἐμοῦ δ' ἔςτιν ταῦτ' εὔπορα πάνθ' ὑμῖν ὧν δείςθον: ἐγὼ γὰr</l>
+						<l>τὸν χειροτέχνην ὥςπερ δέςποιν' ἐπαναγκάζουςα κάθημαi</l>
+						<l>διὰ τὴν χρείαν καὶ τὴν πενίαν ζητεῖν ὁπόθεν βίον ἕξει.</l>
+						<milestone ed="p" n="535" unit="card"/>
+					</sp>
+					<sp who="#xremulos">
+						<speaker>Χρεμύλοs</speaker>
+						<l n="535">ςὺ γὰρ ἂν πορίςαι τί δύναι' ἀγαθὸν φῴδων ἐκ βαλανείοu</l>
+						<l>καὶ παιδαρίων ὑποπεινώντων καὶ γραι:δίων κολοςυρτόν;</l>
+						<l>φθειρῶν τ' ἀριθμὸν καὶ κωνώπων καὶ ψυλλῶν οὐδὲ λέγω ςοi</l>
+						<l>ὑπὸ τοῦ πλήθους, αἳ βομβοῦςαι περὶ τὴν κεφαλὴν ἀνιῶςιν,</l>
+						<l>ἐπεγείρουςαι καὶ φράζουςαι, ‘πεινήςεις, ἀλλ' ἐπανίςτω.’</l>
+						<l n="540">πρὸς δέ γε τούτοις ἀνθ' ἱματίου μὲν ἔχειν ῥάκος: ἀντὶ δὲ κλίνηs</l>
+						<l>ςτιβάδα ςχοίνων κόρεων μεςτήν, ἣ τοὺς εὕδοντας ἐγείρει:</l>
+						<l>καὶ φορμὸν ἔχειν ἀντὶ τάπητος ςαπρόν: ἀντὶ δὲ προςκεφαλαίοu</l>
+						<l>λίθον ἐυμεγέθη πρὸς τῇ κεφαλῇ: ςιτεῖςθαι δ' ἀντὶ μὲν ἄρτωn</l>
+						<l>μαλάχης πτόρθους, ἀντὶ δὲ μάζης φυλλεῖ' ἰςχνῶν ῥαφανίδων,</l>
+						<l n="545">ἀντὶ δὲ θράνους ςτάμνου κεφαλὴν κατεαγότος, ἀντὶ δὲ μάκτραs</l>
+						<l>φιδάκνης πλευρὰν ἐρρωγυῖαν καὶ ταύτην. ἆρά γε πολλῶn</l>
+						<l>ἀγαθῶν πᾶςιν τοῖς ἀνθρὠποις ἀποφαίνω ς' αἴτιον οὖςαν;</l>
+					</sp>
+					<sp who="#penia">
+						<speaker>Πενίa</speaker>
+						<l>ςὺ μὲν οὐ τὸν ἐμὸν βίον εἴρηκας, τὸν τῶν πτωχῶν δ' ὑπεκρούςω.</l>
+					</sp>
+					<sp who="#xremulos">
+						<speaker>Χρεμύλοs</speaker>
+						<l>οὐκοῦν δήπου τῆς Πτωχείας Πενίαν φαμὲν εἶναι ἀδελφήν.</l>
+					</sp>
+					<sp who="#penia">
+						<speaker>Πενίa</speaker>
+						<l n="550">ὑμεῖς γ' οἵπερ καὶ Θραςυβούλῳ Διονύςιον εἶναι ὅμοιον.</l>
+						<l>ἀλλ' οὐχ οὑμὸς τοῦτο πέπονθεν βίος οὐ μὰ Δί', οὐδέ γε μέλλει.</l>
+						<l>πτωχοῦ μὲν γὰρ βίος, ὃν ςὺ λέγεις, ζῆν ἐςτιν μηδὲν ἔχοντα:</l>
+						<l>τοῦ δὲ πένητος ζῆν φειδόμενον καὶ τοῖς ἔργοις προς έχοντα,</l>
+						<l>περιγίγνεςθαι δ' αὐτῷ μηδέν, μὴ μέντοι μηδ' ἐπιλείπειν.</l>
+					</sp>
+					<sp who="#xremulos">
+						<speaker>Χρεμύλοs</speaker>
+						<l n="555">ὡς μακαρίτην ὦ Δάματερ τὸν βίον αὐτοῦ κατέλεξας,</l>
+						<l>εἰ φειςάμενος καὶ μοχθήςας καταλείψει μηδὲ ταφῆναι.</l>
+					</sp>
+					<sp who="#penia">
+						<speaker>Πενίa</speaker>
+						<l>ςκώπτειν πειρᾷ καὶ κωμῳδεῖν τοῦ ςπουδάζειν ἀμελήςας,</l>
+						<l>οὐ γιγνώςκων ὅτι τοῦ Πλούτου παρέχω βελτίονας ἄνδραs</l>
+						<l>καὶ τὴν γνώμην καὶ τὴν ἰδέαν. παρὰ τῷ μὲν γὰρ ποδαγρῶντεs</l>
+						<l n="560">καὶ γαςτρώδεις καὶ παχύκνημοι καὶ πίονές εἰςιν ἀςελγῶς,</l>
+						<l>παρ' ἐμοὶ δ' ἰςχνοὶ καὶ ςφηκώδεις καὶ τοῖς ἐχθροῖς ἀνιαροί.</l>
+					</sp>
+					<sp who="#xremulos">
+						<speaker>Χρεμύλοs</speaker>
+						<l>ἀπὸ τοῦ λιμοῦ γὰρ ἴςως αὐτοῖς τὸ ςφηκῶδες ςὺ πορίζεις.</l>
+					</sp>
+					<sp who="#penia">
+						<speaker>Πενίa</speaker>
+						<l>περὶ ςωφροςύνης ἤδη τοίνυν περανῶ ςφῷν κἀναδιδάξw</l>
+						<l>ὅτι κοςμιότης οἰκεῖ μετ' ἐμοῦ, τοῦ Πλούτου δ' ἐςτὶι ὑβρίζειν.</l>
+					</sp>
+					<sp who="#xremulos">
+						<speaker>Χρεμύλοs</speaker>
+						<l n="565">πάνυ γοῦν κλέπτειν κόςμιόν ἐςτιν καὶ τοὺς τοίχους διορύττειν.</l>
+					</sp>
+					<sp who="#bleyidhmos">
+						<speaker>Βλεψίδημοs</speaker>
+						<l>†νὴ τὸν Δί', εἰ δεῖ λαθεῖν αὐτόν, πῶς οὐχὶ κόςμιόν ἐςτι;†</l>
+					</sp>
+					<sp who="#penia">
+						<speaker>Πενίa</speaker>
+						<l>ςκέψαι τοίνυν ἐν ταῖς πόλεςιν τοὺς ῥήτορας, ὡς ὁπόταν μὲn</l>
+						<l>ὦςι πένητες, περὶ τὸν δῆμον καὶ τὴν πόλιν εἰςὶ δίκαιοι,</l>
+						<l>πλουτήςαντες δ' ἀπὸ τῶν κοινῶν παραχρῆμ' ἄδικοι γεγένηνται,</l>
+						<l n="570">ἐπιβουλεύουςί τε τῷ πλήθει καὶ τῷ δήμῳ πολεμοῦςιν.</l>
+					</sp>
+					<sp who="#xremulos">
+						<speaker>Χρεμύλοs</speaker>
+						<l>ἀλλ' οὐ ψεύδει τούτων γ' οὐδέν, καίπερ ςφόδρα βάςκανος οὖςα.</l>
+						<l>ἀτὰρ οὐχ ἧττόν γ' οὐδὲν κλαύςει, μηδὲν ταύτῃ γε κομήςῃς,</l>
+						<l>ὁτιὴ ζητεῖς τοῦτ' ἀναπείθειν ἡμᾶς, ὡς ἔςτιν ἄμεινοn</l>
+						<l>Πενία Πλούτου.</l>
+					</sp>
+					<sp who="#penia">
+						<speaker>Πενίa</speaker>
+						<l part="Y">καὶ ςύ γ' ἐλέγξαι μ' οὔπω δύναςαι περὶ τούτου,</l>
+						<l n="575">ἀλλὰ φλυαρεῖς καὶ πτερυγίζεις.</l>
+					</sp>
+					<sp who="#xremulos">
+						<speaker>Χρεμύλοs</speaker>
+						<l part="Y">καὶ πῶς φεύγουςί ς' ἅπαντες;</l>
+					</sp>
+					<sp who="#penia">
+						<speaker>Πενίa</speaker>
+						<l>ὅτι βελτίους αὐτοὺς ποιῶ. ςκέψαςθαι δ' ἔςτι μάλιςτa</l>
+						<l>ἀπὸ τῶν παίδων: τοὺς γὰρ πατέρας φεύγουςι φρονοῦντας ἄριςτa</l>
+						<l>αὐτοῖς. οὕτω διαγιγνώςκειν χαλεπὸν πρᾶγμ' ἐςτὶ δίκαιον.</l>
+					</sp>
+					<sp who="#xremulos">
+						<speaker>Χρεμύλοs</speaker>
+						<l>τὸν Δία φήςεις ἆρ' οὐκ ὀρθῶς διαγιγνώςκειν τὸ κράτιςτον:</l>
+						<l n="580">κἀκεῖνος γὰρ τὸν Πλοῦτον ἔχει.</l>
+					</sp>
+					<sp who="#bleyidhmos">
+						<speaker>Βλεψίδημοs</speaker>
+						<l part="Y">ταύτην δ' ἡμῖν ἀποπέμπει.</l>
+					</sp>
+					<sp who="#penia">
+						<speaker>Πενίa</speaker>
+						<l>ἀλλ' ὦ Κρονικαῖς λήμαις ὄντως λημῶντες τὰς φρένας ἄμφω,</l>
+						<l>ὁ Ζεὺς δήπου πένεται, καὶ τοῦτ' ἤδη φανερῶς ςε διδάξω.</l>
+						<l>εἰ γὰρ ἐπλούτει, πῶς ἂν ποιῶν τὸν ʼολυμπικὸν αὐτὸς ἀγῶνa</l>
+						<l>ἵνα τοὺς ῞ελληνας ἅπαντας ἀεὶ δι' ἔτους πέμπτου ξυναγείρει,</l>
+						<l n="585">ἀνεκήρυττεν τῶν ἀςκητῶν τοὺς νικῶντας ςτεφανώςαs</l>
+						<l>κοτίνου ςτεφάνῳ; καίτοι χρυςῷ μᾶλλον ἐχρῆν, εἴπερ ἐπλούτει.</l>
+					</sp>
+					<sp who="#xremulos">
+						<speaker>Χρεμύλοs</speaker>
+						<l>οὐκοῦν τούτῳ δήπου δηλοῖ τιμῶν τὸν Πλοῦτον ἐκεῖνος:</l>
+						<l>φειδόμενος γὰρ καὶ βουλόμενος τούτου μηδὲν δαπανᾶςθαι,</l>
+						<l>λήροις ἀναδῶν τοὺς νικῶντας τὸν Πλοῦτον ἐᾷ παρ' ἑαυτῷ.</l>
+					</sp>
+					<sp who="#penia">
+						<speaker>Πενίa</speaker>
+						<l n="590">πολὺ τῆς Πενίας πρᾶγμ' αἴςχιον ζητεῖς αὐτῷ περιάψαι,</l>
+						<l>εἰ πλούςιος ὢν ἀνελεύθερός ἐςθ' οὑτωςὶ καὶ φιλοκερδής.</l>
+					</sp>
+					<sp who="#xremulos">
+						<speaker>Χρεμύλοs</speaker>
+						<l>ἀλλὰ ςέ γ' ὁ Ζεὺς ἐξολέςειεν κοτίνου ςτεφάνῳ ςτεφανώςας.</l>
+					</sp>
+					<sp who="#penia">
+						<speaker>Πενίa</speaker>
+						<l>τὸ γὰρ ἀντιλέγειν τολμᾶν ὑμᾶς ὡς οὐ πάντ' ἔςτ' ἀγάθ' ὑμῖn</l>
+						<l>διὰ τὴν Πενίαν.</l>
+					</sp>
+					<sp who="#xremulos">
+						<speaker>Χρεμύλοs</speaker>
+						<l part="Y">παρὰ τῆς ʽεκάτης ἔξεςτιν τοῦτο πυθέςθαι,</l>
+						<l n="595">εἴτε τὸ πλουτεῖν εἴτε τὸ πεινῆν βέλτιον. φηςὶ γὰρ αὕτh</l>
+						<l>τοὺς μὲν ἔχοντας καὶ πλουτοῦντας δεῖπνον κατὰ μῆν' ἀποπέμπειν,</l>
+						<l>τοὺς δὲ πένητας τῶν ἀνθρώπων ἁρπάζειν πρὶν καταθεῖναι.</l>
+						<milestone ed="p" n="598" unit="card"/>
+					</sp>
+				</div2>
+				<div2 type="pnigos">
+					<sp who="#xremulos">
+						<speaker>Χρεμύλοs</speaker>
+						<l>ἀλλὰ φθείρου καὶ μὴ γρύξῃs</l>
+						<l>ἔτι μηδ' ὁτιοῦν.</l>
+						<l n="600">οὐ γὰρ πείςεις, οὐδ' ἢν πείςῃς.</l>
+					</sp>
+					<sp who="#penia">
+						<speaker>Πενίa</speaker>
+						<l>ὦ πόλις ῎αργους, κλύεθ' οἷα λέγει.</l>
+					</sp>
+					<sp who="#xremulos">
+						<speaker>Χρεμύλοs</speaker>
+						<l>Παύςωνα κάλει τὸν ξύςςιτον.</l>
+					</sp>
+					<sp who="#penia">
+						<speaker>Πενίa</speaker>
+						<l>τί πάθω τλήμων;</l>
+					</sp>
+					<sp who="#xremulos">
+						<speaker>Χρεμύλοs</speaker>
+						<l>ἔρρ' ἐς κόρακας θᾶττον ἀφ' ἡμῶν.</l>
+					</sp>
+					<sp who="#penia">
+						<speaker>Πενίa</speaker>
+						<l n="605">εἶμι δὲ ποῖ γῆς;</l>
+					</sp>
+					<sp who="#xremulos">
+						<speaker>Χρεμύλοs</speaker>
+						<l>ἐς τὸν κύφων': ἀλλ' οὐ μέλλειn</l>
+						<l>χρῆν ς', ἀλλ' ἀνύειν.</l>
+					</sp>
+					<sp who="#penia">
+						<speaker>Πενίa</speaker>
+						<l>ἦ μὴν ὑμεῖς γ' ἔτι μ' ἐνταυθοῖ</l>
+						<l>μεταπέμψεςθον.</l>
+					</sp>
+					<sp who="#xremulos">
+						<speaker>Χρεμύλοs</speaker>
+						<l n="610">τότε νοςτήςεις: νῦν δὲ φθείρου.</l>
+						<l>κρεῖττον γάρ μοι πλουτεῖν ἐςτίν,</l>
+						<l>ςὲ δ' ἐᾶν κλάειν μακρὰ τὴν κεφαλήν.</l>
+					</sp>
+					<sp who="#bleyidhmos">
+						<speaker>Βλεψίδημοs</speaker>
+						<l>νὴ Δί' ἐγὼ γοῦν ἐθέλω πλουτῶn</l>
+						<l>εὐωχεῖςθαι μετὰ τῶν παίδωn</l>
+						<l n="615">τῆς τε γυναικός, καὶ λουςάμενοs</l>
+						<l>λιπαρὸς χωρῶν ἐκ βαλανείοu</l>
+						<l>τῶν χειροτεχνῶn</l>
+						<l>καὶ τῆς Πενίας καταπαρδεῖν.</l>
+					</sp>
+				</div2>
+			</div1>
+			<div1 type="Episode">
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>αὕτη μὲν ἡμῖν ἡπίτριπτος οἴχεται.</l>
+					<l n="620">ἐγὼ δὲ καὶ ςύ γ' ὡς τάχιοτα τὸν θεὸn</l>
+					<l>ἐγκατακλινοῦντ' ἄγωμεν εἰς ʼαςκληπιοῦ.</l>
+				</sp>
+				<sp who="#bleyidhmos">
+					<speaker>Βλεψίδημοs</speaker>
+					<l>καὶ μὴ διατρίβωμέν γε, μὴ πάλιν τις αὖ</l>
+					<l>ἐλθὼν διακωλύςῃ τι τῶν προὔργου ποιεῖν.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>παῖ Καρίων τὰ ςτρώματ' ἐκφέρειν ς' ἐχρῆn</l>
+					<l n="625">αὐτόν τ' ἄγειν τὸν Πλοῦτον, ὡς νομίζεται,</l>
+					<l>καὶ τἄλλ' ὅς' ἐςτὶν ἔνδον ηὐτρεπιςμένα.</l>
+					<milestone ed="p" n="627" unit="card"/>
+				</sp>
+				<stage>Χοροῦ</stage>
+			</div1>
+			<div1 type="Episode">
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ὦ πλεῖςτα Θηςείοις μεμυςτιλημένοi</l>
+					<l>γέροντες ἄνδρες ἐπ' ὀλιγίςτοις ἀλφίτοις,</l>
+					<l>ὡς εὐτυχεῖθ', ὡς μακαρίως πεπράγατε,</l>
+					<l n="630">ἄλλοι θ' ὅςοις μέτεςτι τοῦ χρηςτοῦ τρόπου.</l>
+				</sp>
+				<sp who="#xoros">
+					<speaker>Χορόs</speaker>
+					<l>τί δ' ἔςτιν ὦ βέλτιςτε τῶν ςαυτοῦ φίλων;</l>
+					<l>φαίνει γὰρ ἥκειν ἄγγελος χρηςτοῦ τινος.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ὁ δεςπότης πέπραγεν εὐτυχέςτατα,</l>
+					<l>μᾶλλον δ' ὁ Πλοῦτος αὐτός: ἀντὶ γὰρ τυφλοῦ</l>
+					<l n="635">ἐξωμμάτωται καὶ λελάμπρυνται κόρας,</l>
+					<l>ʼαςκληπιοῦ παιῶνος εὐμενοῦς τυχών.</l>
+				</sp>
+				<sp who="#xoros">
+					<speaker>Χορόs</speaker>
+					<l>λέγεις μοι χαράν, λέγεις μοι βοάν.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>πάρεςτι χαίρειν, ἤν τε βούληςθ' ἤν τε μή.</l>
+				</sp>
+				<sp who="#xoros">
+					<speaker>Χορόs</speaker>
+					<l>ἀναβοάςομαι τὸν εὔπαιδα και\</l>
+					<l n="640">μέγα βροτοῖςι φέγγος ʼαςκληπιόν.</l>
+				</sp>
+				<sp who="#gunh">
+					<speaker>Γυνη/</speaker>
+					<l>τίς ἡ βοή ποτ' ἐςτίν; ἆρ' ἀγγέλλεταi</l>
+					<l>χρηςτόν τι; τοῦτο γὰρ ποθοῦς' ἐγὼ πάλαi</l>
+					<l>ἔνδον κάθημαι περιμένουςα τουτονί.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ταχέως ταχέως φέρ' οἶνον ὦ δέςποιν', ἵνa</l>
+					<l n="645">καὐτὴ πίῃς: φιλεῖς δὲ δρῶς' αὐτὸ ςφόδρα:</l>
+					<l>ὡς ἀγαθὰ ςυλλήβδην ἅπαντά ςοι φέρω.</l>
+				</sp>
+				<sp who="#gunh">
+					<speaker>Γυνη/</speaker>
+					<l>καὶ ποῦ ςτιν;</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">ἐν τοῖς λεγομένοις εἴςει τάχα.</l>
+				</sp>
+				<sp who="#gunh">
+					<speaker>Γυνη/</speaker>
+					<l>πέραινε τοίνυν ὅ τι λέγεις ἀνύςας ποτέ.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ἄκουε τοίνυν, ὡς ἐγὼ τὰ πράγματa</l>
+					<l n="650">ἐκ τῶν ποδῶν ἐς τὴν κεφαλήν ςοι πάντ' ἐρῶ.</l>
+					<milestone ed="p" n="651" unit="card"/>
+				</sp>
+				<sp who="#gunh">
+					<speaker>Γυνη/</speaker>
+					<l>μὴ δῆτ' ἔμοιγ' ἐς τὴν κεφαλήν.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">μὴ τἀγαθα\</l>
+					<l>ἃ νῦν γεγένηται;</l>
+				</sp>
+				<sp who="#gunh">
+					<speaker>Γυνη/</speaker>
+					<l part="Y">μὴ μὲν οὖν τὰ πράγματα.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ὡς γὰρ τάχιςτ' ἀφικόμεθα πρὸς τὸν θεὸn</l>
+					<l>ἄγοντες ἄνδρα τότε μὲν ἀθλιώτατοn</l>
+					<l n="655">νῦν δ' εἴ τιν' ἄλλον μακάριον κεὐδαίμονα,</l>
+					<l>πρῶτον μὲν αὐτὸν ἐπὶ θάλατταν ἤγομεν,</l>
+					<l>ἔπειτ' ἐλοῦμεν.</l>
+				</sp>
+				<sp who="#gunh">
+					<speaker>Γυνη/</speaker>
+					<l part="Y">νὴ Δί' εὐδαίμων ἄρ' ἦn</l>
+					<l>ἀνὴρ γέρων ψυχρᾷ θαλάττῃ λούμενος.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ἔπειτα πρὸς τὸ τέμενος ᾖμεν τοῦ θεοῦ.</l>
+					<l n="660">ἐπεὶ δὲ βωμῷ πόπανα καὶ προθύματa</l>
+					<l>καθωςιώθη πέλανος ʽηφαίςτου φλογί,</l>
+					<l>κατεκλίναμεν τὸν Πλοῦτον, ὥςπερ εἰκὸς ἦν:</l>
+					<l>ἡμῶν δ' ἕκαςτος ςτιβάδα παρεκαττύετο.</l>
+				</sp>
+				<sp who="#gunh">
+					<speaker>Γυνη/</speaker>
+					<l>ἦςαν δέ τινες κἄλλοι δεόμενοι τοῦ θεοῦ;</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l n="665">εἷς μέν γε Νεοκλείδης, ὅς ἐςτι μὲν τυφλός,</l>
+					<l>κλέπτων δὲ τοὺς βλέποντας ὑπερηκόντικεν:</l>
+					<l>ἕτεροί τε πολλοὶ παντοδαπὰ νοςήματa</l>
+					<l>ἔχοντες: ὡς δὲ τοὺς λύχνους ἀποςβέςαs</l>
+					<l>ἡμῖν παρήγγειλεν καθεύδειν τοῦ θεοῦ</l>
+					<l n="670">ὁ πρόπολος, εἰπών, ἤν τις αἴςθηται ψόφοu</l>
+					<l>ςιγᾶν, ἅπαντες κοςμίως κατεκείμεθα.</l>
+					<l>κἀγὼ καθεύδειν οὐκ ἐδυνάμην, ἀλλά μe</l>
+					<l>ἀθάρης χύτρα τις ἐξέπληττε κειμένh</l>
+					<l>ὀλίγον ἄπωθεν τῆς κεφαλῆς του γρᾳδίου,</l>
+					<l n="675">ἐφ' ἣν ἐπεθύμουν δαιμονίως ἐφερπύςαι.</l>
+					<l>ἔπειτ' ἀναβλέψας ὁρῶ τὸν ἱερέa</l>
+					<l>τοὺς φθοῖς ἀφαρπάζοντα καὶ τὰς ἰςχάδαs</l>
+					<l>ἀπὸ τῆς τραπέζης τῆς ἱερᾶς: μετὰ τοῦτο δε\</l>
+					<l>περιῆλθε τοὺς βωμοὺς ἅπαντας ἐν κύκλῳ,</l>
+					<l n="680">εἴ που πόπανον εἴη τι καταλελειμμένον:</l>
+					<l>ἔπειτα ταῦθ' ἥγιζεν ἐς ςάκταν τινά.</l>
+					<l>κἀγὼ νομίςας πολλὴν ὁςίαν τοῦ πράγματοs</l>
+					<l>ἐπὶ τὴν χύτραν τῆς ἀθάρης ἀνίςταμαι.</l>
+				</sp>
+				<sp who="#gunh">
+					<speaker>Γυνη/</speaker>
+					<l>ταλάντατ' ἀνδρῶν οὐκ ἐδεδοίκεις τὸν θεόν;</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l n="685">νὴ τοὺς θεοὺς ἔγωγε μὴ φθάςειέ μe</l>
+					<l>ἐπὶ τὴν χύτραν ἐλθὼν ἔχων τὰ ςτέμματα:</l>
+					<l>ὁ γὰρ ἱερεὺς αὐτοῦ με προὐδιδάξατο.</l>
+					<l>τὸ γρᾴδιον δ' ὡς ᾔςθετο δή μου τὸν ψόφον,</l>
+					<l>ἄρας' ὑφῄρει: κᾆτα ςυρίξας ἐγω\</l>
+					<l n="690">ὀδὰξ ἐλαβόμην ὡς παρείας ὢν ὄφις.</l>
+					<l>ἡ δ' εὐθέως τὴν χεῖρα πάλιν ἀνέςπαςεν,</l>
+					<l>κατέκειτο δ' αὑτὴν ἐντυλίξας' ἡςυͺχῆ</l>
+					<l>ὑπὸ τοῦ δέους βδέουςα δριμύτερον γαλῆς.</l>
+					<l>κἀγὼ τότ' ἤδη τῆς ἀθάρης πολλὴν ἔφλων:</l>
+					<l n="695">ἔπειτ' ἐπειδὴ μεςτὸς ἦν, ἀνεπαλλόμην.</l>
+					<milestone ed="p" n="696" unit="card"/>
+				</sp>
+				<sp who="#gunh">
+					<speaker>Γυνη/</speaker>
+					<l>ὁ δὲ θεὸς ὑμῖν οὐ προςῄειν;</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">οὐδέπω.</l>
+					<l>μετὰ τοῦτο δ' ἤδη καὶ γέλοιον δῆτά τi</l>
+					<l>ἐποίηςα. προςιόντος γὰρ αὐτοῦ μέγα πάνu</l>
+					<l>ἀπέπαρδον: ἡ γαςτὴρ γὰρ ἐπεφύςητό μου.</l>
+				</sp>
+				<sp who="#gunh">
+					<speaker>Γυνη/</speaker>
+					<l n="700">ἦ πού ςε διὰ τοῦτ' εὐθὺς ἐβδελύττετο.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>οὔκ, ἀλλ' ʼιαςὼ μέν τις ἀκολουθοῦς' ἅμa</l>
+					<l>ὑπηρυθρίαςε χἠ Πανάκει' ἀπεςτράφh</l>
+					<l>τὴν ῥῖν' ἐπιλαβοῦς': οὐ λιβανωτὸν γὰρ βδέω.</l>
+				</sp>
+				<sp who="#gunh">
+					<speaker>Γυνη/</speaker>
+					<l>αὐτὸς δ' ἐκεῖνος;</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">οὐ μὰ Δί' οὐδ' ἐφρόντιςεν.</l>
+				</sp>
+				<sp who="#gunh">
+					<speaker>Γυνη/</speaker>
+					<l n="705">λέγεις ἄγροικον ἄρα ςύ γ' εἶναι τὸν θεόν.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>μὰ Δί' οὐκ ἔγωγ', ἀλλὰ ςκατοφάγον.</l>
+				</sp>
+				<sp who="#gunh">
+					<speaker>Γυνη/</speaker>
+					<l part="Y">αἲ τάλαν.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>μετὰ ταῦτ' ἐγὼ μὲν εὐθὺς ἐνεκαλυψάμηn</l>
+					<l>δείςας, ἐκεῖνος δ' ἐν κύκλῳ τὰ νοςήματa</l>
+					<l>ςκοπῶν περιῄει πάντα κοςμίως πάνυ.</l>
+					<l n="710">ἔπειτα παῖς αὐτῷ λίθινον θυείδιοn</l>
+					<l>παρέθηκε καὶ δοίδυκα καὶ κιβώτιον.</l>
+				</sp>
+				<sp who="#gunh">
+					<speaker>Γυνη/</speaker>
+					<l>λίθινον;</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">μὰ Δί' οὐ δῆτ' οὐχὶ τό γε κιβώτιον.</l>
+				</sp>
+				<sp who="#gunh">
+					<speaker>Γυνη/</speaker>
+					<l>ςὺ δὲ πῶς ἑώρας ὦ κάκιςτ' ἀπολούμενε,</l>
+					<l>ὃς ἐγκεκαλύφθαι φῄς;</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">διὰ τοῦ τριβωνίου:</l>
+					<l n="715">ὀπὰς γὰρ εἶχεν οὐκ ὀλίγας μὰ τὸν Δία.</l>
+					<l>πρῶτον δὲ πάντων τῷ Νεοκλείδῃ φάρμακοn</l>
+					<l>καταπλαςτὸν ἐνεχείρηςε τρίβειν, ἐμβαλὼn</l>
+					<l>ςκορόδων κεφαλὰς τρεῖς Τηνίων. ἔπειτ' ἔφλa</l>
+					<l>ἐν τῇ θυείᾳ ςυμπαραμιγνύων ὀπὸn</l>
+					<l n="720">καὶ ςχῖνον: εἶτ' ὄξει διέμενος Σφηττͺίω</l>
+					<l>κατέπλαςεν αὐτοῦ τὰ βλέφαρ' ἐκςτρέψας, ἵνa</l>
+					<l>ὀδυνῷτο μᾶλλον. ὁ δὲ κεκραγὼς καὶ βοῶn</l>
+					<l>ἔφευγ' ἀνᾴξας: ὁ δὲ θεὸς γελάςας ἔφη:</l>
+					<l>‘ἐνταῦθα νῦν κάθηςο καταπεπλαςμένος,</l>
+					<l n="725">ἵν' ὑπομνύμενον παύςω ςε τὰς ἐκκληςίας.’</l>
+				</sp>
+				<sp who="#gunh">
+					<speaker>Γυνη/</speaker>
+					<l>ὡς φιλόπολίς τίς ἐςθ' ὁ δαίμων καὶ ςοφός.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>μετὰ τοῦτο τῷ Πλούτωνι παρεκαθέζετο,</l>
+					<l>καὶ πρῶτα μὲν δὴ τῆς κεφαλῆς ἐφήψατο,</l>
+					<l>ἔπειτα καθαρὸν ἡμιτύβιον λαβὼn</l>
+					<l n="730">τὰ βλέφαρα περιέψηςεν: ἡ Πανάκεια δε\</l>
+					<l>κατεπέτας' αὐτοῦ τὴν κεφαλὴν φοινικίδi</l>
+					<l>καὶ πᾶν τὸ πρόςωπον: εἶθ' ὁ θεὸς ἐπόππυςεν.</l>
+					<l>ἐξῃξάτην οὖν δύο δράκοντ' ἐκ τοῦ νεω\</l>
+					<l>ὑπερφυεῖς τὸ μέγεθος.</l>
+				</sp>
+				<sp who="#gunh">
+					<speaker>Γυνη/</speaker>
+					<l part="Y">ὦ φίλοι θεοί.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l n="735">τούτω δ' ὑπὸ τὴν φοινικίδ' ὑποδύνθ' ἡςυͺχῆ</l>
+					<l>τὰ βλέφαρα περιέλειχον, ὥς γ' ἐμοὶ δοκεῖ:</l>
+					<l>καὶ πρίν ςε κοτύλας ἐκπιεῖν οἴνου δέκα,</l>
+					<l>ὁ Πλοῦτος ὦ δέςποιν' ἀνειςτήκει βλέπων:</l>
+					<l>ἐγὼ δὲ τὼ χεῖρ' ἀνεκρότης' ὑφ' ἡδονῆs</l>
+					<l n="740">τὸν δεςπότην τ' ἤγειρον. ὁ θεὸς δ' εὐθέωs</l>
+					<l>ἠφάνιςεν αὑτὸν οἵ τ' ὄφεις ἐς τὸν νεών.</l>
+					<l>οἱ δ' ἐγκατακείμενοι παρ' αὐτῷ πῶς δοκεῖs</l>
+					<l>τὸν Πλοῦτον ἠςπάζοντο καὶ τὴν νύχθ' ὅληn</l>
+					<l>ἐγρηγόρεςαν, ἕως διέλαμψεν ἡμέρα.</l>
+					<l n="745">ἐγὼ δ' ἐπῄνουν τὸν θεὸν πάνυ ςφόδρα,</l>
+					<l>ὅτι βλέπειν ἐποίηςε τὸν Πλοῦτον ταχύ,</l>
+					<l>τὸν δὲ Νεοκλείδην μᾶλλον ἐποίηςεν τυφλόν.</l>
+					<milestone ed="p" n="748" unit="card"/>
+				</sp>
+				<sp who="#gunh">
+					<speaker>Γυνη/</speaker>
+					<l>ὅςην ἔχεις τὴν δύναμιν ὦναξ δέςποτα.</l>
+					<l>ἀτὰρ φράςον μοι, ποῦ' ςθ' ὁ Πλοῦτος;</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">ἔρχεται.</l>
+					<l n="750">ἀλλ' ἦν περὶ αὐτὸν ὄχλος ὑπερφυὴς ὅςος.</l>
+					<l>οἱ γὰρ δίκαιοι πρότερον ὄντες καὶ βίοn</l>
+					<l>ἔχοντες ὀλίγον αὐτὸν ἠςπάζοντο και\</l>
+					<l>ἐδεξιοῦνθ' ἅπαντες ὑπὸ τῆς ἡδονῆς:</l>
+					<l>ὅςοι δ' ἐπλούτουν οὐςίαν τ' εἶχον ςυχνὴn</l>
+					<l n="755">οὐκ ἐκ δικαίου τὸν βίον κεκτημένοι,</l>
+					<l>ὀφρῦς ξυνῆγον ἐςκυθρώπαζόν θ' ἅμα.</l>
+					<l>οἱ δ' ἠκολούθουν κατόπιν ἐςτεφανωμένοi</l>
+					<l>γελῶντες εὐφημοῦντες: ἐκτυπεῖτο δε\</l>
+					<l>ἐμβὰς γερόντων εὐρύθμοις προβήμαςιν.</l>
+					<l n="760">ἀλλ' εἶ' ἁπαξάπαντες ἐξ ἑνὸς λόγοu</l>
+					<l>ὀρχεῖςθε καὶ ςκιρτᾶτε καὶ χορεύετε:</l>
+					<l>οὐδεὶς γὰρ ὑμῖν εἰςιοῦςιν ἀγγελεῖ,</l>
+					<l>ὡς ἄλφιτ' οὐκ ἔνεςτιν ἐν τῷ θυλάκῳ.</l>
+				</sp>
+				<sp who="#gunh">
+					<speaker>Γυνη/</speaker>
+					<l>νὴ τὴν ʽεκάτην κἀγὼ δ' ἀναδῆςαι βούλομαi</l>
+					<l n="765">εὐαγγέλιά ςε κριβανωτῶν ὁρμαͺθῶ</l>
+					<l>τοιαῦτ' ἀπαγγείλαντα.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">μή νυν μέλλ' ἔτι,</l>
+					<l>ὡς ἅνδρες ἐγγύς εἰςιν ἤδη τῶν θυρῶν.</l>
+				</sp>
+				<sp who="#gunh">
+					<speaker>Γυνη/</speaker>
+					<l>φέρε νυν ἰοῦς' εἴςω κομίςω καταχύςματa</l>
+					<l>ὥςπερ νεωνήτοιςιν ὀφθαλμοῖς ἐγώ.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l n="770">ἐγὼ δ' ἀπαντῆςαί γ' ἐκείνοις βούλομαι.</l>
+					<milestone ed="p" n="771" unit="card"/>
+				</sp>
+				<stage>Κομμάτιον Χοροῦ</stage>
+			</div1>
+			<div1 type="Episode">
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l>καὶ προςκυνῶ γε πρῶτα μὲν τὸν ἥλιον,</l>
+					<l>ἔπειτα ςεμνῆς Παλλάδος κλεινὸν πέδοn</l>
+					<l>χώραν τε πᾶςαν Κέκροπος ἥ μ' ἐδέξατο.</l>
+					<l>αἰςχύνομαι δὲ τὰς ἐμαυτοῦ ςυμφοράς,</l>
+					<l n="775">οἵοις ἄρ' ἀνθρώποις ξυνὼν ἐλάνθανον,</l>
+					<l>τοὺς ἀξίους δὲ τῆς ἐμῆς ὁμιλίαs</l>
+					<l>ἔφευγον, εἰδὼς οὐδέν: ὦ τλήμων ἐγώ,</l>
+					<l>ὡς οὔτ' ἐκεῖν' ἄρ' οὔτε ταῦτ' ὀρθῶς ἔδρων:</l>
+					<l>ἀλλ' αὐτὰ πάντα πάλιν ἀναςτρέψας ἐγω\</l>
+					<l n="780">δείξω τὸ λοιπὸν πᾶςιν ἀνθρώποις ὅτi</l>
+					<l>ἄκων ἐμαυτὸν τοῖς πονηροῖς ἐπεδίδουν.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>βάλλ' ἐς κόρακας: ὡς χαλεπόν εἰςιν οἱ φίλοi</l>
+					<l>οἱ φαινόμενοι παραχρῆμ' ὅταν πράττῃ τις εὖ.</l>
+					<l>νύττουςι γὰρ καὶ φλῶςι τἀντικνήμια,</l>
+					<l n="785">ἐνδεικνύμενος ἔκαςτος εὔνοιάν τινα.</l>
+					<l>ἐμὲ γὰρ τίς οὐ προςεῖπε; ποῖος οὐκ ὄχλοs</l>
+					<l>περιεςτεφάνωςεν ἐν ἀγορᾷ πρεςβυτικός;</l>
+				</sp>
+				<sp who="#gunh">
+					<speaker>Γυνη/</speaker>
+					<l>ὦ φίλτατ' ἀνδρῶν καὶ ςὺ καὶ ςὺ χαίρετε.</l>
+					<l>φέρε νυν, νόμος γάρ ἐςτι, τὰ καταχύςματa</l>
+					<l n="790">ταυτὶ καταχέω ςου λαβοῦςα.</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l part="Y">μηδαμῶς.</l>
+					<l>ἐμοῦ γὰρ εἰςιόντος ἐς τὴν οἰκίαn</l>
+					<l>πρώτιςτα καὶ βλέψαντος οὐδὲν ἐκφέρειn</l>
+					<l>πρεπῶδές ἐςτιν, ἀλλὰ μᾶλλον ἐςφέρειν.</l>
+				</sp>
+				<sp who="#gunh">
+					<speaker>Γυνη/</speaker>
+					<l>εἶτ' οὐχὶ δέξει δῆτα τὰ καταχύςματα;</l>
+				</sp>
+				<sp who="#ploutos">
+					<speaker>Πλοῦτοs</speaker>
+					<l n="795">ἔνδον γε παρὰ τὴν ἑςτίαν, ὥςπερ νόμος:</l>
+					<l>ἔπειτα καὶ τὸν φόρτον ἐκφύγοιμεν ἄν.</l>
+					<l>οὐ γὰρ πρεπῶδές ἐςτι τῷ διδαςκάͺλω</l>
+					<l>ἰςχάδια καὶ τρωγάλια τοῖς θεωμένοιs</l>
+					<l>προβαλόντ' ἐπὶ τούτοις εἶτ' ἀναγκάζειν γελᾶν.</l>
+				</sp>
+				<sp who="#gunh">
+					<speaker>Γυνη/</speaker>
+					<l n="800">εὖ πάνυ λέγεις: ὡς Δεξίνικός γ' οὑτοςι\</l>
+					<l>ἀνίςταθ' ὡς ἁρπαςόμενος τὰς ἰςχάδας.</l>
+					<milestone ed="p" n="802" unit="card"/>
+				</sp>
+				<stage>Χοροῦ</stage>
+			</div1>
+			<div1 type="Episode">
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ὡς ἡδὺ πράττειν ὦνδρές ἐςτ' εὐδαιμόνως,</l>
+					<l>καὶ ταῦτα μηδὲν ἐξενεγκόντ' οἴκοθεν.</l>
+					<l>ἡμῖν γὰρ ἀγαθῶν ςωρὸς ἐς τὴν οἰκίαn</l>
+					<l n="805">ἐπεςπέπαικεν οὐδὲν ἠδικηκόςιν.</l>
+					<l n="805a">[οὕτω τὸ πλουτεῖν ἐςτιν ἡδὺ πρᾶγμα δή.]</l>
+					<l n="806">ἡ μὲν ςιπύη μεςτή 'ςτι λευκῶν ἀλφίτων,</l>
+					<l>οἱ δ' ἀμφορῆς οἴνου μέλανος ἀνθοςμίου.</l>
+					<l>ἅπαντα δ' ἡμῖν ἀργυρίου καὶ χρυςίοu</l>
+					<l>τὰ ςκευάρια πλήρη 'ςτίν, ὥςτε θαυμάςαι.</l>
+					<l n="810">τὸ φρέαρ δ' ἐλαίου μεςτόν: αἱ δὲ λήκυθοi</l>
+					<l>μύρου γέμουςι, τὸ δ' ὑπερῷον ἰςχάδων.</l>
+					<l>ὀξὶς δὲ πᾶςα καὶ λοπάδιον καὶ χύτρa</l>
+					<l>χαλκῆ γέγονε: τοὺς δὲ πινακίςκους τοὺς ςαπροὺs</l>
+					<l>τοὺς ἰχθυηροὺς ἀργυροῦς πάρεςθ' ὁρᾶν.</l>
+					<l n="815">ὁ δ' ἰπνὸς γέγον' ἡμῖν ἐξαπίνης ἐλεφάντινος.</l>
+					<l>ςτατῆρςι δ' οἱ θεράποντες ἀρτιάζομεn</l>
+					<l>χρυςοῖς: ἀποψώμεςθα δ' οὐ λίθοις ἔτι,</l>
+					<l>ἀλλὰ ςκοροδίοις ὑπὸ τρυφῆς ἑκάςτοτε.</l>
+					<l>καὶ νῦν ὁ δεςπότης μὲν ἔνδον βουθυτεῖ</l>
+					<l n="820">ὗν καὶ τράγον καὶ κριὸν ἐςτεφανωμένος:</l>
+					<l>ἐμὲ δ' ἐξέπεμψεν ὁ καπνός. οὐχ οἷός τε γὰr</l>
+					<l>ἔνδον μένειν ἦν. ἔδακνε γὰρ τὰ βλέφαρά μου.</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l>ἕπου μετ' ἐμοῦ παιδάριον, ἵνα πρὸς τὸν θεὸn</l>
+					<l>ἴωμεν.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">ἔα τίς ἔςθ' ὁ προςιὼν οὑτοςί;</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l n="825">ἀνὴρ πρότερον μὲν ἄθλιος, νῦν δ' εὐτυχής.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>δῆλον ὅτι τῶν χρηςτῶν τις, ὡς ἔοικας, εἶ.</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l>μάλιςτ'.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">ἔπειτα τοῦ δέει;</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l part="Y">πρὸς τὸν θεὸn</l>
+					<l>ἥκω: μεγάλων γάρ μοὐςτὶν ἀγαθῶν αἴτιος.</l>
+					<l>ἐγὼ γὰρ ἱκανὴν οὐςίαν παρὰ τοῦ πατρὸs</l>
+					<l n="830">λαβὼν ἐπήρκουν τοῖς δεομένοις τῶν φίλων,</l>
+					<l>εἶναι νομίζων χρήςιμον πρὸς τὸν βίον.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ἦ πού ςε ταχέως ἐπέλιπεν τὰ χρήματα.</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l>κομιδῇ μὲν οὖν.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">οὐκοῦν μετὰ ταῦτ' ἦςθ' ἄθλιος.</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l>κομιδῇ μὲν οὖν. κἀγὼ μὲν ᾤμην οὓς τέωs</l>
+					<l n="835">εὐηργέτηςα δεομένους ἕξειν φίλουs</l>
+					<l>ὄντως βεβαίους, εἰ δεηθείην ποτέ:</l>
+					<l>οἱ δ' ἐξετρέποντο κοὐκ ἐδόκουν ὁρᾶν μ' ἔτι.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>καὶ κατεγέλων δ' εὖ οἶδ' ὅτι.</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l part="Y">κομιδῇ μὲν οὖν:</l>
+					<l>αὐχμὸς γὰρ ὢν τῶν ςκευαρίων μ' ἀπώλεςεν.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l n="840">ἀλλ' οὐχὶ νῦν.</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l part="Y">ἀνθ' ὧν ἐγὼ πρὸς τὸν θεὸn</l>
+					<l>προςευξόμενος ἥκω δικαίως ἐνθάδε.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>τὸ τριβώνιον δὲ τί δύναται πρὸς τῶν θεῶν,</l>
+					<l>ὃ φέρει μετὰ ςοῦ τὸ παιδάριον τουτί; φράςον.</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l>καὶ τοῦτ' ἀναθήςων ἔρχομαι πρὸς τὸν θεόν.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l n="845">μῶν οὖν ἐμυήθης δῆτ' ἐν αὐτῷ τὰ μεγάλα;</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l>οὐκ ἀλλ' ἐνερρίγως' ἔτη τριακαίδεκα.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>τὰ δ' ἐμβάδια;</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l part="Y">καὶ ταῦτα ςυνεχειμάζετο.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>καὶ ταῦτ' ἀναθήςων ἔφερες οὖν;</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l part="Y">νὴ τὸν Δία.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>χαρίεντά γ' ἥκεις δῶρα τῷ θεῷ φέρων.</l>
+					<milestone ed="p" n="850" unit="card"/>
+				</sp>
+				<sp who="#sukofanths">
+					<speaker>Συκοφάντηs</speaker>
+					<l n="850">οἴμοι κακοδαίμων, ὡς ἀπόλωλα δείλαιος,</l>
+					<l>καὶ κακοδαίμων καὶ τετράκις καὶ πεντάκιs</l>
+					<l>καὶ δωδεκάκις καὶ μυριάκις: ἰοὺ ἰού.</l>
+					<l>οὕτω πολυφόρῳ ςυγκέκραμαι δαίμονι.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>῎απολλον ἀποτρόπαιε καὶ θεοὶ φίλοι,</l>
+					<l n="855">τί ποτ' ἐςτὶν ὅ τι πέπονθεν ἅνθρωπος κακόν;</l>
+				</sp>
+				<sp who="#sukofanths">
+					<speaker>Συκοφάντηs</speaker>
+					<l>οὐ γὰρ ςχέτλια πέπονθα νυνὶ πράγματα,</l>
+					<l>ἀπολωλεκὼς ἅπαντα τἀκ τῆς οἰκίαs</l>
+					<l>διὰ τὸν θεὸν τοῦτον, τὸν ἐςόμενον τυφλὸn</l>
+					<l>πάλιν αὖθις, ἤνπερ μὴ 'λλίπωςιν αἱ δίκαι;</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l n="860">ἐγὼ ςχεδὸν τὸ πρᾶγμα γιγνώςκειν δοκῶ.</l>
+					<l>προςέρχεται γάρ τις κακῶς πράττων ἀνήρ,</l>
+					<l>ἔοικε δ' εἶναι τοῦ πονηροῦ κόμματος.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>νὴ Δία καλῶς τοίνυν ποιῶν ἀπόλλυται.</l>
+				</sp>
+				<sp who="#sukofanths">
+					<speaker>Συκοφάντηs</speaker>
+					<l>ποῦ ποῦ 'ςθ' ὁ μόνος ἅπαντας ἡμᾶς πλουςίουs</l>
+					<l n="865">ὑποςχόμενος οὗτος ποιήςειν εὐθέως,</l>
+					<l>εἰ πάλιν ἀναβλέψειεν ἐξ ἀρχῆς; ὁ δε\</l>
+					<l>πολὺ μᾶλλον ἐνίους ἐςτὶν ἐξολωλεκώς.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>καὶ τίνα δέδρακε δῆτα τοῦτ';</l>
+				</sp>
+				<sp who="#sukofanths">
+					<speaker>Συκοφάντηs</speaker>
+					<l part="Y">ἐμὲ τουτονί.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ἦ τῶν πονηρῶν ἦςθα καὶ τοιχωούχων;</l>
+				</sp>
+				<sp who="#sukofanths">
+					<speaker>Συκοφάντηs</speaker>
+					<l n="870">μὰ Δί' οὐ μὲν οὖν ἔςθ' ὑγιὲς ὑμῶν οὐδενός,</l>
+					<l>κοὐκ ἔςθ' ὅπως οὐκ ἔχετέ μου τὰ χρήματα.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ὡς ςοβαρὸς ὦ Δάματερ εἰςελήλυθεn</l>
+					<l>ὁ ςυκοφάντης. δῆλον ὅτι βουλιμιᾷ.</l>
+				</sp>
+				<sp who="#sukofanths">
+					<speaker>Συκοφάντηs</speaker>
+					<l>ςὺ μὲν εἰς ἀγορὰν ἰὼν ταχέως οὐκ ἂν φθάνοις:</l>
+					<l n="875">ἐπὶ τοῦ τροχοῦ γὰρ δεῖ ς' ἐκεῖ ςτρεβλούμενοn</l>
+					<l>εἰπεῖν ἃ πεπανούργηκας.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">οἰμώξἄρα ςύ.</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l>νὴ τὸν Δία τὸν ςωτῆρα πολλοῦ γ' ἄξιοs</l>
+					<l>ἅπαςι τοῖς ῞ελληςιν ὁ θεός ἐςθ' ὅτi</l>
+					<l>τοὺς ςυκοφάντας ἐξολεῖ κακοὺς κακῶς.</l>
+				</sp>
+				<sp who="#sukofanths">
+					<speaker>Συκοφάντηs</speaker>
+					<l n="880">οἴμοι τάλας: μῶν καὶ ςὺ μετέχων καταγελᾷς;</l>
+					<l>ἐπεὶ πόθεν θοἰμάτιον εἴληφας τοδί;</l>
+					<l>ἐχθὲς δ' ἔχοντ' εἶδόν ς' ἐγὼ τριβώνιον.</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l>οὐδὲν προτιμῶ ςου. φορῶ γὰρ πριάμενοs</l>
+					<l>τὸν δακτύλιον τονδὶ παρ' Εὐδάμου δραχμῆς.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l n="885">† ἀλλ' οὐκ ἔνεςτι ςυκοφάντου δήγματος.†</l>
+				</sp>
+				<sp who="#sukofanths">
+					<speaker>Συκοφάντηs</speaker>
+					<l>ἆρ' οὐχ ὕβρις ταῦτ' ἐςτὶ πολλή; ςκώπτετον,</l>
+					<l>ὅ τι δὲ ποιεῖτον ἐνθάδ' οὐκ εἰρήκατον.</l>
+					<l>οὐκ ἐπ' ἀγαθῷ γὰρ ἐνθάδ' ἐςτὸν οὐδενί.</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l>μὰ τὸν Δί' οὔκουν τῷ γε ςῷ, ςάφ' ἴςθ' ὅτι.</l>
+				</sp>
+				<sp who="#sukofanths">
+					<speaker>Συκοφάντηs</speaker>
+					<l n="890">ἀπὸ τῶν ἐμῶν γὰρ ναὶ μὰ Δία δειπνήςετον.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ὡς δὴ 'π' ἀληθείᾳ ςὺ μετὰ τοῦ μάρτυροs</l>
+					<l>διαρραγείης μηδενός γ' ἐμπλήμενος.</l>
+				</sp>
+				<sp who="#sukofanths">
+					<speaker>Συκοφάντηs</speaker>
+					<l>ἀρνεῖςθον; ἔνδον ἐςτὶν ὦ μιαρωτάτw</l>
+					<l>πολὺ χρῆμα τεμαχῶν καὶ κρεῶν ὠπτημένων.</l>
+					<l n="895">ὓ ὗ ὓ ὗ ὓ ὗ ὓ ὗ ὓ ὗ ὓ ὗ.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>κακόδαιμον ὀςφραίνει τι;</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l part="Y">τοῦ ψύχους γ' ἴςωs</l>
+					<l>ἐπεὶ τοιοῦτόν γ' ἀμπέχεται τριβώνιον.</l>
+				</sp>
+				<sp who="#sukofanths">
+					<speaker>Συκοφάντηs</speaker>
+					<l>ταῦτ' οὖν ἀναςχέτ' ἐςτὶν ὦ Ζεῦ καὶ θεοί,</l>
+					<l>τούτους ὑβρίζειν εἰς ἔμ'; οἴμ' ὡς ἄχθομαi</l>
+					<l n="900">ὅτι χρηςτὸς ὢν καὶ φιλόπολις πάςχω κακῶς.</l>
+					<milestone ed="p" n="901" unit="card"/>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l>ςὺ φιλόπολις καὶ χρηςτός;</l>
+				</sp>
+				<sp who="#sukofanths">
+					<speaker>Συκοφάντηs</speaker>
+					<l part="Y">ὡς οὐδείς γ' ἀνήρ.</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l>καὶ μὴν ἐπερωτηθεὶς ἀπόκριναί μοι.</l>
+				</sp>
+				<sp who="#sukofanths">
+					<speaker>Συκοφάντηs</speaker>
+					<l part="Y">τὸ τί;</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l>γεωργὸς εἶ;</l>
+				</sp>
+				<sp who="#sukofanths">
+					<speaker>Συκοφάντηs</speaker>
+					<l part="Y">μελαγχολᾶν μ' οὕτως οἴει;</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l>ἀλλ' ἔμπορος;</l>
+				</sp>
+				<sp who="#sukofanths">
+					<speaker>Συκοφάντηs</speaker>
+					<l part="Y">ναί, ςκήπτομαί γ', ὅταν τύχω.</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l n="905">τί δαί; τέχνην τιν' ἔμαθες;</l>
+				</sp>
+				<sp who="#sukofanths">
+					<speaker>Συκοφάντηs</speaker>
+					<l part="Y">οὐ μὰ τὸν Δία.</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l>πῶς οὖν διέζης ἢ πόθεν μηδὲν ποιῶν;</l>
+				</sp>
+				<sp who="#sukofanths">
+					<speaker>Συκοφάντηs</speaker>
+					<l>τῶν τῆς πόλεώς εἰμ' ἐπιμελητὴς πραγμάτωn</l>
+					<l>καὶ τῶν ἰδίων πάντων.</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l part="Y">ςύ; τί μαθών;</l>
+				</sp>
+				<sp who="#sukofanths">
+					<speaker>Συκοφάντηs</speaker>
+					<l part="Y">βούλομαι.</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l>πῶς οὖν ἂν εἴης χρηςτὸς ὦ τοιχωρύχε,</l>
+					<l n="910">εἴ ςοι προςῆκον μηδὲν εἶτ' ἀπεχθάνει;</l>
+				</sp>
+				<sp who="#sukofanths">
+					<speaker>Συκοφάντηs</speaker>
+					<l>οὐ γὰρ προςήκει τὴν ἐμαυτοῦ μοι πόλιn</l>
+					<l>εὐεργετεῖν ὦ κέπφε καθ' ὅςον ἂν ςθένω;</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l>εὐεργετεῖν οὖν ἐςτι τὸ πολυπραγμονεῖν;</l>
+				</sp>
+				<sp who="#sukofanths">
+					<speaker>Συκοφάντηs</speaker>
+					<l>τὸ μὲν οὖν βοηθεῖν τοῖς νόμοις τοῖς κειμένοιs</l>
+					<l n="915">καὶ μὴ 'πιτρέπειν ἐάν τις ἐξαμαρτάνῃ.</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l>οὔκουν δικαςτὰς ἐξεπίτηδες ἡ πόλιs</l>
+					<l>ἄρχειν καθίςτηςιν;</l>
+				</sp>
+				<sp who="#sukofanths">
+					<speaker>Συκοφάντηs</speaker>
+					<l part="Y">κατηγορεῖ δὲ τίς;</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l>ὁ βουλόμενος.</l>
+				</sp>
+				<sp who="#sukofanths">
+					<speaker>Συκοφάντηs</speaker>
+					<l part="Y">οὐκοῦν ἐκεῖνός εἰμ' ἐγώ,</l>
+					<l>ὥςτ' εἰς ἔμ' ἥκει τῆς πόλεως τὰ πράγματα.</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l n="920">νὴ Δία πονηρόν γ' ἆρα προςτάτην ἔχει.</l>
+					<l>ἐκεῖνο δ' οὐ βούλοι' ἄν, ἡςυχίαν ἔχωn</l>
+					<l>ζῆν ἀργός;</l>
+				</sp>
+				<sp who="#sukofanths">
+					<speaker>Συκοφάντηs</speaker>
+					<l part="Y">ἀλλὰ προβατίου βίον λέγεις,</l>
+					<l>εἰ μὴ φανεῖται διατριβή τις τῷ βίῳ.</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l>οὐδ' ἂν μεταμάθοις;</l>
+				</sp>
+				<sp who="#sukofanths">
+					<speaker>Συκοφάντηs</speaker>
+					<l part="Y">οὐδ' ἂν εἰ δοίης γέ μοi</l>
+					<l n="925">τὸν Πλοῦτον αὐτὸν καὶ τὸ Βάττου ςίλφιον.</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l>κατάθου ταχέως θοἰμάτιον.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">οὗτος, ςοὶ λέγει.</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l>ἔπειθ' ὑπόλυςαι.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">ταῦτα πάντα ςοὶ λέγει.</l>
+				</sp>
+				<sp who="#sukofanths">
+					<speaker>Συκοφάντηs</speaker>
+					<l>καὶ μὴν προςελθέτω πρὸς ἔμ' ὑμῶν ἐνθαδι\</l>
+					<l>ὁ βουλόμενος.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">οὐκοῦν ἐκεῖνός εἰμ' ἐγώ.</l>
+				</sp>
+				<sp who="#sukofanths">
+					<speaker>Συκοφάντηs</speaker>
+					<l n="930">οἴμοι τάλας ἀποδύομαι μεθ' ἡμέραν.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ςὺ γὰρ ἀξιοῖς τἀλλότρια πράττων ἐςθίειν.</l>
+				</sp>
+				<sp who="#sukofanths">
+					<speaker>Συκοφάντηs</speaker>
+					<l>ὁρᾷς ἃ ποιεῖς; ταῦτ' ἐγὼ μαρτύρομαι.</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l>ἀλλ' οἴχεται φεύγων ὃν ἦγες μάρτυρα.</l>
+				</sp>
+				<sp who="#sukofanths">
+					<speaker>Συκοφάντηs</speaker>
+					<l>οἴμοι περιείλημμαι μόνος.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">νυνὶ βοᾷς;</l>
+				</sp>
+				<sp who="#sukofanths">
+					<speaker>Συκοφάντηs</speaker>
+					<l n="935">οἴμοι μάλ' αὖθις.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">δὸς ςύ μοι τὸ τριβώνιον,</l>
+					<l>ἵν' ἀμφιέςω τὸν ςυκοφάντην τουτονί.</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l>μὴ δῆθ': ἱερὸν γάρ ἐςτι τοῦ Πλούτου πάλαι.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ἔπειτα ποῦ κάλλιον ἀνατεθήςεταi</l>
+					<l>ἢ περὶ πονηρὸν ἄνδρα καὶ τοιχωρύχον;</l>
+					<l n="940">Πλοῦτον δὲ κοςμεῖν ἱματίοις ςεμνοῖς πρέπει.</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l>τοῖς δ' ἐμβαδίοις τί χρήςεταί τις; εἰπέ μοι.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>καὶ ταῦτα πρὸς τὸ μέτωπον αὐτίκα δὴ μάλa</l>
+					<l>ὥςπερ κοτίνῳ προςπατταλεύςω τουτῳί.</l>
+				</sp>
+				<sp who="#sukofanths">
+					<speaker>Συκοφάντηs</speaker>
+					<l>ἄπειμι: γιγνώςκω γὰρ ἥττων ὢν πολυ\</l>
+					<l n="945">ὑμῶν: ἐὰν δὲ ςύζυγον λάβω τινα\</l>
+					<l>καὶ ςύκινον, τοῦτον τὸν ἰςχυρὸν θεὸn</l>
+					<l>ἐγὼ ποιήςω τήμερον δοῦναι δίκην,</l>
+					<l>ὁτιὴ καταλύει περιφανῶς εἶς ὢν μόνοs</l>
+					<l>τὴν δημοκρατίαν, οὔτε τὴν βουλὴν πιθὼn</l>
+					<l n="950">τὴν τῶν πολιτῶν οὔτε τὴν ἐκκληςίαν.</l>
+				</sp>
+				<sp who="#dikaios">
+					<speaker>Δίκαιοs</speaker>
+					<l>καὶ μὴν ἐπειδὴ τὴν πανοπλίαν τὴν ἐμὴn</l>
+					<l>ἔχων βαδίζεις, ἐς τὸ βαλανεῖον τρέχε:</l>
+					<l>ἔπειτ' ἐκεῖ κορυφαῖος ἑςτηκὼς θέρου.</l>
+					<l>κἀγὼ γὰρ εἶχον τὴν ςτάςιν ταύτην ποτέ.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l n="955">ἀλλ' ὁ βαλανεὺς ἕλξει θύραζ' αὐτὸν λαβὼn</l>
+					<l>τῶν ὀρχιπέδων: ἰδὼν γὰρ αὐτὸν γνώςεταi</l>
+					<l>ὅτι ἔςτ' ἐκείνου τοῦ πονηροῦ κόμματος.</l>
+					<l>νὼ δ' εἰςίωμεν, ἵνα προςεύξῃ τὸν θεόν.</l>
+					<milestone ed="p" n="959" unit="card"/>
+				</sp>
+				<stage>Χοροῦ</stage>
+			</div1>
+			<div1 type="Episode">
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l>ἆρ' ὦ φίλοι γέροντες ἐπὶ τὴν οἰκίαn</l>
+					<l n="960">ἀφίγμεθ' ὄντως τοῦ νέου τούτου θεοῦ,</l>
+					<l>ἢ τῆς ὁδοῦ τὸ παράπαν ἡμαρτήκαμεν;</l>
+				</sp>
+				<sp who="#xoros">
+					<speaker>Χορόs</speaker>
+					<l>ἀλλ' ἴςθ' ἐπ' αὐτὰς τὰς θύρας ἀφιγμένh</l>
+					<l>ὦ μειρακίςκη: πυνθάνει γὰρ ὡρικῶς.</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l>φέρε νυν ἐγὼ τῶν ἔνδοθεν καλέςω τινά.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l n="965">μὴ δῆτ': ἐγὼ γὰρ αὐτὸς ἐξελήλυθα.</l>
+					<l>ἀλλ' ὅ τι μάλιςτ' ἐλήλυθας λέγειν ς' ἐχρῆν.</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l>πέπονθα δεινὰ καὶ παράνομ' ὦ φίλτατε:</l>
+					<l>ἀφ' οὗ γὰρ ὁ θεὸς οὗτος ἤρξατο βλέπειν,</l>
+					<l>ἀβίωτον εἶναί μοι πεποίηκε τὸν βίον.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l n="970">τί δ' ἔςτιν; ἦ που καὶ ςὺ ςυκοφάντριa</l>
+					<l>εν ταῖς γυναιξὶν ἦςθα;</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l part="Y">μὰ Δί' ἐγὼ μὲν οὔ.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ἀλλ' οὐ λαχοῦς' ἔπινες ἐν τῷ γράμματι;</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l>ςκώπτεις: ἐγὼ δὲ κατακέκνιςμαι δειλάκρα.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>οὔκουν ἐρεῖς ἀνύςαςα τὸν κνιςμὸν τίνα;</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l n="975">ἄκουέ νυν. ἦν μοί τι μειράκιον φίλον,</l>
+					<l>πενιχρὸν μέν, ἄλλως δ' εὐπρόςωπον καὶ καλὸn</l>
+					<l>καὶ χρηςτόν: εἰ γάρ του δεηθείην ἐγώ,</l>
+					<l>ἅπαντ' ἐποίει κοςμίως μοι καὶ καλῶς:</l>
+					<l>ἐγὼ δ' ἐκείνῳ πάντα ταῦθ' ὑπηρέτουν.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l n="980">τί δ' ἦν ὅ τι ςου μάλιςτ' ἐδεῖθ' ἑκάςτοτε;</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l>οὐ πολλά: καὶ γὰρ ἐκνομίως μ' ᾐςχύνετο.</l>
+					<l>ἀλλ' ἀργυρίου δραχμὰς ἂν ᾔτης' εἴκοςιn</l>
+					<l>εἰς ἱμάτιον, ὀκτὼ δ' ἂν εἰς ὑποδήματα:</l>
+					<l>καὶ ταῖς ἀδελφαῖς ἀγοράςαι χιτώνιοn</l>
+					<l n="985">ἐκέλευςεν ἂν τῇ μητρί θ' ἱματίδιον:</l>
+					<l>πυρῶν τ' ἂν ἐδεήθη μεδίμνων τεττάρων.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>οὐ πολλὰ τοίνυν μὰ τὸν ʼαπόλλω ταῦτά γe</l>
+					<l>εἴρηκας, ἀλλὰ δῆλον ὅτι ς' ᾐχύνετο.</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l>καὶ ταῦτα τοίνυν οὐχ ἕνεκα μιςητίαs</l>
+					<l n="990">αἰτεῖν μ' ἔφαςκεν, ἀλλὰ φιλίας οὕνεκα,</l>
+					<l>ἵνα τοὐμὸν ἱμάτιον φορῶν μεμνῇτό μου.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>λέγεις ἐρῶντ' ἄνθρωπον ἐκνομιώτατα.</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l>ἀλλ' οὐχὶ νῦν ὁ βδελυρὸς ἔτι τὸν νοῦν ἔχεi</l>
+					<l>τὸν αὐτόν, ἀλλὰ πολὺ μεθέςτηκεν πάνυ.</l>
+					<l n="995">ἐμοῦ γὰρ αὐτῷ τὸν πλακοῦντα τουτονι\</l>
+					<l>καὶ τἄλλα τἀπὶ τοῦ πίνακος τραγήματa</l>
+					<l>ἐπόντα πεμψάςης ὑπειπούςης θ' ὅτi</l>
+					<l>εἰς ἑςπέραν ἥξοιμι—</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">τί ς' ἔδρας'; εἰπέ μοι.</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l>ἄμητα προςαπέπεμψεν ἡμῖν τουτονί,</l>
+					<l n="1000">ἐφ' ᾧ τ' ἐκεῖςε μηδέποτέ μ' ἐλθεῖν ἔτι,</l>
+					<l>καὶ πρὸς ἐπὶ τούτοις εἶπεν ἀποπέμπων ὅτi</l>
+					<l>‘ πάλαι ποτ' ἦςαν ἄλκιμοι Μιλήςιοι.’</l>
+					<milestone ed="p" n="1003" unit="card"/>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>δῆλον ὅτι τοὺς τρόπους τις οὐ μοχθηρὸς ἦν,</l>
+					<l>ἔπειτα πλουτῶν οὐκέθ' ἥδεται φακῇ:</l>
+					<l n="1005">πρὸ τοῦ δ' ὑπὸ τῆς πενίας ἅπανθ' ὑπήςθιεν.</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l>καὶ μὴν πρὸ τοῦ γ' ὁςημέραι νὴ τὼ θεω\</l>
+					<l>ἐπὶ τὴν θύραν ἐβάδιζεν ἀεὶ τὴν ἐμήν.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ἐπ' ἐκφοράν;</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l part="Y">μὰ Δί' ἀλλὰ τῆς φωνῆς μόνοn</l>
+					<l>ἐρῶν ἀκοῦςαι.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">τοῦ λαβεῖν μὲν οὖν χάριν.</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l n="1010">καὶ νὴ Δί' εἰ λυπουμένην γ' αἴςθοιτό με,</l>
+					<l>νηττάριον ἂν καὶ φάττιον ὑπεκορίζετο.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ἔπειτ' ἴςως ᾔτει ς' ἂν εἰς ὑποδήματα.</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l>μυςτηρίοις δὲ τοῖς μεγάλοις ὀχουμένηn</l>
+					<l>ἐπὶ τῆς ἁμάξης ὅτι προςέβλεψέν μέ τις,</l>
+					<l n="1015">ἐτυπτόμην διὰ τοῦθ' ὅλην τὴν ἡμέραν.</l>
+					<l>οὕτω ςφόδρα ζηλότυπος ὁ νεανίςκος ἦν.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>μόνος γὰρ ἥδεθ', ὡς ἔοικεν, ἐςθίων.</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l>καὶ τάς γε χεῖρας παγκάλας ἔχειν μ' ἔθη.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ὁπότε προτείνοιέν γε δραχμὰς εἴκοςιν.</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l n="1020">ὄζειν τε τῆς χρόας ἔφαςκεν ἡδύ μου.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>εἰ Θάςιον ἐνέχεις, εἰκότως γε νὴ Δία.</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l>τὸ βλέμμα θ' ὡς ἔχοιμι μαλακὸν καὶ καλόν.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>οὐ ςκαιὸς ἦν ἄνθρωπος, ἀλλ' ἠπίςτατo</l>
+					<l>γραὸς καπρώςης τἀφόδια κατεςθίειν.</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l n="1025">ταῦτ' οὖν ὁ θεὸς ὦ φίλ' ἄνερ οὐκ ὀρθῶς ποιεῖ,</l>
+					<l>φάςκων βοηθεῖν τοῖς ἀδικουμένοις ἀεί.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>τί γὰρ ποιήςει; φράζε, καὶ πεπράξεται.</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l>ἀναγκάςαι δίκαιόν ἐςτι νὴ Δίa</l>
+					<l>τὸν εὖ παθόνθ' ὑπ' ἐμοῦ πάλιν μ' ἀντευποιεῖν,</l>
+					<l n="1030">ἢ μηδ' ὁτιοῦν ἀγαθὸν δίκαιόν ἐςτ' ἔχειν.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>οὔκουν καθ' ἑκάςτην ἀπεδίδου τὴν νύκτα ςοι;</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l>ἀλλ' οὐδέποτέ με ζῶςαν ἀπολείψειν ἔφη.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ὀρθῶς γε: νῦν δέ γ' οὐκέτι ζῆν ς' οἴεται.</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l>ὑπὸ τοῦ γὰρ ἄλγους κατατέτηκ' ὦ φίλτατε.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l n="1035">οὐκ ἀλλὰ καταςέςηπας, ὥς γ' ἐμοὶ δοκεῖς.</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l>διὰ δακτυλίου μὲν οὖν ἔμεγ' ἂν διελκύςαις.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>εἰ τυγχάνοι γ' ὁ δακτύλιος ὢν τηλία.</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l>καὶ μὴν τὸ μειράκιον τοδὶ προςέρχεται,</l>
+					<l>οὗπερ πάλαι κατηγοροῦςα τυγχάνω:</l>
+					<l n="1040">ἔοικε δ' ἐπὶ κῶμον βαδίζειν.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">φαίνεται.</l>
+					<l>ςτέφανόν γέ τοι καὶ δᾷδ' ἔχων πορεύεται.</l>
+				</sp>
+				<sp who="#neanias">
+					<speaker>Νεανίαs</speaker>
+					<l>ἀςπάζομαί ςε.</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l part="Y">τί φηςιν;</l>
+				</sp>
+				<sp who="#neanias">
+					<speaker>Νεανίαs</speaker>
+					<l part="Y">ἀρχαία φίλη,</l>
+					<l>πολιὰ γεγένηςαι ταχύ γε νὴ τὸν οὐρανόν.</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l>τάλαιν' ἐγὼ τῆς ὕβρεος ἧς ὑβρίζομαι.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l n="1045">ἔοικε διὰ πολλοῦ χρόνου ς' ἑορακέναι.</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l>ποίου χρόνου ταλάνταθ', ὃς παρ' ἐμοὶ χθὲς ἦν;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>τοὐναντίον πέπονθε τοῖς πολλοῖς ἄρα:</l>
+					<l>μεθύων γάρ, ὡς ἔικεν, ὀξύτερον βλέπει.</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l>οὔκ, ἀλλ' ἀκόλαςτός ἐςτιν ἀεὶ τοὺς τρόπους.</l>
+				</sp>
+				<sp who="#neanias">
+					<speaker>Νεανίαs</speaker>
+					<l n="1050">ὦ Ποντοπόςειδον καὶ θεοὶ πρεςβυτικοί,</l>
+					<l>ἐν τῷ προςώπῳ τῶν ῥυτίδων ὅςας ἔχει.</l>
+					<milestone ed="p" n="1052" unit="card"/>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l>ἆ ἆ,</l>
+					<l>τὴν δᾷδα μή μοι πρόςφερ'.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">εὖ μέντοι λέγει.</l>
+					<l>ἐὰν γὰρ αὐτὴν εἷς μόνος ςπινθὴρ λάͺβη</l>
+					<l>ὥςπερ παλαιὰν εἰρεςιώνην καύςεται.</l>
+				</sp>
+				<sp who="#neanias">
+					<speaker>Νεανίαs</speaker>
+					<l n="1055">βούλει διὰ χρόνου πρός με παῖςαι;</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l part="Y">ποῖ τάλαν;</l>
+				</sp>
+				<sp who="#neanias">
+					<speaker>Νεανίαs</speaker>
+					<l>αὐτοῦ, λαβοῦςα κάρνα.</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l part="Y">παιδιὰν τίνα;</l>
+				</sp>
+				<sp who="#neanias">
+					<speaker>Νεανίαs</speaker>
+					<l>πόςους ἔχεις ὀδόντας.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">ἀλλὰ γνώςομαi</l>
+					<l>κἄγωγ': ἔχει γὰρ τρεῖς ἴςως ἢ τέτταρας.</l>
+				</sp>
+				<sp who="#neanias">
+					<speaker>Νεανίαs</speaker>
+					<l>ἀπότειςον: ἕνα γὰρ γόμφιον μόνον φορεῖ.</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l n="1060">ταλάντατ' ἀνδρῶν οὐχ ὑγιαίνειν μοι δοκεῖς,</l>
+					<l>πλυνόν με ποιῶν ἐν τοςούτοις ἀνδράςιν.</l>
+				</sp>
+				<sp who="#neanias">
+					<speaker>Νεανίαs</speaker>
+					<l>ὄναιο μέντἄν, εἴ τις ἐκπλύνειέ ςε.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>οὐ δῆτ', ἐπεὶ νῦν μὲν καπηλικῶς ἔχει,</l>
+					<l>εἰ δ' ἐκπλυνεῖται τοῦτο τὸ ψιμύθιον,</l>
+					<l n="1065">ὄψει κατάδηλα τοῦ προςώπου τὰ ῥάκη.</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l>γέρων ἀνὴρ ὢν οὐχ ὑγιαίνειν μοι δοκεῖς.</l>
+				</sp>
+				<sp who="#neanias">
+					<speaker>Νεανίαs</speaker>
+					<l>πειρᾷ μὲν οὖν ἴςως ςε καὶ τῶν τιτθίωn</l>
+					<l>ἐφάπτεταί ςου λανθάνειν δοκῶν ἐμέ.</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l>μὰ τὴν ʼαφροδίτην οὐκ ἐμοῦ γ' ὦ βδελυρὲ ςύ.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l n="1070">μὰ τὴν ʽεκάτην οὐ δῆτα: μαινοίμην γὰρ ἄν.</l>
+					<l>ἀλλ' ὦ νεανίςκ' οὐκ ἐῶ τὴν μείρακa</l>
+					<l>μιςεῖν ςε ταύτην.</l>
+				</sp>
+				<sp who="#neanias">
+					<speaker>Νεανίαs</speaker>
+					<l part="Y">ἀλλ' ἔγωγ' ὑπερφιλῶ.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>καὶ μὴν κατηγορεῖ γέ ςου.</l>
+				</sp>
+				<sp who="#neanias">
+					<speaker>Νεανίαs</speaker>
+					<l part="Y">τί κατηγορεῖ;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>εἶναί ς' ὑβριςτήν φηςι καὶ λέγειν ὅτi</l>
+					<l n="1075"> ‘ πάλαι ποτ' ἦςαν ἄλκιμοι Μιλήςιοι.’</l>
+				</sp>
+				<sp who="#neanias">
+					<speaker>Νεανίαs</speaker>
+					<l>ἐγὼ περὶ ταύτης οὐ μαχοῦμαί ςοι.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">τὸ τί;</l>
+				</sp>
+				<sp who="#neanias">
+					<speaker>Νεανίαs</speaker>
+					<l>αἰςχυνόμενος τὴν ἡλικίαν τὴν ςήν, ἐπει\</l>
+					<l>οὐκ ἄν ποτ' ἄλλῳ τοῦτ' ἐπέτρεψ' ἐγὼ ποιεῖν:</l>
+					<l>νῦν δ' ἄπιθι χαίρων ςυλλαβὼν τὴν μείρακα.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l n="1080">οἶδ' οἶδα τὸν νοῦν: οὐκέτ' ἀξιοῖς ἴςωs</l>
+					<l>εἶναι μετ' αὐτῆς.</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l part="Y">ὁ δ' ἐπιτρέψων ἐςτὶ τίς;</l>
+				</sp>
+				<sp who="#neanias">
+					<speaker>Νεανίαs</speaker>
+					<l>οὐκ ἂν διαλεχθείην διεςπλεκωμέͺνη</l>
+					<l>ὑπὸ μυρίων ἐτῶν γε καὶ τριςχιλίων.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ὅμως δ' ἐπειδὴ καὶ τὸν οἶνον ἠξίουs</l>
+					<l n="1085">πίνειν, ςυνεκποτέ' ἐςτί ςοι καὶ τὴν τρύγα.</l>
+				</sp>
+				<sp who="#neanias">
+					<speaker>Νεανίαs</speaker>
+					<l>ἀλλ' ἔςτι κομιδῇ τρὺξ παλαιὰ καὶ ςαπρά.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>οὐκοῦν τρύγοιπος ταῦτα πάντ' ἰάςεται.</l>
+				</sp>
+				<sp who="#neanias">
+					<speaker>Νεανίαs</speaker>
+					<l>ἀλλ' εἴςιθ' εἴςω: τῷ θεῷ γὰρ βούλομαi</l>
+					<l>ἐλθὼν ἀναθεῖναι τοὺς ςτεφάνους τούςδ' οὓς ἔχω.</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l n="1090">ἐγὼ δέ γ' αὐτῷ καὶ φράςαι τι βούλομαι.</l>
+				</sp>
+				<sp who="#neanias">
+					<speaker>Νεανίαs</speaker>
+					<l>ἐγὼ δέ γ' οὐκ εἴςειμι.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">θάρρει, μὴ φοβοῦ.</l>
+					<l>οὐ γὰρ βιάςεται.</l>
+				</sp>
+				<sp who="#neanias">
+					<speaker>Νεανίαs</speaker>
+					<l part="Y">πάνυ καλῶς τοίνυν λέγεις.</l>
+					<l>ἱκανὸν γὰρ αὐτὴν πρότερον ὑπεπίττουν χρόνον.</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l>βάδιζ': ἐγὼ δέ ςου κατόπιν εἰςέρχομαι.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l n="1095">ὡς εὐτόνως ὦ Ζεῦ βαςιλεῦ τὸ γρᾴδιοn</l>
+					<l>ὥςπερ λεπὰς τῷ μειρακίῳ προςείχετο.</l>
+					<milestone ed="p" n="1097" unit="card"/>
+				</sp>
+				<stage>Χοροῦ</stage>
+			</div1>
+			<div1 type="Episode">
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>τίς ἔςθ' ὁ κόπτων τὴν θύραν; τουτὶ τί ἦν;</l>
+					<l>οὐδεὶς ἔοικεν: ἀλλὰ δῆτα τὸ θύριοn</l>
+					<l>φθεγγόμενον ἄλλως κλαυςιᾷ.</l>
+				</sp>
+				<sp who="#ermhs">
+					<speaker>ʽερμῆs</speaker>
+					<l>ςέ τοι λέγω,</l>
+					<l n="1100">ὁ Καρίων, ἀνάμεινον.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">οὗτος εἰπέ μοι,</l>
+					<l>ςὺ τὴν θύραν ἔκοπτες οὑτωςὶ ςφόδρα;</l>
+				</sp>
+				<sp who="#ermhs">
+					<speaker>ʽερμῆs</speaker>
+					<l>μὰ Δί' ἀλλ' ἔμελλον: εἶτ' ἀνέῳξάς με φθάςας.</l>
+					<l>ἀλλ' ἐκκάλει τὸν δεςπότην τρέχων ταχύ,</l>
+					<l>ἒπειτα τὴν γυναῖκα καὶ τὰ παιδία,</l>
+					<l n="1105">ἔπειτα τοὺς θεράποντας, εἶτα τὴν κύνα,</l>
+					<l>ἔπειτα ςαυτόν, εἶτα τὴν ὗν.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">εἰπέ μοι,</l>
+					<l>τί δ' ἔςτιν;</l>
+				</sp>
+				<sp who="#ermhs">
+					<speaker>ʽερμῆs</speaker>
+					<l part="Y">ὁ Ζεὺς ὦ πόνηρε βούλεταi</l>
+					<l>ἐς ταὐτὸν ὑμᾶς ςυγκυκήςας τρύβλιοn</l>
+					<l>ἁπαξάπαντας ἐς τὸ βάραθρον ἐμβαλεῖν.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l n="1110">ἡ γλῶττα τῷ κήρυκι τούτων τέμνεται.</l>
+					<l>ἀτὰρ διὰ τί δὴ ταῦτ' ἐπιβουλεύει ποιεῖn</l>
+					<l>ἡμᾶς;</l>
+				</sp>
+				<sp who="#ermhs">
+					<speaker>ʽερμῆs</speaker>
+					<l part="Y">ὁτιὴ δεινότατα πάντων πραγμάτωn</l>
+					<l>εἴργαςθ'. ἀφ' οὗ γὰρ ἤρξατ' ἐξ ἀρχῆς βλέπειn</l>
+					<l>ὁ Πλοῦτος, οὐδεὶς οὐ λιβανωτόν, οὐ δάφνην,</l>
+					<l n="1115">οὐ ψαιςτόν, οὐχ ἱερεῖον, οὐκ ἄλλ' οὐδὲ ἓn</l>
+					<l>ἡμῖν ἔτι θύει τοῖς θεοῖς.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">μὰ Δί' οὐδέ γe</l>
+					<l>θύςει. κακῶς γὰρ ἐπεμελεῖςθ' ἡμῶν τότε.</l>
+				</sp>
+				<sp who="#ermhs">
+					<speaker>ʽερμῆs</speaker>
+					<l>καὶ τῶν μὲν ἄλλων μοι θεῶν ἧττον μέλει,</l>
+					<l>ἐγὼ δ' ἀπόλωλα κἀπιτέτριμμαι.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">ςωφρονεῖς.</l>
+				</sp>
+				<sp who="#ermhs">
+					<speaker>ʽερμῆs</speaker>
+					<l n="1120">πρότερον γὰρ εἶχον μὲν παρὰ ταῖς καπηλίςιn</l>
+					<l>πάντ' ἀγάθ' ἕωθεν εὐθύς, οἰνοῦτταν μέλi</l>
+					<l>ἰςχάδας, ὅς' εἰκός ἐςτιν ʽερμῆν ἐςθίειν:</l>
+					<l>νυνὶ δὲ πεινῶν ἀναβάδην ἀναπαύομαι.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>οὔκουν δικαίως, ὅςτις ἐποίεις ζημίαn</l>
+					<l n="1125">ἐνίοτε τοιαῦτ' ἀγάθ' ἔχων;</l>
+				</sp>
+				<sp who="#ermhs">
+					<speaker>ʽερμῆs</speaker>
+					<l part="Y">οἴμοι τάλας,</l>
+					<l>οἴμοι πλακοῦντος τοῦ ν' τετράδι πεπεμμένου.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ποθεῖς τὸν οὐ παρόντα καὶ μάτην καλεῖς.</l>
+				</sp>
+				<sp who="#ermhs">
+					<speaker>ʽερμῆs</speaker>
+					<l>οἴμοι δὲ κωλῆς ἣν ἐγὼ κατήςθιον.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ἀςκωλίαζ' ἐνταῦθα πρὸς τὴν αἰθρίαν.</l>
+				</sp>
+				<sp who="#ermhs">
+					<speaker>ʽερμῆs</speaker>
+					<l n="1130">ςπλάγχνων τε θερμῶν ὧν ἐγὼ κατήςθιον.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ὀδύνη ςε περὶ τὰ ςπλάγχν' ἔοικέ τι ςτρέφειν.</l>
+				</sp>
+				<sp who="#ermhs">
+					<speaker>ʽερμῆs</speaker>
+					<l>οἴμοι δὲ κύλικος ἴςον ἴςῳ κεκραμένης.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ταύτην ἐπιπιὼν ἀποτρέχων οὐκ ἂν φθάνοις.</l>
+				</sp>
+				<sp who="#ermhs">
+					<speaker>ʽερμῆs</speaker>
+					<l>ἆρ' ὠφελήςαις ἄν τι τὸν ςαυτοῦ φίλον;</l>
+					<milestone ed="p" n="1135" unit="card"/>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l n="1135">εἴ του δέει γ' ὧν δυνατός εἰμί ς' ὠφελεῖν.</l>
+				</sp>
+				<sp who="#ermhs">
+					<speaker>ʽερμῆs</speaker>
+					<l>εἴ μοι πορίςας ἄρτον τιν' εὖ πεπεμμένοn</l>
+					<l>δοίης καταφαγεῖν καὶ κρέας νεανικὸn</l>
+					<l>ὧν θύεθ' ὑμεῖς ἔνδον.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">ἀλλ' οὐκ ἐκφορά.</l>
+				</sp>
+				<sp who="#ermhs">
+					<speaker>ʽερμῆs</speaker>
+					<l>καὶ μὴν ὁπότε τι ςκευάριον τοῦ δεςπότοu</l>
+					<l n="1140">ὑφέλοι', ἐγώ ςε λανθάνειν ἐποίουν ἀεί.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ἐφ' ᾧ τε μετέχειν καὐτὸς ὦ τοιχωρύχε.</l>
+					<l>ἧκεν γὰρ ἄν ςοι ναςτὸς εὖ πεπεμμένος.</l>
+				</sp>
+				<sp who="#ermhs">
+					<speaker>ʽερμῆs</speaker>
+					<l>ἔπειτα τοῦτόν γ' αὐτὸς ἂν κατήςθιες.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>οὐ γὰρ μετεῖχες τὰς ἴςας πληγὰς ἐμοί,</l>
+					<l n="1145">ὁπότε τι ληφθείην πανουργήςας ἐγώ.</l>
+				</sp>
+				<sp who="#ermhs">
+					<speaker>ʽερμῆs</speaker>
+					<l>μὴ μνηςικακήςῃς, εἰ ςὺ Φυλὴν κατέλαβες.</l>
+					<l>ἀλλὰ ξύνοικον πρὸς θεῶν δέξαςθέ με.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ἔπειτ' ἀπολιπὼν τοὺς θεοὺς ἐνθάδε μενεῖς;</l>
+				</sp>
+				<sp who="#ermhs">
+					<speaker>ʽερμῆs</speaker>
+					<l>τὰ γὰρ παρ' ὑμῖν ἐςτι βελτίω πολύ.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l n="1150">τί δέ; ταὐτομολεῖν ἀςτεῖον εἶναί ςοι δοκεῖ;</l>
+				</sp>
+				<sp who="#ermhs">
+					<speaker>ʽερμῆs</speaker>
+					<l>πατρὶς γάρ ἐςτι πᾶς' ἵν' ἂν πράττῃ τις εὖ.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>τί δῆτ' ἂν εἴης ὄφελος ἡμῖν ἐνθάδ' ὤν;</l>
+				</sp>
+				<sp who="#ermhs">
+					<speaker>ʽερμῆs</speaker>
+					<l>παρὰ τὴν θύραν ςτροφαῖον ἱδρύςαςθέ με.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ςτροφαῖον; ἀλλ' οὐκ ἔργον ἔςτ' οὐδὲν ςτροφῶν.</l>
+				</sp>
+				<sp who="#ermhs">
+					<speaker>ʽερμῆs</speaker>
+					<l n="1155">ἀλλ' ἐμπολαῖον.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">ἀλλὰ πλουτοῦμεν: τί οὖn</l>
+					<l>ʽερμῆν παλιγκάπηλον ἡμᾶς δεῖ τρέφειν;</l>
+				</sp>
+				<sp who="#ermhs">
+					<speaker>ʽερμῆs</speaker>
+					<l>ἀλλὰ δόλιον τοίνυν.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">δόλιον; ἥκιςτά γε:</l>
+					<l>οὐ γὰρ δόλου νῦν ἔργον, ἀλλ' ἁπλῶν τρόπων.</l>
+				</sp>
+				<sp who="#ermhs">
+					<speaker>ʽερμῆs</speaker>
+					<l>ἀλλ' ἡγεμόνιον.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">ἀλλ' ὁ θεὸς ἤδη βλέπει,</l>
+					<l n="1160">ὥςθ' ἡγεμόνος οὐδὲν δεηςόμεςθ' ἔτι.</l>
+				</sp>
+				<sp who="#ermhs">
+					<speaker>ʽερμῆs</speaker>
+					<l>ἐναγώνιος τοίνυν ἔςομαι. τί δῆτ' ἐρεῖς;</l>
+					<l>Πλούτῳ γάρ ἐςτι τοῦτο ςυμφορώτατοn</l>
+					<l>ποιεῖν ἀγῶνας μουςικοὺς καὶ γυμνικούς.</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l>ὡς ἀγαθόν ἐςτ' ἐπωνυμίας πολλὰς ἔχειν:</l>
+					<l n="1165">οὗτος γὰρ ἐξηύρηκεν αὑτῷ βιότιον.</l>
+					<l>οὐκ ἐτὸς ἅπαντες οἱ δικάζοντες θαμα\</l>
+					<l>ςπεύδουςιν ἐν πολλοῖς γεγράφθαι γράμμαςιν.</l>
+				</sp>
+				<sp who="#ermhs">
+					<speaker>ʽερμῆs</speaker>
+					<l>οὐκοῦν ἐπὶ τούτοις εἰςίω;</l>
+				</sp>
+				<sp who="#kariwn">
+					<speaker>Καρίωn</speaker>
+					<l part="Y">καὶ πλῦνέ γe</l>
+					<l>αὐτὸς προςελθὼν πρὸς τὸ φρέαρ τὰς κοιλίας,</l>
+					<l n="1170">ἵν' εὐθέως διακονικὸς εἶναι δοκῇς.</l>
+					<milestone ed="p" n="1171" unit="card"/>
+				</sp>
+				<stage>&lt;Χοροῦ&gt;</stage>
+			</div1>
+			<div1 type="Episode">
+				<sp who="#iereus">
+					<speaker>ʽιερεύs</speaker>
+					<l>τίς ἂν φράςειε ποῦ 'ςτι Χρεμύλος μοι ςαφῶς;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>τί δ' ἔςτιν ὦ βέλτιςτε;</l>
+				</sp>
+				<sp who="#iereus">
+					<speaker>ʽιερεύs</speaker>
+					<l part="Y">τί γὰρ ἀλλ' ἢ κακῶς;</l>
+					<l>ἀφ' οὗ γὰρ ὁ Πλοῦτος οὗτος ἤρξατο βλέπειν,</l>
+					<l>ἀπόλωλ' ὑπὸ λιμοῦ. καταφαγεῖν γὰρ οὐκ ἔχω,</l>
+					<l n="1175">καὶ ταῦτα τοῦ ςωτῆρος ἱερεὺς ὢν Διός.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ἡ δ' αἰτία τίς ἐςτιν ὦ πρὸς τῶν θεῶν;</l>
+				</sp>
+				<sp who="#iereus">
+					<speaker>ʽιερεύs</speaker>
+					<l>θύειν ἔτ' οὐδεὶς ἀξιοῖ.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">τίνος οὕνεκα;</l>
+				</sp>
+				<sp who="#iereus">
+					<speaker>ʽιερεύs</speaker>
+					<l>ὅτι πάντες εἰςὶ πλούςιοι: καίτοι τότε,</l>
+					<l>ὅτ' εἶχον οὐδέν, ὁ μὲν ἂν ἥκων ἔμποροs</l>
+					<l n="1180">ἔθυςεν ἱερεῖόν τι ςωθείς, ὁ δέ τις ἂn</l>
+					<l>δίκην ἀποφυγών, ὁ δ' ἂν ἐκαλλιερεῖτό τιs</l>
+					<l>κἀμέ γ' ἐκάλει τὸν ἱερέα: νῦν δ' οὐδὲ εἷs</l>
+					<l>θύει τὸ παράπαν οὐδὲν οὐδ' εἰςέρχεται,</l>
+					<l>πλὴν ἀποπατηςόμενοί γε πλεῖν ἢ μύριοι.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l n="1185">οὔκουν τὰ νομιζόμενα ςὺ τούτων λαμβάνεις;</l>
+				</sp>
+				<sp who="#iereus">
+					<speaker>ʽιερεύs</speaker>
+					<l>τὸν οὖν Δία τὸν ςωτῆρα καὐτός μοι δοκῶ</l>
+					<l>χαίρειν ἐάςας ἐνθάδ' αὐτοῦ καταμένειν.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>θάρρει: καλῶς ἔςται γάρ, ἢν θεὸς θέλῃ.</l>
+					<l>ὁ Ζεὺς ὁ ςωτὴρ γὰρ πάρεςτιν ἐνθάδε,</l>
+					<l n="1190">αὐτόματος ἥκων.</l>
+				</sp>
+				<sp who="#iereus">
+					<speaker>ʽιερεύs</speaker>
+					<l part="Y">πάντ' ἀγαθὰ τοίνυν λέγεις.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>ἱδρυςόμεθ' οὖν αὐτίκα μάλ', ἀλλὰ περίμενe</l>
+					<l>τὸν Πλοῦτον, οὗπερ πρότερον ἦν ἱδρυμένοs</l>
+					<l>τὸν ὀπιςθόδομον ἀεὶ φυλάττων τῆς θεοῦ.</l>
+					<l>ἀλλ' ἐκδότω τις δεῦρο δᾷδας ἡμμένας,</l>
+					<l n="1195">ἵν' ἔχων προηγῇ τῷ θεῷ ςύ.</l>
+				</sp>
+				<sp who="#iereus">
+					<speaker>ʽιερεύs</speaker>
+					<l part="Y">πάνυ μὲν οὖn</l>
+					<l>δρᾶν ταῦτα χρή.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">τὸν Πλοῦτον ἔξω τις κάλει.</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l>ἐγὼ δὲ τί ποιῶ;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">τὰς χύτρας, αἷς τὸν θεὸn</l>
+					<l>ἱδρυςόμεθα, λαβοῦς' ἐπὶ τῆς κεφαλῆς φέρe</l>
+					<l>ςεμνῶς: ἔχουςα δ' ἦλθες αὐτὴ ποικίλα.</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l n="1200">ὧν δ' οὕνεκ' ἦλθον;</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l part="Y">πάντα ςοι πεπράξεται.</l>
+					<l>ἥξει γὰρ ὁ νεανίςκος ὡς ς' εἰς ἑςπέραν.</l>
+				</sp>
+				<sp who="#graus">
+					<speaker>Γραῦs</speaker>
+					<l>ἀλλ' εἴ γε μέντοι νὴ Δί' ἐγγυᾷ ςύ μοi</l>
+					<l>ἥξειν ἐκεῖνον ὡς ἔμ', οἴςω τὰς χύτρας.</l>
+				</sp>
+				<sp who="#xremulos">
+					<speaker>Χρεμύλοs</speaker>
+					<l>καὶ μὴν πολὺ τῶν ἄλλων χυτρῶν τἀναντίa</l>
+					<l n="1205">αὗται ποιοῦςι: ταῖς μὲν ἄλλαις γὰρ χύτραιs</l>
+					<l>ἡ γραῦς ἔπεςτ' ἀνωτάτω, ταύτης δὲ νῦn</l>
+					<l>τῆς γραὸς ἐπιπολῆς ἔπειςιν αἱ χύτραι.</l>
+				</sp>
+			</div1>
+			<div1 type="Exodus">
+				<div2 type="anapests">
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l>οὐκ ἔτι τοίνυν εἰκὸς μέλλειν οὐδ' ἡμᾶς, ἀλλ' ἀναχωρεῖn</l>
+						<l>ἐς τοὔπιςθεν: δεῖ γὰρ κατόπιν τούτων ᾄδοντας ἕπεςθαι.</l>
+					</sp>
+				</div2>
+			</div1>
+		</body>
+	</text>
+</TEI>

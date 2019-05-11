@@ -1,0 +1,3998 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
+<TEI xml:lang="greek" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title n="Clouds" type="work">Clouds</title>
+				<title type="sub">Machine readable text</title>
+				<author key="Wikidata:Q43353">Aristophanes</author>
+				<editor n="OCT" role="editor">F.W. Hall and W.M. Geldart</editor>
+			</titleStmt>
+			      
+			<publicationStmt>
+				<publisher xml:id="GreekDraCor">GreekDraCor</publisher>
+				<idno type="URL">https://dracor.org/greek/aristophanes-clouds</idno>
+				<idno type="GreekDraCor">35</idno>
+				<availability>
+					<licence>
+						<ab>CC BY-SA 3.0 US</ab>
+						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
+					</licence>
+				</availability>
+				<idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q868447</idno>
+			</publicationStmt>
+			
+
+			<extent>About 145Kb</extent>
+			<sourceDesc>
+				<biblStruct>
+					<bibl type="originalSource">
+						<author key="Wikidata:Q43353">Aristophanes</author>
+						<title>Aristophanes Comoediae, ed. F.W. Hall and W.M. Geldart, vol. 2</title>
+						<editor role="editor">F.W. Hall and W.M. Geldart</editor>
+						<imprint>
+							<pubPlace>Oxford</pubPlace>
+							<publisher>Clarendon Press, Oxford</publisher>
+							<date>1907</date>
+						</imprint>
+					</bibl>
+				</biblStruct>
+			</sourceDesc>
+			<bibl type="digitalSource">
+				<name>Perseus Digital Library (http://www.perseus.tufts.edu)</name>
+				<idno type="URL">http://www.perseus.tufts.edu/hopper/opensource/download</idno>
+				<availability status="free">
+					<p>In the public domain.</p>
+				</availability>
+			</bibl>
+		</fileDesc>
+		<profileDesc>
+			<particDesc>
+				<listPerson>
+					<person xml:id="maqhthsb">
+						<persName>Μαθητής B</persName>
+					</person>
+					<person xml:id="pasias">
+						<persName>Παςίαs</persName>
+					</person>
+					<person xml:id="adikoslogos">
+						<persName>῎αδικος Λόγοs</persName>
+					</person>
+					<person xml:id="dikaioslogos">
+						<persName>Δίκαιος Λόγοs</persName>
+					</person>
+					<person xml:id="qerapwn">
+						<persName>Θεράπωn</persName>
+					</person>
+					<person xml:id="streyiadhs">
+						<persName>Στρεψιάδηs</persName>
+					</person>
+					<person xml:id="ermhs">
+						<persName>Ερμῆs</persName>
+					</person>
+					<person xml:id="amunias">
+						<persName>Αμυνίαs</persName>
+					</person>
+					<person xml:id="xairefwn">
+						<persName>Χαιρεφῶn</persName>
+					</person>
+					<person xml:id="maqhths">
+						<persName>Μαθητήs</persName>
+					</person>
+					<person xml:id="maqhthsg">
+						<persName>Μαθητής G</persName>
+					</person>
+					<person xml:id="maqhthsa">
+						<persName>Μαθητής A</persName>
+					</person>
+					<person xml:id="martus">
+						<persName>Μάρτυs</persName>
+					</person>
+					<person xml:id="feidippidhs">
+						<persName>Φειδιππίδηs</persName>
+					</person>
+					<person xml:id="xoros">
+						<persName>Χορόs</persName>
+					</person>
+					<person xml:id="swkraths">
+						<persName>Σωκράτηs</persName>
+					</person>
+				</listPerson>
+			</particDesc>
+			<textClass>
+				<keywords>
+					<term subtype="comedy" type="genreTitle">Comedy</term>
+				</keywords>
+			</textClass>
+			
+
+			<langUsage>
+				<language id="greek">Greek</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date>1988</date>
+				<respStmt>
+					<name>EM, Scott Ettinger and Roger Travis</name>
+					<resp>tagging</resp>
+				</respStmt>
+				<item>Text scanned at U. Chicago in 1988. Basic SGML tagging by Lowell Bowditch</item>
+			</change>
+			<change>
+				<date>8/92</date>
+				<respStmt>
+					<name>Bill Merrill</name>
+					<resp>ed.</resp>
+				</respStmt>
+				<item>Refined tagging</item>
+			</change>
+			<change>
+				<date>31-Jan-00</date>
+				<respStmt>
+					<name>Anne Mahoney</name>
+					<resp>Markup</resp>
+				</respStmt>
+				<item>$Log: aristoph.cl_gk.xml,v $
+Revision 1.2  2010-06-21 16:42:23  gcrane
+small fixes to Greek errors -- mainly accent issues with the speaker names
+Revision 1.1  2009/10/08 19:12:08  rsingh04
+began reorganizing texts module by collection.  created separate work directory in texts module to keep hopper files separate from in progress files
+Revision 1.3  2009/09/08 20:28:34  lcerrato
+fixed typo
+Revision 1.2  2005/08/01 15:50:24  packel
+removed stray item tags
+Revision 1.1  2005/07/25 14:28:11  packel
+Converted to XML
+Revision 1.10  2004/04/21 20:51:04  mimno
+added card 1s
+Revision 1.9  2003/07/01 22:14:35  yorkc
+Updated texts to TEI P4 and Perseus P4 extensions; minor cleanup (esp. character encodings and typos.)
+Revision 1.8  2000/03/06 20:10:31  amahoney
+remove spurious headers, which mess up short toc
+Revision 1.7  2000/03/04 20:33:53  dasmith
+Added separate funder entity to TEI header.
+Revision 1.6  2000/01/31 22:55:38  amahoney
+convert to p3
+</item>
+			</change>
+		</revisionDesc>
+		<change>
+			<date>2019-05-03</date>
+			<respStmt>
+				<name>Boris Orekhov</name>
+				<resp>ed.</resp>
+			</respStmt>
+			<item>converted to P.5 Dracor format</item>
+		</change>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="Prologue">
+				<milestone ed="p" n="1" unit="card"/>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ἰοὺ ἰού:</l>
+					<l>ὦ Ζεῦ βαςιλεῦ τὸ χρῆμα τῶν νυκτῶν ὅςον:</l>
+					<l>ἀπέραντον. οὐδέποθ' ἡμέρα γενήςεται;</l>
+					<l>καὶ μὴν πάλαι γ' ἀλεκτρυόνος ἤκους' ἐγώ:</l>
+					<l n="5">οἱ δ' οἰκέται ῥέγκουςιν: ἀλλ' οὐκ ἂν πρὸ τοῦ.</l>
+					<l>ἀπόλοιο δῆτ' ὦ πόλεμε πολλῶν οὕνεκα,</l>
+					<l>ὅτ' οὐδὲ κολάς' ἔξεςτί μοι τοὺς οἰκέτας.</l>
+					<l>ἀλλ' οὐδ' ὁ χρηςτὸς οὑτοςὶ νεανίαs</l>
+					<l>ἐγείρεται τῆς νυκτός, ἀλλὰ πέρδεταi</l>
+					<l n="10">ἐν πέντε ςιςύραις ἐγκεκορδυλημένος.</l>
+					<l>ἀλλ' εἰ δοκεῖ ῥέγκωμεν ἐγκεκαλυμμένοι.</l>
+					<l>ἀλλ' οὐ δύναμαι δείλαιος εὕδειν δακνόμενοs</l>
+					<l>ὑπὸ τῆς δαπάνης καὶ τῆς φάτνης καὶ τῶν χρεῶn</l>
+					<l>διὰ τουτονὶ τὸν υἱόν. ὁ δὲ κόμην ἔχωn</l>
+					<l n="15">ἱππάζεταί τε καὶ ξυνωρικεύεταi</l>
+					<l>ὀνειροπολεῖ θ' ἵππους: ἐγὼ δ' ἀπόλλυμαi</l>
+					<l>ὁρῶν ἄγουςαν τὴν ςελήνην εἰκάδας:</l>
+					<l>οἱ γὰρ τόκοι χωροῦςιν. ἅπτε παῖ λύχνον,</l>
+					<l>κἄκφερε τὸ γραμματεῖον, ἵν' ἀναγνῶ λαβὼn</l>
+					<l n="20">ὁπόςοις ὀφείλω καὶ λογίςωμαι τοὺς τόκους.</l>
+					<l>φέρ' ἴδω τί ὀφείλω; δώδεκα μνᾶς Παςίᾳ.</l>
+					<l>τοῦ δώδεκα μνᾶς Παςίᾳ; τί ἐχρηςάμην;</l>
+					<l>ὅτ' ἐπριάμην τὸν κοππατίαν. οἴμοι τάλας,</l>
+					<l>εἴθ' ἐξεκόπην πρότερον τὸν ὀφθαλμὸν λίθῳ.</l>
+					<milestone ed="p" n="25" unit="card"/>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l n="25">Φίλων ἀδικεῖς: ἔλαυνε τὸν ςαυτοῦ δρόμον.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>τοῦτ' ἔςτι τουτὶ τὸ κακὸν ὅ μ' ἀπολώλεκεν:</l>
+					<l>ὀνειροπολεῖ γὰρ καὶ καθεύδων ἱππικήν.</l>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l>πόςους δρόμους ἐλᾷ τὰ πολεμιςτήρια;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ἐμὲ μὲν ςὺ πολλοὺς τὸν πατέρ' ἐλαύνεις δρόμους.</l>
+					<l n="30">ἀτὰρ τί χρέος ἔβα με μετὰ τὸν Παςίαν;</l>
+					<l>τρεῖς μναῖ διφρίςκου καὶ τροχοῖν ʼαμυνίᾳ.</l>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l>ἄπαγε τὸν ἵππον ἐξαλίςας οἴκαδε.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ἀλλ' ὦ μέλ' ἐξήλικας ἐμέ γ' ἐκ τῶν ἐμῶν,</l>
+					<l>ὅτε καὶ δίκας ὤφληκα χἄτεροι τόκοu</l>
+					<l n="35">ἐνεχυράςεςθαί φαςιν.</l>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l part="Y">ἐτεὸν ὦ πάτεr</l>
+					<l>τί δυςκολαίνεις καὶ ςτρέφει τὴν νύχθ' ὅλην;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>δάκνει μὲ δήμαρχός τις ἐκ τῶν ςτρωμάτων.</l>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l>ἔαςον ὦ δαιμόνιε καταδαρθεῖν τί με.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ςὺ δ' οὖν κάθευδε: τὰ δὲ χρέα ταῦτ' ἴςθ' ὅτi</l>
+					<l n="40">ἐς τὴν κεφαλὴν ἅπαντα τὴν ςὴν τρέψεται. φεῦ.</l>
+					<l>εἴθ' ὤφελ' ἡ προμνήςτρι' ἀπολέςθαι κακῶς,</l>
+					<l>ἥτις με γῆμ' ἐπῆρε τὴν ςὴν μητέρα:</l>
+					<l>ἐμοὶ γὰρ ἦν ἄγροικος ἥδιςτος βίοs</l>
+					<l>εὐρωτιῶν, ἀκόρητος, εἰκῇ κείμενος,</l>
+					<l n="45">βρύων μελίτταις καὶ προβάτοις καὶ ςτεμφύλοις.</l>
+					<l>ἔπειτ' ἔγημα Μεγακλέους τοῦ Μεγακλέουs</l>
+					<l>ἀδελφιδῆν ἄγροικος ὢν ἐξ ἄςτεως,</l>
+					<l>ςεμνὴν τρυφῶςαν ἐγκεκοιςυρωμένην.</l>
+					<l>ταύτην ὅτ' ἐγάμουν, ςυγκατεκλινόμην ἐγω\</l>
+					<l n="50">ὄζων τρυγὸς τραςιᾶς ἐρίων περιουςίας,</l>
+					<l>ἡ δ' αὖ μύρου κρόκου καταγλωττιςμάτων,</l>
+					<l>δαπάνης λαφυγμοῦ Κωλιάδος Γενετυλλίδος.</l>
+					<l>οὐ μὴν ἐρῶ γ' ὡς ἀργὸς ἦν, ἀλλ' ἐςπάθα.</l>
+					<l>ἐγὼ δ' ἂν αὐτῇ θοἰμάτιον δεικνὺς τοδι\</l>
+					<l n="55">πρόφαςιν ἔφαςκον, ὦ γύναι λίαν ςπαθᾷς.</l>
+					<milestone ed="p" n="56" unit="card"/>
+				</sp>
+				<sp who="#qerapwn">
+					<speaker>Θεράπωn</speaker>
+					<l>ἔλαιον ἡμῖν οὐκ ἔνεςτ' ἐν τῷ λύχνῳ.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>οἴμοι: τί γάρ μοι τὸν πότην ἧπτες λύχνον;</l>
+					<l>δεῦρ' ἔλθ' ἵνα κλάῃς.</l>
+				</sp>
+				<sp who="#qerapwn">
+					<speaker>Θεράπωn</speaker>
+					<l part="Y">διὰ τί δῆτα κλαύςομαι;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ὅτι τῶν παχειῶν ἐνετίθεις θρυαλλίδων.</l>
+					<l n="60">μετὰ ταῦθ', ὅπως νῷν ἐγένεθ' υἱὸς οὑτοςί,</l>
+					<l>ἐμοί τε δὴ καὶ τῇ γυναικὶ τἀγαθῇ,</l>
+					<l>περὶ τοὐνόματος δὴ 'ντεῦθεν ἐλοιδορούμεθα:</l>
+					<l>ἡ μὲν γὰρ ἵππον προςετίθει πρὸς τοὔνομα,</l>
+					<l>Ξάνθιππον ἤ Χαριππον ἢ Καλλιππίδην,</l>
+					<l n="65">ἐγὼ δὲ τοῦ πάππου 'τιθέμην Φειδωνίδην.</l>
+					<l>τέως μὲν οὖν ἐκρινόμεθ': εἶτα τῷ χρόͺνω</l>
+					<l>κοινῇ ξυνέβημεν κἀθέμεθα Φειδιππίδην.</l>
+					<l>τοῦτον τὸν υἱὸν λαμβάνους' ἐκορίζετο,</l>
+					<l>‘ὅταν ςὺ μέγας ὢν ἅρμ' ἐλαύνῃς πρὸς πόλιν,</l>
+					<l n="70">ὥςπερ Μεγακλέης, ξυςτίδ' ἔχων.’ ἐγὼ δ' ἔφην,</l>
+					<l>‘ὅταν μὲν οὖν τὰς αἶγας ἐκ τοῦ φελλέως,</l>
+					<l>ὥςπερ ὁ πατήρ ςου, διφθέραν ἐνημμένος.’</l>
+					<l>ἀλλ' οὐκ ἐπίθετο τοῖς ἐμοῖς οὐδὲν λόγοις,</l>
+					<l>ἀλλ' ἵππερόν μου κατέχεεν τῶν χρημάτων.</l>
+					<l n="75">νῦν οὖν ὅλην τὴν νύκτα φροντίζων ὁδοῦ</l>
+					<l>μίαν ηὗρον ἀτραπὸν δαιμονίως ὑπερφυᾶ,</l>
+					<l>ἣν ἢν ἀναπείςω τουτονί, ςωθήςομαι.</l>
+					<l>ἀλλ' ἐξεγεῖραι πρῶτον αὐτὸν βούλομαι.</l>
+					<l>πῶς δῆτ' ἂν ἥδιςτ' αὐτὸν ἐπεγείραιμι; πῶς;</l>
+					<l n="80">Φειδιππίδη Φειδιππίδιον.</l>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l part="Y">τί ὦ πάτερ;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>κύςον με καὶ τὴν χεῖρα δὸς τὴν δεξιάν.</l>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l>ἰδού. τί ἔςτιν;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">εἰπέ μοι, φιλεῖς ἐμέ;</l>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l>νὴ τὸν Ποςειδῶ τουτονὶ τὸν ἵππιον.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>μὴ 'μοί γε τοῦτον μηδαμῶς τὸν ἵππιον:</l>
+					<l n="85">οὗτος γὰρ ὁ θεὸς αἴτιός μοι τῶν κακῶν.</l>
+					<l>ἀλλ' εἴπερ ἐκ τῆς καρδίας μ' ὄντως φιλεῖς,</l>
+					<l>ὦ παῖ πιθοῦ.</l>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l part="Y">τί οὖν πίθωμαι δῆτά ςοι;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ἔκςτρεψον ὡς τάχιςτα τοὺς ςαυτοῦ τρόπους,</l>
+					<l>καὶ μάνθαν' ἐλθὼν ἃν ἐγὼ παραινέςω.</l>
+					<milestone ed="p" n="90" unit="card"/>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l n="90">λέγε δή, τί κελεύεις;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">καί τι πείςει;</l>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l part="Y">πείςομαi</l>
+					<l>νὴ τὸν Διόνυςον.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">δεῦρό νυν ἀπόβλεπε.</l>
+					<l>ὁρᾷς τὸ θύριον τοῦτο καὶ τᾠκίδιον;</l>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l>ὁρῶ. τί οὖν τοῦτ' ἐςτὶν ἐτεὸν ὦ πάτερ;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ψυχῶν ςοφῶν τοῦτ' ἐςτὶ φροντιςτήριον.</l>
+					<l n="95">ἐνταῦθ' ἐνοικοῦς' ἄνδρες, οἳ τὸν οὐρανὸn</l>
+					<l>λέγοντες ἀναπείθουςιν ὡς ἔςτιν πνιγεύς,</l>
+					<l>κἄςτιν περὶ ἡμᾶς οὗτος, ἡμεῖς δ' ἄνθρακες.</l>
+					<l>οὗτοι διδάςκους', ἀργύριον ἤν τις διδῷ,</l>
+					<l>λέγοντα νικᾶν καὶ δίκαια κἄδικα.</l>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l n="100">εἰςὶν δὲ τίνες;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">οὐκ οἶδ' ἀκριβῶς τοὔνομα:</l>
+					<l>μεριμνοφροντιςταὶ καλοί τε κἀγαθοί.</l>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l>αἰβοῖ πονηροί γ', οἶδα. τοὺς ἀλαζόναs</l>
+					<l>τοὺς ὠχριῶντας τοὺς ἀνυποδήτους λέγεις,</l>
+					<l>ὧν ὁ κακοδαίμων Σωκράτης καὶ Χαιρεφῶν.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l n="105">ἢ ἢ ςιώπα: μηδὲν εἴπῃς νήπιον.</l>
+					<l>ἀλλ' εἴ τι κήδει τῶν πατρῴων ἀλφίτων,</l>
+					<l>τούτων γενοῦ μοι ςχαςάμενος τὴν ἱππικήν.</l>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l>οὐκ ἂν μὰ τὸν Διόνυςον, εἰ δοίης γέ μοi</l>
+					<l>τοὺς φαςιανοὺς οὓς τρέφει Λεωγόρας.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l n="110">ἴθ' ἀντιβολῶ ς' ὦ φίλτατ' ἀνθρώπων ἐμοι\</l>
+					<l>ἐλθὼν διδάςκου.</l>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l part="Y">καὶ τί ςοι μαθήςομαι;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>εἶναι παρ' αὐτοῖς φαςιν ἄμφω τὼ λόγω,</l>
+					<l>τὸν κρείττον', ὅςτις ἐςτί, καὶ τὸν ἥττονα.</l>
+					<l>τούτοιν τὸν ἕτερον τοῖν λόγοιν, τὸν ἥττονα,</l>
+					<l n="115">νικᾶν λέγοντά φαςι τἀδικώτερα.</l>
+					<l>ἢν οὖν μάθῃς μοι τὸν ἄδικον τοῦτον λόγον,</l>
+					<l>ἃ νῦν ὀφείλω διὰ ςέ, τούτων τῶν χρεῶn</l>
+					<l>οὐκ ἂν ἀποδοίην οὐδ' ἂν ὀβολὸν οὐδενί.</l>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l>οὐκ ἂν πιθοίμην: οὐ γὰρ ἂν τλαίην ἰδεῖn</l>
+					<l n="120">τοὺς ἱππέας τὸ χρῶμα διακεκναιςμένος.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>οὐκ ἄρα μὰ τὴν Δήμητρα τῶν γ' ἐμῶν ἔδει,</l>
+					<l>οὔτ' αὐτὸς οὔθ' ὁ ζύγιος οὔθ' ὁ ςαμφόρας:</l>
+					<l>ἀλλ' ἐξελῶ ς' ἐς κόρακας ἐκ τῆς οἰκίας.</l>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l>ἀλλ' οὐ περιόψεταί μ' ὁ θεῖος Μεγακλέηs</l>
+					<l n="125">ἄνιππον. ἀλλ' εἴςειμι, ςοῦ δ' οὐ φροντιῶ.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ἀλλ' οὐδ' ἐγὼ μέντοι πεςών γε κείςομαι,</l>
+					<l>ἀλλ' εὐξάμενος τοῖςιν θεοῖς διδάξομαi</l>
+					<l>αὐτὸς βαδίζων ἐς τὸ φροντιςτήριον.</l>
+					<l>πῶς οὖν γέρων ὢν κἀπιλήςμων καὶ βραδὺs</l>
+					<l n="130">λόγων ἀκριβῶν ςχινδαλάμους μαθήςομαι;</l>
+					<l>ἰτητέον. τί ταῦτ' ἔχων ςτραγγεύομαι,</l>
+					<l>ἀλλ' οὐχὶ κόπτω τὴν θύραν; παῖ παιδίον.</l>
+					<milestone ed="p" n="133" unit="card"/>
+				</sp>
+				<sp who="#maqhths">
+					<speaker>Μαθητήs</speaker>
+					<l>βάλλ' ἐς κόρακας: τίς ἐςθ' ὁ κόψας τὴν θύραν;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>Φείδωνος υἱὸς Στρεψιάδης Κικυννόθεν.</l>
+				</sp>
+				<sp who="#maqhths">
+					<speaker>Μαθητήs</speaker>
+					<l n="135">ἀμαθής γε νὴ Δί' ὅςτις οὑτωςὶ ςφόδρa</l>
+					<l>ἀπεριμερίμνως τὴν θύραν λελάκτικαs</l>
+					<l>καὶ φροντίδ' ἐξήμβλωκας ἐξηυρημένην.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ςύγγνωθί μοι: τηλοῦ γὰρ οἰκῶ τῶν ἀγρῶν.</l>
+					<l>ἀλλ' εἰπέ μοι τὸ πρᾶγμα τοὐξημβλωμένον.</l>
+				</sp>
+				<sp who="#maqhths">
+					<speaker>Μαθητήs</speaker>
+					<l n="140">ἀλλ' οὐ θέμις πλὴν τοῖς μαθηταῖςιν λέγειν.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>λέγε νυν ἐμοὶ θαρρῶν: ἐγὼ γὰρ οὑτοςι\</l>
+					<l>ἥκω μαθητὴς ἐς τὸ φροντιςτήριον.</l>
+				</sp>
+				<sp who="#maqhths">
+					<speaker>Μαθητήs</speaker>
+					<l>λέξω. νομίςαι δὲ ταῦτα χρὴ μυςτήρια.</l>
+					<l>ἀνήρετ' ἄρτι Χαιρεφῶντα Σωκράτηs</l>
+					<l n="145">ψύλλαν ὁπόςους ἅλλοιτο τοὺς αὑτῆς πόδας:</l>
+					<l>δακοῦςα γὰρ τοῦ Χαιρεφῶντος τὴν ὀφρῦn</l>
+					<l>ἐπὶ τὴν κεφαλὴν τὴν Σωκράτους ἀφήλατο.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>πῶς δῆτα διεμέτρηςε;</l>
+				</sp>
+				<sp who="#maqhths">
+					<speaker>Μαθητήs</speaker>
+					<l part="Y">δεξιώτατα.</l>
+					<l>κηρὸν διατήξας, εἶτα τὴν ψύλλαν λαβὼn</l>
+					<l n="150">ἐνέβαψεν ἐς τὸν κηρὸν αὐτῆς τὼ πόδε,</l>
+					<l>κᾆτα ψυχείςῃ περιέφυςαν Περςικαί.</l>
+					<l>ταύτας ὑπολύςας ἀνεμέτρει τὸ χωρίον.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ὦ Ζεῦ βαςιλεῦ τῆς λεπτότητος τῶν φρενῶν.</l>
+				</sp>
+				<sp who="#maqhths">
+					<speaker>Μαθητήs</speaker>
+					<l>τί δῆτ' ἂν ἕτερον εἰ πύθοιο Σωκράτουs</l>
+					<l n="155">φρόντιςμα;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">ποῖον; ἀντιβολῶ κάτειπέ μοι.</l>
+				</sp>
+				<sp who="#maqhths">
+					<speaker>Μαθητήs</speaker>
+					<l>ἀνήρετ' αὐτὸν Χαιρεφῶν ὁ Σφήττιοs</l>
+					<l>ὁπότερα τὴν γνώμην ἔχοι, τὰς ἐμπίδαs</l>
+					<l>κατὰ τὸ ςτόμ' ᾄδειν ἢ κατὰ τοὐρροπύγιον.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>τί δῆτ' ἐκεῖνος εἶπε περὶ τῆς ἐμπίδος;</l>
+				</sp>
+				<sp who="#maqhths">
+					<speaker>Μαθητήs</speaker>
+					<l n="160">ἔφαςκεν εἶναι τοὔντερον τῆς ἐμπίδοs</l>
+					<l>ςτενόν: διὰ λεπτοῦ δ' ὄντος αὐτοῦ τὴν πνοὴn</l>
+					<l>βίᾳ βαδίζειν εὐθὺ τοὐρροπυγίου:</l>
+					<l>ἔπειτα κοῖλον πρὸς ςτενῷ προςκείμενοn</l>
+					<l>τὸν πρωκτὸν ἠχεῖν ὑπὸ βίας τοῦ πνεύματος.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l n="165">ςάλπιγξ ὁ πρωκτός ἐςτιν ἄρα τῶν ἐμπίδων.</l>
+					<l>ὦ τριςμακάριος τοῦ διεντερεύματος.</l>
+					<l>ἦ ῥᾳδίως φεύγων ἂν ἀποφύγοι δίκηn</l>
+					<l>ὅςτις δίοιδε τοὔντερον τῆς ἐμπίδος.</l>
+				</sp>
+				<sp who="#maqhths">
+					<speaker>Μαθητήs</speaker>
+					<l>πρώην δέ γε γνώμην μεγάλην ἀφῃρέθh</l>
+					<l>ὑπ' ἀςκαλαβώτου.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">τίνα τρόπον; κάτειπέ μοι.</l>
+				</sp>
+				<sp who="#maqhths">
+					<speaker>Μαθητήs</speaker>
+					<l n="171">ζητοῦντος αὐτοῦ τῆς ςελήνης τὰς ὁδοὺs</l>
+					<l>καὶ τὰς περιφορὰς εἶτ' ἄνω κεχηνότοs</l>
+					<l>ἀπὸ τῆς ὀροφῆς νύκτωρ γαλεώτης κατέχεςεν.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ἥςθην γαλεώτῃ καταχέςαντι Σωκράτους.</l>
+				</sp>
+				<sp who="#maqhths">
+					<speaker>Μαθητήs</speaker>
+					<l n="175">ἐχθὲς δέ γ' ἡμῖν δεῖπνον οὐκ ἦν ἑςπέρας.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>εἶεν: τί οὖν πρὸς τἄλφιτ' ἐπαλαμήςατο;</l>
+				</sp>
+				<sp who="#maqhths">
+					<speaker>Μαθητήs</speaker>
+					<l>κατὰ τῆς τραπέζης καταπάςας λεπτὴν τέφραn</l>
+					<l>κάμψας ὀβελίςκον εἶτα διαβήτην λαβὼn</l>
+					<l>ἐκ τῆς παλαίςτρας θοἰμάτιον ὑφείλετο.</l>
+					<milestone ed="p" n="180" unit="card"/>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l n="180">τί δῆτ' ἐκεῖνον τὸν Θαλῆν θαυμάζομεν;</l>
+					<l>ἄνοιγ' ἄνοιγ' ἀνύςας τὸ φροντιςτήριον,</l>
+					<l>καὶ δεῖξον ὡς τάχιςτά μοι τὸν Σωκράτη.</l>
+					<l>μαθητιῶ γάρ: ἀλλ' ἄνοιγε τὴν θύραν.</l>
+					<l>ὦ ʽηράκλεις ταυτὶ ποδαπὰ τὰ θηρία;</l>
+				</sp>
+				<sp who="#maqhths">
+					<speaker>Μαθητήs</speaker>
+					<l n="185">τί ἐθαύμαςας; τῷ ςοι δοκοῦςιν εἰκέναι;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>τοῖς ἐκ Πύλου ληφθεῖςι τοῖς Λακωνικοῖς.</l>
+					<l>ἀτὰρ τί ποτ' ἐς τὴν γῆν βλέπουςιν οὑτοιί;</l>
+				</sp>
+				<sp who="#maqhths">
+					<speaker>Μαθητήs</speaker>
+					<l>ζητοῦςιν οὗτοι τὰ κατὰ γῆς.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">βολβοὺς ἄρa</l>
+					<l>ζητοῦςι. μή νυν τουτογὶ φροντίζετε:</l>
+					<l n="190">ἐγὼ γὰρ οἶδ' ἵν' εἰςὶ μεγάλοι καὶ καλοί.</l>
+					<l>τί γὰρ οἵδε δρῶςιν οἱ ςφόδρ' ἐγκεκυφότες;</l>
+				</sp>
+				<sp who="#maqhths">
+					<speaker>Μαθητήs</speaker>
+					<l>οὗτοι δ' ἐρεβοδιφῶςιν ὑπὸ τὸν Τάρταρον.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>τί δῆθ' ὁ πρωκτὸς ἐς τὸν οὐρανὸν βλέπει;</l>
+				</sp>
+				<sp who="#maqhths">
+					<speaker>Μαθητήs</speaker>
+					<l>αὐτὸς καθ' αὑτὸν ἀςτρονομεῖν διδάςκεται.</l>
+					<l n="195">ἀλλ' εἴςιθ', ἵνα μὴ 'κεῖνος ὑμῖν ἐπιτύχῃ.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>μήπω γε μήπω γ': ἀλλ' ἐπιμεινάντων, ἵνa</l>
+					<l>αὐτοῖςι κοινώςω τι πραγμάτιον ἐμόν.</l>
+				</sp>
+				<sp who="#maqhths">
+					<speaker>Μαθητήs</speaker>
+					<l>ἀλλ' οὐχ οἷόν τ' αὐτοῖςι πρὸς τὸν ἀέρa</l>
+					<l>ἔξω διατρίβειν πολὺν ἄγαν ἐςτὶν χρόνον.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l n="200">πρὸς τῶν θεῶν τί γὰρ τάδ' ἐςτίν; εἰπέ μοι.</l>
+				</sp>
+				<sp who="#maqhths">
+					<speaker>Μαθητήs</speaker>
+					<l>ἀςτρονομία μὲν αὑτηί.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">τουτὶ δὲ τί;</l>
+				</sp>
+				<sp who="#maqhths">
+					<speaker>Μαθητήs</speaker>
+					<l>γεωμετρία.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">τοῦτ' οὖν τί ἐςτι χρήςιμον;</l>
+				</sp>
+				<sp who="#maqhths">
+					<speaker>Μαθητήs</speaker>
+					<l>γῆν ἀναμετρῆςαι.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">πότερα τὴν κληρουχικήν;</l>
+				</sp>
+				<sp who="#maqhths">
+					<speaker>Μαθητήs</speaker>
+					<l>οὔκ, ἀλλὰ τὴν ςύμπαςαν.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">ἀςτεῖον λέγεις.</l>
+					<l n="205">τὸ γὰρ ςόφιςμα δημοτικὸν καὶ χρήςιμον.</l>
+				</sp>
+				<sp who="#maqhths">
+					<speaker>Μαθητήs</speaker>
+					<l>αὕτη δέ ςοι γῆς περίοδος πάςης. ὁρᾷς;</l>
+					<l>αἵδε μὲν ʼαθῆναι.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">τί ςὺ λέγεις; οὐ πείθομαι,</l>
+					<l>ἐπεὶ δικαςτὰς οὐχ ὁρῶ καθημένους.</l>
+				</sp>
+				<sp who="#maqhths">
+					<speaker>Μαθητήs</speaker>
+					<l>ὡς τοῦτ' ἀληθῶς ʼαττικὸν τὸ χωρίον.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l n="210">καὶ ποῦ Κικυννῆς εἰςὶν οὑμοὶ δημόται;</l>
+				</sp>
+				<sp who="#maqhths">
+					<speaker>Μαθητήs</speaker>
+					<l>ἐνταῦθ' ἔνειςιν. ἡ δέ γ' Εὔβοἰ, ὡς ὁρᾷς,</l>
+					<l>ἡδὶ παρατέταται μακρὰ πόρρω πάνυ.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>οἶδ': ὑπὸ γὰρ ἡμῶν παρετάθη καὶ Περικλέους.</l>
+					<l>ἀλλ' ἡ Λακεδαίμων ποῦ 'ςθ';</l>
+				</sp>
+				<sp who="#maqhths">
+					<speaker>Μαθητήs</speaker>
+					<l part="Y">ὅπου 'ςτίν; αὑτηί.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l n="215">ὡς ἐγγὺς ἡμῶν. τοῦτο πάνυ φροντίζετε,</l>
+					<l>ταύτην ἀφ' ἡμῶν ἀπαγαγεῖν πόρρω πάνυ.</l>
+				</sp>
+				<sp who="#maqhths">
+					<speaker>Μαθητήs</speaker>
+					<l>ἀλλ' οὐχ οἷόν τε.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">νὴ Δί' οἰμώξεςθ' ἄρα.</l>
+					<l>φέρε τίς γὰρ οὗτος οὑπὶ τῆς κρεμάθρας ἀνήρ;</l>
+				</sp>
+				<sp who="#maqhths">
+					<speaker>Μαθητήs</speaker>
+					<l>αὐτός.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">τίς αὐτός;</l>
+				</sp>
+				<sp who="#maqhths">
+					<speaker>Μαθητήs</speaker>
+					<l part="Y">Σωκράτης.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">ὦ Σώκρατες.</l>
+					<l>ἴθ' οὗτος, ἀναβόηςον αὐτόν μοι μέγα.</l>
+				</sp>
+				<sp who="#maqhths">
+					<speaker>Μαθητήs</speaker>
+					<l n="220">αὐτὸς μὲν οὖν ςὺ κάλεςον: οὐ γάρ μοι ςχολή.</l>
+					<milestone ed="p" n="221" unit="card"/>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ὦ Σώκρατες,</l>
+					<l>ὦ Σωκρατίδιον.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l part="Y">τί με καλεῖς ὦφήμερε;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>πρῶτον μὲν ὅ τι δρᾷς ἀντιβολῶ κάτειπέ μοι.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l n="225">ἀεροβατῶ καὶ περιφρονῶ τὸν ἥλιον.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ἔπειτ' ἀπὸ ταρροῦ τοὺς θεοὺς ὑπερφρονεῖς,</l>
+					<l>ἀλλ' οὐκ ἀπὸ τῆς γῆς, εἴπερ;</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l part="Y">οὐ γὰρ ἄν ποτe</l>
+					<l>ἐξηῦρον ὀρθῶς τὰ μετέωρα πράγματα,</l>
+					<l>εἰ μὴ κρεμάςας τὸ νόημα καὶ τὴν φροντίδa</l>
+					<l n="230">λεπτὴν καταμείξας ἐς τὸν ὅμοιον ἀέρα.</l>
+					<l>εἰ δ' ὢν χαμαὶ τἄνω κάτωθεν ἐςκόπουν,</l>
+					<l>οὐκ ἄν ποθ' ηὗρον: οὐ γὰρ ἀλλ' ἡ γῆ βͺία</l>
+					<l>ἕλκει πρὸς αὑτὴν τὴν ἰκμάδα τῆς φροντίδος.</l>
+					<l>πάςχει δὲ ταὐτὸ τοῦτο καὶ τὰ κάρδαμα.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l n="235">τί φῄς;</l>
+					<l>ἡ φροντὶς ἕλκει τὴν ἰκμάδ' ἐς τὰ κάρδαμα;</l>
+					<l>ἴθι νυν κατάβηθ' ὦ Σωκρατίδιον ὡς ἐμέ,</l>
+					<l>ἵνα με διδάξῃς ὧνπερ οὕνεκ' ἐλήλυθα.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>ἦλθες δὲ κατὰ τί;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">βουλόμενος μαθεῖν λέγειν.</l>
+					<l n="240">ὑπὸ γὰρ τόκων χρήςτων τε δυςκολωτάτωn</l>
+					<l>ἄγομαι φέρομαι, τὰ χρήματ' ἐνεχυράζομαι.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>πόθεν δ' ὑπόχρεως ςαυτὸν ἔλαθες γενόμενος;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>νόςος μ' ἐπέτριψεν ἱππικὴ δεινὴ φαγεῖν.</l>
+					<l>ἀλλά με δίδαξον τὸν ἕτερον τοῖν ςοῖν λόγοιν,</l>
+					<l n="245">τὸν μηδὲν ἀποδιδόντα. μιςθὸν δ' ὅντιν' ἂn</l>
+					<l>πράττῃ μ' ὀμοῦμαί ςοι καταθήςειν τοὺς θεούς.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>ποίους θεοὺς ὀμεῖ ςύ; πρῶτον γὰρ θεοι\</l>
+					<l>ἡμῖν νόμιςμ' οὐκ ἔςτι.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">τῷ γὰρ ὄμνυτ'; ἠ\</l>
+					<l>ςιδαρέοιςιν ὥςπερ ἐν Βυζαντίῳ;</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l n="250">βούλει τὰ θεῖα πράγματ' εἰδέναι ςαφῶs</l>
+					<l>ἅττ' ἐςτὶν ὀρθῶς;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">νὴ Δί' εἴπερ ἔςτι γε.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>καὶ ξυγγενέςθαι ταῖς Νεφέλαιςιν ἐς λόγους,</l>
+					<l>ταῖς ἡμετέραιςι δαίμοςιν;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">μάλιςτά γε.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>κάθιζε τοίνυν ἐπὶ τὸν ἱερὸν ςκίμποδα.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l n="255">ἰδοὺ κάθημαι.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l part="Y">τουτονὶ τοίνυν λαβε\</l>
+					<l>τὸν ςτέφανον.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">ἐπὶ τί ςτέφανον; οἴμοι Σώκρατεs</l>
+					<l>ὥςπερ με τὸν ʼαθάμανθ' ὅπως μὴ θύςετε.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>οὔκ, ἀλλὰ ταῦτα πάντα τοὺς τελουμένουs</l>
+					<l>ἡμεῖς ποιοῦμεν.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">εἶτα δὴ τί κερδανῶ;</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l n="260">λέγειν γενήςει τρῖμμα κρόταλον παιπάλη.</l>
+					<l>ἀλλ' ἔχ' ἀτρεμί.</l>
+					<milestone ed="p" n="262" unit="card"/>
+				</sp>
+			</div1>
+			<div1 type="Parodos">
+				<div2 type="anapests">
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">μὰ τὸν Δί' οὐ ψεύςει γέ με:</l>
+						<l>καταπαττόμενος γὰρ παιπάλη γενήςομαι.</l>
+					</sp>
+				</div2>
+				<div2 type="anapests">
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>εὐφημεῖν χρὴ τὸν πρεςβύτην καὶ τῆς εὐχῆς ἐπακούειν.</l>
+						<l>ὦ δέςποτ' ἄναξ ἀμέτρητ' ʼαήρ, ὃς ἔχεις τὴν γῆν μετέωρον,</l>
+						<l n="265">λαμπρός τ' Αἰθὴρ ςεμναί τε θεαὶ Νεφέλαι βροντηςικέραυνοι,</l>
+						<l>ἄρθητε φάνητ' ὦ δέςποιναι τῷ φροντιςτῇ μετέωροι.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>μήπω μήπω γε πρὶν ἂν τουτὶ πτύξωμαι, μὴ καταβρεχθῶ.</l>
+						<l>τὸ δὲ μηδὲ κυνῆν οἴκοθεν ἐλθεῖν ἐμὲ τὸν κακοδαίμον' ἔχοντα.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>ἔλθετε δῆτ' ὦ πολυτίμητοι Νεφέλαι τῷδ' εἰς ἐπίδειξιν:</l>
+						<l n="270">εἴτ' ἐπ' ʼολύμπου κορυφαῖς ἱεραῖς χιονοβλήτοιςι κάθηςθε,</l>
+						<l>εἴτ' ʼωκεανοῦ πατρὸς ἐν κήποις ἱερὸν χορὸν ἵςτατε Νύμφαις,</l>
+						<l>εἴτ' ἄρα Νείλου προχοαῖς ὑδάτων χρυςέαις ἀρύτεςθε πρόχοιςιν,</l>
+						<l>ἢ Μαιῶτιν λίμνην ἔχετ' ἢ ςκόπελον νιφόεντα Μίμαντος:</l>
+						<l>ὑπακούςατε δεξάμεναι θυςίαν καὶ τοῖς ἱεροῖςι χαρεῖςαι.</l>
+						<milestone ed="p" n="275" unit="card"/>
+					</sp>
+				</div2>
+				<div2 n="1" type="strophe">
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l n="275">ἀέναοι Νεφέλαi</l>
+						<l>ἀρθῶμεν φανεραὶ δροςερὰν φύςιν εὐάγητον,</l>
+						<l>πατρὸς ἀπ' ʼωκεανοῦ βαρυαχέοs</l>
+						<l>ὑψηλῶν ὀρέων κορυφὰς ἐπι\</l>
+						<l n="280">δενδροκόμους, ἵνa</l>
+						<l>τηλεφανεῖς ςκοπιὰς ἀφορώμεθα,</l>
+						<l>καρπούς τ' ἀρδομέναν ἱερὰν χθόνα,</l>
+						<l>καὶ ποταμῶν ζαθέων κελαδήματα,</l>
+						<l>καὶ πόντον κελάδοντα βαρύβρομον:</l>
+						<l n="285">ὄμμα γὰρ αἰθέρος ἀκάματον ςελαγεῖταi</l>
+						<l>μαρμαρέαις ἐν αὐγαῖς.</l>
+						<l>ἀλλ' ἀποςειςάμεναι νέφος ὄμβριοn</l>
+						<l>ἀθανάτας ἰδέας ἐπιδώμεθa</l>
+						<l n="290">τηλεςκόπῳ ὄμματι γαῖαν.</l>
+						<milestone ed="p" n="291" unit="card"/>
+					</sp>
+				</div2>
+				<div2 type="anapests">
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>ὦ μέγα ςεμναὶ Νεφέλαι φανερῶς ἠκούςατέ μου καλέςαντος.</l>
+						<l>ᾔςθου φωνῆς ἅμα καὶ βροντῆς μυκηςαμένης θεοςέπτου;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>καὶ ςέβομαί γ' ὦ πολυτίμητοι καὶ βούλομαι ἀνταποπαρδεῖn</l>
+						<l>πρὸς τὰς βροντάς: οὕτως αὐτὰς τετρεμαίνω καὶ πεφόβημαι:</l>
+						<l n="295">κεἰ θέμις ἐςτίν, νυνί γ' ἤδη, κεἰ μὴ θέμις ἐςτί, χεςείω.</l>
+					</sp>
+				</div2>
+				<div2 type="anapests">
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>οὐ μὴ ςκώψει μηδὲ ποιήςεις ἅπερ οἱ τρυγοδαίμονες οὗτοι,</l>
+						<l>ἀλλ' εὐφήμει: μέγα γάρ τι θεῶν κινεῖται ςμῆνος ἀοιδαῖς.</l>
+						<milestone ed="p" n="299" unit="card"/>
+					</sp>
+				</div2>
+				<div2 n="1" type="antistrophe">
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l>παρθένοι ὀμβροφόροi</l>
+						<l n="300">ἔλθωμεν λιπαρὰν χθόνα Παλλάδος, εὔανδρον γᾶn</l>
+						<l>Κέκροπος ὀψόμεναι πολυήρατον:</l>
+						<l>οὗ ςέβας ἀρρήτων ἱερῶν, ἵνa</l>
+						<l>μυςτοδόκος δόμοs</l>
+						<l>ἐν τελεταῖς ἁγίαις ἀναδείκνυται,</l>
+						<l n="305">οὐρανίοις τε θεοῖς δωρήματα,</l>
+						<l>ναοί θ' ὑψερεφεῖς καὶ ἀγάλματα,</l>
+						<l>καὶ πρόςοδοι μακάρων ἱερώταται,</l>
+						<l>εὐςτέφανοί τε θεῶν θυςίαι θαλίαι τε,</l>
+						<l n="310">παντοδαπαῖς ἐν ὥραις,</l>
+						<l>ἦρί τ' ἐπερχομένῳ Βρομία χάρις,</l>
+						<l>εὐκελάδων τε χορῶν ἐρεθίςματα,</l>
+						<l>καὶ μοῦςα βαρύβρομος αὐλῶν.</l>
+						<milestone ed="p" n="314" unit="card"/>
+					</sp>
+				</div2>
+				<div2 type="anapests">
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>πρὸς τοῦ Διὸς ἀντιβολῶ ςε φράςον, τίνες εἴς' ὦ Σώκρατες αὗταi</l>
+						<l n="315">αἱ φθεγξάμεναι τοῦτο τὸ ςεμνόν; μῶν ἡρῷναί τινές εἰςιν;</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>ἥκιςτ' ἀλλ' οὐράνιαι Νεφέλαι μεγάλαι θεαὶ ἀνδράςιν ἀργοῖς:</l>
+						<l>αἵπερ γνώμην καὶ διάλεξιν καὶ νοῦν ἡμῖν παρέχουςιn</l>
+						<l>καὶ τερατείαν καὶ περίλεξιν καὶ κροῦςιν καὶ κατάληψιν.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ταῦτ' ἄρ' ἀκούςας' αὐτῶν τὸ φθέγμ' ἡ ψυχή μου πεπότηται,</l>
+						<l n="320">καὶ λεπτολογεῖν ἤδη ζητεῖ καὶ περὶ καπνοῦ ςτενολεςχεῖν,</l>
+						<l>καὶ γνωμιδίῳ γνώμην νύξας' ἑτέρῳ λόγῳ ἀντιλογῆςαι:</l>
+						<l>ὥςτ' εἴ πως ἔςτιν ἰδεῖν αὐτὰς ἤδη φανερῶς ἐπιθυμῶ.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>βλέπε νυν δευρὶ πρὸς τὴν Πάρνηθ': ἤδη γὰρ ὁρῶ κατιούςαs</l>
+						<l>ἡςυχῇ αὐτάς.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">fe/re pou=; dei=con.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l part="Y">xwrou=s' au(=tai pa/nu pollai\</l>
+						<l n="325">διὰ τῶν κοίλων καὶ τῶν δαςέων, αὗται πλάγιαι.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">ti/ to\ xrh=ma;</l>
+						<l>ὡς οὐ καθορῶ.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l part="Y">para\ th\n ei)/sodon.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">h)/dh nuni\ mo/lis ou(/tws.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>νῦν γέ τοι ἤδη καθορᾷς αὐτάς, εἰ μὴ λημᾷς κολοκύνταις.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>νὴ Δί' ἔγωγ', ὦ πολυτίμητοι: πάντα γὰρ ἤδη κατέχουςιν.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>ταύτας μέντοι ςὺ θεὰς οὔςας οὐκ ᾔδηςθ' οὐδ' ἐνόμιζες;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l n="330">ma\ *di/' a)ll' o(mi/xlhn kai\ dro/son au)ta\s h(gou/mhn kai\ kapno\n ei)=nai.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>οὐ γὰρ μὰ Δί' οἶςθ' ὁτιὴ πλείςτους αὗται βόςκουςι ςοφιςτάς,</l>
+						<l>Θουριομάντεις ἰατροτέχνας ςφραγιδονυχαργοκομήτας,</l>
+						<l>κυκλίων τε χορῶν ᾀςματοκάμπτας ἄνδρας μετεωροφένακας,</l>
+						<l>οὐδὲν δρῶντας βόςκους' ἀργούς, ὅτι ταύτας μουςοποιοῦςιν.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l n="335">tau=t' a)/r' e)poi/oun u(gra=n *nefela=n streptaigla=n da/ion o(rma/n,</l>
+						<l>πλοκάμους θ' ἑκατογκεφάλα Τυφῶ πρημαινούςας τε θυέλλας,</l>
+						<l>εἶτ' ἀερίας διεράς, γαμψοὺς οἰωνοὺς ἀερονηχεῖς,</l>
+						<l>ὄμβρους θ' ὑδάτων δροςερᾶν Νεφελᾶν: εἶτ' ἀντ' αὐτῶν κατέπινοn</l>
+						<l>κεςτρᾶν τεμάχη μεγαλᾶν ἀγαθᾶν κρέα τ' ὀρνίθεια κιχηλᾶν.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l n="340">dia\ me/ntoi ta/sd' ou)xi\ dikai/ws;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">le/con dh/ moi, ti/ paqou=sai,</l>
+						<l>εἴπερ νεφέλαι γ' εἰςὶν ἀληθῶς, θνηταῖς εἴξαςι γυναιξίν;</l>
+						<l>οὐ γὰρ ἐκεῖναί γ' εἰςὶ τοιαῦται.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l part="Y">fe/re poi=ai ga/r tine/s ei)sin;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>οὐκ οἶδα ςαφῶς: εἴξαςιν γοῦν ἐρίοιςιν πεπταμένοιςιν,</l>
+						<l>κοὐχὶ γυναιξὶν μὰ Δί' οὐδ' ὁτιοῦν: αὗται δὲ ῥῖνας ἔχουςιν.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l n="345">a)po/krinai/ nun a(/tt' a)\n e)/rwmai.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">le/ge nun taxe/ws o(/ ti bou/lei.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>ἤδη ποτ' ἀναβλέψας εἶδες νεφέλην κενταύρῳ ὁμοίαν,</l>
+						<l>ἢ παρδάλει ἢ λύκῳ ἢ ταύρῳ;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">nh\ *di/' e)/gwg'. ei)=ta ti/ tou=to;</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>γίγνονται πάνθ' ὅ τι βούλονται: κᾆτ' ἢν μὲν ἴδωςι κομήτηn</l>
+						<l>ἄγριόν τινα τῶν λαςίων τούτων, οἷόνπερ τὸν Ξενοφάντου,</l>
+						<l>ςκώπτουςαι τὴν μανίαν αὐτοῦ κενταύροις ᾔκαςαν αὑτάς.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l n="351">ti/ ga\r h)\n a(/rpaga tw=n dhmosi/wn kati/dwsi *si/mwna, ti/ drw=sin;</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>ἀποφαίνουςαι τὴν φύςιν αὐτοῦ λύκοι ἐξαίφνης ἐγένοντο.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ταῦτ' ἄρα ταῦτα Κλεώνυμον αὗται τὸν ῥίψαςπιν χθὲς ἰδοῦςαι,</l>
+						<l>ὅτι δειλότατον τοῦτον ἑώρων, ἔλαφοι διὰ τοῦτ' ἐγένοντο.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l n="355">kai\ nu=n g' o(/ti *kleisqe/nh ei)=don, o(ra=|s, dia\ tou=t' e)ge/nonto gunai=kes.</l>
+						<milestone ed="p" n="356" unit="card"/>
+					</sp>
+				</div2>
+			</div1>
+			<div1 type="Choral">
+				<div2 type="anapests">
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>χαίρετε τοίνυν ὦ δέςποιναι: καὶ νῦν, εἴπερ τινὶ κἄλλῳ,</l>
+						<l>οὐρανομήκη ῥήξατε κἀμοὶ φωνήν, ὦ παμβαςίλειαι.</l>
+					</sp>
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l>χαῖρ' ὦ πρεςβῦτα παλαιογενὲς θηρατὰ λόγων φιλομούςων,</l>
+						<l>ςύ τε λεπτοτάτων λήρων ἱερεῦ, φράζε πρὸς ἡμᾶς ὅ τι χρῄζεις:</l>
+						<l n="360">οὐ γὰρ ἂν ἄλλῳ γ' ὑπακούςαιμεν τῶν νῦν μετεωροςοφιςτῶn</l>
+						<l>πλὴν ἢ Προδίκῳ, τῷ μὲν ςοφίας καὶ γνώμης οὕνεκα, ςοὶ δέ,</l>
+						<l>ὅτι βρενθύει τ' ἐν ταῖςιν ὁδοῖς καὶ τὠφθαλμὼ παραβάλλεις,</l>
+						<l>κἀνυπόδητος κακὰ πόλλ' ἀνέχει κἀφ' ἡμῖν ςεμνοπροςωπεῖς.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ὦ γῆ τοῦ φθέγματος, ὡς ἱερὸν καὶ ςεμνὸν καὶ τερατῶδες.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l n="365">au(=tai ga/r toi mo/nai ei)si\ qeai/, ta)/lla de\ pa/nt' e)sti\ flu/aros.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ὁ Ζεὺς δ' ἡμῖν, φέρε πρὸς τῆς γῆς, οὑλύμπιος οὐ θεός ἐςτιν;</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>ποῖος Ζεύς; οὐ μὴ ληρήςεις: οὐδ' ἔςτι Ζεύς.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">ti/ le/geis su/;</l>
+						<l>ἀλλὰ τίς ὕει; τουτὶ γὰρ ἔμοιγ' ἀπόφηναι πρῶτον ἁπάντων.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>αὗται δήπου: μεγάλοις δέ ς' ἐγὼ ςημείοις αὐτὸ διδάξω.</l>
+						<l>φέρε ποῦ γὰρ πώποτ' ἄνευ Νεφελῶν ὕοντ' ἤδη τεθέαςαι;</l>
+						<l n="371">καίτοι χρῆν αἰθρίας ὕειν αὐτόν, ταύτας δ' ἀποδημεῖν.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>νὴ τὸν ʼαπόλλω τοῦτό γέ τοι δὴ τῷ νῦν λόγῳ εὖ προςέφυςας:</l>
+						<l>καίτοι πρότερον τὸν Δί' ἀληθῶς ᾤμην διὰ κοςκίνου οὐρεῖν.</l>
+						<l>ἀλλ' ὅςτις ὁ βροντῶν ἐςτι φράςον: τοῦτό με ποιεῖ τετρεμαίνειν.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l n="375">au(=tai brontw=si kulindo/menai.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">tw=| tro/pw| w)= pa/nta su\ tolmw=n;</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>ὅταν ἐμπληςθῶς' ὕδατος πολλοῦ κἀναγκαςθῶςι φέρεςθαι,</l>
+						<l>κατακρημνάμεναι πλήρεις ὄμβρου δι' ἀνάγκην, εἶτα βαρεῖαi</l>
+						<l>εἰς ἀλλήλας ἐμπίπτουςαι ῥήγνυνται καὶ παταγοῦςιν.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ὁ δ' ἀναγκάζων ἐςτὶ τίς αὐτάς, οὐχ ὁ Ζεύς, ὥςτε φέρεςθαι;</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l n="380">h(/kist' a)ll' ai)qe/rios *di=nos.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">*di=nos; touti/ m' e)lelh/qein,</l>
+						<l>ὁ Ζεὺς οὐκ ὤν, ἀλλ' ἀντ' αὐτοῦ Δῖνος νυνὶ βαςιλεύων.</l>
+						<l>ἀτὰρ οὐδέν πω περὶ τοῦ πατάγου καὶ τῆς βροντῆς μ' ἐδίδαξας.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>οὐκ ἤκουςάς μου τὰς Νεφέλας ὕδατος μεςτὰς ὅτι φημι\</l>
+						<l>ἐμπιπτούςας εἰς ἀλλήλας παταγεῖν διὰ τὴν πυκνότητα;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l n="385">fe/re touti\ tw=| xrh\ pisteu/ein;</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l part="Y">a)po\ sautou= 'gw/ se dida/cw.</l>
+						<l>ἤδη ζωμοῦ Παναθηναίοις ἐμπληςθεὶς εἶτ' ἐταράχθηs</l>
+						<l>τὴν γαςτέρα, καὶ κλόνος ἐξαίφνης αὐτὴν διεκορκορύγηςεν;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>νὴ τὸν ʼαπόλλω καὶ δεινὰ ποιεῖ γ' εὐθύς μοι, καὶ τετάρακταi</l>
+						<l>χὤςπερ βροντὴ τὸ ζωμίδιον παταγεῖ καὶ δεινὰ κέκραγεν:</l>
+						<l n="390">ἀτρέμας πρῶτον παππὰξ παππάξ, κἄπειτ' ἐπάγει παπαπαππάξ,</l>
+						<l>χὤταν χέζω, κομιδῇ βροντᾷ παπαπαππὰξ ὥςπερ ἐκεῖναι.</l>
+						<milestone ed="p" n="392" unit="card"/>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>ςκέψαι τοίνυν ἀπὸ γαςτριδίου τυννουτουὶ οἷα πέπορδας:</l>
+						<l>τὸν δ' ʼαέρα τόνδ' ὄντ' ἀπέραντον πῶς οὐκ εἰκὸς μέγα βροντᾶν;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ταῦτ' ἄρα καὶ τὠνόματ' ἀλλήλοιν βροντὴ καὶ πορδὴ ὁμοίω.</l>
+						<l n="395">ἀλλ' ὁ κεραυνὸς πόθεν αὖ φέρεται λάμπων πυρί, τοῦτο δίδαξον,</l>
+						<l>καὶ καταφρύγει βάλλων ἡμᾶς, τοὺς δὲ ζῶντας περιφλύει;</l>
+						<l>τοῦτον γὰρ δὴ φανερῶς ὁ Ζεὺς ἵης' ἐπὶ τοὺς ἐπιόρκους.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>καὶ πῶς ὦ μῶρε ςὺ καὶ Κρονίων ὄζων καὶ βεκκεςέληνε,</l>
+						<l>εἴπερ βάλλει τοὺς ἐπιόρκους, δῆτ' οὐχὶ Σίμων' ἐνέπρηςεn</l>
+						<l n="400">οὐδὲ Κλεώνυμον οὐδὲ Θέωρον; καίτοι ςφόδρα γ' εἴς' ἐπίορκοι:</l>
+						<l>ἀλλὰ τὸν αὑτοῦ γε νεὼν βάλλει καὶ Σούνιον ἄκρον ʼαθηνέωn</l>
+						<l>καὶ τὰς δρῦς τὰς μεγάλας: τί μαθών; οὐ γὰρ δὴ δρῦς γ' ἐπιορκεῖ.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>οὐκ οἶδ': ἀτὰρ εὖ ςὺ λέγειν φαίνει. τί γάρ ἐςτιν δῆθ' ὁ κεραυνός;</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>ὅταν ἐς ταύτας ἄνεμος ξηρὸς μετεωριςθεὶς κατακλῃςθῇ,</l>
+						<l>ἔνδοθεν αὐτὰς ὥςπερ κύςτιν φυςᾷ, κἄπειθ' ὑπ' ἀνάγκηs</l>
+						<l n="406">ῥήξας αὐτὰς ἔξω φέρεται ςοβαρὸς διὰ τὴν πυκνότητα,</l>
+						<l>ὑπὸ τοῦ ῥοίβδου καὶ τῆς ῥύμης αὐτὸς ἑαυτὸν κατακάων.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>νὴ Δί' ἐγὼ γοῦν ἀτεχνῶς ἔπαθον τουτί ποτε Διαςίοιςιn</l>
+						<l>ὀπτῶν γαςτέρα τοῖς ςυγγενέςιν, κᾆτ' οὐκ ἔςχων ἀμελήςας:</l>
+						<l n="410">ἡ δ' ἄρ' ἐφυςᾶτ', εἶτ' ἐξαίφνης διαλακήςαςα πρὸς αὐτω\</l>
+						<l>τὠφθαλμώ μου προςετίληςεν καὶ κατέκαυςεν τὸ πρόςωπον.</l>
+					</sp>
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l>ὦ τῆς μεγάλης ἐπιθυμήςας ςοφίας ἄνθρωπε παρ' ἡμῶν,</l>
+						<l>ὡς εὐδαίμων ἐν ʼαθηναίοις καὶ τοῖς ῞ελληςι γενήςει,</l>
+						<l>εἰ μνήμων εἶ καὶ φροντιςτὴς καὶ τὸ ταλαίπωρον ἔνεςτιn</l>
+						<l n="415">ἐν τῇ ψυχῇ, καὶ μὴ κάμνεις μήθ' ἑςτὼς μήτε βαδίζων,</l>
+						<l>μήτε ῥιγῶν ἄχθει λίαν μήτ' ἀριςτᾶν ἐπιθυμεῖς,</l>
+						<l>οἴνου τ' ἀπέχει καὶ γυμναςίων καὶ τῶν ἄλλων ἀνοήτων,</l>
+						<l>καὶ βέλτιςτον τοῦτο νομίζεις, ὅπερ εἰκὸς δεξιὸν ἄνδρα,</l>
+						<l>νικᾶν πράττων καὶ βουλεύων καὶ τῇ γλώττῃ πολεμίζων.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l n="420">a)ll' ou(/neka/ ge yuxh=s sterra=s duskolokoi/tou te meri/mnhs</l>
+						<l>καὶ φειδωλοῦ καὶ τρυςιβίου γαςτρὸς καὶ θυμβρεπιδείπνου,</l>
+						<l>ἀμέλει θαρρῶν οὕνεκα τούτων ἐπιχαλκεύειν παρέχοιμ' ἄν.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>ἄλλο τι δῆτ' οὖν νομιεῖς ἤδη θεὸν οὐδένα πλὴν ἅπερ ἡμεῖς,</l>
+						<l>τὸ Χάος τουτὶ καὶ τὰς Νεφέλας καὶ τὴν γλῶτταν, τρία ταυτί;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l n="425">ou)d' a)\n dialexqei/hn g' a)texnw=s toi=s a)/llois ou)d' a)\n a)pantw=n:</l>
+						<l>οὐδ' ἂν θύςαιμ', οὐδ' ἂν ςπείςαιμ', οὐδ' ἐπιθείην λιβανωτόν.</l>
+					</sp>
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l>λέγε νυν ἡμῖν ὅ τι ςοι δρῶμεν θαρρῶν, ὡς οὐκ ἀτυχήςειs</l>
+						<l>ἡμᾶς τιμῶν καὶ θαυμάζων καὶ ζητῶν δεξιὸς εἶναι.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ὦ δέςποιναι δέομαι τοίνυν ὑμῶν τουτὶ πάνυ μικρόν,</l>
+						<l n="430">τῶν ʽελλήνων εἶναί με λέγειν ἑκατὸν ςταδίοιςιν ἄριςτον.</l>
+					</sp>
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l>ἀλλ' ἔςται ςοι τοῦτο παρ' ἡμῶν: ὥςτε τὸ λοιπόν γ' ἀπὸ τουδι\</l>
+						<l>ἐν τῷ δήμῳ γνώμας οὐδεὶς νικήςει πλείονας ἢ ςύ.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>μὴ 'μοί γε λέγειν γνώμας μεγάλας: οὐ γὰρ τούτων ἐπιθυμῶ,</l>
+						<l>ἀλλ' ὅς' ἐμαυτῷ ςτρεψοδικῆςαι καὶ τοὺς χρήςτας διολιςθεῖν.</l>
+					</sp>
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l n="435">teu/cei toi/nun w(=n i(mei/reis: ou) ga\r mega/lwn e)piqumei=s.</l>
+						<l>ἀλλὰ ςεαυτὸν θαρρῶν παράδος τοῖς ἡμετέροις προπόλοιςιν.</l>
+						<milestone ed="p" n="437" unit="card"/>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>δράςω ταῦθ' ὑμῖν πιςτεύςας: ἡ γὰρ ἀνάγκη με πιέζεi</l>
+						<l>διὰ τοὺς ἵππους τοὺς κοππατίας καὶ τὸν γάμον ὅς μ' ἐπέτριψεν.</l>
+						<l>νῦν οὖν ἀτεχνῶς ὅ τι βούλονταi</l>
+						<l n="440">τουτὶ τοὐμὸν ςῶμ' αὐτοῖςιn</l>
+						<l>παρέχω, τύπτειν πεινῆν διψῆn</l>
+						<l>αὐχμεῖν ῥιγῶν ἀςκὸν δείρειν,</l>
+						<l>εἴπερ τὰ χρέα διαφευξοῦμαι,</l>
+						<l>τοῖς τ' ἀνθρώποις εἶναι δόξw</l>
+						<l n="445">θραςὺς εὔγλωττος τολμηρὸς ἴτηs</l>
+						<l>βδελυρὸς ψευδῶν ςυγκολλητὴs</l>
+						<l>εὑρηςιεπὴς περίτριμμα δικῶn</l>
+						<l>κύρβις κρόταλον κίναδος τρύμh</l>
+						<l>μάςθλης εἴρων γλοιὸς ἀλαζὼn</l>
+						<l n="450">κέντρων μιαρὸς ςτρόφις ἀργαλέοs</l>
+						<l>ματιολοιχός:</l>
+						<l>ταῦτ' εἴ με καλοῦς' ἁπαντῶντες,</l>
+						<l>δρώντων ἀτεχνῶς ὅ τι χρῄζουςιν,</l>
+						<l>κεἰ βούλονταi</l>
+						<l n="455">νὴ τὴν Δήμητρ' ἔκ μου χορδὴn</l>
+						<l>τοῖς φροντιςταῖς παραθέντων.</l>
+						<milestone ed="p" n="457" unit="card"/>
+					</sp>
+				</div2>
+				<div2 type="lyric">
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l>λῆμα μὲν πάρεςτι τῷδέ γ'</l>
+						<l>οὐκ ἄτολμον ἀλλ' ἕτοιμον. ἴςθι δ' ὡs</l>
+						<l n="460">ταῦτα μαθὼν παρ' ἐμοῦ κλέος οὐρανόμηκεs</l>
+						<l>ἐν βροτοῖςιν ἕξεις.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>τί πείςομαι;</l>
+					</sp>
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l>τὸν πάντα χρόνον μετ' ἐμοῦ</l>
+						<l n="465">ζηλωτότατον βίον ἀνθρώπων διάξεις.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ἆρά γε τοῦτ' ἄρ' ἐγώ ποτ'</l>
+						<l>ὄψομαι;</l>
+					</sp>
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l part="Y">w(/ste ge/ sou pollou\s e)pi\ tai=si qu/rais a)ei\ kaqh=sqai,</l>
+						<l n="470">βουλομένους ἀνακοινοῦςθαί τε καὶ ἐς λόγον ἐλθεῖn</l>
+						<l>πράγματα κἀντιγραφὰς πολλῶν ταλάντων,</l>
+						<l n="475">ἄξια ςῇ φρενὶ ςυμβουλευςομένους μετὰ ςοῦ.</l>
+						<milestone ed="p" n="476" unit="card"/>
+					</sp>
+				</div2>
+				<div2 type="anapests">
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l>ἀλλ' ἐγχείρει τὸν πρεςβύτην ὅ τι περ μέλλεις προδιδάςκειν,</l>
+						<l>καὶ διακίνει τὸν νοῦν αὐτοῦ καὶ τῆς γνώμης ἀποπειρῶ.</l>
+					</sp>
+				</div2>
+			</div1>
+			<div1 type="Episode">
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>ἄγε δὴ κάτειπέ μοι ςὺ τὸν ςαυτοῦ τρόπον,</l>
+					<l>ἵν' αὐτὸν εἰδὼς ὅςτις ἐςτὶ μηχανὰs</l>
+					<l n="480">ἤδη 'πὶ τούτοις πρὸς ςὲ καινὰς προςφέρω.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>τί δέ; τειχομαχεῖν μοι διανοεῖ πρὸς τῶν θεῶν;</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>οὔκ, ἀλλὰ βραχέα ςου πυθέςθαι βούλομαι.</l>
+					<l>ἦ μνημονικὸς εἶ;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">δύο τρόπω νὴ τὸν Δία:</l>
+					<l>ἢν μὲν γὰρ ὀφείληταί τί μοι, μνήμων πάνυ:</l>
+					<l n="485">ἐὰν δ' ὀφείλω, ςχέτλιος, ἐπιλήςμων πάνυ.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>ἔνεςτι δῆτα μανθάνειν ἐν τῇ φύςει;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>λέγειν μὲν οὐκ ἔνεςτ', ἀποςτερεῖν δ' ἔνι.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>πῶς οὖν δυνήςει μανθάνειν;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">ἀμέλει καλῶς.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>ἄγε νυν ὅπως, ὅταν τι προβάλλω ςοι ςοφὸn</l>
+					<l n="490">περὶ τῶν μετεώρων, εὐθέως ὑφαρπάςει.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>τί δαί; κυνηδὸν τὴν ςοφίαν ςιτήςομαι;</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>ἄνθρωπος ἀμαθὴς οὑτοςὶ καὶ βάρβαρος.</l>
+					<l>δέδοικά ς' ὦ πρεςβῦτα μὴ πληγῶν δέει.</l>
+					<l>φέρ' ἴδω τί δρᾷς, ἤν τίς ςε τύπτῃ;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">τύπτομαι,</l>
+					<l n="495">ἔπειτ' ἐπιςχὼν ὀλίγον ἐπιμαρτύρομαι,</l>
+					<l>εἶτ' αὖθις ἀκαρῆ διαλιπὼν δικάζομαι.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>ἴθι νυν κατάθου θοἰμάτιον.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">ἠδίκηκά τι,</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>οὔκ, ἀλλὰ γυμνοὺς εἰςιέναι νομίζεται.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ἀλλ' οὐχὶ φωράςων ἔγωγ' εἰςέρχομαι.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l n="500">κατάθου. τί ληρεῖς;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">εἰπὲ δή νύν μοι:</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l part="Y">τὸ τί;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ἢν ἐπιμελὴς ὦ καὶ προθύμως μανθάνω,</l>
+					<l>τῷ τῶν μαθητῶν ἐμφερὴς γενήςομαι;</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>οὐδὲν διοίςεις Χαιρεφῶντος τὴν φύςιν.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>οἴμοι κακοδαίμων ἡμιθνὴς γενήςομαι.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l n="505">οὐ μὴ λαλήςεις, ἀλλ' ἀκολουθήςεις ἐμοι\</l>
+					<l>ἀνύςας τι δευρὶ θᾶττον;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">ἐς τὼ χεῖρέ νυn</l>
+					<l>δός μοι μελιτοῦτταν πρότερον: ὡς δέδοικ' ἐγω\</l>
+					<l>εἴςω καταβαίνων ὥςπερ ἐς Τροφωνίου.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>χώρει: τί κυπτάζεις ἔχων περὶ τὴν θύραν;</l>
+					<milestone ed="p" n="510" unit="card"/>
+				</sp>
+			</div1>
+			<div1 type="Parabasis">
+				<div2 met="anapests" type="prelude">
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l n="510">ἀλλ' ἴθι χαίρων τῆς ἀνδρείαs</l>
+						<l>οὕνεκα ταύτης.</l>
+						<l>εὐτυχία γένοιτο τἀνθρώπῳ,</l>
+						<l>ὅτι προήκωn</l>
+						<l>ἐς βαθὺ τῆς ἡλικίαs</l>
+						<l n="515">νεωτέροις τὴν φύςιν αὑτοῦ</l>
+						<l>πράγμαςιν χρωτίζεταi</l>
+						<l>καὶ ςοφίαν ἐπαςκεῖ.</l>
+						<milestone ed="p" n="518" unit="card"/>
+					</sp>
+				</div2>
+				<div2 type="parabasis">
+					<l>ὦ θεώμενοι κατερῶ πρὸς ὑμᾶς ἐλευθέρωs</l>
+					<l>τἀληθῆ νὴ τὸν Διόνυςον τὸν ἐκθρέψαντά με.</l>
+					<l n="520">οὕτω νικήςαιμί τ' ἐγὼ καὶ νομιζοίμην ςοφός,</l>
+					<l>ὡς ὑμᾶς ἡγούμενος εἶναι θεατὰς δεξιοὺs</l>
+					<l>καὶ ταύτην ςοφώτατ' ἔχειν τῶν ἐμῶν κωμῳδιῶν,</l>
+					<l>πρώτους ἠξίως' ἀναγεῦς' ὑμᾶς, ἣ παρέςχε μοi</l>
+					<l>ἔργον πλεῖςτον: εἶτ' ἀνεχώρουν ὑπ' ἀνδρῶν φορτικῶn</l>
+					<l n="525">ἡττηθεὶς οὐκ ἄξιος ὤν: ταῦτ' οὖν ὑμῖν μέμφομαi</l>
+					<l>τοῖς ςοφοῖς, ὧν οὕνεκ' ἐγὼ ταῦτ' ἐπραγματευόμην.</l>
+					<l>ἀλλ' οὐδ' ὣς ὑμῶν ποθ' ἑκὼν προδώςω τοὺς δεξιούς.</l>
+					<l>ἐξ ὅτου γὰρ ἐνθάδ' ὑπ' ἀνδρῶν, οἷς ἡδὺ καὶ λέγειν,</l>
+					<l>ὁ ςώφρων τε χὠ καταπύγων ἄριςτ' ἠκουςάτην,</l>
+					<l n="530">κἀγώ, παρθένος γὰρ ἔτ' ἦν, κοὐκ ἐξῆν πώ μοι τεκεῖν,</l>
+					<l>ἐξέθηκα, παῖς δ' ἑτέρα τις λαβοῦς' ἀνείλετο,</l>
+					<l>ὑμεῖς δ' ἐξεθρέψατε γενναίως κἀπαιδεύςατε:</l>
+					<l>ἐκ τούτου μοι πιςτὰ παρ' ὑμῖν γνώμης ἔςθ' ὅρκια.</l>
+					<l>νῦν οὖν ʼηλέκτραν κατ' ἐκείνην ἥδ' ἡ κωμῳδίa</l>
+					<l n="535">ζητοῦς' ἦλθ', ἤν που 'πιτύχῃ θεαταῖς οὕτω ςοφοῖς:</l>
+					<l>γνώςεται γάρ, ἤνπερ ἴδῃ, τἀδελφοῦ τὸν βόςτρυχον.</l>
+					<l>ὡς δὲ ςώφρων ἐςτὶ φύςει ςκέψαςθ': ἥτις πρῶτα μὲn</l>
+					<l>οὐδὲν ἦλθε ῥαψαμένη ςκυτίον καθειμένοn</l>
+					<l>ἐρυθρὸν ἐξ ἄκρου παχύ, τοῖς παιδίοις ἵν' ᾖ γέλως:</l>
+					<l n="540">οὐδ' ἔςκωψε τοὺς φαλακρούς, οὐδὲ κόρδαχ' εἵλκυςεν,</l>
+					<l>οὐδὲ πρεςβύτης ὁ λέγων τἄπη τῇ βακτηρͺία</l>
+					<l>τύπτει τὸν παρόντ' ἀφανίζων πονηρὰ ςκώμματα,</l>
+					<l>οὐδ' εἰςῇξε δᾷδας ἔχους', οὐδ' ἰοὺ ἰοὺ βοᾷ,</l>
+					<l>ἀλλ' αὑτῇ καὶ τοῖς ἔπεςιν πιςτεύους' ἐλήλυθεν.</l>
+					<l n="545">κἀγὼ μὲν τοιοῦτος ἀνὴρ ὢν ποιητὴς οὐ κομῶ,</l>
+					<l>οὐδ' ὑμᾶς ζητῶ 'ξαπατᾶν δὶς καὶ τρὶς ταὔτ' εἰςάγων,</l>
+					<l>ἀλλ' ἀεὶ καινὰς ἰδέας ἐςφέρων ςοφίζομαι,</l>
+					<l>οὐδὲν ἀλλήλαιςιν ὁμοίας καὶ πάςας δεξιάς:</l>
+					<l>ὃς μέγιςτον ὄντα Κλέων' ἔπαις' ἐς τὴν γαςτέρα,</l>
+					<l n="550">κοὐκ ἐτόλμης' αὖθις ἐπεμπηδῆς' αὐτῷ κειμένῳ.</l>
+					<l>οὗτοι δ', ὡς ἅπαξ παρέδωκεν λαβὴν ʽυπέρβολος,</l>
+					<l>τοῦτον δείλαιον κολετρῶς' ἀεὶ καὶ τὴν μητέρα.</l>
+					<l>Εὔπολις μὲν τὸν Μαρικᾶν πρώτιςτον παρείλκυςεn</l>
+					<l>ἐκςτρέψας τοὺς ἡμετέρους ʽιππέας κακὸς κακῶς,</l>
+					<l n="555">προςθεὶς αὐτῷ γραῦν μεθύςην τοῦ κόρδακος οὕνεχ', ἣn</l>
+					<l>Φρύνιχος πάλαι πεποίηχ', ἣν τὸ κῆτος ἤςθιεν.</l>
+					<l>εἶθ' ῞ερμιππος αὖθις ἐποίηςεν εἰς ʽυπέρβολον,</l>
+					<l>ἄλλοι τ' ἤδη πάντες ἐρείδουςιν εἰς ʽυπέρβολον,</l>
+					<l>τὰς εἰκοὺς τῶν ἐγχέλεων τὰς ἐμὰς μιμούμενοι.</l>
+					<l n="560">ὅςτις οὖν τούτοιςι γελᾷ, τοῖς ἐμοῖς μὴ χαιρέτω:</l>
+					<l>ἢν δ' ἐμοὶ καὶ τοῖςιν ἐμοῖς εὐφραίνηςθ' εὑρήμαςιν,</l>
+					<l>ἐς τὰς ὥρας τὰς ἑτέρας εὖ φρονεῖν δοκήςετε.</l>
+					<milestone ed="p" n="563" unit="card"/>
+				</div2>
+				<div2 type="strophe">
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l>ὑψιμέδοντα μὲν θεῶn</l>
+						<l>Ζῆνα τύραννον ἐς χορὸn</l>
+						<l n="565">πρῶτα μέγαν κικλήςκω:</l>
+						<l>τόν τε μεγαςθενῆ τριαίνης ταμίαν,</l>
+						<l>γῆς τε καὶ ἁλμυρᾶς θαλάςςης ἄγριον μοχλευτήν:</l>
+						<l>καὶ μεγαλώνυμον ἡμέτερον πατέρ'</l>
+						<l n="570">Αἰθέρα ςεμνότατον βιοθρέμμονα πάντων:</l>
+						<l>τόν θ' ἱππονώμαν, ὃς ὑπερλάμπροιs</l>
+						<l>ἀκτῖςιν κατέχεi</l>
+						<l>γῆς πέδον μέγας ἐν θεοῖs</l>
+						<l>ἐν θνητοῖςί τε δαίμων.</l>
+						<milestone ed="p" n="575" unit="card"/>
+					</sp>
+				</div2>
+				<div2 met="trochees" type="epirrheme">
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l n="575">ὦ ςοφώτατοι θεαταὶ δεῦρο  τὸν νοῦν προςέχετε.</l>
+						<l>ἠδικημέναι γὰρ ὑμῖν μεμφόμεςθ' ἐναντίον:</l>
+						<l>πλεῖςτα γὰρ θεῶν ἁπάντων ὠφελούςαις τὴν πόλιν,</l>
+						<l>δαιμόνων ἡμῖν μόναις οὐ θύετ' οὐδὲ ςπένδετε,</l>
+						<l>αἵτινες τηροῦμεν ὑμᾶς. ἢν γὰρ ᾖ τις ἔξοδοs</l>
+						<l n="580">μηδενὶ ξὺν νῷ, τότ' ἢ βροντῶμεν ἢ ψακάζομεν.</l>
+						<l>εἶτα τὸν θεοῖςιν ἐχθρὸν βυρςοδέψην Παφλαγόνa</l>
+						<l>ἡνίχ' ᾑρεῖςθε ςτρατηγόν, τὰς ὀφρῦς ςυνήγομεn</l>
+						<l>κἀποιοῦμεν δεινά, βροντὴ δ' ἐρράγη δι' ἀςτραπῆς:</l>
+						<l>ἡ ςελήνη δ' ἐξέλειπε τὰς ὁδούς, ὁ δ' ἥλιοs</l>
+						<l n="585">τὴν θρυαλλίδ' εἰς ἑαυτὸν εὐθέως ξυνελκύςαs</l>
+						<l>οὐ φανεῖν ἔφαςκεν ὑμῖν, εἰ ςτρατηγήςει Κλέων.</l>
+						<l>ἀλλ' ὅμως εἵλεςθε τοῦτον. φαςὶ γὰρ δυςβουλίαn</l>
+						<l>τῇδε τῇ πόλει προςεῖναι, ταῦτα μέντοι τοὺς θεοὺs</l>
+						<l>ἅττ' ἂν ὑμεῖς ἐξαμάρτητ' ἐπὶ τὸ βέλτιον τρέπειν.</l>
+						<l n="590">ὡς δὲ καὶ τοῦτο ξυνοίςει ῥᾳδίως διδάξομεν:</l>
+						<l>ἢν Κλέωνα τὸν λάρον δώρων ἑλόντες καὶ κλοπῆs</l>
+						<l>εἶτα φιμώςητε τούτου τῷ ξύλῳ τὸν αὐχένα,</l>
+						<l>αὖθις ἐς τἀρχαῖον ὑμῖν, εἴ τι κἀξημάρτετε,</l>
+						<l n="594">ἐπὶ τὸ βέλτιον τὸ πρᾶγμα τῇ πόλει ςυνοίςεται.</l>
+						<milestone ed="p" n="595" unit="card"/>
+					</sp>
+				</div2>
+				<div2 type="antistrophe">
+					<l>ἀμφί μοι αὖτε Φοῖβ' ἄναc</l>
+					<l>Δήλιε Κυνθίαν ἔχωn</l>
+					<l>ὑψικέρατα πέτραν,</l>
+					<l>ἥ τ' ʼεφέςου μάκαιρα πάγχρυςον ἔχειs</l>
+					<l n="600">οἶκον ἐν ᾧ κόραι ςε Λυδῶν μεγάλως ςέβουςιν,</l>
+					<l>ἥ τ' ἐπιχώριος ἡμετέρα θεὸs</l>
+					<l>αἰγίδος ἡνίοχος πολιοῦχος ʼαθάνα,</l>
+					<l>Παρναςςίαν θ' ὃς κατέχωn</l>
+					<l>πέτραν ςὺν πεύκαις ςελαγεῖ</l>
+					<l n="605">Βάκχαις Δελφίςιν ἐμπρέπων,</l>
+					<l>κωμαςτὴς Διόνυςος.</l>
+					<milestone ed="p" n="607" unit="card"/>
+				</div2>
+				<div2 met="trochees" type="antepirrheme">
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l>ἡνίχ' ἡμεῖς δεῦρ' ἀφορμᾶςθαι παρεςκευάςμεθα,</l>
+						<l>ἡ ςελήνη ςυντυχοῦς' ἡμῖν ἐπέςτειλεν φράςαι,</l>
+						<l>πρῶτα μὲν χαίρειν ʼαθηναίοιςι καὶ τοῖς ξυμμάχοις:</l>
+						<l n="610">εἶτα θυμαίνειν ἔφαςκε: δεινὰ γὰρ πεπονθέναi</l>
+						<l>ὠφελοῦς' ὑμᾶς ἅπαντας οὐ λόγοις ἀλλ' ἐμφανῶς.</l>
+						<l>πρῶτα μὲν τοῦ μηνὸς ἐς δᾷδ' οὐκ ἔλαττον ἢ δραχμήν,</l>
+						<l>ὥςτε καὶ λέγειν ἅπαντας ἐξιόντας ἑςπέρας,</l>
+						<l>‘μὴ πρίῃ παῖ δᾷδ', ἐπειδὴ φῶς ςεληναίας καλόν.’</l>
+						<l n="615">ἄλλα τ' εὖ δρᾶν φηςιν, ὑμᾶς δ' οὐκ ἄγειν τὰς ἡμέραs</l>
+						<l>οὐδὲν ὀρθῶς, ἀλλ' ἄνω τε καὶ κάτω κυδοιδοπᾶν:</l>
+						<l>ὥςτ' ἀπειλεῖν φηςιν αὐτῇ τοὺς θεοὺς ἑκάςτοτe</l>
+						<l>ἡνίκ' ἂν ψευςθῶςι δείπνου κἀπίωςιν οἴκαδε,</l>
+						<l>τῆς ἑορτῆς μὴ τυχόντες κατὰ λόγον τῶν ἡμερῶν.</l>
+						<l n="620">κᾆθ' ὅταν θύειν δέῃ, ςτρεβλοῦτε καὶ δικάζετε:</l>
+						<l>πολλάκις δ' ἡμῶν ἀγόντων τῶν θεῶν ἀπαςτίαν,</l>
+						<l>ἡνίκ' ἂν πενθῶμεν ἢ τὸν Μέμνον' ἢ Σαρπηδόνα,</l>
+						<l>ςπένδεθ' ὑμεῖς καὶ γελᾶτ': ἀνθ' ὧν λαχὼν ʽυπέρβολοs</l>
+						<l>τῆτες ἱερομνημονεῖν, κἄπειθ' ὑφ' ἡμῶν τῶν θεῶn</l>
+						<l n="625">τὸν ςτέφανον ἀφῃρέθη: μᾶλλον γὰρ οὕτως εἴςεταi</l>
+						<l>κατὰ ςελήνην ὡς ἄγειν χρὴ τοῦ βίου τὰς ἡμέρας.</l>
+						<milestone ed="p" n="627" unit="card"/>
+					</sp>
+				</div2>
+			</div1>
+			<div1 type="Lyric-Scene">
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>μὰ τὴν ʼαναπνοὴν μὰ τὸ Χάος μὰ τὸν ʼαέρa</l>
+					<l>οὐκ εἶδον οὕτως ἄνδρ' ἄγροικον οὐδένa</l>
+					<l>οὐδ' ἄπορον οὐδὲ ςκαιὸν οὐδ' ἐπιλήςμονα:</l>
+					<l n="630">ὅςτις ςκαλαθυρμάτι' ἄττα μικρὰ μανθάνωn</l>
+					<l>ταῦτ' ἐπιλέληςται πρὶν μαθεῖν: ὅμως γε μὴn</l>
+					<l>αὐτὸν καλῶ θύραζε δευρὶ πρὸς τὸ φῶς.</l>
+					<l>ποῦ Στρεψιάδης; ἔξει τὸν ἀςκάντην λαβών;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ἀλλ' οὐκ ἐῶςί μ' ἐξενεγκεῖν οἱ κόρεις.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l n="635">ἀνύςας τι κατάθου καὶ πρόςεχε τὸν νοῦν.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">ἰδού.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>ἄγε δὴ τί βούλει πρῶτα νυνὶ μανθάνειn</l>
+					<l>ὧν οὐκ ἐδιδάχθης πώποτ' οὐδέν; εἰπέ μοι.</l>
+					<l>πότερα περὶ μέτρων ἢ περὶ ἐπῶν ἢ ῥυθμῶν;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>περὶ τῶν μέτρων ἔγωγ': ἔναγχος γάρ ποτe</l>
+					<l n="640">ὑπ' ἀλφιταμοιβοῦ παρεκόπην διχοινίκῳ.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>οὐ τοῦτ' ἐρωτῶ ς', ἀλλ' ὅ τι κάλλιςτον μέτροn</l>
+					<l>ἡγεῖ: πότερα τὸ τρίμετρον ἢ τὸ τετράμετρον;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ἐγὼ μὲν οὐδὲν πρότερον ἡμιεκτέου.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>οὐδὲν λέγεις ὦνθρωπε.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">περίδου νυν ἐμοί,</l>
+					<l n="645">εἰ μὴ τετράμετρόν ἐςτιν ἡμιεκτέον.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>ἐς κόρακας, ὡς ἄγροικος εἶ καὶ δυςμαθής.</l>
+					<l>ταχύ γ' ἂν δύναιο μανθάνειν περὶ ῥυθμῶν.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>τί δέ μ' ὠφελήςους' οἱ ῥυθμοὶ πρὸς τἄλφιτα;</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>πρῶτον μὲν εἶναι κομψὸν ἐν ςυνουςίᾳ,</l>
+					<l n="650">ἐπαί¨ονθ' ὁποῖός ἐςτι τῶν ῥυθμῶn</l>
+					<l>κατ' ἐνόπλιον, χὠποῖος αὖ κατὰ δάκτυλον.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>κατὰ δάκτυλον; νὴ τὸν Δί', ἀλλ' οἶδ'.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l part="Y">εἰπὲ δή.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>τίς ἄλλος ἀντὶ τουτουὶ τοῦ δακτύλου;</l>
+					<l>πρὸ τοῦ μέν, ἔτ' ἐμοῦ παιδὸς ὄντος, οὑτοςί.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l n="655">ἀγρεῖος εἶ καὶ ςκαιός.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">οὐ γὰρ ᾠζυρε\</l>
+					<l>τούτων ἐπιθυμῶ μανθάνειν οὐδέν.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l part="Y">τί δαί;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ἐκεῖν' ἐκεῖνο, τὸν ἀδικώτατον λόγον.</l>
+					<milestone ed="p" n="658" unit="card"/>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>ἀλλ' ἕτερα δεῖ ςε πρότερα τούτου μανθάνειν,</l>
+					<l>τῶν τετραπόδων ἅττ' ἐςτὶν ὀρθῶς ἄρρενα.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l n="660">ἀλλ' οἶδ' ἔγωγε τἄρρεν', εἰ μὴ μαίνομαι:</l>
+					<l>κριὸς τράγος ταῦρος κύων ἀλεκτρυών.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>ὁρᾷς ὃ πάςχεις; τήν τε θήλειαν καλεῖs</l>
+					<l>ἀλεκτρυόνα κατὰ ταὐτὸ καὶ τὸν ἄρρενα.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>πῶς δὴ φέρ';</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l part="Y">ὅπως; ἀλεκτρυὼν κἀλεκτρυών.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l n="665">νὴ τὸν Ποςειδῶ. νῦν δὲ πῶς με χρὴ καλεῖν;</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>ἀλεκτρύαιναν, τὸν δ' ἕτερον ἀλέκτορα.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ἀλεκτρύαιναν; εὖ γε νὴ τὸν ʼαέρα:</l>
+					<l>ὥςτ' ἀντὶ τούτου τοῦ διδάγματος μόνοu</l>
+					<l>διαλφιτώςω ςου κύκλῳ τὴν κάρδοπον.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l n="670">ἰδοὺ μάλ' αὖθις τοῦθ' ἕτερον: τὴν κάρδοποn</l>
+					<l>ἄρρενα καλεῖς θήλειαν οὖςαν.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">τῷ τρόͺπω</l>
+					<l>ἄρρενα καλῶ 'γὼ κάρδοπον;</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l part="Y">μάλιςτά γε,</l>
+					<l>ὥςπερ γε καὶ Κλεώνυμον.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">πῶς δή; φράςον.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>ταὐτὸν δύναταί ςοι κάρδοπος Κλεωνύμῳ.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l n="675">ἀλλ' ὦγάθ' οὐδ' ἦν κάρδοπος Κλεωνύμῳ,</l>
+					<l>ἀλλ' ἐν θυείᾳ ςτρογγύλῃ γ' ἂν ἐμάττετο.</l>
+					<l>ἀτὰρ τὸ λοιπὸν πῶς με χρὴ καλεῖν;</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l part="Y">ὅπως;</l>
+					<l>τὴν καρδόπην, ὥςπερ καλεῖς τὴν Σωςτράτην.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>τὴν καρδόπην θήλειαν;</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l part="Y">ὀρθῶς γὰρ λέγεις.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l n="680">ἐκεῖνο δ' ἦν ἄν, καρδόπη, Κλεωνύμη.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>ἔτι δή γε περὶ τῶν ὀνομάτων μαθεῖν ςε δεῖ,</l>
+					<l>ἅττ' ἄρρεν' ἐςτίν, ἅττα δ' αὐτῶν θήλεα.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ἀλλ' οἶδ' ἔγωγ' ἃ θήλε' ἐςτίν.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l part="Y">εἰπὲ δή.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>Λύςιλλα Φίλιννα Κλειταγόρα Δημητρία.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l n="685">ἄρρενα δὲ ποῖα τῶν ὀνομάτων;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">μυρία.</l>
+					<l>Φιλόξενος Μεληςίας ʼαμυνίας.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>ἀλλ' ὦ πόνηρε ταῦτά γ' ἐςτ' οὐκ ἄρρενα.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>οὐκ ἄρρεν' ὑμῖν ἐςτιν;</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l part="Y">οὐδαμῶς γ', ἐπει\</l>
+					<l>πῶς ἂν καλέςειας ἐντυχὼν ʼαμυνίᾳ;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l n="690">ὅπως ἄν; ὡδί, δεῦρο δεῦρ' ʼαμυνία.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>ὁρᾷς; γυναῖκα τὴν ʼαμυνίαν καλεῖς.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>οὔκουν δικαίως ἥτις οὐ ςτρατεύεται;</l>
+					<l>ἀτὰρ τί ταῦθ' ἃ πάντες ἴςμεν μανθάνω;</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>οὐδὲν μὰ Δί' ἀλλὰ κατακλινεὶς δευρὶ —</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">τί δρῶ;</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l n="695">ἐκφρόντιςόν τι τῶν ςεαυτοῦ πραγμάτων.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>μὴ δῆθ' ἱκετεύω ς' ἐνγεταῦθ': ἀλλ' εἴ γε χρή,</l>
+					<l>χαμαί μ' ἔαςον αὐτὰ ταῦτ' ἐκφροντίςαι.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>οὐκ ἔςτι παρὰ ταῦτ' ἄλλα.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">κακοδαίμων ἐγώ,</l>
+					<l>οἵαν δίκην τοῖς κόρεςι δώςω τήμερον.</l>
+					<milestone ed="p" n="700" unit="card"/>
+				</sp>
+				<div2 type="strophe">
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l n="700">φρόντιζε δὴ καὶ διάθρει πάντα τρόπον τε ςαυτὸn</l>
+						<l>ςτρόβει πυκνώςας.</l>
+						<l>ταχὺς δ', ὅταν εἰς ἄπορον πέςῃς,</l>
+						<l>ἐπ' ἄλλο πήδa</l>
+						<l n="705">νόημα φρενός: ὕπνος δ' ἀπέςτω γλυκύθυμος ὀμμάτων.</l>
+						<milestone ed="p" n="707" unit="card"/>
+					</sp>
+				</div2>
+				<div2 type="iambics">
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l n="707">ἀτταταῖ ἀτταταῖ.</l>
+					</sp>
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l>τί πάςχεις; τί κάμνεις;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ἀπόλλυμαι δείλαιος: ἐκ τοῦ ςκίμποδοs</l>
+						<l n="710">δάκνουςί μ' ἐξέρποντες οἱ Κορίνθιοι,</l>
+						<l>καὶ τὰς πλευρὰς δαρδάπτουςιn</l>
+						<l>καὶ τὴν ψυχὴν ἐκπίνουςιn</l>
+						<l>καὶ τοὺς ὄρχεις ἐξέλκουςιn</l>
+						<l>καὶ τὸν πρωκτὸν διορύττουςιν,</l>
+						<l n="715">καί μ' ἀπολοῦςιν.</l>
+					</sp>
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l>μή νυν βαρέως ἄλγει λίαν.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>καὶ πῶς; ὅτε μοu</l>
+						<l>φροῦδα τὰ χρήματα, φρούδη χροιά,</l>
+						<l>φρούδη ψυχή, φρούδη δ' ἐμβάς:</l>
+						<l n="720">καὶ πρὸς τούτοις ἔτι τοῖςι κακοῖs</l>
+						<l>φρουρᾶς ᾄδωn</l>
+						<l>ὀλίγου φροῦδος γεγένημαι.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>οὗτος τί ποιεῖς; οὐχὶ φροντίζεις;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">ἐγώ;</l>
+						<l>νὴ τὸν Ποςειδῶ.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l part="Y">καὶ τί δῆτ' ἐφρόντιςας;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l n="725">ὑπὸ τῶν κόρεων εἴ μού τι περιλειφθήςεται.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>ἀπολεῖ κάκιςτ'.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">ἀλλ' ὦγάθ' ἀπόλωλ' ἀρτίως.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>οὐ μαλθακιςτέ' ἀλλὰ περικαλυπτέα.</l>
+						<l>ἐξευρετέος γὰρ νοῦς ἀποςτερητικὸs</l>
+						<l>κἀπαιόλημ'.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">οἴμοι τίς ἂν δῆτ' ἐπιβάλοi</l>
+						<l n="730">ἐξ ἀρνακίδων γνώμην ἀποςτερητρίδα;</l>
+						<milestone ed="p" n="731" unit="card"/>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>φέρε νυν ἀθρήςω πρῶτον ὅ τι δρᾷ τουτονί.</l>
+						<l>οὗτος καθεύδεις;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">μὰ τὸν ʼαπόλλω 'γὼ μὲν οὔ.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>ἔχεις τι;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">μὰ Δί' οὐ δῆτ' ἔγωγ'.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l part="Y">οὐδὲn</l>
+						<l>πάνυ;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>οὐδέν γε πλὴν ἢ τὸ πέος ἐν τῇ δεξιᾷ.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l n="735">οὐκ ἐγκαλυψάμενος ταχέως τι φροντιεῖς;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>περὶ τοῦ; ςὺ γάρ μοι τοῦτο φράςον ὦ Σώκρατες.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>αὐτὸς ὅ τι βούλει πρῶτος ἐξευρὼν λέγε.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ἀκήκοας μυριάκις ἁγὼ βούλομαι,</l>
+						<l>περὶ τῶν τόκων, ὅπως ἂν ἀποδῶ μηδενί.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l n="740">ἴθι νῦν καλύπτου καὶ ςχάςας τὴν φροντίδa</l>
+						<l>λεπτὴν κατὰ μικρὸν περιφρόνει τὰ πράγματα,</l>
+						<l>ὀρθῶς διαιρῶν καὶ ςκοπῶν.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">οἴμοι τάλας.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>ἔχ' ἀτρέμα: κἂν ἀπορῇς τι τῶν νοημάτων,</l>
+						<l>ἀφεὶς ἄπελθε, [καὶ] κατὰ τὴν γνώμην πάλιn</l>
+						<l n="745">κίνηςον αὖθις αὐτὸ καὶ ζυγώθριςον.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ὦ Σωκρατίδιον φίλτατον.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l part="Y">τί ὦ γέρον;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ἔχω τόκου γνώμην ἀποςτερητικήν.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>ἐπίδειξον αὐτήν.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">εἰπὲ δή νύν μοι —</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l part="Y">τὸ τί;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>γυναῖκα φαρμακίδ' εἰ πριάμενος Θετταλὴn</l>
+						<l n="750">καθέλοιμι νύκτωρ τὴν ςελήνην, εἶτα δη\</l>
+						<l>αὐτὴν καθείρξαιμ' ἐς λοφεῖον ςτρογγύλον,</l>
+						<l>ὥςπερ κάτοπτρον, κᾆτα τηροίην ἔχων —</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>τί δῆτα τοῦτ' ἂν ὠφελήςειέν ς';</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">ὅ τι;</l>
+						<l>εἰ μηκέτ' ἀνατέλλοι ςελήνη μηδαμοῦ,</l>
+						<l n="755">οὐκ ἂν ἀποδοίην τοὺς τόκους.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l part="Y">ὁτιὴ τί δή;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ὁτιὴ κατὰ μῆνα τἀγύριον δανείζεται.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>εὖ γ': ἀλλ' ἕτερον αὖ ςοι προβαλῶ τι δεξιόν.</l>
+						<l>εἴ ςοι γράφοιτο πεντετάλαντός τις δίκη,</l>
+						<l n="760">ὅπως ἂν αὐτὴν ἀφανίςειας εἰπέ μοι.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ὅπως; ὅπως; οὐκ οἶδ': ἀτὰρ ζητητέον.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>μή νυν περὶ ςαυτὸν εἶλλε τὴν γνώμην ἀεί,</l>
+						<l>ἀλλ' ἀποχάλα τὴν φροντίδ' ἐς τὸν ἀέρa</l>
+						<l>λινόδετον ὥςπερ μηλολόνθην τοῦ ποδός.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l n="765">ηὕρηκ' ἀφάνιςιν τῆς δίκης ςοφωτάτην,</l>
+						<l>ὥςτ' αὐτὸν ὁμολογεῖν ς' ἐμοί.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l part="Y">ποίαν τινά;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ἤδη παρὰ τοῖςι φαρμακοπώλαις τὴν λίθοn</l>
+						<l>ταύτην ἑόρακας τὴν καλήν, τὴν διαφανῆ,</l>
+						<l>ἀφ' ἧς τὸ πῦρ ἅπτουςι;</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l part="Y">τὴν ὕαλον λέγεις;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ἔγωγε. φέρε τί δῆτ' ἄν, εἰ ταύτην λαβών,</l>
+						<l n="770">ὁπότε γράφοιτο τὴν δίκην ὁ γραμματεύς,</l>
+						<l>ἀπωτέρω ςτὰς ὧδε πρὸς τὸν ἥλιοn</l>
+						<l>τὰ γράμματ' ἐκτήξαιμι τῆς ἐμῆς δίκης;</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>ςοφῶς γε νὴ τὰς Χάριτας.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">οἴμ' ὡς ἥδομαi</l>
+						<l>ὅτι πεντετάλαντος διαγέγραπταί μοι δίκη.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l n="775">ἄγε δὴ ταχέως τουτὶ ξυνάρπαςον.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">τὸ τί;</l>
+						<milestone ed="p" n="776" unit="card"/>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>ὅπως ἀποςτρέψαι' ἂν ἀντιδικῶν δίκηn</l>
+						<l>μέλλων ὀφλήςειν μὴ παρόντων μαρτύρων.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>φαυλότατα καὶ ῥᾷςτ'.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l part="Y">εἰπὲ δή.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">καὶ δὴ λέγω.</l>
+						<l>εἰ πρόςθεν ἔτι μιᾶς ἐνεςτώςης δίκης,</l>
+						<l n="780">πρὶν τὴν ἐμὴν καλεῖςθ', ἀπαγξαίμην τρέχων.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>οὐδὲν λέγεις.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">νὴ τοὺς θεοὺς ἔγωγ', ἐπει\</l>
+						<l>οὐδεὶς κατ' ἐμοῦ τεθνεῶτος εἰςάξει δίκην.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>ὑθλεῖς: ἄπερρ', οὐκ ἂν διδάξαιμ' ἄν ς' ἔτι.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ὁτιὴ τί; ναὶ πρὸς τῶν θεῶν ὦ Σώκρατες.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l n="785">ἀλλ' εὐθὺς ἐπιλήθει ςύ γ' ἅττ' ἂν καὶ μάθῃς:</l>
+						<l>ἐπεὶ τί νυνὶ πρῶτον ἐδιδάχθης; λέγε.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>φέρ' ἴδω τί μέντοι πρῶτον ἦν; τί πρῶτον ἦν;</l>
+						<l>τίς ἦν ἐν ᾗ 'ματτόμεθα μέντοι τἄλφιτα;</l>
+						<l>οἴμοι τίς ἦν;</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l part="Y">οὐκ ἐς κόρακας ἀποφθερεῖ,</l>
+						<l n="790">ἐπιληςμότατον καὶ ςκαιότατον γερόντιον;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>οἴμοι τί οὖν δῆθ' ὁ κακοδαίμων πείςομαι;</l>
+						<l>ἀπὸ γὰρ ὀλοῦμαι μὴ μαθὼν γλωττοςτροφεῖν.</l>
+						<l>ἀλλ' ὦ Νεφέλαι χρηςτόν τι ςυμβουλεύςατε.</l>
+					</sp>
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l>ἡμεῖς μὲν ὦ πρεςβῦτα ςυμβουλεύομεν,</l>
+						<l n="795">εἴ ςοί τις υἱός ἐςτιν ἐκτεθραμμένος,</l>
+						<l>πέμπειν ἐκεῖνον ἀντὶ ςαυτοῦ μανθάνειν.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ἀλλ' ἔςτ' ἔμοιγ' υἱὸς καλός τε κἀγαθός:</l>
+						<l>ἀλλ' οὐκ ἐθέλει γὰρ μανθάνειν. τί ἐγὼ πάθω;</l>
+					</sp>
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l>ςὺ δ' ἐπιτρέπεις;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">εὐςωματεῖ γὰρ καὶ ςφριγᾷ,</l>
+						<l n="800">κἄςτ' ἐκ γυναικῶν εὐπτέρων τῶν Κοιςύρας.</l>
+						<l>ἀτὰρ μέτειμί γ' αὐτόν: ἢν δὲ μὴ 'θέλῃ,</l>
+						<l>οὐκ ἔςθ' ὅπως οὐκ ἐξελῶ κ' τῆς οἰκίας.</l>
+						<l>ἀλλ' ἐπανάμεινόν μ' ὀλίγον εἰςελθὼν χρόνον.</l>
+						<milestone ed="p" n="804" unit="card"/>
+					</sp>
+				</div2>
+				<div2 type="antistrophe">
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l n="804">ἆρ' αἰςθάνει πλεῖςτα δι' ἡμᾶς ἀγάθ' αὐτίχ' ἕξωn</l>
+						<l>μόνας θεῶν; ὡs</l>
+						<l>ἕτοιμος ὅδ' ἐςτὶν ἅπαντα δρᾶn</l>
+						<l>ὅς' ἂν κελεύῃς.</l>
+						<l>ςὺ δ' ἀνδρὸς ἐκπεπληγμένου καὶ φανερῶς ἐπηρμένοu</l>
+						<l n="810">γνοὺς ἀπολάψεις ὅ τι πλεῖςτον δύναςαι,</l>
+						<l>ταχέως: φιλεῖ γάρ πως τὰ τοιαῦθ' ἑτέρᾳ τρέπεςθαι.</l>
+						<milestone ed="p" n="814" unit="card"/>
+					</sp>
+				</div2>
+				<div2 type="iambics">
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>οὔτοι μὰ τὴν ʽομίχλην ἔτ' ἐνταυθοῖ μενεῖς:</l>
+						<l n="815">ἀλλ' ἔςθι' ἐλθὼν τοὺς Μεγακλέους κίονας.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l>ὦ δαιμόνιε, τί χρῆμα πάςχεις ὦ πάτερ;</l>
+						<l>οὐκ εὖ φρονεῖς μὰ τὸν Δία τὸν ʼολύμπιον.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ἰδού γ' ἰδού, Δί' ʼολύμπιον: τῆς μωρίας,</l>
+						<l>τὸν Δία νομίζειν ὄντα τηλικουτονί.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l n="820">τί δὲ τοῦτ' ἐγέλαςας ἐτεόν;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">ἐνθυμούμενοs</l>
+						<l>ὅτι παιδάριον εἶ καὶ φρονεῖς ἀρχαιϊκά.</l>
+						<l>ὅμως γε μὴν πρόςελθ', ἵν' εἰδῇς πλείονα,</l>
+						<l>καί ςοι φράςω τι πρᾶγμ' ὃ μαθὼν ἀνὴρ ἔςει.</l>
+						<l>ὅπως δὲ τοῦτο μὴ διδάξεις μηδένα.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l n="825">ἰδού: τί ἔςτιν;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">ὤμοςας νυνὶ Δία.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l>ἔγωγ'.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">ὁρᾷς οὖν ὡς ἀγαθὸν τὸ μανθάνειν;</l>
+						<l>οὐκ ἔςτιν ὦ Φειδιππίδη Ζεύς.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l part="Y">ἀλλὰ τίς;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>Δῖνος βαςιλεύει τὸν Δί' ἐξεληλακώς.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l>αἰβοῖ τί ληρεῖς;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">ἴςθι τοῦθ' οὕτως ἔχον.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l n="830">τίς φηςι ταῦτα;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">Σωκράτης ὁ Μήλιοs</l>
+						<l>καὶ Χαιρεφῶν, ὃς οἶδε τὰ ψυλλῶν ἴχνη.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l>ςὺ δ' ἐς τοςοῦτον τῶν μανιῶν ἐλήλυθαs</l>
+						<l>ὥςτ' ἀνδράςιν πείθει χολῶςιν;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">εὐςτόμεi</l>
+						<l>καὶ μηδὲν εἴπῃς φλαῦρον ἄνδρας δεξιοὺs</l>
+						<l n="835">καὶ νοῦν ἔχοντας: ὧν ὑπὸ τῆς φειδωλίαs</l>
+						<l>ἀπεκείρατ' οὐδεὶς πώποτ' οὐδ' ἠλείψατο,</l>
+						<l>οὐδ' ἐς βαλανεῖον ἦλθε λουςόμενος: ςὺ δε\</l>
+						<l>ὥςπερ τεθνεῶτος καταλόει μου τὸν βίον.</l>
+						<l>ἀλλ' ὡς τάχιςτ' ἐλθὼν ὑπὲρ ἐμοῦ μάνθανε.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l n="840">τί δ' ἂν παρ' ἐκείνων καὶ μάθοι χρηςτόν τις ἄν;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ἄληθες; ὅςαπερ ἔςτ' ἐν ἀνθρώποις ςοφά:</l>
+						<l>γνώςει δὲ ςαυτὸν ὡς ἀμαθὴς εἶ καὶ παχύς.</l>
+						<l>ἀλλ' ἐπανάμεινόν μ' ὀλίγον ἐνταυθοῖ χρόνον.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l>οἴμοι τί δράςω παραφρονοῦντος τοῦ πατρός;</l>
+						<l n="845">πότερον παρανοίας αὐτὸν εἰςαγαγὼν ἕλω,</l>
+						<l>ἢ τοῖς ςοροπηγοῖς τὴν μανίαν αὐτοῦ φράςω;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>φέρ' ἴδω, ςὺ τοῦτον τί ὀνομάζεις; εἰπέ μοι.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l>ἀλεκτρυόνα.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">καλῶς γε. ταυτηνὶ δὲ τί;</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l>ἀλεκτρυόν'.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">ἄμφω ταὐτό; καταγέλαςτος εἶ.</l>
+						<l n="850">μή νυν τὸ λοιπόν, ἀλλὰ τήνδε μὲν καλεῖn</l>
+						<l>ἀλεκτρύαιναν τουτονὶ δ' ἀλέκτορα.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l>ἀλεκτρύαιναν; ταῦτ' ἔμαθες τὰ δεξια\</l>
+						<l>εἴςω παρελθὼν ἄρτι παρὰ τοὺς γηγενεῖς;</l>
+						<milestone ed="p" n="854" unit="card"/>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>χἄτερά γε πόλλ': ἀλλ' ὅ τι μάθοιμ' ἑκάςτοτε,</l>
+						<l n="855">ἐπελανθανόμην ἂν εὐθὺς ὑπὸ πλήθους ἐτῶν.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l>διὰ ταῦτα δὴ καὶ θοἰμάτιον ἀπώλεςας;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ἀλλ' οὐκ ἀπολώλεκ', ἀλλὰ καταπεφρόντικα.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l>τὰς δ' ἐμβάδας ποῖ τέτροφας ὦνόητε ςύ;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ὥςπερ Περικλέης ἐς τὸ δέον ἀπώλεςα.</l>
+						<l n="860">ἀλλ' ἴθι βάδιζ', ἴωμεν: εἶτα τῷ πατρι\</l>
+						<l>πιθόμενος ἐξάμαρτε: κἀγώ τοί ποτε,</l>
+						<l>οἶδ', ἑξέτει ςοι τραυλίςαντι πιθόμενος,</l>
+						<l>ὃν πρῶτον ὀβολὸν ἔλαβον ἡλιαςτικόν,</l>
+						<l>τούτου 'πριάμην ςοι Διαςίοις ἁμαξίδα.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l n="865">ἦ μὴν ςὺ τούτοις τῷ χρόνῳ ποτ' ἀχθέςει.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>εὖ γ' ὅτι ἐπείςθης. δεῦρο δεῦρ' ὦ Σώκρατες,</l>
+						<l>ἔξελθ': ἄγω γάρ ςοι τὸν υἱὸν τουτονι\</l>
+						<l>ἄκοντ' ἀναπείςας.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l part="Y">νηπύτιος γάρ ἐςτ' ἔτι,</l>
+						<l>καὶ τῶν κρεμαθρῶν οὔπω τρίβων τῶν ἐνθάδε.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l n="870">αὐτὸς τρίβων εἴης ἄν, εἰ κρέμαιό γε.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>οὐκ ἐς κόρακας; καταρᾷ ςὺ τῷ διδαςκάλῳ;</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>ἰδοὺ κρέμαι', ὡς ἠλίθιον ἐφθέγξατo</l>
+						<l>καὶ τοῖςι χείλεςιν διερρυηκόςιν.</l>
+						<l>πῶς ἂν μάθοι ποθ' οὗτος ἀπόφυξιν δίκηs</l>
+						<l n="875">ἢ κλῆςιν ἢ χαύνωςιν ἀναπειςτηρίαν;</l>
+						<l>καίτοι γε ταλάντου τοῦτ' ἔμαθεν ʽυπέρβολος.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ἀμέλει δίδαςκε: θυμόςοφός ἐςτιν φύςει:</l>
+						<l>εὐθύς γέ τοι παιδάριον ὄν τυννουτονι\</l>
+						<l>ἔπλαττεν ἔνδον οἰκίας ναῦς τ' ἔγλυφεν,</l>
+						<l n="880">ἁμαξίδας τε ςκυτίνας ἠργάζετο,</l>
+						<l>κἀκ τῶν ςιδίων βατράχους ἐποίει πῶς δοκεῖς.</l>
+						<l>ὅπως δ' ἐκείνω τὼ λόγω μαθήςεται,</l>
+						<l>τὸν κρείττον' ὅςτις ἐςτὶ καὶ τὸν ἥττονα,</l>
+						<l>ὃς τἄδικα λέγων ἀνατρέπει τὸν κρείττονα:</l>
+						<l n="885">ἐὰν δὲ μή, τὸν γοῦν ἄδικον πάςῃ τέχνῃ.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>αὐτὸς μαθήςεται παρ' αὐτοῖν τοῖν λόγοιν.</l>
+						<l>ἐγὼ δ' ἀπέςομαι.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">τοῦτό νυν μέμνης', ὅπωs</l>
+						<l>πρὸς πάντα τὰ δίκαι' ἀντιλέγειν δυνήςεται.</l>
+						<milestone ed="p" n="889" unit="card"/>
+					</sp>
+				</div2>
+			</div1>
+			<div1 type="Agon">
+				<div2 met="anapests" type="proagon">
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l>χώρει δευρί, δεῖξον ςαυτὸn</l>
+						<l n="890">τοῖςι θεαταῖς, καίπερ θραςὺς ὤν.</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l>ἴθ' ὅποι χρῄζεις. πολὺ γὰρ μᾶλλόν 's</l>
+						<l>ἐν τοῖς πολλοῖςι λέγων ἀπολῶ.</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l>ἀπολεῖς ςύ; τίς ὤν;</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l part="Y">λόγος.</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l part="Y">ἥττωn</l>
+						<l>γ' ὤν.</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l>ἀλλά ςε νικῶ τὸν ἐμοῦ κρείττw</l>
+						<l n="895">φάςκοντ' εἶναι.</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l part="Y">τί ςοφὸν ποιῶν;</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l>γνώμας καινὰς ἐξευρίςκων.</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l>ταῦτα γὰρ ἀνθεῖ διὰ τουτουςι\</l>
+						<l>τοὺς ἀνοήτους.</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l>οὔκ, ἀλλὰ ςοφούς.</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l part="Y">ἀπολῶ ςε κακῶς.</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l n="900">εἰπὲ τί ποιῶν;</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l part="Y">τὰ δίκαια λέγων.</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l>ἀλλ' ἀνατρέψω γ' αὔτ' ἀντιλέγων:</l>
+						<l>οὐδὲ γὰρ εἶναι πάνυ φημὶ δίκην.</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l>οὐκ εἶναι φῄς;</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l part="Y">φέρε γὰρ ποῦ 'ςτιν;</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l>παρὰ τοῖςι θεοῖς.</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l>πῶς δῆτα δίκης οὔςης ὁ Ζεὺs</l>
+						<l n="905">οὐκ ἀπόλωλεν τὸν πατέρ' αὑτοῦ</l>
+						<l>δήςας;</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l part="Y">αἰβοῖ τουτὶ καὶ δη\</l>
+						<l>χωρεῖ τὸ κακόν: δότε μοι λεκάνην.</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l>τυφογέρων εἶ κἀνάρμοςτος.</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l>καταπύγων εἶ κἀναίςχυντος.</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l n="910">ῥόδα μ' εἴρηκας.</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l part="Y">καὶ βωμολόχος.</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l>κρίνεςι ςτεφανοῖς.</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l part="Y">καὶ πατραλοίας.</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l>χρυςῷ πάττων μ' οὐ γιγνώςκεις.</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l>οὐ δῆτα πρὸ τοῦ γ', ἀλλὰ μολύβδῳ.</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l>νῦν δέ γε κόςμος τοῦτ' ἐςτὶν ἐμοί.</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l n="915">θραςὺς εἶ πολλοῦ.</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l part="Y">ςὺ δέ γ' ἀρχαῖος.</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l>διὰ ςὲ δὲ φοιτᾶn</l>
+						<l>οὐδεὶς ἐθέλει τῶν μειρακίων:</l>
+						<l>καὶ γνωςθήςει ποτ' ʼαθηναίοιs</l>
+						<l>οἶα διδάςκεις τοὺς ἀνοήτους.</l>
+						<milestone ed="p" n="920" unit="card"/>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l>αὐχμεῖς αἰςχρῶς.</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l part="Y">ςὺ δέ γ' εὖ πράττεις.</l>
+						<l n="921">καίτοι πρότερόν γ' ἐπτώχευες,</l>
+						<l>Τήλεφος εἶναι Μυςὸς φάςκων,</l>
+						<l>ἐκ πηριδίοu</l>
+						<l>γνώμας τρώγων Πανδελετείους.</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l n="925">ὤμοι ςοφίας —</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l part="Y">ὤμοι μανίας —</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l>ἧς ἐμνήςθης —</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l>τῆς ςῆς, πόλεώς θ' ἥτις ςε τρέφεi</l>
+						<l>λυμαινόμενον τοῖς μειρακίοις.</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l>οὐχὶ διδάξεις τοῦτον Κρόνος ὤν.</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l n="930">εἴπερ γ' αὐτὸν ςωθῆναι χρη\</l>
+						<l>καὶ μὴ λαλιὰν μόνον ἀςκῆςαι.</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l>δεῦρ' ἴθι, τοῦτον δ' ἔα μαίνεςθαι.</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l>κλαύςει, τὴν χεῖρ' ἢν ἐπιβάλλῃς.</l>
+					</sp>
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l>παύςαςθε μάχης καὶ λοιδορίας.</l>
+						<l n="935">ἀλλ' ἐπίδειξαι ςύ τε τοὺς προτέρουs</l>
+						<l>ἅττ' ἐδίδαςκες, ςύ τε τὴν καινὴn</l>
+						<l>παίδευςιν, ὅπως ἂν ἀκούςας ςφῷn</l>
+						<l>ἀντιλεγόντοιν κρίνας φοιτᾷ.</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l>δρᾶν ταῦτ' ἐθέλω.</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l part="Y">κἄγωγ' ἐθέλω.</l>
+					</sp>
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l n="940">φέρε δὴ πότερος λέξει πρότερος;</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l>τούτῳ δώςω:</l>
+						<l>κᾆτ' ἐκ τούτων ὧν ἂν λέͺξη</l>
+						<l>ῥηματίοιςιν καινοῖς αὐτὸn</l>
+						<l>καὶ διανοίαις κατατοξεύςω.</l>
+						<l n="945">τὸ τελευταῖον δ', ἢν ἀναγρύζῃ,</l>
+						<l>τὸ πρόςωπον ἅπαν καὶ τὠφθαλμω\</l>
+						<l>κεντούμενος ὥςπερ ὑπ' ἀνθρηνῶn</l>
+						<l>ὑπὸ τῶν γνωμῶν ἀπολεῖται.</l>
+						<milestone ed="p" n="949" unit="card"/>
+					</sp>
+				</div2>
+				<div2 type="strophe">
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l>νῦν δείξετον τὼ πιςύνω τοῖς περιδεξίοιςi</l>
+						<l>λόγοιςι καὶ φροντίςι καὶ γνωμοτύποις μερίμναις,</l>
+						<l>ὁπότερος αὐτοῖν λέγων ἀμείνων φανήςεται.</l>
+						<l n="955">νῦν γὰρ ἅπας ἐνθάδε κίνδυνος ἀνεῖται ςοφίας,</l>
+						<l>ἧς πέρι τοῖς ἐμοῖς φίλοις ἐςτὶν ἀγὼν μέγιςτος.</l>
+						<milestone ed="p" n="959" unit="card"/>
+					</sp>
+				</div2>
+				<div2 met="anapests" type="katakeleusmenos">
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l n="959">ἀλλ' ὦ πολλοῖς τοὺς πρεςβυτέρους ἤθεςι χρηςτοῖς ςτεφανώςας,</l>
+						<l>ῥῆξον φωνὴν ᾗτινι χαίρεις, καὶ τὴν ςαυτοῦ φύςιν εἰπέ.</l>
+						<milestone ed="p" n="961" unit="card"/>
+					</sp>
+				</div2>
+				<div2 met="anapests" type="epirrheme">
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l n="961">λέξω τοίνυν τὴν ἀρχαίαν παιδείαν ὡς διέκειτο,</l>
+						<l>ὅτ' ἐγὼ τὰ δίκαια λέγων ἤνθουν καὶ ςωφροςύνη 'νενόμιςτο.</l>
+						<l>πρῶτον μὲν ἔδει παιδὸς φωνὴν γρύξαντος μηδὲν ἀκοῦςαι:</l>
+						<l>εἶτα βαδίζειν ἐν ταῖςιν ὁδοῖς εὐτάκτως ἐς κιθαριςτοῦ</l>
+						<l>τοὺς κωμήτας γυμνοὺς ἁθρόους, κεἰ κριμνώδη κατανείφοι.</l>
+						<l n="966">εἶτ' αὖ προμαθεῖν ᾆςμ' ἐδίδαςκεν τὼ μηρὼ μὴ ξυνέχοντας,</l>
+						<l>ἢ ‘Παλλάδα περςέπολιν δεινὰν’ ἢ ‘τηλέπορόν τι βόαμα,’</l>
+						<l>ἐντειναμένους τὴν ἁρμονίαν, ἣν οἱ πατέρες παρέδωκαν.</l>
+						<l>εἰ δέ τις αὐτῶν βωμολοχεύςαιτ' ἢ κάμψειέν τινα καμπήν,</l>
+						<l>οἵας οἱ νῦν τὰς κατὰ Φρῦνιν ταύτας τὰς δυςκολοκάμπτους,</l>
+						<l>ἐπετρίβετο τυπτόμενος πολλὰς ὡς τὰς Μούςας ἀφανίζων.</l>
+						<l>ἐν παιδοτρίβου δὲ καθίζοντας τὸν μηρὸν ἔδει προβαλέςθαi</l>
+						<l>τοὺς παῖδας, ὅπως τοῖς ἔξωθεν μηδὲν δείξειαν ἀπηνές:</l>
+						<l n="975">εἶτ' αὖ πάλιν αὖθις ἀνιςτάμενον ςυμψῆςαι, καὶ προνοεῖςθαi</l>
+						<l>εἴδωλον τοῖςιν ἐραςταῖςιν τῆς ἥβης μὴ καταλείπειν.</l>
+						<l>ἠλείψατο δ' ἂν τοὐμφαλοῦ οὐδεὶς παῖς ὑπένερθεν τότ' ἄν, ὥςτe</l>
+						<l>τοῖς αἰδοίοιςι δρόςος καὶ χνοῦς ὥςπερ μήλοιςιν ἐπήνθει:</l>
+						<l>οὐδ' ἂν μαλακὴν φυραςάμενος τὴν φωνὴν πρὸς τὸν ἐραςτὴn</l>
+						<l n="980">αὐτὸς ἑαυτὸν προαγωγεύων τοῖς ὀφθαλμοῖς ἐβάδιζεν,</l>
+						<l>οὐδ' ἀνελέςθαι δειπνοῦντ' ἐξῆν καὶ κεφάλαιον ῥαφανῖδος,</l>
+						<l>οὐδ' ἄννηθον τῶν πρεςβυτέρων ἁρπάζειν οὐδὲ ςέλινον,</l>
+						<l>οὐδ' ὀψοφαγεῖν οὐδὲ κιχλίζειν οὐδ' ἴςχειν τὼ πόδ' ἐναλλάξ.</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l>ἀρχαῖά γε καὶ Διιπολιώδη καὶ τεττίγων ἀνάμεςτa</l>
+						<l n="985">καὶ Κηκείδου καὶ Βουφονίων.</l>
+						<milestone ed="p" n="986" unit="card"/>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l part="Y">ἀλλ' οὖν ταῦτ' ἐςτὶν ἐκεῖνα,</l>
+						<l>ἐξ ὧν ἄνδρας Μαραθωνομάχας ἡμὴ παίδευςις ἔθρεψεν.</l>
+						<l>ςὺ δὲ τοὺς νῦν εὐθὺς ἐν ἱματίοιςι διδάςκεις ἐντετυλίχθαι:</l>
+						<l>ὥςτε μ' ἀπάγχεςθ', ὅταν ὀρχεῖςθαι Παναθηναίοις δέον αὐτοὺs</l>
+						<l>τὴν ἀςπίδα τῆς κωλῆς προέχων ἀμελῇ τῆς Τριτογενείας.</l>
+						<l n="990">πρὸς ταῦτ' ὦ μειράκιον θαρρῶν ἐμὲ τὸν κρείττω λόγον αἱροῦ:</l>
+						<l>κἀπιςτήςει μιςεῖν ἀγορὰν καὶ βαλανείων ἀπέχεςθαι,</l>
+						<l>καὶ τοῖς αἰςχροῖς αἰςχύνεςθαι, κἂν ςκώπτῃ τίς ςε φλέγεςθαι:</l>
+						<l>καὶ τῶν θάκων τοῖς πρεςβυτέροις ὑπανίςταςθαι προςιοῦςιν,</l>
+						<l>καὶ μὴ περὶ τοὺς ςαυτοῦ γονέας ςκαιουργεῖν, ἄλλο τε μηδὲn</l>
+						<l n="995">αἰςχρὸν ποιεῖν, ὅτι τῆς αἰδοῦς μέλλεις τἄγαλμ' ἀναπλάττειν:</l>
+						<l>μηδ' εἰς ὀρχηςτρίδος εἰςᾴττειν, ἵνα μὴ πρὸς ταῦτα κεχηνὼs</l>
+						<l>μήλῳ βληθεὶς ὑπὸ πορνιδίου τῆς εὐκλείας ἀποθραυςθῇς:</l>
+						<l>μηδ' ἀντειπεῖν τῷ πατρὶ μηδέν, μηδ' ʼιαπετὸν καλέςαντa</l>
+						<l>μνηςικακῆςαι τὴν ἡλικίαν ἐξ ἧς ἐνεοττοτροφήθης.</l>
+						<milestone ed="p" n="1000" unit="card"/>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l n="1000">εἰ ταῦτ' ὦ μειράκιον πείςει τούτῳ, νὴ τὸν Διόνυςοn</l>
+						<l>τοῖς ʽιπποκράτους υἱέςιν εἴξεις καὶ ςε καλοῦςι βλιτομάμμαν.</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l>ἀλλ' οὖν λιπαρός γε καὶ εὐανθὴς ἐν γυμναςίοις διατρίψεις,</l>
+						<l>οὐ ςτωμύλλων κατὰ τὴν ἀγορὰν τριβολεκτράπελ' οἷάπερ οἱ νῦν,</l>
+						<l>οὐδ' ἑλκόμενος περὶ πραγματίου γλιςχραντιλογεξεπιτρίπτου:</l>
+						<l n="1005">ἀλλ' εἰς ʼακαδήμειαν κατιὼν ὑπὸ ταῖς μορίαις ἀποθρέξεi</l>
+						<l>ςτεφανωςάμενος καλάμῳ λευκῷ μετὰ ςώφρονος ἡλικιώτου,</l>
+						<l>μίλακος ὄζων καὶ ἀπραγμοςύνης καὶ λεύκης φυλλοβολούςης,</l>
+						<l>ἦρος ἐν ὥρᾳ χαίρων, ὁπόταν πλάτανος πτελέᾳ ψιθυρίζῃ.</l>
+						<milestone ed="p" n="1009" unit="card"/>
+					</sp>
+				</div2>
+				<div2 type="pnigos">
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l>ἢν ταῦτα ποιῇς ἁγὼ φράζω,</l>
+						<l n="1010">καὶ πρὸς τούτοις προςέχῃς τὸν νοῦν,</l>
+						<l>ἕξεις ἀει\</l>
+						<l>ςτῆθος λιπαρόν, χροιὰν λαμπράν,</l>
+						<l>ὤμους μεγάλους, γλῶτταν βαιάν,</l>
+						<l>πυγὴν μεγάλην, πόςθην μικράν.</l>
+						<l n="1015">ἢν δ' ἅπερ οἱ νῦν ἐπιτηδεύῃς,</l>
+						<l>πρῶτα μὲν ἕξειs</l>
+						<l>χροιὰν ὠχράν, ὤμους μικρούς,</l>
+						<l>ςτῆθος λεπτόν, γλῶτταν μεγάλην,</l>
+						<l>πυγὴν μικράν, κωλῆν μεγάλην,</l>
+						<l>ψήφιςμα μακρόν, καὶ ς' ἀναπείςεi</l>
+						<l n="1020">τὸ μὲν αἰςχρὸν ἅπαν καλὸν ἡγεῖςθαι,</l>
+						<l>τὸ καλὸν δ' αἰςχρόν:</l>
+						<l>καὶ πρὸς τούτοις τῆς ʼαντιμάχοu</l>
+						<l n="1023">καταπυγοςύνης ἀναπλήςει.</l>
+						<milestone ed="p" n="1024" unit="card"/>
+					</sp>
+				</div2>
+				<div2 type="antistrophe">
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l>ὦ καλλίπυργον ςοφίαν κλεινοτάτην ἐπαςκῶν,</l>
+						<l>ὡς ἡδύ ςου τοῖςι λόγοις ςῶφρον ἔπεςτιν ἄνθος.</l>
+						<l>†εὐδαίμονες δ' ἦςαν ἄρ' οἱ ζῶντες τότ' ἐπι\</l>
+						<l>τῶν προτέρων†: πρὸς τάδε ς' ὦ κομψοπρεπῆ μοῦςαν ἔχων,</l>
+						<l n="1031">δεῖ ςε λέγειν τι καινόν, ὡς ηὐδοκίμηκεν ἁνήρ.</l>
+						<milestone ed="p" n="1034" unit="card"/>
+					</sp>
+				</div2>
+				<div2 met="anapests" type="antikatakeleusmenos">
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l>δεινῶν δέ ςοι βουλευμάτων ἔοικε δεῖν πρὸς αὐτόν,</l>
+						<l n="1035">εἴπερ τὸν ἄνδρ' ὑπερβαλεῖ καὶ μὴ γέλωτ' ὀφλήςεις.</l>
+						<milestone ed="p" n="1036" unit="card"/>
+					</sp>
+				</div2>
+				<div2 type="antepirrheme">
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l>καὶ μὴν πάλαι γ' ἐπνιγόμην τὰ ςπλάγχνα κἀπεθύμουn</l>
+						<l>ἅπαντα ταῦτ' ἐναντίαις γνώμαιςι ςυνταράξαι.</l>
+						<l>ἐγὼ γὰρ ἥττων μὲν λόγος δι' αὐτὸ τοῦτ' ἐκλήθηn</l>
+						<l>ἐν τοῖςι φροντιςταῖςιν, ὅτι πρώτιςτος ἐπενόηςa</l>
+						<l n="1040">τοῖςιν νόμοις καὶ ταῖς δίκαις τἀναντί' ἀντιλέξαι.</l>
+						<l>καὶ τοῦτο πλεῖν ἢ μυρίων ἔςτ' ἄξιον ςτατήρων,</l>
+						<l>αἱρούμενον τοὺς ἥττονας λόγους ἔπειτα νικᾶν.</l>
+						<l>ςκέψαι δὲ τὴν παίδευςιν ᾗ πέποιθεν ὡς ἐλέγξω,</l>
+						<l>ὅςτις ςε θερμῷ φηςι λοῦςθαι πρῶτον οὐκ ἐάςειν.</l>
+						<l n="1045">καίτοι τίνα γνώμην ἔχων ψέγεις τὰ θερμὰ λουτρά;</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l>ὁτιὴ κάκιςτόν ἐςτι καὶ δειλὸν ποιεῖ τὸν ἄνδρα.</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l>ἐπίςχες: εὐθὺς γάρ ς' ἔχω μέςον λαβὼν ἄφυκτον.</l>
+						<l>καί μοι φράςον, τῶν τοῦ Διὸς παίδων τίν' ἄνδρ' ἄριςτοn</l>
+						<l>ψυχὴν νομίζεις, εἰπέ, καὶ πλείςτους πόνους πονῆςαι.</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l n="1050">ἐγὼ μὲν οὐδέν' ʽηρακλέους βελτίον' ἄνδρα κρίνω.</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l>ποῦ ψυχρὰ δῆτα πώποτ' εἶδες ʽηράκλεια λουτρά;</l>
+						<l>καίτοι τίς ἀνδρειότερος ἦν;</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l part="Y">ταῦτ' ἐςτὶ ταῦτ' ἐκεῖνα,</l>
+						<l>ἃ τῶν νεανίςκων ἀεὶ δι' ἡμέρας λαλούντωn</l>
+						<l>πλῆρες τὸ βαλανεῖον ποιεῖ, κενὰς δὲ τὰς παλαίςτρας.</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l n="1055">εἶτ' ἐν ἀγορᾷ τὴν διατριβὴν ψέγεις: ἐγὼ δ' ἐπαινῶ.</l>
+						<l>εἰ γὰρ πονηρὸν ἦν, ῞ομηρος οὐδέποτ' ἂν ἐποίεi</l>
+						<l>τὸν Νέςτορ' ἀγορητὴν ἂν οὐδὲ τοὺς ςοφοὺς ἅπαντας.</l>
+						<l>ἄνειμι δῆτ' ἐντεῦθεν ἐς τὴν γλῶτταν, ἣν ὁδὶ μὲn</l>
+						<l>οὔ φηςι χρῆναι τοὺς νέους ἀςκεῖν, ἐγὼ δέ φημι.</l>
+						<l n="1060">καὶ ςωφρονεῖν αὖ φηςι χρῆναι: δύο κακὼ μεγίςτω.</l>
+						<l>ἐπεὶ ςὺ διὰ τὸ ςωφρονεῖν τῷ πώποτ' εἶδες ἤδh</l>
+						<l>ἀγαθάν τι γενόμενον, φράςον, καί μ' ἐξέλεγξον εἰπών.</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l>πολλοῖς. ὁ γοῦν Πηλεὺς ἔλαβε διὰ τοῦτο τὴν μάχαιραν.</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l>μάχαιραν; ἀςτεῖόν γε κέρδος ἔλαβεν ὁ κακοδαίμων.</l>
+						<l n="1065">ʽυπέρβολος δ' οὑκ τῶν λύχνων πλεῖν ἢ τάλαντα πολλα\</l>
+						<l>εἴληφε διὰ πονηρίαν, ἀλλ' οὐ μὰ Δί' οὐ μάχαιραν.</l>
+						<milestone ed="p" n="1067" unit="card"/>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l>καὶ τὴν Θέτιν γ' ἔγημε διὰ τὸ ςωφρονεῖν ὁ Πηλεύς.</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l>κᾆτ' ἀπολιποῦςά γ' αὐτὸν ᾤχετ': οὐ γὰρ ἦν ὑβριςτὴs</l>
+						<l>οὐδ' ἡδὺς ἐν τοῖς ςτρώμαςιν τὴν νύκτα παννυχίζειν:</l>
+						<l n="1070">γυνὴ δὲ ςιναμωρουμένη χαίρει: ςὺ δ' εἶ Κρόνιππος.</l>
+						<l>ςκέψαι γὰρ ὦ μειράκιον ἐν τῷ ςωφρονεῖν ἅπαντa</l>
+						<l>ἅνεςτιν, ἡδονῶν θ' ὅςων μέλλεις ἀποςτερεῖςθαι,</l>
+						<l>παίδων γυναικῶν κοττάβων ὄψων πότων κιχλιςμῶν.</l>
+						<l>καίτοι τί ςοι ζῆν ἄξιον, τούτων ἐὰν ςτερηθῇς;</l>
+						<l n="1075">εἶεν. πάρειμ' ἐντεῦθεν ἐς τὰς τῆς φύςεως ἀνάγκας.</l>
+						<l>ἥμαρτες, ἠράςθης, ἐμοίχευςάς τι, κᾆτ' ἐλήφθης:</l>
+						<l>ἀπόλωλας: ἀδύνατος γὰρ εἶ λέγειν. ἐμοὶ δ' ὁμιλῶn</l>
+						<l>χρῶ τῇ φύςει, ςκίρτα, γέλα, νόμιζε μηδὲν αἰςχρόν.</l>
+						<l>μοιχὸς γὰρ ἢν τύχῃς ἁλούς, τάδ' ἀντερεῖς πρὸς αὐτόν,</l>
+						<l n="1080">ὡς οὐδὲν ἠδίκηκας: εἶτ' ἐς τὸν Δί' ἐπανενεγκεῖν,</l>
+						<l>κἀκεῖνος ὡς ἥττων ἔρωτός ἐςτι καὶ γυναικῶν:</l>
+						<l>καίτοι ςὺ θνητὸς ὢν θεοῦ πῶς μεῖζον ἂν δύναιο;</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l>τί δ' ἢν ῥαφανιδωθῇ πιθόμενός ςοι τέφρᾳ τε τιλθῇ,</l>
+						<l>ἕξει τινὰ γνώμην λέγειν τὸ μὴ εὐρύπρωκτος εἶναι;</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l n="1085">ἢν δ' εὐρύπρωκτος ᾖ, τί πείςεται κακόν;</l>
+						<milestone ed="p" n="1086" unit="card"/>
+					</sp>
+				</div2>
+				<div2 type="antipnigos">
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l>τί μὲν οὖν ἂν ἔτι μεῖζον πάθοι τούτου ποτέ;</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l>τί δῆτ' ἐρεῖς, ἢν τοῦτο νικηθῇς ἐμοῦ;</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l>ςιγήςομαι. τί δ' ἄλλο;</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l part="Y">φέρε δή μοι φράςον:</l>
+						<l>ςυνηγοροῦςιν ἐκ τίνων;</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l n="1090">ἐξ εὐρυπρώκτων.</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l part="Y">πείθομαι.</l>
+						<l>τί δαί; τραγῳδοῦς' ἐκ τίνων;</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l>ἐξ εὐρυπρώκτων.</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l part="Y">εὖ λέγεις.</l>
+						<l>δημηγοροῦςι δ' ἐκ τίνων;</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l>ἐξ εὐρυπρώκτων.</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l part="Y">ἆρα δῆτ'</l>
+						<l n="1095">ἔγνωκας ὡς οὐδὲν λέγεις;</l>
+						<l>καὶ τῶν θεατῶν ὁπότεροi</l>
+						<l>πλείους ςκόπει.</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l part="Y">καὶ δὴ ςκοπῶ.</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l n="1097b">τί δῆθ' ὁρᾷς;</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l>πολὺ πλείονας νὴ τοὺς θεοὺs</l>
+						<l>τοὺς εὐρυπρώκτους: τουτονι\</l>
+						<l n="1100">γοῦν οἶδ' ἐγὼ κἀκεινονι\</l>
+						<l>καὶ τὸν κομήτην τουτονί.</l>
+					</sp>
+					<sp who="#adikoslogos">
+						<speaker>῎αδικος Λόγοs</speaker>
+						<l n="1101b">τί δῆτ' ἐρεῖς;</l>
+					</sp>
+					<sp who="#dikaioslogos">
+						<speaker>Δίκαιος Λόγοs</speaker>
+						<l>ἡττήμεθ': ὦ κινούμενοi</l>
+						<l>πρὸς τῶν θεῶν δέξαςθέ μοu</l>
+						<l n="1103b">θοἰμάτιον, ὡs</l>
+						<l>ἐξαυτομολῶ πρὸς ὑμᾶς.</l>
+						<milestone ed="p" n="1105" unit="card"/>
+					</sp>
+				</div2>
+			</div1>
+			<div1 type="Episode">
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l n="1105">τί δῆτα; πότερα τοῦτον ἀπάγεςθαι λαβὼn</l>
+					<l>βούλει τὸν υἱόν, ἢ διδάςκω ςοι λέγειν;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>δίδαςκε καὶ κόλαζε καὶ μέμνης' ὅπωs</l>
+					<l>εὖ μοι ςτομώςεις αὐτόν, ἐπὶ μὲν θάτερa</l>
+					<l>οἷον δικιδίοις, τὴν δ' ἑτέραν αὐτοῦ γνάθοn</l>
+					<l n="1110">ςτόμωςον οἵαν ἐς τὰ μείζω πράγματα.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>ἀμέλει κομιεῖ τοῦτον ςοφιςτὴν δεξιόν.</l>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l>ὠχρὸν μὲν οὖν οἶμαί γε καὶ κακοδαίμονα.</l>
+					<milestone ed="p" n="1113" unit="card"/>
+				</sp>
+			</div1>
+			<div1 type="Parabasis">
+				<div2 met="trochees" type="prelude">
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l>χωρεῖτέ νυν. οἶμαι δέ ςοi</l>
+						<l>ταῦτα μεταμελήςειν.</l>
+						<milestone ed="p" n="1115" unit="card"/>
+					</sp>
+				</div2>
+				<div2 met="trochees" type="epirrheme">
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l n="1115">τοὺς κριτὰς ἃ κερδανοῦςιν, ἤν τι τόνδε τὸν χορὸn</l>
+						<l>ὠφελῶς' ἐκ τῶν δικαίων, βουλόμεςθ' ἡμεῖς φράςαι.</l>
+						<l>πρῶτα μὲν γάρ, ἢν νεᾶν βούληςθ' ἐν ὥρᾳ τοὺς ἀγρούς,</l>
+						<l>ὕςομεν πρώτοιςιν ὑμῖν, τοῖςι δ' ἄλλοις ὕςτερον.</l>
+						<l>εἶτα τὸν καρπὸν τεκούςας ἀμπέλους φυλάξομεν,</l>
+						<l n="1120">ὥςτε μήτ' αὐχμὸν πιέζειν μήτ' ἄγαν ἐπομβρίαν.</l>
+						<l>ἢν δ' ἀτιμάςῃ τις ἡμᾶς θνητὸς ὢν οὔςας θεάς,</l>
+						<l>προςεχέτω τὸν νοῦν, πρὸς ἡμῶν οἷα πείςεται κακά,</l>
+						<l>λαμβάνων οὔτ' οἶνον οὔτ' ἄλλ' οὐδὲν ἐκ τοῦ χωρίου.</l>
+						<l>ἡνίκ' ἂν γὰρ αἵ τ' ἐλαῖαι βλαςτάνως' αἵ τ' ἄμπελοι,</l>
+						<l n="1125">ἀποκεκόψονται: τοιαύταις ςφενδόναις παιήςομεν.</l>
+						<l>ἢν δὲ πλινθεύοντ' ἴδωμεν, ὕςομεν καὶ τοῦ τέγουs</l>
+						<l>τὸν κέραμον αὐτοῦ χαλάζαις ςτρογγύλαις ςυντρίψομεν.</l>
+						<l>κἂν γαμῇ ποτ' αὐτὸς ἢ τῶν ξυγγενῶν ἢ τῶν φίλων,</l>
+						<l>ὕςομεν τὴν νύκτα πᾶςαν: ὥςτ' ἴςως βουλήςεταi</l>
+						<l n="1130">κἂν ἐν Αἰγύπτῳ τυχεῖν ὢν μᾶλλον ἢ κρῖναι κακῶς.</l>
+						<milestone ed="p" n="1131" unit="card"/>
+					</sp>
+				</div2>
+			</div1>
+			<div1 type="Lyric-Scene">
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>πέμπτη, τετράς, τρίτη, μετὰ ταύτην δευτέρα,</l>
+					<l>εἶθ' ἣν ἐγὼ μάλιςτα παςῶν ἡμερῶn</l>
+					<l>δέδοικα καὶ πέφρικα καὶ βδελύττομαι,</l>
+					<l>εὐθὺς μετὰ ταύτην ἔςθ' ἕνη τε καὶ νέα.</l>
+					<l n="1135">πᾶς γάρ τις ὀμνὺς οἷς ὀφείλων τυγχάνω,</l>
+					<l>θείς μοι πρυτανεῖ' ἀπολεῖν μέ φηςι κἀξολεῖν,</l>
+					<l>κἀμοῦ μέτριά τε καὶ δίκαι' αἰτουμένου,</l>
+					<l>‘ὦ δαιμόνιε τὸ μέν τι νυνὶ μὴ λάβῃς,</l>
+					<l>τὸ δ' ἀναβαλοῦ μοι, τὸ δ' ἄφες’, οὔ φαςίν ποτe</l>
+					<l n="1140">οὕτως ἀπολήψεςθ', ἀλλὰ λοιδοροῦςί μe</l>
+					<l>ὡς ἄδικός εἰμι, καὶ δικάςεςθαί φαςί μοι.</l>
+					<l>νῦν οὖν δικαζέςθων: ὀλίγον γάρ μοι μέλει,</l>
+					<l>εἴπερ μεμάθηκεν εὖ λέγειν Φειδιππίδης.</l>
+					<l>τάχα δ' εἴςομαι κόψας τὸ φροντιςτήριον.</l>
+					<l n="1145">παῖ, ἠμί, παῖ παῖ.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l part="Y">Στρεψιάδην ἀςπάζομαι.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>κἄγωγέ ς': ἀλλὰ τουτονὶ πρῶτον λαβέ:</l>
+					<l>χρὴ γὰρ ἐπιθαυμάζειν τι τὸν διδάςκαλον.</l>
+					<l>καί μοι τὸν υἱὸν εἰ μεμάθηκε τὸν λόγοn</l>
+					<l>ἐκεῖνον εἴφ' ὃν ἀρτίως εἰςήγαγες.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l n="1150">μεμάθηκεν.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">εὖ γ' ὦ παμβαςίλει' ʼαπαιόλη.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>ὥςτ' ἀποφύγοις ἂν ἥντιν' ἂν βούλῃ δίκην.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>κεἰ μάρτυρες παρῆςαν, ὅτ' ἐδανειζόμην;</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>πολλῷ γε μᾶλλον, κἂν παρῶςι χίλιοι.</l>
+					<milestone ed="p" n="1154" unit="card"/>
+				</sp>
+				<div2 type="lyric">
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>βοάςομαί τἄρα τὰν ὑπέρτονοn</l>
+						<l n="1155">βοάν. ἰὼ κλάετ' ὦ 'βολοςτάταi</l>
+						<l>αὐτοί τε καὶ τἀρχαῖα καὶ τόκοι τόκων:</l>
+						<l>οὐδὲν γὰρ ἄν με φλαῦρον ἐργάςαιςθ' ἔτι,</l>
+						<l>οἷος ἐμοὶ τρέφεταi</l>
+						<l>τοῖςδ' ἐνὶ δώμαςι παῖς,</l>
+						<l n="1160">ἀμφήκει γλώττῃ λάμπων,</l>
+						<l>πρόβολος ἐμός, ςωτὴρ δόμοις, ἐχθροῖς βλάβη,</l>
+						<l>λυςανίας πατρῴων μεγάλων κακῶν:</l>
+						<l>ὃν κάλεςον τρέχων ἔνδοθεν ὡς ἐμέ.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l n="1165">ὦ τέκνον ὦ παῖ ἔξελθ' οἴκων,</l>
+						<l>ἄιε ςοῦ πατρός.</l>
+						<l>ὅδ' ἐκεῖνος ἀνήρ.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ὦ φίλος ὦ φίλος.</l>
+					</sp>
+					<sp who="#swkraths">
+						<speaker>Σωκράτηs</speaker>
+						<l>ἄπιθι ςυλλαβών.</l>
+						<milestone ed="p" n="1170" unit="card"/>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l n="1170">ἰὼ ἰὼ τέκνον, ἰὼ ἰοῦ ἰοῦ.</l>
+						<l>ὡς ἥδομαί ςου πρῶτα τὴν χρόαν ἰδών.</l>
+						<l>νῦν μέν γ' ἰδεῖν εἶ πρῶτον ἐξαρνητικὸs</l>
+						<l>κἀντιλογικός, καὶ τοῦτο τοὐπιχώριοn</l>
+						<l>ἀτεχνῶς ἐπανθεῖ, τὸ ‘τί λέγεις ςύ;’ καὶ δοκεῖn</l>
+						<l n="1175">ἀδικοῦντ' ἀδικεῖςθαι καὶ κακουργοῦντ' οἶδ' ὅτι:</l>
+						<l>ἐπὶ τοῦ προςώπου τ' ἐςτὶν ʼαττικὸν βλέπος.</l>
+						<l>νῦν οὖν ὅπως ςώςεις μ', ἐπεὶ κἀπώλεςας.</l>
+					</sp>
+				</div2>
+				<div2 type="iambics">
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l>φοβεῖ δὲ δὴ τί;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">τὴν ἕνην τε καὶ νέαν.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l>ἕνη γάρ ἐςτι καὶ νέα τις ἡμέρα;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l n="1180">εἰς ἥν γε θήςειν τὰ πρυτανεῖά φαςί μοι.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l>ἀπολοῦς' ἄρ' αὔθ' οἱ θέντες: οὐ γὰρ ἔςθ' ὅπωs</l>
+						<l>μί' ἡμέρα γένοιτ' ἂν ἡμέρα δύο.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>οὐκ ἂν γένοιτο;</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l part="Y">πῶς γάρ; εἰ μή πέρ γ' ἅμa</l>
+						<l>αὑτὴ γένοιτ' ἂν γραῦς τε καὶ νέα γυνή.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l n="1185">καὶ μὴν νενόμιςταί γ'.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l part="Y">οὐ γάρ, οἶμαι, τὸν νόμοn</l>
+						<l>ἴςαςιν ὀρθῶς ὅ τι νοεῖ.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">νοεῖ δὲ τί;</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l>ὁ Σόλων ὁ παλαιὸς ἦν φιλόδημος τὴν φύςιν.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>τουτὶ μὲν οὐδέν πω πρὸς ἕνην τε καὶ νέαν.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l>ἐκεῖνος οὖν τὴν κλῆςιν ἐς δύ' ἡμέραs</l>
+						<l n="1190">ἔθηκεν, ἔς γε τὴν ἕνην τε καὶ νέαν,</l>
+						<l>ἵν' αἱ θέςεις γίγνοιντο τῇ νουμηνίᾳ.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ἵνα δὴ τί τὴν ἕνην προςέθηχ';</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l part="Y">ἵν' ὦ μέλe</l>
+						<l>παρόντες οἱ φεύγοντες ἡμέρᾳ μͺιᾶ</l>
+						<l>πρότερον ἀπαλλάττοινθ' ἑκόντες, εἰ δὲ μή,</l>
+						<l n="1195">ἕωθεν ὑπανιῷντο τῇ νουμηνία.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>πῶς οὐ δέχονται δῆτα τῇ νουμηνͺία</l>
+						<l>ἁρχαὶ τὰ πρυτανεῖ', ἀλλ' ἕνῃ τε καὶ νέᾳ;</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l>ὅπερ οἱ προτένθαι γὰρ δοκοῦςί μοι ποιεῖν:</l>
+						<l>ὅπως τάχιςτα τὰ πρυτανεῖ' ὑφελοίατο,</l>
+						<l n="1200">διὰ τοῦτο προὐτένθευςαν ἡμέρᾳ μιᾷ.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>εὖ γ': ὦ κακοδαίμονες, τί κάθηςθ' ἀβέλτεροι,</l>
+						<l>ἡμέτερα κέρδη τῶν ςοφῶν ὄντες, λίθοι,</l>
+						<l>ἀριθμός, πρόβατ' ἄλλως, ἀμφορῆς νενηςμένοι;</l>
+						<l>ὥςτ' εἰς ἐμαυτὸν καὶ τὸν υἱὸν τουτονι\</l>
+						<l n="1205">ἐπ' εὐτυχίαιςιν ᾀςτέον μοὐγκώμιον.</l>
+						<milestone ed="p" n="1206" unit="card"/>
+					</sp>
+				</div2>
+				<div2 type="monody">
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>‘μάκαρ ὦ Στρεψίαδες,</l>
+						<l>αὐτός τ' ἔφυς ὡς ςοφὸs</l>
+						<l>χοἶον τὸν υἱὸν τρέφεις,’</l>
+						<l>φήςουςι δή μ' οἱ φίλοi</l>
+						<l n="1210">χοἰ δημόταi</l>
+						<l>ζηλοῦντες ἡνίκ' ἂν ςὺ νικᾷς λέγων τὰς δίκας.</l>
+						<l>ἀλλ' εἰςάγων ςε βούλομαι πρῶτον ἑςτιᾶςαι.</l>
+						<milestone ed="p" n="1213" unit="card"/>
+					</sp>
+				</div2>
+				<div2 type="iambics">
+					<sp who="#pasias">
+						<speaker>Παςίαs</speaker>
+						<l>εἶτ' ἄνδρα τῶν αὑτοῦ τι χρὴ προϊέναι;</l>
+						<l>οὐδέποτέ γ', ἀλλὰ κρεῖττον εὐθὺς ἦν τότe</l>
+						<l n="1215">ἀπερυθριᾶςαι μᾶλλον ἢ ςχεῖν πράγματα,</l>
+						<l>ὅτε τῶν ἐμαυτοῦ γ' ἕνεκα νυνὶ χρημάτωn</l>
+						<l>ἕλκω ςε κλητεύςοντα, καὶ γενήςομαi</l>
+						<l>ἐχθρὸς ἔτι πρὸς τούτοιςιν ἀνδρὶ δημότῃ.</l>
+						<l>ἀτὰρ οὐδέποτέ γε τὴν πατρίδα καταιςχυνῶ</l>
+						<l n="1220">ζῶν, ἀλλὰ καλοῦμαι Στρεψιάδην —</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">τίς οὑτοςί;</l>
+					</sp>
+					<sp who="#pasias">
+						<speaker>Παςίαs</speaker>
+						<l>ἐς τὴν ἕνην τε καὶ νέαν.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">μαρτύρομαι,</l>
+						<l>ὅτι ἐς δύ' εἶπεν ἡμέρας. τοῦ χρήματος;</l>
+					</sp>
+					<sp who="#pasias">
+						<speaker>Παςίαs</speaker>
+						<l>τῶν δώδεκα μνῶν, ἃς ἔλαβες ὠνούμενοs</l>
+						<l>τὸν ψαρὸν ἵππον.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">ἵππον; οὐκ ἀκούετε;</l>
+						<l n="1225">ὃν πάντες ὑμεῖς ἴςτε μιςοῦνθ' ἱππικήν.</l>
+					</sp>
+					<sp who="#pasias">
+						<speaker>Παςίαs</speaker>
+						<l>καὶ νὴ Δί' ἀποδώςειν γ' ἐπώμνυς τοὺς θεούς.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>μὰ τὸν Δί' οὐ γάρ πω τότ' ἐξηπίςτατo</l>
+						<l>Φειδιππίδης μοι τὸν ἀκατάβλητον λόγον.</l>
+					</sp>
+					<sp who="#pasias">
+						<speaker>Παςίαs</speaker>
+						<l n="1230">νῦν δὲ διὰ τοῦτ' ἔξαρνος εἶναι διανοεῖ;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>τί γὰρ ἄλλ' ἂν ἀπολαύςαιμι τοῦ μαθήματος;</l>
+					</sp>
+					<sp who="#pasias">
+						<speaker>Παςίαs</speaker>
+						<l>καὶ ταῦτ' ἐθελήςεις ἀπομόςαι μοι τοὺς θεοὺs</l>
+						<l>ἵν' ἂν κελεύςω 'γώ ςε;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">τοὺς ποίους θεούς;</l>
+					</sp>
+					<sp who="#pasias">
+						<speaker>Παςίαs</speaker>
+						<l>τὸν Δία, τὸν ʽερμῆν, τὸν Ποςειδῶ.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">νὴ Δίa</l>
+						<l n="1235">κἂν προςκαταθείην γ' ὥςτ' ὀμόςαι τριώβολον.</l>
+					</sp>
+					<sp who="#pasias">
+						<speaker>Παςίαs</speaker>
+						<l>ἀπόλοιο τοίνυν ἕνεκ' ἀναιδείας ἔτι.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ἁλςὶν διαςμηχθεὶς ὄναιτ' ἂν οὑτοςί.</l>
+					</sp>
+					<sp who="#pasias">
+						<speaker>Παςίαs</speaker>
+						<l>οἴμ' ὡς καταγελᾷς.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">ἓξ χοᾶς χωρήςεται.</l>
+					</sp>
+					<sp who="#pasias">
+						<speaker>Παςίαs</speaker>
+						<l>οὔ τοι μὰ τὸν Δία τὸν μέγαν καὶ τοὺς θεοὺs</l>
+						<l n="1240">ἐμοῦ καταπροίξει.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">θαυμαςίως ἥςθην θεοῖς,</l>
+						<l>καὶ Ζεὺς γέλοιος ὀμνύμενος τοῖς εἰδόςιν.</l>
+					</sp>
+					<sp who="#pasias">
+						<speaker>Παςίαs</speaker>
+						<l>ἦ μὴν ςὺ τούτων τῷ χρόνῳ δώςεις δίκην.</l>
+						<l>ἀλλ' εἴτ' ἀποδώςεις μοι τὰ χρήματ' εἴτε μή,</l>
+						<l>ἀπόπεμψον ἀποκρινάμενος.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">ἔχε νυν ἥςυχος.</l>
+						<l n="1245">ἐγὼ γὰρ αὐτίκ' ἀποκρινοῦμαί ςοι ςαφῶς.</l>
+					</sp>
+					<sp who="#pasias">
+						<speaker>Παςίαs</speaker>
+						<l>τί ςοι δοκεῖ δράςειν;</l>
+					</sp>
+					<sp who="#martus">
+						<speaker>Μάρτυs</speaker>
+						<l part="Y">ἀποδώςειν μοι δοκεῖ.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ποῦ 'ςθ' οὗτος ἁπαιτῶν με τἀργύριον; λέγe</l>
+						<l>τουτὶ τί ἔςτι;</l>
+					</sp>
+					<sp who="#pasias">
+						<speaker>Παςίαs</speaker>
+						<l part="Y">τοῦθ' ὅ τι ἐςτί; κάρδοπος.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ἔπειτ' ἀπαιτεῖς τἀργύριον τοιοῦτος ὤν;</l>
+						<l n="1250">οὐκ ἂν ἀποδοίην οὐδ' ἂν ὀβολὸν οὐδενί,</l>
+						<l>ὅςτις καλέςειε κάρδοπον τὴν καρδόπην.</l>
+					</sp>
+					<sp who="#pasias">
+						<speaker>Παςίαs</speaker>
+						<l>οὐκ ἄρ' ἀποδώςεις;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">οὐχ ὅςον γέ μ' εἰδέναι.</l>
+						<l>οὔκουν ἀνύςας τι θᾶττον ἀπολιταργιεῖs</l>
+						<l>ἀπὸ τῆς θύρας;</l>
+					</sp>
+					<sp who="#pasias">
+						<speaker>Παςίαs</speaker>
+						<l part="Y">ἄπειμι, καὶ τοῦτ' ἴςθ' ὅτi</l>
+						<l n="1255">θήςω πρυτανεῖ' ἢ μηκέτι ζῴην ἐγώ.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>καὶ προςαπολεῖς ἄρ' αὐτὰ πρὸς ταῖς δώδεκα.</l>
+						<l>καίτοι ςε τοῦτό γ' οὐχὶ βούλομαι παθεῖν,</l>
+						<l>ὁτιὴ 'κάλεςας εὐηθικῶς τὴν κάρδοπον.</l>
+						<milestone ed="p" n="1259" unit="card"/>
+					</sp>
+					<sp who="#amunias">
+						<speaker>Αμυνίαs</speaker>
+						<l>ἰώ μοί μοι.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ἔα.</l>
+						<l n="1260">τίς οὑτοςί ποτ' ἔςθ' ὁ θρηνῶν; οὔτι ποu</l>
+						<l>τῶν Καρκίνου τις δαιμόνων ἐφθέγξατο;</l>
+					</sp>
+					<sp who="#amunias">
+						<speaker>Αμυνίαs</speaker>
+						<l>τί δ' ὅςτις εἰμὶ τοῦτο βούλεςθ' εἰδέναι;</l>
+						<l>ἀνὴρ κακοδαίμων.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">κατὰ ςεαυτόν νυν τρέπου.</l>
+					</sp>
+					<sp who="#amunias">
+						<speaker>Αμυνίαs</speaker>
+						<l>ὦ ςκληρὲ δαῖμον, ὦ τύχαι θραυςάντυγεs</l>
+						<l n="1265">ἵππων ἐμῶν, ὦ Παλλὰς ὥς μ' ἀπώλεςας.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>τί δαί ςε Τληπόλεμός ποτ' εἴργαςται κακόν;</l>
+					</sp>
+					<sp who="#amunias">
+						<speaker>Αμυνίαs</speaker>
+						<l>μὴ ςκῶπτέ μ' ὦ τᾶν, ἀλλά μοι τὰ χρήματa</l>
+						<l>τὸν υἱὸν ἀποδοῦναι κέλευςον ἅλαβεν,</l>
+						<l>ἄλλως τε μέντοι καὶ κακῶς πεπραγότι.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l n="1270">τὰ ποῖα ταῦτα χρήμαθ';</l>
+					</sp>
+					<sp who="#amunias">
+						<speaker>Αμυνίαs</speaker>
+						<l part="Y">ἁδανείςατο.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>κακῶς ἄρ' ὄντως εἶχες, ὥς γ' ἐμοὶ δοκεῖς.</l>
+					</sp>
+					<sp who="#amunias">
+						<speaker>Αμυνίαs</speaker>
+						<l>ἵππους ἐλαύνων ἐξέπεςον νὴ τοὺς θεούς.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>τί δῆτα ληρεῖς ὥςπερ ἀπ' ὄνου καταπεςών;</l>
+					</sp>
+					<sp who="#amunias">
+						<speaker>Αμυνίαs</speaker>
+						<l>ληρῶ, τὰ χρήματ' ἀπολαβεῖν εἰ βούλομαι;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l n="1275">οὐκ ἔςθ' ὅπως ςύ γ' αὐτὸς ὑγιαίνεις.</l>
+					</sp>
+					<sp who="#amunias">
+						<speaker>Αμυνίαs</speaker>
+						<l part="Y">τί δαί;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>τὸν ἐγκέφαλον ὥςπερ ςεςεῖςθαί μοι δοκεῖς.</l>
+					</sp>
+					<sp who="#amunias">
+						<speaker>Αμυνίαs</speaker>
+						<l>ςὺ δὲ νὴ τὸν ʽερμῆν προςκεκλήςεςθαί γέ μοι,</l>
+						<l>εἰ μὴ 'ποδώςεις τἀργύριον.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">κάτειπέ νυν,</l>
+						<l>πότερα νομίζεις καινὸν ἀεὶ τὸν Δίa</l>
+						<l n="1280">ὕειν ὕδωρ ἑκάςτοτ', ἢ τὸν ἥλιοn</l>
+						<l>ἕλκειν κάτωθεν ταὐτὸ τοῦθ' ὕδωρ πάλιν;</l>
+					</sp>
+					<sp who="#amunias">
+						<speaker>Αμυνίαs</speaker>
+						<l>οὐκ οἶδ' ἔγωγ' ὁπότερον, οὐδέ μοι μέλει.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>πῶς οὖν ἀπολαβεῖν τἀργύριον δίκαιος εἶ,</l>
+						<l>εἰ μηδὲν οἶςθα τῶν μετεώρων πραγμάτων;</l>
+					</sp>
+					<sp who="#amunias">
+						<speaker>Αμυνίαs</speaker>
+						<l n="1285">ἀλλ' εἰ ςπανίζεις, τἀργυρίου μοι τὸν τόκοn</l>
+						<l>ἀπόδοτε:</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">τοῦτο δ' ἔςθ' ὁ τόκος τί θηρίον;</l>
+					</sp>
+					<sp who="#amunias">
+						<speaker>Αμυνίαs</speaker>
+						<l>τί δ' ἄλλο γ' ἢ κατὰ μῆνα καὶ καθ' ἡμέραn</l>
+						<l>πλέον πλέον τἀργύριον ἀεὶ γίγνεταi</l>
+						<l>ὑπορρέοντος τοῦ χρόνου;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">καλῶς λέγεις.</l>
+						<l n="1290">τί δῆτα; τὴν θάλατταν ἔςθ' ὅτι πλείονa</l>
+						<l>νυνὶ νομίζεις ἢ πρὸ τοῦ;</l>
+					</sp>
+					<sp who="#amunias">
+						<speaker>Αμυνίαs</speaker>
+						<l part="Y">μὰ Δί' ἀλλ' ἴςην.</l>
+						<l>οὐ γὰρ δίκαιον πλείον' εἶναι.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">κᾆτα πῶs</l>
+						<l>αὕτη μὲν ὦ κακόδαιμον οὐδὲν γίγνεταi</l>
+						<l>ἐπιρρεόντων τῶν ποταμῶν πλείων, ςὺ δε\</l>
+						<l n="1295">ζητεῖς ποιῆςαι τἀργύριον πλεῖον τὸ ςόν;</l>
+						<l>οὐκ ἀποδιώξει ςαυτὸν ἀπὸ τῆς οἰκίας;</l>
+						<l>φέρε μοι τὸ κέντρον.</l>
+					</sp>
+					<sp who="#amunias">
+						<speaker>Αμυνίαs</speaker>
+						<l part="Y">ταῦτ' ἐγὼ μαρτύρομαι.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ὕπαγε. τί μέλλεις; οὐκ ἐλᾷς ὦ ςαμφόρα;</l>
+					</sp>
+					<sp who="#amunias">
+						<speaker>Αμυνίαs</speaker>
+						<l>ταῦτ' οὐχ ὕβρις δῆτ' ἐςτίν;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">ᾄξεις; ἐπιαλῶ</l>
+						<l n="1300">κεντῶν ὑπὸ τὸν πρωκτόν ςε τὸν ςειραφόρον.</l>
+						<l>φεύγεις; ἔμελλόν ς' ἆρα κινήςειν ἐγω\</l>
+						<l>αὐτοῖς τροχοῖς τοῖς ςοῖςι καὶ ξυνωρίςιν.</l>
+						<milestone ed="p" n="1303" unit="card"/>
+					</sp>
+				</div2>
+			</div1>
+			<div1 type="Choral">
+				<div2 type="strophe">
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l>οἷον τὸ πραγμάτων ἐρᾶν φλαύρων: ὁ γὰr</l>
+						<l>γέρων ὅδ' ἐραςθεὶs</l>
+						<l n="1305">ἀποςτερῆςαι βούλεταi</l>
+						<l>τὰ χρήμαθ' ἁδανείςατο:</l>
+						<l>κοὐκ ἔςθ' ὅπως οὐ τήμεροn</l>
+						<l>λήψεταί τι πρᾶγμ', ὃ τοῦτοn</l>
+						<l n="1309">ποιήςει τὸν ςοφιςτὴν [ἴςως,]</l>
+						<l>ἀνθ' ὧν πανουργεῖν ἤρξατ', ἐξαίφνης λαβεῖν κακόν τι.</l>
+						<milestone ed="p" n="1311" unit="card"/>
+					</sp>
+				</div2>
+				<div2 type="antistrophe">
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l>οἶμαι γὰρ αὐτὸν αὐτίχ' εὑρήςειν ὅπεr</l>
+						<l n="1312">πάλαι ποτ' †ἐπεζήτει†</l>
+						<l>εἶναι τὸν υἱὸν δεινόν οι(</l>
+						<l>γνώμας ἐναντίας λέγειn</l>
+						<l n="1315">τοῖςιν δικαίοις, ὥςτε νικᾶn</l>
+						<l>ἅπαντας οἷςπερ ἂn</l>
+						<l>ξυγγένηται, κἂν λέγῃ παμπόνηρ'.</l>
+						<l n="1320">ἴςως δ' ἴςως βουλήςεται κἄφωνον αὐτὸν εἶναι.</l>
+						<milestone ed="p" n="1321" unit="card"/>
+					</sp>
+				</div2>
+			</div1>
+			<div1 type="Episode">
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ἰοὺ ἰού.</l>
+					<l>ὦ γείτονες καὶ ξυγγενεῖς καὶ δημόται,</l>
+					<l>ἀμυνάθετέ μοι τυπτομένῳ πάςῃ τέχνῃ.</l>
+					<l>οἴμοι κακοδαίμων τῆς κεφαλῆς καὶ τῆς γνάθου.</l>
+					<l n="1325">ὦ μιαρὲ τύπτεις τὸν πατέρα;</l>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l part="Y">φήμ' ὦ πάτερ.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ὁρᾶθ' ὁμολογοῦνθ' ὅτι με τύπτει.</l>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l part="Y">καὶ μάλα.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ὦ μιαρὲ καὶ πατραλοῖα καὶ τοιχωρύχε.</l>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l>αὖθίς με ταὐτὰ ταῦτα καὶ πλείω λέγε.</l>
+					<l>ἆρ' οἶςθ' ὅτι χαίρω πόλλ' ἀκούων καὶ κακά;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l n="1330">ὦ λακκόπρωκτε.</l>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l part="Y">πάττε πολλοῖς τοῖς ῥόδοις.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>τὸν πατέρα τύπτεις;</l>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l part="Y">κἀποφανῶ γε νὴ Δίa</l>
+					<l>ὡς ἐν δίκῃ ς' ἔτυπτον.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">ὦ μιαρώτατε,</l>
+					<l>καὶ πῶς γένοιτ' ἂν πατέρα τύπτειν ἐν δίκῃ;</l>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l>ἔγωγ' ἀποδείξω καί ςε νικήςω λέγων.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l n="1335">τουτὶ ςὺ νικήςεις;</l>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l part="Y">πολύ γε καὶ ῥᾳδίως.</l>
+					<l>ἑλοῦ δ' ὁπότερον τοῖν λόγοιν βούλει λέγειν.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ποίοιν λόγοιν;</l>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l part="Y">τὸν κρείττον' ἢ τὸν ἥττονα.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ἐδιδαξάμην μέντοι ςε νὴ Δί' ὦ μέλe</l>
+					<l>τοῖςιν δικαίοις ἀντιλέγειν, εἰ ταῦτά γe</l>
+					<l n="1340">μέλλεις ἀναπείςειν, ὡς δίκαιον καὶ καλὸn</l>
+					<l>τὸν πατέρα τύπτεςθ' ἐςτὶν ὑπὸ τῶν υἱέων.</l>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l>ἀλλ' οἴομαι μέντοι ς' ἀναπείςειν, ὥςτε γe</l>
+					<l>οὐδ' αὐτὸς ἀκροαςάμενος οὐδὲν ἀντερεῖς.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>καὶ μὴν ὅ τι καὶ λέξεις ἀκοῦςαι βούλομαι.</l>
+					<milestone ed="p" n="1345" unit="card"/>
+				</sp>
+			</div1>
+			<div1 type="Agon">
+				<div2 type="strophe">
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l n="1345">ςὸν ἔργον ὦ πρεςβῦτα φροντίζειν ὅͺπη</l>
+						<l>τὸν ἄνδρα κρατήςεις,</l>
+						<l>ὡς οὗτος, εἰ μή τῳ 'πεποίθειν, οὐκ ἂν ἦn</l>
+						<l>οὕτως ἀκόλαςτος.</l>
+						<l>ἀλλ' ἔςθ' ὅτῳ θραςύνεται: δῆλόν γε τἀνθρώποu</l>
+						<l n="1350">'ςτὶ τὸ λῆμα.</l>
+						<milestone ed="p" n="1351" unit="card"/>
+					</sp>
+				</div2>
+				<div2 met="iambics" type="katakeleusmenos">
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l>ἀλλ' ἐξ ὅτου τὸ πρῶτον ἤρξαθ' ἡ μάχη γενέςθαι,</l>
+						<l>ἤδη λέγειν χρὴ πρὸς χορόν: πάντως δὲ τοῦτο δράςεις.</l>
+						<milestone ed="p" n="1353" unit="card"/>
+					</sp>
+				</div2>
+				<div2 met="iambics" type="epirrheme">
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>καὶ μὴν ὅθεν γε πρῶτον ἠρξάμεςθα λοιδορεῖςθαi</l>
+						<l>ἐγὼ φράςω: 'πειδὴ γὰρ εἱςτιώμεθ', ὥςπερ ἴςτε,</l>
+						<l n="1355">πρῶτον μὲν αὐτὸν τὴν λύραν λαβόντ' ἐγὼ 'κέλευςa</l>
+						<l>ᾆςαι Σιμωνίδου μέλος, τὸν Κριὸν ὡς ἐπέχθη.</l>
+						<l>ὁ δ' εὐθέως ἀρχαῖον εἶν' ἔφαςκε τὸ κιθαρίζειn</l>
+						<l>ᾄδειν τε πίνονθ' ὡςπερεὶ κάχρυς γυναῖκ' ἀλοῦςαν.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l>οὐ γὰρ τότ' εὐθὺς χρῆν ς' ἄρα τύπτεςθαί τε καὶ πατεῖςθαι,</l>
+						<l n="1360">ᾄδειν κελεύονθ' ὡςπερεὶ τέττιγας ἑςτιῶντα;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>τοιαῦτα μέντοι καὶ τότ' ἔλεγεν ἔνδον οἷάπερ νῦν,</l>
+						<l>καὶ τὸν Σιμωνίδην ἔφαςκ' εἶναι κακὸν ποιητήν.</l>
+						<l>κἀγὼ μόλις μὲν ἀλλ' ὅμως ἠνεςχόμην τὸ πρῶτον:</l>
+						<l>ἔπειτα δ' ἐκέλευς' αὐτὸν ἀλλὰ μυρρίνην λαβόντa</l>
+						<l n="1365">τῶν Αἰςχύλου λέξαι τί μοι: κᾆθ' οὗτος εὐθὺς εἶπεν:</l>
+						<l>‘ἐγὼ γὰρ Αἰςχύλον νομίζω πρῶτον ἐν ποιηταῖς,</l>
+						<l>ψόφου πλέων ἀξύςτατον ςτόμφακα κρημνοποιόν;’</l>
+						<l>κἀνταῦθα πῶς οἴεςθέ μου τὴν καρδίαν ὀρεχθεῖν;</l>
+						<l>ὅμως δὲ τὸν θυμὸν δακὼν ἔφην, ‘ςὺ δ' ἀλλὰ τούτωn</l>
+						<l n="1370">λέξον τι τῶν νεωτέρων, ἅττ' ἐςτὶ τὰ ςοφὰ ταῦτα.’</l>
+						<l>ὁ δ' εὐθὺς ᾖς' Εὐριπίδου ῥῆςίν τιν', ὡς ἐκίνεi</l>
+						<l>ἀδελφὸς ὦλεξίκακε τὴν ὁμομητρίαν ἀδελφήν.</l>
+						<l>κἀγὼ οὐκέτ' ἐξηνεςχόμην, ἀλλ' εὐθέως ἀράττw</l>
+						<l>πολλοῖς κακοῖς καἰςχροῖςι: κᾆτ' ἐντεῦθεν, οἷον εἰκός,</l>
+						<l n="1375">ἔπος πρὸς ἔπος ἠρειδόμεςθ': εἶθ' οὗτος ἐπαναπηδᾶ,</l>
+						<l>κἄπειτ' ἔφλα με κἀςπόδει κἄπνιγε κἀπέθλιβεν.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l>οὔκουν δικαίως, ὅςτις οὐκ Εὐριπίδην ἐπαινεῖs</l>
+						<l>ςοφώτατον;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">ςοφώτατόν γ' ἐκεῖνον:ὦ — τί ς' εἴπω;</l>
+						<l>ἀλλ' αὖθις αὖ τυπτήςομαι.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l part="Y">νὴ τὸν Δί' ἐν δίκῃ γ' ἄν.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l n="1380">καὶ πῶς δικαίως; ὅςτις ὦ 'ναίςχυντέ ς' ἐξέθρεψα,</l>
+						<l>αἰςθανόμενός ςου πάντα τραυλίζοντος, ὅ τι νοοίης.</l>
+						<l>εἰ μέν γε βρῦν εἴποις, ἐγὼ γνοὺς ἂν πιεῖν ἐπέςχον:</l>
+						<l>μαμμᾶν δ' ἂν αἰτήςαντος ἧκόν ςοι φέρων ἂν ἄρτον:</l>
+						<l>κακκᾶν δ' ἂν οὐκ ἔφθης φράςας, κἀγὼ λαβὼν θύραζe</l>
+						<l n="1385">ἐξέφερον ἂν καὶ προὐςχόμην ςε: ςὺ δ' ἐμὲ νῦν ἀπάγχωn</l>
+						<milestone ed="p" n="1386" unit="card"/>
+					</sp>
+				</div2>
+				<div2 met="iambics" type="pnigos">
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>βοῶντα καὶ κεκραγόθ' ὅτi</l>
+						<l>χεζητιῴην, οὐκ ἔτληs</l>
+						<l>ἔξω 'ξενεγκεῖν ὦ μιαρε\</l>
+						<l>θύραζέ μ', ἀλλὰ πνιγόμενοs</l>
+						<l n="1390">αὐτοῦ 'ποίηςα κακκᾶν.</l>
+						<milestone ed="p" n="1391" unit="card"/>
+					</sp>
+				</div2>
+				<div2 type="antistrophe">
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l>οἶμαί γε τῶν νεωτέρων τὰς καρδίαs</l>
+						<l>πηδᾶν ὅ τι λέξει.</l>
+						<l>εἰ γὰρ τοιαῦτά γ' οὗτος ἐξειργαςμένοs</l>
+						<l>λαλῶν ἀναπείςει,</l>
+						<l n="1395">τὸ δέρμα τῶν γεραιτέρων λάβοιμεν ἂn</l>
+						<l>ἀλλ' οὐδ' ἐρεβίνθου.</l>
+						<milestone ed="p" n="1397" unit="card"/>
+					</sp>
+				</div2>
+				<div2 met="iambics" type="antikatakeleusmenos">
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l>ςὸν ἔργον ὦ καινῶν ἐπῶν κινητὰ καὶ μοχλευτα\</l>
+						<l>πειθώ τινα ζητεῖν, ὅπως δόξεις λέγειν δίκαια.</l>
+						<milestone ed="p" n="1399" unit="card"/>
+					</sp>
+				</div2>
+				<div2 met="iambics" type="antepirrheme">
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l>ὡς ἡδὺ καινοῖς πράγμαςιν καὶ δεξιοῖς ὁμιλεῖν,</l>
+						<l n="1400">καὶ τῶν καθεςτώτων νόμων ὑπερφρονεῖν δύναςθαι.</l>
+						<l>ἐγὼ γὰρ ὅτε μὲν ἱππικῇ τὸν νοῦν μόνῃ προςεῖχον,</l>
+						<l>οὐδ' ἂν τρί' εἰπεῖν ῥήμαθ' οἷός τ' ἦν πρὶν ἐξαμαρτεῖν:</l>
+						<l>νυνὶ δ' ἐπειδή μ' οὑτοςὶ τούτων ἔπαυςεν αὐτός,</l>
+						<l>γνώμαις δὲ λεπταῖς καὶ λόγοις ξύνειμι καὶ μερίμναις,</l>
+						<l n="1405">οἶμαι διδάξειν ὡς δίκαιον τὸν πατέρα κολάζειν.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ἵππευε τοίνυν νὴ Δί', ὡς ἔμοιγε κρεῖττόν ἐςτιn</l>
+						<l>ἵππων τρέφειν τέθριππον ἢ τυπτόμενον ἐπιτριβῆναι.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l>ἐκεῖςε δ' ὅθεν ἀπέςχιςάς με τοῦ λόγου μέτειμι,</l>
+						<l>καὶ πρῶτ' ἐρήςομαί ςε τουτί: παῖδά μ' ὄντ' ἔτυπτες;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l n="1410">ἔγωγέ ς' εὐνοῶν τε καὶ κηδόμενος.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l part="Y">εἰπὲ δή μοι,</l>
+						<l>οὐ κἀμέ ςοι δίκαιόν ἐςτιν εὐνοεῖν ὁμοίωs</l>
+						<l>τύπτειν τ', ἐπειδήπερ γε τοῦτ' ἐςτ' εὐνοεῖν τὸ τύπτειν;</l>
+						<l>πῶς γὰρ τὸ μὲν ςὸν ςῶμα χρὴ πληγῶν ἀθῷον εἶναι,</l>
+						<l>τοὐμὸν δὲ μή; καὶ μὴν ἔφυν ἐλεύθερός γε κἀγώ.</l>
+						<l n="1415">κλάουςι παῖδες, πατέρα δ' οὐ κλάειν δοκεῖς; ...</l>
+						<l>φήςεις νομίζεςθαι ςὺ παιδὸς τοῦτο τοὔργον εἶναι:</l>
+						<l>ἐγὼ δέ γ' ἀντείποιμ' ἂν ὡς δὶς παῖδες οἱ γέροντες:</l>
+						<l>εἰκὸς δὲ μᾶλλον τοὺς γέροντας ἢ νέους τι κλάειν,</l>
+						<l>ὅςῳπερ ἐξαμαρτάνειν ἧττον δίκαιον αὐτούς.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l n="1420">ἀλλ' οὐδαμοῦ νομίζεται τὸν πατέρα τοῦτο πάςχειν.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l>οὔκουν ἀνὴρ ὁ τὸν νόμον θεὶς τοῦτον ἦν τὸ πρῶτοn</l>
+						<l>ὥςπερ ςὺ κἀγώ, καὶ λέγων ἔπειθε τοὺς παλαιούς;</l>
+						<l>ἧττόν τι δῆτ' ἔξεςτι κἀμοὶ καινὸν αὖ τὸ λοιπὸn</l>
+						<l>θεῖναι νόμον τοῖς υἱέςιν, τοὺς πατέρας ἀντιτύπτειν;</l>
+						<l n="1425">ὅςας δὲ πληγὰς εἴχομεν πρὶν τὸν νόμον τεθῆναι,</l>
+						<l>ἀφίεμεν, καὶ δίδομεν αὐτοῖς προῖκα ςυγκεκόφθαι.</l>
+						<l>ςκέψαι δὲ τοὺς ἀλεκτρυόνας καὶ τἄλλα τὰ βοτὰ ταυτί,</l>
+						<l>ὡς τοὺς πατέρας ἀμύνεται: καίτοι τί διαφέρουςιn</l>
+						<l>ἡμῶν ἐκεῖνοι, πλήν γ' ὅτι ψηφίςματ' οὐ γράφουςιν;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l n="1430">τί δῆτ', ἐπειδὴ τοὺς ἀλεκτρυόνας ἅπαντα μιμεῖ,</l>
+						<l>οὐκ ἐςθίεις καὶ τὴν κόπρον κἀπὶ ξύλου καθεύδεις;</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l>οὐ ταὐτὸν ὦ τᾶν ἐςτίν, οὐδ' ἂν Σωκράτει δοκοίη.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>πρὸς ταῦτα μὴ τύπτ': εἰ δὲ μή, ςαυτόν ποτ' αἰτιάςει.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l>καὶ πῶς;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">ἐπεὶ ςὲ μὲν δίκαιός εἰμ' ἐγὼ κολάζειν,</l>
+						<l n="1435">ςὺ δ', ἢν γένηταί ςοι, τὸν υἱόν.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l part="Y">ἢν δὲ μὴ γένηται,</l>
+						<l>μάτην ἐμοὶ κεκλαύςεται, ςὺ δ' ἐγχανὼν τεθνήξεις.</l>
+						<milestone ed="p" n="1437" unit="card"/>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>ἐμοὶ μὲν ὦνδρες ἥλικες δοκεῖ λέγειν δίκαια:</l>
+						<l>κἄμοιγε ςυγχωρεῖν δοκεῖ τούτοιςι τἀπιεικῆ.</l>
+						<l>κλάειν γὰρ ἡμᾶς εἰκός ἐςτ', ἢν μὴ δίκαια δρῶμεν.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l n="1440">ςκέψαι δὲ χἀτέραν ἔτι γνώμην.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">ἀπὸ γὰr</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l>καὶ μὴν ἴςως γ' οὐκ ἀχθέςει παθὼν ἃ νῦν πέπονθας.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>πῶς δή; δίδαξον γὰρ τί μ' ἐκ τούτων ἐπωφελήςεις.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l>τὴν μητέρ' ὥςπερ καὶ ςὲ τυπτήςω.</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l part="Y">τί φῄς, τί φῂς ςύ;</l>
+						<l>τοῦθ' ἕτερον αὖ μεῖζον κακόν.</l>
+					</sp>
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l part="Y">τί δ' ἢν ἔχων τὸν ἥττw</l>
+						<milestone ed="p" n="1445" unit="card"/>
+					</sp>
+				</div2>
+				<div2 met="iambics" type="antipnigos">
+					<sp who="#feidippidhs">
+						<speaker>Φειδιππίδηs</speaker>
+						<l n="1445">λόγον ςε νικήςω λέγωn</l>
+						<l>τὴν μητέρ' ὡς τύπτειν χρεών;</l>
+					</sp>
+					<sp who="#streyiadhs">
+						<speaker>Στρεψιάδηs</speaker>
+						<l>τί δ' ἄλλο γ' ἢν ταυτὶ ποιῇς,</l>
+						<l>οὐδέν ςε κωλύςει ςεαυτὸn</l>
+						<l>ἐμβαλεῖν ἐς τὸ βάραθροn</l>
+						<l n="1450">μετὰ Σωκράτουs</l>
+						<l>καὶ τὸν λόγον τὸν ἥττω.</l>
+						<milestone ed="p" n="1452" unit="card"/>
+					</sp>
+				</div2>
+			</div1>
+			<div1 type="Episode">
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ταυτὶ δι' ὑμᾶς ὦ Νεθέλαι πέπονθ' ἐγώ,</l>
+					<l>ὑμῖν ἀναθεὶς ἅπαντα τἀμὰ πράγματα.</l>
+				</sp>
+				<sp who="#xoros">
+					<speaker>Χορόs</speaker>
+					<l>αὐτὸς μὲν οὖν ςαυτῷ ςὺ τούτων αἴτιος,</l>
+					<l n="1455">ςτρέψας ςεαυτὸν ἐς πονηρὰ πράγματα.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>τί δῆτα ταῦτ' οὔ μοι τότ' ἠγορεύετε,</l>
+					<l>ἀλλ' ἄνδρ' ἄγροικον καὶ γέροντ' ἐπῄρετε;</l>
+				</sp>
+				<sp who="#xoros">
+					<speaker>Χορόs</speaker>
+					<l>ἡμεῖς ποιοῦμεν ταῦθ' ἑκάςτοθ' ὅταν τινα\</l>
+					<l>γνῶμεν πονηρῶν ὄντ' ἐραςτὴν πραγμάτων,</l>
+					<l n="1460">ἕως ἂν αὐτὸν ἐμβάλωμεν ἐς κακόν,</l>
+					<l>ὅπως ἂν εἰδῇ τοὺς θεοὺς δεδοικέναι.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ὤμοι πονηρά γ' ὦ Νεφέλαι, δίκαια δέ.</l>
+					<l>οὐ γάρ μ' ἐχρῆν τὰ χρήμαθ' ἁδανειςάμηn</l>
+					<l>ἀποςτερεῖν. νῦν οὖν ὅπως ὦ φίλτατe</l>
+					<l n="1465">τὸν Χαιρεφῶντα τὸν μιαρὸν καὶ Σωκράτh</l>
+					<l>ἀπολεῖς μετ' ἐμοῦ 'λθών, οἳ ςὲ κἄμ' ἐξηπάτων.</l>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l>ἀλλ' οὐκ ἂν ἀδικήςαιμι τοὺς διδαςκάλους.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ναὶ ναὶ καταιδέςθητι πατρῷον Δία.</l>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l>ἰδού γε Δία πατρῷον: ὡς ἀρχαῖος εἶ.</l>
+					<l n="1470">Ζεὺς γάρ τις ἔςτιν;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">ἔςτιν.</l>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l part="Y">οὐκ ἔςτ', οὔκ, ἐπει\</l>
+					<l>Δῖνος βαςιλεύει τὸν Δί' ἐξεληλακώς.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>οὐκ ἐξελήλακ', ἀλλ' ἐγὼ τοῦτ' ᾠόμηn</l>
+					<l>διὰ τουτονὶ τὸν δῖνον. οἴμοι δείλαιοs</l>
+					<l>ὅτε καὶ ςὲ χυτρεοῦν ὄντα θεὸν ἡγηςάμην.</l>
+				</sp>
+				<sp who="#feidippidhs">
+					<speaker>Φειδιππίδηs</speaker>
+					<l n="1475">ἐνταῦθα ςαυτῷ παραφρόνει καὶ φληνάφα.</l>
+					<milestone ed="p" n="1476" unit="card"/>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>οἴμοι παρανοίας: ὡς ἐμαινόμην ἄρα,</l>
+					<l>ὅτ' ἐξέβαλλον τοὺς θεοὺς διὰ Σωκράτη.</l>
+					<l>ἀλλ' ὦ φίλ' ʽερμῆ μηδαμῶς θύμαινέ μοi</l>
+					<l>μηδέ μ' ἐπιτρίψῃς, ἀλλὰ ςυγγνώμην ἔχe</l>
+					<l n="1480">ἐμοῦ παρανοήςαντος ἀδολεςχίᾳ:</l>
+					<l>καί μοι γενοῦ ξύμβουλος, εἴτ' αὐτοὺς γραφὴn</l>
+					<l>διωκάθω γραψάμενος εἴθ' ὅ τι ςοι δοκεῖ.</l>
+					<l>ὀρθῶς παραινεῖς οὐκ ἐῶν δικορραφεῖν,</l>
+					<l>ἀλλ' ὡς τάχιςτ' ἐμπιμπράναι τὴν οἰκίαn</l>
+					<l n="1485">τῶν ἀδολεςχῶν. δεῦρο δεῦρ' ὦ Ξανθία,</l>
+					<l>κλίμακα λαβὼν ἔξελθε καὶ ςμινύην φέρων,</l>
+					<l>κἄπειτ' ἐπαναβὰς ἐπὶ τὸ φροντιςτήριοn</l>
+					<l>τὸ τέγος κατάςκαπτ', εἰ φιλεῖς τὸν δεςπότην,</l>
+					<l>ἕως ἂν αὐτοῖς ἐμβάλῃς τὴν οἰκίαν:</l>
+					<l n="1490">ἐμοὶ δὲ δᾷδ' ἐνεγκάτω τις ἡμμένην,</l>
+					<l>κἀγώ τιν' αὐτῶν τήμερον δοῦναι δίκηn</l>
+					<l>ἐμοὶ ποιήςω, κεἰ ςφόδρ' εἴς' ἀλαζόνες.</l>
+				</sp>
+				<sp who="#maqhthsa">
+					<speaker>Μαθητής A</speaker>
+					<l>ἰοὺ ἰού.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ςὸν ἔργον ὦ δᾲς ἱέναι πολλὴν φλόγα.</l>
+				</sp>
+				<sp who="#maqhthsa">
+					<speaker>Μαθητής A</speaker>
+					<l n="1495"> ἄνθρωπε, τί ποιεῖς;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">ὅ τι ποιῶ; τί δ' ἄλλο γ' ἠ\</l>
+					<l>διαλεπτολογοῦμαι ταῖς δοκοῖς τῆς οἰκίας;</l>
+				</sp>
+				<sp who="#maqhthsb">
+					<speaker>Μαθητής B</speaker>
+					<l>οἴμοι τίς ἡμῶν πυρπολεῖ τὴν οἰκίαν;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ἐκεῖνος οὗπερ θοἰμάτιον εἰλήφατε.</l>
+				</sp>
+				<sp who="#maqhthsg">
+					<speaker>Μαθητής G</speaker>
+					<l>ἀπολεῖς ἀπολεῖς.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l part="Y">τοῦτ' αὐτὸ γὰρ καὶ βούλομαι,</l>
+					<l n="1500">ἢν ἡ ςμινύη μοι μὴ προδῷ τὰς ἐλπίδας,</l>
+					<l>ἢ 'γὼ πρότερόν πως ἐκτραχηλιςθῶ πεςών.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>οὗτος τί ποιεῖς ἐτεὸν οὑπὶ τοῦ τέγους;</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>ἀεροβατῶ καὶ περιφρονῶ τὸν ἥλιον.</l>
+				</sp>
+				<sp who="#swkraths">
+					<speaker>Σωκράτηs</speaker>
+					<l>οἴμοι τάλας δείλαιος ἀποπνιγήςομαι.</l>
+				</sp>
+				<sp who="#xairefwn">
+					<speaker>Χαιρεφῶn</speaker>
+					<l n="1505">ἐγὼ δὲ κακοδαίμων γε κατακαυθήςομαι.</l>
+				</sp>
+				<sp who="#streyiadhs">
+					<speaker>Στρεψιάδηs</speaker>
+					<l>τί γὰρ μαθόντες τοὺς θεοὺς ὑβρίζετε,</l>
+					<l>καὶ τῆς ςελήνης ἐςκοπεῖςθε τὴν ἕδραν;</l>
+				</sp>
+				<sp who="#ermhs">
+					<speaker>Ερμῆs</speaker>
+					<l>δίωκε βάλλε παῖε, πολλῶν οὕνεκα,</l>
+					<l>μάλιςτα δ' εἰδὼς τοὺς θεοὺς ὡς ἠδίκουν.</l>
+				</sp>
+			</div1>
+			<div1 type="Exodus">
+				<div2 type="anapests">
+					<sp who="#xoros">
+						<speaker>Χορόs</speaker>
+						<l n="1510">ἡγεῖςθ' ἔξω: κεχόρευται γὰρ μετρίως τό γε τήμερον ἡμῖν.</l>
+					</sp>
+				</div2>
+			</div1>
+		</body>
+	</text>
+</TEI>

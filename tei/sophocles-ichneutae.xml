@@ -1,0 +1,1441 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
+<TEI xml:lang="greek" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ichneutae</title>
+				<author key="Wikidata:Q7235">Sophocles</author>
+				<editor role="editor">Arthur S. Hunt</editor>
+			</titleStmt>
+			      
+			<publicationStmt>
+				<publisher xml:id="GreekDraCor">GreekDraCor</publisher>
+				<idno type="URL">https://dracor.org/greek/sophocles-ichneutae</idno>
+				<idno type="GreekDraCor">18</idno>
+				<availability>
+					<licence>
+						<ab>CC BY-SA 3.0 US</ab>
+						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
+					</licence>
+				</availability>
+				<idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q733158</idno>
+			</publicationStmt>
+			
+
+			<extent>About 35Kb</extent>
+			<sourceDesc>
+				<biblStruct>
+					<bibl type="originalSource">
+						<author key="Wikidata:Q7235">Sophocles</author>
+						<title>Oxyrhynchus Papyri, part 9, number 1174</title>
+						<editor role="editor">Arthur S. Hunt</editor>
+						<imprint>
+							<pubPlace>London</pubPlace>
+							<publisher>Egypt Exploration Fund</publisher>
+							<date>1912</date>
+						</imprint>
+					</bibl>
+				</biblStruct>
+			</sourceDesc>
+			<bibl type="digitalSource">
+				<name>Perseus Digital Library (http://www.perseus.tufts.edu)</name>
+				<idno type="URL">http://www.perseus.tufts.edu/hopper/opensource/download</idno>
+				<availability status="free">
+					<p>In the public domain.</p>
+				</availability>
+			</bibl>
+		</fileDesc>
+		<state unit="line"/>
+		<profileDesc>
+			<particDesc>
+				<listPerson>
+					<person xml:id="Xoros">
+						<persName>Xορόs</persName>
+					</person>
+					<person xml:id="Apollwn">
+						<persName>ʼAπόλλωn</persName>
+					</person>
+					<person xml:id="Silhnos">
+						<persName>Sιληνόs</persName>
+					</person>
+					<person xml:id="HmixorosA">
+						<persName>ʽHμιχορός A</persName>
+					</person>
+					<person xml:id="Kullhnh">
+						<persName>Kυλλήνh</persName>
+					</person>
+					<person xml:id="XorosSaturwn">
+						<persName>Xορὸς Sατύρωn</persName>
+					</person>
+					<person xml:id="HmixB">
+						<persName>ʽHμιχ. B</persName>
+					</person>
+					<person xml:id="HmixA">
+						<persName>ʽHμιχ. A</persName>
+					</person>
+				</listPerson>
+			</particDesc>
+			<textClass>
+				<keywords>
+					<term subtype="tragedy" type="genreTitle">Tragedy</term>
+				</keywords>
+			</textClass>
+			
+
+			<langUsage>
+				<language id="greek">Greek</language>
+				<language id="en">English</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date>29-Oct-00</date>
+				<respStmt>
+					<name>AEM</name>
+					<resp>markup</resp>
+				</respStmt>
+				<item>Initial text, based roughly on Oxyrhynchus Papyri IX
+$Log: soph.ich_gk.xml,v $
+Revision 1.1  2009-12-08 18:56:09  rsingh04
+moved more xml files around based on copyright status
+Revision 1.1  2005/07/25 15:03:09  packel
+Converted to XML
+Revision 1.6  2004/04/21 20:42:00  mimno
+added card 1s
+Revision 1.5  2003/07/01 22:18:08  yorkc
+Updated texts to TEI P4 and Perseus P4 extensions; minor cleanup (esp. character encodings and typos.)
+Revision 1.4  2001/03/19 21:29:41  amahoney
+mark one supplement as &quot;unclear&quot; to demonstrate the new rule in the spec;
+I think this particular one is a true supplement rather than an unclear
+letter, but it really doesn't matter a whole lot for this purpose or in this text
+Revision 1.3  2001/01/02 14:48:53  amahoney
+move credits for editors to filedesc proper so they'll show in pulldown
+Revision 1.2  2000/12/29 22:58:38  amahoney
+the translation is ready to go
+Revision 1.1  2000/12/04 23:16:13  amahoney
+new text
+</item>
+			</change>
+		</revisionDesc>
+		<change>
+			<date>2019-05-03</date>
+			<respStmt>
+				<name>Boris Orekhov</name>
+				<resp>ed.</resp>
+			</respStmt>
+			<item>converted to P.5 Dracor format</item>
+		</change>
+	</teiHeader>
+	<text lang="greek">
+		<body>
+			<milestone ed="p" n="1" unit="card"/>
+			<milestone n="1" unit="column"/>
+			<sp who="#Apollwn">
+				<speaker>ʼAπόλλωn</speaker>
+				<l> ]κιο[</l>
+				<l> ]πειτα[</l>
+				<l>
+					 ]
+					<unclear>e)</unclear>
+					pessu/q[hn
+				</l>
+				<l n="5">
+					 ]g[
+					<gap/>
+					]λ[
+				</l>
+				<l> ]ω[</l>
+				<l>[πᾶςιν θεοῖς καὶ πᾶςι]ν ἀγγέλλω [β]ροτο[ῖs</l>
+				<l>
+					[kai\ 
+					<gap/>
+					 dw=r' u(pis]xnou=mai telei=[n
+				</l>
+				<l>[   ἀ]πόπροθεν:</l>
+				<l n="10">
+					<gap/>
+					on[ 
+					<gap/>
+					δύς]λοφον φρενι\
+				</l>
+				<l>
+					<gap/>
+					ta[ 
+					<gap/>
+					 bo]u=s a)molga/das
+				</l>
+				<l>[μός]χους [τε καὶ νέων νόμευμ]α πορτίδωn</l>
+				<l>[ἅπα]ντα φρ[οῦδα καὶ μάτη]ν ἰχνοςκοπῶ</l>
+				<l>[λαθ]ραῖ' ἰόν[τα τῆλε βου]ςτάθμου κάπηs</l>
+				<l n="15">[ἀφα]νῶς τέχνα[ιςιν:  ὡς  ἐ]γὼ οὐκ ἂν ᾠόμηn</l>
+				<l>[οὔτ' ἂ]ν θεῶν τιν[' οὔτ' ἐφημ]έρων βροτῶn</l>
+				<l>[δρᾶς]αι τόδ' ἔργ[ον ὧδερςθβ; πρὸς τόλμαν πεςεῖν.</l>
+				<l>[ταῦτ]' οὖν ἐπείπερ [ἔμα]θον ἐκπλαγεὶς ὄκͺνω</l>
+				<l>[ςτείχ]ῶ, ματεύω, παντελὲς κήρυγμ' ἔχωn</l>
+				<l n="20">[θεοῖ]ς βροτοῖς τε μηδέν' ἀγνοεῖν τάδε.</l>
+				<l>[ἀκολο]υθίᾳ γὰρ ἐμμανὴς κυνηγετῶ:</l>
+				<l>[Qρᾳκ]ῶν δ' ἐπῆλθ[ο]ν φ[ῦ]λα τ[οῦ] παντὸς ςτρατ[οῦ</l>
+				<l>
+					[a)ll' ou)/]tis[
+					<gap/>
+					 
+					<note anchored="yes" lang="en" place="inline" resp="ed">about 21 letters</note>
+					]
+				</l>
+				<l>
+					<note anchored="yes" lang="en" place="inline" resp="ed">φουρ λινες μιςςινγ ηερe</note>
+				</l>
+				<l>
+					<gap/>
+					s
+					<gap/>
+				</l>
+				<l>
+					<gap/>
+					l
+					<gap/>
+					kio
+					<gap/>
+				</l>
+				<l>
+					<gap/>
+					is
+					<gap/>
+					e)/peita [de\
+				</l>
+				<l n="30">[τ]ὰ Qεςςαλῶν [τ' ἔγκαρπα πεδί' ἐ]πεςςύθ[ηn</l>
+				<l>Bοιωτίας τε γ[ῆς πολυκτήτου]ς [πό]λ]εις,</l>
+				<l>[ἔπει]τα δ'[</l>
+				<l>
+					<note anchored="yes" lang="en" place="inline" resp="ed">one line missing here</note>
+					<milestone n="2" unit="column"/>
+				</l>
+				<l>
+					<gap/>
+					ς Δωρικο[
+				</l>
+				<l n="35">
+					[
+					<gap/>
+					γεί]τον' ἐνθ[εn
+				</l>
+				<l>
+					[
+					<gap/>
+					 ]h/kw cun[]a[
+				</l>
+				<l>
+					[
+					<gap/>
+					 *kul]lh/nhs te du/[sbaton
+				</l>
+				<l>
+					[
+					<gap/>
+					 ]te xw=ron, e)s d' u(l[
+				</l>
+				<l>[ὡς εἴτε ποι]μὴν εἴτ' ἀγρωςτή[ρων τις ἠ\</l>
+				<l n="40">[μαριλοκαυ]τῶν ἐν λόγῳ παρ[ίςταταi</l>
+				<l>[ἢ τῶν ὀρ]είων νυμφογεννή[του γένουs</l>
+				<l>[θηρῶ]ν τίς ἐςτι, πᾶςιν ἀγγέλ[λω τάδε,</l>
+				<l>[τὸν φ]ῶρα τῶν Παιῶνος ὅςτις ἂ[ν λάβῃ,</l>
+				<l>[τῳ῀δ' α]ὐτόχρημα μιςθός ἐςθ' ὁ κε[ίμενος.</l>
+			</sp>
+			<sp who="#Silhnos">
+				<speaker>Sιληνόs</speaker>
+				<l n="45">[ὦ Fοῖβε,] ςοῦ φώνημαθ' ὡς ἐπέκλυοn</l>
+				<l>[βοῶ]ντος ὀρθίοιςι ςὺν κηρύγμας[ι,</l>
+				<l>[ς]πουδῇ τάδ', ἣ πάρεςτι πρεςβύτῃ [μαθώn</l>
+				<l>[ς]οί, Φοῖβ' ῎απολλον, προςφιλὴς εὐε[ργέτηs</l>
+				<l>θέλων γενέςθαι τῷδ' ἐπεςςύθην δρ[ό]μ[ῳ,</l>
+				<l n="50">ἄν πως τὸ χρῆμα τοῦτό ςοι κυνηγ[έ]ςω.</l>
+				<l>τ[ὸ]τ' αγγε[λό]ς μοι κείμενον χρ[υ]ςο[ν ς]τέφe</l>
+				<l>
+					ma/[li]st' e)p
+					<gap/>
+					 ais[i p]ro/sqe s
+					<gap/>
+					n,
+				</l>
+				<l>
+					pai=das d' em[ou\]s o)/ssoisi 
+					<gap/>
+					aue
+					<gap/>
+					ba
+					<gap/>
+				</l>
+				<l>
+					[
+					<gap/>
+					 im]' [a)\]n ei)/per e)kte[l]ei=s a(/per le/geis
+				</l>
+			</sp>
+			<sp who="#Apollwn">
+				<speaker>ʼAπόλλωn</speaker>
+				<l n="55">
+					[
+					<gap/>
+					 ]ώςω: μοῦνον ἐμπ[έδου τ]άδε.
+				</l>
+			</sp>
+			<sp who="#Silhnos">
+				<speaker>Sιληνόs</speaker>
+				<l>ta[s bou=s a)pa/cw s]oi: su\ d' e)mpe/dou [do/si]n.</l>
+			</sp>
+			<sp who="#Apollwn">
+				<speaker>ʼAπόλλωn</speaker>
+				<l>[e(/cei sf' o( g' eu(]rw\n o(/sti[s] e)/[s]q': e(t[oi=m]a d[e/.</l>
+			</sp>
+			<sp who="#Silhnos">
+				<speaker>Sιληνόs</speaker>
+				<l>
+					[
+					<gap/>
+					]is 
+					<gap/>
+					 e
+					<gap/>
+					zht
+					<gap/>
+					[
+				</l>
+			</sp>
+			<sp who="#Apollwn">
+				<speaker>ʼAπόλλωn</speaker>
+				<l>
+					[
+					<gap/>
+					]eso[
+
+					<milestone n="3" unit="column"/>
+				</l>
+				<l n="60">
+					<note anchored="yes" lang="en" place="inline" resp="ed">one line missing here</note>
+				</l>
+			</sp>
+			<sp who="#Apollwn">
+				<speaker>ʼAπόλλωn</speaker>
+				<l>
+					<gap/>
+					a[ 
+					<gap/>
+					]
+				</l>
+			</sp>
+			<sp who="#Silhnos">
+				<speaker>Sιληνόs</speaker>
+				<l>
+					ti/ tou=to; po[i
+					<gap/>
+					le/g]eis;
+				</l>
+			</sp>
+			<sp who="#Apollwn">
+				<speaker>ʼAπόλλωn</speaker>
+				<l>
+					e)leu/qeros su\ [pa=n te ge/nos e)/stai te/kn]wn.
+
+					<milestone n="64" unit="card"/>
+				</l>
+			</sp>
+			<sp who="#XorosSaturwn">
+				<speaker>Xορὸς Sατύρωn</speaker>
+				<l>
+					i)/q' a)/ge d[
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">at most 16 ll.</note>
+					]
+				</l>
+				<l n="65">
+					po/da ba/[sin te
+					<gap/>
+					]n
+				</l>
+				<l>
+					a)papap[ai=   
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">at most 15 ll.</note>
+					   ]
+				</l>
+				<l>
+					w)\ w)/, se/ toi [  
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">at most 14 ll.</note>
+					  ]
+				</l>
+				<l>
+					e)/piqi klwp[  
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">at most 13 ll.</note>
+					  ]
+				</l>
+				<l>
+					u(po/noma k[   
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">at most 15 ll.</note>
+					   ]
+				</l>
+				<l n="70">
+					dianu/twn o/[  
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">at most 14 ll.</note>
+					  ]
+				</l>
+				<l>
+					patrika\n gh=r[un 
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">at most 12 ll.</note>
+					]
+				</l>
+				<l>
+					pw=s pa=| ta\ la/qri[a nu/xia 
+					<gap/>
+					]
+				</l>
+				<l>
+					kle/mmata possi\[ 
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">at most 8 ll.</note>
+					 ]
+				</l>
+				<l>
+					ei)/ pws, a)\n tu/xw, po[
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">at most 8 ll.</note>
+					]
+				</l>
+				<l n="75">
+					patri/ t' e)leu/qeron b[
+					<gap/>
+					]
+					<gap/>
+					met[
+					<gap/>
+					]
+				</l>
+				<l>ξυνάμα θεὸς ὁ φίλος ἀνέτw</l>
+				<l>πόνους, προφήνας ἀρίζηλa</l>
+				<l>
+					xrusou= paradei/gmata.
+
+					<milestone n="79" unit="card"/>
+				</l>
+			</sp>
+			<sp who="#Silhnos">
+				<speaker>Sιληνόs</speaker>
+				<l>qeo\s *Tu/xh [k]ai\ dai=mon i)qunth/rie,</l>
+				<l n="80">τυχ[ε]ῖν με πράγους οὗ δράμημ' ἐπείγεται,</l>
+				<l>λείαν ἄγραν ςύληςιν ἐκκυνηγέςαi</l>
+				<l>F[ο]ίβου κλ[ο]παίας βοῦς ἀπεςτερημένο[υ.</l>
+				<l>[τ]ῶν εἴ τις ὀπτήρ ἐςτι[ν] ἢ κατήκοος,</l>
+				<l>[ἐ]μοί τ' [ἂ]ν [ε]ἴη προςφιλὴ[ς] φράςας τόδe</l>
+				<l n="85">[Φοίβῳ τ]' ἄνακτι ςυντελὴς εὐεργ[έ]της.</l>
+				<l>
+					[
+					<gap/>
+					]a[
+					<gap/>
+					]t[
+					<gap/>
+					]s tou= lo/[gou
+					<gap/>
+					]q' a(/ma[
+
+					<milestone n="4" unit="column"/>
+				</l>
+				<l>μήνυ[τρa</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l>i)w\ s[</l>
+				<l>ϋηο[</l>
+				<l n="90">δ' οὐδ[</l>
+			</sp>
+			<sp who="#Silhnos">
+				<speaker>Sιληνόs</speaker>
+				<l>fhsi/n tis; h)\[</l>
+				<l>ἔοικεν ἤδη κ[</l>
+				<l>ἄγ' εἷα δὴ πᾶς ς[</l>
+				<l>ῥινηλατῶν ὀςμ[αῖςi</l>
+				<l n="95">
+					au)/ras e)a/n ph| pr[  
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">at most 15 ll.</note>
+					  ]
+				</l>
+				<l>
+					diplou=s o)kla/zw[n 
+					<gap/>
+					]n
+				</l>
+				<l>
+					u(/posmos e)n xrw=| [  
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">at most 15 ll.</note>
+					  ]
+				</l>
+				<l>
+					ou(/tws e)/reunan kai\ p[
+					<gap/>
+					]
+				</l>
+				<l>
+					a(/panta xrhsta\ ka[i\ 
+					<gap/>
+					te]lei=n.
+
+					<milestone n="100" unit="card"/>
+				</l>
+			</sp>
+			<sp who="#HmixorosA">
+				<speaker>ʽHμιχορός A</speaker>
+				<l n="100">θεὸς θεὸς θεὸς θεός: ἔα [ἔα:</l>
+				<l>
+					e)/xein e)/oigmen: i)/sxe, mh\ sur
+					<gap/>
+					tei.
+				</l>
+			</sp>
+			<sp who="#HmixB">
+				<speaker>ʽHμιχ. B</speaker>
+				<l>tau=t' e)/st' e)kei=na: tw=n bow=n t[a\] sh/mata.</l>
+			</sp>
+			<sp who="#HmixA">
+				<speaker>ʽHμιχ. A</speaker>
+				<l>si/g[a]: qeo/s tis th\n a)poi[ki/a]n a)/gei.</l>
+			</sp>
+			<sp who="#HmixB">
+				<speaker>ʽHμιχ. B</speaker>
+				<l>ti/ drw=men, w)= ta=n; h)= to\ de/on [e)c]h/nomen;</l>
+			</sp>
+			<sp who="#HmixA">
+				<speaker>ʽHμιχ. A</speaker>
+				<l n="105" part="I">ti/; toi=s[i] tau/th| pw=s dokei=;</l>
+			</sp>
+			<sp who="#HmixB">
+				<speaker>ʽHμιχ. B</speaker>
+				<l part="F">dokei= pa/nu.</l>
+				<l>ςαφῆ [γ]ὰρ αὔθ' ἕκαςτα ςημαίνει τάδε.</l>
+			</sp>
+			<sp who="#HmixA">
+				<speaker>ʽHμιχ. A</speaker>
+				<l>i)dou\ i)dou/:</l>
+				<l>καὶ τοὐπίςημον αὐτὸ τῶν ὁπλῶν πάλι[ν.</l>
+			</sp>
+			<sp who="#HmixB">
+				<speaker>ʽHμιχ. B</speaker>
+				<l>a)/qrei ma/la.</l>
+				<l n="110">
+					au)/t' e)sti tou=to me/tron [e)]kme
+					<gap/>
+					[τρού]μ[ε]νον.
+				</l>
+			</sp>
+			<sp who="#HmixA">
+				<speaker>ʽHμιχ. A</speaker>
+				<l>
+					x[w/]rei dro/mw| kai\ ta[
+					<gap/>
+					]n e)/xou
+				</l>
+				<l>
+					<gap/>
+					op[
+					<gap/>
+					][
+					<gap/>
+					]menos
+
+					<milestone n="5" unit="column"/>
+				</l>
+				<l>ῥοίβδημ' ἐάν τι τῶν [βοῶν δ]ι' οὖς [λάͺβη</l>
+			</sp>
+			<sp who="#HmixB">
+				<speaker>ʽHμιχ. B</speaker>
+				<l>ou)k ei)sakou/w pw [torw=]s tou= fq[e/g]matos.</l>
+				<l n="115">ἀλλ' αὐτὰ μὴν ἴχ[νη τε] χὠ ςτίβος τάδe</l>
+				<l>κείνων ἐναργῆ τῶν β[ο]ῶν μαθεῖν πάρα.</l>
+			</sp>
+			<sp who="#HmixA">
+				<speaker>ʽHμιχ. A</speaker>
+				<l>e)/a ma/la:</l>
+				<l>παλινςτραφῆ τοι ναὶ μὰ Dία τὰ βήματa</l>
+				<l>εἰς τοὔμπαλιν δέδορκεν αὐ: τάδ' εἴςιδε.</l>
+				<l n="120">τί ἐςτὶ τουτί; τίς ὁ τρόχος τοῦ τάγματ[ος;</l>
+				<l>εἰς τοὐπίςω τὰ πρόςθεν ἤλλακται, τὰ δ' αὖ</l>
+				<l>ἐναντί' ἀλλήλοιςι ςυμπ[επλεγ]μένα:</l>
+				<l>
+					deino\s kukhsmo\s ei)=x[e to\n boh]la/thn.
+
+					<milestone n="124" unit="card"/>
+				</l>
+			</sp>
+			<sp who="#Silhnos">
+				<speaker>Sιληνόs</speaker>
+				<l>ti/n' au)= te/xnhn su\ th/n[d' a)/r' e)c]h=ures, ti/n' au)=,</l>
+				<l n="125">πρόςπαιον ὧδε κεκλιμ[ένον] κυνηγετεῖn</l>
+				<l>πρὸς γῇ; τίς ὑμῶν ὁ τρόπος; οὐχὶ μανθάνω:</l>
+				<l>[ἐ]χῖνος ὥς τις ἐν λόχμῃ κεῖςαι πεςών,</l>
+				<l>[ἤ] τις πίθηκος κύβδα θυμαίνεις τινί.</l>
+				<l>[τ]ί ταῦτα; ποῦ γῆς ἐμάθετ' ἐν πο[ί]ῳ τόπῳ;</l>
+				<l n="130">ς[η]μήνατ', οὐ γὰρ ἴδρις εἰμὶ τοῦ τρόπου.</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l>u(/ [u(=] u(/ u(=.</l>
+			</sp>
+			<sp who="#Silhnos">
+				<speaker>Sιληνόs</speaker>
+				<l>t[i/ tou=t' i)u/zeis;] ti/na fobh=|; ti/n' ei)sora=|s;</l>
+				<l>τ[ί δεῖμ' ὄπωπ]ας; τί ποτε βακχεύεις ἔχων;</l>
+				<l>α[γχοῦ τις ἤχε]ι κέρχνος:  ἱμείρει[ς] μαθεῖn</l>
+				<l n="135">τ[ίς ἦν;  τί ςιγ]ᾶτ', ὦ πρ[ὸ τοῦ λαλίςτ]ατοι;</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l>s[i/ga me\n ou)=n.]</l>
+			</sp>
+			<sp who="#Silhnos">
+				<speaker>Sιληνόs</speaker>
+				<l>t[i/n' e)/st' e)kei=qe]n a(ponos[fi/z]eis e)/xwn;</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l>
+					a)/[koue dh/.
+
+					<milestone n="6" unit="column"/>
+				</l>
+			</sp>
+			<sp who="#Silhnos">
+				<speaker>Sιληνόs</speaker>
+				<l>kalw=s a)kou/s[w mhden]o\s fwnh\n klu/wn;</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l n="140">e)moi\ piqou=.</l>
+			</sp>
+			<sp who="#Silhnos">
+				<speaker>Sιληνόs</speaker>
+				<l>e)m[o\n] di/w[gma/ g' ou)da]mw=s o)nh/sete.</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l>a)/kouson au)= t[o]u= xr[h/ma]t[o]s xro/non tina/,</l>
+				<l>[ο]ἵῳ 'κπ[λ]αγέντες ἐν[θάδ'] ἐξενίςμεθa</l>
+				<l>
+					yo/fw|, to\n ou)de[i\]s p[w/po]t' h)/kousen brotw=n.
+
+					<milestone n="145" unit="card"/>
+				</l>
+			</sp>
+			<sp who="#Silhnos">
+				<speaker>Sιληνόs</speaker>
+				<l n="145">ti/ moi y[o/]fon; fob[ei=sqe] ka[i\] deimai/nete,</l>
+				<l>μάλθης ἄναγνα ςώ[μα]τ' ἐκμεμαγμένa</l>
+				<l>κάκιςτα θηρῶν ὀντ[ες, ἐ]ν [π]άςῃ ςκͺιᾶ</l>
+				<l>φόβον βλέποντες, πάν[τα] δειματούμενοι,</l>
+				<l>ἄνευρα κἀκόμιςτα κἀνε[λε]ύθερa</l>
+				<l n="150">διακονοῦντες, ςώματ' εἰ[ς]ιδ[ε]ῖν μόνοn</l>
+				<l>κα[ὶ γ]λῶςςα κα[ὶ] φάλητες. εἰ δέ που δέῃ,</l>
+				<l>πιςτοὶ λόγοιςιν ὄντες ἔργα φεύγετε.</l>
+				<l>τοιοῦ[δ]ε πατρός, ὦ κάκιςτα θηρίων,</l>
+				<l>οὗ πόλλ' ἐφ' ἥβης μνήματ' ἀνδρείας ὕπo</l>
+				<l n="155">κ[ε]ῖται παρ' οἴκοις νυμφικοῖς ἠςκημένα,</l>
+				<l>οὐκ εἰς φυγὴν κλίνοντος, οὐ δουλ[ο]υμένου,</l>
+				<l>οὐδὲ ψόφοιςι τῶν ὀρειτρόφων βοτῶn</l>
+				<l>[π]τήςςοντος, ἀλλ' α[κ]μαῖςιν ἐξει[ρ]γαςμένοu</l>
+				<l>[ἃ] νῦν ὑφ' ὑμῶν λάμ[πρ' ὑ]πορρυπαίνεταi</l>
+				<l n="160">[ψ]όφῳ νεώρει κόλακ[ι] ποιμένων π[ο]θέν,</l>
+				<l>[ὃν] δὴ φοβεῖςθε παῖδες ὣς πρὶν εἰςιδεῖν,</l>
+				<l>πλοῦτον δὲ χ[ρ]υςόφαντον ἐξαφίετε,</l>
+				<l>ὃν Fοῖβος ὑμῖν εἶπε κ[ἀ]νεδέξατο,</l>
+				<l>
+					kai\ th\n e)leuqe/rwsin h(\n kath/|nesen
+
+					<milestone n="7" unit="column"/>
+				</l>
+				<l n="165">ὑμῖν τε κἀμοί: ταῦτ' ἀφέντες εὕδετε.</l>
+				<l>εἰ μὴ 'νανοςτήςαντες ἐξιχνεύςε[τe</l>
+				<l>τὰς βοῦς ὅπῃ βεβᾶςι καὶ τὸν βουκόλο[ν,</l>
+				<l>κλαίοντες αὐτῇ δειλίᾳ ψοφή[ς]ετε.</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l>pa/ter, parw\n au)to/s me sumpodhge/te[i,</l>
+				<l n="170">ἵν' εὖ κατείδῃς εἴ τίς ἐςτι δειλία:</l>
+				<l>γνώςη[ι] γὰρ αὐτός, ἂν παρῇς, οὐδὲν λέγω[ν.</l>
+			</sp>
+			<sp who="#Silhnos">
+				<speaker>Sιληνόs</speaker>
+				<l>e)gw\ pa[r]w\n au)to/s se prosbibw= lo/gw|,</l>
+				<l>κυνορτικὸν ςύριγμα διακαλούμεν[ος.</l>
+				<l>ἀλλ' εἷ' [ἐ]φίςτω τριζύγης οἵμου βάςιν:</l>
+				<l n="175">
+					e)gw\ d' e)n [e)/]rgois parme/nwn s' a)peuqunw=.
+
+					<milestone n="176" unit="card"/>
+				</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l>u(= u(= u(=, y y, a)= a)=. le/g' o(/ ti ponei=s.</l>
+				<l>τί μάτην ὑπέκλαγες, ὑπέκριγεs</l>
+				<l>ὑπό μ' ἴδες; ἔχεταi</l>
+				<l>ἐν πρώτῳ τίς ὅδε τροπ[ῳ;</l>
+				<l n="180">ἔχει. ἐλήλυθεν, ἐλήλ[υθεν.</l>
+				<l>ἐμὸς εἶ, ἀνάγου.</l>
+				<l>
+					deu=t' w)/, ti/s o(/de [ 
+					<gap/>
+					 ]ths
+				</l>
+				<l>
+					o( dra/kis, o( gra/pis, [
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed.">at most 6 ll.</note>
+					]
+				</l>
+				<l>
+					[*o]u)ri/as *ou)ri/as, ad[
+					<gap/>
+					]keis
+				</l>
+				<l n="185">
+					pare/bhs: mequ[
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">at most 11 ll.</note>
+					]
+				</l>
+				<l>
+					o(/ ti pote fere[
+					<gap/>
+					]i[
+					<gap/>
+					]n
+				</l>
+				<l>
+					e)/poxon e)/xei ti[
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">at most 13 ll.</note>
+					]
+				</l>
+				<l>
+					sti/bos o(denes[
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">at most 12 ll.</note>
+					 ]
+				</l>
+				<l>
+					stra/tios, stra/t[ios 
+					<gap/>
+					]u[
+					<gap/>
+					]
+				</l>
+				<l n="190">
+					deu=r' e(/pou: t[
+					<gap/>
+					]dr[
+					<gap/>
+					       ]
+
+					<milestone n="8" unit="column"/>
+				</l>
+				<l>ἔνι β[ο]ῦς ἔνι πονο[</l>
+				<l>μὴ μεθῇ κρ[ο]κι [</l>
+				<l>ςὺ τί καλ[ὸ]ν ἐπιδ[</l>
+				<l>ὅδε γ' ἀγαθὸς ὁ τρε[</l>
+				<l n="195">κατὰ νόμον ἕπετα[i</l>
+				<l>ἐφέπου, ἐφέπου μ[</l>
+				<l>ὀπποποῖ: ἆ μιαρέ, γε[</l>
+				<l>ἦ τάχ' ὁπόταν ἀπίη[ιs</l>
+				<l>ἀπελεύθερος ὢν ολ [</l>
+				<l n="200">ἀλλὰ μὴ παραπλακ[</l>
+				<l>ἔπ[ι]θ' [ἔ]πεχ' εἴςιθ' ἴθι[</l>
+				<l>
+					t[o\] de\ pla/gion e)/xom[en
+
+					<milestone n="203" unit="card"/>
+				</l>
+				<l>πάτερ, τί ςιγᾷς; μῶν ἀληθ[ὲς εἴπομεν;</l>
+				<l>οὐ[κ ε]ἰςακο[ύε]ις; ἦ κεκώφη[ςαι, ψόφον;</l>
+			</sp>
+			<sp who="#Silhnos">
+				<speaker>Sιληνόs</speaker>
+				<l n="205" part="I">si/[ga:] ti/ e)/stin;</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l part="Y">ou) menw=.</l>
+			</sp>
+			<sp who="#Silhnos">
+				<speaker>Sιληνόs</speaker>
+				<l part="Y">me/n', e[i)] &lt;du/na|.&gt;</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l>ou)k e)/stin. a)ll' au)to\s su\ tau=q[' o(/ph| qe/leis]</l>
+				<l>ζήτει τε κἀξίχνευε καὶ πλού[τει λαβὼn</l>
+				<l>
+					ta\s bou=s te ka[i\] to\n xruso\n [
+					<gap/>
+					   ]e[
+				</l>
+				<l>
+					mh\ plei=st[on] e)/ti s[
+					<gap/>
+					]n [
+					<gap/>
+					] xro/non.
+				</l>
+			</sp>
+			<sp who="#Silhnos">
+				<speaker>Sιληνόs</speaker>
+				<l n="210">a)ll' ou)/ ti m[h/ soi/] m[' e)klipei=n e)fh/somai]</l>
+				<l>οὐδ' ἐξυπελθ[εῖ]ν τ[οῦ πόνου πρίν γ' ἂν ςα]φῶs</l>
+				<l>εἰδῶμεν ὅν[τιν'] ἔ[νδον ἥδ' ἔχει ςτέγη.]</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l>i)=w\ g[</l>
+				<l>
+					fqe/g[ma 
+					<gap/>
+					]ou
+				</l>
+				<l n="215">
+					[
+					<gap/>
+					]hd[
+					<gap/>
+					 mis-]
+
+					<milestone n="9" unit="column"/>
+				</l>
+				<l>θο[ν δ]όμοιςιν ὀλβίςῃς.</l>
+				<l>ὁ [δ' ο]ὐ φαν[εῖτ]αι τοῖςιν. ἀλλ' ἐγὼ τάχa</l>
+				<l>φ[έρ]ων κτύ[π]ον πέδορτον ἐξαναγκάςw</l>
+				<l>π[η]δήμαςιν κραιπνοῖςι καὶ λακτίςμαςιn</l>
+				<l n="220">
+					w(/[s]t' ei)sakou=sai kei) li/an kwfo/s tis h)=|.
+
+					<milestone n="221" unit="card"/>
+				</l>
+			</sp>
+			<sp who="#Kullhnh">
+				<speaker>Kυλλήνh</speaker>
+				<l>θῆρες, τί [τό]νδε χλοερὸν ὑλώδη πάγοn</l>
+				<l>ἔν[θ]ηρον ὡρμήθητε ςὺν πολλῇ βοῇ;</l>
+				<l>τίς ἥδε τέχνη; τίς μετάςταςις πόνων,</l>
+				<l>οὓς πρόςθεν εἶχες δεςπότῃ χάριν φέρων,</l>
+				<l n="225">ὑμεῖν ὃς αἰεὶ νεβρίνῃ καθημμέν[ο]s</l>
+				<l>δορᾷ χερ[ο]ῖν τε θύρς[ο]ν εὐπαλῆ φέρωn</l>
+				<l>ὄπιςθεν εὐίαζετ' ἀμφὶ τὸν θεὸn</l>
+				<l>ςὺν ἐγγόνοις νύμφαιςι καὶ π&lt;αί&gt;δων ὄχλῳ;</l>
+				<l>νῦν δ' ἀγνοῶ τὸ χρῆμα: ποῖ ςτροφαὶ νέωn</l>
+				<l n="230">μανιῶν ςτρέφουςι; θαῦμα γὰρ κατέκλ[υ]οn</l>
+				<l>ὁμοῦ πρέπον κέλευμά πως κυνηγετ[ῶ]n</l>
+				<l>ἐγγὺς μολόντων θηρὸς εὐναί[ου] τρο[φ]ῆς,</l>
+				<l>
+					o(mou= d' a)\n au)=ti[s 
+					<gap/>
+					] 
+					<gap/>
+					ai fwr[
+					<gap/>
+				</l>
+				<l>
+					glw/sshs e)teine[t' e]i)s kloph\n [
+					<gap/>
+					]e/nai:
+				</l>
+				<l n="235">
+					au)=tis d' a[
+					<gap/>
+					]t[ 
+					<gap/>
+					]
+					<gap/>
+					 menwn [
+					<gap/>
+					]a
+				</l>
+				<l>
+					khruk[
+					<gap/>
+					]
+					<gap/>
+					i[
+					<gap/>
+					] khrugma [
+				</l>
+				<l>καὶ τ[α]ῦτ' ἀφεῖςα ςὺν ποδῶν λακ[τίςμαςi</l>
+				<l>[κ]ληδὼν ὁμοῦ πάμφυρ[τ]' ἐγειτν[ία ςτέγῃ]</l>
+				<l>
+					[kai\] tau=t' a)\n a)/llws h)\ kl[
+					<gap/>
+					]m[
+				</l>
+				<l n="240">[φων]ῶν ἀκο[ύ]ςας' ὧδε παραπεπαιςμέν[ωn</l>
+				<l>
+					<gap/>
+					f&amp; lsqb;
+					<gap/>
+					]h[
+					<gap/>
+					] nwn u(ma=s nosei=n
+				</l>
+				<l>
+					no[s 
+					<gap/>
+					ti/ nu/mfh]n e)/ti poe=it' a)naiti/an;
+
+					<milestone n="10" unit="column"/>
+					<milestone n="243" unit="card"/>
+				</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<note anchored="yes" place="inline" type="meter">str.</note>
+				<l>nu/mfh baqu/zwne p[au=sai xo/lou ]</l>
+				<l>τοῦδ', οὔτε γὰρ νεῖκος ἥ[κει ςέ τοi</l>
+				<l n="245">δᾴ[ο]υ μάχας οὐδ' ἀξενό[ς που ςέθεn</l>
+				<l>γλ[ῶ]ςςαν μάταιός τ[' ἀφ' ἡμῶν θίγοι.</l>
+				<l>μή με μὴ προψαλ[άξῃς κακοῖς,</l>
+				<l>ἀλλ' [εὐ]πετῶς μοι πρ[όφανον τὸ πρᾶγ-</l>
+				<l>μ', ἐν [τ]όποις τοῖς[δε τίς νέρθε γᾶς ὧδ' ἀγα-</l>
+				<l n="250">
+					stw=s e)ga/ruse qe/spin au)da/[n.
+
+					<milestone n="251" unit="card"/>
+				</l>
+			</sp>
+			<sp who="#Kullhnh">
+				<speaker>Kυλλήνh</speaker>
+				<l>tau=t' e)/st' e)kei/nwn nu=n [ tro/pwn pepai/tera,</l>
+				<l>καὶ τοῖςδε θηρῶν ἐκπύ[θοιο μᾶλλον ἂn</l>
+				<l>ἀλκαςμάτων δ[ειλῆ]ς [τε πειρατηρίωn</l>
+				<l>νύμφης: ἐμοὶ γὰ[ρ οὐ]κ [ἀρεςτόν ἐςτ' ἔριn</l>
+				<l n="255">ὀρθοψάλακτον εν [λ]όγο[ις]ιν [ἱςτάναι.</l>
+				<l>ἀλλ' ἥςυχος πρόφαινε καὶ μ[ή]νυ[έ μοi</l>
+				<l>ὅτου μάλιςτα πράγματος χρείαν ἔχεις.</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l>to/pwn a)/nassa tw=n[d]e, *kullh/nhs sqe/nos,</l>
+				<l>ὅτου μὲν οὕνεκ' ἦλθ[ο]ν, ὕςτερον φράςω:</l>
+				<l n="260">τὸ φθέγμα δ' ἡμῖν τοῦ[θ'] ὅπερ φωνεῖ φράςοn</l>
+				<l>καὶ τίς ποτ' αὐτῷ δι[α]χαράςςεται βροτῶν.</l>
+			</sp>
+			<sp who="#Kullhnh">
+				<speaker>Kυλλήνh</speaker>
+				<l> u(ma=s me\n au)tou\s xrh\ ta/d' ei)de/nai safw=s</l>
+				<l>ὡς εἰ φανεῖτε τὸν λ[ό]γον τὸν ἐξ ἐμοῦ,</l>
+				<l>αὐτοῖςιν ὑμῖ[ν ζ]ημία πορίζεται:</l>
+				<l n="265">καὶ γὰρ κέκρυπτ[αι] τοὖργον ἐν [θ]ε[ῶ]ν ἕδραις,</l>
+				<l>῞ηραν ὅπως μ[ὴ πύ]ςτ[ι]ς ἵξετα[ι] λόγου.</l>
+				<l>Ζ[εὺ]ς γ[ὰρ] κρυφ[αίαν ἐς ςτέ]γην ʼατλαντίδοs</l>
+				<l>
+					[
+					<gap/>
+					           ]eu/sato:
+				</l>
+				<l>
+					[
+					<gap/>
+					           ]u [
+					<gap/>
+					]filas
+
+					<milestone n="11" unit="column"/>
+				</l>
+				<l n="270">
+					[
+					<gap/>
+					] λήθῃ τῆς βαθυζώνου θεᾶs
+				</l>
+				<l>[κατὰ ςπέ]ος δὲ παῖδ' ἐφίτυςεν μόνον:</l>
+				<l>[τοῦτον δὲ] χερςὶ ταῖς ἐμαῖς ἐγὼ τρέφω:</l>
+				<l>[μητρὸς γ]ὰρ ἰςχὺς ἐν νόςῳ χειμάζεται:</l>
+				<l>[κἀδεςτ]ὰ καὶ ποτῆτα καὶ κοιμήματa</l>
+				<l n="275">[πρὸς ςπ]αργάνοις μένουςα λικνῖτιν τροφὴn</l>
+				<l>[ἐξευθ]ετίζω νύκτα καὶ καθ' ἡμέραν.</l>
+				<l>[ὁ δ' α]ὔξεται κατ' ἦμαρ οὐκ ἐπεικότa</l>
+				<l>[μέγι]ςτος, ὥςτε θαῦμα καὶ φόβος μ' ἔχει.</l>
+				<l>[οὔπω γ]ὰρ ἑκτὸν ἦμαρ ἐκπεφαςμέν[ο]s</l>
+				<l n="280">[γυίοι]ς ἐρείδει παιδὸς εἰς ἥβης ἀκμήν,</l>
+				<l>[κἀξορ]μενίζει κοὐκέτι ςχολάζεταi</l>
+				<l>[βλάςτη:] τοιόνδε παῖδα θηςαυρὸς ςτέγει.</l>
+				<l>[δυςεύρε]τός [τ' ἔτ'] ἐςτι τοῦ πατρὸς θέςει.</l>
+				<l>[ἀφανεῖ δ' ὃ πεύθῃ  φ]θέγμα μηχανῇ βρέμ[οn</l>
+				<l n="285">καὶ π[όλ]λ' ἐθά]μβεις αὐτὸ]ς, ἡμέρᾳ μͺια</l>
+				<l>ἐξ ὑπτίας κ[ίςτη γ' ἐμηχ]ανήςατο:</l>
+				<l>τοιόνδε θη[ρὸς ἐκ θανόντ]ος ἡδονῆs</l>
+				<l>
+					e)/mmeston a[ggos eu(=re k]ai\ ka/tw d[onei=.]
+
+					<milestone n="290" unit="card"/>
+				</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l n="290">
+					a)/frast[o  
+					<gap/>
+					] pai=s boh=s
+				</l>
+				<l>
+					paido[
+					<gap/>
+					]mazeis[
+				</l>
+				<l>
+					qhreum[a 
+					<gap/>
+					 ]le/geis
+				</l>
+				<l>
+					fw/nhm[a 
+					<gap/>
+					 ]seqou[
+				</l>
+				<l>
+					to/nd' af[
+					<gap/>
+					 ]on[
+				</l>
+				<l n="295">
+					tws e)cef[
+					<gap/>
+					      ]
+				</l>
+				<l>
+					ront' a)/pa[ 
+					<gap/>
+					 ] e)[k qano/n-
+
+					<milestone n="12" unit="column"/>
+				</l>
+				<l>
+					tos pori/zein toia/nde gh=run.
+
+					<milestone n="298" unit="card"/>
+				</l>
+			</sp>
+			<sp who="#Kullhnh">
+				<speaker>Kυλλήνh</speaker>
+				<l>mh\ nu=n a)pi/stei: pista\ ga/r se prosgela=| qea=s e)/ph.</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l n="300">kai\ pw=s pi/qwmai tou= qano/ntos fqe/gma toiou=ton bre/mein;</l>
+			</sp>
+			<sp who="#Kullhnh">
+				<speaker>Kυλλήνh</speaker>
+				<l>piqou=: qanw\n ga\r e)/sxe fwnh/n, zw=n d' a)/naudos h)=n o( qh/r.</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l>poi=o/s tis h)=n ei)=dos; pr[o]mh/khs, h)\ 'pi/kurtos, h)\ braxu/s;</l>
+			</sp>
+			<sp who="#Kullhnh">
+				<speaker>Kυλλήνh</speaker>
+				<l>braxu/s, xutrw/dhs, po[i]ki/lh| dora=| katerriknwme/nos.</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l>w(s ai)e/louros ei)ka/sai pe/fuken h)\ tw\s po/rdalis;</l>
+			</sp>
+			<sp who="#Kullhnh">
+				<speaker>Kυλλήνh</speaker>
+				<l n="305">plei=ston me[t]acu/: goggu/lon ga/r e)sti kai\ braxuskele/s.</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l>ou)d' w(s i)xneum&lt;wn&gt; prosfere\s pe/fuken ou)d' w(s karki/n&lt;os&gt;;</l>
+			</sp>
+			<sp who="#Kullhnh">
+				<speaker>Kυλλήνh</speaker>
+				<l>ou)d' au)= toiou=t[o/]n e)stin: a)ll' a)/llon tin' e)ceurou= tro/pon.</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l>a)ll' w(s kera/st[h]s ka/nqaros dh=t' e)sti\n *ai)tnai=os fuh/n;</l>
+			</sp>
+			<sp who="#Kullhnh">
+				<speaker>Kυλλήνh</speaker>
+				<l>nu=n e)ggu\s e)/gn[ws] w(=| ma/lista prosfere\s to\ knw/dalon.</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l n="310">t[i/ d' au)= to\ ] fwn[ou=]n e)stin au)tou=, tou)nto\s h)\ tou)/cw, fra/son.</l>
+			</sp>
+			<sp who="#Kullhnh">
+				<speaker>Kυλλήνh</speaker>
+				<l>
+					 [
+					<gap/>
+					]lo[
+					<gap/>
+					f]ori/nh su/ggonos tw=n o)stra/kwn.
+				</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l>[poi=on de\ tou)/nom' e)n]ne/[pei]s;  po/rsunon, ei)/ ti ple/on e)/xeis.</l>
+			</sp>
+			<sp who="#Kullhnh">
+				<speaker>Kυλλήνh</speaker>
+				<l>[to\n qh=ra me\n xe/lun, to\ fwno]u=n d' au)= lu/ran o( pai=s kalei=.</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l>
+					[ 
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">about 22 ll.</note>
+					 ] kte/anon hsu/[
+					<gap/>
+					] tini;
+				</l>
+			</sp>
+			<sp who="#Kullhnh">
+				<speaker>Kυλλήνh</speaker>
+				<l>
+					[ 
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">about 23 ll.</note>
+					  ] de/rma k[
+					<gap/>
+					]st [
+				</l>
+				<l n="315">
+					[ 
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">about 23 ll.</note>
+					 ]on w(=d[e] klagga/nei [
+				</l>
+				<l>
+					[
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">about 23 ll.</note>
+					]o/rws e)rei/detai
+				</l>
+				<l>
+					[
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">about 24 ll.</note>
+					]plekta [
+				</l>
+				<l>
+					[
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">about 24 ll.</note>
+					]la/dos k[
+				</l>
+				<l>
+					[
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">about 21 ll.</note>
+					 ko/l]lopes de[
+				</l>
+				<l n="320">
+					[
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">about 24 ll.</note>
+					 ]ammatw [
+				</l>
+				<l>
+					[
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">about 25 ll.</note>
+					]on[
+				</l>
+				<l>
+					<note anchored="yes" lang="en" place="inline" resp="ed">1 or 2 lines lost</note>
+					<milestone n="13" unit="column"/>
+				</l>
+				<l n="325">καὶ τοῦτο λύπη[ς] ἔςτ' ἄκεςτρον καὶ παραψυκ[τ]ήρ[ιο]n</l>
+				<l>κείνῳ μόνον, χα[ί]ρει δ' ἀλύων καί τι προςφων[ῶν μέλοs</l>
+				<l>ξύμφωνον: ἐξα[ί]ρει γὰρ αὐτὸν αἰόλιςμα τῆς λ[ύ]ρας.</l>
+				<l>
+					ou(/tws o( pai=s qano/nti qhri\ fqe/gm' e)mhxanh/sat[o.
+
+					<milestone n="329" unit="card"/>
+				</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l>
+					o)&lt;rq&gt;oya/lakto/s tis o)mfh\ katoixnei= to/pou,      
+					<note anchored="yes" place="inline" type="meter">str.</note>
+				</l>
+				<l n="330">πρεπτὰ &lt;δ' αὖ&gt; διὰ τόνου φάςματ' ἔγ-</l>
+				<l>χωρ' ἐπανθεμίζει.</l>
+				<l>τὸ πρᾶγμα δ' οὗπερ πορεύω βάδην,</l>
+				<l>ἴςθι τὸν δα[ί]μον', ὅςτις ποθ' ὃs</l>
+				<l>ταῦτ' ἐτεχνήςατ', οὐκ ἄλλος ἐςτὶν κλ[οπεὺs</l>
+				<l n="335">ἀντ' ἐκείνου, γύναι, ςάφ' ἴςθι.</l>
+				<l>ςὺ δ' ἀντὶ τῶνδε μὴ χαλε-</l>
+				<l>
+					fqh=|s m&lt;h&gt;de\ dusforhqh=|s.
+
+					<milestone n="338" unit="card"/>
+				</l>
+			</sp>
+			<sp who="#Kullhnh">
+				<speaker>Kυλλήνh</speaker>
+				<l>[ti/s e)/xei pla/]nh se; ti/na kloph\n w)nei/dis[as;</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l>[ou) ma\ *Di/a s', w)= pre/s]beira xeima/zein [ qe/lw.</l>
+			</sp>
+			<sp who="#Kullhnh">
+				<speaker>Kυλλήνh</speaker>
+				<l n="340">[mw=n to\n *Dio\s pai=d' o)/]nta f&lt;h&gt;lh/thn ka[lei=s;</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l>
+					[
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">about 17 ll.</note>
+					 ]an au)th=| th=| klo[ph=|.
+				</l>
+			</sp>
+			<sp who="#Kullhnh">
+				<speaker>Kυλλήνh</speaker>
+				<l>
+					[
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">about 18 ll.</note>
+					 e]i)/ ge ta)lhqh= le/[geis.
+				</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l>
+					[       
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">about 18 ll.</note>
+					   t]a)lhqh= le/g[w.
+				</l>
+				<l>
+					[       
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">about 14 ll.</note>
+					    keklo]fenaisaf[
+				</l>
+				<l n="345">
+					[       
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">about 19 ll.</note>
+					       ]de bou=s pa/nu
+				</l>
+				<l>
+					[       
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">about 19 ll.</note>
+					       ]a| kaqh/r[m]o[se
+				</l>
+				<l>
+					[       
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">about 19 ll.</note>
+					       ]lou temw\n
+				</l>
+				<l>
+					[       
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">about 20 ll.</note>
+					        ]fo 
+					<gap/>
+					 d[o]ra[
+				</l>
+				<l>
+					<note anchored="yes" lang="en" place="inline" resp="ed">2 or 3 lines lost</note>
+					<milestone n="14" unit="column"/>
+					<milestone n="352" unit="card"/>
+				</l>
+			</sp>
+			<sp who="#Kullhnh">
+				<speaker>Kυλλήνh</speaker>
+				<l>
+					[  
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">about 11 ll.</note>
+					   ] a)/rti manqa/nw xro/nw|
+				</l>
+				<l>
+					[  
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">about 8 ll.</note>
+					   e)gx]a/skonta th=| 'mh=| mwri/a|
+				</l>
+				<l>
+					[  
+					<gap/>
+					<note anchored="yes" lang="en" place="inline" resp="ed">about 11 ll.</note>
+					   o]u)de/n, a)lla\ paidia=s xa/rin.
+				</l>
+				<l n="355">[ςὺ δ' οῦΝ τὸ λοιπ`ο]ν εἰς ἔμ' εὐδίαν ἔχων,</l>
+				<l>[εἴ ςοι φέρει χάρ]μ' ἤ τι κερδαίνειν δοκεῖs</l>
+				<l>[ὄπως θέλεις κά]χαζε καὶ τέρπου φρένα:</l>
+				<l>[τὸν παῖδα δ' ὄ]ντα τοῦ Διὸς ςαφεῖ λόͺγω</l>
+				<l>[μὴ ςκῶπτε ποι]ῶν ἐν νέῳ νέον λόγον:</l>
+				<l n="360">[οὗτος γὰρ οὔτε] πρὸς πατρὸς κλέπτης ἔφu</l>
+				<l>[οὔτ' αὖτις ἐν μ]ήτρωςιν ἡ κλοπὴ κρατεῖ.</l>
+				<l>[εἰ δὴ κλοπή τ]ίς ἐςτι, τὸν κλέπτην ςκόπεi</l>
+				<l>[ἄπορον ἄ]καρπον:  τοῦδε δ' οὐ π&lt;ει&gt;ν&lt;ῃ῀&gt; δόμος.</l>
+				<l>[ἄθρ]ει γένος πρόςαπτε τὴν πονηρίαn</l>
+				<l n="365">[πρὸ]ς ὅντιν' ἥκει: τῷδε δ' οὐχ οὕτω πρέπει.</l>
+				<l>ἀ[λλ'] αἰὲν εἶ ςὺ παῖς: νέος γὰρ ὢν ἀνὴr</l>
+				<l>π[ώγ]ωνι θάλλων ὡς τράγος κνήκῳ χλιδᾷς.</l>
+				<l>παύου τὸ λεῖον φαλακρὸν ἡδονῇ πιτνάς.</l>
+				<l>[ο]ὐκ ἐκ θεῶν τὰ μῶρα καὶ γέλοια χρη\</l>
+				<l n="370">
+					[x]ano/nta klai/ein u(/ster';  w(s e)gw\ &lt;l&gt;e/&lt;g&gt;w.
+
+					<milestone n="371" unit="card"/>
+				</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l>
+					stre/fou lugi/zou te mu/qois, o(poi-  
+					<note anchored="yes" place="inline" type="meter">a)nt.</note>
+				</l>
+				<l>´αν θέλεις βάξιν εὕριςκ' ἀπό-</l>
+				<l>ψηκτον: οὐ γάρ με ταῦτα πείςεις,</l>
+				<l>&lt;ὅ&gt;πως τὸ χρῆμ' οὗτος εἰργαςμένοs</l>
+				<l n="375">ῥινοκόλλητον ἄλλων ἔκλεψεν βοῶν </l>
+				<l>που δοράς [ ἢ] 'πὸ τῶν Λοξίου.</l>
+				<l>
+					[m]h/ me ta=[sd' e)]c o(dou= bi/baze.
+
+					<milestone n="15" unit="column"/>
+					<milestone n="378" unit="card"/>
+				</l>
+				<l>
+					<note anchored="yes" lang="en" place="inline" resp="ed.">ονε ορ μορε λινες μιςςινg</note>
+				</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l>[o( *Z]eu\s ga\r ]</l>
+			</sp>
+			<sp who="#Kullhnh">
+				<speaker>Kυλλήνh</speaker>
+				<l n="380">[o(] pai=s klo[p</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l>[ei)] toi ponh[ra\ dra=|, ponhro\s w)\n kurei=.</l>
+			</sp>
+			<sp who="#Kullhnh">
+				<speaker>Kυλλήνh</speaker>
+				<l>[k]akw=s a)kou/[ein ou) pre/pei *Dio\s go/nw|.</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l>[e]i) d' e)/st' a)lh[qh=, xrh/ me kai\ le/gein ta/de.</l>
+			</sp>
+			<sp who="#Kullhnh">
+				<speaker>Kυλλήνh</speaker>
+				<l>[o]u) mh\ tad' [ei)/ph|s</l>
+				<l>
+					<note anchored="yes" lang="en" place="inline" resp="ed.">αβουτ 8 λινες οφ ωηιξη ωε ηαϝε ονλψ τηε ινιτιαλ λεττερs</note>
+				</l>
+			</sp>
+			<sp who="#Kullhnh">
+				<speaker>Kυλλήνh</speaker>
+				<l>pou= kai\ bo/es ne/mousi t[</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l>p[l]ei/ous de/ g' h)/dh nu=n [</l>
+			</sp>
+			<sp who="#Kullhnh">
+				<speaker>Kυλλήνh</speaker>
+				<l>t[i/]s, w)= po/nhr', e)/xei; ti/ ple[</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l>o( pai=s o(\s e)/ndon e)sti\n e)gkeklh[ime/nos.</l>
+			</sp>
+			<sp who="#Kullhnh">
+				<speaker>Kυλλήνh</speaker>
+				<l>[to\]n pai=da pau=sai tou= *dio\s [ kakw=s le/gwn.</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l n="400">p[a]u/oim[' a)/]n [, ei)] ta\s bou=s tis e)[cela=n qe/loi.</l>
+			</sp>
+			<sp who="#Kullhnh">
+				<speaker>Kυλλήνh</speaker>
+				<l>h)/dh me pni/geis kai\ su\ xa[i) bo/es se/qen.</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l>
+					[
+					<gap/>
+					]leisep[
+					<gap/>
+					]u[
+					<gap/>
+					 e)]celaun[
+
+					<milestone n="16" unit="column"/>
+				</l>
+				<l>
+					<note anchored="yes" lang="en" place="inline" resp="ed.">one whole column is missing, perhaps more</note>
+					<milestone n="17" unit="column"/>
+				</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l>i)ou\ i)ou\ [</l>
+				<l>ἥν τ' ἔφη π[</l>
+				<l>οὗτος οὐ φ[</l>
+			</sp>
+			<sp who="#Silhnos">
+				<speaker>Sιληνόs</speaker>
+				<l>w *l[oci/a</l>
+				<l>ιω δ[</l>
+			</sp>
+			<sp who="#Xoros">
+				<speaker>Xορόs</speaker>
+				<l>w)= *loci/a, de[</l>
+				<l>καὶ παρη[</l>
+				<l>τῶν [β]οῶ[n</l>
+			</sp>
+			<sp who="#Apollwn">
+				<speaker>ʼAπόλλωn</speaker>
+				<l>
+					[
+					<gap/>
+					]nu[
+				</l>
+				<l>
+					e[
+					<gap/>
+					]ei[
+				</l>
+				<l>βο[</l>
+				<l>οπο[</l>
+				<l>πρ[</l>
+				<l>μιςθ`ς [</l>
+				<l>ἐλεύθερο[</l>
+			</sp>
+			<sp who="#Silhnos">
+				<speaker>Sιληνόs</speaker>
+				<l>to\n e)g[</l>
+			</sp>
+		</body>
+	</text>
+</TEI>

@@ -129,6 +129,7 @@ new text
 	</teiHeader>
 	<text lang="greek">
 		<body>
+		<div1>
 			<milestone ed="p" n="1" unit="card"/>
 			<milestone n="1" unit="column"/>
 			<sp who="#Apollwn">
@@ -1436,6 +1437,7 @@ new text
 				<speaker>Σιληνός</speaker>
 				<l>to\n e)g[</l>
 			</sp>
+		</div1>
 		</body>
 	</text>
 </TEI>

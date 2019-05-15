@@ -13,7 +13,7 @@
 			<publicationStmt>
 				<publisher xml:id="GreekDraCor">GreekDraCor</publisher>
 				<idno type="URL">https://dracor.org/greek/euripides-bacchae</idno>
-				<idno type="GreekDraCor">1</idno>
+				<idno type="dracor" xml:base="https://dracor.org/id/">greek000001</idno>
 				<availability>
 					<licence>
 						<ab>CC BY-SA 3.0 US</ab>

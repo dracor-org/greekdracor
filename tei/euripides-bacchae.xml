@@ -4,7 +4,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title n="Ba." type="work">Bacchae</title>
+				<title n="Bacchae" type="work">Bacchae</title>
 				<title type="sub">Machine readable text</title>
 				<author key="Wikidata:Q48305">Euripides</author>
 				<editor n="Murray" role="editor">Gilbert Murray</editor>
@@ -55,9 +55,6 @@
 					<person xml:id="dionusos">
 						<persName>Διόνυσος</persName>
 					</person>
-					<person xml:id="dionusos">
-						<persName>Διονυσος</persName>
-					</person>
 					<person xml:id="aggelos">
 						<persName>Ἄγγελος</persName>
 					</person>
@@ -69,9 +66,6 @@
 					</person>
 					<person xml:id="agauh">
 						<persName>Ἀγαύη</persName>
-					</person>
-					<person xml:id="aggelos">
-						<persName>Ἀγγελος</persName>
 					</person>
 					<person xml:id="kadmos">
 						<persName>Κάδμος</persName>

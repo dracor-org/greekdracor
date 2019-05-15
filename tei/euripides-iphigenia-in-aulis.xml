@@ -61,9 +61,9 @@
 					<person xml:id="agamemnwn">
 						<persName>Ἀγαμέμνων</persName>
 					</person>
-					<person xml:id="xorosandrwnargeiwn">
-						<persName>Χορός ανδρων Αργειων</persName>
-					</person>
+					<personGrp xml:id="xorosandrwnargeiwn">
+						<name>Χορός ανδρων Αργειων</name>
+					</personGrp>
 					<person xml:id="presbuths">
 						<persName>Πρεσβύτης</persName>
 					</person>
@@ -71,7 +71,7 @@
 						<persName>Κλυταιμήστρα</persName>
 					</person>
 					<personGrp xml:id="xoros">
-						<persName>Χορός</persName>
+						<name>Χορός</name>
 					</personGrp>
 					<person xml:id="ifigeneia">
 						<persName>Ἰφιγένεια</persName>

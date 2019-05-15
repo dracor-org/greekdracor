@@ -68,9 +68,6 @@
 					<person xml:id="aisxulos">
 						<persName>Αἰσχύλος</persName>
 					</person>
-					<personGrp xml:id="aisxuloskaieuripidhs">
-						<persName>Αἰσχύλος καί Εὐριπίδης</persName>
-					</personGrp>
 					<person xml:id="plaqanh">
 						<persName>Πλαθάνη</persName>
 					</person>
@@ -96,7 +93,7 @@
 						<persName>Πλούτων</persName>
 					</person>
 					<personGrp xml:id="xoros">
-						<persName>Χορός</persName>
+						<name>Χορός</name>
 					</personGrp>
 				</listPerson>
 			</particDesc>
@@ -4045,7 +4042,7 @@ convert to p3
 						<speaker>Διόνυσος</speaker>
 						<l>ἴθι δὴ παρίστασθον παρὰ τὼ πλάστιγγ’,</l>
 					</sp>
-					<sp who="#aisxuloskaieuripidhs">
+					<sp who="#aisxulos #euripidhs">
 						<speaker>Αἰσχύλος καί Εὐριπίδης</speaker>
 						<l part="Y">ἰδού.</l>
 					</sp>
@@ -4054,7 +4051,7 @@ convert to p3
 						<l>καὶ λαβομένω τὸ ῥῆμ’ ἑκάτερος εἴπατον,</l>
 						<l n="1380">καὶ μὴ μεθῆσθον, πρὶν ἂν ἐγὼ σφῷν κοκκύσω.</l>
 					</sp>
-					<sp who="#aisxuloskaieuripidhs">
+					<sp who="#aisxulos #euripidhs">
 						<speaker>Αἰσχύλος καὶ Εὐριπίδης</speaker>
 						<l>ἐχόμεθα.</l>
 					</sp>
@@ -4093,7 +4090,7 @@ convert to p3
 						<speaker>Διόνυσος</speaker>
 						<l n="1390">λάβεσθε τοίνυν αὖθις.</l>
 					</sp>
-					<sp who="#aisxuloskaieuripidhs">
+					<sp who="#aisxulos #euripidhs">
 						<speaker>Αἰσχύλος καί Εὐριπίδης</speaker>
 						<l part="Y">ἢν ἰδού.</l>
 					</sp>

@@ -50,9 +50,9 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="XorosSaturwn">
+					<personGrp xml:id="XorosSaturwn">
 						<persName>Χορὸς Σατύρων</persName>
-					</person>
+					</personGrp>
 					<person xml:id="HmixA">
 						<persName>Ἡμιχ. α</persName>
 					</person>
@@ -78,7 +78,7 @@
 			</particDesc>
 			<textClass>
 				<keywords>
-					<term subtype="tragedy" type="genreTitle">Tragedy</term>
+					<term subtype="satyr-play" type="genreTitle">Satyr play</term>
 				</keywords>
 			</textClass>
 			

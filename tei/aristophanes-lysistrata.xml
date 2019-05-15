@@ -56,9 +56,9 @@
 					<person xml:id="kinhsias">
 						<persName>Κινησίας</persName>
 					</person>
-					<person xml:id="xoros">
+					<personGrp xml:id="xoros">
 						<persName>Χορός </persName>
-					</person>
+					</personGrp>
 					<person xml:id="lakwn">
 						<persName>Λάκων</persName>
 					</person>
@@ -71,9 +71,9 @@
 					<person xml:id="gunhd">
 						<persName>Γυνὴ Δ</persName>
 					</person>
-					<person xml:id="xorosgunaikwn">
+					<personGrp xml:id="xorosgunaikwn">
 						<persName>Χορὸς Γυναικῶν</persName>
-					</person>
+					</personGrp>
 					<person xml:id="allh">
 						<persName>Ἄλλη</persName>
 					</person>
@@ -86,15 +86,15 @@
 					<person xml:id="khruclakedaimoniwn">
 						<persName>Κῆρυξ Λακεδαιμονίων</persName>
 					</person>
-					<person xml:id="xoroslakedaimoniwn">
+					<personGrp xml:id="xoroslakedaimoniwn">
 						<persName>Χορὸς Λακεδαιμονίων</persName>
-					</person>
+					</personGrp>
 					<person xml:id="gunhb">
 						<persName>Γυνὴ Β</persName>
 					</person>
-					<person xml:id="xorosgerontwn">
+					<personGrp xml:id="xorosgerontwn">
 						<persName>Χορὸς Γερόντων</persName>
-					</person>
+					</personGrp>
 					<person xml:id="lusistrath">
 						<persName>Λυσιστράτη</persName>
 					</person>
@@ -110,9 +110,9 @@
 					<person xml:id="aqhnaios">
 						<persName>Ἀθηναῖος</persName>
 					</person>
-					<person xml:id="xorosaqhnaiwn">
+					<personGrp xml:id="xorosaqhnaiwn">
 						<persName>Χορὸς Ἀθηναίων</persName>
-					</person>
+					</personGrp>
 					<person xml:id="proboulos">
 						<persName>Πρόβουλος</persName>
 					</person>

@@ -53,15 +53,15 @@
 					<person xml:id="nikias">
 						<persName>Νικίας</persName>
 					</person>
-					<person xml:id="dhmosqenhskainikias">
+					<personGrp xml:id="dhmosqenhskainikias">
 						<persName>Δημοσθένης καὶ Νικίας</persName>
-					</person>
+					</personGrp>
 					<person xml:id="allantopwlhs">
 						<persName>Ἀλλαντοπώλης</persName>
 					</person>
-					<person xml:id="xoros">
+					<personGrp xml:id="xoros">
 						<persName>Χορός</persName>
-					</person>
+					</personGrp>
 					<person xml:id="klewn">
 						<persName>Κλέων</persName>
 					</person>
@@ -71,9 +71,9 @@
 					<person xml:id="dhmosqenhs">
 						<persName>Δημοσθένης</persName>
 					</person>
-					<person xml:id="klewnkaiallantopwlhs">
+					<personGrp xml:id="klewnkaiallantopwlhs">
 						<persName>Κλέων καὶ Ἀλλαντοπώλης</persName>
-					</person>
+					</personGrp>
 					<person xml:id="dhmos">
 						<persName>Δῆμος</persName>
 					</person>

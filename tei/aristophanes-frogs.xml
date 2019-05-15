@@ -68,9 +68,9 @@
 					<person xml:id="aisxulos">
 						<persName>Αἰσχύλος</persName>
 					</person>
-					<person xml:id="aisxuloskaieuripidhs">
+					<personGrp xml:id="aisxuloskaieuripidhs">
 						<persName>Αἰσχύλος καί Εὐριπίδης</persName>
-					</person>
+					</personGrp>
 					<person xml:id="plaqanh">
 						<persName>Πλαθάνη</persName>
 					</person>
@@ -95,9 +95,9 @@
 					<person xml:id="ploutwn">
 						<persName>Πλούτων</persName>
 					</person>
-					<person xml:id="xoros">
+					<personGrp xml:id="xoros">
 						<persName>Χορός</persName>
-					</person>
+					</personGrp>
 				</listPerson>
 			</particDesc>
 			<textClass>

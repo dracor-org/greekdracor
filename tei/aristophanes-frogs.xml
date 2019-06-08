@@ -5,14 +5,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title n="Frogs" type="work">Frogs</title>
-				<title type="sub">Machine readable text</title>
 				<author key="wikidata:Q43353">Aristophanes</author>
 				<editor n="OCT" role="editor">F.W. Hall and W.M. Geldart</editor>
 			</titleStmt>
 			      
 			<publicationStmt>
-				<publisher xml:id="GreekDraCor">GreekDraCor</publisher>
-				<idno type="URL">https://dracor.org/greek/aristophanes-frogs</idno>
+				<publisher xml:id="dracor">DraCor</publisher>
 				<idno type="dracor" xml:base="https://dracor.org/id/">greek000017</idno>
 				<availability>
 					<licence>
@@ -43,8 +41,12 @@
 				<name>Perseus Digital Library (http://www.perseus.tufts.edu)</name>
 				<idno type="URL">http://www.perseus.tufts.edu/hopper/opensource/download</idno>
 				<availability status="free">
-					<p>In the public domain.</p>
+					<licence>
+						<ab>CC BY-SA 3.0 US</ab>
+						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
+					</licence>
 				</availability>
+				<date type="premiere" when="-405">405 BCE</date>
 			</bibl>
 		</fileDesc>
 		<profileDesc>

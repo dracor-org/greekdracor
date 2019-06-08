@@ -5,14 +5,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title n="Seven" type="work">Seven Against Thebes</title>
-				<title type="sub">Machine readable text</title>
 				<author key="wikidata:Q40939">Aeschylus</author>
 				<editor n="Smyth" role="editor">Herbert Weir Smyth, Ph.D.</editor>
 			</titleStmt>
 			      
 			<publicationStmt>
-				<publisher xml:id="GreekDraCor">GreekDraCor</publisher>
-				<idno type="URL">https://dracor.org/greek/aeschylus-seven-against-thebes</idno>
+				<publisher xml:id="dracor">DraCor</publisher>
 				<idno type="dracor" xml:base="https://dracor.org/id/">greek000005</idno>
 				<availability>
 					<licence>
@@ -42,35 +40,39 @@
 				<name>Perseus Digital Library (http://www.perseus.tufts.edu)</name>
 				<idno type="URL">http://www.perseus.tufts.edu/hopper/opensource/download</idno>
 				<availability status="free">
-					<p>In the public domain.</p>
+					<licence>
+						<ab>CC BY-SA 3.0 US</ab>
+						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
+					</licence>
+				<date type="premiere" when="-467">467 BCE</date>
 				</availability>
 			</bibl>
 		</fileDesc>
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="eteoklhs">
+					<person xml:id="eteoklhs" sex="MALE">
 						<persName>Ἐτεοκλής</persName>
 					</person>
-					<person xml:id="ismhnh">
+					<person xml:id="ismhnh" sex="FEMALE">
 						<persName>Ἰσμήνη</persName>
 					</person>
-					<person xml:id="aggelos">
+					<person xml:id="aggelos" sex="MALE">
 						<persName>Ἄγγελος</persName>
 					</person>
-					<person xml:id="khruc">
+					<person xml:id="khruc" sex="UNKNOWN">
 						<persName>Κῆρυξ</persName>
 					</person>
-					<person xml:id="hmixorionb">
+					<person xml:id="hmixorionb" sex="UNKNOWN">
 						<persName>Ἡμιχόριον Β</persName>
 					</person>
-					<person xml:id="hmixoriona">
+					<person xml:id="hmixoriona" sex="UNKNOWN">
 						<persName>Ἡμιχόριον Α</persName>
 					</person>
-					<personGrp xml:id="xoros">
+					<personGrp xml:id="xoros" sex="UNKNOWN">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="antigonh">
+					<person xml:id="antigonh" sex="FEMALE">
 						<persName>Ἀντιγόνη</persName>
 					</person>
 				</listPerson>

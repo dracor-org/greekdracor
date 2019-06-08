@@ -5,14 +5,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title n="Eum." type="work">Eumenides</title>
-				<title type="sub">Machine readable text</title>
 				<author key="wikidata:Q40939">Aeschylus</author>
 				<editor n="Smyth" role="editor">Herbert Weir Smyth, Ph.D.</editor>
 			</titleStmt>
 			      
 			<publicationStmt>
-				<publisher xml:id="GreekDraCor">GreekDraCor</publisher>
-				<idno type="URL">https://dracor.org/greek/aeschylus-eumenides</idno>
+				<publisher xml:id="dracor">DraCor</publisher>
 				<idno type="dracor" xml:base="https://dracor.org/id/">greek000004</idno>
 				<availability>
 					<licence>
@@ -42,32 +40,36 @@
 				<name>Perseus Digital Library (http://www.perseus.tufts.edu)</name>
 				<idno type="URL">http://www.perseus.tufts.edu/hopper/opensource/download</idno>
 				<availability status="free">
-					<p>In the public domain.</p>
+					<licence>
+						<ab>CC BY-SA 3.0 US</ab>
+						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
+					</licence>
 				</availability>
+				<date type="premiere" when="-458">458 BCE</date>
 			</bibl>
 		</fileDesc>
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="puqias">
+					<person xml:id="puqias" sex="FEMALE">
 						<persName>Πυθιάς</persName>
 					</person>
-					<person xml:id="klutaimhstraseidwlon">
+					<person xml:id="klutaimhstraseidwlon" sex="FEMALE">
 						<persName>Κλυταιμήστρας Εἴδωλον</persName>
 					</person>
-					<person xml:id="oresths">
+					<person xml:id="oresths" sex="MALE">
 						<persName>Ὀρέστης</persName>
 					</person>
-					<person xml:id="aqhna">
+					<person xml:id="aqhna" sex="FEMALE">
 						<persName>Ἀθηνᾶ</persName>
 					</person>
-					<personGrp xml:id="xoros">
+					<personGrp xml:id="xoros" sex="UNKNOWN">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="propompoi">
+					<person xml:id="propompoi" sex="UNKNOWN">
 						<persName>Προπομποί</persName>
 					</person>
-					<person xml:id="apollwn">
+					<person xml:id="apollwn" sex="MALE">
 						<persName>Ἀπόλλων</persName>
 					</person>
 				</listPerson>

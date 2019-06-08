@@ -5,14 +5,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title n="PB" type="work">Prometheus Bound</title>
-				<title type="sub">Machine readable text</title>
 				<author key="wikidata:Q40939">Aeschylus</author>
 				<editor n="Smyth" role="editor">Herbert Weir Smyth, Ph.D.</editor>
 			</titleStmt>
 			      
 			<publicationStmt>
-				<publisher xml:id="GreekDraCor">GreekDraCor</publisher>
-				<idno type="URL">https://dracor.org/greek/aeschylus-prometheus-bound</idno>
+				<publisher xml:id="dracor">DraCor</publisher>
 				<idno type="dracor" xml:base="https://dracor.org/id/">greek000011</idno>
 				<availability>
 					<licence>
@@ -42,32 +40,36 @@
 				<name>Perseus Digital Library (http://www.perseus.tufts.edu)</name>
 				<idno type="URL">http://www.perseus.tufts.edu/hopper/opensource/download</idno>
 				<availability status="free">
-					<p>In the public domain.</p>
+					<licence>
+						<ab>CC BY-SA 3.0 US</ab>
+						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
+					</licence>
+				<date type="premiere" when="-444">444 BCE</date>
 				</availability>
 			</bibl>
 		</fileDesc>
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="kratos">
+					<person xml:id="kratos" sex="MALE">
 						<persName>Κράτος</persName>
 					</person>
-					<person xml:id="iw">
+					<person xml:id="iw" sex="FEMALE">
 						<persName>Ἰώ</persName>
 					</person>
-					<person xml:id="hfaistos">
+					<person xml:id="hfaistos" sex="MALE">
 						<persName>Ἥφαιστος</persName>
 					</person>
-					<person xml:id="promhqeus">
+					<person xml:id="promhqeus" sex="MALE">
 						<persName>Προμηθεύς</persName>
 					</person>
-					<person xml:id="wkeanos">
+					<person xml:id="wkeanos" sex="MALE">
 						<persName>Ὠκεανός</persName>
 					</person>
-					<personGrp xml:id="xoros">
+					<personGrp xml:id="xoros" sex="UNKNOWN">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="ermhs">
+					<person xml:id="ermhs" sex="MALE">
 						<persName>Ἑρμῆς</persName>
 					</person>
 				</listPerson>

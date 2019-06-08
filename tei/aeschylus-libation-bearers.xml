@@ -5,14 +5,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title n="Lib." type="work">Libation Bearers</title>
-				<title type="sub">Machine readable text</title>
 				<author key="wikidata:Q40939">Aeschylus</author>
 				<editor n="Smyth" role="editor">Herbert Weir Smyth, Ph.D.</editor>
 			</titleStmt>
 			      
 			<publicationStmt>
-				<publisher xml:id="GreekDraCor">GreekDraCor</publisher>
-				<idno type="URL">https://dracor.org/greek/aeschylus-libation-bearers</idno>
+				<publisher xml:id="dracor">DraCor</publisher>
 				<idno type="dracor" xml:base="https://dracor.org/id/">greek000008</idno>
 				<availability>
 					<licence>
@@ -42,35 +40,39 @@
 				<name>Perseus Digital Library (http://www.perseus.tufts.edu)</name>
 				<idno type="URL">http://www.perseus.tufts.edu/hopper/opensource/download</idno>
 				<availability status="free">
-					<p>In the public domain.</p>
+					<licence>
+						<ab>CC BY-SA 3.0 US</ab>
+						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
+					</licence>
 				</availability>
+				<date type="premiere" when="-458">458 BCE</date>
 			</bibl>
 		</fileDesc>
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="trofos">
+					<person xml:id="trofos" sex="UNKNOWN">
 						<persName>Τροφός</persName>
 					</person>
-					<person xml:id="oresths">
+					<person xml:id="oresths" sex="MALE">
 						<persName>Ὀρέστης</persName>
 					</person>
-					<person xml:id="puladhs">
+					<person xml:id="puladhs" sex="MALE">
 						<persName>Πυλάδης</persName>
 					</person>
-					<person xml:id="oikeths">
+					<person xml:id="oikeths" sex="UNKNOWN">
 						<persName>Οἰκέτης</persName>
 					</person>
-					<person xml:id="klutaimnhstra">
+					<person xml:id="klutaimnhstra" sex="FEMALE">
 						<persName>Κλυταιμνήστρα</persName>
 					</person>
-					<personGrp xml:id="xoros">
+					<personGrp xml:id="xoros" sex="UNKNOWN">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="aigisqos">
+					<person xml:id="aigisqos" sex="MALE">
 						<persName>Αἴγισθος</persName>
 					</person>
-					<person xml:id="hlektra">
+					<person xml:id="hlektra" sex="FEMALE">
 						<persName>Ἠλέκτρα</persName>
 					</person>
 				</listPerson>

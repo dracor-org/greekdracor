@@ -5,14 +5,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title n="Phoen." type="work">Phoenissae</title>
-				<title type="sub">Machine readable text</title>
 				<author key="wikidata:Q48305">Euripides</author>
 				<editor n="Murray" role="editor">Gilbert Murray</editor>
 			</titleStmt>
 			      
 			<publicationStmt>
-				<publisher xml:id="GreekDraCor">GreekDraCor</publisher>
-				<idno type="URL">https://dracor.org/greek/euripides-phoenissae</idno>
+				<publisher xml:id="dracor">DraCor</publisher>
 				<idno type="dracor" xml:base="https://dracor.org/id/">greek000030</idno>
 				<availability>
 					<licence>
@@ -42,8 +40,12 @@
 				<name>Perseus Digital Library (http://www.perseus.tufts.edu)</name>
 				<idno type="URL">http://www.perseus.tufts.edu/hopper/opensource/download</idno>
 				<availability status="free">
-					<p>In the public domain.</p>
+					<licence>
+						<ab>CC BY-SA 3.0 US</ab>
+						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
+					</licence>
 				</availability>
+				<date type="premiere" when="-411">411 BCE</date>
 			</bibl>
 		</fileDesc>
 		<profileDesc>

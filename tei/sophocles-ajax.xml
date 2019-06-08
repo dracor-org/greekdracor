@@ -5,14 +5,12 @@
 		<fileDesc>
 			<titleStmt>
 				<title n="Aj" type="work">Ajax</title>
-				<title type="sub">Machine readable text</title>
 				<author key="wikidata:Q7235">Sophocles</author>
 				<editor n="Jebb" role="editor">Sir Richard Jebb</editor>
 			</titleStmt>
 			      
 			<publicationStmt>
-				<publisher xml:id="GreekDraCor">GreekDraCor</publisher>
-				<idno type="URL">https://dracor.org/greek/sophocles-ajax</idno>
+				<publisher xml:id="dracor">DraCor</publisher>
 				<idno type="dracor" xml:base="https://dracor.org/id/">greek000007</idno>
 				<availability>
 					<licence>
@@ -43,7 +41,10 @@
 				<name>Perseus Digital Library (http://www.perseus.tufts.edu)</name>
 				<idno type="URL">http://www.perseus.tufts.edu/hopper/opensource/download</idno>
 				<availability status="free">
-					<p>In the public domain.</p>
+					<licence>
+						<ab>CC BY-SA 3.0 US</ab>
+						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
+					</licence>
 				</availability>
 			</bibl>
 		</fileDesc>

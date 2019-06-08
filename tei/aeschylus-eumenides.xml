@@ -33,6 +33,7 @@
 							<publisher>Cambridge, Mass., Harvard University Press; London, William Heinemann, Ltd.</publisher>
 							<date>1926</date>
 						</imprint>
+					<date type="premiere" when="-458">458 BCE</date>
 					</bibl>
 				</biblStruct>
 			</sourceDesc>
@@ -45,7 +46,6 @@
 						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
 					</licence>
 				</availability>
-				<date type="premiere" when="-458">458 BCE</date>
 			</bibl>
 		</fileDesc>
 		<profileDesc>
@@ -164,7 +164,7 @@ convert to P3
 		<body>
 			<div1 type="episode">
 				<milestone ed="p" n="1" unit="card"/>
-				<sp n="Πυθιάς" who="#puqias">
+				<sp n="Πυθιάς" who="#pythias">
 					<speaker>Πυθιάς</speaker>
 					<l>πρῶτον μὲν εὐχῇ τῇδε πρεσβεύω θεῶν</l>
 					<l>τὴν πρωτόμαντιν Γαῖαν· ἐκ δὲ τῆς Θέμιν,</l>
@@ -244,7 +244,7 @@ convert to P3
 					<l>καὶ τοῖσιν ἄλλοις δωμάτων καθάρσιος.</l>
 				</sp>
 				<milestone ed="p" n="64" unit="card"/>
-				<sp who="#apollwn">
+				<sp who="#apollon">
 					<speaker>Ἀπόλλων</speaker>
 					<l>οὔτοι προδώσω· διὰ τέλους δέ σοι φύλαξ</l>
 					<l n="65">ἐγγὺς παρεστὼς καὶ πρόσω δ’ ἀποστατῶν</l>
@@ -268,13 +268,13 @@ convert to P3
 					<l>ὥστ’ ἐς τὸ πᾶν σε τῶνδ’ ἀπαλλάξαι πόνων·</l>
 					<l>καὶ γὰρ κτανεῖν σ’ ἔπεισα μητρῷον δέμας.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l n="85">ἄναξ Ἄπολλον, οἶσθα μὲν τὸ μὴ ’δικεῖν·</l>
 					<l>ἐπεὶ δ’ ἐπίστᾳ, καὶ τὸ μὴ ’μελεῖν μάθε.</l>
 					<l>σθένος δὲ ποιεῖν εὖ φερέγγυον τὸ σόν.</l>
 				</sp>
-				<sp who="#apollwn">
+				<sp who="#apollon">
 					<speaker>Ἀπόλλων</speaker>
 					<l>μέμνησο, μὴ φόβος σε νικάτω φρένας.</l>
 					<l>σὺ δ’, αὐτάδελφον αἷμα καὶ κοινοῦ πατρός,</l>
@@ -284,7 +284,7 @@ convert to P3
 					<l>ὁρμώμενον βροτοῖσιν εὐπόμπῳ τύχῃ.</l>
 					<milestone ed="p" n="94" unit="card"/>
 				</sp>
-				<sp who="#klutaimhstraseidwlon">
+				<sp who="#klytaimestraseidolon">
 					<speaker>Κλυταιμήστρας Εἴδωλον</speaker>
 					<l>εὕδοιτ’ ἄν, ὠή, καὶ καθευδουσῶν τί δεῖ;</l>
 					<l n="95">ἐγὼ δ’ ὑφ’ ὑμῶν ὧδ’ ἀπητιμασμένη</l>
@@ -317,7 +317,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>(μυγμός.)</l>
 				</sp>
-				<sp who="#klutaimhstraseidwlon">
+				<sp who="#klytaimestraseidolon">
 					<speaker>Κλυταιμήστρας Εἴδωλον</speaker>
 					<l>μύζοιτ’ ἄν, ἁνὴρ δ’ οἴχεται φεύγων πρόσω·</l>
 					<l>φίλοι γάρ εἰσιν οὐκ ἐμοῖς προσεικότες.</l>
@@ -326,7 +326,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l n="120">(μυγμός.)</l>
 				</sp>
-				<sp who="#klutaimhstraseidwlon">
+				<sp who="#klytaimestraseidolon">
 					<speaker>Κλυταιμήστρας Εἴδωλον</speaker>
 					<l>ἄγαν ὑπνώσσεις κοὐ κατοικτίζεις πάθος·</l>
 					<l>φονεὺς δ’ Ὀρέστης τῆσδε μητρὸς οἴχεται.</l>
@@ -335,7 +335,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>(ὠγμός.)</l>
 				</sp>
-				<sp who="#klutaimhstraseidwlon">
+				<sp who="#klytaimestraseidolon">
 					<speaker>Κλυταιμήστρας Εἴδωλον</speaker>
 					<l>ᾤζεις, ὑπνώσσεις· οὐκ ἀναστήσῃ τάχος;</l>
 					<l n="125">τί σοι πέπρωται πρᾶγμα πλὴν τεύχειν κακά;</l>
@@ -344,7 +344,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>(ὠγμός.)</l>
 				</sp>
-				<sp who="#klutaimhstraseidwlon">
+				<sp who="#klytaimestraseidolon">
 					<speaker>Κλυταιμήστρας Εἴδωλον</speaker>
 					<l>ὕπνος πόνος τε κύριοι συνωμόται</l>
 					<l>δεινῆς δρακαίνης ἐξεκήραναν μένος.</l>
@@ -355,7 +355,7 @@ convert to P3
 					<l n="130">λαβὲ λαβὲ λαβὲ λαβέ, φράζου.</l>
 					<milestone ed="p" n="131" unit="card"/>
 				</sp>
-				<sp who="#klutaimhstraseidwlon">
+				<sp who="#klytaimestraseidolon">
 					<speaker>Κλυταιμήστρας Εἴδωλον</speaker>
 					<l>ὄναρ διώκεις θῆρα, κλαγγαίνεις δ’ ἅπερ</l>
 					<l>κύων μέριμναν οὔποτ’ ἐκλείπων πόνου.</l>
@@ -446,7 +446,7 @@ convert to P3
 				</div2>
 			</div1>
 			<div1 type="episode">
-				<sp who="#apollwn">
+				<sp who="#apollon">
 					<speaker>Ἀπόλλων</speaker>
 					<l>ἔξω, κελεύω, τῶνδε δωμάτων τάχος</l>
 					<l n="180">χωρεῖτ’, ἀπαλλάσσεσθε μαντικῶν μυχῶν,</l>
@@ -474,7 +474,7 @@ convert to P3
 					<l>αὐτὸς σὺ τούτων οὐ μεταίτιος πέλῃ,</l>
 					<l n="200">ἀλλ’ εἷς τὸ πᾶν ἔπραξας ὢν παναίτιος.</l>
 				</sp>
-				<sp who="#apollwn">
+				<sp who="#apollon">
 					<speaker>Ἀπόλλων</speaker>
 					<l>πῶς δή; τοσοῦτο μῆκος ἔκτεινον λόγου.</l>
 				</sp>
@@ -482,7 +482,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>ἔχρησας ὥστε τὸν ξένον μητροκτονεῖν.</l>
 				</sp>
-				<sp who="#apollwn">
+				<sp who="#apollon">
 					<speaker>Ἀπόλλων</speaker>
 					<l>ἔχρησα ποινὰς τοῦ πατρὸς πρᾶξαι. τί μήν ;</l>
 				</sp>
@@ -490,7 +490,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>κἄπειθ’ ὑπέστης αἵματος δέκτωρ νέου.</l>
 				</sp>
-				<sp who="#apollwn">
+				<sp who="#apollon">
 					<speaker>Ἀπόλλων</speaker>
 					<l n="205">καὶ προστραπέσθαι τούσδ’ ἐπέστελλον δόμους.</l>
 				</sp>
@@ -498,7 +498,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>καὶ τὰς προπομποὺς δῆτα τάσδε λοιδορεῖς;</l>
 				</sp>
-				<sp who="#apollwn">
+				<sp who="#apollon">
 					<speaker>Ἀπόλλων</speaker>
 					<l>οὐ γὰρ δόμοισι τοῖσδε πρόσφορον μολεῖν.</l>
 				</sp>
@@ -506,7 +506,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>ἀλλ’ ἔστιν ἡμῖν τοῦτο προστεταγμένον.</l>
 				</sp>
-				<sp who="#apollwn">
+				<sp who="#apollon">
 					<speaker>Ἀπόλλων</speaker>
 					<l>τίς ἥδε τιμή; κόμπασον γέρας καλόν.</l>
 				</sp>
@@ -514,7 +514,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l n="210">τοὺς μητραλοίας ἐκ δόμων ἐλαύνομεν.</l>
 				</sp>
-				<sp who="#apollwn">
+				<sp who="#apollon">
 					<speaker>Ἀπόλλων</speaker>
 					<l>τί γὰρ γυναικὸς ἥτις ἄνδρα νοσφίσῃ;</l>
 				</sp>
@@ -523,7 +523,7 @@ convert to P3
 					<l>οὐκ ἂν γένοιθ’ ὅμαιμος αὐθέντης φόνος.</l>
 					<milestone ed="p" n="213" unit="card"/>
 				</sp>
-				<sp who="#apollwn">
+				<sp who="#apollon">
 					<speaker>Ἀπόλλων</speaker>
 					<l>ἦ κάρτ’ ἄτιμα καὶ παρ’ οὐδὲν εἰργάσω</l>
 					<l>Ἥρας τελείας καὶ Διὸς πιστώματα.</l>
@@ -542,7 +542,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l n="225">τὸν ἄνδρ’ ἐκεῖνον οὔ τι μὴ λίπω ποτέ.</l>
 				</sp>
-				<sp who="#apollwn">
+				<sp who="#apollon">
 					<speaker>Ἀπόλλων</speaker>
 					<l>σὺ δ’ οὖν δίωκε καὶ πόνον πλείω τίθου.</l>
 				</sp>
@@ -550,7 +550,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>τιμὰς σὺ μὴ σύντεμνε τὰς ἐμὰς λόγῳ.</l>
 				</sp>
-				<sp who="#apollwn">
+				<sp who="#apollon">
 					<speaker>Ἀπόλλων</speaker>
 					<l>οὐδ’ ἂν δεχοίμην ὥστ’ ἔχειν τιμὰς σέθεν.</l>
 				</sp>
@@ -560,13 +560,13 @@ convert to P3
 					<l n="230">ἐγὼ δ’, ἄγει γὰρ αἷμα μητρῷον, δίκας</l>
 					<l>μέτειμι τόνδε φῶτα κἀκκυνηγετῶ.</l>
 				</sp>
-				<sp who="#apollwn">
+				<sp who="#apollon">
 					<speaker>Ἀπόλλων</speaker>
 					<l>ἐγὼ δ’ ἀρήξω τὸν ἱκέτην τε ῥύσομαι·</l>
 					<l>δεινὴ γὰρ ἐν βροτοῖσι κἀν θεοῖς πέλει</l>
 					<l>τοῦ προστροπαίου μῆνις, εἰ προδῶ σφ’ ἑκών.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l n="235">ἄνασσ’ Ἀθάνα, Λοξίου κελεύμασιν</l>
 					<l>ἥκω, δέχου δὲ πρευμενῶς ἀλάστορα,</l>
@@ -621,7 +621,7 @@ convert to P3
 						<l n="275">δελτογράφῳ δὲ πάντ’ ἐπωπᾷ φρενί.</l>
 						<milestone ed="p" n="276" unit="card"/>
 					</sp>
-					<sp who="#oresths">
+					<sp who="#orestes">
 						<speaker>Ὀρέστης</speaker>
 						<l>ἐγὼ διδαχθεὶς ἐν κακοῖς ἐπίσταμαι</l>
 						<l>πολλοὺς καθαρμούς, καὶ λέγειν ὅπου δίκη</l>
@@ -857,7 +857,7 @@ convert to P3
 				</div2>
 			</div1>
 			<div1 type="episode">
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθηνᾶ</speaker>
 					<l>πρόσωθεν ἐξήκουσα κληδόνος βοὴν</l>
 					<l>ἀπὸ Σκαμάνδρου γῆν καταφθατουμένη,</l>
@@ -884,7 +884,7 @@ convert to P3
 					<l>ἡμεῖς γάρ ἐσμεν Νυκτὸς αἰανῆ τέκνα.</l>
 					<l>Ἀραὶ δ’ ἐν οἴκοις γῆς ὑπαὶ κεκλήμεθα.</l>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθηνᾶ</speaker>
 					<l>γένος μὲν οἶδα κληδόνας τ’ ἐπωνύμους.</l>
 				</sp>
@@ -892,7 +892,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>τιμάς γε μὲν δὴ τὰς ἐμὰς πεύσῃ τάχα.</l>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθηνᾶ</speaker>
 					<l n="420">μάθοιμ’ ἄν, εἰ λέγοι τις ἐμφανῆ λόγον.</l>
 				</sp>
@@ -900,7 +900,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>βροτοκτονοῦντας ἐκ δόμων ἐλαύνομεν.</l>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθηνᾶ</speaker>
 					<l>καὶ τῷ κτανόντι ποῦ τὸ τέρμα τῆς φυγῆς;</l>
 				</sp>
@@ -908,7 +908,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>ὅπου τὸ χαίρειν μηδαμοῦ νομίζεται.</l>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθηνᾶ</speaker>
 					<l>ἦ καὶ τοιαύτας τῷδ’ ἐπιρροιζεῖς φυγάς;</l>
 				</sp>
@@ -916,7 +916,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l n="425">φονεὺς γὰρ εἶναι μητρὸς ἠξιώσατο.</l>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθηνᾶ</speaker>
 					<l>ἄλλαις ἀνάγκαις, ἤ τινος τρέων κότον;</l>
 				</sp>
@@ -924,7 +924,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>ποῦ γὰρ τοσοῦτο κέντρον ὡς μητροκτονεῖν;</l>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθηνᾶ</speaker>
 					<l>δυοῖν παρόντοιν ἥμισυς λόγου πάρα.</l>
 				</sp>
@@ -932,7 +932,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>ἀλλ’ ὅρκον οὐ δέξαιτ’ ἄν, οὐ δοῦναι θέλοι.</l>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθηνᾶ</speaker>
 					<l n="430">κλύειν δίκαιος μᾶλλον ἢ πρᾶξαι θέλεις.</l>
 				</sp>
@@ -940,7 +940,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>πῶς δή; δίδαξον· τῶν σοφῶν γὰρ οὐ πένῃ.</l>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθηνᾶ</speaker>
 					<l>ὅρκοις τὰ μὴ δίκαια μὴ νικᾶν λέγω.</l>
 				</sp>
@@ -948,7 +948,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>ἀλλ’ ἐξέλεγχε, κρῖνε δ’ εὐθεῖαν δίκην.</l>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθηνᾶ</speaker>
 					<l>ἦ κἀπ’ ἐμοὶ τρέποιτ’ ἂν αἰτίας τέλος;</l>
 				</sp>
@@ -957,7 +957,7 @@ convert to P3
 					<l n="435">πῶς δ’ οὔ; σέβουσαί γ’ ἀξίαν κἀπ’ ἀξίων.</l>
 					<milestone ed="p" n="436" unit="card"/>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθηνᾶ</speaker>
 					<l>τί πρὸς τάδ’ εἰπεῖν, ὦ ξέν’, ἐν μέρει θέλεις;</l>
 					<l>λέξας δὲ χώραν καὶ γένος καὶ ξυμφορὰς</l>
@@ -967,7 +967,7 @@ convert to P3
 					<l>σεμνὸς προσίκτωρ ἐν τρόποις Ἰξίονος.</l>
 					<l>τούτοις ἀμείβου πᾶσιν εὐμαθές τί μοι.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>ἄνασσ’ Ἀθάνα, πρῶτον ἐκ τῶν ὑστάτων</l>
 					<l>τῶν σῶν ἐπῶν μέλημ’ ἀφαιρήσω μέγα.</l>
@@ -1001,7 +1001,7 @@ convert to P3
 					<l>πράξας γὰρ ἐν σοὶ πανταχῇ τάδ’ αἰνέσω.</l>
 					<milestone ed="p" n="470" unit="card"/>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθηνᾶ</speaker>
 					<l n="470">τὸ πρᾶγμα μεῖζον, εἴ τις οἴεται τόδε</l>
 					<l>βροτὸς δικάζειν· οὐδὲ μὴν ἐμοὶ θέμις</l>
@@ -1156,7 +1156,7 @@ convert to P3
 				</div2>
 			</div1>
 			<div1 type="episode">
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθηνᾶ</speaker>
 					<l>κήρυσσε, κῆρυξ, καὶ στρατὸν κατειργαθοῦ,</l>
 					<l>ἥ τ’ οὖν διάτορος Τυρσηνικὴ</l>
@@ -1172,7 +1172,7 @@ convert to P3
 					<l>ἄναξ Ἄπολλον, ὧν ἔχεις αὐτὸς κράτει.</l>
 					<l n="575">τί τοῦδε σοὶ μέτεστι πράγματος λέγε.</l>
 				</sp>
-				<sp who="#apollwn">
+				<sp who="#apollon">
 					<speaker>Ἀπόλλων</speaker>
 					<l>καὶ μαρτυρήσων ἦλθον—ἔστι γὰρ νόμῳ</l>
 					<l>ἱκέτης ὅδ’ ἁνὴρ καὶ δόμων ἐφέστιος</l>
@@ -1181,7 +1181,7 @@ convert to P3
 					<l n="580">τῆς τοῦδε μητρὸς τοῦ φόνου. σὺ δ’ εἴσαγε</l>
 					<l>ὅπως &lt;τ’&gt; ἐπίστᾳ τήνδε κύρωσον δίκην.</l>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθηνᾶ</speaker>
 					<l>ὑμῶν ὁ μῦθος, εἰσάγω δὲ τὴν δίκην·</l>
 					<l>ὁ γὰρ διώκων πρότερος ἐξ ἀρχῆς λέγων</l>
@@ -1193,7 +1193,7 @@ convert to P3
 					<l>ἔπος δ’ ἀμείβου πρὸς ἔπος ἐν μέρει τιθείς</l>
 					<l>τὴν μητέρ’ εἰπὲ πρῶτον εἰ κατέκτονας.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>ἔκτεινα· τούτου δ’ οὔτις ἄρνησις πέλει.</l>
 				</sp>
@@ -1201,7 +1201,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>ἓν μὲν τόδ’ ἤδη τῶν τριῶν παλαισμάτων.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l n="590">οὐ κειμένῳ πω τόνδε κομπάζεις λόγον.</l>
 				</sp>
@@ -1209,7 +1209,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>εἰπεῖν γε μέντοι δεῖ σ’ ὅπως κατέκτανες.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>λέγω· ξιφουλκῷ χειρὶ πρὸς δέρην τεμών.</l>
 				</sp>
@@ -1217,7 +1217,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>πρὸς τοῦ δ’ ἐπείσθης καὶ τίνος βουλεύμασιν;</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>τοῖς τοῦδε θεσφάτοισι· μαρτυρεῖ δέ μοι.</l>
 				</sp>
@@ -1225,7 +1225,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l n="595">ὁ μάντις ἐξηγεῖτό σοι μητροκτονεῖν;</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>καὶ δεῦρό γ’ ἀεὶ τὴν τύχην οὐ μέμφομαι.</l>
 				</sp>
@@ -1233,7 +1233,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>ἀλλ’ εἴ σε μάρψει ψῆφος, ἄλλ’ ἐρεῖς τάχα.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>πέποιθ’. ἀρωγὰς δ’ ἐκ τάφου πέμψει πατήρ.</l>
 				</sp>
@@ -1241,7 +1241,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>νεκροῖσί νυν πέπισθι μητέρα κτανών.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l n="600">δυοῖν γὰρ εἶχε προσβολὰς μιασμάτοιν.</l>
 				</sp>
@@ -1249,7 +1249,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>πῶς δή; δίδαξον τοὺς δικάζοντας τάδε.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>ἀνδροκτονοῦσα πατέρ’ ἐμὸν κατέκτανεν.</l>
 				</sp>
@@ -1257,7 +1257,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>τοιγὰρ σὺ μὲν ζῇς, ἡ δ’ ἐλευθέρα φόνῳ.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>τί δ’ οὐκ ἐκείνην ζῶσαν ἤλαυνες φυγῇ;</l>
 				</sp>
@@ -1265,7 +1265,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l n="605">οὐκ ἦν ὅμαιμος φωτὸς ὃν κατέκτανεν.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>ἐγὼ δὲ μητρὸς τῆς ἐμῆς ἐν αἵματι;</l>
 					<milestone ed="p" n="607" unit="card"/>
@@ -1275,7 +1275,7 @@ convert to P3
 					<l>πῶς γάρ σ’ ἔθρεψ’ ἂν ἐντός, ὦ μιαιφόνε,</l>
 					<l>ζώνης; ἀπεύχῃ μητρὸς αἷμα φίλτατον;</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>ἤδη σὺ μαρτύρησον· ἐξηγοῦ δέ μοι,</l>
 					<l n="610">Ἄπολλον, εἴ σφε σὺν δίκῃ κατέκτανον.</l>
@@ -1283,7 +1283,7 @@ convert to P3
 					<l>ἀλλ’ εἰ δίκαιον εἴτε μὴ τῇ σῇ φρενὶ</l>
 					<l>δοκεῖ τόδ’ αἷμα, κρῖνον, ὡς τούτοις φράσω.</l>
 				</sp>
-				<sp who="#apollwn">
+				<sp who="#apollon">
 					<speaker>Ἀπόλλων</speaker>
 					<l>λέξω πρὸς ὑμᾶς τόνδ’ Ἀθηναίας μέγαν</l>
 					<l n="615">θεσμὸν δικαίως,—μάντις ὢν δ’ οὐ ψεύσομαι.</l>
@@ -1303,7 +1303,7 @@ convert to P3
 					<l>φράζειν Ὀρέστῃ τῷδε, τὸν πατρὸς φόνον</l>
 					<l>πράξαντα μητρὸς μηδαμοῦ τιμὰς νέμειν;</l>
 				</sp>
-				<sp who="#apollwn">
+				<sp who="#apollon">
 					<speaker>Ἀπόλλων</speaker>
 					<l n="625">οὐ γάρ τι ταὐτὸν ἄνδρα γενναῖον θανεῖν</l>
 					<l>διοσδότοις σκήπτροισι τιμαλφούμενον,</l>
@@ -1335,7 +1335,7 @@ convert to P3
 					<l>πῶς ταῦτα τούτοις οὐκ ἐναντίως λέγεις;</l>
 					<l>ὑμᾶς δ’ ἀκούειν ταῦτ’ ἐγὼ μαρτύρομαι.</l>
 				</sp>
-				<sp who="#apollwn">
+				<sp who="#apollon">
 					<speaker>Ἀπόλλων</speaker>
 					<l>ὦ παντομισῆ κνώδαλα, στύγη θεῶν,</l>
 					<l n="645">πέδας μὲν ἂν λύσειεν, ἔστι τοῦδ’ ἄκος</l>
@@ -1354,7 +1354,7 @@ convert to P3
 					<l n="655">ποίοισι βωμοῖς χρώμενος τοῖς δημίοις;</l>
 					<l>ποία δὲ χέρνιψ φρατέρων προσδέξεται;</l>
 				</sp>
-				<sp who="#apollwn">
+				<sp who="#apollon">
 					<speaker>Ἀπόλλων</speaker>
 					<l>καὶ τοῦτο λέξω, καὶ μάθ’ ὡς ὀρθῶς ἐρῶ.</l>
 					<l>οὔκ ἔστι μήτηρ ἡ κεκλημένου τέκνου</l>
@@ -1378,7 +1378,7 @@ convert to P3
 					<l>στέργειν τὰ πιστὰ τῶνδε τοὺς ἐπισπόρους.</l>
 					<milestone ed="p" n="674" unit="card"/>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθηνᾶ</speaker>
 					<l>ἤδη κελεύω τούσδ’ ἀπὸ γνώμης φέρειν</l>
 					<l n="675">ψῆφον δικαίαν, ὡς ἅλις λελεγμένων;</l>
@@ -1388,16 +1388,16 @@ convert to P3
 					<l>ἡμῖν μὲν ἤδη πᾶν τετόξευται βέλος.</l>
 					<l>μένω δ’ ἀκοῦσαι πῶς ἀγὼν κριθήσεται.</l>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθηνᾶ</speaker>
 					<l>τί γάρ; πρὸς ὑμῶν πῶς τιθεῖσ’, ἄμομφος ὦ;</l>
 				</sp>
-				<sp who="#apollwn">
+				<sp who="#apollon">
 					<speaker>Ἀπόλλων</speaker>
 					<l>ἠκούσαθ’ ὧν ἠκούσατ’, ἐν δὲ καρδίᾳ</l>
 					<l n="680">ψῆφον φέροντες ὅρκον αἰδεῖσθε, ξένοι.</l>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθηνᾶ</speaker>
 					<l>κλύοιτ’ ἂν ἤδη θεσμόν, Ἀττικὸς λεώς,</l>
 					<l>πρώτας δίκας κρίνοντες αἵματος χυτοῦ.</l>
@@ -1442,7 +1442,7 @@ convert to P3
 					<l>καὶ μὴν βαρεῖαν τήνδ’ ὁμιλίαν χθονὸς</l>
 					<l>ξύμβουλός εἰμι μηδαμῶς ἀτιμάσαι.</l>
 				</sp>
-				<sp who="#apollwn">
+				<sp who="#apollon">
 					<speaker>Ἀπόλλων</speaker>
 					<l>κἄγωγε χρησμοὺς τοὺς ἐμούς τε καὶ Διὸς</l>
 					<l>ταρβεῖν κελεύω μηδ’ ἀκαρπώτους κτίσαι.</l>
@@ -1452,7 +1452,7 @@ convert to P3
 					<l n="715">ἀλλ’ αἱματηρὰ πράγματ’ οὐ λαχὼν σέβεις,</l>
 					<l>μαντεῖα δ’ οὐκέθ’ ἁγνὰ μαντεύσῃ νέμων.</l>
 				</sp>
-				<sp who="#apollwn">
+				<sp who="#apollon">
 					<speaker>Ἀπόλλων</speaker>
 					<l>ἦ καὶ πατήρ τι σφάλλεται βουλευμάτων</l>
 					<l>πρωτοκτόνοισι προστροπαῖς Ἰξίονος;</l>
@@ -1462,7 +1462,7 @@ convert to P3
 					<l>λέγεις· ἐγὼ δὲ μὴ τυχοῦσα τῆς δίκης</l>
 					<l n="720">βαρεῖα χώρᾳ τῇδ’ ὁμιλήσω πάλιν.</l>
 				</sp>
-				<sp who="#apollwn">
+				<sp who="#apollon">
 					<speaker>Ἀπόλλων</speaker>
 					<l>ἀλλ’ ἔν τε τοῖς νέοισι καὶ παλαιτέροις</l>
 					<l>θεοῖς ἄτιμος εἶ σύ· νικήσω δ’ ἐγώ.</l>
@@ -1472,7 +1472,7 @@ convert to P3
 					<l>τοιαῦτ’ ἔδρασας καὶ Φέρητος ἐν δόμοις·</l>
 					<l>Μοίρας ἔπεισας ἀφθίτους θεῖναι βροτούς.</l>
 				</sp>
-				<sp who="#apollwn">
+				<sp who="#apollon">
 					<speaker>Ἀπόλλων</speaker>
 					<l n="725">οὔκουν δίκαιον τὸν σέβοντ’ εὐεργετεῖν,</l>
 					<l>ἄλλως τε πάντως χὤτε δεόμενος τύχοι;</l>
@@ -1482,7 +1482,7 @@ convert to P3
 					<l>σύ τοι παλαιὰς διανομὰς καταφθίσας</l>
 					<l>οἴνῳ παρηπάτησας ἀρχαίας θεάς.</l>
 				</sp>
-				<sp who="#apollwn">
+				<sp who="#apollon">
 					<speaker>Ἀπόλλων</speaker>
 					<l>σύ τοι τάχ’ οὐκ ἔχουσα τῆς δίκης τέλος</l>
 					<l n="730">ἐμῇ τὸν ἰὸν οὐδὲν ἐχθροῖσιν βαρύν.</l>
@@ -1493,7 +1493,7 @@ convert to P3
 					<l>δίκης γενέσθαι τῆσδ’ ἐπήκοος μένω,</l>
 					<l>ὡς ἀμφίβουλος οὖσα θυμοῦσθαι πόλει.</l>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθηνᾶ</speaker>
 					<l>ἐμὸν τόδ’ ἔργον, λοισθίαν κρῖναι δίκην.</l>
 					<l n="735">ψῆφον δ’ Ὀρέστῃ τήνδ’ ἐγὼ προσθήσομαι.</l>
@@ -1510,7 +1510,7 @@ convert to P3
 					<l>ὅσοις δικαστῶν τοῦτ’ ἐπέσταλται τέλος.</l>
 					<milestone ed="p" n="744" unit="card"/>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>ὦ Φοῖβ’ Ἄπολλον, πῶς ἀγὼν κριθήσεται;</l>
 				</sp>
@@ -1518,7 +1518,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l n="745">ὦ Νὺξ μέλαινα μῆτερ, ἆρ’ ὁρᾷς τάδε;</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>νῦν ἀγχόνης μοι τέρματ’, ἢ φάος βλέπειν.</l>
 				</sp>
@@ -1526,19 +1526,19 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>ἡμῖν γὰρ ἔρρειν, ἢ πρόσω τιμὰς νέμειν.</l>
 				</sp>
-				<sp who="#apollwn">
+				<sp who="#apollon">
 					<speaker>Ἀπόλλων</speaker>
 					<l>πεμπάζετ’ ὀρθῶς ἐκβολὰς ψήφων, ξένοι,</l>
 					<l>τὸ μὴ ’δικεῖν σέβοντες ἐν διαιρέσει.</l>
 					<l n="750">γνώμης δ’ ἀπούσης πῆμα γίγνεται μέγα,</l>
 					<l>βαλοῦσά τ’ οἶκον ψῆφος ὤρθωσεν μία.</l>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθηνᾶ</speaker>
 					<l>ἀνὴρ ὅδ’ ἐκπέφευγεν αἵματος δίκην·</l>
 					<l>ἴσον γάρ ἐστι τἀρίθμημα τῶν πάλων.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l n="755">ὦ Παλλάς, ὦ σώσασα τοὺς ἐμοὺς δόμους.</l>
 					<l>γαίας πατρῴας ἐστερημένον σύ τοι</l>
@@ -1594,7 +1594,7 @@ convert to P3
 						<l>Νυκτὸς ἀτιμοπενθεῖς.</l>
 						<milestone ed="p" n="793" unit="card"/>
 					</sp>
-					<sp who="#aqhna">
+					<sp who="#athena">
 						<speaker>Ἀθηνᾶ</speaker>
 						<l>ἐμοὶ πίθεσθε μὴ βαρυστόνως φέρειν.</l>
 						<l n="795">οὐ γὰρ νενίκησθ’, ἀλλ’ ἰσόψηφος δίκη</l>
@@ -1633,7 +1633,7 @@ convert to P3
 						<l>Νυκτὸς ἀτιμοπενθεῖς.</l>
 						<milestone ed="p" n="823" unit="card"/>
 					</sp>
-					<sp who="#aqhna">
+					<sp who="#athena">
 						<speaker>Ἀθηνᾶ</speaker>
 						<l>οὐκ ἔστ’ ἄτιμοι, μηδ’ ὑπερθύμως ἄγαν</l>
 						<l n="825">θεαὶ βροτῶν κτίσητε δύσκηλον χθόνα.</l>
@@ -1666,7 +1666,7 @@ convert to P3
 						<l>δυσπάλαμοι παρ’ οὐδὲν ἦραν δόλοι.</l>
 						<milestone ed="p" n="848" unit="card"/>
 					</sp>
-					<sp who="#aqhna">
+					<sp who="#athena">
 						<speaker>Ἀθηνᾶ</speaker>
 						<l>ὀργὰς ξυνοίσω σοι· γεραιτέρα γὰρ εἶ.</l>
 						<l>καὶ τῷ μὲν &lt;εἶ&gt; σὺ κάρτ’ ἐμοῦ σοφωτέρα·</l>
@@ -1711,7 +1711,7 @@ convert to P3
 						<l n="880">δυσπάλαμοι παρ’ οὐδὲν ἦραν δόλοι.</l>
 						<milestone ed="p" n="881" unit="card"/>
 					</sp>
-					<sp who="#aqhna">
+					<sp who="#athena">
 						<speaker>Ἀθηνᾶ</speaker>
 						<l>οὔτοι καμοῦμαί σοι λέγουσα τἀγαθά,</l>
 						<l>ὡς μήποτ’ εἴπῃς πρὸς νεωτέρας ἐμοῦ</l>
@@ -1732,7 +1732,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>ἄνασσ’ Ἀθάνα, τίνα με φὴς ἔχειν ἕδραν;</l>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθηνᾶ</speaker>
 					<l>πάσης ἀπήμον’ οἰζύος· δέχου δὲ σύ.</l>
 				</sp>
@@ -1740,7 +1740,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>καὶ δὴ δέδεγμαι· τίς δέ μοι τιμὴ μένει;</l>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθηνᾶ</speaker>
 					<l n="895">ὡς μή τιν’ οἶκον εὐθενεῖν ἄνευ σέθεν.</l>
 				</sp>
@@ -1748,7 +1748,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>σὺ τοῦτο πράξεις, ὥστε με σθένειν τόσον;</l>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθηνᾶ</speaker>
 					<l>τῷ γὰρ σέβοντι συμφορὰς ὀρθώσομεν.</l>
 				</sp>
@@ -1756,7 +1756,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>καί μοι πρόπαντος ἐγγύην θήσῃ χρόνου;</l>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθηνᾶ</speaker>
 					<l>ἔξεστι γάρ μοι μὴ λέγειν ἃ μὴ τελῶ.</l>
 				</sp>
@@ -1764,7 +1764,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l n="900">θέλξειν μ’ ἔοικας καὶ μεθίσταμαι κότου.</l>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθηνᾶ</speaker>
 					<l>τοιγὰρ κατὰ χθόν’ οὖσ’ ἐπικτήσῃ φίλους.</l>
 				</sp>
@@ -1772,7 +1772,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>τί οὖν μ’ ἄνωγας τῇδ’ ἐφυμνῆσαι χθονί;</l>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθηνᾶ</speaker>
 					<l>ὁποῖα νίκης μὴ κακῆς ἐπίσκοπα,</l>
 					<l>καὶ ταῦτα γῆθεν ἔκ τε ποντίας δρόσου</l>
@@ -1811,7 +1811,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 type="anapests">
-					<sp who="#aqhna">
+					<sp who="#athena">
 						<speaker>Ἀθηνᾶ</speaker>
 						<l>τάδ’ ἐγὼ προφρόνως τοῖσδε πολίταις</l>
 						<l>πράσσω, μεγάλας καὶ δυσαρέστους</l>
@@ -1844,7 +1844,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 type="anapests">
-					<sp who="#aqhna">
+					<sp who="#athena">
 						<speaker>Ἀθηνᾶ</speaker>
 						<l>ἦ τάδ’ ἀκούετε, πόλεως φρούριον,</l>
 						<l n="950">οἷ’ ἐπικραίνει; μέγα γὰρ δύναται</l>
@@ -1875,7 +1875,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 type="anapests">
-					<sp who="#aqhna">
+					<sp who="#athena">
 						<speaker>Ἀθηνᾶ</speaker>
 						<l>τάδε τοι χώρᾳ τἠμῇ προφρόνως</l>
 						<l>ἐπικραινομένων</l>
@@ -1907,7 +1907,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 type="anapests">
-					<sp who="#aqhna">
+					<sp who="#athena">
 						<speaker>Ἀθηνᾶ</speaker>
 						<l>ἆρα φρονοῦσιν γλώσσης ἀγαθῆς</l>
 						<l>ὁδὸν εὑρίσκειν;</l>
@@ -1934,7 +1934,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 type="anapests">
-					<sp who="#aqhna">
+					<sp who="#athena">
 						<speaker>Ἀθηνᾶ</speaker>
 						<l>χαίρετε χὐμεῖς· προτέραν δ’ ἐμὲ χρὴ</l>
 						<l>στείχειν θαλάμους ἀποδείξουσαν</l>
@@ -1965,7 +1965,7 @@ convert to P3
 				</div2>
 			</div1>
 			<div1 type="episode">
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθηνᾶ</speaker>
 					<l>αἰνῶ τε μύθους τῶνδε τῶν κατευγμάτων</l>
 					<l>πέμψω τε φέγγει λαμπάδων σελασφόρων</l>

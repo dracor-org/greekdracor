@@ -33,6 +33,7 @@
 							<publisher>Clarendon Press, Oxford</publisher>
 							<date>1913</date>
 						</imprint>
+						<date type="premiere" when="-411">411 BCE</date>
 					</bibl>
 				</biblStruct>
 			</sourceDesc>
@@ -45,7 +46,6 @@
 						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
 					</licence>
 				</availability>
-				<date type="premiere" when="-411">411 BCE</date>
 			</bibl>
 		</fileDesc>
 		<profileDesc>
@@ -172,7 +172,7 @@ bring up to P3
 		<body>
 			<div1 type="episode">
 				<milestone ed="p" n="1" unit="card"/>
-				<sp n="Ἰοκάστη" who="#iokasth">
+				<sp n="Ἰοκάστη" who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>ὦ τὴν ἐν ἄστροις οὐρανοῦ τέμνων ὁδὸν</l>
 					<l>καὶ χρυσοκολλήτοισιν ἐμβεβὼς δίφροις</l>
@@ -273,7 +273,7 @@ bring up to P3
 					<l>χρὴ δ’, εἰ σοφὸς πέφυκας, οὐκ ἐᾶν βροτὸν</l>
 					<l>τὸν αὐτὸν αἰεὶ δυστυχῆ καθεστάναι.</l>
 				</sp>
-				<sp who="#paidagwgos">
+				<sp who="#paidagogos">
 					<speaker>Παιδαγωγός</speaker>
 					<l>ὦ κλεινὸν οἴκοις Ἀντιγόνη θάλος πατρί,</l>
 					<l>ἐπεί σε μήτηρ παρθενῶνας ἐκλιπεῖν</l>
@@ -296,105 +296,105 @@ bring up to P3
 					<milestone ed="p" n="103" unit="card"/>
 				</sp>
 				<div2 type="lyric">
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>ὄρεγέ νυν ὄρεγε γεραιὰν νέᾳ</l>
 						<l>χεῖρ’ ἀπὸ κλιμάκων</l>
 						<l n="105">ποδὸς ἴχνος ἐπαντέλλων.</l>
 					</sp>
-					<sp who="#paidagwgos">
+					<sp who="#paidagogos">
 						<speaker>Παιδαγωγός</speaker>
 						<l>ἰδοὺ ξύναψον, παρθέν’· ἐς καιρὸν δ’ ἔβης·</l>
 						<l>κινούμενον γὰρ τυγχάνει Πελασγικὸν</l>
 						<l>στράτευμα, χωρίζουσι δ’ ἀλλήλων λόχους.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>ἰὼ πότνια παῖ</l>
 						<l n="110">Λατοῦς Ἑκάτα, κατάχαλκον ἅπαν</l>
 						<l>πεδίον ἀστράπτει.</l>
 					</sp>
-					<sp who="#paidagwgos">
+					<sp who="#paidagogos">
 						<speaker>Παιδαγωγός</speaker>
 						<l>οὐ γάρ τι φαύλως ἦλθε Πολυνείκης χθόνα,</l>
 						<l>πολλοῖς μὲν ἵπποις, μυρίοις δ’ ὅπλοις βρέμων.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>ἆρα πύλαι κλῄθροις — χαλκόδετ’ ἆρ’ ἔμβολα</l>
 						<l n="115">λαϊνέοισιν Ἀμφίονος ὀργάνοις</l>
 						<l>τείχεος ἥρμοσται;</l>
 					</sp>
-					<sp who="#paidagwgos">
+					<sp who="#paidagogos">
 						<speaker>Παιδαγωγός</speaker>
 						<l>θάρσει· τά γ’ ἔνδον ἀσφαλῶς ἔχει πόλις.</l>
 						<l>ἀλλ’ εἰσόρα τὸν πρῶτον, εἰ βούλῃ μαθεῖν.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>τίς οὗτος ὁ λευκολόφας,</l>
 						<l n="120">πρόπαρ ὃς ἁγεῖται στρατοῦ πάγχαλκον ἀσπίδ’</l>
 						<l n="122">ἀμφὶ βραχίονι κουφίζων;</l>
 					</sp>
-					<sp who="#paidagwgos">
+					<sp who="#paidagogos">
 						<speaker>Παιδαγωγός</speaker>
 						<l>λοχαγός, ὦ δέσποινα.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l part="Y">τίς, πόθεν γεγώς;</l>
 						<l>αὔδασον, ὦ γεραιέ, τίς ὀνομάζεται;</l>
 					</sp>
-					<sp who="#paidagwgos">
+					<sp who="#paidagogos">
 						<speaker>Παιδαγωγός</speaker>
 						<l n="125">οὗτος Μυκηναῖος μὲν αὐδᾶται γένος,</l>
 						<l>Λερναῖα δ’ οἰκεῖ νάμαθ’, Ἱππομέδων ἄναξ.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>ἒ ἒ ὡς γαῦρος, ὡς φοβερὸς εἰσιδεῖν,</l>
 						<l>γίγαντι γηγενέτᾳ προσόμοιος</l>
 						<l>ἀστερωπὸς ἐν γραφαῖσιν, οὐχὶ πρόσφορος</l>
 						<l n="130">ἁμερίῳ γέννᾳ.</l>
 					</sp>
-					<sp who="#paidagwgos">
+					<sp who="#paidagogos">
 						<speaker>Παιδαγωγός</speaker>
 						<l>τὸν δ’ ἐξαμείβοντ’ οὐχ ὁρᾷς Δίρκης ὕδωρ;</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>ἄλλος ἄλλος ὅδε τευχέων τρόπος.</l>
 						<l>τίς δ’ ἐστὶν οὗτος;</l>
 					</sp>
-					<sp who="#paidagwgos">
+					<sp who="#paidagogos">
 						<speaker>Παιδαγωγός</speaker>
 						<l part="Y">παῖς μὲν Οἰνέως ἔφυ</l>
 						<l>Τυδεύς, Ἄρη δ’ Αἰτωλὸν ἐν στέρνοις ἔχει.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l n="135">οὗτος ὁ τᾶς Πολυνείκεος,</l>
 						<l>ὦ γέρον, αὐτοκασιγνήτᾳ νύμφας</l>
 						<l>ὁμόγαμος κυρεῖ;</l>
 						<l>ὡς ἀλλόχρως ὅπλοισι, μειξοβάρβαρος.</l>
 					</sp>
-					<sp who="#paidagwgos">
+					<sp who="#paidagogos">
 						<speaker>Παιδαγωγός</speaker>
 						<l>σακεσφόροι γὰρ πάντες Αἰτωλοί, τέκνον,</l>
 						<l n="140">λόγχαις τ’ ἀκοντιστῆρες εὐστοχώτατοι.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>[Ἀντιγόνη ]</speaker>
 						<l>σὺ δ’, ὦ γέρον, πῶς αἰσθάνῃ σαφῶς τάδε;</l>
 					</sp>
-					<sp who="#paidagwgos">
+					<sp who="#paidagogos">
 						<speaker>Παιδαγωγός</speaker>
 						<l>σημεῖ’ ἰδὼν τότ’ ἀσπίδων ἐγνώρισα,</l>
 						<l>σπονδὰς ὅτ’ ἦλθον σῷ κασιγνήτῳ φέρων</l>
 						<l>ἃ προσδεδορκὼς οἶδα τοὺς ὡπλισμένους.]</l>
 						<milestone ed="p" n="145" unit="card"/>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l n="145">τίς δ’ οὗτος ἀμφὶ μνῆμα τὸ Ζήθου περᾷ</l>
 						<l>καταβόστρυχος, ὄμμασι γοργὸς</l>
@@ -402,34 +402,34 @@ bring up to P3
 						<l>λοχαγός, ὡς ὄχλος νιν ὑστέρῳ ποδὶ</l>
 						<l>πάνοπλος ἀμφέπει;</l>
 					</sp>
-					<sp who="#paidagwgos">
+					<sp who="#paidagogos">
 						<speaker>Παιδαγωγός</speaker>
 						<l n="150">ὅδ’ ἐστὶ Παρθενοπαῖος, Ἀταλάντης γόνος.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>ἀλλά νιν ἁ κατ’ ὄρη μετὰ ματέρος</l>
 						<l>Ἄρτεμις ἱεμένα τόξοις δαμάσασ’ ὀλέσειεν,</l>
 						<l>ὃς ἐπ’ ἐμὰν πόλιν ἔβα πέρσων.</l>
 					</sp>
-					<sp who="#paidagwgos">
+					<sp who="#paidagogos">
 						<speaker>Παιδαγωγός</speaker>
 						<l>εἴη τάδ’, ὦ παῖ. σὺν δίκῃ δ’ ἥκουσι γῆν·</l>
 						<l n="155">ὃ καὶ δέδοικα μὴ σκοπῶσ’ ὀρθῶς θεοί.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>ποῦ δ’ ὃς ἐμοὶ μιᾶς ἐγένετ’ ἐκ ματρὸς</l>
 						<l>πολυπόνῳ μοίρᾳ;</l>
 						<l>ὦ φίλτατ’, εἰπέ, ποῦ ’στι Πολυνείκης, γέρον.</l>
 					</sp>
-					<sp who="#paidagwgos">
+					<sp who="#paidagogos">
 						<speaker>Παιδαγωγός</speaker>
 						<l>ἐκεῖνος ἑπτὰ παρθένων τάφου πέλας</l>
 						<l n="160">Νιόβης Ἀδράστῳ πλησίον παραστατεῖ.</l>
 						<l>ὁρᾷς;</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l part="Y">ὁρῶ δῆτ’ οὐ σαφῶς, ὁρῶ δέ πως</l>
 						<l>μορφῆς τύπωμα στέρνα τ’ ἐξῃκασμένα.</l>
@@ -441,22 +441,22 @@ bring up to P3
 						<l>ὅπλοισι χρυσέοισιν ἐκπρεπής, γέρον,</l>
 						<l>ἑῴοις ὅμοια φλεγέθων βολαῖς [ἀελίου].</l>
 					</sp>
-					<sp who="#paidagwgos">
+					<sp who="#paidagogos">
 						<speaker>Παιδαγωγός</speaker>
 						<l n="170">ἥξει δόμους τούσδ’, ὥστε σ’ ἐμπλῆσαι χαρᾶς,</l>
 						<l>ἔνσπονδος.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l part="Y">οὗτος δ’, ὦ γεραιέ, τίς κυρεῖ,</l>
 						<l>ὃς ἅρμα λευκὸν ἡνιοστροφεῖ βεβώς;</l>
 					</sp>
-					<sp who="#paidagwgos">
+					<sp who="#paidagogos">
 						<speaker>Παιδαγωγός</speaker>
 						<l>ὁ μάντις Ἀμφιάραος, ὦ δέσποιν’, ὅδε·</l>
 						<l>σφάγια δ’ ἅμ’ αὐτῷ, γῆς φιλαίματοι ῥοαί.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l n="175">ὦ λιπαροζώνου θύγατερ Ἀελίου</l>
 						<l>Σελαναία, χρυσεόκυκλον φέγγος,</l>
@@ -464,12 +464,12 @@ bring up to P3
 						<l>πώλοις μεταφέρων ἰθύνει.</l>
 						<l>ποῦ δ’ ὃς τὰ δεινὰ τῇδ’ ἐφυβρίζει πόλει;</l>
 					</sp>
-					<sp who="#paidagwgos">
+					<sp who="#paidagogos">
 						<speaker>Παιδαγωγός</speaker>
 						<l n="180">Καπανεύς; ἐκεῖνος προσβάσεις τεκμαίρεται</l>
 						<l>πύργων ἄνω τε καὶ κάτω τείχη μετρῶν.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>ἰώ,</l>
 						<l>Νέμεσι καὶ Διὸς βαρύβρομοι βρονταί,</l>
@@ -487,7 +487,7 @@ bring up to P3
 					<milestone ed="p" n="193" unit="card"/>
 				</div2>
 				<div2 type="iambic">
-					<sp who="#paidagwgos">
+					<sp who="#paidagogos">
 						<speaker>Παιδαγωγός</speaker>
 						<l>ὦ τέκνον, ἔσβα δῶμα καὶ κατὰ στέγας</l>
 						<l>ἐν παρθενῶσι μίμνε σοῖς, ἐπεὶ πόθου</l>
@@ -594,7 +594,7 @@ bring up to P3
 				</div2>
 			</div1>
 			<div1 type="episode">
-				<sp who="#poluneikhs">
+				<sp who="#polyneikes">
 					<speaker>Πολυνείκης</speaker>
 					<l>τὰ μὲν πυλωρῶν κλῇθρά μ’ εἰσεδέξατο</l>
 					<l>δῑ εὐπετείας τειχέων ἔσω μολεῖν.</l>
@@ -627,7 +627,7 @@ bring up to P3
 					<l>σὺ δ’ ἀντάμειψαί μ’, ὅστις ὢν ἐλήλυθας</l>
 					<l>ἑπτάστομον πύργωμα Θηβαίας χθονός.</l>
 				</sp>
-				<sp who="#poluneikhs">
+				<sp who="#polyneikes">
 					<speaker>Πολυνείκης</speaker>
 					<l>πατὴρ μὲν ἡμῖν Οἰδίπους ὁ Λαΐου,</l>
 					<l>ἔτικτε δ’ Ἰοκάστη με, παῖς Μενοικέως·</l>
@@ -651,7 +651,7 @@ bring up to P3
 					<l n="300">θιγεῖν τ’ ὠλέναισιν τέκνου;</l>
 				</sp>
 				<div2 type="lyric">
-					<sp n="Ἰοκάστη" who="#iokasth">
+					<sp n="Ἰοκάστη" who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l>Φοίνισσαν βοὰν</l>
 						<l>κλύουσ’, ὦ νεάνιδες, γηραιὸν</l>
@@ -718,7 +718,7 @@ bring up to P3
 						<l n="355">δεινὸν γυναιξὶν αἱ δῑ ὠδίνων γοναί,</l>
 						<l>καὶ φιλότεκνόν πως πᾶν γυναικεῖον γένος.</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>μῆτερ, φρονῶν εὖ κοὐ φρονῶν ἀφικόμην</l>
 						<l>ἐχθροὺς ἐς ἄνδρας· ἀλλ’ ἀναγκαίως ἔχει</l>
@@ -746,7 +746,7 @@ bring up to P3
 						<l>σκότον δεδορκώς; τί δὲ κασίγνηται δύο;</l>
 						<l>ἦ που στένουσι τλήμονες φυγὰς ἐμάς;</l>
 					</sp>
-					<sp who="#iokasth">
+					<sp who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l>κακῶς θεῶν τις Οἰδίπου φθείρει γένος·</l>
 						<l n="380">οὕτω γὰρ ἤρξατ’, ἄνομα μὲν τεκεῖν ἐμέ,</l>
@@ -755,171 +755,171 @@ bring up to P3
 						<l>ὅπως δ’ ἔρωμαι, μή τι σὴν δάκω φρένα,</l>
 						<l>δέδοιχ’, ἃ χρῄζω· διὰ πόθου δ’ ἐλήλυθα.</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l n="385">ἀλλ’ ἐξερώτα, μηδὲν ἐνδεὲς λίπῃς·</l>
 						<l>ἃ γὰρ σὺ βούλῃ, ταὔτ’ ἐμοί, μῆτερ, φίλα.</l>
 						<milestone ed="p" n="387" unit="card"/>
 					</sp>
-					<sp who="#iokasth">
+					<sp who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l>καὶ δή σ’ ἐρωτῶ πρῶτον ὧν χρῄζω τυχεῖν,</l>
 						<l>τί τὸ στέρεσθαι πατρίδος; ἦ κακὸν μέγα;</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>μέγιστον· ἔργῳ δ’ ἐστὶ μεῖζον ἢ λόγῳ.</l>
 					</sp>
-					<sp who="#iokasth">
+					<sp who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l n="390">τίς ὁ τρόπος αὐτοῦ; τί φυγάσιν τὸ δυσχερές;</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>ἓν μὲν μέγιστον, οὐκ ἔχει παρρησίαν.</l>
 					</sp>
-					<sp who="#iokasth">
+					<sp who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l>δούλου τόδ’ εἶπας, μὴ λέγειν ἅ τις φρονεῖ.</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>τὰς τῶν κρατούντων ἀμαθίας φέρειν χρεών.</l>
 					</sp>
-					<sp who="#iokasth">
+					<sp who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l>καὶ τοῦτο λυπρόν, συνασοφεῖν τοῖς μὴ σοφοῖς.</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l n="395">ἀλλ’ ἐς τὸ κέρδος παρὰ φύσιν δουλευτέον.</l>
 					</sp>
-					<sp who="#iokasth">
+					<sp who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l>αἱ δ’ ἐλπίδες βόσκουσι φυγάδας, ὡς λόγος.</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>καλοῖς βλέπουσαί γ’ ὄμμασιν, μέλλουσι δέ.</l>
 					</sp>
-					<sp who="#iokasth">
+					<sp who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l>οὐδ’ ὁ χρόνος αὐτὰς διεσάφησ’ οὔσας κενάς;</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>ἔχουσιν Ἀφροδίτην τιν’ ἡδεῖαν κακῶν.</l>
 					</sp>
-					<sp who="#iokasth">
+					<sp who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l n="400">πόθεν δ’ ἐβόσκου, πρὶν γάμοις εὑρεῖν βίον;</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>ποτὲ μὲν ἐπ’ ἦμαρ εἶχον, εἶτ’ οὐκ εἶχον ἄν.</l>
 					</sp>
-					<sp who="#iokasth">
+					<sp who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l>φίλοι δὲ πατρὸς καὶ ξένοι σ’ οὐκ ὠφέλουν;</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>εὖ πρᾶσσε· τὰ φίλων δ’ οὐδέν, ἤν τι δυστυχῇς.</l>
 					</sp>
-					<sp who="#iokasth">
+					<sp who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l>οὐδ’ ηὑγένειά σ’ ἦρεν εἰς ὕψος μέγαν;</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l n="405">κακὸν τὸ μὴ ἔχειν· τὸ γένος οὐκ ἔβοσκέ με.</l>
 					</sp>
-					<sp who="#iokasth">
+					<sp who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l>ἡ πατρίς, ὡς ἔοικε, φίλτατον βροτοῖς.</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>οὐδ’ ὀνομάσαι δύναῑ ἂν ὡς ἐστὶν φίλον.</l>
 					</sp>
-					<sp who="#iokasth">
+					<sp who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l>πῶς δ’ ἦλθες Ἄργος; τίν’ ἐπίνοιαν ἔσχεθες;</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>ἔχρησ’ Ἀδράστῳ Λοξίας χρησμόν τινα.</l>
 					</sp>
-					<sp who="#iokasth">
+					<sp who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l n="410">ποῖον; τί τοῦτ’ ἔλεξας; οὐκ ἔχω μαθεῖν.</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>κάπρῳ λέοντί θ’ ἁρμόσαι παίδων γάμους.</l>
 					</sp>
-					<sp who="#iokasth">
+					<sp who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l>καὶ σοὶ τί θηρῶν ὀνόματος μετῆν, τέκνον;</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>οὐκ οἶδ’· ὁ δαίμων μ’ ἐκάλεσεν πρὸς τὴν τύχην.</l>
 					</sp>
-					<sp who="#iokasth">
+					<sp who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l>σοφὸς γὰρ ὁ θεός· τίνι τρόπῳ δ’ ἔσχες λέχος;</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l n="415">νὺξ ἦν, Ἀδράστου δ’ ἦλθον ἐς παραστάδας.</l>
 					</sp>
-					<sp who="#iokasth">
+					<sp who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l>κοίτας ματεύων, ᾗ φυγὰς πλανώμενος;</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>ἦν ταῦτα· κᾆτά γ’ ἦλθεν ἄλλος αὖ φυγάς.</l>
 					</sp>
-					<sp who="#iokasth">
+					<sp who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l>τίς οὗτος; ὡς ἄρ’ ἄθλιος κἀκεῖνος ἦν.</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>Τυδεύς, ὃν Οἰνέως φασὶν ἐκφῦναι πατρός.</l>
 					</sp>
-					<sp who="#iokasth">
+					<sp who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l n="420">τί θηρσὶν ὑμᾶς δῆτ’ Ἄδραστος ᾔκασεν;</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>στρωμνῆς ἐς ἀλκὴν οὕνεκ’ ἤλθομεν πέρι.</l>
 					</sp>
-					<sp who="#iokasth">
+					<sp who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l>ἐνταῦθα Ταλαοῦ παῖς συνῆκε θέσφατα;</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>κἄδωκέ γ’ ἡμῖν δύο δυοῖν νεάνιδας.</l>
 					</sp>
-					<sp who="#iokasth">
+					<sp who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l>ἆρ’ εὐτυχεῖς οὖν τοῖς γάμοις ἢ δυστυχεῖς;</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l n="425">οὐ μεμπτὸς ἡμῖν ὁ γάμος ἐς τόδ’ ἡμέρας.</l>
 					</sp>
-					<sp who="#iokasth">
+					<sp who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l>πῶς δ’ ἐξέπεισας δεῦρό σοι σπέσθαι στρατόν;</l>
 						<milestone ed="p" n="427" unit="card"/>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>δισσοῖς Ἄδραστος ὤμοσεν γαμβροῖς τόδε,</l>
 						<l>[Τυδεῖ τε κἀμοί· σύγγαμος γάρ ἐστ’ ἐμός·]</l>
@@ -944,7 +944,7 @@ bring up to P3
 						<l>χωρεῖ· σὸν ἔργον, μῆτερ Ἰοκάστη, λέγειν</l>
 						<l n="445">τοιούσδε μύθους οἷς διαλλάξεις τέκνα.</l>
 					</sp>
-					<sp who="#eteoklhs">
+					<sp who="#eteokles">
 						<speaker>Ἐτεοκλῆς</speaker>
 						<l>μῆτερ, πάρειμι· τὴν χάριν δὲ σοὶ διδοὺς</l>
 						<l>ἦλθον. τί χρὴ δρᾶν; ἀρχέτω δέ τις λόγου·</l>
@@ -953,7 +953,7 @@ bring up to P3
 						<l n="450">κοινὰς βραβείας, αἷς ὑπόσπονδον μολεῖν</l>
 						<l>τόνδ’ εἰσεδέξω τειχέων πείσασά με.</l>
 					</sp>
-					<sp who="#iokasth">
+					<sp who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l>ἐπίσχες· οὔτοι τὸ ταχὺ τὴν δίκην ἔχει,</l>
 						<l>βραδεῖς δὲ μῦθοι πλεῖστον ἀνύουσιν σοφόν.</l>
@@ -974,7 +974,7 @@ bring up to P3
 						<l>θεῶν γένοιτο καὶ διαλλακτὴς κακῶν.</l>
 						<milestone ed="p" n="469" unit="card"/>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>ἁπλοῦς ὁ μῦθος τῆς ἀληθείας ἔφυ,</l>
 						<l n="470">κοὐ ποικίλων δεῖ τἄνδιχ’ ἑρμηνευμάτων·</l>
@@ -1014,7 +1014,7 @@ bring up to P3
 						<l>τεθράμμεθ’, ἀλλ’ οὖν ξυνετά μοι δοκεῖς λέγειν.</l>
 						<milestone ed="p" n="499" unit="card"/>
 					</sp>
-					<sp who="#eteoklhs">
+					<sp who="#eteokles">
 						<speaker>Ἐτεοκλῆς</speaker>
 						<l>εἰ πᾶσι ταὐτὸν καλὸν ἔφυ σοφόν θ’ ἅμα,</l>
 						<l n="500">οὐκ ἦν ἂν ἀμφίλεκτος ἀνθρώποις ἔρις·</l>
@@ -1049,7 +1049,7 @@ bring up to P3
 						<l>οὐκ εὖ λέγειν χρὴ μὴ ’πὶ τοῖς ἔργοις καλοῖς·</l>
 						<l>οὐ γὰρ καλὸν τοῦτ’, ἀλλὰ τῇ δίκῃ πικρόν.</l>
 					</sp>
-					<sp n="Ἰοκάστη" who="#iokasth">
+					<sp n="Ἰοκάστη" who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l>ὦ τέκνον, οὐχ ἅπαντα τῷ γήρᾳ κακά,</l>
 						<l>Ἐτεόκλεες, πρόσεστιν· ἀλλ’ ἡμπειρία</l>
@@ -1131,7 +1131,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="trochees">
-					<sp who="#eteoklhs">
+					<sp who="#eteokles">
 						<speaker>Ἐτεοκλῆς</speaker>
 						<l>μῆτερ, οὐ λόγων ἔθ’ ἁγών, ἀλλ’ ἀναλοῦται χρόνος</l>
 						<l>οὑν μέσῳ μάτην, περαίνει δ’ οὐδὲν ἡ προθυμία·</l>
@@ -1140,217 +1140,217 @@ bring up to P3
 						<l>τῶν μακρῶν δ’ ἀπαλλαγεῖσα νουθετημάτων μ’ ἔα.</l>
 						<l>καὶ σὺ τῶνδ’ ἔξω κομίζου τειχέων, ἢ κατθανῇ.</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>πρὸς τίνος; τίς ὧδ’ ἄτρωτος, ὅστις εἰς ἡμᾶς ξίφος</l>
 						<l n="595">φόνιον ἐμβαλὼν τὸν αὐτὸν οὐκ ἀποίσεται μόρον;</l>
 					</sp>
-					<sp who="#eteoklhs">
+					<sp who="#eteokles">
 						<speaker>Ἐτεοκλῆς</speaker>
 						<l>ἐγγύς, οὐ πρόσω βέβηκεν· ἐς χέρας λεύσσεις ἐμάς;</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>εἰσορῶ· δειλὸν δ’ ὁ πλοῦτος καὶ φιλόψυχον κακόν.</l>
 					</sp>
-					<sp who="#eteoklhs">
+					<sp who="#eteokles">
 						<speaker>Ἐτεοκλῆς</speaker>
 						<l>κᾆτα σὺν πολλοῖσιν ἦλθες πρὸς τὸν οὐδὲν ἐς μάχην;</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>ἀσφαλὴς γάρ ἐστ’ ἀμείνων ἢ θρασὺς στρατηλάτης.</l>
 					</sp>
-					<sp who="#eteoklhs">
+					<sp who="#eteokles">
 						<speaker>Ἐτεοκλῆς</speaker>
 						<l n="600">κομπὸς εἶ σπονδαῖς πεποιθώς, αἵ σε σῴζουσιν θανεῖν.</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>καὶ σέ· δεύτερον δ’ ἀπαιτῶ σκῆπτρα καὶ μέρη χθονός.</l>
 					</sp>
-					<sp who="#eteoklhs">
+					<sp who="#eteokles">
 						<speaker>Ἐτεοκλῆς</speaker>
 						<l>οὐκ ἀπαιτούμεσθ’· ἐγὼ γὰρ τὸν ἐμὸν οἰκήσω δόμον.</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>τοῦ μέρους ἔχων τὸ πλεῖον;</l>
 					</sp>
-					<sp who="#eteoklhs">
+					<sp who="#eteokles">
 						<speaker>Ἐτεοκλῆς</speaker>
 						<l part="Y">φήμ’· ἀπαλλάσσου δὲ γῆς.</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>ὦ θεῶν βωμοὶ πατρῴων — </l>
 					</sp>
-					<sp who="#eteoklhs">
+					<sp who="#eteokles">
 						<speaker>Ἐτεοκλῆς</speaker>
 						<l part="Y">οὓς σὺ πορθήσων πάρει.</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l n="605">κλύετέ μου — </l>
 					</sp>
-					<sp who="#eteoklhs">
+					<sp who="#eteokles">
 						<speaker>Ἐτεοκλῆς</speaker>
 						<l part="Y">τίς δ’ ἂν κλύοι σου πατρίδ’ ἐπεστρατευμένου;</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>καὶ θεῶν τῶν λευκοπώλων δώματα — </l>
 					</sp>
-					<sp who="#eteoklhs">
+					<sp who="#eteokles">
 						<speaker>Ἐτεοκλῆς</speaker>
 						<l part="Y">οἳ στυγοῦσί σε.</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>ἐξελαυνόμεσθα πατρίδος — </l>
 					</sp>
-					<sp who="#eteoklhs">
+					<sp who="#eteokles">
 						<speaker>Ἐτεοκλῆς</speaker>
 						<l part="Y">καὶ γὰρ ἦλθες ἐξελῶν.</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>ἀδικίᾳ γ’, ὦ θεοί.</l>
 					</sp>
-					<sp who="#eteoklhs">
+					<sp who="#eteokles">
 						<speaker>Ἐτεοκλῆς</speaker>
 						<l part="Y">Μυκήναις, μὴ ’νθάδ’ ἀνακάλει θεούς.</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>ἀνόσιος πέφυκας — </l>
 					</sp>
-					<sp who="#eteoklhs">
+					<sp who="#eteokles">
 						<speaker>Ἐτεοκλῆς</speaker>
 						<l part="Y">ἀλλ’ οὐ πατρίδος, ὡς σύ, πολέμιος.</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l n="610">ὅς μ’ ἄμοιρον ἐξελαύνεις.</l>
 					</sp>
-					<sp who="#eteoklhs">
+					<sp who="#eteokles">
 						<speaker>Ἐτεοκλῆς</speaker>
 						<l part="Y">καὶ κατακτενῶ γε πρός.</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>ὦ πάτερ, κλύεις ἃ πάσχω;</l>
 					</sp>
-					<sp who="#eteoklhs">
+					<sp who="#eteokles">
 						<speaker>Ἐτεοκλῆς</speaker>
 						<l part="Y">καὶ γὰρ οἷα δρᾷς κλύει.</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>καὶ σύ, μῆτερ;</l>
 					</sp>
-					<sp who="#eteoklhs">
+					<sp who="#eteokles">
 						<speaker>Ἐτεοκλῆς</speaker>
 						<l part="Y">ἀθέμιτόν σοι μητρὸς ὀνομάζειν κάρα.</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>ὦ πόλις.</l>
 					</sp>
-					<sp who="#eteoklhs">
+					<sp who="#eteokles">
 						<speaker>Ἐτεοκλῆς</speaker>
 						<l part="Y">μολὼν ἐς Ἄργος ἀνακάλει Λέρνης ὕδωρ.</l>
 						<milestone ed="p" n="614" unit="card"/>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>εἶμι, μὴ πόνει· σὲ δ’ αἰνῶ, μῆτερ.</l>
 					</sp>
-					<sp who="#eteoklhs">
+					<sp who="#eteokles">
 						<speaker>Ἐτεοκλῆς</speaker>
 						<l part="Y">ἔξιθι χθονός.</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l n="615">ἔξιμεν· πατέρα δέ μοι δὸς εἰσιδεῖν.</l>
 					</sp>
-					<sp who="#eteoklhs">
+					<sp who="#eteokles">
 						<speaker>Ἐτεοκλῆς</speaker>
 						<l part="Y">οὐκ ἂν τύχοις.</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>ἀλλὰ παρθένους ἀδελφάς.</l>
 					</sp>
-					<sp who="#eteoklhs">
+					<sp who="#eteokles">
 						<speaker>Ἐτεοκλῆς</speaker>
 						<l part="Y">οὐδὲ τάσδ’ ὄψῃ ποτέ.</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>ὦ κασίγνηται.</l>
 					</sp>
-					<sp who="#eteoklhs">
+					<sp who="#eteokles">
 						<speaker>Ἐτεοκλῆς</speaker>
 						<l part="Y">τί ταύτας ἀνακαλεῖς ἔχθιστος ὤν;</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>μῆτερ, ἀλλά μοι σὺ χαῖρε.</l>
 					</sp>
-					<sp who="#iokasth">
+					<sp who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l part="Y">χαρτὰ γοῦν πάσχω, τέκνον.</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>οὐκέτ’ εἰμὶ παῖς σός.</l>
 					</sp>
-					<sp who="#iokasth">
+					<sp who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l part="Y">ἐς πόλλ’ ἀθλία πέφυκ’ ἐγώ.</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l n="620">ὅδε γὰρ εἰς ἡμᾶς ὑβρίζει.</l>
 					</sp>
-					<sp who="#eteoklhs">
+					<sp who="#eteokles">
 						<speaker>Ἐτεοκλῆς</speaker>
 						<l part="Y">καὶ γὰρ ἀνθυβρίζομαι.</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>ποῦ ποτε στήσῃ πρὸ πύργων;</l>
 					</sp>
-					<sp who="#eteoklhs">
+					<sp who="#eteokles">
 						<speaker>Ἐτεοκλῆς</speaker>
 						<l part="Y">ὡς τί μ’ ἱστορεῖς τόδε;</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l>ἀντιτάξομαι κτενῶν σε.</l>
 					</sp>
-					<sp who="#eteoklhs">
+					<sp who="#eteokles">
 						<speaker>Ἐτεοκλῆς</speaker>
 						<l part="Y">κἀμὲ τοῦδ’ ἔρως ἔχει.</l>
 					</sp>
-					<sp who="#iokasth">
+					<sp who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l>ὦ τάλαιν’ ἐγώ· τί δράσετ’, ὦ τέκνα;</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l part="Y">αὐτὸ σημανεῖ.</l>
 					</sp>
-					<sp who="#iokasth">
+					<sp who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l>πατρὸς οὐ φεύξεσθ’ Ἐρινῦς;</l>
 					</sp>
-					<sp who="#eteoklhs">
+					<sp who="#eteokles">
 						<speaker>Ἐτεοκλῆς</speaker>
 						<l part="Y">ἐρρέτω πρόπας δόμος.</l>
 					</sp>
-					<sp who="#poluneikhs">
+					<sp who="#polyneikes">
 						<speaker>Πολυνείκης</speaker>
 						<l n="625">ὡς τάχ’ οὐκέθ’ αἱματηρὸν τοὐμὸν ἀργήσει ξίφος.</l>
 						<l>τὴν δὲ θρέψασάν με γαῖαν καὶ θεοὺς μαρτύρομαι,</l>
@@ -1364,7 +1364,7 @@ bring up to P3
 						<l>ἐλπίδες δ’ οὔπω καθεύδουσ’, αἷς πέποιθα σὺν θεοῖς</l>
 						<l n="635">τόνδ’ ἀποκτείνας κρατήσειν τῆσδε Θηβαίας χθονός.</l>
 					</sp>
-					<sp who="#eteoklhs">
+					<sp who="#eteokles">
 						<speaker>Ἐτεοκλῆς</speaker>
 						<l>ἔξιθ’ ἐκ χώρας· ἀληθῶς δ’ ὄνομα Πολυνείκη πατὴρ</l>
 						<l>ἔθετό σοι θείᾳ προνοίᾳ νεικέων ἐπώνυμον.</l>
@@ -1445,7 +1445,7 @@ bring up to P3
 				</div2>
 			</div1>
 			<div1 type="episode">
-				<sp who="#eteoklhs">
+				<sp who="#eteokles">
 					<speaker>Ἐτεοκλῆς</speaker>
 					<l n="690">χώρει σὺ καὶ κόμιζε τὸν Μενοικέως</l>
 					<l>Κρέοντ’, ἀδελφὸν μητρὸς Ἰοκάστης ἐμῆς,</l>
@@ -1455,188 +1455,188 @@ bring up to P3
 					<l n="695">καίτοι ποδῶν σῶν μόχθον ἐκλύει παρών·</l>
 					<l>ὁρῶ γὰρ αὐτὸν πρὸς δόμους στείχοντ’ ἐμούς.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>ἦ πόλλ’ ἐπῆλθον εἰσιδεῖν χρῄζων σ’, ἄναξ</l>
 					<l>Ἐτεόκλεες, πέριξ δὲ Καδμείων πύλας</l>
 					<l>φυλακάς τ’ ἐπῆλθον σὸν δέμας θηρώμενος.</l>
 				</sp>
-				<sp who="#eteoklhs">
+				<sp who="#eteokles">
 					<speaker>Ἐτεοκλῆς</speaker>
 					<l n="700">καὶ μὴν ἐγὼ σ’ ἔχρῃζον εἰσιδεῖν, Κρέον·</l>
 					<l>πολλῷ γὰρ ηὗρον ἐνδεεῖς διαλλαγάς</l>
 					<l>ὡς ἐς λόγους συνῆψα Πολυνείκει μολών.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>ἤκουσα μεῖζον αὐτὸν ἢ Θήβας φρονεῖν,</l>
 					<l>κήδει τ’ Ἀδράστου καὶ στρατῷ πεποιθότα.</l>
 					<l n="705">ἀλλ’ ἐς θεοὺς χρὴ ταῦτ’ ἀναρτήσαντ’ ἔχειν·</l>
 					<l>ἃ δ’ ἐμποδὼν μάλιστα, ταῦθ’ ἥκω φράσων.</l>
 				</sp>
-				<sp who="#eteoklhs">
+				<sp who="#eteokles">
 					<speaker>Ἐτεοκλῆς</speaker>
 					<l>τὰ ποῖα ταῦτα; τὸν λόγον γὰρ ἀγνοῶ.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>ἥκει τις αἰχμάλωτος Ἀργείων πάρα.</l>
 				</sp>
-				<sp who="#eteoklhs">
+				<sp who="#eteokles">
 					<speaker>Ἐτεοκλῆς</speaker>
 					<l>λέγει δὲ δὴ τί τῶν ἐκεῖ νεώτερον;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l n="710">μέλλειν [πέριξ πύργοισι Καδμείων πόλιν</l>
 					<l>ὅπλοις] ἑλίξειν αὐτίκ’ Ἀργείων στρατόν.</l>
 				</sp>
-				<sp who="#eteoklhs">
+				<sp who="#eteokles">
 					<speaker>Ἐτεοκλῆς</speaker>
 					<l>ἐξοιστέον τἄρ’ ὅπλα Καδμείων πόλει.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>ποῖ; μῶν νεάζων οὐχ ὁρᾷς ἃ χρή σ’ ὁρᾶν;</l>
 				</sp>
-				<sp who="#eteoklhs">
+				<sp who="#eteokles">
 					<speaker>Ἐτεοκλῆς</speaker>
 					<l>ἐκτὸς τάφρων τῶνδ’, ὡς μαχουμένους τάχα.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l n="715">σμικρὸν τὸ πλῆθος τῆσδε γῆς, οἳ δ’ ἄφθονοι.</l>
 				</sp>
-				<sp who="#eteoklhs">
+				<sp who="#eteokles">
 					<speaker>Ἐτεοκλῆς</speaker>
 					<l>ἐγᾦδα κείνους τοῖς λόγοις ὄντας θρασεῖς.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>ἔχει τιν’ ὄγκον τἄργος Ἑλλήνων πάρα.</l>
 				</sp>
-				<sp who="#eteoklhs">
+				<sp who="#eteokles">
 					<speaker>Ἐτεοκλῆς</speaker>
 					<l>θάρσει· τάχ’ αὐτῶν πεδίον ἐμπλήσω φόνου.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>θέλοιμ’ ἄν· ἀλλὰ τοῦθ’ ὁρῶ πολλοῦ πόνου.</l>
 				</sp>
-				<sp who="#eteoklhs">
+				<sp who="#eteokles">
 					<speaker>Ἐτεοκλῆς</speaker>
 					<l n="720">ὡς οὐ καθέξω τειχέων ἔσω στρατόν.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>καὶ μὴν τὸ νικᾶν ἐστι πᾶν εὐβουλία.</l>
 				</sp>
-				<sp who="#eteoklhs">
+				<sp who="#eteokles">
 					<speaker>Ἐτεοκλῆς</speaker>
 					<l>βούλῃ τράπωμαι δῆθ’ ὁδοὺς ἄλλας τινάς;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>πάσας γε, πρὶν κίνδυνον εἰς ἅπαξ μολεῖν.</l>
 				</sp>
-				<sp who="#eteoklhs">
+				<sp who="#eteokles">
 					<speaker>Ἐτεοκλῆς</speaker>
 					<l>εἰ νυκτὸς αὐτοῖς προσβάλοιμεν ἐκ λόχου;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l n="725">εἴπερ σφαλείς γε δεῦρο σωθήσῃ πάλιν.</l>
 				</sp>
-				<sp who="#eteoklhs">
+				<sp who="#eteokles">
 					<speaker>Ἐτεοκλῆς</speaker>
 					<l>ἴσον φέρει νύξ, τοῖς δὲ τολμῶσιν πλέον.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>ἐνδυστυχῆσαι δεινὸν εὐφρόνης κνέφας.</l>
 				</sp>
-				<sp who="#eteoklhs">
+				<sp who="#eteokles">
 					<speaker>Ἐτεοκλῆς</speaker>
 					<l>ἀλλ’ ἀμφὶ δεῖπνον οὖσι προσβάλω δόρυ;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>ἔκπληξις ἂν γένοιτο· νικῆσαι δὲ δεῖ.</l>
 				</sp>
-				<sp who="#eteoklhs">
+				<sp who="#eteokles">
 					<speaker>Ἐτεοκλῆς</speaker>
 					<l n="730">βαθύς γέ τοι Διρκαῖος ἀναχωρεῖν πόρος.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>ἅπαν κάκιον τοῦ φυλάσσεσθαι καλῶς.</l>
 				</sp>
-				<sp who="#eteoklhs">
+				<sp who="#eteokles">
 					<speaker>Ἐτεοκλῆς</speaker>
 					<l>τί δ’, εἰ καθιππεύσαιμεν Ἀργείων στρατόν;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>κἀκεῖ πέφρακται λαὸς ἅρμασιν πέριξ.</l>
 				</sp>
-				<sp who="#eteoklhs">
+				<sp who="#eteokles">
 					<speaker>Ἐτεοκλῆς</speaker>
 					<l>τί δῆτα δράσω; πολεμίοισι δῶ πόλιν;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l n="735">μὴ δῆτα· βουλεύου δ’, ἐπείπερ εἶ σοφός.</l>
 				</sp>
-				<sp who="#eteoklhs">
+				<sp who="#eteokles">
 					<speaker>Ἐτεοκλῆς</speaker>
 					<l>τίς οὖν πρόνοια γίγνεται σοφωτέρα;</l>
 					<milestone ed="p" n="737" unit="card"/>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>ἕπτ’ ἄνδρας αὐτοῖς φασιν, ὡς ἤκουσ’ ἐγώ — </l>
 				</sp>
-				<sp who="#eteoklhs">
+				<sp who="#eteokles">
 					<speaker>Ἐτεοκλῆς</speaker>
 					<l>τί προστετάχθαι δρᾶν; τὸ γὰρ σθένος βραχύ.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>† λόχων ἀνάσσειν † ἑπτὰ προσκεῖσθαι πύλαις.</l>
 				</sp>
-				<sp who="#eteoklhs">
+				<sp who="#eteokles">
 					<speaker>Ἐτεοκλῆς</speaker>
 					<l n="740">τί δῆτα δρῶμεν; ἀπορίαν γὰρ οὐ μενῶ.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>ἕπτ’ ἄνδρας αὐτοῖς καὶ σὺ πρὸς πύλαις ἑλοῦ.</l>
 				</sp>
-				<sp who="#eteoklhs">
+				<sp who="#eteokles">
 					<speaker>Ἐτεοκλῆς</speaker>
 					<l>λόχων ἀνάσσειν ἢ μονοστόλου δορός;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>λόχων, προκρίνας οἵπερ ἀλκιμώτατοι.</l>
 				</sp>
-				<sp who="#eteoklhs">
+				<sp who="#eteokles">
 					<speaker>Ἐτεοκλῆς</speaker>
 					<l>ξυνῆκ’· ἀμύνειν τειχέων προσαμβάσεις.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l n="745">καὶ ξυστρατήγους &lt;γ’&gt;· εἷς δ’ ἀνὴρ οὐ πάνθ’ ὁρᾷ.</l>
 				</sp>
-				<sp who="#eteoklhs">
+				<sp who="#eteokles">
 					<speaker>Ἐτεοκλῆς</speaker>
 					<l>θάρσει προκρίνας ἢ φρενῶν εὐβουλίᾳ;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>ἀμφότερον· ἀπολειφθὲν γὰρ οὐδὲν θάτερον.</l>
 				</sp>
-				<sp who="#eteoklhs">
+				<sp who="#eteokles">
 					<speaker>Ἐτεοκλῆς</speaker>
 					<l>ἔσται τάδ’· ἐλθὼν ἑπτάπυργον ἐς πόλιν</l>
 					<l>τάξω λοχαγοὺς πρὸς πύλαισιν, ὡς λέγεις,</l>
@@ -1770,7 +1770,7 @@ bring up to P3
 					<l>πρὸς πατέρα τὸν σόν· ὡς ἐμὸν κάμνει γόνυ,</l>
 					<l>πυκνὴν δὲ βαίνων ἤλυσιν μόλις περῶ.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l n="845">θάρσει· πέλας γάρ, Τειρεσία, φίλοισι σοῖς</l>
 					<l>ἐξώρμισαι σὸν πόδα· λαβοῦ δ’ αὐτοῦ, τέκνον·</l>
@@ -1781,7 +1781,7 @@ bring up to P3
 					<speaker>Τειρεσίας</speaker>
 					<l>εἶἑν, πάρεσμεν· τί με καλεῖς σπουδῇ, Κρέον;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l n="850">οὔπω λελήσμεθ’· ἀλλὰ σύλλεξαι σθένος</l>
 					<l>καὶ πνεῦμ’ ἄθροισον, αἶπος ἐκβαλὼν ὁδοῦ.</l>
@@ -1795,7 +1795,7 @@ bring up to P3
 					<l>καὶ τόνδε χρυσοῦν στέφανον, ὡς ὁρᾷς, ἔχω</l>
 					<l>λαβὼν ἀπαρχὰς πολεμίων σκυλευμάτων.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>οἰωνὸν ἐθέμην καλλίνικα σὰ στέφη·</l>
 					<l>ἐν γὰρ κλύδωνι κείμεθ’, ὥσπερ οἶσθα σύ,</l>
@@ -1840,7 +1840,7 @@ bring up to P3
 					<l>ἄπειμι. χαίρεθ’· εἷς γὰρ ὢν πολλῶν μέτα</l>
 					<l n="895">τὸ μέλλον, εἰ χρή, πείσομαι· τί γὰρ πάθω;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>ἐπίσχες αὐτοῦ, πρέσβυ.</l>
 				</sp>
@@ -1848,7 +1848,7 @@ bring up to P3
 					<speaker>Τειρεσίας</speaker>
 					<l part="Y">μὴ ’πιλαμβάνου.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>μεῖνον, τί φεύγεις;</l>
 				</sp>
@@ -1856,7 +1856,7 @@ bring up to P3
 					<speaker>Τειρεσίας</speaker>
 					<l part="Y">ἡ τύχη σ’, ἀλλ’ οὐκ ἐγώ.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>φράσον πολίταις καὶ πόλει σωτηρίαν.</l>
 				</sp>
@@ -1864,7 +1864,7 @@ bring up to P3
 					<speaker>Τειρεσίας</speaker>
 					<l>βούλῃ σὺ μέντοι κοὐχὶ βουλήσῃ τάχα.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l n="900">καὶ πῶς πατρῴαν γαῖαν οὐ σῷσαι θέλω;</l>
 				</sp>
@@ -1872,7 +1872,7 @@ bring up to P3
 					<speaker>Τειρεσίας</speaker>
 					<l>θέλεις ἀκοῦσαι δῆτα καὶ σπουδὴν ἔχεις;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>ἐς γὰρ τί μᾶλλον δεῖ προθυμίαν ἔχειν;</l>
 				</sp>
@@ -1882,7 +1882,7 @@ bring up to P3
 					<l>πρῶτον δ’ ἐκεῖνο βούλομαι σαφῶς μαθεῖν,</l>
 					<l n="905">ποῦ ’στιν Μενοικεύς, ὅς με δεῦρ’ ἐπήγαγεν;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>ὅδ’ οὐ μακρὰν ἄπεστι, πλησίον δὲ σοῦ.</l>
 				</sp>
@@ -1890,7 +1890,7 @@ bring up to P3
 					<speaker>Τειρεσίας</speaker>
 					<l>ἀπελθέτω νυν θεσφάτων ἐμῶν ἑκάς.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>ἐμὸς πεφυκὼς παῖς ἃ δεῖ σιγήσεται.</l>
 				</sp>
@@ -1898,7 +1898,7 @@ bring up to P3
 					<speaker>Τειρεσίας</speaker>
 					<l>βούλῃ παρόντος δῆτά σοι τούτου φράσω;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l n="910">κλύων γὰρ ἂν τέρποιτο τῆς σωτηρίας.</l>
 					<milestone ed="p" n="911" unit="card"/>
@@ -1910,7 +1910,7 @@ bring up to P3
 					<l>σφάξαι Μενοικέα τόνδε δεῖ σ’ ὑπὲρ πάτρας,</l>
 					<l>σὸν παῖδ’, ἐπειδὴ τὴν τύχην αὐτὸς καλεῖς.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l n="915">τί φῄς; τίν’ εἶπας τόνδε μῦθον, ὦ γέρον;</l>
 				</sp>
@@ -1918,7 +1918,7 @@ bring up to P3
 					<speaker>Τειρεσίας</speaker>
 					<l>ἅπερ πέφυκε, ταῦτα κἀνάγκη σὲ δρᾶν.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>ὦ πολλὰ λέξας ἐν βραχεῖ χρόνῳ κακά.</l>
 				</sp>
@@ -1926,7 +1926,7 @@ bring up to P3
 					<speaker>Τειρεσίας</speaker>
 					<l>σοί γ’, ἀλλὰ πατρίδι μεγάλα καὶ σωτήρια.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>οὐκ ἔκλυον, οὐκ ἤκουσα· χαιρέτω πόλις.</l>
 				</sp>
@@ -1934,7 +1934,7 @@ bring up to P3
 					<speaker>Τειρεσίας</speaker>
 					<l n="920">ἁνὴρ ὅδ’ οὐκέθ’ αὑτός· ἐκνεύει πάλιν.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>χαίρων ἴθ’· οὐ γὰρ σῶν με δεῖ μαντευμάτων.</l>
 				</sp>
@@ -1942,7 +1942,7 @@ bring up to P3
 					<speaker>Τειρεσίας</speaker>
 					<l>ἀπόλωλεν ἡ ἀλήθεῑ, ἐπεὶ σὺ δυστυχεῖς;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>ὦ πρός σε γονάτων καὶ γερασμίου τριχὸς — </l>
 				</sp>
@@ -1950,7 +1950,7 @@ bring up to P3
 					<speaker>Τειρεσίας</speaker>
 					<l>τί προσπίτνεις με; δυσφύλακτ’ αἰτῇ κακά.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l n="925">σίγα· πόλει δὲ τούσδε μὴ λέξῃς λόγους.</l>
 				</sp>
@@ -1958,7 +1958,7 @@ bring up to P3
 					<speaker>Τειρεσίας</speaker>
 					<l>ἀδικεῖν κελεύεις μ’· οὐ σιωπήσαιμεν ἄν.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>τί δή με δράσεις; παῖδά μου κατακτενεῖς;</l>
 				</sp>
@@ -1966,7 +1966,7 @@ bring up to P3
 					<speaker>Τειρεσίας</speaker>
 					<l>ἄλλοις μελήσει ταῦτ’, ἐμοὶ δ’ εἰρήσεται.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>ἐκ τοῦ δ’ ἐμοὶ τόδ’ ἦλθε καὶ τέκνῳ κακόν;</l>
 				</sp>
@@ -2015,7 +2015,7 @@ bring up to P3
 					<l n="960">Κρέον, τί σιγᾷς γῆρυν ἄφθογγον σχάσας;</l>
 					<l>κἀμοὶ γὰρ οὐδὲν ἧσσον ἔκπληξις πάρα.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>τί δ’ ἄν τις εἴποι; δῆλον οἵ γ’ ἐμοὶ λόγοι.</l>
 					<l>ἐγὼ γὰρ οὔποτ’ ἐς τόδ’ εἶμι συμφορᾶς,</l>
@@ -2036,63 +2036,63 @@ bring up to P3
 					<l n="975">κἂν μὲν φθάσωμεν, ἔστι σοι σωτηρία·</l>
 					<l>ἢν δ’ ὑστερήσῃς, οἰχόμεσθα, κατθανῇ.</l>
 				</sp>
-				<sp who="#menoikeus">
+				<sp who="#menoikeys">
 					<speaker>Μενοικεύς</speaker>
 					<l>ποῖ δῆτα φεύγω; τίνα πόλιν; τίνα ξένων;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>ὅπου χθονὸς τῆσδ’ ἐκποδὼν μάλιστ’ ἔσῃ.</l>
 				</sp>
-				<sp who="#menoikeus">
+				<sp who="#menoikeys">
 					<speaker>Μενοικεύς</speaker>
 					<l>οὐκοῦν σὲ φράζειν εἰκός, ἐκπονεῖν δ’ ἐμέ.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l n="980">Δελφοὺς περάσας — </l>
 				</sp>
-				<sp who="#menoikeus">
+				<sp who="#menoikeys">
 					<speaker>Μενοικεύς</speaker>
 					<l part="Y">ποῖ με χρή, πάτερ, μολεῖν;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>Αἰτωλίδ’ ἐς γῆν.</l>
 				</sp>
-				<sp who="#menoikeus">
+				<sp who="#menoikeys">
 					<speaker>Μενοικεύς</speaker>
 					<l part="Y">ἐκ δὲ τῆσδε ποῖ περῶ;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>Θεσπρωτὸν οὖδας.</l>
 				</sp>
-				<sp who="#menoikeus">
+				<sp who="#menoikeys">
 					<speaker>Μενοικεύς</speaker>
 					<l part="Y">σεμνὰ Δωδώνης βάθρα;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>ἔγνως.</l>
 				</sp>
-				<sp who="#menoikeus">
+				<sp who="#menoikeys">
 					<speaker>Μενοικεύς</speaker>
 					<l part="Y">τί δὴ τόδ’ ἔρυμά μοι γενήσεται;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>πόμπιμος ὁ δαίμων.</l>
 				</sp>
-				<sp who="#menoikeus">
+				<sp who="#menoikeys">
 					<speaker>Μενοικεύς</speaker>
 					<l part="Y">χρημάτων δὲ τίς πόρος;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l n="985">ἐγὼ πορεύσω χρυσόν.</l>
 				</sp>
-				<sp n="Μενοικεύς" who="#menoikeus">
+				<sp n="Μενοικεύς" who="#menoikeys">
 					<speaker>Μενοικεύς</speaker>
 					<l part="Y">εὖ λέγεις, πάτερ.</l>
 					<l>χώρει νυν· ὡς σὴν πρὸς κασιγνήτην μολών,</l>
@@ -2215,7 +2215,7 @@ bring up to P3
 					<l n="1070">ἔξελθ’, ἄκουσον, Οἰδίπου κλεινὴ δάμαρ,</l>
 					<l>λήξασ’ ὀδυρμῶν πενθίμων τε δακρύων.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>ὦ φίλτατ’, οὔ που ξυμφορὰν ἥκεις φέρων</l>
 					<l>Ἐτεοκλέους θανόντος, οὗ παρ’ ἀσπίδα</l>
@@ -2227,7 +2227,7 @@ bring up to P3
 					<speaker>Ἄγγελος</speaker>
 					<l>ζῇ, μὴ τρέσῃς τόδ’, ὥς &lt;σ’&gt; ἀπαλλάξω φόβου.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>τί δ’; ἑπτάπυργοι πῶς ἔχουσι περιβολαί;</l>
 				</sp>
@@ -2235,7 +2235,7 @@ bring up to P3
 					<speaker>Ἄγγελος</speaker>
 					<l>ἑστᾶσ’ ἄθραυστοι, κοὐκ ἀνήρπασται πόλις.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l n="1080">ἦλθον δὲ πρὸς κίνδυνον Ἀργείου δορός;</l>
 				</sp>
@@ -2244,7 +2244,7 @@ bring up to P3
 					<l>ἀκμήν γ’ ἐπ’ αὐτήν· ἀλλ’ ὁ Καδμείων Ἄρης</l>
 					<l>κρείσσων κατέστη τοῦ Μυκηναίου δορός.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>ἓν εἰπὲ πρὸς θεῶν, εἴ τι Πολυνείκους πέρι</l>
 					<l>οἶσθ’· ὡς μέλει μοι καὶ τόδ’, εἰ λεύσσει φάος.</l>
@@ -2253,7 +2253,7 @@ bring up to P3
 					<speaker>Ἄγγελος</speaker>
 					<l n="1085">ζῇ σοι ξυνωρὶς ἐς τόδ’ ἡμέρας τέκνων.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>εὐδαιμονοίης. πῶς γὰρ Ἀργείων δόρυ</l>
 					<l>πυλῶν ἀπεστήσασθε πυργηρούμενοι;</l>
@@ -2411,7 +2411,7 @@ bring up to P3
 					<l>γνώμην ἔχουσιν — εὐτυχὴς εἴην ἐγώ.</l>
 					<milestone ed="p" n="1202" unit="card"/>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>καλῶς τὰ τῶν θεῶν καὶ τὰ τῆς τύχης ἔχει·</l>
 					<l>παῖδές τε γάρ μοι ζῶσι κἀκπέφευγε γῆ.</l>
@@ -2425,7 +2425,7 @@ bring up to P3
 					<speaker>Ἄγγελος</speaker>
 					<l>ἔα τὰ λοιπά· δεῦρ’ ἀεὶ γὰρ εὐτυχεῖς.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l n="1210">τοῦτ’ εἰς ὕποπτον εἶπας· οὐκ ἐατέον.</l>
 				</sp>
@@ -2433,7 +2433,7 @@ bring up to P3
 					<speaker>Ἄγγελος</speaker>
 					<l>μεῖζον τί χρῄζεις παῖδας ἢ σεσῳσμένους;</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>καὶ τἀπίλοιπά γ’ εἰ καλῶς πράσσω κλύειν.</l>
 				</sp>
@@ -2441,7 +2441,7 @@ bring up to P3
 					<speaker>Ἄγγελος</speaker>
 					<l>μέθες μ’· ἔρημος παῖς ὑπασπιστοῦ σέθεν.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>κακόν τι κεύθεις καὶ στέγεις ὑπὸ σκότῳ.</l>
 				</sp>
@@ -2449,7 +2449,7 @@ bring up to P3
 					<speaker>Ἄγγελος</speaker>
 					<l n="1215">κοὐκ ἄν γε λέξαιμ’ ἐπ’ ἀγαθοῖσι σοῖς κακά.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>ἢν μή γε φεύγων ἐκφύγῃς πρὸς αἰθέρα.</l>
 				</sp>
@@ -2510,7 +2510,7 @@ bring up to P3
 					<l>κἄπαθλα δεινὰ δάκρυά σοι γενήσεται</l>
 					<l>δισσοῖν στερείσῃ τῇδ’ ἐν ἡμέρᾳ τέκνοιν.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>ὦ τέκνον ἔξελθ’ Ἀντιγόνη δόμων πάρος·</l>
 					<l n="1265">οὐκ ἐν χορείαις οὐδὲ παρθενεύμασι</l>
@@ -2519,68 +2519,68 @@ bring up to P3
 					<l>ἐς θάνατον ἐκνεύοντε κωλῦσαί σε δεῖ</l>
 					<l>ξὺν μητρὶ τῇ σῇ μὴ πρὸς ἀλλήλοιν θανεῖν.</l>
 				</sp>
-				<sp who="#antigonh">
+				<sp who="#antigone">
 					<speaker>Ἀντιγόνη</speaker>
 					<l n="1270">τίν’, ὦ τεκοῦσα μῆτερ, ἔκπληξιν νέαν</l>
 					<l>φίλοις ἀυτεῖς τῶνδε δωμάτων πάρος;</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>ὦ θύγατερ, ἔρρει σῶν κασιγνήτων βίος.</l>
 				</sp>
-				<sp who="#antigonh">
+				<sp who="#antigone">
 					<speaker>Ἀντιγόνη</speaker>
 					<l>πῶς εἶπας;</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l part="Y">αἰχμὴν ἐς μίαν καθέστατον.</l>
 				</sp>
-				<sp who="#antigonh">
+				<sp who="#antigone">
 					<speaker>Ἀντιγόνη</speaker>
 					<l>οἲ ’γώ, τί λέξεις, μῆτερ;</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l part="Y">οὐ φίλ’, ἀλλ’ ἕπου.</l>
 				</sp>
-				<sp who="#antigonh">
+				<sp who="#antigone">
 					<speaker>Ἀντιγόνη</speaker>
 					<l n="1275">ποῖ, παρθενῶνας ἐκλιποῦσ’;</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l part="Y">ἀνὰ στρατόν.</l>
 				</sp>
-				<sp who="#antigonh">
+				<sp who="#antigone">
 					<speaker>Ἀντιγόνη</speaker>
 					<l>αἰδούμεθ’ ὄχλον.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l part="Y">οὐκ ἐν αἰσχύνῃ τὰ σά.</l>
 				</sp>
-				<sp who="#antigonh">
+				<sp who="#antigone">
 					<speaker>Ἀντιγόνη</speaker>
 					<l>δράσω δὲ δὴ τί;</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l part="Y">συγγόνων λύσεις ἔριν.</l>
 				</sp>
-				<sp who="#antigonh">
+				<sp who="#antigone">
 					<speaker>Ἀντιγόνη</speaker>
 					<l>τί δρῶσα, μῆτερ;</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l part="Y">προσπίτνουσ’ ἐμοῦ μέτα.</l>
 				</sp>
-				<sp who="#antigonh">
+				<sp who="#antigone">
 					<speaker>Ἀντιγόνη</speaker>
 					<l>ἡγοῦ σὺ πρὸς μεταίχμῑ· οὐ μελλητέον.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l n="1280">ἔπειγ’ ἔπειγε, θύγατερ· ὡς, ἢν μὲν φθάσω</l>
 					<l>παῖδας πρὸ λόγχης, οὑμὸς ἐν φάει βίος·</l>
@@ -2632,7 +2632,7 @@ bring up to P3
 					<l>πρὸς δόμους στείχοντα, παύσω τοὺς παρεστῶτας γόους.</l>
 					<milestone ed="p" n="1310" unit="card"/>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l n="1310">οἴμοι, τί δράσω; πότερ’ ἐμαυτὸν ἢ πόλιν</l>
 					<l>στένω δακρύσας, ἣν πέριξ ἔχει νέφος</l>
@@ -2652,7 +2652,7 @@ bring up to P3
 					<l>βέβηκ’ ἀδελφὴ σή, Κρέων, ἔξω δόμων</l>
 					<l>κόρη τε μητρὸς Ἀντιγόνη κοινῷ ποδί.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>ποῖ; κἀπὶ ποίαν συμφοράν; σήμαινέ μοι.</l>
 				</sp>
@@ -2661,7 +2661,7 @@ bring up to P3
 					<l n="1325">ἤκουσε τέκνα μονομάχῳ μέλλειν δορὶ</l>
 					<l>ἐς ἀσπίδ’ ἥξειν βασιλικῶν δόμων ὕπερ.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>πῶς φῄς; νέκυν τοι παιδὸς ἀγαπάζων ἐμοῦ</l>
 					<l>οὐκ ἐς τόδ’ ἦλθον ὥστε καὶ τάδ’ εἰδέναι.</l>
@@ -2672,7 +2672,7 @@ bring up to P3
 					<l n="1330">δοκῶ δ’ ἀγῶνα τὸν περὶ ψυχῆς, Κρέον,</l>
 					<l>ἤδη πεπρᾶχθαι παισὶ τοῖσιν Οἰδίπου.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>οἴμοι, τὸ μὲν σημεῖον εἰσορῶ τόδε,</l>
 					<l>σκυθρωπὸν ὄμμα καὶ πρόσωπον ἀγγέλου</l>
@@ -2684,7 +2684,7 @@ bring up to P3
 						<speaker>Ἄγγελος</speaker>
 						<l n="1335">ὦ τάλας ἐγώ, τίν’ εἴπω μῦθον ἢ τίνας γόους;</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l>οἰχόμεσθ’· οὐκ εὐπροσώποις φροιμίοις ἄρχῃ λόγου.</l>
 					</sp>
@@ -2692,7 +2692,7 @@ bring up to P3
 						<speaker>Ἄγγελος</speaker>
 						<l>ὦ τάλας, δισσῶς ἀυτῶ· μεγάλα γὰρ φέρω κακά.</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l>πρὸς πεπραγμένοισιν ἄλλοις πήμασιν. λέγεις δὲ τί;</l>
 					</sp>
@@ -2701,7 +2701,7 @@ bring up to P3
 						<l>οὐκέτ’ εἰσὶ σῆς ἀδελφῆς παῖδες ἐν φάει, Κρέον.</l>
 						<milestone ed="p" n="1340" unit="card"/>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l n="1340">αἰαῖ·</l>
 						<!-- two dochmiacs, marked lyric -->
@@ -2713,7 +2713,7 @@ bring up to P3
 						<speaker>Χορός</speaker>
 						<l>ὥστ’ ἂν δακρῦσαί γ’, εἰ φρονοῦντ’ ἐτύγχανεν.</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<!-- dochmiacs -->
 						<l n="1345">οἴμοι ξυμφορᾶς βαρυποτμωτάτας,</l>
@@ -2723,7 +2723,7 @@ bring up to P3
 						<speaker>Ἄγγελος</speaker>
 						<l>εἰ καὶ τὰ πρὸς τούτοισί γ’ εἰδείης κακά.</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l>καὶ πῶς γένοιτ’ ἂν τῶνδε δυσποτμώτερα;</l>
 					</sp>
@@ -2738,7 +2738,7 @@ bring up to P3
 						<l n="1350">ἀνάγετ’ ἀνάγετε κωκυ‐</l>
 						<l>τόν, ἐπὶ κάρα τε λευκοπήχεις κτύπους χεροῖν.</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l>ὦ τλῆμον, οἷον τέρμον’, Ἰοκάστη, βίου</l>
 						<l>γάμων τε τῶν σῶν Σφιγγὸς αἰνιγμοὺς ἔτλης.</l>
@@ -2910,7 +2910,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="lyric">
-					<sp n="Ἄντιγόνη" who="#antigonh">
+					<sp n="Ἄντιγόνη" who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l n="1485">οὐ προκαλυπτομένα βοτρυχώδεος</l>
 						<l>ἁβρὰ παρηίδος οὐδ’ ὑπὸ παρθενί‐</l>
@@ -2969,7 +2969,7 @@ bring up to P3
 						<l>πόδ’ ἢ δεμνίοις δύ‐</l>
 						<l>στανος ἰαύων;</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>τί μ’, ὦ παρθένε, βακτρεύμασι τυφλοῦ</l>
 						<l n="1540">ποδὸς ἐξάγαγες ἐς φῶς</l>
@@ -2979,7 +2979,7 @@ bring up to P3
 						<l>νέκυν ἔνερθεν ἢ</l>
 						<l n="1545">πτανὸν ὄνειρον;</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>δυστυχὲς ἀγγελίας ἔπος οἴσῃ,</l>
 						<l>πάτερ, οὐκέτι σοι τέκνα λεύσσει</l>
@@ -2987,14 +2987,14 @@ bring up to P3
 						<l>ἃ πόδα σὸν τυφλόπουν θεραπεύμασιν αἰὲν ἐμόχθει,</l>
 						<l n="1550">&lt;ὦ&gt; πάτερ, ὤμοι.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>ὤμοι ἐμῶν παθέων· πάρα γὰρ στενάχειν τάδ’, ἀυτεῖν.</l>
 						<l>τρισσαὶ ψυχαί· ποίᾳ μοίρᾳ</l>
 						<l n="1554">πῶς ἔλιπον φάος; ὦ τέκνον, αὔδα.</l>
 						<milestone ed="p" n="1555" unit="card"/>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l n="1555">οὐκ ἐπ’ ὀνείδεσιν οὐδ’ ἐπιχάρμασιν,</l>
 						<l>ἀλλ’ ὀδύναισι λέγω· σὸς ἀλάστωρ</l>
@@ -3002,31 +3002,31 @@ bring up to P3
 						<l>καὶ πυρὶ καὶ σχετλίαισι μάχαις ἐπὶ παῖδας ἔβα σούς,</l>
 						<l>ὦ πάτερ, ὤ μοι.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l n="1560">αἰαῖ.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l part="Y">τί τάδε καταστένεις,</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>τέκνα.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l part="Y">δῑ ὀδύνας ἔβας·</l>
 						<l>εἰ δὲ τέθριππά γ’ ἔθ’ ἅρματα λεύσσων</l>
 						<l>ἀελίου τάδε σώματα νεκρῶν</l>
 						<l>ὄμματος αὐγαῖς σαῖς ἐπενώμας — </l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l n="1565">τῶν μὲν ἐμῶν τεκέων φανερὸν κακόν·</l>
 						<l>ἁ δὲ τάλαιν’ ἄλοχος τίνι μοι, τέκνον, ὤλετο μοίρᾳ;</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>δάκρυα γοερὰ</l>
 						<l>φανερὰ πᾶσι τιθεμένα,</l>
@@ -3053,7 +3053,7 @@ bring up to P3
 						<l>πολλῶν κακῶν κατῆρξεν Οἰδίπου δόμοις</l>
 						<l>τόδ’ ἦμαρ· εἴη δ’ εὐτυχέστερος βίος.</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l>οἴκτων μὲν ἤδη λήγεθ’, ὡς ὥρα τάφου</l>
 						<l n="1585">μνήμην τίθεσθαι· τόνδε δ’, Οἰδίπου, λόγον</l>
@@ -3067,7 +3067,7 @@ bring up to P3
 						<l>οὐδ’ ἐχθρὸς ὢν σός, διὰ δὲ τοὺς ἀλάστορας</l>
 						<l>τοὺς σοὺς δεδοικὼς μή τι γῆ πάθῃ κακόν.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l n="1595">ὦ μοῖρ’, ἀπ’ ἀρχῆς ὥς μ’ ἔφυσας ἄθλιον</l>
 						<l>καὶ τλήμον’, εἴ τις ἄλλος ἀνθρώπων ἔφυ·</l>
@@ -3105,7 +3105,7 @@ bring up to P3
 						<l>οὐκ ἂν προδοίην, οὐδέ περ πράσσων κακῶς.</l>
 					</sp>
 					<milestone ed="p" n="1625" unit="card"/>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l n="1625">σοί τ’ εὖ λέλεκται γόνατα μὴ χρῴζειν ἐμά,</l>
 						<l>ἐγὼ δὲ ναίειν σ’ οὐκ ἐάσαιμ’ ἂν χθόνα.</l>
@@ -3122,7 +3122,7 @@ bring up to P3
 						<l>καὶ παρθενεύου τὴν ἰοῦσαν ἡμέραν</l>
 						<l>μένουσ’, ἐν ᾗ σε λέκτρον Αἵμονος μένει.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>ὦ πάτερ, ἐν οἵοις κείμεθ’ ἄθλιοι κακοῖς.</l>
 						<l n="1640">ὥς σε στενάζω τῶν τεθνηκότων πλέον·</l>
@@ -3132,252 +3132,252 @@ bring up to P3
 						<l>τί τόνδ’ ὑβρίζεις πατέρ’ ἀποστέλλων χθονός;</l>
 						<l n="1645">τί θεσμοποιεῖς ἐπὶ ταλαιπώρῳ νεκρῷ;</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l>Ἐτεοκλέους βουλεύματ’, οὐχ ἡμῶν, τάδε.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>ἄφρονά γε, καὶ σὺ μῶρος ὃς ἐπίθου τάδε.</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l>πῶς; τἀντεταλμέν’ οὐ δίκαιον ἐκπονεῖν;</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>οὔκ, ἢν πονηρά γ’ ᾖ κακῶς τ’ εἰρημένα.</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l n="1650">τί δ’; οὐ δικαίως ὅδε κυσὶν δοθήσεται;</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>οὐκ ἔννομον γὰρ τὴν δίκην πράσσεσθέ νιν.</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l>εἴπερ γε πόλεως ἐχθρὸς ἦν οὐκ ἐχθρὸς ὤν.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>οὐκοῦν ἔδωκε τῇ τύχῃ τὸν δαίμονα.</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l>καὶ τῷ τάφῳ νυν τὴν δίκην παρασχέτω.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l n="1655">τί πλημμελήσας, τὸ μέρος εἰ μετῆλθε γῆς;</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l>ἄταφος ὅδ’ ἁνήρ, ὡς μάθῃς, γενήσεται.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>ἐγώ σφε θάψω, κἂν ἀπεννέπῃ πόλις.</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l>σαυτὴν ἄρ’ ἐγγὺς τῷδε συνθάψεις νεκρῷ.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>ἀλλ’ εὐκλεές τοι δύο φίλω κεῖσθαι πέλας.</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l n="1660">λάζυσθε τήνδε κἀς δόμους κομίζετε.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>οὐ δῆτ’, ἐπεὶ τοῦδ’ οὐ μεθήσομαι νεκροῦ.</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l>ἔκριν’ ὁ δαίμων, παρθέν’, οὐχ ἃ σοὶ δοκεῖ.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>κἀκεῖνο κέκριται, μὴ ἐφυβρίζεσθαι νεκρούς.</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l>ὡς οὔτις ἀμφὶ τῷδ’ ὑγρὰν θήσει κόνιν.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l n="1665">ναὶ πρός σε τῆσδε μητρὸς Ἰοκάστης, Κρέον.</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l>μάταια μοχθεῖς· οὐ γὰρ ἂν τύχοις τάδε.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>σὺ δ’ ἀλλὰ νεκρῷ λουτρὰ περιβαλεῖν μ’ ἔα.</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l>ἓν τοῦτ’ ἂν εἴη τῶν ἀπορρήτων πόλει.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>ἀλλ’ ἀμφὶ τραύματ’ ἄγρια τελαμῶνας βαλεῖν.</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l n="1670">οὐκ ἔσθ’ ὅπως σὺ τόνδε τιμήσεις νέκυν.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>ὦ φίλτατ’, ἀλλὰ στόμα γε σὸν προσπτύξομαι.</l>
 						<milestone ed="p" n="1672" unit="card"/>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l>οὐ μὴ ἐς γάμους σοὺς συμφορὰν κτήσῃ γόοις.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>ἦ γὰρ γαμοῦμαι ζῶσα παιδὶ σῷ ποτε;</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l>πολλή σ’ ἀνάγκη· ποῖ γὰρ ἐκφεύξῃ λέχος;</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l n="1675">νὺξ ἆρ’ ἐκείνη Δαναΐδων μ’ ἕξει μίαν.</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l>εἶδες τὸ τόλμημ’ οἷον ἐξωνείδισεν;</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>ἴστω σίδηρος ὅρκιόν τέ μοι ξίφος.</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l>τί δ’ ἐκπροθυμῇ τῶνδ’ ἀπηλλάχθαι γάμων;</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>συμφεύξομαι τῷδ’ ἀθλιωτάτῳ πατρί.</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l n="1680">γενναιότης σοι, μωρία δ’ ἔνεστί τις.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>καὶ ξυνθανοῦμαί γ’, ὡς μάθῃς περαιτέρω.</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l>ἴθ’, οὐ φονεύσεις παῖδ’ ἐμόν, λίπε χθόνα.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>ὦ θύγατερ, αἰνῶ μέν σε τῆς προθυμίας.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>ἀλλ’ εἰ γαμοίμην, σὺ δὲ μόνος φεύγοις, πάτερ;</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l n="1685">μέν’ εὐτυχοῦσα, τἄμ’ ἐγὼ στέρξω κακά.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>καὶ τίς σε τυφλὸν ὄντα θεραπεύσει, πάτερ;</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>πεσὼν ὅπου μοι μοῖρα κείσομαι πέδῳ.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>ὁ δ’ Οἰδίπους ποῦ καὶ τὰ κλείν’ αἰνίγματα;</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>ὄλωλ’· ἓν ἦμάρ μ’ ὤλβισ’, ἓν δ’ ἀπώλεσεν.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l n="1690">οὔκουν μετασχεῖν κἀμὲ δεῖ τῶν σῶν κακῶν;</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>αἰσχρὰ φυγὴ θυγατρὶ σὺν τυφλῷ πατρί.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>οὔ, σωφρονούσῃ γ’, ἀλλὰ γενναία, πάτερ.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>προσάγαγέ νύν με, μητρὸς ὡς ψαύσω σέθεν.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>ἰδού, γεραιᾶς φιλτάτης ψαῦσον χερί.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l n="1695">ὦ μῆτερ, ὦ ξυνάορ’ ἀθλιωτάτη.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>οἰκτρὰ πρόκειται, πάντ’ ἔχουσ’ ὁμοῦ κακά.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>Ἐτεοκλέους δὲ πτῶμα Πολυνείκους τε ποῦ;</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>τώδ’ ἐκτάδην σοι κεῖσθον ἀλλήλοιν πέλας.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>πρόσθες τυφλὴν χεῖρ’ ἐπὶ πρόσωπα δυστυχῆ.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l n="1700">ἰδού, θανόντων σῶν τέκνων ἅπτου χερί.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>ὦ φίλα πεσήματ’ ἄθλῑ ἀθλίου πατρός.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>ὦ φίλτατον δῆτ’ ὄνομα Πολυνείκους ἐμοί.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>νῦν χρησμός, ὦ παῖ, Λοξίου περαίνεται.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>ὁ ποῖος; ἀλλ’ ἦ πρὸς κακοῖς ἐρεῖς κακά;</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l n="1705">ἐν ταῖς Ἀθήναις κατθανεῖν μ’ ἀλώμενον.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>ποῦ; τίς σε πύργος Ἀτθίδος προσδέξεται;</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>ἱερὸς Κολωνός, δώμαθ’ ἱππίου θεοῦ.</l>
 						<l>ἀλλ’ εἶα, τυφλῷ τῷδ’ ὑπηρέτει πατρί,</l>
@@ -3386,52 +3386,52 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="lyric">
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l n="1710">ἴθ’ ἐς φυγὰν τάλαιναν· ὄρεγε χέρα φίλαν,</l>
 						<l>πάτερ γεραιέ, πομπίμαν</l>
 						<l>ἔχων ἔμ’ ὥστε ναυσίπομπον αὔραν.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>&lt;ἰδοὺ&gt; ἰδού, πορεύομαι·</l>
 						<l n="1715">τέκνον, σύ μοι ποδαγὸς ἀθλία γενοῦ.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>γενόμεθα γενόμεθ’, ἄθλιαί</l>
 						<l>γε δῆτα Θηβαιᾶν μάλιστα παρθένων.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>πόθι γεραιὸν ἴχνος τίθημι;</l>
 						<l>βάκτρα πρόσφερ’, ὦ τέκνον.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l n="1720">τᾷδε τᾷδε βᾶθί μοι,</l>
 						<l>τᾷδε τᾷδε πόδα τιθείς,</l>
 						<l>ὥστ’ ὄνειρον ἰσχύν.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>ἰὼ ἰώ, δυστυχεστάτας φυγὰς</l>
 						<l>ἐλαύνων τὸν γέροντά μ’ ἐκ πάτρας.</l>
 						<l n="1725">ἰὼ ἰώ, δεινὰ δείν’ ἐγὼ τλάς.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>τί τλάς; τί τλάς; οὐχ ὁρᾷ Δίκα κακούς,</l>
 						<l>οὐδ’ ἀμείβεται βροτῶν ἀσυνεσίας.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>ὅδ’ εἰμὶ μοῦσαν ὃς ἐπὶ καλ‐</l>
 						<l>λίνικον οὐράνιον ἔβαν</l>
 						<l n="1730">&lt;μειξο&gt;παρθένου κόρας</l>
 						<l>αἴνιγμ’ ἀσύνετον εὑρών.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>Σφιγγὸς ἀναφέρεις ὄνειδος.</l>
 						<l>ἄπαγε τὰ πάρος εὐτυχήματ’ αὐδῶν.</l>
@@ -3452,28 +3452,28 @@ bring up to P3
 						<l n="1745">μέλεος, ὅν, εἴ με καὶ θανεῖν, πάτερ, χρεών,</l>
 						<l>σκότια γᾷ καλύψω.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>πρὸς ἥλικας φάνηθι σάς.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>ἅλις ὀδυρμάτων ἐμῶν.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>σὺ δ’ ἀμφὶ βωμίους λιτὰς — </l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l n="1750">κόρον ἔχουσ’ ἐμῶν κακῶν.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>ἴθ’ ἀλλὰ Βρόμιος ἵνα τε σηκὸς</l>
 						<l>ἄβατος ὄρεσι μαινάδων.</l>
 					</sp>
-					<sp who="#antigonh">
+					<sp who="#antigone">
 						<speaker>Ἀντιγόνη</speaker>
 						<l>Καδμείαν ᾧ νεβρίδα</l>
 						<l>στολιδωσαμένα ποτ’ ἐγὼ Σεμέλας</l>
@@ -3483,7 +3483,7 @@ bring up to P3
 					<milestone ed="p" n="1758" unit="card"/>
 				</div2>
 				<div2 type="trochees">
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>ὦ πάτρας κλεινῆς πολῖται, λεύσσετ’, Οἰδίπους ὅδε,</l>
 						<l>ὃς τὰ κλείν’ αἰνίγματ’ ἔγνω καὶ μέγιστος ἦν ἀνήρ,</l>

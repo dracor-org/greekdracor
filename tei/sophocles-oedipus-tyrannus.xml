@@ -33,6 +33,7 @@
 							<publisher>Cambridge University Press</publisher>
 							<date>1887</date>
 						</imprint>
+						<date type="premiere" when="-429">429 BCE</date>
 					</bibl>
 				</biblStruct>
 			</sourceDesc>
@@ -45,7 +46,6 @@
 						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
 					</licence>
 				</availability>
-				<date type="premiere" when="-429">429 BCE</date>
 			</bibl>
 		</fileDesc>
 		<profileDesc>
@@ -177,7 +177,7 @@ convert to TEI P3
 		<body n="OT">
 			<div1 type="episode">
 				<milestone ed="p" n="1" unit="card"/>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ὦ τέκνα, Κάδμου τοῦ πάλαι νέα τροφή,</l>
 					<l>τίνας ποθ’ ἕδρας τάσδε μοι θοάζετε</l>
@@ -194,7 +194,7 @@ convert to TEI P3
 					<l>εἴην τοιάνδε μὴ οὐ κατοικτίρων ἕδραν.</l>
 					<milestone ed="p" n="14" unit="card"/>
 				</sp>
-				<sp who="#iereus">
+				<sp who="#iereys">
 					<speaker>Ἱερεύς</speaker>
 					<l>ἀλλ’ ὦ κρατύνων Οἰδίπους χώρας ἐμῆς,</l>
 					<l n="15">ὁρᾷς μὲν ἡμᾶς ἡλίκοι προσήμεθα</l>
@@ -242,7 +242,7 @@ convert to TEI P3
 					<l>ἔρημος ἀνδρῶν μὴ ξυνοικούντων ἔσω.</l>
 					<milestone ed="p" n="58" unit="card"/>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ὦ παῖδες οἰκτροί, γνωτὰ κοὐκ ἄγνωτά μοι</l>
 					<l>προσήλθεθ’ ἱμείροντες·  εὖ γὰρ οἶδ’ ὅτι</l>
@@ -266,144 +266,144 @@ convert to TEI P3
 					<l>μὴ δρῶν ἂν εἴην πάνθ’ ὅσ’ ἂν δηλοῖ θεός.</l>
 					<milestone ed="p" n="78" unit="card"/>
 				</sp>
-				<sp who="#iereus">
+				<sp who="#iereys">
 					<speaker>Ἱερεύς</speaker>
 					<l>ἀλλ’ εἰς καλὸν σύ τ’ εἶπας οἵδε τ’ ἀρτίως</l>
 					<l>Κρέοντα προσστείχοντα σημαίνουσί μοι.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="80">ὦναξ Ἄπολλον, εἰ γὰρ ἐν τύχῃ γέ τῳ</l>
 					<l>σωτῆρι βαίη λαμπρὸς ὥσπερ ὄμματι</l>
 				</sp>
-				<sp who="#iereus">
+				<sp who="#iereys">
 					<speaker>Ἱερεύς</speaker>
 					<l>ἀλλ’ εἰκάσαι μέν, ἡδύς·  οὐ γὰρ ἂν κάρα</l>
 					<l>πολυστεφὴς ὧδ’ εἷρπε παγκάρπου δάφνης.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>τάχ’ εἰσόμεσθα·  ξύμμετρος γὰρ ὡς κλύειν.</l>
 					<l n="85">ἄναξ, ἐμὸν κήδευμα, παῖ Μενοικέως,</l>
 					<l>τίν’ ἡμὶν ἥκεις τοῦ θεοῦ φήμην φέρων;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>ἐσθλήν·  λέγω γὰρ καὶ τὰ δύσφορ’, εἰ τύχοι</l>
 					<l>κατ’ ὀρθὸν ἐξελθόντα, πάντ’ ἂν εὐτυχεῖν.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ἔστιν δὲ ποῖον τοὔπος; οὔτε γὰρ θρασὺς</l>
 					<l n="90">οὔτ’ οὖν προδείσας εἰμὶ τῷ γε νῦν λόγῳ.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>εἰ τῶνδε χρῄζεις πλησιαζόντων κλύειν,</l>
 					<l>ἕτοιμος εἰπεῖν, εἴτε καὶ στείχειν ἔσω.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ἐς πάντας αὔδα·  τῶνδε γὰρ πλέον φέρω</l>
 					<l>τὸ πένθος ἢ καὶ τῆς ἐμῆς ψυχῆς πέρι.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l n="95">λέγοιμ’ ἂν οἷ’ ἤκουσα τοῦ θεοῦ πάρα.</l>
 					<l>ἄνωγεν ἡμᾶς Φοῖβος ἐμφανῶς ἄναξ</l>
 					<l>μίασμα χώρας, ὡς τεθραμμένον χθονὶ</l>
 					<l>ἐν τῇδ’, ἐλαύνειν μηδ’ ἀνήκεστον τρέφειν.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ποίῳ καθαρμῷ; τίς ὁ τρόπος τῆς ξυμφορᾶς;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l n="100">ἀνδρηλατοῦντας ἢ φόνῳ φόνον πάλιν</l>
 					<l>λύοντας, ὡς τόδ’ αἷμα χειμάζον πόλιν.</l>
 					<milestone ed="p" n="102" unit="card"/>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ποίου γὰρ ἀνδρὸς τήνδε μηνύει τύχην;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>ἦν ἡμίν, ὦναξ, Λάϊός ποθ’ ἡγεμὼν</l>
 					<l>γῆς τῆσδε, πρὶν σὲ τήνδ’ ἀπευθύνειν πόλιν.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="105">ἔξοιδ’ ἀκούων·  οὐ γὰρ εἰσεῖδόν γέ πω.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>τούτου θανόντος νῦν ἐπιστέλλει σαφῶς</l>
 					<l>τοὺς αὐτοέντας χειρὶ τιμωρεῖν τινας.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>οἳ δ’ εἰσὶ ποῦ γῆς; ποῦ τόδ’ εὑρεθήσεται</l>
 					<l>ἴχνος παλαιᾶς δυστέκμαρτον αἰτίας;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l n="110">ἐν τῇδ’ ἔφασκε γῇ·  τὸ δὲ ζητούμενον</l>
 					<l>ἁλωτόν, ἐκφεύγειν δὲ τἀμελούμενον.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>πότερα δ’ ἐν οἴκοις ἢ ’ν ἀγροῖς ὁ Λάϊος</l>
 					<l>ἢ γῆς ἐπ’ ἄλλης τῷδε συμπίπτει φόνῳ;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>θεωρός, ὡς ἔφασκεν, ἐκδημῶν, πάλιν</l>
 					<l n="115">πρὸς οἶκον οὐκέθ’   ἵκεθ’, ὡς ἀπεστάλη.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>οὐδ’ ἄγγελός τις οὐδὲ συμπράκτωρ ὁδοῦ</l>
 					<l>κατεῖδ’, ὅτου τις ἐκμαθὼν ἐχρήσατ’ ἄν;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>θνῄσκουσι γάρ, πλὴν εἷς τις, ὃς φόβῳ, φυγὼν</l>
 					<l>ὧν εἶδε πλὴν ἓν οὐδὲν εἶχ’ εἰδὼς φράσαι.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="120">τὸ ποῖον;  ἓν γὰρ πόλλ’  ἂν ἐξεύροι μαθεῖν,</l>
 					<l>ἀρχὴν βραχεῖαν εἰ λάβοιμεν ἐλπίδος.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>λῃστὰς ἔφασκε συντυχόντας οὐ μιᾷ</l>
 					<l>ῥώμῃ κτανεῖν νιν, ἀλλὰ σὺν πλήθει χερῶν.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>πῶς οὖν ὁ λῃστής, εἴ τι μὴ ξὺν ἀργύρῳ</l>
 					<l n="125">ἐπράσσετ’ ἐνθένδ’, ἐς τόδ’ ἂν τόλμης ἔβη;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>δοκοῦντα ταῦτ’  ἦν· Λαΐου δ’ ὀλωλότος</l>
 					<l>οὐδεὶς ἀρωγὸς ἐν κακοῖς ἐγίγνετο.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>κακὸν δὲ ποῖον ἐμποδών, τυραννίδος</l>
 					<l>οὕτω πεσούσης,   εἶργε τοῦτ’ ἐξειδέναι;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l n="130">ἡ ποικιλῳδὸς Σφὶγξ τὸ πρὸς ποσὶν σκοπεῖν</l>
 					<l>μεθέντας ἡμᾶς τἀφανῆ προσήγετο.</l>
 					<milestone ed="p" n="132" unit="card"/>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ἀλλ’ ἐξ ὑπαρχῆς αὖθις αὔτ’ ἐγὼ φανῶ·</l>
 					<l>ἐπαξίως γὰρ Φοῖβος, ἀξίως δὲ σὺ</l>
@@ -421,7 +421,7 @@ convert to TEI P3
 					<l n="145">ὡς πᾶν ἐμοῦ δράσοντος·  ἢ γὰρ εὐτυχεῖς</l>
 					<l>σὺν τῷ θεῷ φανούμεθ’ ἢ πεπτωκότες.</l>
 				</sp>
-				<sp who="#iereus">
+				<sp who="#iereys">
 					<speaker>Ἱερεύς</speaker>
 					<l>ὦ παῖδες, ἱστώμεσθα·  τῶνδε γὰρ χάριν</l>
 					<l>καὶ δεῦρ’ ἔβημεν ὧν ὅδ’ ἐξαγγέλλεται.</l>
@@ -524,7 +524,7 @@ convert to TEI P3
 				</div2>
 			</div1>
 			<div1 type="episode">
-				<sp n="Οἰδίπους" who="#oidipous">
+				<sp n="Οἰδίπους" who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>αἰτεῖς·  ἃ δ’ αἰτεῖς, τἄμ’ ἐὰν θέλῃς ἔπη</l>
 					<l>κλύων δέχεσθαι τῇ νόσῳ θ’ ὑπηρετεῖν,</l>
@@ -596,7 +596,7 @@ convert to TEI P3
 					<l>δεῖξαι.  τὸ δὲ ζήτημα τοῦ πέμψαντος ἦν</l>
 					<l>Φοίβου τόδ’ εἰπεῖν, ὅστις εἴργασταί ποτε.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="280">δίκαῑ ἔλεξας·  ἀλλ’ ἀναγκάσαι θεοὺς</l>
 					<l>ἃν μὴ θέλωσιν οὐδ’ ἂν εἷς δύναιτ’ ἀνήρ.</l>
@@ -605,7 +605,7 @@ convert to TEI P3
 					<speaker>Χορός</speaker>
 					<l>τὰ δεύτερ’ ἐκ τῶνδ’ ἂν λέγοιμ’ ἁμοὶ δοκεῖ.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>εἰ καὶ τρίτ’ ἐστί,  μὴ παρῇς τὸ μὴ οὐ φράσαι.</l>
 				</sp>
@@ -615,7 +615,7 @@ convert to TEI P3
 					<l n="285">μάλιστα Φοίβῳ Τειρεσίαν, παρ’ οὗ τις ἂν</l>
 					<l>σκοπῶν τάδ’, ὦναξ, ἐκμάθοι σαφέστατα.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ἀλλ’ οὐκ ἐν ἀργοῖς οὐδὲ τοῦτ’ ἐπραξάμην.</l>
 					<l>ἔπεμψα γὰρ Κρέοντος εἰπόντος διπλοῦς</l>
@@ -625,7 +625,7 @@ convert to TEI P3
 					<speaker>Χορός</speaker>
 					<l n="290">καὶ μὴν τά γ’  ἄλλα κωφὰ καὶ παλαί’ ἔπη.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>τὰ ποῖα ταῦτα; πάντα γὰρ σκοπῶ λόγον.</l>
 				</sp>
@@ -633,7 +633,7 @@ convert to TEI P3
 					<speaker>Χορός</speaker>
 					<l>θανεῖν ἐλέχθη πρός τινων ὁδοιπόρων.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ἤκουσα κἀγώ.  τὸν δ’ ἰδόντ’ οὐδεὶς ὁρᾷ.</l>
 				</sp>
@@ -642,7 +642,7 @@ convert to TEI P3
 					<l>ἀλλ’ εἴ τι μὲν δὴ δείματός γ’ ἔχει μέρος,</l>
 					<l n="295">τὰς σὰς ἀκούων οὐ μενεῖ τοιάσδ’ ἀράς,</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ᾧ μή ’στι δρῶντι τάρβος, οὐδ’ ἔπος φοβεῖ.</l>
 				</sp>
@@ -653,7 +653,7 @@ convert to TEI P3
 					<l>τἀληθὲς ἐμπέφυκεν ἀνθρώπων μόνῳ.</l>
 					<milestone ed="p" n="300" unit="card"/>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="300">ὦ πάντα νωμῶν Τειρεσία, διδακτά τε</l>
 					<l>ἄρρητά τ’, οὐράνιά τε καὶ χθονοστιβῆ,</l>
@@ -678,7 +678,7 @@ convert to TEI P3
 					<l>λύῃ φρονοῦντι·  ταῦτα γὰρ καλῶς ἐγὼ</l>
 					<l>εἰδὼς διώλεσ’·  οὐ γὰρ ἂν δεῦρ’ ἱκόμην.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>τί δ’ ἔστιν; ὡς ἄθυμος εἰσελήλυθας.</l>
 				</sp>
@@ -687,7 +687,7 @@ convert to TEI P3
 					<l n="320">ἄφες μ’  ἐς οἴκους·  ῥᾷστα γὰρ τὸ σόν τε σὺ</l>
 					<l>κἀγὼ διοίσω τοὐμόν, ἢν ἐμοὶ πίθῃ.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>οὔτ’ ἔννομ’ εἶπας οὔτε προσφιλῆ πόλει</l>
 					<l>τῇδ’, ἥ σ’ ἔθρεψε, τήνδ’ ἀποστερῶν φάτιν.</l>
@@ -697,7 +697,7 @@ convert to TEI P3
 					<l>ὁρῶ γὰρ οὐδὲ σοὶ τὸ σὸν φώνημ’ ἰὸν</l>
 					<l n="325">πρὸς καιρόν·  ὡς οὖν μηδ’ ἐγὼ ταὐτὸν πάθω—</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>μὴ πρὸς θεῶν φρονῶν γ’ ἀποστραφῇς, ἐπεὶ</l>
 					<l>πάντες σε προσκυνοῦμεν οἵδ’ ἱκτήριοι.</l>
@@ -708,7 +708,7 @@ convert to TEI P3
 					<l>τἄμ’, ὡς ἂν εἴπω μὴ τὰ σ’, ἐκφήνω κακά.</l>
 					<milestone ed="p" n="330" unit="card"/>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="330">τί φής;  ξυνειδὼς οὐ φράσεις, ἀλλ’ ἐννοεῖς</l>
 					<l>ἡμᾶς προδοῦναι καὶ καταφθεῖραι πόλιν;</l>
@@ -718,7 +718,7 @@ convert to TEI P3
 					<l>ἐγὼ οὔτ’ ἐμαυτὸν οὔτε σ’ ἀλγυνῶ.  τί ταῦτ’</l>
 					<l>ἄλλως ἐλέγχεις; οὐ γὰρ ἂν πύθοιό μου.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>οὐκ, ὦ κακῶν κάκιστε, καὶ γὰρ ἂν πέτρου</l>
 					<l n="335">φύσιν σύ γ’ ὀργάνειας, ἐξερεῖς ποτε,</l>
@@ -729,7 +729,7 @@ convert to TEI P3
 					<l>ὀργὴν ἐμέμψω τὴν ἐμήν, τὴν σὴν δ’ ὁμοῦ</l>
 					<l>ναίουσαν οὐ κατεῖδες, ἀλλ’ ἐμὲ ψέγεις.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>τίς γὰρ τοιαῦτ’ ἂν οὐκ ἂν ὀργίζοιτ’ ἔπη</l>
 					<l n="340">κλύων, ἃ νῦν σὺ τήνδ’ ἀτιμάζεις πόλιν;</l>
@@ -738,7 +738,7 @@ convert to TEI P3
 					<speaker>Τειρεσίας</speaker>
 					<l>ἥξει γὰρ αὐτά, κἂν ἐγὼ σιγῇ στέγω.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>οὐκοῦν ἅ γ’ ἥξει καὶ σὲ χρὴ λέγειν ἐμοί.</l>
 				</sp>
@@ -747,7 +747,7 @@ convert to TEI P3
 					<l>οὐκ ἂν πέρα φράσαιμι.  πρὸς τάδ’, εἰ θέλεις,</l>
 					<l>θυμοῦ δῑ ὀργῆς ἥτις ἀγριωτάτη.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="345">καὶ μὴν παρήσω γ’ οὐδέν, ὡς ὀργῆς ἔχω,</l>
 					<l>ἅπερ ξυνίημ’·  ἴσθι γὰρ δοκῶν ἐμοὶ</l>
@@ -763,7 +763,7 @@ convert to TEI P3
 					<l>ὡς ὄντι γῆς τῆσδ’ ἀνοσίῳ μιάστορι.</l>
 					<milestone ed="p" n="354" unit="card"/>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>οὕτως ἀναιδῶς ἐξεκίνησας τόδε</l>
 					<l n="355">τὸ ῥῆμα; καὶ ποῦ τοῦτο φεύξεσθαι δοκεῖς;</l>
@@ -772,7 +772,7 @@ convert to TEI P3
 					<speaker>Τειρεσίας</speaker>
 					<l>πέφευγα·  τἀληθὲς γὰρ ἰσχῦον τρέφω.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>πρὸς τοῦ διδαχθείς; οὐ γὰρ ἔκ γε τῆς τέχνης.</l>
 				</sp>
@@ -780,7 +780,7 @@ convert to TEI P3
 					<speaker>Τειρεσίας</speaker>
 					<l>πρὸς σοῦ·  σὺ γάρ μ’ ἄκοντα προυτρέψω λέγειν.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ποῖον λόγον; λέγ’ αὖθις, ὡς μᾶλλον μάθω.</l>
 				</sp>
@@ -788,7 +788,7 @@ convert to TEI P3
 					<speaker>Τειρεσίας</speaker>
 					<l n="360">οὐχὶ ξυνῆκας πρόσθεν;  ἢ  ’κπειρᾷ λέγων;</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>οὐχ ὥστε γ’ εἰπεῖν γνωστόν·  ἀλλ’ αὖθις φράσον.</l>
 				</sp>
@@ -796,7 +796,7 @@ convert to TEI P3
 					<speaker>Τειρεσίας</speaker>
 					<l>φονέα σε φημὶ τἀνδρὸς οὗ ζητεῖς κυρεῖν.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ἀλλ’ οὔ τι χαίρων  δίς γε πημονὰς ἐρεῖς.</l>
 				</sp>
@@ -804,7 +804,7 @@ convert to TEI P3
 					<speaker>Τειρεσίας</speaker>
 					<l>εἴπω τι δῆτα κἄλλ’, ἵν’ ὀργίζῃ πλέον;</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="365">ὅσον γε χρῄζεις·  ὡς μάτην εἰρήσεται.</l>
 				</sp>
@@ -813,7 +813,7 @@ convert to TEI P3
 					<l>λεληθέναι σε φημὶ σὺν τοῖς φιλτάτοις</l>
 					<l>αἴσχισθ’ ὁμιλοῦντ’, οὐδ’ ὁρᾶν ἵν’ εἶ κακοῦ.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ἦ καὶ γεγηθὼς ταῦτ’ ἀεὶ λέξειν δοκεῖς;</l>
 				</sp>
@@ -821,7 +821,7 @@ convert to TEI P3
 					<speaker>Τειρεσίας</speaker>
 					<l>εἴπερ τί γ’ ἐστὶ τῆς ἀληθείας σθένος.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="370">ἀλλ’ ἔστι, πλὴν σοί·  σοὶ δὲ τοῦτ’ οὐκ ἔστ’ ἐπεὶ</l>
 					<l>τυφλὸς τά τ’ ὦτα τόν τε νοῦν τά τ’ ὄμματ’ εἶ.</l>
@@ -831,7 +831,7 @@ convert to TEI P3
 					<l>σὺ δ’ ἄθλιός γε ταῦτ’ ὀνειδίζων, ἃ σοὶ</l>
 					<l>οὐδεὶς ὃς οὐχὶ τῶνδ’ ὀνειδιεῖ τάχα.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>μιᾶς τρέφει πρὸς νυκτός, ὥστε μήτ’ ἐμὲ</l>
 					<l n="375">μήτ’ ἄλλον, ὅστις φῶς ὁρᾷ, βλάψαι ποτ’ ἄν.</l>
@@ -841,7 +841,7 @@ convert to TEI P3
 					<l>οὐ γάρ σε μοῖρα πρός γ’ ἐμοῦ πεσεῖν, ἐπεὶ</l>
 					<l>ἱκανὸς Ἀπόλλων, ᾧ τάδ’ ἐκπρᾶξαι μέλει.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>Κρέοντος ἢ σοῦ ταῦτα τἀξευρήματα;</l>
 				</sp>
@@ -850,7 +850,7 @@ convert to TEI P3
 					<l>Κρέων δέ σοι πῆμ’ οὐδέν, ἀλλ’ αὐτὸς σὺ σοί.</l>
 					<milestone ed="p" n="380" unit="card"/>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="380">ὦ πλοῦτε καὶ τυραννὶ καὶ τέχνη τέχνης</l>
 					<l>ὑπερφέρουσα τῷ πολυζήλῳ βίῳ,</l>
@@ -910,7 +910,7 @@ convert to TEI P3
 					<l>κάκιον ὅστις ἐκτριβήσεταί ποτε.</l>
 					<milestone ed="p" n="429" unit="card"/>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ἦ ταῦτα δῆτ’ ἀνεκτὰ πρὸς τούτου κλύειν;</l>
 					<l n="430">οὐκ εἰς ὄλεθρον;   οὐχὶ θᾶσσον;  οὐ πάλιν</l>
@@ -920,7 +920,7 @@ convert to TEI P3
 					<speaker>Τειρεσίας</speaker>
 					<l>οὐδ’ ἱκόμην ἔγωγ’  ἄν, εἰ σὺ μὴ ’κάλεις.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>οὐ γάρ τί σ’ ᾔδη μῶρα φωνήσοντ’, ἐπεὶ</l>
 					<l>σχολῇ σ’ ἂν οἴκους τοὺς ἐμοὺς ἐστειλάμην.</l>
@@ -930,7 +930,7 @@ convert to TEI P3
 					<l n="435">ἡμεῖς τοιοίδ’ ἔφυμεν, ὡς μὲν σοὶ δοκεῖ,</l>
 					<l>μῶροι, γονεῦσι δ’, οἵ σ’ ἔφυσαν, ἔμφρονες.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ποίοισι; μεῖνον, τίς δέ μ’ ἐκφύει βροτῶν;</l>
 				</sp>
@@ -938,7 +938,7 @@ convert to TEI P3
 					<speaker>Τειρεσίας</speaker>
 					<l>ἥδ’ ἡμέρα φύσει σε καὶ διαφθερεῖ.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ὡς πάντ’ ἄγαν αἰνικτὰ κἀσαφῆ λέγεις.</l>
 				</sp>
@@ -946,7 +946,7 @@ convert to TEI P3
 					<speaker>Τειρεσίας</speaker>
 					<l n="440">οὔκουν σὺ ταῦτ’  ἄριστος εὑρίσκειν ἔφυς;</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>τοιαῦτ’ ὀνείδιζ’, οἷς ἔμ’ εὑρήσεις μέγαν.</l>
 				</sp>
@@ -954,7 +954,7 @@ convert to TEI P3
 					<speaker>Τειρεσίας</speaker>
 					<l>αὕτη γε μέντοι σ’ ἡ τύχη διώλεσεν.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ἀλλ’ εἰ πόλιν τήνδ’ ἐξέσωσ’, οὔ μοι μέλει.</l>
 				</sp>
@@ -962,7 +962,7 @@ convert to TEI P3
 					<speaker>Τειρεσίας</speaker>
 					<l>ἄπειμι τοίνυν·  καὶ σύ, παῖ, κόμιζέ με.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="445">κομιζέτω δῆθ’·  ὡς παρὼν σύ γ’ ἐμποδὼν</l>
 					<l>ὀχλεῖς, συθείς τ’ ἂν οὐκ ἂν ἀλγύνοις πλέον.</l>
@@ -1050,7 +1050,7 @@ convert to TEI P3
 				</div2>
 			</div1>
 			<div1 type="episode">
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>ἄνδρες πολῖται, δείν’ ἔπη πεπυσμένος</l>
 					<l>κατηγορεῖν μου τὸν τύραννον Οἰδίπουν,</l>
@@ -1068,7 +1068,7 @@ convert to TEI P3
 					<l>ἀλλ’ ἦλθε μὲν δὴ τοῦτο τοὔνειδος τάχ’ ἂν</l>
 					<l>ὀργῇ βιασθὲν μᾶλλον ἢ γνώμῃ φρενῶν.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l n="525">τοὔπος δ’ ἐφάνθη, ταῖς ἐμαῖς γνώμαις ὅτι</l>
 					<l>πεισθεὶς ὁ μάντις τοὺς λόγους ψευδεῖς λέγοι;</l>
@@ -1077,7 +1077,7 @@ convert to TEI P3
 					<speaker>Χορός</speaker>
 					<l>ηὐδᾶτο μὲν τάδ’, οἶδα δ’ οὐ γνώμῃ τίνι.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>ἐξ ὀμμάτων δ’ ὀρθῶν τε κἀξ ὀρθῆς φρενὸς</l>
 					<l>κατηγορεῖτο τοὐπίκλημα τοῦτό μου;</l>
@@ -1087,7 +1087,7 @@ convert to TEI P3
 					<l n="530">οὐκ οἶδ’·  ἃ γὰρ δρῶσ’, οἱ κρατοῦντες οὐχ ὁρῶ.</l>
 					<l>αὐτὸς δ’ ὅδ’ ἤδη δωμάτων ἔξω περᾷ.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>οὗτος σύ, πῶς δεῦρ’ ἦλθες; ἦ τοσόνδ’ ἔχεις</l>
 					<l>τόλμης πρόσωπον ὥστε τὰς ἐμὰς στέγας</l>
@@ -1102,144 +1102,144 @@ convert to TEI P3
 					<l>θηρᾶν, ὃ πλήθει χρήμασίν θ’ ἁλίσκεται;</l>
 					<milestone ed="p" n="543" unit="card"/>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>οἶσθ’ ὡς πόησον; ἀντὶ τῶν εἰρημένων</l>
 					<l>ἴσ’ ἀντάκουσον, κᾆτα κρῖν’ αὐτὸς μαθών.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="545">λέγειν σὺ δεινός,  μανθάνειν δ’ ἐγὼ κακὸς</l>
 					<l>σοῦ· δυσμενῆ γὰρ καὶ βαρύν σ’ ηὕρηκ’ ἐμοί.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>τοῦτ’ αὐτὸ νῦν μου πρῶτ’ ἄκουσον ὡς ἐρῶ.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>τοῦτ’ αὐτὸ μή μοι φράζ’, ὅπως οὐκ εἶ κακός.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>εἴ τοι νομίζεις κτῆμα τὴν αὐθαδίαν</l>
 					<l n="550">εἶναί τι τοῦ νοῦ  χωρίς, οὐκ ὀρθῶς φρονεῖς.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>εἴ τοι νομίζεις ἄνδρα συγγενῆ κακῶς</l>
 					<l>δρῶν οὐχ ὑφέξειν  τὴν δίκην, οὐκ εὖ φρονεῖς.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>ξύμφημί σοι ταῦτ’ ἔνδικ’ εἰρῆσθαι·  τὸ δὲ</l>
 					<l>πάθημ’ ὁποῖον φὴς παθεῖν, δίδασκέ με.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="555">ἔπειθες ἢ οὐκ ἔπειθες, ὡς χρείη μ’ ἐπὶ</l>
 					<l>τὸν σεμνόμαντιν ἄνδρα πέμψασθαί τινα;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>καὶ νῦν ἔθ’ αὑτός εἰμι τῷ βουλεύματι.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>πόσον τιν’ ἤδη δῆθ’ ὁ Λάϊος χρόνον</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>δέδρακε ποῖον ἔργον; οὐ γὰρ ἐννοῶ.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="560">ἄφαντος ἔρρει θανασίμῳ χειρώματι;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>μακροὶ παλαιοί τ’    ἂν μετρηθεῖεν χρόνοι.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>τότ’ οὖν ὁ μάντις οὗτος ἦν ἐν τῇ τέχνῃ;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>σοφός γ’ ὁμοίως   κἀξ ἴσου τιμώμενος.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ἐμνήσατ’ οὖν ἐμοῦ τι τῷ τότ’ ἐν χρόνῳ;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l n="565">οὔκουν ἐμοῦ γ’   ἑστῶτος οὐδαμοῦ πέλας.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ἀλλ’ οὐκ ἔρευναν τοῦ κτανόντος ἔσχετε;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>παρέσχομεν, πῶς    δ’ οὐχί; κοὐκ ἠκούσαμεν.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>πῶς οὖν τόθ’ οὗτος ὁ σοφὸς οὐκ ηὔδα τάδε;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>οὐκ οἶδ’·  ἐφ’ οἷς γὰρ μὴ φρονῶ σιγᾶν φιλῶ.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="570">τοσόνδε γ’ οἶσθα καὶ λέγοις ἂν εὖ φρονῶν.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>ποῖον τόδ’; εἰ γὰρ οἶδά γ’, οὐκ ἀρνήσομαι.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ὁθούνεκ’, εἰ μὴ σοὶ ξυνῆλθε, τάσδ’ ἐμὰς</l>
 					<l>οὐκ ἄν ποτ’ εἶπε Λαΐου διαφθοράς.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>εἰ μὲν λέγει τάδ’, αὐτὸς οἶσθ’·  ἐγὼ δὲ σοῦ</l>
 					<l n="575">μαθεῖν δικαιῶ ταὔθ’ ἅπερ κἀμοῦ σὺ νῦν.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ἐκμάνθαν’·  οὐ γὰρ δὴ φονεὺς ἁλώσομαι.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>τί δῆτ’; ἀδελφὴν τὴν ἐμὴν γήμας ἔχεις;</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ἄρνησις οὐκ ἔνεστιν ὧν ἀνιστορεῖς.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>ἄρχεις δ’ ἐκείνῃ ταὐτὰ γῆς ἴσον νέμων;</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="580">ἃν ᾖ θέλουσα πάντ’  ἐμοῦ κομίζεται.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>οὔκουν ἰσοῦμαι  σφῷν ἐγὼ δυοῖν τρίτος;</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ἐνταῦθα γὰρ δὴ καὶ κακὸς φαίνει φίλος.</l>
 					<milestone ed="p" n="583" unit="card"/>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>οὔκ, εἰ διδοίης γ’ ὡς ἐγὼ σαυτῷ λόγον.</l>
 					<l>σκέψαι δὲ τοῦτο πρῶτον, εἴ τιν’ ἂν δοκεῖς</l>
@@ -1281,27 +1281,27 @@ convert to TEI P3
 					<l>καλῶς ἔλεξεν εὐλαβουμένῳ πεσεῖν,</l>
 					<l>ἄναξ·  φρονεῖν γὰρ οἱ ταχεῖς οὐκ ἀσφαλεῖς.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ὅταν ταχύς τις οὑπιβουλεύων λάθρᾳ</l>
 					<l>χωρῇ, ταχὺν δεῖ κἀμὲ βουλεύειν πάλιν·</l>
 					<l n="620">εἰ δ’ ἡσυχάζων προσμενῶ, τὰ τοῦδε μὲν</l>
 					<l>πεπραγμέν’ ἔσται,    τἀμὰ δ’ ἡμαρτημένα.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>τί δῆτα χρῄζεις; ἦ με γῆς ἔξω βαλεῖν;</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ἥκιστα·  θνῄσκειν, οὐ φυγεῖν σε βούλομαι.</l>
 					<l>ὡς ἂν προδείξῃς οἷόν ἐστι τὸ φθονεῖν.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l n="625">ὡς οὐχ ὑπείξων οὐδὲ πιστεύσων λέγεις;</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>
 						&lt;
@@ -1309,39 +1309,39 @@ convert to TEI P3
 						&gt;
 					</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l part="I">οὐ γὰρ φρονοῦντά  σ’ εὖ βλέπω.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l part="F">τὸ γοῦν ἐμόν.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l part="I">ἀλλ’ ἐξ ἴσου δεῖ κἀμόν.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l part="F">ἀλλ’ ἔφυς κακός.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l part="I">εἰ δὲ ξυνίης μηδέν;</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l part="F">ἀρκτέον γ’ ὅμως.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l part="I">οὔτοι κακῶς γ’   ἄρχοντος.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l part="F">ὦ πόλις πόλις.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l n="630">κἀμοὶ πόλεως μέτεστιν, οὐχί σοι μόνῳ.</l>
 				</sp>
@@ -1352,7 +1352,7 @@ convert to TEI P3
 					<l>τὸ νῦν παρεστὸς νεῖκος εὖ θέσθαι χρεών.</l>
 					<milestone ed="p" n="634" unit="card"/>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>τί τὴν ἄβουλον, ὦ ταλαίπωροι, στάσιν</l>
 					<l n="635">γλώσσης ἐπήρασθ’ οὐδ’ ἐπαισχύνεσθε γῆς</l>
@@ -1360,23 +1360,23 @@ convert to TEI P3
 					<l>οὐκ εἶ σύ τ’ οἴκους σύ τε, Κρέων, κατὰ στέγας,</l>
 					<l>καὶ μὴ τὸ μηδὲν ἄλγος εἰς μέγ’ οἴσετε;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>ὅμαιμε, δεινά μ’ Οἰδίπους ὁ σὸς πόσις</l>
 					<l n="640">δρᾶσαι δικαιοῖ δυοῖν ἀποκρίνας κακοῖν</l>
 					<l>ἢ γῆς ἀπῶσαι πατρίδος ἢ κτεῖναι λαβών.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ξύμφημι·  δρῶντα γάρ νιν, ὦ γύναι, κακῶς</l>
 					<l>εἴληφα τοὐμὸν σῶμα σὺν τέχνῃ κακῇ.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>μή νυν ὀναίμην, ἀλλ’ ἀραῖος, εἴ σέ τι</l>
 					<l n="645">δέδρακ’, ὀλοίμην, ὧν ἐπαιτιᾷ με δρᾶν.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>ὦ πρὸς θεῶν πίστευσον, Οἰδίπους, τάδε,</l>
 					<l>μάλιστα μὲν τόνδ’ ὅρκον αἰδεσθεὶς θεῶν,</l>
@@ -1390,7 +1390,7 @@ convert to TEI P3
 						<speaker>Χορός</speaker>
 						<l>πιθοῦ θελήσας φρονήσας τ’, ἄναξ, λίσσομαι.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l n="650">τί σοι θέλεις δῆτ’ εἰκάθω;</l>
 					</sp>
@@ -1398,7 +1398,7 @@ convert to TEI P3
 						<speaker>Χορός</speaker>
 						<l>τὸν οὔτε πρὶν νήπιον νῦν τ’ ἐν ὅρκῳ μέγαν καταίδεσαι.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l n="655" part="I">οἶσθ’ οὖν ἃ χρῄζεις;</l>
 					</sp>
@@ -1406,7 +1406,7 @@ convert to TEI P3
 						<speaker>Χορός</speaker>
 						<l part="M">οἶδα.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l part="F">φράζε δὴ τί φής.</l>
 					</sp>
@@ -1415,7 +1415,7 @@ convert to TEI P3
 						<l>τὸν ἐναγῆ φίλον μήποτ’ ἐν αἰτίᾳ</l>
 						<l>σὺν ἀφανεῖ λόγῳ  σ’ ἄτιμον βαλεῖν.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>εὖ νυν ἐπίστω, ταῦθ’ ὅταν ζητῇς, ἐμοὶ</l>
 						<l>ζητῶν ὄλεθρον ἢ φυγὴν ἐκ τῆσδε γῆς.</l>
@@ -1432,24 +1432,24 @@ convert to TEI P3
 						<l>τρύχει ψυχάν, τάδ’ εἰ κακοῖς κακὰ</l>
 						<l>προσάψει τοῖς πάλαι τὰ πρὸς σφῷν.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>ὁ δ’ οὖν ἴτω, κεἰ χρή με παντελῶς θανεῖν</l>
 						<l n="670">ἢ γῆς ἄτιμον τῆσδ’  ἀπωσθῆναι βίᾳ.</l>
 						<l>τὸ γὰρ σόν, οὐ τὸ τοῦδ’, ἐποικτίρω στόμα</l>
 						<l>ἐλεινόν·  οὗτος δ’ ἔνθ’ ἂν ᾖ στυγήσεται.</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l>στυγνὸς μὲν εἴκων δῆλος εἶ, βαρὺς δ’, ὅταν</l>
 						<l>θυμοῦ περάσῃς·  αἱ δὲ τοιαῦται φύσεις</l>
 						<l n="675">αὑταῖς δικαίως εἰσὶν ἄλγισται φέρειν.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l part="I">οὔκουν μ’ ἐάσεις κἀκτὸς εἶ;</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l part="F">πορεύσομαι,</l>
 						<l>σοῦ μὲν τυχὼν ἀγνῶτος, ἐν δὲ τοῖσδ’ ἴσος.</l>
@@ -1461,7 +1461,7 @@ convert to TEI P3
 						<speaker>Χορός</speaker>
 						<l>γύναι, τί μέλλεις κομίζειν δόμων τόνδ’ ἔσω;</l>
 					</sp>
-					<sp who="#iokasth">
+					<sp who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l n="680">μαθοῦσά γ’ ἥτις ἡ τύχη.</l>
 					</sp>
@@ -1470,7 +1470,7 @@ convert to TEI P3
 						<l>δόκησις ἀγνὼς λόγων ἦλθε, δάπτει δὲ καὶ τὸ μὴ</l>
 						<l>’νδικον.</l>
 					</sp>
-					<sp who="#iokasth">
+					<sp who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l part="I">ἀμφοῖν ἀπ’ αὐτοῖν;</l>
 					</sp>
@@ -1478,7 +1478,7 @@ convert to TEI P3
 						<speaker>Χορός</speaker>
 						<l part="M">ναίχι.</l>
 					</sp>
-					<sp who="#iokasth">
+					<sp who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l part="F">καὶ τίς ἦν λόγος;</l>
 					</sp>
@@ -1487,7 +1487,7 @@ convert to TEI P3
 						<l n="685">ἅλις ἔμοιγ’, ἅλις, γᾶς προπονουμένας,</l>
 						<l>φαίνεται ἔνθ’ ἔληξεν αὐτοῦ μένειν.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>ὁρᾷς ἵν’ ἥκεις, ἀγαθὸς ὢν γνώμην ἀνήρ,</l>
 						<l>τοὐμὸν παριεὶς καὶ καταμβλύνων κέαρ;</l>
@@ -1503,7 +1503,7 @@ convert to TEI P3
 						<l n="695">ἀλύουσαν κατ’ ὀρθὸν οὔρισας,</l>
 						<l>τανῦν τ’ εὔπομπος, ἂν γένοιο.</l>
 					</sp>
-					<sp who="#iokasth">
+					<sp who="#iokaste">
 						<speaker>Ἰοκάστη</speaker>
 						<l>πρὸς θεῶν δίδαξον κἄμ’, ἄναξ, ὅτου ποτὲ</l>
 						<l>μῆνιν τοσήνδε πράγματος στήσας ἔχεις.</l>
@@ -1512,29 +1512,29 @@ convert to TEI P3
 				</div2>
 			</div1>
 			<div1 type="episode">
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="700">ἐρῶ·  σὲ γὰρ τῶνδ’  ἐς πλέον, γύναι, σέβω·</l>
 					<l>Κρέοντος, οἷά μοι βεβουλευκὼς ἔχει.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>λέγ’, εἰ σαφῶς τὸ νεῖκος ἐγκαλῶν ἐρεῖς.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>φονέα με φησὶ Λαΐου καθεστάναι.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>αὐτὸς ξυνειδὼς ἢ μαθὼν ἄλλου πάρα;</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="705">μάντιν μὲν οὖν κακοῦργον εἰσπέμψας, ἐπεὶ</l>
 					<l>τό γ’ εἰς ἑαυτὸν πᾶν ἐλευθεροῖ στόμα.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>σύ νυν ἀφεὶς σεαυτὸν ὧν λέγεις πέρι</l>
 					<l>ἐμοῦ ’πάκουσον, καὶ μάθ’ οὕνεκ’ ἐστί σοι</l>
@@ -1557,103 +1557,103 @@ convert to TEI P3
 					<l n="725">χρείαν ἐρευνᾷ, ῥᾳδίως αὐτὸς φανεῖ.</l>
 					<milestone ed="p" n="726" unit="card"/>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>οἷόν μ’ ἀκούσαντ’ ἀρτίως ἔχει, γύναι,</l>
 					<l>ψυχῆς πλάνημα κἀνακίνησις φρενῶν.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>ποίας μερίμνης τοῦθ’ ὑποστραφεὶς λέγεις;</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ἔδοξ’ ἀκοῦσαι σοῦ τόδ’, ὡς ὁ Λάϊος</l>
 					<l n="730">κατασφαγείη πρὸς τριπλαῖς ἁμαξιτοῖς.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>ηὐδᾶτο γὰρ ταῦτ’ οὐδέ πω λήξαντ’ ἔχει.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>καὶ ποῦ ’σθ’ ὁ χῶρος οὗτος οὗ τόδ’ ἦν πάθος;</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>Φωκὶς μὲν ἡ γῆ κλῄζεται, σχιστὴ δ’ ὁδὸς</l>
 					<l>ἐς ταὐτὸ Δελφῶν κἀπὸ Δαυλίας ἄγει.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="735">καὶ τίς χρόνος τοῖσδ’ ἐστὶν οὑξεληλυθώς;</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>σχεδόν τι πρόσθεν ἢ σὺ τῆσδ’ ἔχων χθονὸς</l>
 					<l>ἀρχὴν ἐφαίνου, τοῦτ’ ἐκηρύχθη πόλει.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ὦ Ζεῦ, τί μου δρᾶσαι βεβούλευσαι πέρι;</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>τί δ’ ἐστί σοι τοῦτ’, Οἰδίπους, ἐνθύμιον;</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="740">μήπω μ’ ἐρώτα·  τὸν δὲ Λάϊον φύσιν</l>
 					<l>τίν’ ἦλθε φράζε, τίνα δ’ ἀκμὴν ἥβης ἔχων.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>μέγας, χνοάζων ἄρτι λευκανθὲς κάρα,</l>
 					<l>μορφῆς δὲ τῆς σῆς οὐκ ἀπεστάτει πολύ.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>οἴμοι τάλας·  ἔοικ’ ἐμαυτὸν εἰς ἀρὰς</l>
 					<l n="745">δεινὰς προβάλλων     ἀρτίως οὐκ εἰδέναι.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>πῶς φῄς; ὀκνῶ τοι πρός σ’ ἀποσκοποῦσ’, ἄναξ.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>δεινῶς ἀθυμῶ μὴ βλέπων ὁ μάντις ᾖ·</l>
 					<l>δείξεις δὲ μᾶλλον,   ἢν ἓν ἐξείπῃς ἔτι.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>καὶ μὴν ὀκνῶ μέν, ἃ δ’ ἂν ἔρῃ μαθοῦσ’ ἐρῶ.</l>
 					<milestone ed="p" n="750" unit="card"/>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="750">πότερον  ἐχώρει βαιὸς ἢ πολλοὺς ἔχων</l>
 					<l>ἄνδρας λοχίτας, οἷ’ ἀνὴρ ἀρχηγέτης;</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>πέντ’  ἦσαν οἱ ξύμπαντες, ἐν δ’  αὐτοῖσιν ἦν     .</l>
 					<l>κῆρυξ·  ἀπήνη δ’ ἦγε Λάϊον μία.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>αἰαῖ, τάδ’ ἤδη διαφανῆ.  τίς ἦν ποτε</l>
 					<l n="755">ὁ τούσδε λέξας τοὺς λόγους ὑμῖν, γύναι;</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>οἰκεύς τις, ὅσπερ ἵκετ’ ἐκσωθεὶς μόνος.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ἦ κἀν δόμοισι τυγχάνει τανῦν παρών;</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>οὐ δῆτ’·  ἀφ’ οὗ γὰρ κεῖθεν ἦλθε καὶ κράτη</l>
 					<l>σέ τ’ εἶδ’ ἔχοντα Λάϊόν τ’ ὀλωλότα,</l>
@@ -1663,26 +1663,26 @@ convert to TEI P3
 					<l>κἄπεμψ’ ἐγώ νιν· ἄξιος γὰρ οἷ’ ἀνὴρ</l>
 					<l>δοῦλος φέρειν ἦν τῆσδε καὶ μείζω χάριν.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="765">πῶς ἂν μόλοι δῆθ’ ἡμὶν ἐν τάχει πάλιν;</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>πάρεστιν·  ἀλλὰ  πρὸς τί τοῦτ’ ἐφίεσαι;</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>δέδοικ’ ἐμαυτόν, ὦ γύναι, μὴ πόλλ’ ἄγαν</l>
 					<l>εἰρημέν’ ᾖ μοι δῑ ἅ νιν εἰσιδεῖν θέλω.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>ἀλλ’ ἵξεται μέν·  ἀξία δέ που μαθεῖν</l>
 					<l n="770">κἀγὼ τά γ’ ἐν σοὶ δυσφόρως ἔχοντ’, ἄναξ.</l>
 					<milestone ed="p" n="771" unit="card"/>
 				</sp>
-				<sp n="Οἰδίπους" who="#oidipous">
+				<sp n="Οἰδίπους" who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>κοὐ μὴ στερηθῇς γ’, ἐς τοσοῦτον ἐλπίδων</l>
 					<l>ἐμοῦ βεβῶτος.  τῷ γὰρ ἂν καὶ μείζονι</l>
@@ -1755,25 +1755,25 @@ convert to TEI P3
 					<l>ἡμῖν μέν, ὦναξ, ταῦτ’ ὀκνήρ’·  ἕως δ’ ἂν οὖν</l>
 					<l n="835">πρὸς τοῦ παρόντος ἐκμάθῃς, ἔχ’ ἐλπίδα.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>καὶ μὴν τοσοῦτόν γ’ ἐστί μοι τῆς ἐλπίδος,</l>
 					<l>τὸν ἄνδρα τὸν βοτῆρα προσμεῖναι μόνον.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>πεφασμένου δὲ τίς ποθ’ ἡ προθυμία;</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ἐγὼ διδάξω σ’·  ἢν γὰρ εὑρεθῇ λέγων</l>
 					<l n="840">σοὶ ταὔτ’, ἔγωγ’ ἂν ἐκπεφευγοίην πάθος.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>ποῖον δέ μου περισσὸν ἤκουσας λόγον;</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>λῃστὰς ἔφασκες αὐτὸν ἄνδρας ἐννέπειν</l>
 					<l>ὥς νιν κατακτείνειαν.  εἰ μὲν οὖν ἔτι</l>
@@ -1782,7 +1782,7 @@ convert to TEI P3
 					<l>εἰ δ’ ἄνδρ’ ἕν’ οἰόζωνον αὐδήσει, σαφῶς</l>
 					<l>τοῦτ’ ἐστὶν ἤδη τοὔργον εἰς ἐμὲ ῥέπον.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>ἀλλ’ ὡς φανέν γε τοὔπος ὧδ’ ἐπίστασο,</l>
 					<l>κοὐκ ἔστιν αὐτῷ τοῦτό γ’ ἐκβαλεῖν πάλιν·</l>
@@ -1796,12 +1796,12 @@ convert to TEI P3
 					<l>ὥστ’ οὐχὶ μαντείας γ’ ἂν οὔτε τῇδ’ ἐγὼ</l>
 					<l>βλέψαιμ’ ἂν εἵνεκ’ οὔτε τῇδ’ ἂν ὕστερον.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>καλῶς νομίζεις· ἀλλ’ ὅμως τὸν ἐργάτην</l>
 					<l n="860">πέμψον τινὰ στελοῦντα μηδὲ τοῦτ’ ἀφῇς.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>πέμψω ταχύνασ’·  ἀλλ’ ἴωμεν ἐς δόμους·</l>
 					<l>οὐδὲν γὰρ ἂν πράξαιμ’ ἂν ὧν οὐ σοὶ φίλον.</l>
@@ -1875,7 +1875,7 @@ convert to TEI P3
 				</div2>
 			</div1>
 			<div1 type="episode">
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>χώρας ἄνακτες, δόξα μοι παρεστάθη</l>
 					<l>ναοὺς ἱκέσθαι δαιμόνων, τάδ’ ἐν χεροῖν</l>
@@ -1907,7 +1907,7 @@ convert to TEI P3
 					<l>ἀλλ’ ὀλβία τε καὶ ξὺν ὀλβίοις ἀεὶ</l>
 					<l n="930">γένοιτ’, ἐκείνου γ’  οὖσα παντελὴς δάμαρ.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>αὔτως δὲ καὶ σύ γ’, ὦ ξέν’·  ἄξιος γὰρ εἶ</l>
 					<l>τῆς εὐεπείας εἵνεκ’·  ἀλλὰ φράζ’ ὅτου</l>
@@ -1917,7 +1917,7 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l>ἀγαθὰ δόμοις τε  καὶ πόσει τῷ σῷ, γύναι.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l n="935">τὰ ποῖα ταῦτα;   παρὰ τίνος δ’ ἀφιγμένος;</l>
 				</sp>
@@ -1926,7 +1926,7 @@ convert to TEI P3
 					<l>ἐκ τῆς Κορίνθου·  τὸ δ’ ἔπος οὑξερῶ τάχα,</l>
 					<l>ἥδοιο μέν, πῶς δ’ οὐκ ἄν, ἀσχάλλοις δ’ ἴσως.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>τί δ’ ἔστι; ποίαν δύναμιν ὧδ’ ἔχει διπλῆν;</l>
 				</sp>
@@ -1935,7 +1935,7 @@ convert to TEI P3
 					<l>τύραννον αὐτὸν οὑπιχώριοι χθονὸς</l>
 					<l n="940">τῆς Ἰσθμίας στήσουσιν, ὡς ηὐδᾶτ’  ἐκεῖ.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>τί δ’; οὐχ ὁ πρέσβυς Πόλυβος ἐγκρατὴς ἔτι;</l>
 				</sp>
@@ -1943,7 +1943,7 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l>οὐ δῆτ’, ἐπεί νιν θάνατος ἐν τάφοις ἔχει.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>πῶς εἶπας; ἦ τέθνηκε Πόλυβος, ὦ γέρον;</l>
 				</sp>
@@ -1951,7 +1951,7 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l>εἰ μὴ λέγω τἀληθές, ἀξιῶ θανεῖν.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l n="945">ὦ πρόσπολ’, οὐχὶ δεσπότῃ τάδ’ ὡς τάχος</l>
 					<l>μολοῦσα λέξεις; ὦ θεῶν μαντεύματα,</l>
@@ -1960,26 +1960,26 @@ convert to TEI P3
 					<l>πρὸς τῆς τύχης ὄλωλεν οὐδὲ τοῦδ’ ὕπο.</l>
 					<milestone ed="p" n="950" unit="card"/>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="950">ὦ φίλτατον γυναικὸς  Ἰοκάστης κάρα,</l>
 					<l>τί μ’ ἐξεπέμψω δεῦρο τῶνδε δωμάτων;</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>ἄκουε τἀνδρὸς τοῦδε, καὶ σκόπει κλύων</l>
 					<l>τὰ σέμν’ ἵν’ ἥκει τοῦ θεοῦ μαντεύματα.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>οὗτος δὲ τίς ποτ’ ἐστὶ καὶ τί μοι λέγει;</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l n="955">ἐκ τῆς Κορίνθου, πατέρα τὸν σὸν ἀγγελῶν</l>
 					<l>ὡς οὐκέτ’ ὄντα Πόλυβον, ἀλλ’ ὀλωλότα.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>τί φῄς, ξέν’; αὐτός μοι σὺ σημάντωρ γενοῦ.</l>
 				</sp>
@@ -1988,7 +1988,7 @@ convert to TEI P3
 					<l>εἰ τοῦτο πρῶτον δεῖ μ’ ἀπαγγεῖλαι σαφῶς,</l>
 					<l>εὖ ἴσθ’ ἐκεῖνον θανάσιμον βεβηκότα.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="960">πότερα δόλοισιν ἢ νόσου ξυναλλαγῇ;</l>
 				</sp>
@@ -1996,7 +1996,7 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l>σμικρὰ παλαιὰ σώματ’ εὐνάζει ῥοπή.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>νόσοις ὁ τλήμων, ὡς ἔοικεν, ἔφθιτο.</l>
 				</sp>
@@ -2004,7 +2004,7 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l>καὶ τῷ μακρῷ γε συμμετρούμενος χρόνῳ.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>φεῦ φεῦ, τί δῆτ’ ἄν, ὦ γύναι, σκοποῖτό τι</l>
 					<l n="965">τὴν Πυθόμαντιν ἑστίαν ἢ τοὺς ἄνω</l>
@@ -2016,24 +2016,24 @@ convert to TEI P3
 					<l>τὰ δ’ οὖν παρόντα συλλαβὼν θεσπίσματα</l>
 					<l>κεῖται παρ’ Ἅιδῃ Πόλυβος ἄξῑ οὐδενός.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>οὔκουν ἐγώ σοι ταῦτα προύλεγον πάλαι;</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ηὔδας·  ἐγὼ δὲ τῷ φόβῳ παρηγόμην.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l n="975">μὴ νῦν ἔτ’ αὐτῶν μηδὲν ἐς θυμὸν βάλῃς.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>καὶ πῶς τὸ μητρὸς οὐκ ὀκνεῖν λέχος με δεῖ;</l>
 					<milestone ed="p" n="977" unit="card"/>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>τί δ’ ἂν φοβοῖτ’ ἄνθρωπος ᾧ τὰ τῆς τύχης</l>
 					<l>κρατεῖ, πρόνοια δ’ ἐστὶν οὐδενὸς σαφής;</l>
@@ -2043,17 +2043,17 @@ convert to TEI P3
 					<l>μητρὶ ξυνηυνάσθησαν.  ἀλλὰ ταῦθ’ ὅτῳ</l>
 					<l>παρ’ οὐδέν ἐστι, ῥᾷστα τὸν βίον φέρει.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>καλῶς ἅπαντα ταῦτ’ ἂν ἐξείρητό σοι,</l>
 					<l n="985">εἰ μὴ ’κύρει ζῶσ’ ἡ τεκοῦσα·  νῦν δ’ ἐπεὶ</l>
 					<l>ζῇ, πᾶσ’ ἀνάγκη, κεἰ καλῶς λέγεις, ὀκνεῖν.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>καὶ μὴν μέγας γ’ ὀφθαλμὸς οἱ πατρὸς τάφοι.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>μέγας, ξυνίημ’·   ἀλλὰ τῆς ζώσης φόβος.</l>
 				</sp>
@@ -2061,7 +2061,7 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l>ποίας δὲ καὶ γυναικὸς ἐκφοβεῖσθ’ ὕπερ;</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="990">Μερόπης, γεραιέ, Πόλυβος ἧς ᾤκει μέτα.</l>
 				</sp>
@@ -2069,7 +2069,7 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l>τί δ’ ἔστ’ ἐκείνης ὑμὶν ἐς φόβον φέρον;</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>θεήλατον μάντευμα δεινόν, ὦ ξένε.</l>
 				</sp>
@@ -2077,7 +2077,7 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l>ἦ ῥητόν; ἢ οὐχὶ θεμιτὸν ἄλλον εἰδέναι;</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>μάλιστά γ’·  εἶπε γάρ με Λοξίας ποτὲ</l>
 					<l n="995">χρῆναι μιγῆναι μητρὶ τἠμαυτοῦ τό τε</l>
@@ -2091,7 +2091,7 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l n="1000">ἦ γὰρ τάδ’ ὀκνῶν κεῖθεν ἦσθ’ ἀπόπτολις;</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>πατρός τε χρῄζων μὴ φονεὺς εἶναι, γέρον.</l>
 				</sp>
@@ -2100,7 +2100,7 @@ convert to TEI P3
 					<l>τί δῆτ’ ἐγὼ οὐχὶ τοῦδε τοῦ φόβου σ’, ἄναξ,</l>
 					<l>ἐπείπερ εὔνους ἦλθον, ἐξελυσάμην;</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>καὶ μὴν χάριν γ’ ἂν ἀξίαν λάβοις ἐμοῦ.</l>
 				</sp>
@@ -2109,7 +2109,7 @@ convert to TEI P3
 					<l n="1005">καὶ μὴν μάλιστα τοῦτ’ ἀφικόμην, ὅπως</l>
 					<l>σοῦ πρὸς δόμους ἐλθόντος εὖ πράξαιμί τι.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ἀλλ’ οὔποτ’ εἶμι   τοῖς φυτεύσασίν γ’ ὅμοῦ.</l>
 				</sp>
@@ -2117,7 +2117,7 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l>ὦ παῖ, καλῶς εἶ     δῆλος οὐκ εἰδὼς τί δρᾷς.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>πῶς, ὦ γεραιέ;  πρὸς θεῶν δίδασκέ με.</l>
 				</sp>
@@ -2125,7 +2125,7 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l n="1010">εἰ τῶνδε φεύγεις οὕνεκ’ εἰς οἴκους μολεῖν.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ταρβῶν γε μή μοι Φοῖβος ἐξέλθῃ σαφής.</l>
 				</sp>
@@ -2133,7 +2133,7 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l>ἦ μὴ μίασμα τῶν φυτευσάντων λάβῃς;</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>τοῦτ’ αὐτό, πρέσβυ, τοῦτό μ’ εἰσαεὶ φοβεῖ.</l>
 				</sp>
@@ -2141,7 +2141,7 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l>ἆρ’ οἶσθα δῆτα πρὸς δίκης οὐδὲν τρέμων;</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="1015">πῶς δ’ οὐχί, παῖς γ’ εἰ τῶνδε γεννητῶν ἔφυν;</l>
 				</sp>
@@ -2149,7 +2149,7 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l>ὁθούνεκ’ ἦν σοι Πόλυβος οὐδὲν ἐν γένει.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>πῶς εἶπας; οὐ     γὰρ Πόλυβος ἐξέφυσέ με;</l>
 				</sp>
@@ -2157,7 +2157,7 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l>οὐ μᾶλλον οὐδὲν τοῦδε τἀνδρός, ἀλλ’ ἴσον.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>καὶ πῶς ὁ φύσας ἐξ ἴσου τῷ μηδενί;</l>
 				</sp>
@@ -2165,7 +2165,7 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l n="1020">ἀλλ’ οὔ σ’ ἐγείνατ’  οὔτ’ ἐκεῖνος οὔτ’  ἐγώ.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ἀλλ’ ἀντὶ τοῦ δὴ παῖδά μ’ ὠνομάζετο;</l>
 				</sp>
@@ -2173,7 +2173,7 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l>δῶρόν ποτ’, ἴσθι, τῶν ἐμῶν χειρῶν λαβών.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>κᾆθ’ ὧδ’ ἀπ’ ἄλλης χειρὸς ἔστερξεν μέγα;</l>
 				</sp>
@@ -2181,7 +2181,7 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l>ἡ γὰρ πρὶν αὐτὸν ἐξέπεισ’ ἀπαιδία.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="1025">σὺ  δ’ ἐμπολήσας  ἢ τυχών μ’ αὐτῷ δίδως;</l>
 					<milestone ed="p" n="1026" unit="card"/>
@@ -2190,7 +2190,7 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l>εὑρὼν ναπαίαις ἐν Κιθαιρῶνος πτυχαῖς.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ὡδοιπόρεις δὲ     πρὸς τί τούσδε τοὺς τόπους;</l>
 				</sp>
@@ -2198,7 +2198,7 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l>ἐνταῦθ’ ὀρείοις ποιμνίοις ἐπεστάτουν.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ποιμὴν γὰρ ἦσθα κἀπὶ θητείᾳ πλάνης;</l>
 				</sp>
@@ -2206,7 +2206,7 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l n="1030">σοῦ τ’, ὦ τέκνον, σωτήρ γε τῷ τότ’ ἐν χρόνῳ.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>τί δ’ ἄλγος ἴσχοντ’ ἀγκάλαις με λαμβάνεις;</l>
 				</sp>
@@ -2214,7 +2214,7 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l>ποδῶν ἂν ἄρθρα μαρτυρήσειεν τὰ σά·</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>οἴμοι, τί τοῦτ’    ἀρχαῖον ἐννέπεις κακόν;</l>
 				</sp>
@@ -2222,7 +2222,7 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l>λύω σ’ ἔχοντα  διατόρους ποδοῖν ἀκμάς.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="1035">δεινόν γ’ ὄνειδος σπαργάνων ἀνειλόμην.</l>
 				</sp>
@@ -2230,7 +2230,7 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l>ὥστ’ ὠνομάσθης ἐκ τύχης ταύτης ὃς εἶ.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ὦ πρὸς θεῶν, πρὸς μητρὸς ἢ πατρός; φράσον.</l>
 				</sp>
@@ -2238,7 +2238,7 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l>οὐκ οἶδ’· ὁ δοὺς δὲ ταῦτ’ ἐμοῦ λῷον φρονεῖ.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ἦ γὰρ παρ’ ἄλλου μ’ ἔλαβες οὐδ’ αὐτὸς τυχών;</l>
 				</sp>
@@ -2246,7 +2246,7 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l n="1040">οὔκ, ἀλλὰ ποιμὴν ἄλλος ἐκδίδωσί μοι.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>τίς οὗτος; ἦ κάτοισθα δηλῶσαι λόγῳ;</l>
 				</sp>
@@ -2254,7 +2254,7 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l>τῶν Λαΐου δήπου τις ὠνομάζετο.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ἦ τοῦ τυράννου τῆσδε γῆς πάλαι ποτέ;</l>
 				</sp>
@@ -2262,7 +2262,7 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l>μάλιστα·  τούτου τἀνδρὸς οὗτος ἦν βοτήρ.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="1045">ἦ κἄστ’ ἔτι ζῶν οὗτος, ὥστ’ ἰδεῖν ἐμέ;</l>
 				</sp>
@@ -2270,7 +2270,7 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l>ὑμεῖς γ’ ἄριστ’  εἰδεῖτ’ ἂν οὑπιχώριοι.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ἔστιν τις ὑμῶν τῶν παρεστώτων πέλας,</l>
 					<l>ὅστις κάτοιδε τὸν βοτῆρ’ ὃν ἐννέπει,</l>
@@ -2284,57 +2284,57 @@ convert to TEI P3
 					<l>ἥδ’ ἂν τάδ’ οὐχ ἥκιστ’ ἂν Ἰοκάστη λέγοι.</l>
 					<milestone ed="p" n="1054" unit="card"/>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>γύναι, νοεῖς ἐκεῖνον, ὅντιν’ ἀρτίως</l>
 					<l n="1055">μολεῖν ἐφιέμεσθα; τόνδ’ οὗτος λέγει;</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>τί δ’ ὅντιν’ εἶπε; μηδὲν ἐντραπῇς·  τὰ δὲ</l>
 					<l>ῥηθέντα βούλου μηδὲ μεμνῆσθαι μάτην.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>οὐκ ἂν γένοιτο τοῦθ’ ὅπως ἐγὼ λαβὼν</l>
 					<l>σημεῖα τοιαῦτ’ οὐ φανῶ τοὐμὸν γένος.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l n="1060">μὴ πρὸς θεῶν, εἴπερ τι τοῦ σαυτοῦ βίου</l>
 					<l>κήδει, ματεύσῃς τοῦθ’·  ἅλις νοσοῦσ’ ἐγώ.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>θάρσει·  σὺ μὲν γὰρ οὐδ’ ἐὰν τρίτης ἐγὼ</l>
 					<l>μητρὸς φανῶ τρίδουλος, ἐκφανεῖ κακή.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>ὅμως πιθοῦ μοι, λίσσομαι·  μὴ δρᾶ τάδε.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="1065">οὐκ ἂν πιθοίμην μὴ οὐ τάδ’ ἐκμαθεῖν σαφῶς.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>καὶ μὴν φρονοῦσά γ’ εὖ τὰ λῷστά σοι λέγω.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>τὰ λῷστα τοίνυν ταῦτά μ’ ἀλγύνει πάλαι.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>ὦ δύσποτμ’, εἴθε μήποτε γνοίης ὃς εἶ.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ἄξει τις ἐλθὼν δεῦρο τὸν βοτῆρά μοι;</l>
 					<l n="1070">ταύτην δ’ ἐᾶτε πλουσίῳ χαίρειν γένει.</l>
 				</sp>
-				<sp who="#iokasth">
+				<sp who="#iokaste">
 					<speaker>Ἰοκάστη</speaker>
 					<l>ἰοὺ ἰού, δύστηνε·  τοῦτο γάρ σ’ ἔχω</l>
 					<l>μόνον προσειπεῖν, ἄλλο δ’ οὔποθ’ ὕστερον.</l>
@@ -2345,7 +2345,7 @@ convert to TEI P3
 					<l>ᾄξασα λύπης ἡ γυνή; δέδοιχ’ ὅπως</l>
 					<l n="1075">μὴ ’κ τῆς σιωπῆς τῆσδ’ ἀναρρήξει κακά.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ὁποῖα χρῄζει ῥηγνύτω·  τοὐμὸν δ’ ἐγώ,</l>
 					<l>κεἰ σμικρόν ἐστι, σπέρμ’ ἰδεῖν βουλήσομαι.</l>
@@ -2389,7 +2389,7 @@ convert to TEI P3
 				</div2>
 			</div1>
 			<div1 type="episode">
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="1110">εἰ χρή τι κἀμὲ μὴ συναλλάξαντά πω,</l>
 					<l>πρέσβεις, σταθμᾶσθαι, τὸν βοτῆρ’ ὁρᾶν δοκῶ,</l>
@@ -2404,7 +2404,7 @@ convert to TEI P3
 					<l>ἔγνωκα γάρ, σάφ’ ἴσθι·  Λαΐου γὰρ ἦν</l>
 					<l>εἴπερ τις ἄλλος πιστὸς ὡς νομεὺς ἀνήρ.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>σὲ πρῶτ’ ἐρωτῶ, τὸν Κορίνθιον ξένον,</l>
 					<l n="1120" part="I">ἦ τόνδε φράζεις;</l>
@@ -2413,44 +2413,44 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l part="F">τοῦτον, ὅνπερ εἰσορᾷς.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>οὗτος σύ, πρέσβυ, δεῦρό μοι φώνει βλέπων</l>
 					<l>ὅσ’ ἄν σ’ ἐρωτῶ.  Λαΐου ποτ’ ἦσθα σύ;</l>
 				</sp>
-				<sp who="#qerapwn">
+				<sp who="#therapon">
 					<speaker>Θεράπων</speaker>
 					<l>ἦ δοῦλος οὐκ ὠνητός, ἀλλ’ οἴκοι τραφείς.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ἔργον μεριμνῶν ποῖον ἢ βίον τινά;</l>
 				</sp>
-				<sp who="#qerapwn">
+				<sp who="#therapon">
 					<speaker>Θεράπων</speaker>
 					<l n="1125">ποίμναις τὰ πλεῖστα τοῦ βίου συνειπόμην.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>χώροις μάλιστα      πρὸς τίσι ξύναυλος ὤν;</l>
 				</sp>
-				<sp who="#qerapwn">
+				<sp who="#therapon">
 					<speaker>Θεράπων</speaker>
 					<l>ἦν μὲν Κιθαιρών, ἦν δὲ πρόσχωρος τόπος.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>τὸν ἄνδρα τόνδ’ οὖν οἶσθα τῇδέ που μαθών;</l>
 				</sp>
-				<sp who="#qerapwn">
+				<sp who="#therapon">
 					<speaker>Θεράπων</speaker>
 					<l>τί χρῆμα δρῶντα; ποῖον ἄνδρα καὶ λέγεις;</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="1130">τόνδ’ ὃς πάρεστιν·  ἢ ξυναλλάξας τί πω;</l>
 				</sp>
-				<sp who="#qerapwn">
+				<sp who="#therapon">
 					<speaker>Θεράπων</speaker>
 					<l>οὐχ ὥστε γ’ εἰπεῖν ἐν τάχει μνήμης ἄπο.</l>
 				</sp>
@@ -2467,7 +2467,7 @@ convert to TEI P3
 					<l n="1140">λέγω τι τούτων ἢ οὐ λέγω πεπραγμένον;</l>
 					<milestone ed="p" n="1141" unit="card"/>
 				</sp>
-				<sp who="#qerapwn">
+				<sp who="#therapon">
 					<speaker>Θεράπων</speaker>
 					<l>λέγεις ἀληθῆ, καίπερ ἐκ μακροῦ χρόνου.</l>
 				</sp>
@@ -2476,7 +2476,7 @@ convert to TEI P3
 					<l>φέρ’ εἰπὲ νῦν, τότ’ οἶσθα παῖδά μοί τινα</l>
 					<l>δούς, ὡς ἐμαυτῷ θρέμμα θρεψαίμην ἐγώ;</l>
 				</sp>
-				<sp who="#qerapwn">
+				<sp who="#therapon">
 					<speaker>Θεράπων</speaker>
 					<l>τί δ’ ἔστι; πρὸς   τί τοῦτο τοὔπος ἱστορεῖς;</l>
 				</sp>
@@ -2484,153 +2484,153 @@ convert to TEI P3
 					<speaker>Ἄγγελος</speaker>
 					<l n="1145">ὅδ’ ἐστίν, ὦ τᾶν, κεῖνος ὃς τότ’ ἦν νέος.</l>
 				</sp>
-				<sp who="#qerapwn">
+				<sp who="#therapon">
 					<speaker>Θεράπων</speaker>
 					<l>οὐκ εἰς ὄλεθρον; οὐ σιωπήσας ἔσει;</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ἆ, μὴ κόλαζε, πρέσβυ, τόνδ’, ἐπεὶ τὰ σὰ</l>
 					<l>δεῖται κολαστοῦ μᾶλλον ἢ τὰ τοῦδ’ ἔπη.</l>
 				</sp>
-				<sp who="#qerapwn">
+				<sp who="#therapon">
 					<speaker>Θεράπων</speaker>
 					<l>τί δ’, ὦ φέριστε δεσποτῶν, ἁμαρτάνω;</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="1150">οὐκ ἐννέπων τὸν παῖδ’  ὃν οὗτος ἱστορεῖ.</l>
 				</sp>
-				<sp who="#qerapwn">
+				<sp who="#therapon">
 					<speaker>Θεράπων</speaker>
 					<l>λέγει γὰρ εἰδὼς  οὐδέν, ἀλλ’ ἄλλως πονεῖ.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>σὺ πρὸς χάριν μὲν οὐκ ἐρεῖς, κλαίων δ’ ἐρεῖς.</l>
 				</sp>
-				<sp who="#qerapwn">
+				<sp who="#therapon">
 					<speaker>Θεράπων</speaker>
 					<l>μὴ δῆτα, πρὸς θεῶν, τὸν γέροντά μ’ αἰκίσῃ.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>οὐχ ὡς τάχος τις    τοῦδ’ ἀποστρέψει χέρας;</l>
 				</sp>
-				<sp who="#qerapwn">
+				<sp who="#therapon">
 					<speaker>Θεράπων</speaker>
 					<l n="1155">δύστηνος, ἀντὶ τοῦ; τί προσχρῄζων μαθεῖν;</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>τὸν παῖδ’ ἔδωκας τῷδ’  ὃν οὗτος ἱστορεῖ;</l>
 				</sp>
-				<sp who="#qerapwn">
+				<sp who="#therapon">
 					<speaker>Θεράπων</speaker>
 					<l>ἔδωκ’·  ὀλέσθαι δ’ ὤφελον τῇδ’ ἡμέρᾳ.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ἀλλ’ εἰς τόδ’ ἥξεις μὴ λέγων γε τοὔνδικον.</l>
 				</sp>
-				<sp who="#qerapwn">
+				<sp who="#therapon">
 					<speaker>Θεράπων</speaker>
 					<l>πολλῷ γε μᾶλλον, ἢν φράσω, διόλλυμαι.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="1160">ἁνὴρ ὅδ’, ὡς ἔοικεν, ἐς τριβὰς ἐλᾷ.</l>
 				</sp>
-				<sp who="#qerapwn">
+				<sp who="#therapon">
 					<speaker>Θεράπων</speaker>
 					<l>οὐ δῆτ’ ἔγωγ’,   ἀλλ’ εἶπον, ὡς δοίην, πάλαι.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>πόθεν λαβών; οἰκεῖον ἢ ’ξ ἄλλου τινός;</l>
 				</sp>
-				<sp who="#qerapwn">
+				<sp who="#therapon">
 					<speaker>Θεράπων</speaker>
 					<l>ἐμὸν μὲν οὐκ ἔγωγ’, ἐδεξάμην δέ του.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>τίνος πολιτῶν τῶνδε κἀκ ποίας στέγης;</l>
 				</sp>
-				<sp who="#qerapwn">
+				<sp who="#therapon">
 					<speaker>Θεράπων</speaker>
 					<l n="1165">μὴ πρὸς θεῶν, μή, δέσποθ’, ἱστόρει πλέον.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ὄλωλας, εἴ σε ταῦτ’ ἐρήσομαι πάλιν.</l>
 				</sp>
-				<sp who="#qerapwn">
+				<sp who="#therapon">
 					<speaker>Θεράπων</speaker>
 					<l>τῶν Λαΐου τοίνυν τις ἦν γεννημάτων.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ἦ δοῦλος ἢ κείνου τις ἐγγενὴς γεγώς;</l>
 				</sp>
-				<sp who="#qerapwn">
+				<sp who="#therapon">
 					<speaker>Θεράπων</speaker>
 					<l>οἴμοι, πρὸς αὐτῷ γ’ εἰμὶ τῷ δεινῷ λέγειν.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="1170">κἄγωγ’  ἀκούειν·  ἀλλ’  ὅμως ἀκουστέον.</l>
 					<milestone ed="p" n="1171" unit="card"/>
 				</sp>
-				<sp who="#qerapwn">
+				<sp who="#therapon">
 					<speaker>Θεράπων</speaker>
 					<l>κείνου γέ τοι δὴ παῖς ἐκλῄζεθ’·  ἡ δ’ ἔσω</l>
 					<l>κάλλιστ’ ἂν εἴποι σὴ γυνὴ τάδ’ ὡς ἔχει.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l part="I">ἦ γὰρ δίδωσιν ἥδε σοι;</l>
 				</sp>
-				<sp who="#qerapwn">
+				<sp who="#therapon">
 					<speaker>Θεράπων</speaker>
 					<l part="F">μάλιστ’, ἄναξ.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l part="I">ὡς πρὸς τί χρείας;</l>
 				</sp>
-				<sp who="#qerapwn">
+				<sp who="#therapon">
 					<speaker>Θεράπων</speaker>
 					<l part="F">ὡς ἀναλώσαιμί νιν.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="1175" part="I">τεκοῦσα τλήμων;</l>
 				</sp>
-				<sp who="#qerapwn">
+				<sp who="#therapon">
 					<speaker>Θεράπων</speaker>
 					<l part="F">θεσφάτων γ’ ὄκνῳ κακῶν.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l part="I">ποίων;</l>
 				</sp>
-				<sp who="#qerapwn">
+				<sp who="#therapon">
 					<speaker>Θεράπων</speaker>
 					<l part="F">κτενεῖν νιν τοὺς τεκόντας ἦν λόγος.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>πῶς δῆτ’ ἀφῆκας τῷ γέροντι τῷδε σύ;</l>
 				</sp>
-				<sp who="#qerapwn">
+				<sp who="#therapon">
 					<speaker>Θεράπων</speaker>
 					<l>κατοικτίσας, ὦ δέσποθ’, ὡς ἄλλην χθόνα</l>
 					<l>δοκῶν ἀποίσειν,    αὐτὸς ἔνθεν ἦν·  ὁ δὲ</l>
 					<l n="1180">κάκ’  εἰς μέγιστ’  ἔσωσεν.  εἰ γὰρ οὗτος εἶ</l>
 					<l>ὅν φησιν οὗτος, ἴσθι δύσποτμος γεγώς.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ἰοὺ ἰού·  τὰ πάντ’ ἂν ἐξήκοι σαφῆ.</l>
 					<l>ὦ φῶς, τελευταῖόν σε προσβλέψαιμι νῦν,</l>
@@ -2703,7 +2703,7 @@ convert to TEI P3
 				</div2>
 			</div1>
 			<div1 type="episode">
-				<sp who="#ecaggelos">
+				<sp who="#eksaggelos">
 					<speaker>Ἐξάγγελος</speaker>
 					<l>ὦ γῆς μέγιστα τῆσδ’ ἀεὶ τιμώμενοι,</l>
 					<l>οἷ’, ἔργ’ ἀκούσεσθ’, οἷα δ’ εἰσόψεσθ’, ὅσον δ’</l>
@@ -2720,7 +2720,7 @@ convert to TEI P3
 					<l>λείπει μὲν οὐδ’ ἃ πρόσθεν εἴδομεν τὸ μὴ οὐ</l>
 					<l>βαρύστον’ εἶναι·  πρὸς δ’ ἐκείνοισιν τί φῄς;</l>
 				</sp>
-				<sp who="#ecaggelos">
+				<sp who="#eksaggelos">
 					<speaker>Ἐξάγγελος</speaker>
 					<l>ὁ μὲν τάχιστος τῶν λόγων εἰπεῖν τε καὶ</l>
 					<l n="1235">μαθεῖν, τέθνηκε θεῖον Ἰοκάστης κάρα.</l>
@@ -2730,7 +2730,7 @@ convert to TEI P3
 					<l>ὦ δυστάλαινα, πρὸς τίνος ποτ’ αἰτίας;</l>
 					<milestone ed="p" n="1237" unit="card"/>
 				</sp>
-				<sp who="#ecaggelos">
+				<sp who="#eksaggelos">
 					<speaker>Ἐξάγγελος</speaker>
 					<l>αὐτὴ πρὸς αὑτῆς.  τῶν δὲ πραχθέντων τὰ μὲν</l>
 					<l>ἄλγιστ’ ἄπεστιν·  ἡ γὰρ ὄψις οὐ πάρα.</l>
@@ -2787,7 +2787,7 @@ convert to TEI P3
 					<speaker>Χορός</speaker>
 					<l n="1285">νῦν δ’ ἔσθ’ ὁ τλήμων ἐν τίνι σχολῇ κακοῦ;</l>
 				</sp>
-				<sp who="#ecaggelos">
+				<sp who="#eksaggelos">
 					<speaker>Ἐξάγγελος</speaker>
 					<l>βοᾷ διοίγειν κλῇθρα καὶ δηλοῦν τινα</l>
 					<l>τοῖς πᾶσι Καδμείοισι τὸν πατροκτόνον,</l>
@@ -2816,7 +2816,7 @@ convert to TEI P3
 						<l n="1305">πολλὰ δ’ ἀθρῆσαι·</l>
 						<l>τοίαν φρίκην παρέχεις μοι.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>αἰαῖ αἰαῖ, δύστανος ἐγώ,</l>
 						<l>ποῖ γᾶς φέρομαι τλάμων; πᾷ μοι</l>
@@ -2832,7 +2832,7 @@ convert to TEI P3
 			</div1>
 			<div1 type="choral">
 				<div2 n="1" type="strophe">
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>ἰὼ σκότου</l>
 						<l>νέφος ἐμὸν ἀπότροπον, ἐπιπλόμενον ἄφατον,</l>
@@ -2851,7 +2851,7 @@ convert to TEI P3
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>ἰὼ φίλος,</l>
 						<l>σὺ μὲν ἐμὸς ἐπίπολος ἔτι μόνιμος·  ἔτι γὰρ</l>
@@ -2870,7 +2870,7 @@ convert to TEI P3
 					</sp>
 				</div2>
 				<div2 n="2" type="strophe">
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>Ἀπόλλων τάδ’ ἦν, Ἀπόλλων, φίλοι,</l>
 						<l n="1330">ὁ κακὰ κακὰ τελῶν ἐμὰ τάδ’ ἐμὰ πάθεα.</l>
@@ -2882,7 +2882,7 @@ convert to TEI P3
 						<speaker>Χορός</speaker>
 						<l>ἦν τᾷδ’ ὅπωσπερ καὶ σύ φῄς.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>τί δῆτ’ ἐμοὶ βλεπτὸν ἢ</l>
 						<l>στερκτὸν ἢ προσήγορον</l>
@@ -2900,7 +2900,7 @@ convert to TEI P3
 					</sp>
 				</div2>
 				<div2 n="2" type="antistrophe">
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>ὄλοιθ’  ὅστις ἦν, ὃς ἀγρίας πέδας</l>
 						<l n="1350">μονάδ’ ἐπιποδίας ἔλυσ’ μ’ ἀπό τε φόνου</l>
@@ -2912,7 +2912,7 @@ convert to TEI P3
 						<speaker>Χορός</speaker>
 						<l>θέλοντι κἀμοὶ τοῦτ’ ἂν ἦν.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l>οὔκουν πατρός γ’  ἂν φονεὺς</l>
 						<l>ἦλθον οὐδὲ νυμφίος</l>
@@ -2931,7 +2931,7 @@ convert to TEI P3
 					<l>οὐκ οἶδ’ ὅπως σε φῶ βεβουλεῦσθαι καλῶς·</l>
 					<l>κρείσσων γὰρ ἦσθα μηκέτ’ ὢν ἢ ζῶν τυφλός.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ὡς μὲν τάδ’ οὐχ ὧδ’ ἔστ’ ἄριστ’ εἰργασμένα,</l>
 					<l n="1370">μή μ’ ἐκδίδασκε, μηδὲ συμβούλεῡ ἔτι.</l>
@@ -2988,13 +2988,13 @@ convert to TEI P3
 					<l>Κρέων τὸ πράσσειν καὶ τὸ βουλεύειν, ἐπεὶ</l>
 					<l>χώρας λέλειπται μοῦνος ἀντὶ σοῦ φύλαξ.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>οἴμοι, τί δῆτα λέξομεν πρὸς τόνδ’ ἔπος;</l>
 					<l n="1420">τίς μοι φανεῖται πίστις ἔνδικος;  τὰ γὰρ</l>
 					<l>πάρος πρὸς αὐτὸν πάντ’ ἐφεύρημαι κακός.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>οὐχ ὡς γελαστής, Οἰδίπους, ἐλήλυθα,</l>
 					<l>οὐδ’ ὡς ὀνειδιῶν τι τῶν πάρος κακῶν.</l>
@@ -3007,46 +3007,46 @@ convert to TEI P3
 					<l n="1430">τοῖς ἐν γένει γὰρ τἀγγενῆ μάλισθ’ ὁρᾶν</l>
 					<l>μόνοις τ’ ἀκούειν εὐσεβῶς ἔχει κακά.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>πρὸς θεῶν, ἐπείπερ ἐλπίδος μ’ ἀπέσπασας,</l>
 					<l>ἄριστος ἐλθὼν πρὸς κάκιστον ἄνδρ’ ἐμέ,</l>
 					<l>πιθοῦ τί μοι·  πρὸς σοῦ γὰρ οὐδ’ ἐμοῦ φράσω.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l n="1435">καὶ τοῦ με χρείας ὧδε λιπαρεῖς τυχεῖν;</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ῥῖψόν με γῆς ἐκ τῆσδ’ ὅσον τάχισθ’, ὅπου</l>
 					<l>θνητῶν φανοῦμαι μηδενὸς προσήγορος.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>ἔδρασ’ ἂν εὖ τοῦτ’ ἴσθ’ ἄν, εἰ μὴ τοῦ θεοῦ</l>
 					<l>πρώτιστ’ ἔχρῃζον ἐκμαθεῖν τί πρακτέαν.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l n="1440">ἀλλ’ ἥ γ’ ἐκείνου πᾶσ’ ἐδηλώθη φάτις,</l>
 					<l>τὸν πατροφόντην, τὸν ἀσεβῆ μ’ ἀπολλύναι.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>οὕτως ἐλέχθη ταῦθ’·  ὅμως δ’ ἵν’ ἕσταμεν</l>
 					<l>χρείας, ἄμεινον ἐκμαθεῖν τι δραστέον.</l>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>οὕτως ἄρ’ ἀνδρὸς ἀθλίου πεύσεσθ’ ὕπερ;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l n="1445">καὶ γὰρ σὺ νῦν τἂν τῷ θεῷ πίστιν φέροις.</l>
 					<milestone ed="p" n="1446" unit="card"/>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>καὶ σοί γ’ ἐπισκήπτω τε καὶ προστέψομαι,</l>
 					<l>τῆς μὲν κατ’ οἴκους αὐτὸς ὃν θέλεις τάφον</l>
@@ -3079,13 +3079,13 @@ convert to TEI P3
 					<l>ἔπεμψέ μοι τὰ φίλτατ’ ἐκγόνοιν ἐμοῖν;</l>
 					<l n="1475">λέγω τι;</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l>λέγεις·  ἐγὼ γὰρ εἰμ’ ὁ πορσύνας τάδε,</l>
 					<l>γνοὺς τὴν παροῦσαν τέρψιν, ἥ σ’ εἶχεν πάλαι.</l>
 					<milestone ed="p" n="1478" unit="card"/>
 				</sp>
-				<sp who="#oidipous">
+				<sp who="#oidipoys">
 					<speaker>Οἰδίπους</speaker>
 					<l>ἀλλ’ εὐτυχοίης, καί σε τῆσδε τῆσδε τῆς ὁδοῦ</l>
 					<l>δαίμων ἄμεινον ἢ ’μὲ φρουρήσας τύχοι.</l>
@@ -3124,65 +3124,65 @@ convert to TEI P3
 					<l>οὗ καιρὸς ἐᾷ ζῆν, τοῦ βίου δὲ λῴονος</l>
 					<l>ὑμᾶς κυρῆσαι τοῦ   φυτεύσαντος πατρός.</l>
 				</sp>
-				<sp who="#krewn">
+				<sp who="#kreon">
 					<speaker>Κρέων</speaker>
 					<l n="1515">ἅλις ἵν’ ἐξήκεις δακρύων·  ἀλλ’ ἴθι στέγης ἔσω.</l>
 					<milestone ed="p" n="1516" unit="card"/>
 				</sp>
 				<div2 met="trochaic" type="close">
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l part="I">πειστέον, κεἰ μηδὲν ἡδύ.</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l part="F">πάντα γὰρ καιρῷ καλά.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l part="I">οἶσθ’ ἐφ’ οἷς οὖν εἶμι;</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l part="F">λέξεις, καὶ τότ’ εἴσομαι κλύων.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l part="I">γῆς μ’ ὅπως πέμψεις ἄποικον.</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l part="F">τοῦ θεοῦ μ’ αἰτεῖς δόσιν.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l part="I">ἀλλὰ θεοῖς γ’ ἔχθιστος ἥκω.</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l part="F">τοιγαροῦν τεύξει τάχα.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l n="1520" part="I">φὴ|ς τάδ’ οὖν;</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l part="F">ἃ μὴ φρονῶ γὰρ οὐ φιλῶ λέγειν μάτην.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l part="I">ἄπαγέ νύν μ’ ἐντεῦθεν ἤδη.</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l part="F">στεῖχέ νυν, τέκνων δ’ ἀφοῦ.</l>
 					</sp>
-					<sp who="#oidipous">
+					<sp who="#oidipoys">
 						<speaker>Οἰδίπους</speaker>
 						<l part="I">μηδαμῶς ταύτας γ’ ἕλῃ μου.</l>
 					</sp>
-					<sp who="#krewn">
+					<sp who="#kreon">
 						<speaker>Κρέων</speaker>
 						<l part="F">πάντα μὴ βούλου κρατεῖν·</l>
 						<l>καὶ γὰρ ἁκράτησας οὔ σοι τῷ βίῳ ξυνέσπετο.</l>

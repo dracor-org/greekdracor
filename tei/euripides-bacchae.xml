@@ -33,6 +33,7 @@
 							<publisher>Clarendon Press, Oxford</publisher>
 							<date>1913</date>
 						</imprint>
+						<date type="premiere" when="-405">405 BCE</date>
 					</bibl>
 				</biblStruct>
 			</sourceDesc>
@@ -45,7 +46,6 @@
 						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
 					</licence>
 				</availability>
-				<date type="premiere" when="-405">405 BCE</date>
 			</bibl>
 		</fileDesc>
 		<profileDesc>
@@ -162,7 +162,7 @@ convert to P3
 		<body>
 			<div1 type="episode">
 				<milestone ed="p" n="1" unit="card"/>
-				<sp n="Διόνυσος" who="#dionusos">
+				<sp n="Διόνυσος" who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>ἥκω Διὸς παῖς τήνδε Θηβαίων χθόνα</l>
 					<l>Διόνυσος, ὃν τίκτει ποθ’ ἡ Κάδμου κόρη</l>
@@ -476,7 +476,7 @@ convert to P3
 					<l>ὡς ἐπτόηται· τί ποτ’ ἐρεῖ νεώτερον;</l>
 					<milestone ed="p" n="215" unit="card"/>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l n="215">ἔκδημος ὢν μὲν τῆσδ’ ἐτύγχανον χθονός,</l>
 					<l>κλύω δὲ νεοχμὰ τήνδ’ ἀνὰ πτόλιν κακά,</l>
@@ -658,7 +658,7 @@ convert to P3
 					<l>κισσῷ· μεθ’ ἡμῶν τῷ θεῷ τιμὴν δίδου.</l>
 				</sp>
 				<milestone ed="p" n="343" unit="card"/>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l>οὐ μὴ προσοίσεις χεῖρα, βακχεύσεις δ’ ἰών,</l>
 					<l>μηδ’ ἐξομόρξῃ μωρίαν τὴν σὴν ἐμοί;</l>
@@ -787,7 +787,7 @@ convert to P3
 				</div2>
 			</div1>
 			<div1 type="episode">
-				<sp who="#qerapwn">
+				<sp who="#therapon">
 					<speaker>Θεράπων</speaker>
 					<l>Πενθεῦ, πάρεσμεν τήνδ’ ἄγραν ἠγρευκότες</l>
 					<l n="435">ἐφ’ ἣν ἔπεμψας, οὐδ’ ἄκρανθ’ ὡρμήσαμεν.</l>
@@ -810,7 +810,7 @@ convert to P3
 					<l>πολλῶν δ’ ὅδ’ ἁνὴρ θαυμάτων ἥκει πλέως</l>
 					<l n="450">ἐς τάσδε Θήβας. σοὶ δὲ τἄλλα χρὴ μέλειν.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l>μέθεσθε χειρῶν τοῦδ’· ἐν ἄρκυσιν γὰρ ὢν</l>
 					<l>οὐκ ἔστιν οὕτως ὠκὺς ὥστε μ’ ἐκφυγεῖν.</l>
@@ -826,197 +826,197 @@ convert to P3
 					<l>τὴν Ἀφροδίτην καλλονῇ θηρώμενος.</l>
 					<l n="460">πρῶτον μὲν οὖν μοι λέξον ὅστις εἶ γένος.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>οὐ κόμπος οὐδείς· ῥᾴδιον δ’ εἰπεῖν τόδε.</l>
 					<l>τὸν ἀνθεμώδη Τμῶλον οἶσθά που κλύων.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l>οἶδ’, ὃς τὸ Σάρδεων ἄστυ περιβάλλει κύκλῳ.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>ἐντεῦθέν εἰμι, Λυδία δέ μοι πατρίς.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l n="465">πόθεν δὲ τελετὰς τάσδ’ ἄγεις ἐς Ἑλλάδα;</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>Διόνυσος ἡμᾶς εἰσέβησ’, ὁ τοῦ Διός.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l>Ζεὺς δ’ ἔστ’ ἐκεῖ τις, ὃς νέους τίκτει θεούς;</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>οὔκ, ἀλλ’ ὁ Σεμέλην ἐνθάδε ζεύξας γάμοις.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l>πότερα δὲ νύκτωρ σ’ ἢ κατ’ ὄμμ’ ἠνάγκασεν;</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l n="470">ὁρῶν ὁρῶντα, καὶ δίδωσιν ὄργια.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l>τὰ δ’ ὄργῑ ἐστὶ τίν’ ἰδέαν ἔχοντά σοι;</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>ἄρρητ’ ἀβακχεύτοισιν εἰδέναι βροτῶν.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l>ἔχει δ’ ὄνησιν τοῖσι θύουσιν τίνα;</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>οὐ θέμις ἀκοῦσαί σ’, ἔστι δ’ ἄξῑ εἰδέναι.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l n="475">εὖ τοῦτ’ ἐκιβδήλευσας, ἵν’ ἀκοῦσαι θέλω.</l>
 					<milestone ed="p" n="476" unit="card"/>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>ἀσέβειαν ἀσκοῦντ’ ὄργῑ ἐχθαίρει θεοῦ.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l>τὸν θεὸν ὁρᾶν γὰρ φὴ|ς σαφῶς, ποῖός τις ἦν;</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>ὁποῖος ἤθελ’· οὐκ ἐγὼ ’τασσον τόδε.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l>τοῦτ’ αὖ παρωχέτευσας εὖ κοὐδὲν λέγων.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l n="480">δόξει τις ἀμαθεῖ σοφὰ λέγων οὐκ εὖ φρονεῖν.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l>ἦλθες δὲ πρῶτα δεῦρ’ ἄγων τὸν δαίμονα;</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>πᾶς ἀναχορεύει βαρβάρων τάδ’ ὄργια.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l>φρονοῦσι γὰρ κάκιον Ἑλλήνων πολύ.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>τάδ’ εὖ γε μᾶλλον· οἱ νόμοι δὲ διάφοροι.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l n="485">τὰ δ’ ἱερὰ νύκτωρ ἢ μεθ’ ἡμέραν τελεῖς;</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>νύκτωρ τὰ πολλά· σεμνότητ’ ἔχει σκότος.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l>τοῦτ’ ἐς γυναῖκας δόλιόν ἐστι καὶ σαθρόν.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>κἀν ἡμέρᾳ τό γ’ αἰσχρὸν ἐξεύροι τις ἄν.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l>δίκην σε δοῦναι δεῖ σοφισμάτων κακῶν.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l n="490">σὲ δ’ ἀμαθίας γε κἀσεβοῦντ’ ἐς τὸν θεόν.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l>ὡς θρασὺς ὁ βάκχος κοὐκ ἀγύμναστος λόγων.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>εἴφ’ ὅ τι παθεῖν δεῖ· τί με τὸ δεινὸν ἐργάσῃ;</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l>πρῶτον μὲν ἁβρὸν βόστρυχον τεμῶ σέθεν.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>ἱερὸς ὁ πλόκαμος· τῷ θεῷ δ’ αὐτὸν τρέφω.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l n="495">ἔπειτα θύρσον τόνδε παράδος ἐκ χεροῖν.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>αὐτός μ’ ἀφαιροῦ· τόνδε Διονύσου φορῶ.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l>εἱρκταῖσί τ’ ἔνδον σῶμα σὸν φυλάξομεν.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>λύσει μ’ ὁ δαίμων αὐτός, ὅταν ἐγὼ θέλω.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l>ὅταν γε καλέσῃς αὐτὸν ἐν βάκχαις σταθείς.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l n="500">καὶ νῦν ἃ πάσχω πλησίον παρὼν ὁρᾷ.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l>καὶ ποῦ ’στιν; οὐ γὰρ φανερὸς ὄμμασίν γ’ ἐμοῖς.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>παρ’ ἐμοί· σὺ δ’ ἀσεβὴς αὐτὸς ὢν οὐκ εἰσορᾷς.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l>λάζυσθε· καταφρονεῖ με καὶ Θήβας ὅδε.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>αὐδῶ με μὴ δεῖν σωφρονῶν οὐ σώφροσιν.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l n="505">ἐγὼ δὲ δεῖν γε, κυριώτερος σέθεν.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>οὐκ οἶσθ’ ὅ τι ζῇς, οὐδ’ ὃ δρᾷς, οὐδ’ ὅστις εἶ.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l>Πενθεύς, Ἀγαύης παῖς, πατρὸς δ’ Ἐχίονος.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>ἐνδυστυχῆσαι τοὔνομ’ ἐπιτήδειος εἶ.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l>χώρει· καθείρξατ’ αὐτὸν ἱππικαῖς πέλας</l>
 					<l n="510">φάτναισιν, ὡς ἂν σκότιον εἰσορᾷ κνέφας.</l>
@@ -1025,7 +1025,7 @@ convert to P3
 					<l>ἢ χεῖρα δούπου τοῦδε καὶ βύρσης κτύπου</l>
 					<l>παύσας, ἐφ’ ἱστοῖς δμωίδας κεκτήσομαι.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l n="515">στείχοιμ’ ἄν· ὅ τι γὰρ μὴ χρεών, οὔτοι χρεὼν</l>
 					<l>παθεῖν. ἀτάρ τοι τῶνδ’ ἄποιν’ ὑβρισμάτων</l>
@@ -1116,7 +1116,7 @@ convert to P3
 			</div1>
 			<div1 type="episode">
 				<div2 type="lyric">
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>ἰώ,</l>
 						<l>κλύετ’ ἐμᾶς κλύετ’ αὐδᾶς,</l>
@@ -1131,7 +1131,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 type="lyric">
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l n="580">ἰὼ ἰώ, πάλιν αὐδῶ,</l>
 						<l>ὁ Σεμέλας, ὁ Διὸς παῖς.</l>
@@ -1146,7 +1146,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 type="lyric">
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l n="585">&lt;σεῖε&gt; πέδον χθονὸς Ἔννοσι πότνια.</l>
 					</sp>
@@ -1166,7 +1166,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 type="lyric">
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>ἅπτε κεραύνιον αἴθοπα λαμπάδα·</l>
 						<l n="595">σύμφλεγε σύμφλεγε δώματα Πενθέος.</l>
@@ -1188,7 +1188,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 type="trochees">
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>βάρβαροι γυναῖκες, οὕτως ἐκπεπληγμέναι φόβῳ</l>
 						<l n="605">πρὸς πέδῳ πεπτώκατ’; ᾔσθησθ’, ὡς ἔοικε, Βακχίου</l>
@@ -1204,7 +1204,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 type="trochees">
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l n="610">εἰς ἀθυμίαν ἀφίκεσθ’, ἡνίκ’ εἰσεπεμπόμην,</l>
 						<l>Πενθέως ὡς ἐς σκοτεινὰς ὁρκάνας πεσούμενος;</l>
@@ -1218,7 +1218,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 type="trochees">
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>αὐτὸς ἐξέσῳσ’ ἐμαυτὸν ῥᾳδίως ἄνευ πόνου.</l>
 					</sp>
@@ -1230,7 +1230,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 type="trochees">
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>ταῦτα καὶ καθύβρισ’ αὐτόν, ὅτι με δεσμεύειν δοκῶν</l>
 						<l>οὔτ’ ἔθιγεν οὔθ’ ἥψαθ’ ἡμῶν, ἐλπίσιν δ’ ἐβόσκετο.</l>
@@ -1263,7 +1263,7 @@ convert to P3
 						<l>πρὸς σοφοῦ γὰρ ἀνδρὸς ἀσκεῖν σώφρον’ εὐοργησίαν.</l>
 						<milestone ed="p" n="642" unit="card"/>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l>πέπονθα δεινά· διαπέφευγέ μ’ ὁ ξένος,</l>
 						<l>ὃς ἄρτι δεσμοῖς ἦν κατηναγκασμένος.</l>
@@ -1271,49 +1271,49 @@ convert to P3
 						<l n="645">ὅδ’ ἐστὶν ἁνήρ· τί τάδε; πῶς προνώπιος</l>
 						<l>φαίνῃ πρὸς οἴκοις τοῖς ἐμοῖς, ἔξω βεβώς;</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>στῆσον πόδ’, ὀργῇ δ’ ὑπόθες ἥσυχον πόδα.</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l>πόθεν σὺ δεσμὰ διαφυγὼν ἔξω περᾷς;</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>οὐκ εἶπον‐‐ἢ οὐκ ἤκουσας‐‐ὅτι λύσει μέ τις;</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l n="650">τίς; τοὺς λόγους γὰρ ἐσφέρεις καινοὺς ἀεί.</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>ὃς τὴν πολύβοτρυν ἄμπελον φύει βροτοῖς.</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l>
 							<gap desc="*"/>
 						</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>ὠνείδισας δὴ τοῦτο Διονύσῳ καλόν.</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l>κλῄειν κελεύω πάντα πύργον ἐν κύκλῳ.</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>τί δ’; οὐχ ὑπερβαίνουσι καὶ τείχη θεοί;</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l n="655">σοφὸς σοφὸς σύ, πλὴν ἃ δεῖ σ’ εἶναι σοφόν.</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>ἃ δεῖ μάλιστα, ταῦτ’ ἔγωγ’ ἔφυν σοφός.</l>
 						<l>κείνου δ’ ἀκούσας πρῶτα τοὺς λόγους μάθε,</l>
@@ -1326,7 +1326,7 @@ convert to P3
 						<l>ἥκω Κιθαιρῶν’ ἐκλιπών, ἵν’ οὔποτε</l>
 						<l>λευκῆς χιόνος ἀνεῖσαν εὐαγεῖς βολαί.</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l>ἥκεις δὲ ποίαν προστιθεὶς σπουδὴν λόγου;</l>
 					</sp>
@@ -1341,7 +1341,7 @@ convert to P3
 						<l n="670">τὸ γὰρ τάχος σου τῶν φρενῶν δέδοικ’, ἄναξ,</l>
 						<l>καὶ τοὐξύθυμον καὶ τὸ βασιλικὸν λίαν.</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l>λέγ’, ὡς ἀθῷος ἐξ ἐμοῦ πάντως ἔσῃ.</l>
 						<l>τοῖς γὰρ δικαίοις οὐχὶ θυμοῦσθαι χρεών.</l>
@@ -1474,7 +1474,7 @@ convert to P3
 						<l>πρὸς τὸν τύραννον, ἀλλ’ ὅμως εἰρήσεται·</l>
 						<l>Διόνυσος ἥσσων οὐδενὸς θεῶν ἔφυ.</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l>ἤδη τόδ’ ἐγγὺς ὥστε πῦρ ὑφάπτεται</l>
 						<l>ὕβρισμα βακχῶν, ψόγος ἐς Ἕλληνας μέγας.</l>
@@ -1486,7 +1486,7 @@ convert to P3
 						<l n="785">βάκχαισιν· οὐ γὰρ ἀλλ’ ὑπερβάλλει τάδε,</l>
 						<l>εἰ πρὸς γυναικῶν πεισόμεσθ’ ἃ πάσχομεν.</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>πείθῃ μὲν οὐδέν, τῶν ἐμῶν λόγων κλύων,</l>
 						<l>Πενθεῦ· κακῶς δὲ πρὸς σέθεν πάσχων ὅμως</l>
@@ -1494,204 +1494,204 @@ convert to P3
 						<l n="790">ἀλλ’ ἡσυχάζειν· Βρόμιος οὐκ ἀνέξεται</l>
 						<l>κινοῦντα βάκχας &lt;σ’&gt; εὐίων ὀρῶν ἄπο.</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l>οὐ μὴ φρενώσεις μ’, ἀλλὰ δέσμιος φυγὼν</l>
 						<l>σῴσῃ τόδ’; ἢ σοὶ πάλιν ἀναστρέψω δίκην;</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>θύοιμ’ ἂν αὐτῷ μᾶλλον ἢ θυμούμενος</l>
 						<l n="795">πρὸς κέντρα λακτίζοιμι θνητὸς ὢν θεῷ.</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l>θύσω, φόνον γε θῆλυν, ὥσπερ ἄξιαι,</l>
 						<l>πολὺν ταράξας ἐν Κιθαιρῶνος πτυχαῖς.</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>φεύξεσθε πάντες· καὶ τόδ’ αἰσχρόν, ἀσπίδας</l>
 						<l>θύρσοισι βακχῶν ἐκτρέπειν χαλκηλάτους</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l n="800">ἀπόρῳ γε τῷδε συμπεπλέγμεθα ξένῳ,</l>
 						<l>ὃς οὔτε πάσχων οὔτε δρῶν σιγήσεται.</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>ὦ τᾶν, ἔτ’ ἔστιν εὖ καταστῆσαι τάδε.</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l>τί δρῶντα; δουλεύοντα δουλείαις ἐμαῖς;</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>ἐγὼ γυναῖκας δεῦρ’ ὅπλων ἄξω δίχα.</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l n="805">οἴμοι· τόδ’ ἤδη δόλιον ἔς με μηχανᾷ.</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>ποῖόν τι, σῷσαί σ’ εἰ θέλω τέχναις ἐμαῖς;</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l>ξυνέθεσθε κοινῇ τάδ’, ἵνα βακχεύητ’ ἀεί.</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>καὶ μὴν ξυνεθέμην‐‐τοῦτό γ’ ἔστι‐‐τῷ θεῷ.</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l>ἐκφέρετέ μοι δεῦρ’ ὅπλα, σὺ δὲ παῦσαι λέγων.</l>
 						<milestone ed="p" n="810" unit="card"/>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l n="810">ἆ.</l>
 						<l>βούλῃ σφ’ ἐν ὄρεσι συγκαθημένας ἰδεῖν;</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l>μάλιστα, μυρίον γε δοὺς χρυσοῦ σταθμόν.</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>τί δ’ εἰς ἔρωτα τοῦδε πέπτωκας μέγαν;</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l>λυπρῶς νιν εἰσίδοιμ’ ἂν ἐξῳνωμένας.</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l n="815">ὅμως δ’ ἴδοις ἂν ἡδέως ἅ σοι πικρά;</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l>σάφ’ ἴσθι, σιγῇ γ’ ὑπ’ ἐλάταις καθήμενος.</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>ἀλλ’ ἐξιχνεύσουσίν σε, κἂν ἔλθῃς λάθρᾳ.</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l>ἀλλ’ ἐμφανῶς· καλῶς γὰρ ἐξεῖπας τάδε.</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>ἄγωμεν οὖν σε κἀπιχειρήσεις ὁδῷ;</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l n="820">ἄγ’ ὡς τάχιστα, τοῦ χρόνου δέ σοι φθονῶ.</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>στεῖλαί νυν ἀμφὶ χρωτὶ βυσσίνους πέπλους.</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l>τί δὴ τόδ’; ἐς γυναῖκας ἐξ ἀνδρὸς τελῶ;</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>μή σε κτάνωσιν, ἢν ἀνὴρ ὀφθῇς ἐκεῖ.</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l>εὖ γ’ εἶπας αὖ τόδ’· ὥς τις εἶ πάλαι σοφός.</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l n="825">Διόνυσος ἡμᾶς ἐξεμούσωσεν τάδε.</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l>πῶς οὖν γένοιτ’ ἂν ἃ σύ με νουθετεῖς καλῶς;</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>ἐγὼ στελῶ σε δωμάτων ἔσω μολών.</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l>τίνα στολήν; ἦ θῆλυν; ἀλλ’ αἰδώς μ’ ἔχει.</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>οὐκέτι θεατὴς μαινάδων πρόθυμος εἶ.</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l n="830">στολὴν δὲ τίνα φὴ|ς ἀμφὶ χρῶτ’ ἐμὸν βαλεῖν;</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>κόμην μὲν ἐπὶ σῷ κρατὶ ταναὸν ἐκτενῶ.</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l>τὸ δεύτερον δὲ σχῆμα τοῦ κόσμου τί μοι;</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>πέπλοι ποδήρεις· ἐπὶ κάρᾳ δ’ ἔσται μίτρα.</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l>ἦ καί τι πρὸς τοῖσδ’ ἄλλο προσθήσεις ἐμοί;</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l n="835">θύρσον γε χειρὶ καὶ νεβροῦ στικτὸν δέρας.</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l>οὐκ ἂν δυναίμην θῆλυν ἐνδῦναι στολήν.</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>ἀλλ’ αἷμα θήσεις συμβαλὼν βάκχαις μάχην.</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l>ὀρθῶς· μολεῖν χρὴ πρῶτον εἰς κατασκοπήν.</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>σοφώτερον γοῦν ἢ κακοῖς θηρᾶν κακά.</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l n="840">καὶ πῶς δῑ ἄστεως εἶμι Καδμείους λαθών;</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>ὁδοὺς ἐρήμους ἴμεν· ἐγὼ δ’ ἡγήσομαι.</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l>πᾶν κρεῖσσον ὥστε μὴ ’γγελᾶν βάκχας ἐμοί.</l>
 						<l>ἐλθόντ’ ἐς οἴκους . . . ἃν δοκῇ βουλεύσομαι.</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>ἔξεστι· πάντῃ τό γ’ ἐμὸν εὐτρεπὲς πάρα.</l>
 					</sp>
-					<sp who="#penqeus">
+					<sp who="#pentheys">
 						<speaker>Πενθεύς</speaker>
 						<l n="845">στείχοιμ’ ἄν· ἢ γὰρ ὅπλ’ ἔχων πορεύσομαι</l>
 						<l>ἢ τοῖσι σοῖσι πείσομαι βουλεύμασιν.</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l n="848">γυναῖκες, ἁνὴρ ἐς βόλον καθίσταται,</l>
 						<l n="847">ἥξει δὲ βάκχας, οὗ θανὼν δώσει δίκην.</l>
@@ -1789,7 +1789,7 @@ convert to P3
 				</div2>
 			</div1>
 			<div1 type="episode">
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>σὲ τὸν πρόθυμον ὄνθ’ ἃ μὴ χρεὼν ὁρᾶν</l>
 					<l>σπεύδοντά τ’ ἀσπούδαστα, Πενθέα λέγω,</l>
@@ -1798,7 +1798,7 @@ convert to P3
 					<l>μητρός τε τῆς σῆς καὶ λόχου κατάσκοπος·</l>
 					<l>πρέπεις δὲ Κάδμου θυγατέρων μορφὴν μιᾷ.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l>καὶ μὴν ὁρᾶν μοι δύο μὲν ἡλίους δοκῶ,</l>
 					<l>δισσὰς δὲ Θήβας καὶ πόλισμ’ ἑπτάστομον·</l>
@@ -1806,151 +1806,151 @@ convert to P3
 					<l>καὶ σῷ κέρατα κρατὶ προσπεφυκέναι.</l>
 					<l>ἀλλ’ ἦ ποτ’ ἦσθα θήρ; τεταύρωσαι γὰρ οὖν.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>ὁ θεὸς ὁμαρτεῖ, πρόσθεν ὢν οὐκ εὐμενής,</l>
 					<l>ἔνσπονδος ἡμῖν· νῦν δ’ ὁρᾷς ἃ χρή σ’ ὁρᾶν.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l n="925">τί φαίνομαι δῆτ’; οὐχὶ τὴν Ἰνοῦς στάσιν</l>
 					<l>ἢ τὴν Ἀγαύης ἑστάναι, μητρός γ’ ἐμῆς;</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>αὐτὰς ἐκείνας εἰσορᾶν δοκῶ σ’ ὁρῶν.</l>
 					<l>ἀλλ’ ἐξ ἕδρας σοι πλόκαμος ἐξέστηχ’ ὅδε,</l>
 					<l>οὐχ ὡς ἐγώ νιν ὑπὸ μίτρᾳ καθήρμοσα.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l n="930">ἔνδον προσείων αὐτὸν ἀνασείων τ’ ἐγὼ</l>
 					<l>καὶ βακχιάζων ἐξ ἕδρας μεθώρμισα.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>ἀλλ’ αὐτὸν ἡμεῖς, οἷς σε θεραπεύειν μέλει,</l>
 					<l>πάλιν καταστελοῦμεν· ἀλλ’ ὄρθου κάρα.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l>ἰδού, σὺ κόσμει· σοὶ γὰρ ἀνακείμεσθα δή.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l n="935">ζῶναί τέ σοι χαλῶσι κοὐχ ἑξῆς πέπλων</l>
 					<l>στολίδες ὑπὸ σφυροῖσι τείνουσιν σέθεν.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l>κἀμοὶ δοκοῦσι παρά γε δεξιὸν πόδα·</l>
 					<l>τἀνθένδε δ’ ὀρθῶς παρὰ τένοντ’ ἔχει πέπλος.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>ἦ πού με τῶν σῶν πρῶτον ἡγήσῃ φίλων,</l>
 					<l n="940">ὅταν παρὰ λόγον σώφρονας βάκχας ἴδῃς.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l>πότερα δὲ θύρσον δεξιᾷ λαβὼν χερὶ</l>
 					<l>ἢ τῇδε, βάκχῃ μᾶλλον εἰκασθήσομαι;</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>ἐν δεξιᾷ χρὴ χἅμα δεξιῷ ποδὶ</l>
 					<l>αἴρειν νιν· αἰνῶ δ’ ὅτι μεθέστηκας φρενῶν.</l>
 					<milestone ed="p" n="945" unit="card"/>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l n="945">ἆρ’ ἂν δυναίμην τὰς Κιθαιρῶνος πτυχὰς</l>
 					<l>αὐταῖσι βάκχαις τοῖς ἐμοῖς ὤμοις φέρειν;</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>δύναῑ ἄν, εἰ βούλοιο· τὰς δὲ πρὶν φρένας</l>
 					<l>οὐκ εἶχες ὑγιεῖς, νῦν δ’ ἔχεις οἵας σε δεῖ.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l>μοχλοὺς φέρωμεν; ἢ χεροῖν ἀνασπάσω</l>
 					<l n="950">κορυφαῖς ὑποβαλὼν ὦμον ἢ βραχίονα;</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>μὴ σύ γε τὰ Νυμφῶν διολέσῃς ἱδρύματα</l>
 					<l>καὶ Πανὸς ἕδρας ἔνθ’ ἔχει συρίγματα.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l>καλῶς ἔλεξας· οὐ σθένει νικητέον</l>
 					<l>γυναῖκας· ἐλάταισιν δ’ ἐμὸν κρύψω δέμας.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l n="955">κρύψῃ σὺ κρύψιν ἥν σε κρυφθῆναι χρεών,</l>
 					<l>ἐλθόντα δόλιον μαινάδων κατάσκοπον.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l>καὶ μὴν δοκῶ σφᾶς ἐν λόχμαις ὄρνιθας ὣς</l>
 					<l>λέκτρων ἔχεσθαι φιλτάτοις ἐν ἕρκεσιν.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>οὐκοῦν ἐπ’ αὐτὸ τοῦτ’ ἀποστέλλῃ φύλαξ·</l>
 					<l n="960">λήψῃ δ’ ἴσως σφᾶς, ἢν σὺ μὴ ληφθῇς πάρος.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l>κόμιζε διὰ μέσης με Θηβαίας χθονός·</l>
 					<l>μόνος γὰρ αὐτῶν εἰμ’ ἀνὴρ τολμῶν τόδε.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>μόνος σὺ πόλεως τῆσδ’ ὑπερκάμνεις, μόνος·</l>
 					<l>τοιγάρ σ’ ἀγῶνες ἀναμένουσιν οὓς ἐχρῆν.</l>
 					<l n="965">ἕπου δέ· πομπὸς [δ’] εἶμ’ ἐγὼ σωτήριος,</l>
 					<l>κεῖθεν δ’ ἀπάξει σ’ ἄλλος.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l part="Y">ἡ τεκοῦσά γε.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>ἐπίσημον ὄντα πᾶσιν.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l part="Y">ἐπὶ τόδ’ ἔρχομαι.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>φερόμενος ἥξεις . . .</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l part="Y">ἁβρότητ’ ἐμὴν λέγεις.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>ἐν χερσὶ μητρός.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l part="Y">καὶ τρυφᾶν μ’ ἀναγκάσεις.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l n="970">τρυφάς γε τοιάσδε.</l>
 				</sp>
-				<sp who="#penqeus">
+				<sp who="#pentheys">
 					<speaker>Πενθεύς</speaker>
 					<l part="Y">ἀξίων μὲν ἅπτομαι.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>δεινὸς σὺ δεινὸς κἀπὶ δείν’ ἔρχῃ πάθη,</l>
 					<l>ὥστ’ οὐρανῷ στηρίζον εὑρήσεις κλέος.</l>
@@ -2253,7 +2253,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="strophe">
-					<sp who="#agauh">
+					<sp who="#agaye">
 						<speaker>Ἀγαύη</speaker>
 						<l>Ἀσιάδες βάκχαι — </l>
 					</sp>
@@ -2261,7 +2261,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l part="Y">τί μ’ ὀροθύνεις, ὤ;</l>
 					</sp>
-					<sp who="#agauh">
+					<sp who="#agaye">
 						<speaker>Ἀγαύη</speaker>
 						<l>φέρομεν ἐξ ὀρέων</l>
 						<l n="1170">ἕλικα νεότομον ἐπὶ μέλαθρα,</l>
@@ -2271,7 +2271,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l>ὁρῶ καί σε δέξομαι σύγκωμον.</l>
 					</sp>
-					<sp who="#agauh">
+					<sp who="#agaye">
 						<speaker>Ἀγαύη</speaker>
 						<l>ἔμαρψα τόνδ’ ἄνευ βρόχων</l>
 						<l>&lt;λέοντος ἀγροτέρου&gt; νέον ἶνιν·</l>
@@ -2281,7 +2281,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l>πόθεν ἐρημίας;</l>
 					</sp>
-					<sp who="#agauh">
+					<sp who="#agaye">
 						<speaker>Ἀγαύη</speaker>
 						<l>Κιθαιρὼν . . .</l>
 					</sp>
@@ -2289,7 +2289,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l part="Y">Κιθαιρών;</l>
 					</sp>
-					<sp who="#agauh">
+					<sp who="#agaye">
 						<speaker>Ἀγαύη</speaker>
 						<l>κατεφόνευσέ νιν.</l>
 					</sp>
@@ -2297,7 +2297,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l>τίς ἁ βαλοῦσα;</l>
 					</sp>
-					<sp who="#agauh">
+					<sp who="#agaye">
 						<speaker>Ἀγαύη</speaker>
 						<l part="Y">πρῶτον ἐμὸν τὸ γέρας.</l>
 						<l n="1180">μάκαιρ’ Ἀγαύη κλῃζόμεθ’ ἐν θιάσοις.</l>
@@ -2306,7 +2306,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l>τίς ἄλλα;</l>
 					</sp>
-					<sp who="#agauh">
+					<sp who="#agaye">
 						<speaker>Ἀγαύη</speaker>
 						<l part="Y">τὰ Κάδμου . . .</l>
 					</sp>
@@ -2314,7 +2314,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l>τί Κάδμου;</l>
 					</sp>
-					<sp who="#agauh">
+					<sp who="#agaye">
 						<speaker>Ἀγαύη</speaker>
 						<l part="Y">γένεθλα</l>
 						<l n="1182b">μετ’ ἐμὲ μετ’ ἐμὲ τοῦδ’</l>
@@ -2329,7 +2329,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#agauh">
+					<sp who="#agaye">
 						<speaker>Ἀγαύη</speaker>
 						<l>μέτεχέ νυν θοίνας.</l>
 					</sp>
@@ -2337,7 +2337,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l part="Y">τί; μετέχω, τλᾶμον;</l>
 					</sp>
-					<sp who="#agauh">
+					<sp who="#agaye">
 						<speaker>Ἀγαύη</speaker>
 						<l n="1185">νέος ὁ μόσχος ἄρ‐</l>
 						<l>τι γένυν ὑπὸ κόρυθ’ ἁπαλότριχα</l>
@@ -2347,7 +2347,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l>πρέπει γ’ ὥστε θὴρ ἄγραυλος φόβῃ.</l>
 					</sp>
-					<sp who="#agauh">
+					<sp who="#agaye">
 						<speaker>Ἀγαύη</speaker>
 						<l>ὁ Βάκχιος κυναγέτας</l>
 						<l n="1190">σοφὸς σοφῶς ἀνέπηλ’ ἐπὶ θῆρα</l>
@@ -2357,7 +2357,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l>ὁ γὰρ ἄναξ ἀγρεύς.</l>
 					</sp>
-					<sp who="#agauh">
+					<sp who="#agaye">
 						<speaker>Ἀγαύη</speaker>
 						<l>ἐπαινεῖς;</l>
 					</sp>
@@ -2365,7 +2365,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l part="Y">ἐπαινῶ.</l>
 					</sp>
-					<sp who="#agauh">
+					<sp who="#agaye">
 						<speaker>Ἀγαύη</speaker>
 						<l>τάχα δὲ Καδμεῖοι . . .</l>
 					</sp>
@@ -2373,7 +2373,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l n="1195">καὶ παῖς γε Πενθεὺς . . .</l>
 					</sp>
-					<sp who="#agauh">
+					<sp who="#agaye">
 						<speaker>Ἀγαύη</speaker>
 						<l part="Y">ματέρ’ ἐπαινέσεται,</l>
 						<l>λαβοῦσαν ἄγραν τάνδε λεοντοφυῆ.</l>
@@ -2382,7 +2382,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l>περισσάν.</l>
 					</sp>
-					<sp who="#agauh">
+					<sp who="#agaye">
 						<speaker>Ἀγαύη</speaker>
 						<l part="Y">περισσῶς.</l>
 					</sp>
@@ -2390,7 +2390,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l>ἀγάλλῃ;</l>
 					</sp>
-					<sp who="#agauh">
+					<sp who="#agaye">
 						<speaker>Ἀγαύη</speaker>
 						<l part="Y">γέγηθα,</l>
 						<l n="1198b">μεγάλα μεγάλα καὶ</l>
@@ -2405,7 +2405,7 @@ convert to P3
 					<l n="1200">δεῖξόν νυν, ὦ τάλαινα, σὴν νικηφόρον</l>
 					<l>ἀστοῖσιν ἄγραν ἣν φέρουσ’ ἐλήλυθας.</l>
 				</sp>
-				<sp who="#agauh">
+				<sp who="#agaye">
 					<speaker>Ἀγαύη</speaker>
 					<l>ὦ καλλίπυργον ἄστυ Θηβαίας χθονὸς</l>
 					<l>ναίοντες, ἔλθεθ’ ὡς ἴδητε τήνδ’ ἄγραν,</l>
@@ -2448,7 +2448,7 @@ convert to P3
 					<l>στείχειν Ἀγαύην, οὐδ’ ἄκραντ’ ἠκούσαμεν·</l>
 					<l>λεύσσω γὰρ αὐτήν, ὄψιν οὐκ εὐδαίμονα.</l>
 				</sp>
-				<sp who="#agauh">
+				<sp who="#agaye">
 					<speaker>Ἀγαύη</speaker>
 					<l>πάτερ, μέγιστον κομπάσαι πάρεστί σοι,</l>
 					<l>πάντων ἀρίστας θυγατέρας σπεῖραι μακρῷ</l>
@@ -2473,7 +2473,7 @@ convert to P3
 					<l>ὡς ὁ θεὸς ἡμᾶς ἐνδίκως μέν, ἀλλ’ ἄγαν,</l>
 					<l n="1250">Βρόμιος ἄναξ ἀπώλεσ’ οἰκεῖος γεγώς.</l>
 				</sp>
-				<sp who="#agauh">
+				<sp who="#agaye">
 					<speaker>Ἀγαύη</speaker>
 					<l>ὡς δύσκολον τὸ γῆρας ἀνθρώποις ἔφυ</l>
 					<l>ἔν τ’ ὄμμασι σκυθρωπόν. εἴθε παῖς ἐμὸς</l>
@@ -2491,7 +2491,7 @@ convert to P3
 					<l>ἐν τῷδ’ ἀεὶ μενεῖτ’ ἐν ᾧ καθέστατε,</l>
 					<l>οὐκ εὐτυχοῦσαι δόξετ’ οὐχὶ δυστυχεῖν.</l>
 				</sp>
-				<sp who="#agauh">
+				<sp who="#agaye">
 					<speaker>Ἀγαύη</speaker>
 					<l>τί δ’ οὐ καλῶς τῶνδ’ ἢ τί λυπηρῶς ἔχει;</l>
 				</sp>
@@ -2499,7 +2499,7 @@ convert to P3
 					<speaker>Κάδμος</speaker>
 					<l>πρῶτον μὲν ἐς τόνδ’ αἰθέρ’ ὄμμα σὸν μέθες.</l>
 				</sp>
-				<sp who="#agauh">
+				<sp who="#agaye">
 					<speaker>Ἀγαύη</speaker>
 					<l n="1265">ἰδού· τί μοι τόνδ’ ἐξυπεῖπας εἰσορᾶν;</l>
 				</sp>
@@ -2507,7 +2507,7 @@ convert to P3
 					<speaker>Κάδμος</speaker>
 					<l>ἔθ’ αὑτὸς ἤ σοι μεταβολὰς ἔχειν δοκεῖ;</l>
 				</sp>
-				<sp who="#agauh">
+				<sp who="#agaye">
 					<speaker>Ἀγαύη</speaker>
 					<l>λαμπρότερος ἢ πρὶν καὶ διειπετέστερος.</l>
 				</sp>
@@ -2515,7 +2515,7 @@ convert to P3
 					<speaker>Κάδμος</speaker>
 					<l>τὸ δὲ πτοηθὲν τόδ’ ἔτι σῇ ψυχῇ πάρα;</l>
 				</sp>
-				<sp who="#agauh">
+				<sp who="#agaye">
 					<speaker>Ἀγαύη</speaker>
 					<l>οὐκ οἶδα τοὔπος τοῦτο. γίγνομαι δέ πως</l>
 					<l n="1270">ἔννους, μετασταθεῖσα τῶν πάρος φρενῶν.</l>
@@ -2524,7 +2524,7 @@ convert to P3
 					<speaker>Κάδμος</speaker>
 					<l>κλύοις ἂν οὖν τι κἀποκρίναῑ ἂν σαφῶς;</l>
 				</sp>
-				<sp who="#agauh">
+				<sp who="#agaye">
 					<speaker>Ἀγαύη</speaker>
 					<l>ὡς ἐκλέλησμαί γ’ ἃ πάρος εἴπομεν, πάτερ.</l>
 				</sp>
@@ -2532,7 +2532,7 @@ convert to P3
 					<speaker>Κάδμος</speaker>
 					<l>ἐς ποῖον ἦλθες οἶκον ὑμεναίων μέτα;</l>
 				</sp>
-				<sp who="#agauh">
+				<sp who="#agaye">
 					<speaker>Ἀγαύη</speaker>
 					<l>Σπαρτῷ μ’ ἔδωκας, ὡς λέγουσ’, Ἐχίονι.</l>
 				</sp>
@@ -2540,7 +2540,7 @@ convert to P3
 					<speaker>Κάδμος</speaker>
 					<l n="1275">τίς οὖν ἐν οἴκοις παῖς ἐγένετο σῷ πόσει;</l>
 				</sp>
-				<sp who="#agauh">
+				<sp who="#agaye">
 					<speaker>Ἀγαύη</speaker>
 					<l>Πενθεύς, ἐμῇ τε καὶ πατρὸς κοινωνίᾳ.</l>
 				</sp>
@@ -2548,7 +2548,7 @@ convert to P3
 					<speaker>Κάδμος</speaker>
 					<l>τίνος πρόσωπον δῆτ’ ἐν ἀγκάλαις ἔχεις;</l>
 				</sp>
-				<sp who="#agauh">
+				<sp who="#agaye">
 					<speaker>Ἀγαύη</speaker>
 					<l>λέοντος, ὥς γ’ ἔφασκον αἱ θηρώμεναι.</l>
 				</sp>
@@ -2557,7 +2557,7 @@ convert to P3
 					<l>σκέψαι νυν ὀρθῶς· βραχὺς ὁ μόχθος εἰσιδεῖν.</l>
 					<milestone ed="p" n="1280" unit="card"/>
 				</sp>
-				<sp who="#agauh">
+				<sp who="#agaye">
 					<speaker>Ἀγαύη</speaker>
 					<l n="1280">ἔα, τί λεύσσω; τί φέρομαι τόδ’ ἐν χεροῖν;</l>
 				</sp>
@@ -2565,7 +2565,7 @@ convert to P3
 					<speaker>Κάδμος</speaker>
 					<l>ἄθρησον αὐτὸ καὶ σαφέστερον μάθε.</l>
 				</sp>
-				<sp who="#agauh">
+				<sp who="#agaye">
 					<speaker>Ἀγαύη</speaker>
 					<l>ὁρῶ μέγιστον ἄλγος ἡ τάλαιν’ ἐγώ.</l>
 				</sp>
@@ -2573,7 +2573,7 @@ convert to P3
 					<speaker>Κάδμος</speaker>
 					<l>μῶν σοι λέοντι φαίνεται προσεικέναι;</l>
 				</sp>
-				<sp who="#agauh">
+				<sp who="#agaye">
 					<speaker>Ἀγαύη</speaker>
 					<l>οὔκ, ἀλλὰ Πενθέως ἡ τάλαιν’ ἔχω κάρα.</l>
 				</sp>
@@ -2581,7 +2581,7 @@ convert to P3
 					<speaker>Κάδμος</speaker>
 					<l n="1285">ᾠμωγμένον γε πρόσθεν ἢ σὲ γνωρίσαι.</l>
 				</sp>
-				<sp who="#agauh">
+				<sp who="#agaye">
 					<speaker>Ἀγαύη</speaker>
 					<l>τίς ἔκτανέν νιν; ‐‐πῶς ἐμὰς ἦλθεν χέρας;</l>
 				</sp>
@@ -2589,7 +2589,7 @@ convert to P3
 					<speaker>Κάδμος</speaker>
 					<l>δύστην’ ἀλήθεῑ, ὡς ἐν οὐ καιρῷ πάρει.</l>
 				</sp>
-				<sp who="#agauh">
+				<sp who="#agaye">
 					<speaker>Ἀγαύη</speaker>
 					<l>λέγ’, ὡς τὸ μέλλον καρδία πήδημ’ ἔχει.</l>
 				</sp>
@@ -2597,7 +2597,7 @@ convert to P3
 					<speaker>Κάδμος</speaker>
 					<l>σύ νιν κατέκτας καὶ κασίγνηται σέθεν.</l>
 				</sp>
-				<sp who="#agauh">
+				<sp who="#agaye">
 					<speaker>Ἀγαύη</speaker>
 					<l n="1290">ποῦ δ’ ὤλετ’; ἦ κατ’ οἶκον; ἢ ποίοις τόποις;</l>
 				</sp>
@@ -2605,7 +2605,7 @@ convert to P3
 					<speaker>Κάδμος</speaker>
 					<l>οὗπερ πρὶν Ἀκτέωνα διέλαχον κύνες.</l>
 				</sp>
-				<sp who="#agauh">
+				<sp who="#agaye">
 					<speaker>Ἀγαύη</speaker>
 					<l>τί δ’ ἐς Κιθαιρῶν’ ἦλθε δυσδαίμων ὅδε;</l>
 				</sp>
@@ -2613,7 +2613,7 @@ convert to P3
 					<speaker>Κάδμος</speaker>
 					<l>ἐκερτόμει θεὸν σάς τε βακχείας μολών.</l>
 				</sp>
-				<sp who="#agauh">
+				<sp who="#agaye">
 					<speaker>Ἀγαύη</speaker>
 					<l>ἡμεῖς δ’ ἐκεῖσε τίνι τρόπῳ κατήραμεν;</l>
 				</sp>
@@ -2621,7 +2621,7 @@ convert to P3
 					<speaker>Κάδμος</speaker>
 					<l n="1295">ἐμάνητε, πᾶσά τ’ ἐξεβακχεύθη πόλις.</l>
 				</sp>
-				<sp who="#agauh">
+				<sp who="#agaye">
 					<speaker>Ἀγαύη</speaker>
 					<l>Διόνυσος ἡμᾶς ὤλεσ’, ἄρτι μανθάνω.</l>
 				</sp>
@@ -2629,7 +2629,7 @@ convert to P3
 					<speaker>Κάδμος</speaker>
 					<l>ὕβριν &lt;γ’&gt; ὑβρισθείς· θεὸν γὰρ οὐχ ἡγεῖσθέ νιν.</l>
 				</sp>
-				<sp who="#agauh">
+				<sp who="#agaye">
 					<speaker>Ἀγαύη</speaker>
 					<l>τὸ φίλτατον δὲ σῶμα ποῦ παιδός, πάτερ;</l>
 				</sp>
@@ -2637,7 +2637,7 @@ convert to P3
 					<speaker>Κάδμος</speaker>
 					<l>ἐγὼ μόλις τόδ’ ἐξερευνήσας φέρω.</l>
 				</sp>
-				<sp who="#agauh">
+				<sp who="#agaye">
 					<speaker>Ἀγαύη</speaker>
 					<l n="1300">ἦ πᾶν ἐν ἄρθροις συγκεκλῃμένον καλῶς;</l>
 				</sp>
@@ -2647,7 +2647,7 @@ convert to P3
 						<gap desc="*"/>
 					</l>
 				</sp>
-				<sp who="#agauh">
+				<sp who="#agaye">
 					<speaker>Ἀγαύη</speaker>
 					<l>Πενθεῖ δὲ τί μέρος ἀφροσύνης προσῆκ’ ἐμῆς;</l>
 				</sp>
@@ -2684,7 +2684,7 @@ convert to P3
 					<l>τὸ μὲν σὸν ἀλγῶ, Κάδμε· σὸς δ’ ἔχει δίκην</l>
 					<l>παῖς παιδὸς ἀξίαν μέν, ἀλγεινὴν δὲ σοί.</l>
 				</sp>
-				<sp who="#agauh">
+				<sp who="#agaye">
 					<speaker>Ἀγαύη</speaker>
 					<l>ὦ πάτερ, ὁρᾷς γὰρ τἄμ’ ὅσῳ μετεστράφη ...</l>
 					<l>
@@ -2692,7 +2692,7 @@ convert to P3
 						<milestone ed="p" n="1330" unit="card"/>
 					</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διονυσος</speaker>
 					<l n="1330">δράκων γενήσῃ μεταβαλών, δάμαρ τε σὴ</l>
 					<l>ἐκθηριωθεῖσ’ ὄφεος ἀλλάξει τύπον,</l>
@@ -2716,7 +2716,7 @@ convert to P3
 					<speaker>Κάδμος</speaker>
 					<l>Διόνυσε, λισσόμεσθά σ’, ἠδικήκαμεν.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l n="1345">ὄψ’ ἐμάθεθ’ ἡμᾶς, ὅτε δὲ χρῆν, οὐκ ᾔδετε.</l>
 				</sp>
@@ -2724,7 +2724,7 @@ convert to P3
 					<speaker>Κάδμος</speaker>
 					<l>ἐγνώκαμεν ταῦτ’· ἀλλ’ ἐπεξέρχῃ λίαν.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>καὶ γὰρ πρὸς ὑμῶν θεὸς γεγὼς ὑβριζόμην.</l>
 				</sp>
@@ -2732,15 +2732,15 @@ convert to P3
 					<speaker>Κάδμος</speaker>
 					<l>ὀργὰς πρέπει θεοὺς οὐχ ὁμοιοῦσθαι βροτοῖς.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>πάλαι τάδε Ζεὺς οὑμὸς ἐπένευσεν πατήρ.</l>
 				</sp>
-				<sp who="#agauh">
+				<sp who="#agaye">
 					<speaker>Ἀγαύη</speaker>
 					<l n="1350">αἰαῖ, δέδοκται, πρέσβυ, τλήμονες φυγαί.</l>
 				</sp>
-				<sp who="#dionusos">
+				<sp who="#dionysos">
 					<speaker>Διόνυσος</speaker>
 					<l>τί δῆτα μέλλεθ’ ἅπερ ἀναγκαίως ἔχει;</l>
 				</sp>
@@ -2758,7 +2758,7 @@ convert to P3
 					<l>κακῶν ὁ τλήμων, οὐδὲ τὸν καταιβάτην</l>
 					<l>Ἀχέροντα πλεύσας ἥσυχος γενήσομαι.</l>
 				</sp>
-				<sp who="#agauh">
+				<sp who="#agaye">
 					<speaker>Ἀγαύη</speaker>
 					<l>ὦ πάτερ, ἐγὼ δὲ σοῦ στερεῖσα φεύξομαι.</l>
 				</sp>
@@ -2767,7 +2767,7 @@ convert to P3
 					<l>τί μ’ ἀμφιβάλλεις χερσίν, ὦ τάλαινα παῖ,</l>
 					<l n="1365">ὄρνις ὅπως κηφῆνα πολιόχρων κύκνος;</l>
 				</sp>
-				<sp who="#agauh">
+				<sp who="#agaye">
 					<speaker>Ἀγαύη</speaker>
 					<l>ποῖ γὰρ τράπωμαι πατρίδος ἐκβεβλημένη;</l>
 				</sp>
@@ -2777,7 +2777,7 @@ convert to P3
 					<milestone ed="p" n="1368" unit="card"/>
 				</sp>
 				<div2 type="anapests">
-					<sp who="#agauh">
+					<sp who="#agaye">
 						<speaker>Ἀγαύη</speaker>
 						<l>χαῖρ’, ὦ μέλαθρον, χαῖρ’, ὦ πατρία</l>
 						<l>πόλις· ἐκλείπω σ’ ἐπὶ δυστυχίᾳ</l>
@@ -2790,7 +2790,7 @@ convert to P3
 							<gap desc="*"/>
 						</l>
 					</sp>
-					<sp who="#agauh">
+					<sp who="#agaye">
 						<speaker>Ἀγαύη</speaker>
 						<l>στένομαί σε, πάτερ.</l>
 					</sp>
@@ -2799,18 +2799,18 @@ convert to P3
 						<l part="Y">κἀγὼ &lt;σέ&gt;, τέκνον,</l>
 						<l>καὶ σὰς ἐδάκρυσα κασιγνήτας.</l>
 					</sp>
-					<sp who="#agauh">
+					<sp who="#agaye">
 						<speaker>Ἀγαύη</speaker>
 						<l>δεινῶς γὰρ τάνδ’ αἰκείαν</l>
 						<l n="1375">Διόνυσος ἄναξ τοὺς σοὺς εἰς</l>
 						<l>οἴκους ἔφερεν.</l>
 					</sp>
-					<sp who="#dionusos">
+					<sp who="#dionysos">
 						<speaker>Διόνυσος</speaker>
 						<l>καὶ γὰρ ἔπασχον δεινὰ πρὸς ὑμῶν,</l>
 						<l>ἀγέραστον ἔχων ὄνομ’ ἐν Θήβαις.</l>
 					</sp>
-					<sp who="#agauh">
+					<sp who="#agaye">
 						<speaker>Ἀγαύη</speaker>
 						<l>χαῖρε, πάτερ, μοι.</l>
 					</sp>
@@ -2819,7 +2819,7 @@ convert to P3
 						<l part="Y">χαῖρ’, ὦ μελέα</l>
 						<l n="1380">θύγατερ. χαλεπῶς &lt;δ’&gt; ἐς τόδ’ ἂν ἥκοις.</l>
 					</sp>
-					<sp who="#agauh">
+					<sp who="#agaye">
 						<speaker>Ἀγαύη</speaker>
 						<l>ἄγετ’, ὦ πομποί, με κασιγνήτας</l>
 						<l>ἵνα συμφυγάδας ληψόμεθ’ οἰκτράς.</l>

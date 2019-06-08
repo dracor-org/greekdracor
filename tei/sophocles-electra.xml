@@ -34,6 +34,7 @@
 							<publisher>Cambridge University Press</publisher>
 							<date>1894</date>
 						</imprint>
+						<date type="premiere" when="-419">419 BCE</date>
 					</bibl>
 				</biblStruct>
 			</sourceDesc>
@@ -46,7 +47,6 @@
 						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
 					</licence>
 				</availability>
-				<date type="premiere" when="-419">419 BCE</date>
 			</bibl>
 		</fileDesc>
 		<profileDesc>
@@ -169,7 +169,7 @@ antilabe in all files
 		<body>
 			<div1 type="episode">
 				<milestone ed="p" n="1" unit="card"/>
-				<sp who="#paidagwgos">
+				<sp who="#paidagogos">
 					<speaker>Παιδαγωγός</speaker>
 					<l>ὦ τοῦ στρατηγήσαντος ἐν Τροίᾳ ποτὲ</l>
 					<l>Ἀγαμέμνονος παῖ, νῦν ἐκεῖν’ ἔξεστί σοι</l>
@@ -195,7 +195,7 @@ antilabe in all files
 					<l>ἵν’ οὐκέτ’ ὀκνεῖν καιρός, ἀλλ’ ἔργων ἀκμή.</l>
 					<milestone ed="p" n="23" unit="card"/>
 				</sp>
-				<sp n="Ὀρέστης" who="#oresths">
+				<sp n="Ὀρέστης" who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>ὦ φίλτατ’ ἀνδρῶν προσπόλων, ὥς μοι σαφῆ</l>
 					<l>σημεῖα φαίνεις ἐσθλὸς εἰς ἡμᾶς γεγώς.</l>
@@ -254,21 +254,21 @@ antilabe in all files
 					<l>μέγιστος ἔργου παντός ἐστ’ ἐπιστάτης.</l>
 				</sp>
 				<milestone ed="p" n="77" unit="card"/>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ἰώ μοί μοι δύστηνος.</l>
 				</sp>
-				<sp who="#paidagwgos">
+				<sp who="#paidagogos">
 					<speaker>Παιδαγωγός</speaker>
 					<l>καὶ μὴν θυρῶν ἔδοξα προσπόλων τινὸς</l>
 					<l>ὑποστενούσης ἔνδον αἰσθέσθαι, τέκνον.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l n="80">ἆρ’ ἐστὶν ἡ δύστηνος Ἠλέκτρα· θέλεις</l>
 					<l>μείνωμεν αὐτοῦ κἀπακούσωμεν  γόων;</l>
 				</sp>
-				<sp who="#paidagwgos">
+				<sp who="#paidagogos">
 					<speaker>Παιδαγωγός</speaker>
 					<l>ἥκιστα· μηδὲν πρόσθεν ἢ τὰ Λοξίου</l>
 					<l>πειρώμεθ’ ἔρδειν κἀπὸ τῶνδ’ ἀρχηγετεῖν,</l>
@@ -277,7 +277,7 @@ antilabe in all files
 					<milestone ed="p" n="86" unit="card"/>
 				</sp>
 				<div2 type="anapests">
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l>ὦ φάος ἁγνὸν</l>
 						<l>καὶ γῆς ἰσόμοιρ’ ἀήρ, ὥς μοι</l>
@@ -330,7 +330,7 @@ antilabe in all files
 						<l>κακᾷ τε χειρὶ πρόδοτον; ὡς ὁ τάδε πορὼν</l>
 						<l>ὄλοιτ’, εἴ μοι θέμις τάδ’ αὐδᾶν.</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l>ὦ γενέθλα γενναίων,</l>
 						<l n="130">ἥκετ’ ἐμῶν καμάτων παραμύθιον.</l>
@@ -354,7 +354,7 @@ antilabe in all files
 						<l>ἐν οἷς ἀνάλυσίς ἐστιν οὐδεμία κακῶν.</l>
 						<l>τί μοι τῶν δυσφόρων ἐφίει;</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l>νήπιος ὃς τῶν οἰκτρῶς</l>
 						<l n="145">οἰχομένων γονέων ἐπιλάθεται.</l>
@@ -381,7 +381,7 @@ antilabe in all files
 						<l>δέξεται εὐπατρίδαν, Διὸς εὔφρονι</l>
 						<l>βήματι μολόντα τάνδε γᾶν Ὀρέσταν.</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l>ὅν γ’ ἐγὼ ἀκάματα προσμένουσ’, ἄτεκνος,</l>
 						<l n="165">τάλαιν’, ἀνύμφευτος αἰὲν οἰχνῶ,</l>
@@ -408,7 +408,7 @@ antilabe in all files
 						<l>παῖς Ἀγαμεμνονίδας ἀπερίτροπος</l>
 						<l>οὔθ’ ὁ παρὰ τὸν Ἀχέροντα θεὸς ἀνάσσων.</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l n="185">ἀλλ’ ἐμὲ μὲν ὁ πολὺς ἀπολέλοιπεν ἤδη</l>
 						<l>βίοτος ἀνέλπιστος, οὐδ’ ἔτ’ ἀρκῶ·</l>
@@ -433,7 +433,7 @@ antilabe in all files
 						<l>μορφάν, εἴτ’ οὖν θεὸς εἴτε βροτῶν</l>
 						<l n="200">ἦν ὁ ταῦτα πράσσων.</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l>ὦ πασᾶν κείνα πλέον ἁμέρα</l>
 						<l>ἐλθοῦσ’ ἐχθίστα δή μοι·</l>
@@ -461,7 +461,7 @@ antilabe in all files
 						<l>ψυχᾷ πολέμους· τὰ δὲ τοῖς δυνατοῖς</l>
 						<l n="220">οὐκ ἐριστὰ πλάθειν.</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l>δεινοῖς ἠναγκάσθην, δεινοῖς·</l>
 						<l>ἔξοιδ’, οὐ λάθει μ’ ὀργά.</l>
@@ -484,7 +484,7 @@ antilabe in all files
 						<l>μάτηρ ὡσεί τις πιστά,</l>
 						<l n="235">μὴ τίκτειν σ’ ἄταν ἄταις.</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l>καὶ τί μέτρον κακότατος ἔφυ; φέρε,</l>
 						<l>πῶς ἐπὶ τοῖς φθιμένοις ἀμελεῖν καλόν;</l>
@@ -511,7 +511,7 @@ antilabe in all files
 					<l>καὶ τοὐμὸν αὐτῆς ἦλθον· εἰ δὲ μὴ καλῶς</l>
 					<l>λέγω, σὺ νίκα· σοὶ γὰρ ἑψόμεσθ’ ἅμα.</l>
 				</sp>
-				<sp n="Ἠλέκτρα" who="#hlektra">
+				<sp n="Ἠλέκτρα" who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>αἰσχύνομαι μέν, ὦ γυναῖκες, εἰ δοκῶ</l>
 					<l n="255">πολλοῖσι θρήνοις δυσφορεῖν ὑμῖν ἄγαν.</l>
@@ -577,7 +577,7 @@ antilabe in all files
 					<l n="310">φέρ’ εἰπέ, πότερον ὄντος Αἰγίσθου πέλας</l>
 					<l>λέγεις τάδ’ ἡμῖν ἢ βεβῶτος ἐκ δόμων;</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ἦ κάρτα· μὴ δόκει μ’ ἄν, εἴπερ ἦν πέλας,</l>
 					<l>θυραῖον οἰχνεῖν· νῦν δ’ ἀγροῖσι τυγχάνει.</l>
@@ -587,7 +587,7 @@ antilabe in all files
 					<l>ἦ κἂν ἐγὼ θαρσοῦσα μᾶλλον ἐς λόγους</l>
 					<l n="315">τοὺς σοὺς ἱκοίμην, εἴπερ ὧδε ταῦτ’ ἔχει;</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ὡς νῦν ἀπόντος ἱστόρει· τί σοι φίλον;</l>
 				</sp>
@@ -596,7 +596,7 @@ antilabe in all files
 					<l>καὶ δή σ’ ἐρωτῶ· τοῦ κασιγνήτου τί φής,</l>
 					<l>ἥξοντος ἢ μέλλοντος; εἰδέναι θέλω.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>φησίν γε· φάσκων δ’ οὐδὲν ὧν λέγει ποεῖ.</l>
 				</sp>
@@ -604,7 +604,7 @@ antilabe in all files
 					<speaker>Χορός</speaker>
 					<l n="320">φιλεῖ γὰρ ὀκνεῖν πρᾶγμ’ ἀνὴρ πράσσων μέγα.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>καὶ μὴν ἔγωγ’ ἔσωσ’ ἐκεῖνον οὐκ ὄκνῳ.</l>
 				</sp>
@@ -612,7 +612,7 @@ antilabe in all files
 					<speaker>Χορός</speaker>
 					<l>θάρσει· πέφυκεν ἐσθλός, ὥστ’ ἀρκεῖν φίλοις.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>πέποιθ’, ἐπεί τἂν οὐ μακρὰν ἔζων ἐγώ.</l>
 				</sp>
@@ -623,7 +623,7 @@ antilabe in all files
 					<l>Χρυσόθεμιν, ἔκ τε μητρός, ἐντάφια χεροῖν</l>
 					<l>φέρουσαν, οἷα τοῖς κάτω νομίζεται.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>τίν’ αὖ σὺ τήνδε πρὸς θυρῶνος ἐξόδοις</l>
 					<l>ἐλθοῦσα φωνεῖς, ὦ κασιγνήτη, φάτιν,</l>
@@ -640,7 +640,7 @@ antilabe in all files
 					<l n="340">ζῆν, τῶν κρατούντων ἐστὶ πάντ’ ἀκουστέα.</l>
 					<milestone ed="p" n="341" unit="card"/>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>δεινόν γέ σ’ οὖσαν πατρὸς οὗ σὺ παῖς ἔφυς,</l>
 					<l>κείνου λελῆσθαι, τῆς δὲ τικτούσης μέλειν.</l>
@@ -678,19 +678,19 @@ antilabe in all files
 					<l n="370">ἔνεστιν ἀμφοῖν κέρδος, εἰ σὺ μὲν μάθοις</l>
 					<l>τοῖς τῆσδε χρῆσθαι, τοῖς δὲ σοῖς αὕτη πάλιν.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>ἐγὼ μέν, ὦ γυναῖκες, ἠθάς εἰμί πως</l>
 					<l>τῶν τῆσδε μύθων· οὐδ’ ἂν ἐμνήσθην ποτέ,</l>
 					<l>εἰ μὴ κακὸν μέγιστον εἰς αὐτὴν ἰὸν</l>
 					<l n="375">ἤκουσ’, ὃ ταύτην τῶν μακρῶν σχήσει γόων.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>φέρ’ εἰπὲ δὴ τὸ δεινόν· εἰ γὰρ τῶνδέ μοι</l>
 					<l>μεῖζόν τι λέξεις, οὐκ ἂν ἀντείποιμ’ ἔτι.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>ἀλλ’ ἐξερῶ σοι πᾶν ὅσον κάτοιδ’ ἐγώ.</l>
 					<l>μέλλουσι γάρ σ’, εἰ τῶνδε μὴ λήξεις γόων,</l>
@@ -701,133 +701,133 @@ antilabe in all files
 					<l>παθοῦσα μέμψῃ· νῦν γὰρ ἐν καλῷ φρονεῖν.</l>
 					<milestone ed="p" n="385" unit="card"/>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l n="385">ἦ ταῦτα δή με καὶ βεβούλευνται ποεῖν;</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>μάλισθ’· ὅταν περ οἴκαδ’ Αἴγισθος μόλῃ.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ἀλλ’ ἐξίκοιτο τοῦδέ γ’ οὕνεκ’ ἐν τάχει.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>τίν’, ὦ τάλαινα, τόνδ’ ἐπηράσω λόγον;</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ἐλθεῖν ἐκεῖνον, εἴ τι τῶνδε δρᾶν νοεῖ.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l n="390">ὅπως πάθῃς τί χρῆμα; ποῦ ποτ’ εἶ φρενῶν;</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ὅπως ἀφ’ ὑμῶν ὡς προσωτάτω φύγω.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>βίου δὲ τοῦ παρόντος οὐ μνείαν ἔχεις;</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>καλὸς γὰρ οὑμὸς βίοτος ὥστε θαυμάσαι.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>ἀλλ’ ἦν ἄν, εἰ σύ γ’ εὖ φρονεῖν ἠπίστασο.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l n="395">μή μ’ ἐκδίδασκε τοῖς φίλοις εἶναι κακήν.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>ἀλλ’ οὐ διδάσκω· τοῖς κρατοῦσι δ’ εἰκαθεῖν.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>σὺ ταῦτα θώπεῡ· οὐκ ἐμοὺς τρόπους λέγεις.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>καλόν γε μέντοι μὴ ’ξ ἀβουλίας πεσεῖν.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>πεσούμεθ’, εἰ χρή, πατρὶ τιμωρούμενοι.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l n="400">πατὴρ δὲ τούτων, οἶδα, συγγνώμην ἔχει.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ταῦτ’ ἐστὶ τἄπη πρὸς κακῶν ἐπαινέσαι.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>σὺ δ’ οὐχὶ πείσει καὶ συναινέσεις ἐμοί;</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>οὐ δῆτα· μή πω νοῦ τοσόνδ’ εἴην κενή.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>χωρήσομαί τἄρ’ οἷπερ ἐστάλην ὁδοῦ.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ποῖ δ’ ἐμπορεύει; τῷ φέρεις τάδ’ ἔμπυρα;</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>μήτηρ με πέμπει πατρὶ τυμβεῦσαι χοάς.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>πῶς εἶπας; ἦ τῷ δυσμενεστάτῳ βροτῶν;</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>ὃν ἔκταν’ αὐτή· τοῦτο γὰρ λέξαι θέλεις.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ἐκ τοῦ φίλων πεισθεῖσα; τῷ τοῦτ’ ἤρεσεν;</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l n="410">ἐκ δείματός του νυκτέρου, δοκεῖν ἐμοί;</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ὦ θεοὶ πατρῷοι, συγγένεσθέ γ’ ἀλλὰ νῦν.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>ἔχεις τι θάρσος τοῦδε τοῦ τάρβους πέρι;</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>εἴ μοι λέγοις τὴν ὄψιν, εἴποιμ’ ἂν τότε.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>ἀλλ’ οὐ κάτοιδα πλὴν ἐπὶ σμικρὸν φράσαι.</l>
 					<milestone ed="p" n="415" unit="card"/>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l n="415">λέγ’ ἀλλὰ τοῦτο· πολλά τοι σμικροὶ λόγοι</l>
 					<l>ἔσφηλαν ἤδη καὶ κατώρθωσαν βροτούς.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>λόγος τις αὐτήν ἐστιν εἰσιδεῖν πατρὸς</l>
 					<l>τοῦ σοῦ τε κἀμοῦ δευτέραν ὁμιλίαν</l>
@@ -845,7 +845,7 @@ antilabe in all files
 					<l n="430">εἰ γάρ μ’ ἀπώσει, σὺν κακῷ μέτει πάλιν.</l>
 					<milestone ed="p" n="431" unit="card"/>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ἀλλ’, ὦ φίλη, τούτων μὲν ὧν ἔχεις χεροῖν</l>
 					<l>τύμβῳ προσάψῃς μηδέν· οὐ γάρ σοι θέμις</l>
@@ -887,7 +887,7 @@ antilabe in all files
 					<l>πρὸς εὐσέβειαν ἡ κόρη λέγει· σὺ δέ,</l>
 					<l n="465">εἰ σωφρονήσεις, ὦ φίλη, δράσεις τάδε.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>δράσω· τὸ γὰρ δίκαιον οὐχ ἔχει λόγον</l>
 					<l>δυοῖν ἐρίζειν, ἀλλ’ ἐπισπεύδειν τὸ δρᾶν.</l>
@@ -953,7 +953,7 @@ antilabe in all files
 				</div2>
 			</div1>
 			<div1 type="episode">
-				<sp who="#klutaimnhstra">
+				<sp who="#klytaimnestra">
 					<speaker>Κλυταιμνήστρα</speaker>
 					<l>ἀνειμένη μέν, ὡς ἔοικας, αὖ στρέφει·</l>
 					<l>οὐ γὰρ πάρεστ’ Αἴγισθος, ὅς σ’ ἐπεῖχ’ ἀεὶ</l>
@@ -993,20 +993,20 @@ antilabe in all files
 					<l>γνώμην δικαίαν σχοῦσα τοὺς πέλας ψέγε.</l>
 					<milestone ed="p" n="552" unit="card"/>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ἐρεῖς μὲν οὐχὶ νῦν γέ μ’ ὡς ἄρξασά τι</l>
 					<l>λυπηρὸν εἶτα σοῦ τάδ’ ἐξήκουσ’ ὕπο·</l>
 					<l>ἀλλ’ ἢν ἐφῇς μοι, τοῦ τεθνηκότος θ’ ὕπερ</l>
 					<l n="555">λέξαιμ’ ἂν ὀρθῶς τῆς κασιγνήτης θ’ ὁμοῦ.</l>
 				</sp>
-				<sp who="#klutaimnhstra">
+				<sp who="#klytaimnestra">
 					<speaker>Κλυταιμνήστρα</speaker>
 					<l>καὶ μὴν ἐφίημ’· εἰ δέ μ’ ὧδ’ ἀεὶ λόγους</l>
 					<l>ἐξῆρχες, οὐκ ἂν ἦσθα λυπηρὰ κλύειν.</l>
 					<milestone ed="p" n="558" unit="card"/>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>καὶ δὴ λέγω σοι.  πατέρα φὴς κτεῖναι.  τίς ἂν</l>
 					<l>τούτου λόγος γένοιτ’ ἂν αἰσχίων ἔτι,</l>
@@ -1067,14 +1067,14 @@ antilabe in all files
 					<l n="610">ὁρῶ μένος πνέουσαν· εἰ δὲ σὺν δίκῃ</l>
 					<l>ξύνεστι, τοῦδε φροντίδ’ οὐκέτ’ εἰσορῶ.</l>
 				</sp>
-				<sp who="#klutaimnhstra">
+				<sp who="#klytaimnestra">
 					<speaker>Κλυταιμνήστρα</speaker>
 					<l>ποίας δ’ ἐμοὶ δεῖ πρός γε τήνδε φροντίδος,</l>
 					<l>ἥτις τοιαῦτα τὴν τεκοῦσαν ὕβρισεν,</l>
 					<l>καὶ ταῦτα τηλικοῦτος; ἆρά σοι δοκεῖ</l>
 					<l n="615">χωρεῖν ἂν εἰς πᾶν ἔργον αἰσχύνης ἄτερ;</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>εὖ νυν ἐπίστω τῶνδέ μ’ αἰσχύνην ἔχειν,</l>
 					<l>κεἰ μὴ δοκῶ σοι· μανθάνω δ’ ὁθούνεκα</l>
@@ -1083,38 +1083,38 @@ antilabe in all files
 					<l n="620">ἔργ’ ἐξαναγκάζει με ταῦτα δρᾶν βίᾳ·</l>
 					<l>αἰσχροῖς γὰρ αἰσχρὰ πράγματ’ ἐκδιδάσκεται.</l>
 				</sp>
-				<sp who="#klutaimnhstra">
+				<sp who="#klytaimnestra">
 					<speaker>Κλυταιμνήστρα</speaker>
 					<l>ὦ θρέμμ’ ἀναιδές, ἦ σ’ ἐγὼ καὶ τἄμ’ ἔπη</l>
 					<l>καὶ τἄργα τἀμὰ πόλλ’ ἄγαν λέγειν ποεῖ.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>σύ τοι λέγεις νιν, οὐκ ἐγώ· σὺ γὰρ ποεῖς</l>
 					<l n="625">τοὔργον· τὰ δ’ ἔργα τοὺς λόγους εὑρίσκεται.</l>
 				</sp>
-				<sp who="#klutaimnhstra">
+				<sp who="#klytaimnestra">
 					<speaker>Κλυταιμνήστρα</speaker>
 					<l>ἀλλ’ οὐ μὰ τὴν δέσποιναν Ἄρτεμιν θράσους</l>
 					<l>τοῦδ’ οὐκ ἀλύξεις, εὖτ’ ἂν Αἴγισθος μόλῃ.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ὁρᾷς; πρὸς ὀργὴν ἐκφέρει, μεθεῖσά μοι</l>
 					<l>λέγειν ἃ χρῄζοιμ’, οὐδ’ ἐπίστασαι κλύειν.</l>
 				</sp>
-				<sp who="#klutaimnhstra">
+				<sp who="#klytaimnestra">
 					<speaker>Κλυταιμνήστρα</speaker>
 					<l n="630">οὔκουν ἐάσεις οὐδ’ ὑπ’ εὐφήμου βοῆς</l>
 					<l>θῦσαί μ’, ἐπειδὴ σοί γ’ ἐφῆκα πᾶν λέγειν;</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ἐῶ, κελεύω, θῦε· μηδ’ ἐπαιτιῶ</l>
 					<l>τοὐμὸν στόμ’, ὡς οὐκ ἂν πέρα λέξαιμ’ ἔτι.</l>
 					<milestone ed="p" n="634" unit="card"/>
 				</sp>
-				<sp who="#klutaimnhstra">
+				<sp who="#klytaimnestra">
 					<speaker>Κλυταιμνήστρα</speaker>
 					<l>ἔπαιρε δὴ σὺ θύμαθ’ ἡ παροῦσά μοι</l>
 					<l n="635">πάγκαρπ’, ἄνακτι τῷδ’ ὅπως λυτηρίους</l>
@@ -1144,7 +1144,7 @@ antilabe in all files
 					<l>τοὺς ἐκ Διὸς γὰρ εἰκός ἐστι πάνθ’ ὁρᾶν.</l>
 					<milestone ed="p" n="660" unit="card"/>
 				</sp>
-				<sp who="#paidagwgos">
+				<sp who="#paidagogos">
 					<speaker>Παιδαγωγός</speaker>
 					<l n="660">ξέναι γυναῖκες, πῶς ἂν εἰδείην σαφῶς</l>
 					<l>εἰ τοῦ τυράννου δώματ’ Αἰγίσθου τάδε;</l>
@@ -1153,7 +1153,7 @@ antilabe in all files
 					<speaker>Χορός</speaker>
 					<l>τάδ’ ἐστίν, ὦ ξέν’· αὐτὸς ᾔκασας καλῶς.</l>
 				</sp>
-				<sp who="#paidagwgos">
+				<sp who="#paidagogos">
 					<speaker>Παιδαγωγός</speaker>
 					<l>ἦ καὶ δάμαρτα τήνδ’ ἐπεικάζων κυρῶ</l>
 					<l>κείνου; πρέπει γὰρ ὡς τύραννος εἰσορᾶν.</l>
@@ -1162,52 +1162,52 @@ antilabe in all files
 					<speaker>Χορός</speaker>
 					<l n="665">μάλιστα πάντων· ἥδε σοι κείνη πάρα.</l>
 				</sp>
-				<sp who="#paidagwgos">
+				<sp who="#paidagogos">
 					<speaker>Παιδαγωγός</speaker>
 					<l>ὦ χαῖρ’, ἄνασσα· σοὶ φέρων ἥκω λόγους</l>
 					<l>ἡδεῖς φίλου παρ’ ἀνδρὸς Αἰγίσθῳ θ’ ὁμοῦ.</l>
 				</sp>
-				<sp who="#klutaimnhstra">
+				<sp who="#klytaimnestra">
 					<speaker>Κλυταιμνήστρα</speaker>
 					<l>ἐδεξάμην τὸ ῥηθέν· εἰδέναι δέ σου</l>
 					<l>πρώτιστα χρῄζω τίς σ’ ἀπέστειλεν βροτῶν.</l>
 				</sp>
-				<sp who="#paidagwgos">
+				<sp who="#paidagogos">
 					<speaker>Παιδαγωγός</speaker>
 					<l n="670">Φανοτεὺς ὁ Φωκεύς, πρᾶγμα πορσύνων μέγα.</l>
 				</sp>
-				<sp who="#klutaimnhstra">
+				<sp who="#klytaimnestra">
 					<speaker>Κλυταιμνήστρα</speaker>
 					<l>τὸ ποῖον, ὦ ξέν’; εἰπέ· παρὰ φίλου γὰρ ὢν</l>
 					<l>ἀνδρός, σάφ’ οἶδα, προσφιλεῖς λέξεις λόγους.</l>
 				</sp>
-				<sp who="#paidagwgos">
+				<sp who="#paidagogos">
 					<speaker>Παιδαγωγός</speaker>
 					<l>τέθνηκ’ Ὀρέστης· ἐν βραχεῖ ξυνθεὶς λέγω.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>οἲ ’γὼ τάλαιν’, ὄλωλα τῇδ’ ἐν ἡμέρᾳ.</l>
 				</sp>
-				<sp who="#klutaimnhstra">
+				<sp who="#klytaimnestra">
 					<speaker>Κλυταιμνήστρα</speaker>
 					<l n="675">τί φής, τί φής, ὦ ξεῖνε; μὴ ταύτης κλύε.</l>
 				</sp>
-				<sp who="#paidagwgos">
+				<sp who="#paidagogos">
 					<speaker>Παιδαγωγός</speaker>
 					<l>θανόντ’ Ὀρέστην νῦν τε καὶ πάλαι λέγω.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ἀπωλόμην δύστηνος, οὐδέν εἰμ’ ἔτι.</l>
 				</sp>
-				<sp who="#klutaimnhstra">
+				<sp who="#klytaimnestra">
 					<speaker>Κλυταιμνήστρα</speaker>
 					<l>σὺ μὲν τὰ σαυτῆς πρᾶσσ’, ἐμοὶ δὲ σύ, ξένε,</l>
 					<l>τἀληθὲς εἰπέ, τῷ τρόπῳ διόλλυται;</l>
 					<milestone ed="p" n="680" unit="card"/>
 				</sp>
-				<sp n="Παιδαγωγός" who="#paidagwgos">
+				<sp n="Παιδαγωγός" who="#paidagogos">
 					<speaker>Παιδαγωγός</speaker>
 					<l n="680">κἀπεμπόμην πρὸς ταῦτα καὶ τὸ πᾶν φράσω.</l>
 					<l>κεῖνος γὰρ ἐλθὼν εἰς τὸ κλεινὸν Ἑλλάδος</l>
@@ -1301,26 +1301,26 @@ antilabe in all files
 					<l>φεῦ φεῦ· τὸ πᾶν δὴ δεσπόταισι τοῖς πάλαι</l>
 					<l n="765">πρόρριζον, ὡς ἔοικεν, ἔφθαρται γένος.</l>
 				</sp>
-				<sp who="#klutaimnhstra">
+				<sp who="#klytaimnestra">
 					<speaker>Κλυταιμνήστρα</speaker>
 					<l>ὦ Ζεῦ, τί ταῦτα, πότερον εὐτυχῆ λέγω,</l>
 					<l>ἢ δεινὰ μέν, κέρδη δέ; λυπηρῶς δ’ ἔχει,</l>
 					<l>εἰ τοῖς ἐμαυτῆς τὸν βίον σῴζω κακοῖς.</l>
 				</sp>
-				<sp who="#paidagwgos">
+				<sp who="#paidagogos">
 					<speaker>Παιδαγωγός</speaker>
 					<l>τί δ’ ὧδ’ ἀθυμεῖς, ὦ γύναι, τῷ νῦν λόγῳ;</l>
 				</sp>
-				<sp who="#klutaimnhstra">
+				<sp who="#klytaimnestra">
 					<speaker>Κλυταιμνήστρα</speaker>
 					<l n="770">δεινὸν τὸ τίκτειν ἐστίν· οὐδὲ γὰρ κακῶς</l>
 					<l>πάσχοντι μῖσος ὧν τέκῃ προσγίγνεται.</l>
 				</sp>
-				<sp who="#paidagwgos">
+				<sp who="#paidagogos">
 					<speaker>Παιδαγωγός</speaker>
 					<l>μάτην ἄρ’ ἡμεῖς, ὡς ἔοικεν, ἥκομεν.</l>
 				</sp>
-				<sp who="#klutaimnhstra">
+				<sp who="#klytaimnestra">
 					<speaker>Κλυταιμνήστρα</speaker>
 					<l>οὔτοι μάτην γε· πῶς γὰρ ἂν μάτην λέγοις,</l>
 					<l>εἴ μοι θανόντος πίστ’ ἔχων τεκμήρια</l>
@@ -1339,46 +1339,46 @@ antilabe in all files
 					<l>τῶν τῆσδ’ ἀπειλῶν οὕνεχ’ ἡμερεύσομεν.</l>
 					<milestone ed="p" n="788" unit="card"/>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>οἴμοι τάλαινα· νῦν γὰρ οἰμῶξαι πάρα,</l>
 					<l>Ὀρέστα, τὴν σὴν ξυμφοράν, ὅθ’ ὧδ’ ἔχων</l>
 					<l n="790">πρὸς τῆσδ’ ὑβρίζει μητρός.  ἆρ’ ἔχει καλῶς;</l>
 				</sp>
-				<sp who="#klutaimnhstra">
+				<sp who="#klytaimnestra">
 					<speaker>Κλυταιμνήστρα</speaker>
 					<l>οὔτοι σύ· κεῖνος δ’ ὡς ἔχει καλῶς ἔχει.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ἄκουε, Νέμεσι τοῦ θανόντος ἀρτίως.</l>
 				</sp>
-				<sp who="#klutaimnhstra">
+				<sp who="#klytaimnestra">
 					<speaker>Κλυταιμνήστρα</speaker>
 					<l>ἤκουσεν ὧν δεῖ κἀπεκύρωσεν καλῶς.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ὕβριζε· νῦν γὰρ εὐτυχοῦσα τυγχάνεις.</l>
 				</sp>
-				<sp who="#klutaimnhstra">
+				<sp who="#klytaimnestra">
 					<speaker>Κλυταιμνήστρα</speaker>
 					<l n="795">οὔκουν Ὀρέστης καὶ σὺ παύσετον τάδε.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>πεπαύμεθ’ ἡμεῖς, οὐχ ὅπως σὲ παύσομεν.</l>
 				</sp>
-				<sp who="#klutaimnhstra">
+				<sp who="#klytaimnestra">
 					<speaker>Κλυταιμνήστρα</speaker>
 					<l>πολλῶν ἂν ἥκοις, ὦ ξέν’, ἄξιος τυχεῖν,</l>
 					<l>εἰ τήνδ’ ἔπαυσας τῆς πολυγλώσσου βοῆς.</l>
 				</sp>
-				<sp who="#paidagwgos">
+				<sp who="#paidagogos">
 					<speaker>Παιδαγωγός</speaker>
 					<l>οὐκοῦν ἀποστείχοιμ’ ἄν, εἰ τάδ’ εὖ κυρεῖ.</l>
 				</sp>
-				<sp who="#klutaimnhstra">
+				<sp who="#klytaimnestra">
 					<speaker>Κλυταιμνήστρα</speaker>
 					<l n="800">ἥκιστ’· ἐπείπερ οὔτ’ ἐμοῦ κατάξῑ ἂν</l>
 					<l>πράξειας οὔτε τοῦ πορεύσαντος ξένου.</l>
@@ -1386,7 +1386,7 @@ antilabe in all files
 					<l>ἔα τά θ’ αὑτῆς καὶ τὰ τῶν φίλων κακά.</l>
 					<milestone ed="p" n="804" unit="card"/>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ἆρ’ ὑμὶν ὡς ἀλγοῦσα κὠδυνωμένη</l>
 					<l n="805">δεινῶς δακρῦσαι κἀπικωκῦσαι δοκεῖ</l>
@@ -1417,7 +1417,7 @@ antilabe in all files
 						<l>ποῦ ποτε κεραυνοὶ Διὸς ἢ ποῦ φαέθων</l>
 						<l n="825">Ἅλιος, εἰ ταῦτ’ ἐφορῶντες κρύπτουσιν ἕκηλοι;</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l>ἒ ἔ, αἰαῖ.</l>
 					</sp>
@@ -1425,7 +1425,7 @@ antilabe in all files
 						<speaker>Χορός</speaker>
 						<l>ὦ παῖ, τί δακρύεις;</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l>φεῦ.</l>
 					</sp>
@@ -1433,7 +1433,7 @@ antilabe in all files
 						<speaker>Χορός</speaker>
 						<l n="830">μηδὲν μέγ’ ἀΰσῃς.</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l part="I">ἀπολεῖς.</l>
 					</sp>
@@ -1441,7 +1441,7 @@ antilabe in all files
 						<speaker>Χορός</speaker>
 						<l part="F">πῶς;</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l>εἰ τῶν φανερῶς οἰχομένων</l>
 						<l>εἰς Ἀΐδαν ἐλπίδ’ ὑποίσεις, κατ’ ἐμοῦ τακομένας</l>
@@ -1455,7 +1455,7 @@ antilabe in all files
 						<l>οἶδα γὰρ ἄνακτ’ Ἀμφιάρεων χρυσοδέτοις</l>
 						<l>ἕρκεσι κρυφθέντα γυναικῶν· καὶ νῦν ὑπὸ γαίας</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l n="840">ἒ ἔ, ἰώ.</l>
 					</sp>
@@ -1463,7 +1463,7 @@ antilabe in all files
 						<speaker>Χορός</speaker>
 						<l>πάμψυχος ἀνάσσει.</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l>φεῦ.</l>
 					</sp>
@@ -1471,7 +1471,7 @@ antilabe in all files
 						<speaker>Χορός</speaker>
 						<l>φεῦ δῆτ’· ὀλοὰ γὰρ</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l n="845" part="I">ἐδάμη.</l>
 					</sp>
@@ -1479,7 +1479,7 @@ antilabe in all files
 						<speaker>Χορός</speaker>
 						<l part="F">ναί.</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l>οἶδ’ οἶδ’· ἐφάνη γὰρ μελέτωρ</l>
 						<l>ἀμφὶ τὸν ἐν πένθει· ἐμοὶ δ’ οὔτις ἔτ’ ἔσθ’· ὃς γὰρ ἔτ’ ἦν,</l>
@@ -1492,7 +1492,7 @@ antilabe in all files
 						<speaker>Χορός</speaker>
 						<l>δειλαία δειλαίων κυρεῖς.</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l n="850">κἀγὼ τοῦδ’ ἴστωρ, ὑπερίστωρ,</l>
 						<l>πανσύρτῳ παμμήνῳ πολλῶν</l>
@@ -1502,7 +1502,7 @@ antilabe in all files
 						<speaker>Χορός</speaker>
 						<l>εἴδομεν ἁθρήνεις.</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l n="855">μή μέ νυν μηκέτι</l>
 						<l>παραγάγῃς, ἵν’ οὐ</l>
@@ -1511,7 +1511,7 @@ antilabe in all files
 						<speaker>Χορός</speaker>
 						<l>τί φής;</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l>πάρεισιν ἐλπίδων ἔτι κοινοτόκων</l>
 						<l>εὐπατριδᾶν ἀρωγαί.</l>
@@ -1523,7 +1523,7 @@ antilabe in all files
 						<speaker>Χορός</speaker>
 						<l n="860">πᾶσι θνατοῖς ἔφυ μόρος.</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l>ἦ καὶ χαλάργοις ἐν ἁμίλλαις</l>
 						<l>οὕτως, ὡς κείνῳ δυστάνῳ,</l>
@@ -1533,7 +1533,7 @@ antilabe in all files
 						<speaker>Χορός</speaker>
 						<l>ἄσκοπος ἁ λώβα.</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l n="865">πῶς γὰρ οὔκ; εἰ ξένος</l>
 						<l>ἄτερ ἐμᾶν χερῶν</l>
@@ -1542,7 +1542,7 @@ antilabe in all files
 						<speaker>Χορός</speaker>
 						<l>παπαῖ.</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l>κέκευθεν, οὔτε του τάφου ἀντιάσας</l>
 						<l n="870">οὔτε γόων παρ’ ἡμῶν.</l>
@@ -1551,59 +1551,59 @@ antilabe in all files
 				</div2>
 			</div1>
 			<div1 type="episode">
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>ὑφ’ ἡδονῆς τοι, φιλτάτη, διώκομαι</l>
 					<l>τὸ κόσμιον μεθεῖσα σὺν τάχει μολεῖν·</l>
 					<l>φέρω γὰρ ἡδονάς τε κἀνάπαυλαν ὧν</l>
 					<l>πάροιθεν εἶχες καὶ κατέστενες κακῶν</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l n="875">πόθεν δ’ ἂν εὕροις τῶν ἐμῶν σὺ πημάτων</l>
 					<l>ἄρηξιν, οἷς ἴασιν οὐκ ἔνεστ’ ἰδεῖν;</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>πάρεστ’ Ὀρέστης ἡμίν, ἴσθι τοῦτ’ ἐμοῦ</l>
 					<l>κλύουσ’, ἐναργῶς, ὥσπερ εἰσορᾷς ἐμέ.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ἀλλ’ ἦ μέμηνας, ὦ τάλαινα, κἀπὶ τοῖς</l>
 					<l n="880">σαυτῆς κακοῖσι κἀπὶ τοῖς ἐμοῖς γελᾷς;</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>μὰ τὴν πατρῴαν ἑστίαν, ἀλλ’ οὐχ ὕβρει</l>
 					<l>λέγω τάδ’, ἀλλ’ ἐκεῖνον ὡς παρόντα νῷν.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>οἴμοι τάλαινα· καὶ τίνος βροτῶν λόγον</l>
 					<l>τόνδ’ εἰσακούσασ’ ὧδε πιστεύεις ἄγαν;</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l n="885">ἐγὼ μὲν ἐξ ἐμοῦ τε κοὐκ ἄλλης, σαφῆ</l>
 					<l>σημεῖ’ ἰδοῦσα, τῷδε πιστεύω λόγῳ.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>τίν’, ὦ τάλαιν’, ἔχουσα πίστιν; ἐς τί μοι</l>
 					<l>βλέψασα θάλπει τῷδ’ ἀνηκέστῳ πυρί;</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>πρός νυν θεῶν ἄκουσον, ὡς μαθοῦσά μου</l>
 					<l n="890">τὸ λοιπὸν ἢ φρονοῦσαν ἢ μωρὰν λέγῃς.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>σὺ δ’ οὖν λέγ’, εἴ σοι τῷ λόγῳ τις ἡδονή.</l>
 					<milestone ed="p" n="892" unit="card"/>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>καὶ δὴ λέγω σοι πᾶν ὅσον κατειδόμην.</l>
 					<l>ἐπεὶ γὰρ ἦλθον πατρὸς ἀρχαῖον τάφον,</l>
@@ -1635,95 +1635,95 @@ antilabe in all files
 					<l>πολλῶν ὑπάρξει κῦρος ἡμέρα καλῶν.</l>
 					<milestone ed="p" n="920" unit="card"/>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l n="920">φεῦ, τῆς ἀνοίας ὥς σ’ ἐποικτίρω πάλαι.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>τί δ’ ἔστιν; οὐ πρὸς ἡδονὴν λέγω τάδε;</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>οὐκ οἶσθ’ ὅποι γῆς οὐδ’ ὅποι γνώμης φέρει.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>πῶς δ’ οὐκ ἐγὼ κάτοιδ’ ἅ γ’ εἶδον ἐμφανῶς;</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>τέθνηκεν, ὦ τάλαινα, τἀκείνου δέ σοι</l>
 					<l n="925">σωτήρῑ ἔρρει· μηδὲν εἰς κεῖνόν γ’ ὅρα.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>οἴμοι τάλαινα· τοῦ τάδ’ ἤκουσας βροτῶν;</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>τοῦ πλησίον παρόντος, ἡνίκ’ ὤλλυτο.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>καὶ ποῦ ’στιν οὗτος; θαῦμά τοί μ’ ὑπέρχεται.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>κατ’ οἶκον, ἡδὺς οὐδὲ μητρὶ δυσχερής.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l n="930">οἴμοι τάλαινα· τοῦ γὰρ ἀνθρώπων ποτ’ ἦν</l>
 					<l>τὰ πολλὰ πατρὸς πρὸς τάφον κτερίσματα;</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>οἶμαι μάλιστ’ ἔγωγε τοῦ τεθνηκότος</l>
 					<l>μνημεῖ’ Ὀρέστου ταῦτα προσθεῖναί τινα.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>ὦ δυστυχής· ἐγὼ δὲ σὺν χαρᾷ λόγους</l>
 					<l n="935">τοιούσδ’ ἔχουσ’ ἔσπευδον, οὐκ εἰδυῖ’ ἄρα</l>
 					<l>ἵν’ ἦμεν ἄτης· ἀλλὰ νῦν, ὅθ’ ἱκόμην,</l>
 					<l>τά τ’ ὄντα πρόσθεν ἄλλα θ’ εὑρίσκω κακά.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>οὕτως ἔχει σοι ταῦτ’· ἐὰν δέ μοι πίθῃ,</l>
 					<l>τῆς νῦν παρούσης πημονῆς λύσεις βάρος.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l n="940">ἦ τοὺς θανόντας ἐξαναστήσω ποτέ;</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>οὐκ ἔσθ’ ὅ γ’ εἶπον· οὐ γὰρ ὧδ’ ἄφρων ἔφυν.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>τί γὰρ κελεύεις ὧν ἐγὼ φερέγγυος;</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>τλῆναί σε δρῶσαν ἃν ἐγὼ παραινέσω.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>ἀλλ’ εἴ τις ὠφέλειά γ’, οὐκ ἀπώσομαι.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l n="945">ὅρα, πόνου τοι χωρὶς οὐδὲν εὐτυχεῖ.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>ὁρῶ.  ξυνοίσω πᾶν ὅσονπερ ἂν σθένω.</l>
 					<milestone ed="p" n="947" unit="card"/>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ἄκουε δή νυν ᾗ βεβούλευμαι ποεῖν.</l>
 					<l>παρουσίαν μὲν οἶσθα καὶ σύ που φίλων</l>
@@ -1775,7 +1775,7 @@ antilabe in all files
 					<l n="990">ἐν τοῖς τοιούτοις ἐστὶν ἡ προμηθία</l>
 					<l>καὶ τῷ λέγοντι καὶ κλύοντι σύμμαχος.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>καὶ πρίν γε φωνεῖν, ὦ γυναῖκες, εἰ φρενῶν</l>
 					<l>ἐτύγχαν’ αὕτη μὴ κακῶν, ἐσῴζετ’ ἂν</l>
@@ -1807,140 +1807,140 @@ antilabe in all files
 					<l n="1015">πείθου· προνοίας οὐδὲν ἀνθρώποις ἔφυ</l>
 					<l>κέρδος λαβεῖν ἄμεινον οὐδὲ νοῦ σοφοῦ.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ἀπροσδόκητον οὐδὲν εἴρηκας· καλῶς δ’</l>
 					<l>ᾔδη σ’ ἀπορρίψουσαν ἁπηγγελλόμην.</l>
 					<l>ἀλλ’ αὐτόχειρί μοι μόνῃ τε δραστέον</l>
 					<l n="1020">τοὔργον τόδ’·  οὐ γὰρ δὴ κενόν γ’ ἀφήσομεν.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>φεῦ·</l>
 					<l>εἴθ’ ὤφελες τοιάδε τὴν γνώμην πατρὸς</l>
 					<l>θνῄσκοντος εἶναι· πᾶν γὰρ ἂν κατειργάσω.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ἀλλ’ ἦ φύσιν γε, τὸν δὲ νοῦν ἥσσων τότε.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>ἄσκει τοιαύτη νοῦν δῑ αἰῶνος μένειν.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l n="1025">ὡς οὐχὶ συνδράσουσα νουθετεῖς τάδε.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>εἰκὸς γὰρ ἐγχειροῦντα καὶ πράσσειν κακῶς.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ζηλῶ σε τοῦ νοῦ, τῆς δὲ δειλίας στυγῶ.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>ἀνέξομαι κλύουσα χὤταν εὖ λέγῃς.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ἀλλ’ οὔ ποτ’ ἐξ ἐμοῦ γε μὴ πάθῃς τόδε.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l n="1030">μακρὸς τὸ κρῖναι ταῦτα χὠ λοιπὸς χρόνος.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ἄπελθε· σοὶ γὰρ ὠφέλησις οὐκ ἔνι.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>ἔνεστιν· ἀλλὰ σοὶ μάθησις οὐ πάρα.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ἐλθοῦσα μητρὶ ταῦτα πάντ’ ἔξειπε σῇ.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>οὐδ’ αὖ τοσοῦτον ἔχθος ἐχθαίρω σ’ ἐγώ.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l n="1035">ἀλλ’ οὖν ἐπίστω γ’ οἷ μ’ ἀτιμίας ἄγεις.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>ἀτιμίας μὲν οὔ, προμηθίας δὲ σοῦ.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>τῷ σῷ δικαίῳ δῆτ’ ἐπισπέσθαι με δεῖ;</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>ὅταν γὰρ εὖ φρονῇς, τόθ’ ἡγήσει σὺ νῷν.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ἦ δεινὸν εὖ λέγουσαν ἐξαμαρτάνειν.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l n="1040">εἴρηκας ὀρθῶς ᾧ σὺ πρόσκεισαι κακῷ.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>τί δ’; οὐ δοκῶ σοι ταῦτα σὺν δίκῃ λέγειν;</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>ἀλλ’ ἔστιν ἔνθα χἠ δίκη βλάβην φέρει.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>τούτοις ἐγὼ ζῆν τοῖς νόμοις οὐ βούλομαι.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>ἀλλ’ εἰ ποήσεις ταῦτ’, ἐπαινέσεις ἐμέ.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l n="1045">καὶ μὴν ποήσω γ’ οὐδὲν ἐκπλαγεῖσά σε.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>καὶ τοῦτ’ ἀληθές, οὐδὲ βουλεύσει πάλιν;</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>βουλῆς γὰρ οὐδέν ἐστιν ἔχθιον κακῆς.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l>φρονεῖν ἔοικας οὐδὲν ὧν ἐγὼ λέγω.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>πάλαι δέδοκται ταῦτα κοὐ νεωστί μοι.</l>
 					<milestone ed="p" n="1050" unit="card"/>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l n="1050">ἄπειμι τοίνυν· οὔτε γὰρ σὺ τἄμ’ ἔπη</l>
 					<l>τολμᾷς ἐπαινεῖν οὔτ’ ἐγὼ τοὺς σοὺς τρόπους.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ἀλλ’ εἴσιθ’.  οὔ σοι μὴ μεθέψομαί ποτε,</l>
 					<l>οὐδ’ ἢν σφόδρ’ ἱμείρουσα τυγχάνῃς· ἐπεὶ</l>
 					<l>πολλῆς ἀνοίας καὶ τὸ θηρᾶσθαι κενά.</l>
 				</sp>
-				<sp who="#xrusoqemis">
+				<sp who="#xrysothemis">
 					<speaker>Χρυσόθεμις</speaker>
 					<l n="1055">ἀλλ’  εἰ σεαυτῇ τυγχάνεις δοκοῦσά τι</l>
 					<l>φρονεῖν, φρόνει τοιαῦθ’.  ὅταν γὰρ ἐν κακοῖς</l>
@@ -2004,7 +2004,7 @@ antilabe in all files
 				</div2>
 			</div1>
 			<div1 type="episode">
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>ἆρ’, ὦ γυναῖκες, ὀρθά τ’ εἰσηκούσαμεν</l>
 					<l>ὀρθῶς θ’ ὁδοιποροῦμεν ἔνθα χρῄζομεν;</l>
@@ -2013,7 +2013,7 @@ antilabe in all files
 					<speaker>Χορός</speaker>
 					<l n="1100">τί δ’ ἐξερευνᾷς καὶ τί βουληθεὶς πάρει;</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>Αἴγισθον ἔνθ’ ᾤκηκεν ἱστορῶ πάλαι.</l>
 				</sp>
@@ -2021,7 +2021,7 @@ antilabe in all files
 					<speaker>Χορός</speaker>
 					<l>ἀλλ’ εὖ θ’ ἱκάνεις χὠ φράσας ἀζήμιος.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>τίς οὖν ἂν ὑμῶν τοῖς ἔσω φράσειεν ἂν</l>
 					<l>ἡμῶν ποθεινὴν κοινόπουν παρουσίαν;</l>
@@ -2030,55 +2030,55 @@ antilabe in all files
 					<speaker>Χορός</speaker>
 					<l n="1105">ἥδ’, εἰ τὸν ἄγχιστόν γε κηρύσσειν χρεών.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>ἴθ’, ὦ γύναι, δήλωσον εἰσελθοῦσ’ ὅτι</l>
 					<l>Φωκῆς ματεύουσ’ ἄνδρες Αἴγισθόν τινες,</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>οἴμοι τάλαιν’, οὐ δή ποθ’ ἧς ἠκούσαμεν</l>
 					<l>φήμης φέροντες ἐμφανῆ τεκμήρια;</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l n="1110">οὐκ οἶδα τὴν σὴν κληδόν’· ἀλλά μοι γέρων</l>
 					<l>ἐφεῖτ’ Ὀρέστου Στρόφιος ἀγγεῖλαι πέρι.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>τί δ’ ἔστιν, ὦ ξέν’; ὥς μ’ ὑπέρχεται φόβος.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>φέροντες αὐτοῦ σμικρὰ λείψαν’ ἐν βραχεῖ</l>
 					<l>τεύχει θανόντος, ὡς ὁρᾷς, κομίζομεν.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l n="1115">οἲ ’γὼ τάλαινα, τοῦτ’ ἐκεῖν’ ἤδη σαφὲς</l>
 					<l>πρόχειρον ἄχθος, ὡς ἔοικε, δέρκομαι.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>εἴπερ τι κλαίεις τῶν Ὀρεστείων κακῶν,</l>
 					<l>τόδ’ ἄγγος ἴσθι σῶμα τοὐκείνου στέγον.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ὦ ξεῖνε, δός νυν, πρὸς θεῶν, εἴπερ τόδε</l>
 					<l n="1120">κέκευθεν αὐτὸν τεῦχος, εἰς χεῖρας λαβεῖν,</l>
 					<l>ὅπως ἐμαυτὴν καὶ γένος τὸ πᾶν ὁμοῦ</l>
 					<l>ξὺν τῇδε κλαύσω κἀποδύρωμαι σποδῷ.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>δόθ’, ἥτις ἐστί, προσφέροντες· οὐ γὰρ ὡς</l>
 					<l>ἐν δυσμενείᾳ γ’ οὖσ’ ἐπαιτεῖται τάδε,</l>
 					<l n="1125">ἀλλ’ ἢ φίλων τις ἢ πρὸς αἵματος φύσιν.</l>
 					<milestone ed="p" n="1126" unit="card"/>
 				</sp>
-				<sp n="Ἠλέκτρα" who="#hlektra">
+				<sp n="Ἠλέκτρα" who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ὦ φιλτάτου μνημεῖον ἀνθρώπων ἐμοὶ</l>
 					<l>ψυχῆς Ὀρέστου λοιπόν, ὥς σ’ ἀπ’ ἐλπίδων</l>
@@ -2134,239 +2134,239 @@ antilabe in all files
 					<l>θνητὸς δ’ Ὀρέστης.  ὥστε μὴ λίαν στένε.</l>
 					<l>πᾶσιν γὰρ ἡμῖν τοῦτ’ ὀφείλεται παθεῖν.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>φεῦ φεῦ.  τί λέξω; ποῖ λόγων ἀμηχανῶν</l>
 					<l n="1175">ἔλθω; κρατεῖν γὰρ οὐκέτι γλώσσης σθένω.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>τί δ’ ἔσχες ἄλγος; πρὸς τί τοῦτ’ εἰπὼν κυρεῖς;</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>ἦ σὸν τὸ κλεινὸν εἶδος Ἠλέκτρας τόδε;</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>τόδ’ ἔστ’ ἐκεῖνο, καὶ μάλ’ ἀθλίως ἔχον.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>οἴμοι ταλαίνης ἆρα τῆσδε συμφορᾶς.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l n="1180">οὐ δή ποτ’, ὦ ξέν’, ἀμφ’ ἐμοὶ στένεις τάδε;</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>ὦ σῶμ’ ἀτίμως κἀθέως ἐφθαρμένον.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>οὔτοι ποτ’ ἄλλην ἢ ’μὲ δυσφημεῖς, ξένε.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>φεῦ τῆς ἀνύμφου δυσμόρου τε σῆς τροφῆς,</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>τί δή ποτ’, ὦ ξέν’, ὧδ’ ἐπισκοπῶν στένεις;</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l n="1185">ὡς οὐκ ἄρ’ ᾔδη τῶν ἐμῶν οὐδὲν κακῶν.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ἐν τῷ διέγνως τοῦτο τῶν εἰρημένων;</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>ὁρῶν σε πολλοῖς ἐμπρέπουσαν ἄλγεσιν.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>καὶ μὴν ὁρᾷς γε παῦρα τῶν ἐμῶν κακῶν.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>καὶ πῶς γένοιτ’   ἂν τῶνδ’ ἔτ’ ἐχθίω βλέπειν;</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l n="1190">ὁθούνεκ’ εἰμὶ τοῖς φονεῦσι σύντροφος</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>τοῖς τοῦ; πόθεν τοῦτ’ ἐξεσήμηνας κακόν;</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>τοῖς πατρός· εἶτα τοῖσδε δουλεύω βίᾳ.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>τίς γάρ σ’ ἀνάγκῃ τῇδε προτρέπει βροτῶν;</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>μήτηρ καλεῖται, μητρὶ δ’ οὐδὲν ἐξισοῖ.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l n="1195">τί δρῶσα; πότερα χερσὶν ἢ λύμῃ βίου;</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>καὶ χερσὶ καὶ λύμαισι καὶ πᾶσιν κακοῖς.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>οὐδ’ οὑπαρήξων οὐδ’ ὁ κωλύσων πάρα;</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>οὐ δῆθ’.  ὃς ἦν γάρ μοι σὺ προὔθηκας σποδόν.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>ὦ δύσποτμ’, ὡς ὁρῶν σ’ ἐποικτίρω πάλαι.</l>
 					<milestone ed="p" n="1200" unit="card"/>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l n="1200">μόνος βροτῶν νυν ἴσθ’ ἐποικτίρας ποτέ.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>μόνος γὰρ ἥκω τοῖς ἴσοις ἀλγῶν κακοῖς.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>οὐ δή ποθ’ ἡμῖν  ξυγγενὴς ἥκεις ποθέν;</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>ἐγὼ φράσαιμ’ ἄν, εἰ τὸ τῶνδ’ εὔνουν πάρα.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ἀλλ’ ἐστὶν εὔνουν, ὥστε πρὸς πιστὰς ἐρεῖς.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l n="1205">μέθες τόδ’ ἄγγος νῦν, ὅπως τὸ πᾶν μάθῃς.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>μὴ δῆτα πρὸς θεῶν τοῦτό μ’ ἐργάσῃ, ξένε.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>πείθου λέγοντι κοὐχ ἁμαρτήσει ποτέ.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>μή, πρὸς γενείου, μὴ ’ξέλῃ τὰ φίλτατα.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l part="I">οὔ φημ’ ἐάσειν.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l part="F">ὦ τάλαιν’ ἐγὼ σέθεν,</l>
 					<l n="1210">Ὀρέστα, τῆς σῆς εἰ στερήσομαι ταφῆς.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>εὔφημα φώνει· πρὸς δίκης γὰρ οὐ στένεις.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>πῶς τὸν θανόντ’ ἀδελφὸν οὐ δίκῃ στένω;</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>οὔ σοι προσήκει τήνδε προσφωνεῖν φάτιν.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>οὕτως ἄτιμός εἰμι τοῦ τεθνηκότος;</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l n="1215">ἄτιμος οὐδενὸς σύ· τοῦτο δ’ οὐχὶ σόν.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>εἴπερ γ’ Ὀρέστου σῶμα βαστάζω τόδε;</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>ἀλλ’ οὐκ Ὀρέστου, πλὴν λόγῳ γ’ ἠσκημένον.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ποῦ δ’ ἔστ’ ἐκείνου τοῦ ταλαιπώρου τάφος;</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>οὐκ ἔστι· τοῦ γὰρ ζῶντος οὐκ ἔστιν τάφος.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l n="1220" part="I">πῶς εἶπας, ὦ παῖ;</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l part="F">ψεῦδος οὐδὲν ὧν λέγω.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l part="I">ἦ ζῇ γὰρ ἁνήρ;</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l part="F">εἴπερ ἔμψυχός γ’ ἐγώ.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l part="I">ἦ γὰρ σὺ κεῖνος;</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l part="F">τήνδε προσβλέψασά μου</l>
 					<l>σφραγῖδα πατρὸς ἔκμαθ’ εἰ σαφῆ λέγω.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l part="I">ὦ φίλτατον φῶς.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l part="F">φίλτατον, συμμαρτυρῶ.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l n="1225" part="I">ὦ φθέγμ’, ἀφίκου;</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l part="F">μηκέτ’ ἄλλοθεν πύθῃ,</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l part="I">ἔχω σε χερσίν;</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l part="F">ὡς τὰ λοίπ’ ἔχοις ἀεί.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ὦ φίλταται γυναῖκες, ὦ πολίτιδες,</l>
 					<l>ὁρᾶτ’ Ὀρέστην τόνδε, μηχαναῖσι μὲν</l>
@@ -2381,45 +2381,45 @@ antilabe in all files
 			</div1>
 			<div1 type="choral">
 				<div2 n="1" type="strophe">
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l>ἰὼ γοναί,</l>
 						<l>γοναὶ σωμάτων ἐμοὶ φιλτάτων,</l>
 						<l>ἐμόλετ’ ἀρτίως,</l>
 						<l n="1235">ἐφηύρετ’, ἤλθετ’, εἴδεθ’ οὓς ἐχρῄζετε.</l>
 					</sp>
-					<sp who="#oresths">
+					<sp who="#orestes">
 						<speaker>Ὀρέστης</speaker>
 						<l>πάρεσμεν· ἀλλὰ σῖγ’ ἔχουσα πρόσμενε.</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l>τί δ’ ἔστιν;</l>
 					</sp>
-					<sp who="#oresths">
+					<sp who="#orestes">
 						<speaker>Ὀρέστης</speaker>
 						<l>σιγᾶν ἄμεινον, μή τις ἔνδοθεν κλύῃ.</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l>ἀλλ’ οὐ μὰ τὴν ἄδμητον αἰὲν Ἄρτεμιν,</l>
 						<l n="1240">τόδε μὲν οὔ ποτ’ ἀξιώσω τρέσαι,</l>
 						<l>περισσὸν ἄχθος ἔνδον</l>
 						<l>γυναικῶν ὂν αἰεί.</l>
 					</sp>
-					<sp who="#oresths">
+					<sp who="#orestes">
 						<speaker>Ὀρέστης</speaker>
 						<l>ὅρα γε μὲν δὴ κἀν γυναιξὶν ὡς Ἄρης</l>
 						<l>ἔνεστιν· εὖ δ’ ἔξοισθα πειραθεῖσά που.</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l n="1245">ὀτοτοτοτοῖ τοτοῖ,</l>
 						<l>ἀνέφελον ἐνέβαλες οὔ ποτε καταλύσιμον,</l>
 						<l>οὐδέ ποτε λησόμενον ἁμέτερον</l>
 						<l n="1250">οἷον ἔφυ κακόν.</l>
 					</sp>
-					<sp who="#oresths">
+					<sp who="#orestes">
 						<speaker>Ὀρέστης</speaker>
 						<l>ἔξοιδα, παῖ, ταῦτ’· ἀλλ’ ὅταν παρουσία</l>
 						<l>φράζῃ, τότ’ ἔργων τῶνδε μεμνῆσθαι χρεών.</l>
@@ -2427,33 +2427,33 @@ antilabe in all files
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l>ὁ πᾶς ἐμοί,</l>
 						<l>ὁ πᾶς ἂν πρέποι παρὼν ἐννέπειν</l>
 						<l n="1255">τάδε δίκᾳ χρόνος·</l>
 						<l>μόλις γὰρ ἔσχον νῦν ἐλεύθερον στόμα.</l>
 					</sp>
-					<sp who="#oresths">
+					<sp who="#orestes">
 						<speaker>Ὀρέστης</speaker>
 						<l>ξύμφημι κἀγώ· τοιγαροῦν σῴζου τόδε.</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l>τί δρῶσα;</l>
 					</sp>
-					<sp who="#oresths">
+					<sp who="#orestes">
 						<speaker>Ὀρέστης</speaker>
 						<l>οὗ μή ’στι καιρὸς μὴ μακρὰν βούλου λέγειν.</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l n="1260">τίς οὖν ἂν ἀξίαν γε σοῦ πεφηνότος</l>
 						<l>μεταβάλοιτ’ ἂν ὧδε σιγὰν λόγων;</l>
 						<l>ἐπεί σε νῦν ἀφράστως</l>
 						<l>ἀέλπτως τ’ ἐσεῖδον.</l>
 					</sp>
-					<sp who="#oresths">
+					<sp who="#orestes">
 						<speaker>Ὀρέστης</speaker>
 						<l>τότ’ εἶδες, εὖτε  θεοί μ’ ἐπώτρυναν μολεῖν</l>
 						<l>
@@ -2462,14 +2462,14 @@ antilabe in all files
 							&gt;
 						</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l n="1265">ἔφρασας ὑπερτέραν</l>
 						<l>τᾶς πάρος ἔτι χάριτος, εἴ σε θεὸς ἐπόρισεν</l>
 						<l>ἁμέτερα πρὸς μέλαθρα· δαιμόνιον</l>
 						<l n="1270">αὐτὸ τίθημ’ ἐγώ.</l>
 					</sp>
-					<sp who="#oresths">
+					<sp who="#orestes">
 						<speaker>Ὀρέστης</speaker>
 						<l>τὰ μέν σ’ ὀκνῶ χαίρουσαν εἰργαθεῖν, τὰ δὲ</l>
 						<l>δέδοικα λίαν ἡδονῇ νικωμένην.</l>
@@ -2477,34 +2477,34 @@ antilabe in all files
 					</sp>
 				</div2>
 				<div2 type="epode">
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l>ἰὼ χρόνῳ μακρῷ φιλτάταν ὁδὸν</l>
 						<l>ἐπαξιώσας ὧδέ μοι φανῆναι,</l>
 						<l n="1275">μή τί με, πολύπονον ὧδ’ ἰδὼν</l>
 					</sp>
-					<sp who="#oresths">
+					<sp who="#orestes">
 						<speaker>Ὀρέστης</speaker>
 						<l part="I">τί μὴ ποήσω;</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l part="F">μή μ’ ἀποστερήσῃς</l>
 						<l>τῶν σῶν προσώπων ἁδονὰν μεθέσθαι.</l>
 					</sp>
-					<sp who="#oresths">
+					<sp who="#orestes">
 						<speaker>Ὀρέστης</speaker>
 						<l>ἦ κάρτα κἂν ἄλλοισι θυμοίμην ἰδών.</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l n="1280" part="I">ξυναινεῖς;</l>
 					</sp>
-					<sp who="#oresths">
+					<sp who="#orestes">
 						<speaker>Ὀρέστης</speaker>
 						<l part="F">τί μὴν οὔ;</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l>ὦ φίλαι, ἔκλυον ἃν ἐγὼ οὐδ’ ἂν ἤλπισ’ αὐδάν,</l>
 						<l>οὐδ’ ἂν ἔσχον ὁρμὰν</l>
@@ -2517,7 +2517,7 @@ antilabe in all files
 				</div2>
 			</div1>
 			<div1 type="episode">
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>τὰ μὲν περισσεύοντα τῶν λόγων ἄφες,</l>
 					<l>καὶ μήτε μήτηρ ὡς κακὴ δίδασκέ με,</l>
@@ -2533,7 +2533,7 @@ antilabe in all files
 					<l>στέναζ’· ὅταν γὰρ εὐτυχήσωμεν, τότε</l>
 					<l n="1300">χαίρειν παρέσται καὶ γελᾶν ἐλευθέρως.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ἀλλ’ ὦ κασίγνηθ’, ὧδ’ ὅπως καὶ σοὶ φίλον</l>
 					<l>καὶ τοὐμὸν ἔσται τῇδ’· ἐπεὶ τὰς ἡδονὰς</l>
@@ -2558,18 +2558,18 @@ antilabe in all files
 					<l>ἔσωσ’ ἐμαυτὴν ἢ καλῶς ἀπωλόμην.</l>
 					<milestone ed="p" n="1322" unit="card"/>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>σιγᾶν ἐπῄνεσ’ ὡς ἐπ’ ἐξόδῳ κλύω</l>
 					<l part="I">τῶν ἔνδοθεν χωροῦντος.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l part="F">εἴσιτ’, ὦ ξένοι,</l>
 					<l>ἄλλως τε καὶ φέροντες οἷ’ ἂν οὔτε τις</l>
 					<l n="1325">δόμων ἀπώσαιτ’ οὔτ’ ἂν ἡσθείη λαβών.</l>
 				</sp>
-				<sp who="#paidagwgos">
+				<sp who="#paidagogos">
 					<speaker>Παιδαγωγός</speaker>
 					<l>ὦ πλεῖστα μῶροι καὶ φρενῶν τητώμενοι,</l>
 					<l>πότερα παρ’ οὐδὲν τοῦ βίου κήδεσθ’ ἔτι</l>
@@ -2586,67 +2586,67 @@ antilabe in all files
 					<l>ἐν τοῖς τοιούτοις ἔστ’, ἀπηλλάχθαι δ’ ἀκμή.</l>
 					<milestone ed="p" n="1339" unit="card"/>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>πῶς οὖν ἔχει τἀντεῦθεν εἰσιόντι μοι;</l>
 				</sp>
-				<sp who="#paidagwgos">
+				<sp who="#paidagogos">
 					<speaker>Παιδαγωγός</speaker>
 					<l n="1340">καλῶς· ὑπάρχει γάρ σε μὴ γνῶναί τινα.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>ἤγγειλας, ὡς ἔοικεν, ὡς τεθνηκότα.</l>
 				</sp>
-				<sp who="#paidagwgos">
+				<sp who="#paidagogos">
 					<speaker>Παιδαγωγός</speaker>
 					<l>εἷς τῶν ἐν Ἅιδου μάνθαν’ ἐνθάδ’ ὢν ἀνήρ.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>χαίρουσιν οὖν τούτοισιν; ἢ τίνες λόγοι;</l>
 				</sp>
-				<sp who="#paidagwgos">
+				<sp who="#paidagogos">
 					<speaker>Παιδαγωγός</speaker>
 					<l>τελουμένων εἴποιμ’ ἄν· ὡς δὲ νῦν ἔχει,</l>
 					<l n="1345">καλῶς τὰ κείνων πάντα, καὶ τὰ μὴ καλῶς.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>τίς οὗτός ἐστ’, ἀδελφέ; πρὸς θεῶν φράσον.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l part="I">οὐχὶ ξυνίης;</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l part="F">οὐδέ γ’ ἐς θυμὸν φέρω.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>οὐκ οἶσθ’ ὅτῳ μ’ ἔδωκας εἰς χέρας ποτέ;</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l part="I">ποίῳ; τί φωνεῖς;</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l part="F">οὗ τὸ Φωκέων πέδον</l>
 					<l n="1350">ὑπεξεπέμφθην σῇ προμηθίᾳ χεροῖν.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ἦ κεῖνος οὗτος, ὅν ποτ’ ἐκ πολλῶν ἐγὼ</l>
 					<l>μόνον προσηῦρον πιστὸν ἐν πατρὸς φόνῳ;</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>ὅδ’ ἐστί· μή μ’ ἔλεγχε πλείοσιν λόγοις.</l>
 					<milestone ed="p" n="1354" unit="card"/>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ὦ φίλτατον φῶς, ὦ μόνος σωτὴρ δόμων</l>
 					<l n="1355">Ἀγαμέμνονος, πῶς ἦλθες; ἦ σὺ κεῖνος εἶ,</l>
@@ -2659,7 +2659,7 @@ antilabe in all files
 					<l>χαῖρ’· ἴσθι δ’ ὡς μάλιστά σ’ ἀνθρώπων ἐγὼ</l>
 					<l>ἤχθηρα κἀφίλησ’ ἐν ἡμέρᾳ μιᾷ.</l>
 				</sp>
-				<sp who="#paidagwgos">
+				<sp who="#paidagogos">
 					<speaker>Παιδαγωγός</speaker>
 					<l>ἀρκεῖν δοκεῖ μοι· τοὺς γὰρ ἐν μέσῳ λόγους</l>
 					<l n="1365">πολλαὶ κυκλοῦνται νύκτες ἡμέραι τ’ ἴσαι,</l>
@@ -2671,14 +2671,14 @@ antilabe in all files
 					<l>ἄλλοισι τούτων πλείοσιν μαχούμενοι.</l>
 					<milestone ed="p" n="1372" unit="card"/>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>οὐκ ἂν μακρῶν ἔθ’ ἡμὶν οὐδὲν ἂν λόγων,</l>
 					<l>Πυλάδη, τόδ’ εἴη τοὔργον, ἀλλ’ ὅσον τάχος</l>
 					<l>χωρεῖν ἔσω, πατρῷα προσκύσανθ’ ἕδη</l>
 					<l n="1375">θεῶν, ὅσοιπερ πρόπυλα ναίουσιν τάδε.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ἄναξ Ἄπολλον, ἵλεως αὐτοῖν κλύε</l>
 					<l>ἐμοῦ τε πρὸς τούτοισιν, ἥ σε πολλὰ δὴ</l>
@@ -2717,7 +2717,7 @@ antilabe in all files
 					</sp>
 				</div2>
 				<div2 n="2" type="strophe">
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l>ὦ φίλταται γυναῖκες, ἅνδρες αὐτίκα</l>
 						<l>τελοῦσι τοὔργον· ἀλλὰ σῖγα πρόσμενε.</l>
@@ -2726,7 +2726,7 @@ antilabe in all files
 						<speaker>Χορός</speaker>
 						<l n="1400" part="I">πῶς δή; τί νῦν πράσσουσιν;</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l part="F">ἡ μὲν ἐς τάφον</l>
 						<l>λέβητα κοσμεῖ, τὼ δ’ ἐφέστατον πέλας.</l>
@@ -2735,17 +2735,17 @@ antilabe in all files
 						<speaker>Χορός</speaker>
 						<l part="I">σὺ δ’ ἐκτὸς ᾖξας πρὸς τί;</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l part="F">φρουρήσουσ’ ὅπως</l>
 						<l>Αἴγισθος ἡμᾶς μὴ λάθῃ μολὼν ἔσω.</l>
 					</sp>
-					<sp who="#klutaimnhstra">
+					<sp who="#klytaimnestra">
 						<speaker>Κλυταιμνήστρα</speaker>
 						<l>αἰαῖ.  ἰὼ στέγαι</l>
 						<l n="1405">φίλων ἔρημοι, τῶν δ’ ἀπολλύντων πλέαι.</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l>βοᾷ τις ἔνδον· οὐκ ἀκούετ’, ὦ φίλαι;</l>
 					</sp>
@@ -2753,20 +2753,20 @@ antilabe in all files
 						<speaker>Χορός</speaker>
 						<l>ἤκουσ’ ἀνήκουστα δύστανος, ὥστε φρῖξαι.</l>
 					</sp>
-					<sp who="#klutaimnhstra">
+					<sp who="#klytaimnestra">
 						<speaker>Κλυταιμνήστρα</speaker>
 						<l>οἴμοι τάλαιν’· Αἴγισθε, ποῦ ποτ’ ὢν κυρεῖς;</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l n="1410" part="I">ἰδοὺ μάλ’ αὖ θροεῖ τις.</l>
 					</sp>
-					<sp who="#klutaimnhstra">
+					<sp who="#klytaimnestra">
 						<speaker>Κλυταιμνήστρα</speaker>
 						<l part="F">ὦ τέκνον τέκνον,</l>
 						<l part="I">οἴκτιρε τὴν τεκοῦσαν.</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l part="F">ἀλλ’ οὐκ ἐκ σέθεν</l>
 						<l>ᾠκτίρεθ’ οὗτος οὐδ’ ὁ γεννήσας πατήρ.</l>
@@ -2776,19 +2776,19 @@ antilabe in all files
 						<l>ὦ πόλις, ὦ γενεὰ τάλαινα, νῦν σοι</l>
 						<l>μοῖρα καθαμερία φθίνει φθίνει.</l>
 					</sp>
-					<sp who="#klutaimnhstra">
+					<sp who="#klytaimnestra">
 						<speaker>Κλυταιμνήστρα</speaker>
 						<l n="1415" part="I">ὤμοι πέπληγμαι.</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l part="F">παῖσον, εἰ σθένεις, διπλῆν.</l>
 					</sp>
-					<sp who="#klutaimnhstra">
+					<sp who="#klytaimnestra">
 						<speaker>Κλυταιμνήστρα</speaker>
 						<l part="I">ὤμοι μάλ’ αὖθις.</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l part="F">εἰ γὰρ Αἰγίσθῳ θ’ ὁμοῦ.</l>
 					</sp>
@@ -2806,20 +2806,20 @@ antilabe in all files
 						<l>καὶ μὴν πάρεισιν οἵδε· φοινία δὲ χεὶρ</l>
 						<l>στάζει θυηλῆς Ἄρεος, οὐδ’ ἔχω ψέγειν.</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l part="I">Ὀρέστα, πῶς κυρεῖτε;</l>
 					</sp>
-					<sp who="#oresths">
+					<sp who="#orestes">
 						<speaker>Ὀρέστης</speaker>
 						<l part="F">τἀν δόμοισι μὲν</l>
 						<l n="1425">καλῶς, Ἀπόλλων εἰ καλῶς ἐθέσπισεν.</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l part="I">τέθνηκεν ἡ τάλαινα;</l>
 					</sp>
-					<sp who="#oresths">
+					<sp who="#orestes">
 						<speaker>Ὀρέστης</speaker>
 						<l part="F">μηκέτ’ ἐκφοβοῦ</l>
 						<l>μητρῷον ὥς σε λῆμ’ ἀτιμάσει ποτέ.</l>
@@ -2828,16 +2828,16 @@ antilabe in all files
 						<speaker>Χορός</speaker>
 						<l>παύσασθε· λεύσσω γὰρ Αἴγισθον ἐκ προδήλου.</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l n="1430" part="I">ὦ παῖδες, οὐκ ἄψορρον;</l>
 					</sp>
-					<sp who="#oresths">
+					<sp who="#orestes">
 						<speaker>Ὀρέστης</speaker>
 						<l part="F">εἰσορᾶτε ποῦ</l>
 						<l part="I">τὸν ἄνδρ’;</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l part="F">ἐφ’ ἡμῖν οὗτος ἐκ προαστίου</l>
 						<l>χωρεῖ γεγηθὼς. . .</l>
@@ -2847,19 +2847,19 @@ antilabe in all files
 						<l>βᾶτε κατ’ ἀντιθύρων ὅσον τάχιστα,</l>
 						<l n="1435">νῦν, τὰ πρὶν εὖ θέμενοι, τάδ’ ὡς πάλιν.</l>
 					</sp>
-					<sp who="#oresths">
+					<sp who="#orestes">
 						<speaker>Ὀρέστης</speaker>
 						<l part="I">θάρσει· τελοῦμεν.</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l part="F">ᾗ νοεῖς ἔπειγέ νυν.</l>
 					</sp>
-					<sp who="#oresths">
+					<sp who="#orestes">
 						<speaker>Ὀρέστης</speaker>
 						<l part="I">καὶ δὴ βέβηκα.</l>
 					</sp>
-					<sp who="#hlektra">
+					<sp who="#elektra">
 						<speaker>Ἠλέκτρα</speaker>
 						<l part="F">τἀνθάδ’ ἂν μέλοιτ’ ἐμοί.</l>
 					</sp>
@@ -2873,7 +2873,7 @@ antilabe in all files
 				</div2>
 			</div1>
 			<div1 type="episode">
-				<sp who="#aigisqos">
+				<sp who="#aigisthos">
 					<speaker>Αἴγισθος</speaker>
 					<l>τίς οἶδεν ὑμῶν ποῦ ποθ’ οἱ Φωκῆς ξένοι,</l>
 					<l>οὕς φασ’ Ὀρέστην ἡμὶν ἀγγεῖλαι βίον</l>
@@ -2882,44 +2882,44 @@ antilabe in all files
 					<l>χρόνῳ θρασεῖαν· ὡς μάλιστα σοὶ μέλειν</l>
 					<l>οἶμαι, μάλιστα δ’ ἂν κατειδυῖαν φράσαι.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ἔξοιδα· πῶς γὰρ οὐχί; συμφορᾶς γὰρ ἂν</l>
 					<l>ἔξωθεν εἴην τῶν ἐμῶν τῆς φιλτάτης.</l>
 				</sp>
-				<sp who="#aigisqos">
+				<sp who="#aigisthos">
 					<speaker>Αἴγισθος</speaker>
 					<l n="1450">ποῦ δῆτ’ ἂν εἶεν οἱ ξένοι; δίδασκέ με.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>ἔνδον· φίλης γὰρ προξένου κατήνυσαν.</l>
 				</sp>
-				<sp who="#aigisqos">
+				<sp who="#aigisthos">
 					<speaker>Αἴγισθος</speaker>
 					<l>ἦ καὶ θανόντ’ ἤγγειλαν ὡς ἐτητύμως;</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>οὔκ, ἀλλὰ κἀπέδειξαν, οὐ λόγῳ μόνον.</l>
 				</sp>
-				<sp who="#aigisqos">
+				<sp who="#aigisthos">
 					<speaker>Αἴγισθος</speaker>
 					<l>πάρεστ’ ἄρ’ ἡμῖν ὥστε κἀμφανῆ μαθεῖν;</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l n="1455">πάρεστι δῆτα, καὶ μάλ’ ἄζηλος θέα.</l>
 				</sp>
-				<sp who="#aigisqos">
+				<sp who="#aigisthos">
 					<speaker>Αἴγισθος</speaker>
 					<l>ἦ πολλὰ χαίρειν μ’ εἶπας οὐκ εἰωθότως.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>χαίροις ἄν, εἴ σοι χαρτὰ τυγχάνοι τάδε.</l>
 				</sp>
-				<sp who="#aigisqos">
+				<sp who="#aigisthos">
 					<speaker>Αἴγισθος</speaker>
 					<l>σιγᾶν ἄνωγα κἀναδεικνύναι πύλας</l>
 					<l>πᾶσιν Μυκηναίοισιν Ἀργείοις θ’ ὁρᾶν,</l>
@@ -2928,66 +2928,66 @@ antilabe in all files
 					<l>στόμια δέχηται τἀμὰ μηδὲ πρὸς βίαν</l>
 					<l>ἐμοῦ κολαστοῦ προστυχὼν φύσῃ φρένας.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l>καὶ δὴ τελεῖται τἀπ’ ἐμοῦ· τῷ γὰρ χρόνῳ</l>
 					<l n="1465">νοῦν ἔσχον, ὥστε συμφέρειν τοῖς κρείσσοσιν.</l>
 					<milestone ed="p" n="1466" unit="card"/>
 				</sp>
-				<sp who="#aigisqos">
+				<sp who="#aigisthos">
 					<speaker>Αἴγισθος</speaker>
 					<l>ὦ Ζεῦ, δέδορκα φάσμ’ ἄνευ φθόνου μὲν οὐ</l>
 					<l>πεπτωκός· εἰ δ’ ἔπεστι νέμεσις, οὐ λέγω.</l>
 					<l>χαλᾶτε πᾶν κάλυμμ’ ἀπ’ ὀφθαλμῶν, ὅπως</l>
 					<l>τὸ συγγενές τοι κἀπ’ ἐμοῦ θρήνων τύχῃ.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l n="1470">αὐτὸς σὺ βάσταζ’· οὐκ ἐμὸν τόδ’, ἀλλὰ σόν,</l>
 					<l>τὸ ταῦθ’ ὁρᾶν τε καὶ προσηγορεῖν φίλως.</l>
 				</sp>
-				<sp who="#aigisqos">
+				<sp who="#aigisthos">
 					<speaker>Αἴγισθος</speaker>
 					<l>ἀλλ’ εὖ παραινεῖς κἀπιπείσομαι· σὺ δέ,</l>
 					<l>εἴ που κατ’ οἶκόν μοι Κλυταιμνήστρα, κάλει.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>αὕτη πέλας σοῦ· μηκέτ’ ἄλλοσε σκόπει.</l>
 				</sp>
-				<sp who="#aigisqos">
+				<sp who="#aigisthos">
 					<speaker>Αἴγισθος</speaker>
 					<l n="1475" part="I">οἴμοι, τί λεύσσω;</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l part="F">τίνα φοβεῖ; τίν’ ἀγνοεῖς;</l>
 				</sp>
-				<sp who="#aigisqos">
+				<sp who="#aigisthos">
 					<speaker>Αἴγισθος</speaker>
 					<l>τίνων ποτ’ ἀνδρῶν ἐν μέσοις ἀρκυστάτοις</l>
 					<l part="I">πέπτωχ’ ὁ τλήμων;</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l part="F">οὐ γὰρ αἰσθάνει πάλαι</l>
 					<l>ζῶντας θανοῦσιν οὕνεκ’ ἀνταυδᾷς ἴσα;</l>
 				</sp>
-				<sp who="#aigisqos">
+				<sp who="#aigisthos">
 					<speaker>Αἴγισθος</speaker>
 					<l n="1480">οἴμοι, ξυνῆκα τοὔπος· οὐ γὰρ ἔσθ’ ὅπως</l>
 					<l>ὅδ’ οὐκ Ὀρέστης ἔσθ’ ὁ προσφωνῶν ἐμέ.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>καὶ μάντις ὢν ἄριστος ἐσφάλλου πάλαι.</l>
 				</sp>
-				<sp who="#aigisqos">
+				<sp who="#aigisthos">
 					<speaker>Αἴγισθος</speaker>
 					<l>ὄλωλα δὴ δείλαιος.  ἀλλά μοι πάρες</l>
 					<l part="I">κἂν σμικρὸν εἰπεῖν.</l>
 				</sp>
-				<sp who="#hlektra">
+				<sp who="#elektra">
 					<speaker>Ἠλέκτρα</speaker>
 					<l part="F">μὴ πέρα λέγειν ἔα</l>
 					<l>πρὸς θεῶν, ἀδελφέ, μηδὲ μηκύνειν λόγους.</l>
@@ -2999,52 +2999,52 @@ antilabe in all files
 					<l n="1490">μόνον γένοιτο τῶν πάλαι λυτήριον.</l>
 					<milestone ed="p" n="1491" unit="card"/>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>χωροῖς ἂν εἴσω σὺν τάχει· λόγων γὰρ οὐ</l>
 					<l>νῦν ἐστιν ἁγών, ἀλλὰ σῆς ψυχῆς πέρι.</l>
 				</sp>
-				<sp who="#aigisqos">
+				<sp who="#aigisthos">
 					<speaker>Αἴγισθος</speaker>
 					<l>τί δ’ ἐς δόμους ἄγεις με; πῶς, τόδ’ εἰ καλὸν</l>
 					<l>τοὔργον, σκότου δεῖ κοὐ πρόχειρος εἶ κτανεῖν;</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l n="1495">μὴ τάσσε· χώρει δ’ ἔνθαπερ κατέκτανες</l>
 					<l>πατέρα τὸν ἀμόν, ὡς ἂν ἐν ταὐτῷ θάνῃς.</l>
 				</sp>
-				<sp who="#aigisqos">
+				<sp who="#aigisthos">
 					<speaker>Αἴγισθος</speaker>
 					<l>ἦ πᾶσ’ ἀνάγκη τήνδε τὴν στέγην ἰδεῖν</l>
 					<l>τά τ’ ὄντα καὶ μέλλοντα Πελοπιδῶν κακά;</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>τὰ γοῦν σ’· ἐγώ σοι μάντις εἰμὶ τῶνδ’ ἄκρος.</l>
 				</sp>
-				<sp who="#aigisqos">
+				<sp who="#aigisthos">
 					<speaker>Αἴγισθος</speaker>
 					<l n="1500">ἀλλ’ οὐ πατρῴαν τὴν τέχνην ἐκόμπασας.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l>πόλλ’ ἀντιφωνεῖς, ἡ δ’ ὁδὸς βραδύνεται.</l>
 					<l part="I">ἀλλ’ ἕρφ’.</l>
 				</sp>
-				<sp who="#aigisqos">
+				<sp who="#aigisthos">
 					<speaker>Αἴγισθος</speaker>
 					<l part="M">ὑφηγοῦ.</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l part="F">σοὶ βαδιστέον πάρος.</l>
 				</sp>
-				<sp who="#aigisqos">
+				<sp who="#aigisthos">
 					<speaker>Αἴγισθος</speaker>
 					<l part="I">ἦ μὴ φύγω σε;</l>
 				</sp>
-				<sp who="#oresths">
+				<sp who="#orestes">
 					<speaker>Ὀρέστης</speaker>
 					<l part="F">μὴ μὲν οὖν καθ’ ἡδονὴν</l>
 					<l>θάνῃς· φυλάξαι δεῖ με τοῦτό σοι πικρόν.</l>

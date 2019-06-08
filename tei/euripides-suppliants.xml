@@ -33,6 +33,7 @@
 							<publisher>Clarendon Press, Oxford</publisher>
 							<date>1913</date>
 						</imprint>
+						<date type="premiere" when="-423">423 BCE</date>
 					</bibl>
 				</biblStruct>
 			</sourceDesc>
@@ -45,7 +46,6 @@
 						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
 					</licence>
 				</availability>
-				<date type="premiere" when="-423">423 BCE</date>
 			</bibl>
 		</fileDesc>
 		<profileDesc>
@@ -163,7 +163,7 @@ bring up to P3
 		<body>
 			<div1 type="episode">
 				<milestone ed="p" n="1" unit="card"/>
-				<sp n="Αἴθρα" who="#aiqra">
+				<sp n="Αἴθρα" who="#aithra">
 					<speaker>Αἴθρα</speaker>
 					<l>Δήμητερ ἑστιοῦχ’ Ἐλευσῖνος χθονὸς</l>
 					<l>τῆσδ’, οἵ τε ναοὺς ἔχετε πρόσπολοι θεᾶς,</l>
@@ -296,7 +296,7 @@ bring up to P3
 				</div2>
 			</div1>
 			<div1 type="episode">
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>τίνων γόων ἤκουσα καὶ στέρνων κτύπον</l>
 					<l>νεκρῶν τε θρήνους, τῶνδ’ ἀνακτόρων ἄπο</l>
@@ -313,38 +313,38 @@ bring up to P3
 					<l>τί ταῦτα, μῆτερ; σὸν τὸ μηνύειν ἐμοί,</l>
 					<l>ἡμῶν δ’ ἀκούειν· προσδοκῶ τι γὰρ νέον.</l>
 				</sp>
-				<sp who="#aiqra">
+				<sp who="#aithra">
 					<speaker>Αἴθρα</speaker>
 					<l n="100">ὦ παῖ, γυναῖκες αἵδε μητέρες τέκνων</l>
 					<l>τῶν κατθανόντων ἀμφὶ Καδμείας πύλας</l>
 					<l>ἑπτὰ στρατηγῶν· ἱκεσίοις δὲ σὺν κλάδοις</l>
 					<l>φρουροῦσί μ’, ὡς δέδορκας, ἐν κύκλῳ, τέκνον.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>τίς δ’ ὁ στενάζων οἰκτρὸν ἐν πύλαις ὅδε;</l>
 				</sp>
-				<sp who="#aiqra">
+				<sp who="#aithra">
 					<speaker>Αἴθρα</speaker>
 					<l n="105">Ἄδραστος, ὡς λέγουσιν, Ἀργείων ἄναξ.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>οἱ δ’ ἀμφὶ τόνδε παῖδες; ἦ τούτων τέκνα;</l>
 				</sp>
-				<sp who="#aiqra">
+				<sp who="#aithra">
 					<speaker>Αἴθρα</speaker>
 					<l>οὔκ, ἀλλὰ νεκρῶν τῶν ὀλωλότων κόροι.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>τί γὰρ πρὸς ἡμᾶς ἦλθον ἱκεσίᾳ χερί;</l>
 				</sp>
-				<sp who="#aiqra">
+				<sp who="#aithra">
 					<speaker>Αἴθρα</speaker>
 					<l>οἶδ’· ἀλλὰ τῶνδε μῦθος οὑντεῦθεν, τέκνον.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l n="110">σὲ τὸν κατήρη χλανιδίοις ἀνιστορῶ.</l>
 					<l>λέγ’ ἐκκαλύψας κρᾶτα καὶ πάρες γόον·</l>
@@ -356,7 +356,7 @@ bring up to P3
 					<l>ὦ καλλίνικε γῆς Ἀθηναίων ἄναξ,</l>
 					<l>Θησεῦ, σὸς ἱκέτης καὶ πόλεως ἥκω σέθεν.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l n="115">τί χρῆμα θηρῶν καὶ τίνος χρείαν ἔχων;</l>
 				</sp>
@@ -364,7 +364,7 @@ bring up to P3
 					<speaker>Ἄδραστος</speaker>
 					<l>οἶσθ’ ἣν στρατείαν ἐστράτευσ’ ὀλεθρίαν.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>οὐ γάρ τι σιγῇ διεπέρασας Ἑλλάδα.</l>
 				</sp>
@@ -372,7 +372,7 @@ bring up to P3
 					<speaker>Ἄδραστος</speaker>
 					<l>ἐνταῦθ’ ἀπώλεσ’ ἄνδρας Ἀργείων ἄκρους.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>τοιαῦθ’ ὁ τλήμων πόλεμος ἐξεργάζεται.</l>
 				</sp>
@@ -380,7 +380,7 @@ bring up to P3
 					<speaker>Ἄδραστος</speaker>
 					<l n="120">τούτους θανόντας ἦλθον ἐξαιτῶν πόλιν.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>κήρυξιν Ἑρμοῦ πίσυνος, ὡς θάψῃς νεκρούς;</l>
 				</sp>
@@ -388,7 +388,7 @@ bring up to P3
 					<speaker>Ἄδραστος</speaker>
 					<l>κἄπειτά γ’ οἱ κτανόντες οὐκ ἐῶσί με.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>τί γὰρ λέγουσιν, ὅσια χρῄζοντος σέθεν;</l>
 				</sp>
@@ -396,7 +396,7 @@ bring up to P3
 					<speaker>Ἄδραστος</speaker>
 					<l>τί δ’; εὐτυχοῦντες οὐκ ἐπίστανται φέρειν.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l n="125">ξύμβουλον οὖν μ’ ἐπῆλθες; ἢ τίνος χάριν;</l>
 				</sp>
@@ -404,7 +404,7 @@ bring up to P3
 					<speaker>Ἄδραστος</speaker>
 					<l>κομίσαι σε, Θησεῦ, παῖδας Ἀργείων θέλων.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>τὸ δ’ Ἄργος ἡμῖν ποῦ ’στιν; ἢ κόμποι μάτην;</l>
 				</sp>
@@ -412,7 +412,7 @@ bring up to P3
 					<speaker>Ἄδραστος</speaker>
 					<l>σφαλέντες οἰχόμεσθα. πρὸς σὲ δ’ ἥκομεν.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>ἰδίᾳ δοκῆσάν σοι τόδ’ ἢ πάσῃ πόλει;</l>
 				</sp>
@@ -420,7 +420,7 @@ bring up to P3
 					<speaker>Ἄδραστος</speaker>
 					<l n="130">πάντες &lt;σ’&gt; ἱκνοῦνται Δαναΐδαι θάψαι νεκρούς.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>ἐκ τοῦ δ’ ἐλαύνεις ἑπτὰ πρὸς Θήβας λόχους;</l>
 				</sp>
@@ -428,7 +428,7 @@ bring up to P3
 					<speaker>Ἄδραστος</speaker>
 					<l>δισσοῖσι γαμβροῖς τήνδε πορσύνων χάριν.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>τῷ δ’ ἐξέδωκας παῖδας Ἀργείων σέθεν;</l>
 				</sp>
@@ -436,7 +436,7 @@ bring up to P3
 					<speaker>Ἄδραστος</speaker>
 					<l>οὐκ ἐγγενῆ συνῆψα κηδείαν δόμοις.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l n="135">ἀλλὰ ξένοις ἔδωκας Ἀργείας κόρας;</l>
 				</sp>
@@ -444,7 +444,7 @@ bring up to P3
 					<speaker>Ἄδραστος</speaker>
 					<l>Τυδεῖ &lt;γε&gt; Πολυνείκει τε τῷ Θηβαιγενεῖ.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>τίν’ εἰς ἔρωτα τῆσδε κηδείας μολών;</l>
 				</sp>
@@ -452,7 +452,7 @@ bring up to P3
 					<speaker>Ἄδραστος</speaker>
 					<l>Φοίβου μ’ ὑπῆλθε δυστόπαστ’ αἰνίγματα.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>τί δ’ εἶπ’ Ἀπόλλων παρθένοις κραίνων γάμον;</l>
 				</sp>
@@ -460,7 +460,7 @@ bring up to P3
 					<speaker>Ἄδραστος</speaker>
 					<l n="140">κάπρῳ με δοῦναι καὶ λέοντι παῖδ’ ἐμώ.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>σὺ δ’ ἐξελίσσεις πῶς θεοῦ θεσπίσματα;</l>
 				</sp>
@@ -468,7 +468,7 @@ bring up to P3
 					<speaker>Ἄδραστος</speaker>
 					<l>ἐλθόντε φυγάδε νυκτὸς εἰς ἐμὰς πύλας — </l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>τίς καὶ τίς; εἰπέ· δύο γὰρ ἐξαυδᾷς ἅμα.</l>
 				</sp>
@@ -476,7 +476,7 @@ bring up to P3
 					<speaker>Ἄδραστος</speaker>
 					<l>Τυδεὺς μάχην ξυνῆψε Πολυνείκης θ’ ἅμα.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l n="145">ἦ τοῖσδ’ ἔδωκας θηρσὶν ὣς κόρας σέθεν;</l>
 				</sp>
@@ -484,7 +484,7 @@ bring up to P3
 					<speaker>Ἄδραστος</speaker>
 					<l>μάχην γε δισσοῖν κνωδάλοιν ἀπεικάσας.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>ἦλθον δὲ δὴ πῶς πατρίδος ἐκλιπόνθ’ ὅρους;</l>
 				</sp>
@@ -492,7 +492,7 @@ bring up to P3
 					<speaker>Ἄδραστος</speaker>
 					<l>Τυδεὺς μὲν αἷμα συγγενὲς φεύγων χθονός.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>ὁ δ’ Οἰδίπου &lt;τί&gt;, τίνι τρόπῳ Θήβας λιπών;</l>
 				</sp>
@@ -500,7 +500,7 @@ bring up to P3
 					<speaker>Ἄδραστος</speaker>
 					<l n="150">ἀραῖς πατρῴαις, μὴ κασίγνητον κτάνοι.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>σοφήν γ’ ἔλεξας τήνδ’ ἑκούσιον φυγήν.</l>
 				</sp>
@@ -508,7 +508,7 @@ bring up to P3
 					<speaker>Ἄδραστος</speaker>
 					<l>ἀλλ’ οἱ μένοντες τοὺς ἀπόντας ἠδίκουν.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>οὔ πού σφ’ ἀδελφὸς χρημάτων νοσφίζεται;</l>
 				</sp>
@@ -516,7 +516,7 @@ bring up to P3
 					<speaker>Ἄδραστος</speaker>
 					<l>ταύτῃ δικάζων ἦλθον· εἶτ’ ἀπωλόμην.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l n="155">μάντεις δ’ ἐπῆλθες ἐμπύρων τ’ εἶδες φλόγα;</l>
 				</sp>
@@ -524,7 +524,7 @@ bring up to P3
 					<speaker>Ἄδραστος</speaker>
 					<l>οἴμοι; διώκεις μ’ ᾗ μάλιστ’ ἐγὼ ’σφάλην.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>οὐκ ἦλθες, ὡς ἔοικεν, εὐνοίᾳ θεῶν.</l>
 				</sp>
@@ -532,7 +532,7 @@ bring up to P3
 					<speaker>Ἄδραστος</speaker>
 					<l>τὸ δὲ πλέον, ἦλθον Ἀμφιάρεώ γε πρὸς βίαν.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>οὕτω τὸ θεῖον ῥᾳδίως ἀπεστράφης;</l>
 				</sp>
@@ -540,7 +540,7 @@ bring up to P3
 					<speaker>Ἄδραστος</speaker>
 					<l n="160">νέων γὰρ ἀνδρῶν θόρυβος ἐξέπλησσέ με.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>εὐψυχίαν ἔσπευσας ἀντ’ εὐβουλίας.</l>
 					<milestone ed="p" n="162" unit="card"/>
@@ -586,7 +586,7 @@ bring up to P3
 					<l>Θησεῦ, δῑ οἴκτου τὰς ἐμὰς λαβεῖν τύχας.</l>
 					<milestone ed="p" n="195" unit="card"/>
 				</sp>
-				<sp n="Θησεύς" who="#qhseus">
+				<sp n="Θησεύς" who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l n="195">ἄλλοισι δὴ ’πόνησ’ ἁμιλληθεὶς λόγῳ</l>
 					<l>τοιῷδ’. ἔλεξε γάρ τις ὡς τὰ χείρονα</l>
@@ -699,7 +699,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="iambic">
-					<sp who="#qhseus">
+					<sp who="#theseys">
 						<speaker>Θησεύς</speaker>
 						<l>μῆτερ, τί κλαίεις λέπτ’ ἐπ’ ὀμμάτων φάρη</l>
 						<l>βαλοῦσα τῶν σῶν; ἆρα δυστήνους γόους</l>
@@ -707,39 +707,39 @@ bring up to P3
 						<l>ἔπαιρε λευκὸν κρᾶτα, μὴ δακρυρρόει</l>
 						<l n="290">σεμναῖσι Δηοῦς ἐσχάραις παρημένη.</l>
 					</sp>
-					<sp who="#aiqra">
+					<sp who="#aithra">
 						<speaker>Αἴθρα</speaker>
 						<l>αἰαῖ.</l>
 					</sp>
-					<sp who="#qhseus">
+					<sp who="#theseys">
 						<speaker>Θησεύς</speaker>
 						<l part="Y">τὰ τούτων οὐχὶ σοὶ στενακτέον.</l>
 					</sp>
-					<sp who="#aiqra">
+					<sp who="#aithra">
 						<speaker>Αἴθρα</speaker>
 						<l>ὦ τλήμονες γυναῖκες.</l>
 					</sp>
-					<sp who="#qhseus">
+					<sp who="#theseys">
 						<speaker>Θησεύς</speaker>
 						<l part="Y">οὐ σὺ τῶνδ’ ἔφυς.</l>
 					</sp>
-					<sp who="#aiqra">
+					<sp who="#aithra">
 						<speaker>Αἴθρα</speaker>
 						<l>εἴπω τι, τέκνον, σοί τε καὶ πόλει καλόν;</l>
 					</sp>
-					<sp who="#qhseus">
+					<sp who="#theseys">
 						<speaker>Θησεύς</speaker>
 						<l>ὡς πολλά γ’ ἐστὶ κἀπὸ θηλειῶν σοφά.</l>
 					</sp>
-					<sp who="#aiqra">
+					<sp who="#aithra">
 						<speaker>Αἴθρα</speaker>
 						<l n="295">ἀλλ’ εἰς ὄκνον μοι μῦθος ὃν κεύθω φέρει.</l>
 					</sp>
-					<sp who="#qhseus">
+					<sp who="#theseys">
 						<speaker>Θησεύς</speaker>
 						<l>αἰσχρόν γ’ ἔλεξας, χρήστ’ ἔπη κρύπτειν φίλοις.</l>
 					</sp>
-					<sp who="#aiqra">
+					<sp who="#aithra">
 						<speaker>Αἴθρα</speaker>
 						<l>οὔτοι σιωπῶσ’ εἶτα μέμψομαί ποτε</l>
 						<l>τὴν νῦν σιωπὴν ὡς ἐσιγήθη κακῶς,</l>
@@ -783,7 +783,7 @@ bring up to P3
 						<l>κἀμοί· διπλοῦν δὲ χάρμα γίγνεται τόδε.</l>
 						<milestone ed="p" n="334" unit="card"/>
 					</sp>
-					<sp who="#qhseus">
+					<sp who="#theseys">
 						<speaker>Θησεύς</speaker>
 						<l>ἐμοὶ λόγοι μέν, μῆτερ, οἱ λελεγμένοι</l>
 						<l n="335">ὀρθῶς ἔχουσ’ ἐς τόνδε, κἀπεφηνάμην</l>
@@ -865,7 +865,7 @@ bring up to P3
 				</div2>
 			</div1>
 			<div1 type="episode">
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>τέχνην μὲν αἰεὶ τήνδ’ ἔχων ὑπηρετεῖς</l>
 					<l>πόλει τε κἀμοί, διαφέρων κηρύγματα·</l>
@@ -887,14 +887,14 @@ bring up to P3
 					<l>μολὼν ὕπαντα τοῖς ἐμοῖς βουλεύμασιν.</l>
 					<milestone ed="p" n="399" unit="card"/>
 				</sp>
-				<sp who="#khruc">
+				<sp who="#keryks">
 					<speaker>Κῆρυξ</speaker>
 					<l>τίς γῆς τύραννος; πρὸς τίν’ ἀγγεῖλαί με χρὴ</l>
 					<l n="400">λόγους Κρέοντος, ὃς κρατεῖ Κάδμου χθονὸς</l>
 					<l>Ἐτεοκλέους θανόντος ἀμφ’ ἑπταστόμους</l>
 					<l>πύλας ἀδελφῇ χειρὶ Πολυνείκους ὕπο;</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>πρῶτον μὲν ἤρξω τοῦ λόγου ψευδῶς, ξένε,</l>
 					<l>ζητῶν τύραννον ἐνθάδ’· οὐ γὰρ ἄρχεται</l>
@@ -903,7 +903,7 @@ bring up to P3
 					<l>ἐνιαυσίαισιν, οὐχὶ τῷ πλούτῳ διδοὺς</l>
 					<l>τὸ πλεῖστον, ἀλλὰ χὡ πένης ἔχων ἴσον.</l>
 				</sp>
-				<sp who="#khruc">
+				<sp who="#keryks">
 					<speaker>Κῆρυξ</speaker>
 					<l>ἓν μὲν τόδ’ ἡμῖν ὥσπερ ἐν πεσσοῖς δίδως</l>
 					<l n="410">κρεῖσσον· πόλις γὰρ ἧς ἐγὼ πάρειμ’ ἄπο</l>
@@ -924,7 +924,7 @@ bring up to P3
 					<l n="425">γλώσσῃ κατασχὼν δῆμον, οὐδὲν ὢν τὸ πρίν.</l>
 					<milestone ed="p" n="426" unit="card"/>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>κομψός γ’ ὁ κῆρυξ καὶ παρεργάτης λόγων.</l>
 					<l>ἐπεὶ δ’ ἀγῶνα καὶ σὺ τόνδ’ ἠγωνίσω,</l>
@@ -970,7 +970,7 @@ bring up to P3
 					<l>καλῶς, ὑβρίζουσ’ ὡς ἀεὶ πράξοντες εὖ.</l>
 					<milestone ed="p" n="465" unit="card"/>
 				</sp>
-				<sp n="Κῆρυξ" who="#khruc">
+				<sp n="Κῆρυξ" who="#keryks">
 					<speaker>Κῆρυξ</speaker>
 					<l n="465">λέγοιμ’ ἂν ἤδη. τῶν μὲν ἠγωνισμένων</l>
 					<l>σοὶ μὲν δοκείτω ταῦτ’, ἐμοὶ δὲ τἀντία.</l>
@@ -1029,7 +1029,7 @@ bring up to P3
 					<speaker>Ἄδραστος</speaker>
 					<l>ὦ παγκάκιστε — </l>
 				</sp>
-				<sp n="Θησεύς" who="#qhseus">
+				<sp n="Θησεύς" who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l part="Y">σῖγ’, Ἄδραστ’, ἔχε στόμα,</l>
 					<l>καὶ μὴ ’πίπροσθεν τῶν ἐμῶν τοὺς σοὺς λόγους</l>
@@ -1089,67 +1089,67 @@ bring up to P3
 					<l>θάρσει· τὸ γάρ τοι τῆς Δίκης σῴζων φάος</l>
 					<l n="565">πολλοὺς ὑπεκφύγοις ἂν ἀνθρώπων ψόγους.</l>
 				</sp>
-				<sp who="#khruc">
+				<sp who="#keryks">
 					<speaker>Κῆρυξ</speaker>
 					<l>βούλῃ συνάψω μῦθον ἐν βραχεῖ †σέθεν†;</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>λέγ’, εἴ τι βούλῃ· καὶ γὰρ οὐ σιγηλὸς εἶ.</l>
 				</sp>
-				<sp who="#khruc">
+				<sp who="#keryks">
 					<speaker>Κῆρυξ</speaker>
 					<l>οὐκ ἄν ποτ’ ἐκ γῆς παῖδας Ἀργείων λάβοις.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>κἀμοῦ νυν ἀντάκουσον, εἰ βούλῃ, πάλιν.</l>
 				</sp>
-				<sp who="#khruc">
+				<sp who="#keryks">
 					<speaker>Κῆρυξ</speaker>
 					<l n="570">κλύοιμ’ ἄν· οὐ γὰρ ἀλλὰ δεῖ δοῦναι μέρος.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>θάψω νεκροὺς γῆς ἐξελὼν Ἀσωπίας.</l>
 				</sp>
-				<sp who="#khruc">
+				<sp who="#keryks">
 					<speaker>Κῆρυξ</speaker>
 					<l>ἐν ἀσπίσιν σοι πρῶτα κινδυνευτέον.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>πολλοὺς ἔτλην δὴ †χἁτέρους ἄλλους πόνους†.</l>
 				</sp>
-				<sp who="#khruc">
+				<sp who="#keryks">
 					<speaker>Κῆρυξ</speaker>
 					<l>ἦ πᾶσιν οὖν &lt;σ’&gt; ἔφυσεν ἐξαρκεῖν πατήρ;</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l n="575">ὅσοι γ’ ὑβρισταί· χρηστὰ δ’ οὐ κολάζομεν.</l>
 				</sp>
-				<sp who="#khruc">
+				<sp who="#keryks">
 					<speaker>Κῆρυξ</speaker>
 					<l>πράσσειν σὺ πόλλ’ εἴωθας ἥ τε σὴ πόλις.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>τοιγὰρ πονοῦσα πολλὰ πόλλ’ εὐδαιμονεῖ.</l>
 				</sp>
-				<sp who="#khruc">
+				<sp who="#keryks">
 					<speaker>Κῆρυξ</speaker>
 					<l>ἔλθ’, ὥς σε λόγχη σπαρτὸς ἐν πόλει λάβῃ.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>τίς δ’ ἐκ δράκοντος θοῦρος ἂν γένοιτ’ Ἄρης;</l>
 				</sp>
-				<sp who="#khruc">
+				<sp who="#keryks">
 					<speaker>Κῆρυξ</speaker>
 					<l n="580">γνώσῃ σὺ πάσχων· νῦν δ’ ἔτ’ εἶ νεανίας.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>οὔτοι μ’ ἐπαρεῖς ὥστε θυμῶσαι φρένας</l>
 					<l>τοῖς σοῖσι κόμποις· ἀλλ’ ἀποστέλλου χθονός,</l>
@@ -1633,7 +1633,7 @@ bring up to P3
 				</div2>
 			</div1>
 			<div1 type="episode">
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>μέλλων σ’ ἐρωτᾶν, ἡνίκ’ ἐξήντλεις στρατῷ</l>
 					<l>γόους, ἀφήσω· τοὺς ἐκεῖ μὲν ἐκλιπὼν</l>
@@ -1735,7 +1735,7 @@ bring up to P3
 					<milestone ed="p" n="925" unit="card"/>
 				</div2>
 				<div2 type="iambic">
-					<sp who="#qhseus">
+					<sp who="#theseys">
 						<speaker>Θησεύς</speaker>
 						<l n="925">καὶ μὴν τὸν Οἰκλέους γε γενναῖον τόκον</l>
 						<l>θεοὶ ζῶντ’ ἀναρπάσαντες ἐς μυχοὺς χθονὸς</l>
@@ -1750,7 +1750,7 @@ bring up to P3
 						<speaker>Ἄδραστος</speaker>
 						<l>οὐκ οἶδα πλὴν ἕν, σοῖσι πείθεσθαι λόγοις.</l>
 					</sp>
-					<sp who="#qhseus">
+					<sp who="#theseys">
 						<speaker>Θησεύς</speaker>
 						<l>τὸν μὲν Διὸς πληγέντα Καπανέα πυρὶ . . . .</l>
 					</sp>
@@ -1758,7 +1758,7 @@ bring up to P3
 						<speaker>Ἄδραστος</speaker>
 						<l n="935">ἦ χωρὶς ἱερὸν ὡς νεκρὸν θάψαι θέλεις;</l>
 					</sp>
-					<sp who="#qhseus">
+					<sp who="#theseys">
 						<speaker>Θησεύς</speaker>
 						<l>ναί· τοὺς δέ γ’ ἄλλους πάντας ἐν μιᾷ πυρᾷ.</l>
 					</sp>
@@ -1766,7 +1766,7 @@ bring up to P3
 						<speaker>Ἄδραστος</speaker>
 						<l>ποῦ δῆτα θήσεις μνῆμα τῷδε χωρίσας;</l>
 					</sp>
-					<sp who="#qhseus">
+					<sp who="#theseys">
 						<speaker>Θησεύς</speaker>
 						<l>αὐτοῦ παρ’ οἴκους τούσδε συμπήξας τάφον.</l>
 					</sp>
@@ -1774,7 +1774,7 @@ bring up to P3
 						<speaker>Ἄδραστος</speaker>
 						<l>οὗτος μὲν ἤδη δμωσὶν ἂν μέλοι πόνος.</l>
 					</sp>
-					<sp who="#qhseus">
+					<sp who="#theseys">
 						<speaker>Θησεύς</speaker>
 						<l n="940">ἡμῖν δέ γ’ οἵδε· στειχέτω δ’ ἄχθη νεκρῶν.</l>
 					</sp>
@@ -1782,7 +1782,7 @@ bring up to P3
 						<speaker>Ἄδραστος</speaker>
 						<l>ἴτ’, ὦ τάλαιναι μητέρες, τέκνων πέλας.</l>
 					</sp>
-					<sp who="#qhseus">
+					<sp who="#theseys">
 						<speaker>Θησεύς</speaker>
 						<l>ἥκιστ’, Ἄδραστε, τοῦτο πρόσφορον λέγεις.</l>
 					</sp>
@@ -1790,7 +1790,7 @@ bring up to P3
 						<speaker>Ἄδραστος</speaker>
 						<l>πῶς; τὰς τεκούσας οὐ χρεὼν ψαῦσαι τέκνων;</l>
 					</sp>
-					<sp who="#qhseus">
+					<sp who="#theseys">
 						<speaker>Θησεύς</speaker>
 						<l>ὄλοιντ’ ἰδοῦσαι τούσδ’ ἂν ἠλλοιωμένους.</l>
 					</sp>
@@ -1798,7 +1798,7 @@ bring up to P3
 						<speaker>Ἄδραστος</speaker>
 						<l n="945">πικρὰ γὰρ ὄψις αἷμα κὠτειλαὶ νεκρῶν.</l>
 					</sp>
-					<sp who="#qhseus">
+					<sp who="#theseys">
 						<speaker>Θησεύς</speaker>
 						<l>τί δῆτα λύπην ταῖσδε προσθεῖναι θέλεις;</l>
 					</sp>
@@ -1880,7 +1880,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="strophe">
-					<sp who="#euadnh">
+					<sp who="#eyadne">
 						<speaker>Εὐάδνη</speaker>
 						<l n="990">τί φέγγος, τίν’ αἴγλαν</l>
 						<l>ἐδίφρευε τόθ’ ἅλιος</l>
@@ -1912,7 +1912,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#euadnh">
+					<sp who="#eyadne">
 						<speaker>Εὐάδνη</speaker>
 						<l>ὁρῶ δὴ τελευτάν,</l>
 						<l>ἵν’ ἕστακα· τύχα δέ μοι</l>
@@ -1955,7 +1955,7 @@ bring up to P3
 						<l>βέβηκεν. ἀλλὰ τῇδέ νιν δοξάζομεν</l>
 						<l>μάλιστ’ ἂν εἶναι· φράζετ’ εἰ κατείδετε.</l>
 					</sp>
-					<sp who="#euadnh">
+					<sp who="#eyadne">
 						<speaker>Εὐάδνη</speaker>
 						<l n="1045">τί τάσδ’ ἐρωτᾷς; ἥδ’ ἐγὼ πέτρας ἔπι</l>
 						<l>ὄρνις τις ὡσεὶ Καπανέως ὑπὲρ πυρᾶς</l>
@@ -1966,7 +1966,7 @@ bring up to P3
 						<l>τέκνον, τίς αὔρα; τίς στόλος; τίνος χάριν</l>
 						<l>δόμων ὑπεκβᾶσ’ ἦλθες ἐς τήνδε χθόνα;</l>
 					</sp>
-					<sp who="#euadnh">
+					<sp who="#eyadne">
 						<speaker>Εὐάδνη</speaker>
 						<l n="1050">ὀργὴν λάβοις ἂν τῶν ἐμῶν βουλευμάτων</l>
 						<l>κλύων· ἀκοῦσαι δ’ οὔ σε βούλομαι, πάτερ.</l>
@@ -1975,7 +1975,7 @@ bring up to P3
 						<speaker>Ἶφις</speaker>
 						<l>τί δ’; οὐ δίκαιον πατέρα τὸν σὸν εἰδέναι;</l>
 					</sp>
-					<sp who="#euadnh">
+					<sp who="#eyadne">
 						<speaker>Εὐάδνη</speaker>
 						<l>κριτὴς ἂν εἴης οὐ σοφὸς γνώμης ἐμῆς.</l>
 					</sp>
@@ -1983,7 +1983,7 @@ bring up to P3
 						<speaker>Ἶφις</speaker>
 						<l>σκευῇ δὲ τῇδε τοῦ χάριν κοσμεῖς δέμας;</l>
 					</sp>
-					<sp who="#euadnh">
+					<sp who="#eyadne">
 						<speaker>Εὐάδνη</speaker>
 						<l n="1055">θέλει τι κλεινὸν οὗτος ὁ στολμός, πάτερ.</l>
 					</sp>
@@ -1991,7 +1991,7 @@ bring up to P3
 						<speaker>Ἶφις</speaker>
 						<l>ὡς οὐκ ἐπ’ ἀνδρὶ πένθιμος πρέπεις ὁρᾶν.</l>
 					</sp>
-					<sp who="#euadnh">
+					<sp who="#eyadne">
 						<speaker>Εὐάδνη</speaker>
 						<l>ἐς γάρ τι πρᾶγμα νεοχμὸν ἐσκευάσμεθα.</l>
 					</sp>
@@ -1999,7 +1999,7 @@ bring up to P3
 						<speaker>Ἶφις</speaker>
 						<l>κἄπειτα τύμβῳ καὶ πυρᾷ φαίνῃ πέλας;</l>
 					</sp>
-					<sp who="#euadnh">
+					<sp who="#eyadne">
 						<speaker>Εὐάδνη</speaker>
 						<l>ἐνταῦθα γὰρ δὴ καλλίνικος ἔρχομαι.</l>
 					</sp>
@@ -2007,7 +2007,7 @@ bring up to P3
 						<speaker>Ἶφις</speaker>
 						<l n="1060">νικῶσα νίκην τίνα; μαθεῖν χρῄζω σέθεν.</l>
 					</sp>
-					<sp who="#euadnh">
+					<sp who="#eyadne">
 						<speaker>Εὐάδνη</speaker>
 						<l>πάσας γυναῖκας ἃς δέδορκεν ἥλιος.</l>
 					</sp>
@@ -2015,7 +2015,7 @@ bring up to P3
 						<speaker>Ἶφις</speaker>
 						<l>ἔργοις Ἀθάνας ἢ φρενῶν εὐβουλίᾳ;</l>
 					</sp>
-					<sp who="#euadnh">
+					<sp who="#eyadne">
 						<speaker>Εὐάδνη</speaker>
 						<l>ἀρετῇ· πόσει γὰρ συνθανοῦσα κείσομαι.</l>
 					</sp>
@@ -2023,7 +2023,7 @@ bring up to P3
 						<speaker>Ἶφις</speaker>
 						<l>τί φῄς; τί τοῦτ’ αἴνιγμα σημαίνεις σαθρόν;</l>
 					</sp>
-					<sp who="#euadnh">
+					<sp who="#eyadne">
 						<speaker>Εὐάδνη</speaker>
 						<l n="1065">ᾄσσω θανόντος Καπανέως τήνδ’ ἐς πυράν.</l>
 					</sp>
@@ -2031,7 +2031,7 @@ bring up to P3
 						<speaker>Ἶφις</speaker>
 						<l>ὦ θύγατερ, οὐ μὴ μῦθον ἐς πολλοὺς ἐρεῖς.</l>
 					</sp>
-					<sp who="#euadnh">
+					<sp who="#eyadne">
 						<speaker>Εὐάδνη</speaker>
 						<l>τοῦτ’ αὐτὸ χρῄζω, πάντας Ἀργείους μαθεῖν.</l>
 					</sp>
@@ -2039,7 +2039,7 @@ bring up to P3
 						<speaker>Ἶφις</speaker>
 						<l>ἀλλ’ οὐδέ τοί σοι πείσομαι δρώσῃ τάδε.</l>
 					</sp>
-					<sp who="#euadnh">
+					<sp who="#eyadne">
 						<speaker>Εὐάδνη</speaker>
 						<l>ὅμοιον· οὐ γὰρ μὴ κίχῃς μ’ ἑλὼν χερί.</l>
 						<l n="1070">καὶ δὴ παρεῖται σῶμα — σοὶ μὲν οὐ φίλον,</l>
@@ -2253,7 +2253,7 @@ bring up to P3
 				</div2>
 			</div1>
 			<div1 type="episode">
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l n="1165">Ἄδραστε καὶ γυναῖκες Ἀργεῖαι γένος,</l>
 					<l>ὁρᾶτε παῖδας τούσδ’ ἔχοντας ἐν χεροῖν</l>
@@ -2274,7 +2274,7 @@ bring up to P3
 					<l>χάριν τ’ ἀγήρων ἕξομεν· γενναῖα γὰρ</l>
 					<l>παθόντες ὑμᾶς ἀντιδρᾶν ὀφείλομεν.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l n="1180">τί δῆτ’ ἔθ’ ὑμῖν ἄλλ’ ὑπουργῆσαί με χρή;</l>
 				</sp>
@@ -2282,11 +2282,11 @@ bring up to P3
 					<speaker>Ἄδραστος</speaker>
 					<l>χαῖρ’· ἄξιος γὰρ καὶ σὺ καὶ πόλις σέθεν.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>ἔσται τάδ’· ἀλλὰ καὶ σὺ τῶν αὐτῶν τύχοις.</l>
 				</sp>
-				<sp n="Ἀθήνα" who="#aqhna">
+				<sp n="Ἀθήνα" who="#athena">
 					<speaker>Ἀθήνα</speaker>
 					<l>ἄκουε, Θησεῦ, τούσδ’ Ἀθηναίας λόγους,</l>
 					<l>ἃ χρή σε δρᾶσαι, δρῶντα δ’ ὠφελεῖν τάδε.</l>
@@ -2334,7 +2334,7 @@ bring up to P3
 					<l n="1225">κληθέντες ᾠδὰς ὑστέροισι θήσετε·</l>
 					<l>τοῖον στράτευμα σὺν θεῷ πορεύσετε.</l>
 				</sp>
-				<sp who="#qhseus">
+				<sp who="#theseys">
 					<speaker>Θησεύς</speaker>
 					<l>δέσποιν’ Ἀθάνα, πείσομαι λόγοισι σοῖς·</l>
 					<l>σὺ γάρ μ’ ἀνορθοῖς, ὥστε μὴ ’ξαμαρτάνειν·</l>

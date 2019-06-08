@@ -33,6 +33,7 @@
 							<publisher>Cambridge, Mass., Harvard University Press; London, William Heinemann, Ltd.</publisher>
 							<date>1926</date>
 						</imprint>
+						<date type="premiere" when="-470">470 BCE</date>
 					</bibl>
 				</biblStruct>
 			</sourceDesc>
@@ -45,7 +46,6 @@
 						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
 					</licence>
 				</availability>
-				<date type="premiere" when="-470">470 BCE</date>
 			</bibl>
 		</fileDesc>
 		<profileDesc>
@@ -634,7 +634,7 @@ convert to P3
 					<l>ὅπως ἂν ὑμῖν πρᾶγος εὖ νικᾷ τόδε.</l>
 					<milestone ed="p" n="234" unit="card"/>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>ποδαπὸν ὅμιλον τόνδ’ ἀνελληνόστολον</l>
 					<l n="235">πέπλοισι βαρβάροισι καὶ πυκνώμασι</l>
@@ -655,7 +655,7 @@ convert to P3
 					<l>ἐγὼ δὲ πρὸς σὲ πότερον ὡς ἔτην λέγω,</l>
 					<l>ἢ ῥήτορ’ ἱεροράβδον, ἢ πόλεως ἀγόν;</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>πρὸς ταῦτ’ ἀμείβου καὶ λέγ’ εὐθαρσὴς ἐμοί.</l>
 					<l n="250">τοῦ γηγενοῦς γάρ εἰμ’ ἐγὼ Παλαίχθονος</l>
@@ -696,7 +696,7 @@ convert to P3
 					<l n="275">ἐξευχόμεσθα, σπέρματ’ εὐτέκνου βοός·</l>
 					<l>καὶ ταῦτ’ ἀληθῆ πάντα προσφύσω λόγῳ.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>ἄπιστα μυθεῖσθ’, ὦ ξέναι, κλύειν ἐμοί,</l>
 					<l>ὅπως τόδ’ ὑμῖν ἐστιν Ἀργεῖον γένος.</l>
@@ -719,7 +719,7 @@ convert to P3
 					<l>κλῃδοῦχον Ἥρας φασὶ δωμάτων ποτὲ</l>
 					<l>Ἰὼ γενέσθαι τῇ δ’ ἐν Ἀργείᾳ χθονί;</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>ἦν ὡς μάλιστα, καὶ φάτις πολλὴ κρατεῖ.</l>
 				</sp>
@@ -727,7 +727,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l n="295">μὴ καὶ λόγος τις Ζῆνα μειχθῆναι βροτῷ;</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>κἄκρυπτά γ’ Ἥρας ταῦτα τἀμπαλάγματα.</l>
 				</sp>
@@ -735,7 +735,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>πῶς οὖν τελευτᾷ βασιλέων νείκη τάδε;</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>βοῦν τὴν γυναῖκ’ ἔθηκεν Ἀργεία θεός.</l>
 				</sp>
@@ -743,7 +743,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l n="300">οὔκουν πελάζει Ζεὺς ἐπ’  εὐκραίρῳ βοΐ;</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>φασίν, πρέποντα βουθόρῳ ταύρῳ δέμας.</l>
 				</sp>
@@ -751,7 +751,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>τί δῆτα πρὸς ταῦτ’ ἄλοχος ἰσχυρὰ Διός;</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>τὸν πάνθ’ ὁρῶντα φύλακ’ ἐπέστησεν βοΐ.</l>
 				</sp>
@@ -759,7 +759,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>ποῖον πανόπτην οἰοβουκόλον λέγεις;</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l n="305">Ἄργον, τὸν Ἑρμῆς παῖδα γῆς κατέκτανεν.</l>
 				</sp>
@@ -767,7 +767,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>τί οὖν ἔτευξεν ἄλλο δυσπότμῳ βοΐ;</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>βοηλάτην μύωπα κινητήριον.</l>
 				</sp>
@@ -775,7 +775,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>οἶστρον καλοῦσιν αὐτὸν οἱ Νείλου πέλας.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>τοιγάρ νιν ἐκ γῆς ἤλασεν μακρῷ  δρόμῳ.</l>
 				</sp>
@@ -783,7 +783,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l n="310">καὶ ταῦτ’ ἔλεξας πάντα συγκόλλως ἐμοί.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>καὶ μὴν Κάνωβον κἀπὶ Μέμφιν ἵκετο.</l>
 				</sp>
@@ -791,7 +791,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>καὶ Ζεύς γ’ ἐφάπτωρ χειρὶ φιτύει γόνον.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>τίς οὖν ὁ Δῖος πόρτις εὔχεται βοός;</l>
 				</sp>
@@ -799,7 +799,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l n="315">Ἔπαφος ἀληθῶς ῥυσίων ἐπώνυμος.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>
 						<gap desc="*"/>
@@ -809,7 +809,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>Λιβύη, μέγιστον γῆς &lt;πέδον&gt; καρπουμένη.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>
 						<gap desc="*"/>
@@ -821,7 +821,7 @@ convert to P3
 						<gap desc="*"/>
 					</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>τίν’ οὖν ἔτ’ ἄλλον τῆσδε βλαστημὸν λέγεις;</l>
 				</sp>
@@ -829,7 +829,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>Βῆλον δίπαιδα πατέρα τοῦδ’ ἐμοῦ πατρός.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l n="320">τὸ πάνσοφον νῦν ὄνομα τοῦτό μοι φράσον.</l>
 				</sp>
@@ -837,7 +837,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>Δαναός, ἀδελφὸς δ’ ἐστὶ πεντηκοντάπαις.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>καὶ τοῦδ’ ἄνοιγε τοὔνομ’ ἀφθόνῳ λόγῳ.</l>
 					<milestone ed="p" n="323" unit="card"/>
@@ -847,7 +847,7 @@ convert to P3
 					<l>Αἴγυπτος.  εἰδὼς δ’ ἁμὸν ἀρχαῖον γένος</l>
 					<l>πράσσοις ἂν ὡς Ἀργεῖον ἀνστήσῃς στόλον.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l n="325">δοκεῖτε &lt;δή&gt; μοι τῆσδε κοινωνεῖν χθονὸς</l>
 					<l>τἀρχαῖον.  ἀλλὰ πῶς πατρῷα δώματα</l>
@@ -861,7 +861,7 @@ convert to P3
 					<l>κέλσειν ἐς Ἄργος κῆδος ἐγγενὲς τὸ πρίν,</l>
 					<l>ἔχθει μεταπτοιοῦσαν εὐναίων γάμων;</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>τί φὴς ἱκνεῖσθαι τῶνδ’ ἀγωνίων θεῶν,</l>
 					<l>λευκοστεφεῖς ἔχουσα νεοδρέπτους κλάδους;</l>
@@ -870,7 +870,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l n="335">ὡς μὴ γένωμαι δμωὶς Αἰγύπτου γένει.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>πότερα κατ’ ἔχθραν, ἢ τὸ μὴ θέμις λέγεις;</l>
 				</sp>
@@ -878,7 +878,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>τίς δ’ ἂν φίλους ὠνοῖτο τοὺς κεκτημένους;</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>σθένος μὲν οὕτως μεῖζον αὔξεται βροτοῖς.</l>
 				</sp>
@@ -886,7 +886,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>καὶ δυστυχούντων γ’ εὐμαρὴς ἀπαλλαγή.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l n="340">πῶς οὖν πρὸς ὑμᾶς εὐσεβὴς ἐγὼ πέλω;</l>
 				</sp>
@@ -894,7 +894,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>αἰτοῦσι μὴ ’κδοὺς παισὶν Αἰγύπτου πάλιν.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>βαρέα σύ γ’ εἶπας, πόλεμον ἄρασθαι νέον.</l>
 				</sp>
@@ -902,7 +902,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>ἀλλ’ ἡ δίκη γε ξυμμάχων ὑπερστατεῖ.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>βασιλεύς</speaker>
 					<l>εἴπερ γ’ ἀπ’ ἀρχῆς πραγμάτων κοινωνὸς ἦν.</l>
 				</sp>
@@ -910,7 +910,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l n="345">αἰδοῦ σὺ πρύμναν πόλεος ὧδ’ ἐστεμμένην.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>πέφρικα λεύσσων τάσδ’ ἕδρας κατασκίους.</l>
 				</sp>
@@ -932,7 +932,7 @@ convert to P3
 						<l>κε φράζουσα βοτῆρι μόχθους.</l>
 						<milestone ed="p" n="354" unit="card"/>
 					</sp>
-					<sp who="#basileus">
+					<sp who="#basileys">
 						<speaker>Βασιλεύς</speaker>
 						<l>ὁρῶ κλάδοισι νεοδρόποις κατάσκιον</l>
 						<l n="355">νεύονθ’ ὅμιλον τόνδ’ ἀγωνίων θεῶν.</l>
@@ -953,7 +953,7 @@ convert to P3
 						<l>θεῶν λήματ’ ἀπ’  ἀνδρὸς ἁγνοῦ.</l>
 						<milestone ed="p" n="365" unit="card"/>
 					</sp>
-					<sp who="#basileus">
+					<sp who="#basileys">
 						<speaker>Βασιλεύς</speaker>
 						<l n="365">οὔτοι κάθησθε δωμάτων ἐφέστιοι</l>
 						<l>ἐμῶν.  τὸ κοινὸν δ’ εἰ μιαίνεται πόλις,</l>
@@ -974,7 +974,7 @@ convert to P3
 						<l n="375">πᾶν ἐπικραίνεις· ἄγος φυλάσσου.</l>
 						<milestone ed="p" n="376" unit="card"/>
 					</sp>
-					<sp who="#basileus">
+					<sp who="#basileys">
 						<speaker>Βασιλεύς</speaker>
 						<l>ἄγος μὲν εἴη τοῖς ἐμοῖς παλιγκότοις,</l>
 						<l>ὑμῖν δ’ ἀρήγειν οὐκ ἔχω βλάβης ἄτερ.</l>
@@ -995,7 +995,7 @@ convert to P3
 						<l>δυσπαραθέλκτους παθόντος οἴκτοις.</l>
 						<milestone ed="p" n="387" unit="card"/>
 					</sp>
-					<sp who="#basileus">
+					<sp who="#basileys">
 						<speaker>Βασιλεύς</speaker>
 						<l>εἴ τοι κρατοῦσι παῖδες Αἰγύπτου σέθεν</l>
 						<l>νόμῳ πόλεως, φάσκοντες ἐγγύτατα γένους</l>
@@ -1015,7 +1015,7 @@ convert to P3
 						<l>κρῖνε σέβας τὸ πρὸς θεῶν.</l>
 						<milestone ed="p" n="397" unit="card"/>
 					</sp>
-					<sp who="#basileus">
+					<sp who="#basileys">
 						<speaker>Βασιλεύς</speaker>
 						<l>οὐκ εὔκριτον τὸ κρῖμα. μή μ’ αἱροῦ κριτήν.</l>
 						<l>εἶπον δὲ καὶ πρίν, οὐκ ἄνευ δήμου τάδε</l>
@@ -1035,7 +1035,7 @@ convert to P3
 						<l>γεῖς τὸ δίκαιον ἔρξας;</l>
 						<milestone ed="p" n="407" unit="card"/>
 					</sp>
-					<sp who="#basileus">
+					<sp who="#basileys">
 						<speaker>Βασιλεύς</speaker>
 						<l>δεῖ τοι βαθείας φροντίδος σωτηρίου,</l>
 						<l>δίκην κολυμβητῆρος, ἐς βυθὸν μολεῖν</l>
@@ -1097,7 +1097,7 @@ convert to P3
 				</div2>
 			</div1>
 			<div1 type="episode">
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>καὶ δὴ πέφρασμαι. δεῦρο δ’ ἐξοκέλλεται.</l>
 					<l>ἢ τοῖσιν ἢ τοῖς πόλεμον αἴρεσθαι μέγαν</l>
@@ -1121,7 +1121,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l n="455">πολλῶν ἄκουσον τέρματ’ αἰδοίων λόγων.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>ἤκουσα, καὶ λέγοις ἄν. οὔ με φεύξεται.</l>
 				</sp>
@@ -1129,7 +1129,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>ἔχω στρόφους ζώνας τε, συλλαβὰς πέπλων</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>τάχ’ ἂν γυναιξὶ ταῦτα συμπρεπῆ πέλοι.</l>
 				</sp>
@@ -1137,7 +1137,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>ἐκ τῶνδε τοίνυν, ἴσθι, μηχανὴ καλή—</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l n="460">λέξον τίν’ αὐδὴν τήνδε γηρυθεῖσ’ ἔσῃ.</l>
 				</sp>
@@ -1145,7 +1145,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>εἰ μή τι πιστὸν τῷδ’ ὑποστήσεις στόλῳ—</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>τί σοι περαίνει μηχανὴ συζωμάτων;</l>
 				</sp>
@@ -1153,7 +1153,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>νέοις πίναξι βρέτεα κοσμῆσαι τάδε.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>αἰνιγματῶδες τοὔπος· ἀλλ’ ἁπλῶς φράσον.</l>
 				</sp>
@@ -1161,7 +1161,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l n="465">ἐκ τῶνδ’ ὅπως τάχιστ’ ἀπάγξασθαι θεῶν.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>ἤκουσα μαστικτῆρα καρδίας λόγον.</l>
 				</sp>
@@ -1169,7 +1169,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>ξυνῆκας· ὠμμάτωσα γὰρ σαφέστερον.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>καὶ πολλαχῇ γε δυσπάλαιστα πράγματα,</l>
 					<l>κακῶν δὲ πλῆθος ποταμὸς ὣς ἐπέρχεται·</l>
@@ -1211,7 +1211,7 @@ convert to P3
 					<l>τρέφει.  φύλαξαι μὴ θράσος τέκῃ φόβον·</l>
 					<l>καὶ δὴ φίλον τις ἔκταν’ ἀγνοίας ὕπο.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l n="500">στείχοιτ’ ἄν, ἄνδρες· εὖ γὰρ ὁ ξένος λέγει.</l>
 					<l>ἡγεῖσθε βωμοὺς ἀστικούς, θεῶν ἕδρας·</l>
@@ -1223,7 +1223,7 @@ convert to P3
 					<l>τούτῳ μὲν εἶπας, καὶ τεταγμένος κίοι·</l>
 					<l n="505">ἐγὼ δὲ πῶς δρῶ; ποῦ θράσος νέμεις ἐμοί;</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>κλάδους μὲν αὐτοῦ λεῖπε, σημεῖον πόνου.</l>
 				</sp>
@@ -1231,7 +1231,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>καὶ δή σφε λείπω χειρὶ καὶ λόγοις σέθεν.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>λευρὸν κατ’ ἄλσος νῦν ἐπιστρέφου τόδε.</l>
 				</sp>
@@ -1239,7 +1239,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>καὶ πῶς βέβηλον ἄλσος ἂν ῥύοιτό με;</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l n="510">οὔτοι πτερωτῶν ἁρπαγαῖς &lt;σ’&gt; ἐκδώσομεν.</l>
 				</sp>
@@ -1247,7 +1247,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>ἀλλ’ εἰ δρακόντων δυσφρόνων ἐχθίοσιν;</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>εὔφημον εἴη τοὔπος εὐφημουμένῃ.</l>
 				</sp>
@@ -1255,7 +1255,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>οὔτοι τι θαῦμα δυσφορεῖν φόβῳ φρενός.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>ἀεί γ’ ἄναρκτόν ἐστι δεῖμ’ ἐξαίσιον.</l>
 				</sp>
@@ -1263,7 +1263,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l n="515">σὺ καὶ λέγων εὔφραινε καὶ πράσσων φρένα.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>ἀλλ’ οὔτι δαρὸν χρόνον ἐρημώσει πατήρ.</l>
 					<l>ἐγὼ δὲ λαοὺς συγκαλῶν ἐγχωρίους</l>
@@ -1821,7 +1821,7 @@ convert to P3
 						<l>γαϊάναξ προτάσσου.†</l>
 						<milestone ed="p" n="836" unit="card"/>
 					</sp>
-					<sp who="#khruc">
+					<sp who="#keryks">
 						<speaker>&lt;Κῆρυξ&gt;</speaker>
 						<l>σοῦσθε σοῦσθ’ ἐπὶ βᾶ‐</l>
 						<l>ριν ὅπως ποδῶν &lt;ἔχετε&gt;</l>
@@ -1846,7 +1846,7 @@ convert to P3
 						<l>ησυδουπιάπιτα†</l>
 						<milestone ed="p" n="849" unit="card"/>
 					</sp>
-					<sp who="#khruc">
+					<sp who="#keryks">
 						<speaker>&lt;Κῆρυξ&gt;</speaker>
 						<l>†κελεύω βοᾶν μεθέσθαι</l>
 						<l n="850">ἴχαρ φρενί τ’ ἄταν.†</l>
@@ -1867,7 +1867,7 @@ convert to P3
 						<l n="860">†βαθρείας βαθρείας, γέρον.†</l>
 						<milestone ed="p" n="861" unit="card"/>
 					</sp>
-					<sp who="#khruc">
+					<sp who="#keryks">
 						<speaker>&lt;Κῆρυξ&gt;</speaker>
 						<l>σὺ δ’ ἐν ναῒ ναῒ βάσῃ</l>
 						<l>τάχα θέλεος ἀθέλεος,</l>
@@ -1888,7 +1888,7 @@ convert to P3
 						<l>Εὐρεΐαισιν αὔραις.</l>
 						<milestone ed="p" n="872" unit="card"/>
 					</sp>
-					<sp who="#khrux">
+					<sp who="#keryx">
 						<speaker>Κῆρυχ</speaker>
 						<l>ἴυζε καὶ λάκαζε καὶ κάλει θεούς.</l>
 						<l>Αἰγυπτίαν γὰρ βᾶριν οὐχ ὑπερθορῇ.</l>
@@ -1908,7 +1908,7 @@ convert to P3
 						<l>ψειεν ἄιστον ὕβριν.</l>
 						<milestone ed="p" n="882" unit="card"/>
 					</sp>
-					<sp who="#khruc">
+					<sp who="#keryks">
 						<speaker>Κῆρυξ</speaker>
 						<l>βαίνειν κελεύω βᾶριν εἰς ἀμφίστροφον</l>
 						<l>ὅσον τάχιστα· μηδέ τις σχολαζέτω.</l>
@@ -1929,7 +1929,7 @@ convert to P3
 						<l>ὦ πᾶ, Γᾶς παῖ, Ζεῦ.</l>
 						<milestone ed="p" n="893" unit="card"/>
 					</sp>
-					<sp who="#khruc">
+					<sp who="#keryks">
 						<speaker>Κῆρυξ</speaker>
 						<l>οὔτοι φοβοῦμαι δαίμονας τοὺς ἐνθάδε·</l>
 						<l>οὐ γάρ μ’ ἔθρεψαν, οὐδ’ ἐγήρασαν τροφῇ.</l>
@@ -1954,7 +1954,7 @@ convert to P3
 				</div2>
 			</div1>
 			<div1 type="episode">
-				<sp who="#khruc">
+				<sp who="#keryks">
 					<speaker>Κῆρυξ</speaker>
 					<l>εἰ μή τις ἐς ναῦν εἶσιν αἰνέσας τάδε,</l>
 					<l>λακὶς χιτῶνος ἔργον οὐ κατοικτιεῖ.</l>
@@ -1963,7 +1963,7 @@ convert to P3
 					<speaker>Χορός</speaker>
 					<l>διωλόμεσθ’· ἄσεπτ’, ἄναξ, πάσχομεν—</l>
 				</sp>
-				<sp who="#khruc">
+				<sp who="#keryks">
 					<speaker>Κῆρυξ</speaker>
 					<l n="905">πολλοὺς ἄνακτας, παῖδας Αἰγύπτου τάχα</l>
 					<l>ὄψεσθε· θαρσεῖτ’, οὐκ ἐρεῖτ’ ἀναρχίαν.</l>
@@ -1972,12 +1972,12 @@ convert to P3
 					<speaker>&lt;Χορός&gt;</speaker>
 					<l>ἰὼ πόλεως ἀγοὶ πρόμοι, δάμναμαι.</l>
 				</sp>
-				<sp who="#khrux">
+				<sp who="#keryx">
 					<speaker>&lt;Κῆρυχ&gt;</speaker>
 					<l>ἕλξειν ἔοιχ’ ὑμᾶς ἀποσπάσας κόμης,</l>
 					<l n="910">ἐπεὶ οὐκ ἀκούετ’ ὀξὺ τῶν ἐμῶν λόγων.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>οὗτος, τί ποιεῖς; ἐκ ποίου φρονήματος</l>
 					<l>ἀνδρῶν Πελασγῶν τήνδ’ ἀτιμάζεις χθόνα;</l>
@@ -1985,64 +1985,64 @@ convert to P3
 					<l>κάρβανος ὢν δ’ Ἕλλησιν ἐγχλίεις ἄγαν·</l>
 					<l n="915">καὶ πόλλ’ ἁμαρτὼν οὐδὲν ὤρθωσας φρενί.</l>
 				</sp>
-				<sp who="#khruc">
+				<sp who="#keryks">
 					<speaker>Κῆρυξ</speaker>
 					<l>τί δ’ ἠμπλάκηται τῶνδ’ ἐμοὶ δίκης ἄτερ;</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>ξένος μὲν εἶναι πρῶτον οὐκ ἐπίστασαι.</l>
 				</sp>
-				<sp who="#khruc">
+				<sp who="#keryks">
 					<speaker>Κῆρυξ</speaker>
 					<l>πῶς δ’ οὐχί; τἄμ’ ὀλωλόθ’ εὑρίσκων ἄγω.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>ποίοισιν εἰπὼν προξένοις ἐγχωρίοις;</l>
 				</sp>
-				<sp who="#khruc">
+				<sp who="#keryks">
 					<speaker>Κῆρυξ</speaker>
 					<l n="920">Ἑρμῇ μεγίστῳ προξένῳ μαστηρίῳ.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>θεοῖσιν εἰπὼν τοὺς θεοὺς οὐδὲν σέβῃ.</l>
 				</sp>
-				<sp who="#khruc">
+				<sp who="#keryks">
 					<speaker>Κῆρυξ</speaker>
 					<l>τοὺς ἀμφὶ Νεῖλον δαίμονας σεβίζομαι.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>οἱ δ’ ἐνθάδ’ οὐδέν, ὡς ἐγὼ σέθεν κλύω;</l>
 				</sp>
-				<sp who="#khruc">
+				<sp who="#keryks">
 					<speaker>Κῆρυξ</speaker>
 					<l>ἄγοιμ’ ἄν, εἴ τις τάσδε μὴ ’ξαιρήσεται.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l n="925">κλάοις ἄν, εἰ ψαύσειας, οὐ μάλ’ ἐς μακράν.</l>
 				</sp>
-				<sp who="#khruc">
+				<sp who="#keryks">
 					<speaker>Κῆρυξ</speaker>
 					<l>ἤκουσα τοὔπος &lt;δ’&gt; οὐδαμῶς φιλόξενον.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>οὐ γὰρ ξενοῦμαι τοὺς θεῶν συλήτορας.</l>
 				</sp>
-				<sp who="#khruc">
+				<sp who="#keryks">
 					<speaker>Κῆρυξ</speaker>
 					<l>λέγοιμ’ ἂν ἐλθὼν παισὶν Αἰγύπτου τάδε.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>Βασιλεύς</speaker>
 					<l>ἀβουκόλητον τοῦτ’ ἐμῷ, φρονήματι.</l>
 					<milestone ed="p" n="930" unit="card"/>
 				</sp>
-				<sp who="#khruc">
+				<sp who="#keryks">
 					<speaker>Κῆρυξ</speaker>
 					<l n="930">ἀλλ’ ὡς ἂν εἰδὼς ἐννέπω σαφέστερον,—</l>
 					<l>καὶ γὰρ πρέπει κήρυκ’ ἀπαγγέλλειν τορῶς</l>
@@ -2053,7 +2053,7 @@ convert to P3
 					<l>ἔλυσεν· ἀλλὰ πολλὰ γίγνεται πάρος</l>
 					<l>πεσήματ’ ἀνδρῶν κἀπολακτισμοὶ βίου.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>&lt;Βασιλεύς&gt;</speaker>
 					<l>τί σοι λέγειν χρὴ τοὔνομ’; ἐν χρόνῳ μαθὼν</l>
 					<l>εἴσῃ σύ τ’ αὐτὸς χοἰ ξυνέμποροι σέθεν.</l>
@@ -2068,12 +2068,12 @@ convert to P3
 					<l>σαφῆ δ’ ἀκούεις ἐξ ἐλευθεροστόμου</l>
 					<l>γλώσσης.  κομίζου δ’ ὡς τάχιστ’ ἐξ ὀμμάτων.</l>
 				</sp>
-				<sp who="#khruc">
+				<sp who="#keryks">
 					<speaker>&lt;Κῆρυξ&gt;</speaker>
 					<l n="950">ἔοιγμεν ἤδη πόλεμον ἀρεῖσθαι νέον.</l>
 					<l>εἴη δὲ νίκη καὶ κράτη τοῖς ἄρσεσιν.</l>
 				</sp>
-				<sp who="#basileus">
+				<sp who="#basileys">
 					<speaker>&lt;Βασιλεύς&gt;</speaker>
 					<l>ἀλλ’ ἄρσενάς τοι τῆσδε γῆς οἰκήτορας</l>
 					<l>εὑρήσετ’ οὐ πίνοντας ἐκ κριθῶν μέθυ.</l>
@@ -2164,7 +2164,7 @@ convert to P3
 			</div1>
 			<div1 type="choral">
 				<div2 n="1" type="strophe">
-					<sp who="#xorosdanaidwn">
+					<sp who="#xorosdanaidon">
 						<speaker>Χορός &lt;Δαναΐδων&gt;</speaker>
 						<l>ἴτε μὰν ἀστυάνακτας</l>
 						<l>μάκαρας θεοὺς γανάοντες πολιούχους</l>
@@ -2178,7 +2178,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#xorosdanaidwn">
+					<sp who="#xorosdanaidon">
 						<speaker>Χορός &lt;Δαναΐδων&gt;</speaker>
 						<l>ποταμοὺς δ’ οἳ διὰ χώρας</l>
 						<l>θελεμὸν πῶμα χέουσιν πολύτεκνοι,</l>
@@ -2192,7 +2192,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 n="2" type="strophe">
-					<sp who="#xorosqerapainwn">
+					<sp who="#xorostherapainon">
 						<speaker>&lt;Χορός Θεραπαινῶν&gt;</speaker>
 						<l>Κύπριδος &lt;δ’&gt; οὐκ ἀμελεῖ θεσμὸς ὅδ’ εὔφρων</l>
 						<l n="1035">δύναται γὰρ Διὸς ἄγχιστα σὺν Ἥρᾳ.</l>
@@ -2207,7 +2207,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 n="2" type="antistrophe">
-					<sp who="#xorosqerapainwn">
+					<sp who="#xorostherapainon">
 						<speaker>&lt;Χορός Θεραπαινῶν&gt;</speaker>
 						<l>φυγάδεσσιν δ’ ἐπιπνοίας κακά τ’ ἄλγη</l>
 						<l>πολέμους θ’ αἱματόεντας προφοβοῦμαι.</l>
@@ -2227,7 +2227,7 @@ convert to P3
 						<l>ὁ μέγας Ζεὺς ἀπαλέξαι</l>
 						<l>γάμον Αἰγυπτογενῆ μοι.</l>
 					</sp>
-					<sp who="#qerapaina">
+					<sp who="#therapaina">
 						<speaker>&lt;Θεράπαινα&gt;</speaker>
 						<l>τὸ μὲν ἂν βέλτατον εἴη·</l>
 					</sp>
@@ -2235,7 +2235,7 @@ convert to P3
 						<speaker>&lt;Δαναΐς&gt;</speaker>
 						<l n="1055">σὺ δὲ θέλγοις ἂν ἄθελκτον.</l>
 					</sp>
-					<sp who="#qerapaina">
+					<sp who="#therapaina">
 						<speaker>&lt;Θεράπαινα&gt;</speaker>
 						<l>σὺ δέ γ’ οὐκ οἶσθα τὸ μέλλον.</l>
 						<milestone ed="p" n="1057" unit="card"/>
@@ -2247,7 +2247,7 @@ convert to P3
 						<l>τί δὲ μέλλω φρένα Δίαν</l>
 						<l>καθορᾶν, ὄψιν ἄβυσσον;</l>
 					</sp>
-					<sp who="#qerapaina">
+					<sp who="#therapaina">
 						<speaker>&lt;Θεράπαινα&gt;</speaker>
 						<l>μέτριον νῦν ἔπος εὔχου·</l>
 					</sp>
@@ -2255,7 +2255,7 @@ convert to P3
 						<speaker>&lt;Δαναΐς&gt;</speaker>
 						<l n="1060">τίνα καιρόν με διδάσκεις;</l>
 					</sp>
-					<sp who="#qerapaina">
+					<sp who="#therapaina">
 						<speaker>&lt;Θεράπαινα&gt;</speaker>
 						<l>τὰ θεῶν μηδὲν ἀγάζειν.</l>
 						<milestone ed="p" n="1062" unit="card"/>

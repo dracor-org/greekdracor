@@ -34,6 +34,7 @@
 							<publisher>Clarendon Press, Oxford</publisher>
 							<date>1907</date>
 						</imprint>
+						<date type="premiere" when="-411">411 BCE</date>
 					</bibl>
 				</biblStruct>
 			</sourceDesc>
@@ -46,7 +47,6 @@
 						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
 					</licence>
 				</availability>
-				<date type="premiere" when="-411">411 BCE</date>
 			</bibl>
 		</fileDesc>
 		<profileDesc>
@@ -221,7 +221,7 @@ bring up to P3
 		<body>
 			<div1 type="Prologue">
 				<milestone n="1" unit="card"/>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>ἀλλ’ εἴ τις ἐς Βακχεῖον αὐτὰς ἐκάλεσεν,</l>
 					<l>ἢ ’ς Πανὸς ἢ ’πὶ Κωλιάδ’ ἢ ’ς Γενετυλλίδος,</l>
@@ -230,30 +230,30 @@ bring up to P3
 					<l n="5">πλὴν ἥ γ’ ἐμὴ κωμῆτις ἥδ’ ἐξέρχεται.</l>
 					<l>χαῖρ’ ὦ Καλονίκη.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l part="Y">καὶ σύ γ’ ὦ Λυσιστράτη.</l>
 					<l>τί συντετάραξαι; μὴ σκυθρώπαζ’ ὦ τέκνον.</l>
 					<l>οὐ γὰρ πρέπει σοι τοξοποιεῖν τὰς ὀφρῦς.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>ἀλλ’ ὦ Καλονίκη κάομαι τὴν καρδίαν,</l>
 					<l n="10">καὶ πόλλ’ ὑπὲρ ἡμῶν τῶν γυναικῶν ἄχθομαι,</l>
 					<l>ὁτιὴ παρὰ μὲν τοῖς ἀνδράσιν νενομίσμεθα</l>
 					<l>εἶναι πανοῦργοι—</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l part="Y">καὶ γάρ ἐσμεν νὴ Δία.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>εἰρημένον δ’ αὐταῖς ἀπαντᾶν ἐνθάδε</l>
 					<l>βουλευσομέναισιν οὐ περὶ φαύλου πράγματος,</l>
 					<l n="15">εὕδουσι κοὐχ ἥκουσιν.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l part="Y">ἀλλ’ ὦ φιλτάτη</l>
 					<l>ἥξουσι· χαλεπή τοι γυναικῶν ἔξοδος.</l>
@@ -261,70 +261,70 @@ bring up to P3
 					<l>ἡ δ’ οἰκέτην ἤγειρεν, ἡ δὲ παιδίον</l>
 					<l>κατέκλινεν, ἡ δ’ ἔλουσεν, ἡ δ’ ἐψώμισεν.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l n="20">ἀλλ’ ἕτερά τἄρ’ ἦν τῶνδε προὐργιαίτερα</l>
 					<l>αὐταῖς.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l part="Y">τί δ’ ἐστὶν ὦ φίλη Λυσιστράτη,</l>
 					<l>ἐφ’ ὅ τι ποθ’ ἡμᾶς τὰς γυναῖκας συγκαλεῖς;</l>
 					<l>τί τὸ πρᾶγμα; πηλίκον τι;</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l part="Y">μέγα.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l part="Y">μῶν καὶ παχύ;</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>καὶ νὴ Δία παχύ.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l part="Y">κᾆτα πῶς οὐχ ἥκομεν;</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l n="25">οὐχ οὗτος ὁ τρόπος· ταχὺ γὰρ ἂν ξυνήλθομεν.</l>
 					<l>ἀλλ’ ἔστιν ὑπ’ ἐμοῦ πρᾶγμ’ ἀνεζητημένον</l>
 					<l>πολλαῖσί τ’ ἀγρυπνίαισιν ἐρριπτασμένον.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l>ἦ πού τι λεπτόν ἐστι τοὐρριπτασμένον.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>οὕτω γε λεπτὸν ὥσθ’ ὅλης τῆς Ἑλλάδος</l>
 					<l n="30">ἐν ταῖς γυναιξίν ἐστιν ἡ σωτηρία.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l>ἐν ταῖς γυναιξίν; ἐπ’ ὀλίγου γ’ ὠχεῖτ’ ἄρα.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>ὡς ἔστ’ ἐν ἡμῖν τῆς πόλεως τὰ πράγματα,</l>
 					<l>ἢ μηκέτ’ εἶναι μήτε Πελοποννησίους—</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l>βέλτιστα τοίνυν μηκέτ’ εἶναι νὴ Δία.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l n="35">Βοιωτίους τε πάντας ἐξολωλέναι.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l>μὴ δῆτα πάντας γ’, ἀλλ’ ἄφελε τὰς ἐγχέλεις.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>περὶ τῶν Ἀθηνῶν δ’ οὐκ ἐπιγλωττήσομαι</l>
 					<l>τοιοῦτον οὐδέν· ἀλλ’ ὑπονόησον σύ μοι.</l>
@@ -332,7 +332,7 @@ bring up to P3
 					<l n="40">αἵ τ’ ἐκ Βοιωτῶν αἵ τε Πελοποννησίων</l>
 					<l>ἡμεῖς τε, κοινῇ σώσομεν τὴν Ἑλλάδα.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l>τί δ’ ἂν γυναῖκες φρόνιμον ἐργασαίατο</l>
 					<l>ἢ λαμπρόν, αἳ καθήμεθ’ ἐξηνθισμέναι,</l>
@@ -340,220 +340,220 @@ bring up to P3
 					<l n="45">καὶ Κιμμερίκ’ ὀρθοστάδια καὶ περιβαρίδας;</l>
 					<milestone ed="p" n="46" unit="card"/>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>ταῦτ’ αὐτὰ γάρ τοι κἄσθ’ ἃ σώσειν προσδοκῶ,</l>
 					<l>τὰ κροκωτίδια καὶ τὰ μύρα χαἰ περιβαρίδες</l>
 					<l>χἤγχουσα καὶ τὰ διαφανῆ χιτώνια.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l>τίνα δὴ τρόπον ποθ’;</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l part="Y">ὥστε τῶν νῦν μηδένα</l>
 					<l n="50">ἀνδρῶν ἐπ’ ἀλλήλοισιν ἄρεσθαι δόρυ—</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l>κροκωτὸν ἄρα νὴ τὼ θεὼ ’γὼ βάψομαι.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>μηδ’ ἀσπίδα λαβεῖν—</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l part="Y">Κιμμερικὸν ἐνδύσομαι.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>μηδὲ ξιφίδιον.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l part="Y">κτήσομαι περιβαρίδας.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>ἆρ’ οὐ παρεῖναι τὰς γυναῖκας δῆτ’ ἐχρῆν;</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l n="55">οὐ γὰρ μὰ Δί’ ἀλλὰ πετομένας ἥκειν πάλαι.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>ἀλλ’ ὦ μέλ’ ὄψει τοι σφόδρ’ αὐτὰς Ἀττικάς,</l>
 					<l>ἅπαντα δρώσας τοῦ δέοντος ὕστερον.</l>
 					<l>ἀλλ’ οὐδὲ Παράλων οὐδεμία γυνὴ πάρα,</l>
 					<l>οὐδ’ ἐκ Σαλαμῖνος.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l part="Y">ἀλλ’ ἐκεῖναί γ’ οἶδ’ ὅτι</l>
 					<l n="60">ἐπὶ τῶν κελήτων διαβεβήκασ’ ὄρθριαι.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>οὐδ’ ἃς προσεδόκων κἀλογιζόμην ἐγὼ</l>
 					<l>πρώτας παρέσεσθαι δεῦρο τὰς Ἀχαρνέων</l>
 					<l>γυναῖκας, οὐχ ἥκουσιν.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l part="Y">ἡ γοῦν Θεογένους</l>
 					<l>ὡς δεῦρ’ ἰοῦσα θοὐκάταιον ἤρετο.</l>
 					<l n="65">ἀτὰρ αἵδε καὶ δή σοι προσέρχονταί τινες.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>αἱδί θ’ ἕτεραι χωροῦσί τινες.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l part="Y">ἰοὺ ἰού,</l>
 					<l>πόθεν εἰσίν;</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l part="Y">Ἀναγυρουντόθεν.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l part="Y">νὴ τὸν Δία·</l>
 					<l>ὁ γοῦν ἀνάγυρός μοι κεκινῆσθαι δοκεῖ.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l>μῶν ὕστεραι πάρεσμεν ὦ Λυσιστράτη;</l>
 					<l n="70">τί φῄς; τί σιγᾷς;</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l part="Y">οὔ σ’ ἐπαινῶ Μυρρίνη</l>
 					<l>ἥκουσαν ἄρτι περὶ τοιούτου πράγματος.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l>μόλις γὰρ ηὗρον ἐν σκότῳ τὸ ζώνιον.</l>
 					<l>ἀλλ’ εἴ τι πάνυ δεῖ, ταῖς παρούσαισιν λέγε.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>μὰ Δί’ ἀλλ’ ἐπαναμείνωμεν ὀλίγου γ’ οὕνεκα</l>
 					<l n="75">τάς τ’ ἐκ Βοιωτῶν τάς τε Πελοποννησίων</l>
 					<l>γυναῖκας ἐλθεῖν.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l part="Y">πολὺ σὺ κάλλιον λέγεις.</l>
 					<l>ἡδὶ δὲ καὶ δὴ Λαμπιτὼ προσέρχεται.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>ὦ φιλτάτη Λάκαινα χαῖρε Λαμπιτοῖ.</l>
 					<l>οἷον τὸ κάλλος γλυκυτάτη σου φαίνεται.</l>
 					<l n="80">ὡς δ’ εὐχροεῖς, ὡς δὲ σφριγᾷ τὸ σῶμά σου.</l>
 					<l>κἂν ταῦρον ἄγχοις.</l>
 				</sp>
-				<sp who="#lampitw">
+				<sp who="#lampito">
 					<speaker>Λαμπιτῶ</speaker>
 					<l part="Y">μάλα γ’ οἰῶ ναὶ τὼ σιώ·</l>
 					<l>γυμνάδδομαι γὰρ καὶ ποτὶ πυγὰν ἅλλομαι.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l>ὡς δὴ καλὸν τὸ χρῆμα τιτθίων ἔχεις.</l>
 				</sp>
-				<sp who="#lampitw">
+				<sp who="#lampito">
 					<speaker>Λαμπιτῶ</speaker>
 					<l>ᾇπερ ἱερεῖόν τοί μ’ ὑποψαλάσσετε.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l n="85">ἡδὶ δὲ ποδαπή ’σθ’ ἡ νεᾶνις ἡτέρα;</l>
 					<milestone ed="p" n="86" unit="card"/>
 				</sp>
-				<sp who="#lampitw">
+				<sp who="#lampito">
 					<speaker>Λαμπιτῶ</speaker>
 					<l>πρέσβειρά τοι ναὶ τὼ σιὼ Βοιωτία</l>
 					<l>ἵκει ποθ’ ὑμέ.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l part="Y">νὴ μὰ Δία Βοιωτία,</l>
 					<l>καλόν γ’ ἔχουσα τὸ πεδίον.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l part="Y">καὶ νὴ Δία</l>
 					<l>κομψότατα τὴν βληχώ γε παρατετιλμένη.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l n="90">τίς δ’ ἡτέρα παῖς;</l>
 				</sp>
-				<sp who="#lampitw">
+				<sp who="#lampito">
 					<speaker>Λαμπιτῶ</speaker>
 					<l part="Y">χαΐα ναὶ τὼ σιώ,</l>
 					<l>Κορινθία δ’ αὖ.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l part="Y">χαΐα νὴ τὸν Δία</l>
 					<l>δήλη ’στὶν οὖσα ταυταγὶ τἀντευθενί.</l>
 				</sp>
-				<sp who="#lampitw">
+				<sp who="#lampito">
 					<speaker>Λαμπιτῶ</speaker>
 					<l>τίς δ’ αὖ ξυναλίαξε τόνδε τὸν στόλον</l>
 					<l>τὸν τᾶν γυναικῶν;</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l part="Y">ἥδ’ ἐγώ.</l>
 				</sp>
-				<sp who="#lampitw">
+				<sp who="#lampito">
 					<speaker>Λαμπιτῶ</speaker>
 					<l part="Y">μύσιδδέ τοι</l>
 					<l n="95">ὅ τι λῇς ποθ’ ἁμέ.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l part="Y">νὴ Δί’ ὦ φίλη γύναι,</l>
 					<l>λέγε δῆτα τὸ σπουδαῖον ὅ τι τοῦτ’ ἐστί σοι.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>λέγοιμ’ ἂν ἤδη. πρὶν λέγειν &lt;δ’&gt;, ὑμᾶς τοδὶ</l>
 					<l>ἐπερήσομαί τι μικρόν.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l part="Y">ὅ τι βούλει γε σύ.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>τοὺς πατέρας οὐ ποθεῖτε τοὺς τῶν παιδίων</l>
 					<l n="100">ἐπὶ στρατιᾶς ἀπόντας; εὖ γὰρ οἶδ’ ὅτι</l>
 					<l>πάσαισιν ὑμῖν ἐστιν ἀποδημῶν ἀνήρ.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l>ὁ γοῦν ἐμὸς ἀνὴρ πέντε μῆνας ὦ τάλαν</l>
 					<l>ἄπεστιν ἐπὶ Θρᾴκης φυλάττων Εὐκράτη.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l>ὁ δ’ ἐμός γε τελέους ἑπτὰ μῆνας ἐν Πύλῳ.</l>
 				</sp>
-				<sp who="#lampitw">
+				<sp who="#lampito">
 					<speaker>Λαμπιτῶ</speaker>
 					<l n="105">ὁ δ’ ἐμός γα καἴ κ’ ἐκ τᾶς ταγᾶς ἔλσῃ ποκά,</l>
 					<l>πορπακισάμενος φροῦδος ἀμπτάμενος ἔβα.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>ἀλλ’ οὐδὲ μοιχοῦ καταλέλειπται φεψάλυξ.</l>
 					<l>ἐξ οὗ γὰρ ἡμᾶς προὔδοσαν Μιλήσιοι,</l>
@@ -562,42 +562,42 @@ bring up to P3
 					<l>ἐθέλοιτ’ ἂν οὖν, εἰ μηχανὴν εὕροιμ’ ἐγώ,</l>
 					<l>μετ’ ἐμοῦ καταλῦσαι τὸν πόλεμον;</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l part="Y">νὴ τὼ θεώ·</l>
 					<l>ἔγωγ’ ἂν &lt;οὖν&gt; κἂν εἴ με χρείη τοὔγκυκλον</l>
 					<l>τουτὶ καταθεῖσαν ἐκπιεῖν αὐθημερόν.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l n="115">ἐγὼ δέ γ’ ἂν κἂν ὡσπερεὶ ψῆτταν δοκῶ</l>
 					<l>δοῦναι ἂν ἐμαυτῆς παρατεμοῦσα θἤμισυ.</l>
 				</sp>
-				<sp who="#lampitw">
+				<sp who="#lampito">
 					<speaker>Λαμπιτῶ</speaker>
 					<l>ἐγὼ δὲ καί κα ποττὸ Ταΰγετόν γ’ ἄνω</l>
 					<l>ἔλσοιμ’ ὅπᾳ μέλλοιμί γ’ εἰράναν ἰδεῖν.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>λέγοιμ’ ἄν· οὐ δεῖ γὰρ κεκρύφθαι τὸν λόγον.</l>
 					<l n="120">ἡμῖν γὰρ ὦ γυναῖκες, εἴπερ μέλλομεν</l>
 					<l>ἀναγκάσειν τοὺς ἄνδρας εἰρήνην ἄγειν,</l>
 					<l>ἀφεκτέ’ ἐστὶ—</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l part="Y">τοῦ; φράσον.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l part="Y">ποιήσετ’ οὖν;</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l>ποιήσομεν, κἂν ἀποθανεῖν ἡμᾶς δέῃ.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>ἀφεκτέα τοίνυν ἐστὶν ἡμῖν τοῦ πέους.</l>
 					<l n="125">τί μοι μεταστρέφεσθε; ποῖ βαδίζετε;</l>
@@ -605,35 +605,35 @@ bring up to P3
 					<l>τί χρὼς τέτραπται; τί δάκρυον κατείβεται;</l>
 					<l>ποιήσετ’ ἢ οὐ ποιήσετ’; ἢ τί μέλλετε;</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l>οὐκ ἂν ποιήσαιμ’, ἀλλ’ ὁ πόλεμος ἑρπέτω.</l>
 					<milestone ed="p" n="130" unit="card"/>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l n="130">μὰ Δί’ οὐδ’ ἐγὼ γάρ, ἀλλ’ ὁ πόλεμος ἑρπέτω.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>ταυτὶ σὺ λέγεις ὦ ψῆττα; καὶ μὴν ἄρτι γε</l>
 					<l>ἔφησθα σαυτῆς κἂν παρατεμεῖν θἤμισυ.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l>ἄλλ’ ἄλλ’ ὅ τι βούλει· κἄν με χρῇ διὰ τοῦ πυρὸς</l>
 					<l>ἐθέλω βαδίζειν· τοῦτο μᾶλλον τοῦ πέους.</l>
 					<l n="135">οὐδὲν γὰρ οἷον ὦ φίλη Λυσιστράτη.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>τί δαὶ σύ;</l>
 				</sp>
-				<sp who="#allh">
+				<sp who="#alle">
 					<speaker>Ἄλλη</speaker>
 					<l part="Y">κἀγὼ βούλομαι διὰ τοῦ πυρός.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>ὦ παγκατάπυγον θἠμέτερον ἅπαν γένος,</l>
 					<l>οὐκ ἐτὸς ἀφ’ ἡμῶν εἰσιν αἱ τραγῳδίαι.</l>
@@ -642,23 +642,23 @@ bring up to P3
 					<l>μόνη μετ’ ἐμοῦ, τὸ πρᾶγμ’ ἀνασωσαίμεσθ’ ἔτ’ &lt;ἄν&gt;,</l>
 					<l>ξυμψήφισαί μοι.</l>
 				</sp>
-				<sp who="#lampitw">
+				<sp who="#lampito">
 					<speaker>Λαμπιτῶ</speaker>
 					<l part="Y">χαλεπὰ μὲν ναὶ τὼ σιὼ</l>
 					<l>γυναῖκάς ἐσθ’ ὑπνῶν ἄνευ ψωλᾶς μόνας.</l>
 					<l>ὅμως γα μάν· δεῖ τᾶς γὰρ εἰράνας μάλ’ αὖ.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l n="145">ὦ φιλτάτη σὺ καὶ μόνη τούτων γυνή.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l>εἰ δ’ ὡς μάλιστ’ ἀπεχοίμεθ’ οὗ σὺ δὴ λέγεις,</l>
 					<l>ὃ μὴ γένοιτο, μᾶλλον ἂν διὰ τουτογὶ</l>
 					<l>γένοιτ’ ἂν εἰρήνη;</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l part="Y">πολύ γε νὴ τὼ θεώ.</l>
 					<l>εἰ γὰρ καθοίμεθ’ ἔνδον ἐντετριμμέναι,</l>
@@ -668,34 +668,34 @@ bring up to P3
 					<l>ἡμεῖς δὲ μὴ προσίοιμεν ἀλλ’ ἀπεχοίμεθα,</l>
 					<l>σπονδὰς ποιήσαιντ’ ἂν ταχέως, εὖ οἶδ’ ὅτι.</l>
 				</sp>
-				<sp who="#lampitw">
+				<sp who="#lampito">
 					<speaker>Λαμπιτῶ</speaker>
 					<l n="155">ὁ γῶν Μενέλαος τᾶς Ἑλένας τὰ μᾶλά πᾳ</l>
 					<l>γυμνᾶς παραϊδὼν ἐξέβαλ’, οἰῶ, τὸ ξίφος.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l>τί δ’ ἢν ἀφιῶσ’ ἅνδρες ἡμᾶς ὦ μέλε;</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>τὸ τοῦ Φερεκράτους, κύνα δέρειν δεδαρμένην.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l>φλυαρία ταῦτ’ ἐστὶ τὰ μεμιμημένα.</l>
 					<l n="160">ἐὰν λαβόντες δ’ ἐς τὸ δωμάτιον βίᾳ</l>
 					<l>ἕλκωσιν ἡμᾶς;</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l part="Y">ἀντέχου σὺ τῶν θυρῶν.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l>ἐὰν δὲ τύπτωσιν;</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l part="Y">παρέχειν χρὴ κακὰ κακῶς.</l>
 					<l>οὐ γὰρ ἔνι τούτοις ἡδονὴ τοῖς πρὸς βίαν.</l>
@@ -703,28 +703,28 @@ bring up to P3
 					<l n="165">ἀπεροῦσιν. οὐ γὰρ οὐδέποτ’ εὐφρανθήσεται</l>
 					<l>ἀνήρ, ἐὰν μὴ τῇ γυναικὶ συμφέρῃ.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l>εἴ τοι δοκεῖ σφῷν ταῦτα, χἠμῖν ξυνδοκεῖ.</l>
 				</sp>
-				<sp who="#lampitw">
+				<sp who="#lampito">
 					<speaker>Λαμπιτῶ</speaker>
 					<l>καὶ τὼς μὲν ἁμῶν ἄνδρας ἁμὲς πείσομες</l>
 					<l>παντᾷ δικαίως ἄδολον εἰράναν ἄγειν·</l>
 					<l n="170">τὸν τῶν Ἀσαναίων γα μὰν ῥυάχετον</l>
 					<l>πᾷ κά τις ἀμπείσειεν αὖ μὴ πλαδδιῆν;</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>ἡμεῖς ἀμέλει σοι τά γε παρ’ ἡμῖν πείσομεν.</l>
 				</sp>
-				<sp who="#lampitw">
+				<sp who="#lampito">
 					<speaker>Λαμπιτῶ</speaker>
 					<l>οὐχ ἇς πόδας κ’ ἔχωντι ταὶ τριήρεες,</l>
 					<l>καὶ τὠργύριον τὤβυσσον ᾖ πὰρ τᾷ σιῷ.</l>
 					<milestone ed="p" n="175" unit="card"/>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l n="175">ἀλλ’ ἔστι καὶ τοῦτ’ εὖ παρεσκευασμένον·</l>
 					<l>καταληψόμεθα γὰρ τὴν ἀκρόπολιν τήμερον.</l>
@@ -732,206 +732,206 @@ bring up to P3
 					<l>ἕως ἂν ἡμεῖς ταῦτα συντιθώμεθα,</l>
 					<l>θύειν δοκούσαις καταλαβεῖν τὴν ἀκρόπολιν.</l>
 				</sp>
-				<sp who="#lampitw">
+				<sp who="#lampito">
 					<speaker>Λαμπιτῶ</speaker>
 					<l n="180">παντᾷ κ’ ἔχοι, καὶ τᾷδε γὰρ λέγεις καλῶς.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>τί δῆτα ταῦτ’ οὐχ ὡς τάχιστ’ ὦ Λαμπιτοῖ</l>
 					<l>ξυνωμόσαμεν, ὅπως ἂν ἀρρήκτως ἔχῃ;</l>
 				</sp>
-				<sp who="#lampitw">
+				<sp who="#lampito">
 					<speaker>Λαμπιτῶ</speaker>
 					<l>πάρφαινε μὰν τὸν ὅρκον, ὡς ὀμιόμεθα.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>καλῶς λέγεις. ποῦ ’σθ’ ἡ Σκύθαινα; ποῖ βλέπεις;</l>
 					<l n="185">θὲς ἐς τὸ πρόσθεν ὑπτίαν τὴν ἀσπίδα,</l>
 					<l>καί μοι δότω τὰ τόμιά τις.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l part="Y">Λυσιστράτη</l>
 					<l>τίν’ ὅρκον ὁρκώσεις ποθ’ ἡμᾶς;</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l part="Y">ὅντινα;</l>
 					<l>εἰς ἀσπίδ’, ὥσπερ φάσ’ ἐν Αἰσχύλῳ ποτέ,</l>
 					<l>μηλοσφαγούσας.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l part="Y">μὴ σύ γ’ ὦ Λυσιστράτη</l>
 					<l n="190">εἰς ἀσπίδ’ ὀμόσῃς μηδὲν εἰρήνης πέρι.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>τίς ἂν οὖν γένοιτ’ ἂν ὅρκος;</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l part="Y">εἰ λευκόν ποθεν</l>
 					<l>ἵππον λαβοῦσαι τόμιον ἐντεμοίμεθα.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>ποῖ λευκὸν ἵππον;</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l part="Y">ἀλλὰ πῶς ὀμούμεθα</l>
 					<l>ἡμεῖς;</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l part="Y">ἐγώ σοι νὴ Δί’, ἢν βούλῃ, φράσω.</l>
 					<l n="195">θεῖσαι μέλαιναν κύλικα μεγάλην ὑπτίαν,</l>
 					<l>μηλοσφαγοῦσαι Θάσιον οἴνου σταμνίον</l>
 					<l>ὀμόσωμεν ἐς τὴν κύλικα μὴ ’πιχεῖν ὕδωρ.</l>
 				</sp>
-				<sp who="#lampitw">
+				<sp who="#lampito">
 					<speaker>Λαμπιτῶ</speaker>
 					<l>φεῦ δᾶ τὸν ὅρκον ἄφατον ὡς ἐπαινίω.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>φερέτω κύλικά τις ἔνδοθεν καὶ σταμνίον.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l n="200">ὦ φίλταται γυναῖκες, &lt;ὁ&gt; κεραμεὼν ὅσος.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l>ταύτην μὲν ἄν τις εὐθὺς ἡσθείη λαβών.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>καταθεῖσα ταύτην προσλαβοῦ μοι τοῦ κάπρου.</l>
 					<l>δέσποινα Πειθοῖ καὶ κύλιξ φιλοτησία,</l>
 					<l>τὰ σφάγια δέξαι ταῖς γυναιξὶν εὐμενής.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l n="205">εὔχρων γε θαἶμα κἀποπυτίζει καλῶς.</l>
 				</sp>
-				<sp who="#lampitw">
+				<sp who="#lampito">
 					<speaker>Λαμπιτῶ</speaker>
 					<l>καὶ μὰν ποτόδδει γ’ ἁδὺ ναὶ τὸν Κάστορα.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l>ἐᾶτε πρώτην μ’ ὦ γυναῖκες ὀμνύναι.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l>μὰ τὴν Ἀφροδίτην οὔκ, ἐάν γε μὴ λάχῃς.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>λάζυσθε πᾶσαι τῆς κύλικος ὦ Λαμπιτοῖ·</l>
 					<l n="210">λεγέτω δ’ ὑπὲρ ὑμῶν μί’ ἅπερ ἂν κἀγὼ λέγω·</l>
 					<l>ὑμεῖς δ’ ἐπομεῖσθε ταὐτὰ κἀμπεδώσετε.</l>
 					<l>οὐκ ἔστιν οὐδεὶς οὔτε μοιχὸς οὔτ’ ἀνήρ—</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l>οὐκ ἔστιν οὐδεὶς οὔτε μοιχὸς οὔτ’ ἀνήρ—</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>ὅστις πρὸς ἐμὲ πρόσεισιν ἐστυκώς. λέγε.</l>
 					<milestone ed="p" n="215" unit="card"/>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l n="215">ὅστις πρὸς ἐμὲ πρόσεισιν ἐστυκώς. παπαῖ</l>
 					<l>ὑπολύεταί μου τὰ γόνατ’ ὦ Λυσιστράτη.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>οἴκοι δ’ ἀταυρώτη διάξω τὸν βίον—</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l>οἴκοι δ’ ἀταυρώτη διάξω τὸν βίον—</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>κροκωτοφοροῦσα καὶ κεκαλλωπισμένη,—</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l n="220">κροκωτοφοροῦσα καὶ κεκαλλωπισμένη,—</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>ὅπως ἂν ἁνὴρ ἐπιτυφῇ μάλιστά μου·</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l>ὅπως ἂν ἁνὴρ ἐπιτυφῇ μάλιστά μου·</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>κοὐδέποθ’ ἑκοῦσα τἀνδρὶ τὠμῷ πείσομαι.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l>κοὐδέποθ’ ἑκοῦσα τἀνδρὶ τὠμῷ πείσομαι.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l n="225">ἐὰν δέ μ’ ἄκουσαν βιάζηται βίᾳ,—</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l>ἐὰν δέ μ’ ἄκουσαν βιάζηται βίᾳ,—</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>κακῶς παρέξω κοὐχὶ προσκινήσομαι.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l>κακῶς παρέξω κοὐχὶ προσκινήσομαι.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>οὐ πρὸς τὸν ὄροφον ἀνατενῶ τὼ Περσικά.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l n="230">οὐ πρὸς τὸν ὄροφον ἀνατενῶ τὼ Περσικά.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>οὐ στήσομαι λέαιν’ ἐπὶ τυροκνήστιδος.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l>οὐ στήσομαι λέαιν’ ἐπὶ τυροκνήστιδος.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>ταῦτ’ ἐμπεδοῦσα μὲν πίοιμ’ ἐντευθενί·</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l>ταῦτ’ ἐμπεδοῦσα μὲν πίοιμ’ ἐντευθενί·</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l n="235">εἰ δὲ παραβαίην, ὕδατος ἐμπλῇθ’ ἡ κύλιξ.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l>εἰ δὲ παραβαίην, ὕδατος ἐμπλῇθ’ ἡ κύλιξ.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>συνεπόμνυθ’ ὑμεῖς ταῦτα πᾶσαι;</l>
 				</sp>
@@ -939,20 +939,20 @@ bring up to P3
 					<speaker>Πᾶσαι</speaker>
 					<l part="Y">νὴ Δία.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>φέρ’ ἐγὼ καθαγίσω τήνδε.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l part="Y">τὸ μέρος γ’ ὦ φίλη,</l>
 					<l>ὅπως ἂν ὦμεν εὐθὺς ἀλλήλων φίλαι.</l>
 				</sp>
-				<sp who="#lampitw">
+				<sp who="#lampito">
 					<speaker>Λαμπιτῶ</speaker>
 					<l n="240">τίς ὡλολυγά;</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l part="Y">τοῦτ’ ἐκεῖν’ οὑγὼ ’λεγον·</l>
 					<l>αἱ γὰρ γυναῖκες τὴν ἀκρόπολιν τῆς θεοῦ</l>
@@ -962,19 +962,19 @@ bring up to P3
 					<l n="245">ἡμεῖς δὲ ταῖς ἄλλαισι ταῖσιν ἐν πόλει</l>
 					<l>ξυνεμβάλωμεν εἰσιοῦσαι τοὺς μοχλούς.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l>οὔκουν ἐφ’ ἡμᾶς ξυμβοηθήσειν οἴει</l>
 					<l>τοὺς ἄνδρας εὐθύς;</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l part="Y">ὀλίγον αὐτῶν μοι μέλει.</l>
 					<l>οὐ γὰρ τοσαύτας οὔτ’ ἀπειλὰς οὔτε πῦρ</l>
 					<l n="250">ἥξουσ’ ἔχοντες ὥστ’ ἀνοῖξαι τὰς πύλας</l>
 					<l>ταύτας, ἐὰν μὴ ’φ’ οἷσιν ἡμεῖς εἴπομεν.</l>
 				</sp>
-				<sp who="#kalonikh">
+				<sp who="#kalonike">
 					<speaker>Καλονίκη</speaker>
 					<l>μὰ τὴν Ἀφροδίτην οὐδέποτέ γ’· ἄλλως γὰρ ἂν</l>
 					<l>ἄμαχοι γυναῖκες καὶ μιαραὶ κεκλῄμεθ’ ἄν.</l>
@@ -982,14 +982,14 @@ bring up to P3
 				</sp>
 			</div1>
 			<div1 type="Parodos">
-				<sp who="#xorosgerontwn">
+				<sp who="#xorosgeronton">
 					<speaker>Χορὸς Γερόντων</speaker>
 					<l>χώρει Δράκης, ἡγοῦ βάδην, εἰ καὶ τὸν ὦμον ἀλγεῖς</l>
 					<l n="255">κορμοῦ τοσουτονὶ βάρος χλωρᾶς φέρων ἐλάας.</l>
 					<milestone ed="p" n="258" unit="card"/>
 				</sp>
 				<div2 n="1" type="strophe">
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>ἦ πόλλ’ ἄελπτ’ ἔνεστιν ἐν τῷ μακρῷ βίῳ φεῦ,</l>
 						<l>ἐπεὶ τίς ἄν ποτ’ ἤλπισ’ ὦ Στρυμόδωρ’ ἀκοῦσαι</l>
@@ -1001,7 +1001,7 @@ bring up to P3
 						<l n="265">τὰ προπύλαια πακτοῦν;</l>
 						<milestone ed="p" n="266" unit="card"/>
 					</sp>
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>ἀλλ’ ὡς τάχιστα πρὸς πόλιν σπεύσωμεν ὦ Φιλοῦργε,</l>
 						<l>ὅπως ἄν, αὐταῖς ἐν κύκλῳ θέντες τὰ πρέμνα ταυτί,</l>
@@ -1012,7 +1012,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>οὐ γὰρ μὰ τὴν Δήμητρ’ ἐμοῦ ζῶντος ἐγχανοῦνται·</l>
 						<l>ἐπεὶ οὐδὲ Κλεομένης, ὃς αὐτὴν κατέσχε πρῶτος,</l>
@@ -1026,7 +1026,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="tetrameters">
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>οὕτως ἐπολιόρκησ’ ἐγὼ τὸν ἄνδρ’ ἐκεῖνον ὠμῶς</l>
 						<l>ἐφ’ ἑπτακαίδεκ’ ἀσπίδων πρὸς ταῖς πύλαις καθεύδων.</l>
@@ -1037,7 +1037,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="2" type="strophe">
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>ἀλλ’ αὐτὸ γάρ μοι τῆς ὁδοῦ</l>
 						<l>λοιπόν ἐστι χωρίον</l>
@@ -1054,7 +1054,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="2" type="antistrophe">
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>ὡς δεινὸν ὦναξ Ἡράκλεις</l>
 						<l>προσπεσόν μ’ ἐκ τῆς χύτρας</l>
@@ -1071,7 +1071,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="tetrameters">
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>τουτὶ τὸ πῦρ ἐγρήγορεν θεῶν ἕκατι καὶ ζῇ.</l>
 						<l>οὔκουν ἄν, εἰ τὼ μὲν ξύλω θείμεσθα πρῶτον αὐτοῦ,</l>
@@ -1089,7 +1089,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="lyric">
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l>λιγνὺν δοκῶ μοι καθορᾶν καὶ καπνὸν ὦ γυναῖκες</l>
 						<l n="320">ὥσπερ πυρὸς καομένου· σπευστέον ἐστὶ θᾶττον.</l>
@@ -1097,7 +1097,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="3" type="strophe">
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l>πέτου πέτου Νικοδίκη,</l>
 						<l>πρὶν ἐμπεπρῆσθαι Καλύκην</l>
@@ -1120,7 +1120,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="3" type="antistrophe">
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l>ἤκουσα γὰρ τυφογέροντας</l>
 						<l n="336">ἄνδρας ἔρρειν, στελέχη</l>
@@ -1141,151 +1141,151 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="tetrameters">
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l n="350">ἔασον ὦ. τουτὶ τί ἦν; ὦνδρες πόνῳ πόνηροι·</l>
 						<l>οὐ γάρ ποτ’ ἂν χρηστοί γ’ ἔδρων οὐδ’ εὐσεβεῖς τάδ’ ἄνδρες.</l>
 					</sp>
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>τουτὶ τὸ πρᾶγμ’ ἡμῖν ἰδεῖν ἀπροσδόκητον ἥκει·</l>
 						<l>ἑσμὸς γυναικῶν οὑτοσὶ θύρασιν αὖ βοηθεῖ.</l>
 					</sp>
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l>τί βδύλλεθ’ ἡμᾶς; οὔ τί που πολλαὶ δοκοῦμεν εἶναι;</l>
 						<l n="355">καὶ μὴν μέρος γ’ ἡμῶν ὁρᾶτ’ οὔπω τὸ μυριοστόν.</l>
 					</sp>
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>ὦ Φαιδρία ταύτας λαλεῖν ἐάσομεν τοσαυτί;</l>
 						<l>οὐ περικατᾶξαι τὸ ξύλον τύπτοντ’ ἐχρῆν τιν’ αὐταῖς;</l>
 					</sp>
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l>θώμεσθα δὴ τὰς κάλπιδας χἠμεῖς χαμᾶζ’, ὅπως ἂν</l>
 						<l>ἢν προσφέρῃ τὴν χεῖρά τις μὴ τοῦτό μ’ ἐμποδίζῃ.</l>
 					</sp>
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l n="360">εἰ νὴ Δί’ ἤδη τὰς γνάθους τούτων τις ἢ δὶς ἢ τρὶς</l>
 						<l>ἔκοψεν ὥσπερ Βουπάλου, φωνὴν ἂν οὐκ ἂν εἶχον.</l>
 					</sp>
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l>καὶ μὴν ἰδοὺ παταξάτω τις· στᾶσ’ ἐγὼ παρέξω,</l>
 						<l>κοὐ μή ποτ’ ἄλλη σου κύων τῶν ὄρχεων λάβηται.</l>
 					</sp>
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>εἰ μὴ σιωπήσει, θενών σου ’κκοκκιῶ τὸ γῆρας.</l>
 					</sp>
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l n="365">ἅψαι μόνον Στρατυλλίδος τῷ δακτύλῳ προσελθών.</l>
 					</sp>
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>τί δ’ ἢν σποδῶ τοῖς κονδύλοις; τί μ’ ἐργάσει τὸ δεινόν;</l>
 					</sp>
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l>βρύκουσά σου τοὺς πλεύμονας καὶ τἄντερ’ ἐξαμήσω.</l>
 					</sp>
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>οὐκ ἔστ’ ἀνὴρ Εὐριπίδου σοφώτερος ποιητής·</l>
 						<l>οὐδὲν γὰρ οὕτω θρέμμ’ ἀναιδές ἐστιν ὡς γυναῖκες.</l>
 					</sp>
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l n="370">αἰρώμεθ’ ἡμεῖς θοὔδατος τὴν κάλπιν ὦ Ῥοδίππη.</l>
 					</sp>
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>τί δ’ ὦ θεοῖς ἐχθρὰ σὺ δεῦρ’ ὕδωρ ἔχουσ’ ἀφίκου;</l>
 					</sp>
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l>τί δαὶ σὺ πῦρ ὦ τύμβ’ ἔχων; ὡς σαυτὸν ἐμπυρεύσων;</l>
 					</sp>
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>ἐγὼ μὲν ἵνα νήσας πυρὰν τὰς σὰς φίλας ὑφάψω.</l>
 					</sp>
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l>ἐγὼ δέ γ’ ἵνα τὴν σὴν πυρὰν τούτῳ κατασβέσαιμι.</l>
 					</sp>
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l n="375">τοὐμὸν σὺ πῦρ κατασβέσεις;</l>
 					</sp>
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l part="Y">τοὔργον τάχ’ αὐτὸ δείξει.</l>
 					</sp>
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>οὐκ οἶδά σ’ εἰ τῇδ’ ὡς ἔχω τῇ λαμπάδι σταθεύσω.</l>
 					</sp>
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l>εἰ ῥύμμα τυγχάνεις ἔχων, λουτρόν &lt;γ’&gt; ἐγὼ παρέξω.</l>
 					</sp>
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>ἐμοὶ σὺ λουτρὸν ὦ σαπρά;</l>
 					</sp>
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l part="Y">καὶ ταῦτα νυμφικόν γε.</l>
 					</sp>
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>ἤκουσας αὐτῆς τοῦ θράσους;</l>
 					</sp>
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l part="Y">ἐλευθέρα γάρ εἰμι.</l>
 					</sp>
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l n="380">σχήσω σ’ ἐγὼ τῆς νῦν βοῆς.</l>
 					</sp>
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l part="Y">ἀλλ’ οὐκέθ’ ἡλιάζει.</l>
 					</sp>
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>ἔμπρησον αὐτῆς τὰς κόμας.</l>
 					</sp>
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l part="Y">σὸν ἔργον ὦχελῷε.</l>
 					</sp>
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>οἴμοι τάλας.</l>
 					</sp>
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l part="Y">μῶν θερμὸν ἦν;</l>
 					</sp>
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>ποῖ θερμόν; οὐ παύσει; τί δρᾷς;</l>
 					</sp>
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l>ἄρδω σ’ ὅπως ἂν βλαστάνῃς.</l>
 					</sp>
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l n="385">ἀλλ’ αὖός εἰμ’ ἤδη τρέμων.</l>
 					</sp>
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l>οὐκοῦν ἐπειδὴ πῦρ ἔχεις, σὺ χλιανεῖς σεαυτόν.</l>
 						<milestone ed="p" n="387" unit="card"/>
@@ -1293,7 +1293,7 @@ bring up to P3
 				</div2>
 			</div1>
 			<div1 type="Episode">
-				<sp who="#proboulos">
+				<sp who="#proboylos">
 					<speaker>Πρόβουλος</speaker>
 					<l>ἆρ’ ἐξέλαμψε τῶν γυναικῶν ἡ τρυφὴ</l>
 					<l>χὠ τυμπανισμὸς χοἰ πυκνοὶ Σαβάζιοι,</l>
@@ -1308,14 +1308,14 @@ bring up to P3
 					<l>ὁ θεοῖσιν ἐχθρὸς καὶ μιαρὸς Χολοζύγης.</l>
 					<l>τοιαῦτ’ ἀπ’ αὐτῶν ἐστιν ἀκόλαστ’ ᾄσματα.</l>
 				</sp>
-				<sp who="#xorosgerontwn">
+				<sp who="#xorosgeronton">
 					<speaker>Χορὸς Γερόντων</speaker>
 					<l>τί δῆτ’ ἂν εἰ πύθοιο καὶ τὴν τῶνδ’ ὕβριν;</l>
 					<l n="400">αἳ τἄλλα θ’ ὑβρίκασι κἀκ τῶν καλπίδων</l>
 					<l>ἔλουσαν ἡμᾶς, ὥστε θαἰματίδια</l>
 					<l>σείειν πάρεστιν ὥσπερ ἐνεουρηκότας.</l>
 				</sp>
-				<sp who="#proboulos">
+				<sp who="#proboylos">
 					<speaker>Πρόβουλος</speaker>
 					<l>νὴ τὸν Ποσειδῶ τὸν ἁλυκὸν δίκαιά γε.</l>
 					<l>ὅταν γὰρ αὐτοὶ ξυμπονηρευώμεθα</l>
@@ -1346,71 +1346,71 @@ bring up to P3
 					<l>ἐντεῦθεν ἐκμοχλεύσετ’; ἐνθενδὶ δ’ ἐγὼ</l>
 					<l n="430">ξυνεκμοχλεύσω.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l part="Y">μηδὲν ἐκμοχλεύετε·</l>
 					<l>ἐξέρχομαι γὰρ αὐτομάτη. τί δεῖ μοχλῶν;</l>
 					<l>οὐ γὰρ μοχλῶν δεῖ μᾶλλον ἢ νοῦ καὶ φρενῶν.</l>
 				</sp>
-				<sp who="#proboulos">
+				<sp who="#proboylos">
 					<speaker>Πρόβουλος</speaker>
 					<l>ἄληθες ὦ μιαρὰ σύ; ποῦ ’σθ’ ὁ τοξότης;</l>
 					<l>ξυλλάμβαν’ αὐτὴν κὠπίσω τὼ χεῖρε δεῖ.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l n="435">εἴ τἄρα νὴ τὴν Ἄρτεμιν τὴν χεῖρά μοι</l>
 					<l>ἄκραν προσοίσει δημόσιος ὤν, κλαύσεται.</l>
 				</sp>
-				<sp who="#proboulos">
+				<sp who="#proboylos">
 					<speaker>Πρόβουλος</speaker>
 					<l>ἔδεισας οὗτος; οὐ ξυναρπάσει μέσην</l>
 					<l>καὶ σὺ μετὰ τούτου κἀνύσαντε δήσετον;</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l>εἴ τἄρα νὴ τὴν Πάνδροσον ταύτῃ μόνον</l>
 					<l n="440">τὴν χεῖρ’ ἐπιβαλεῖς, ἐπιχεσεῖ πατούμενος.</l>
 				</sp>
-				<sp who="#proboulos">
+				<sp who="#proboylos">
 					<speaker>Πρόβουλος</speaker>
 					<l>ἰδού γ’ἐπιχεσεῖ. ποῦ ’στιν ἕτερος τοξότης;</l>
 					<l>ταύτην προτέραν ξύνδησον, ὁτιὴ καὶ λαλεῖ.</l>
 					<milestone ed="p" n="443" unit="card"/>
 				</sp>
-				<sp who="#gunhb">
+				<sp who="#gyneb">
 					<speaker>Γυνὴ Β</speaker>
 					<l>εἴ τἄρα νὴ τὴν Φωσφόρον τὴν χεῖρ’ ἄκραν</l>
 					<l>ταύτῃ προσοίσεις, κύαθον αἰτήσεις τάχα.</l>
 				</sp>
-				<sp who="#proboulos">
+				<sp who="#proboylos">
 					<speaker>Πρόβουλος</speaker>
 					<l n="445">τουτὶ τί ἦν; ποῦ τοξότης; ταύτης ἔχου.</l>
 					<l>παύσω τιν’ ὑμῶν τῆσδ’ ἐγὼ τῆς ἐξόδου.</l>
 				</sp>
-				<sp who="#gunhg">
+				<sp who="#gyneg">
 					<speaker>Γυνὴ Γ</speaker>
 					<l>εἴ τἄρα νὴ τὴν Ταυροπόλον ταύτῃ πρόσει,</l>
 					<l>ἐκκοκκιῶ σου τὰς στενοκωκύτους τρίχας.</l>
 				</sp>
-				<sp who="#proboulos">
+				<sp who="#proboylos">
 					<speaker>Πρόβουλος</speaker>
 					<l>οἴμοι κακοδαίμων· ἐπιλέλοιφ’ ὁ τοξότης.</l>
 					<l n="450">ἀτὰρ οὐ γυναικῶν οὐδέποτ’ ἔσθ’ ἡττητέα</l>
 					<l>ἡμῖν· ὁμόσε χωρῶμεν αὐταῖς ὦ Σκύθαι</l>
 					<l>ξυνταξάμενοι.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l part="Y">νὴ τὼ θεὼ γνώσεσθ’ ἄρα</l>
 					<l>ὅτι καὶ παρ’ ἡμῖν εἰσι τέτταρες λόχοι</l>
 					<l>μαχίμων γυναικῶν ἔνδον ἐξωπλισμένων.</l>
 				</sp>
-				<sp who="#proboulos">
+				<sp who="#proboylos">
 					<speaker>Πρόβουλος</speaker>
 					<l n="455">ἀποστρέφετε τὰς χεῖρας αὐτῶν ὦ Σκύθαι.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>ὦ ξύμμαχοι γυναῖκες ἐκθεῖτ’ ἔνδοθεν,</l>
 					<l>ὦ σπερμαγοραιολεκιθολαχανοπώλιδες,</l>
@@ -1419,17 +1419,17 @@ bring up to P3
 					<l n="460">οὐ λοιδορήσετ’, οὐκ ἀναισχυντήσετε;</l>
 					<l>παύσασθ’, ἐπαναχωρεῖτε, μὴ σκυλεύετε.</l>
 				</sp>
-				<sp who="#proboulos">
+				<sp who="#proboylos">
 					<speaker>Πρόβουλος</speaker>
 					<l>οἴμ’ ὡς κακῶς πέπραγέ μου τὸ τοξικόν.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>ἀλλὰ τί γὰρ ᾤου; πότερον ἐπὶ δούλας τινὰς</l>
 					<l>ἥκειν ἐνόμισας, ἢ γυναιξὶν οὐκ οἴει</l>
 					<l n="465">χολὴν ἐνεῖναι;</l>
 				</sp>
-				<sp who="#proboulos">
+				<sp who="#proboylos">
 					<speaker>Πρόβουλος</speaker>
 					<l part="Y">νὴ τὸν Ἀπόλλω καὶ μάλα</l>
 					<l>πολλήν γ’, ἐάνπερ πλησίον κάπηλος ᾖ.</l>
@@ -1438,14 +1438,14 @@ bring up to P3
 			</div1>
 			<div1 type="Agon">
 				<div2 type="prelude">
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>ὦ πόλλ’ ἀναλώσας ἔπη πρόβουλε τῆσδε &lt;τῆς&gt; γῆς,</l>
 						<l>τί τοῖσδε σαυτὸν ἐς λόγους τοῖς θηρίοις συνάπτεις;</l>
 						<l>οὐκ οἶσθα λουτρὸν οἷον αἵδ’ ἡμᾶς ἔλουσαν ἄρτι</l>
 						<l n="470">ἐν τοῖσιν ἱματιδίοις, καὶ ταῦτ’ ἄνευ κονίας;</l>
 					</sp>
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l>ἀλλ’ ὦ μέλ’ οὐ χρὴ προσφέρειν τοῖς πλησίοισιν εἰκῇ</l>
 						<l>τὴν χεῖρ’· ἐὰν δὲ τοῦτο δρᾷς, κυλοιδιᾶν ἀνάγκη.</l>
@@ -1456,7 +1456,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="strophe">
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>ὦ Ζεῦ τί ποτε χρησόμεθα τοῖσδε τοῖς κνωδάλοις;</l>
 						<l>οῡ γὰρ ἔτ’ ἀνεκτὰ τάδε γ’, ἀλλὰ βασανιστέον</l>
@@ -1469,7 +1469,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 met="anapests" type="katakeleusmenos">
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>ἀλλ’ ἀνερώτα καὶ μὴ πείθου καὶ πρόσφερε πάντας ἐλέγχους,</l>
 						<l n="485">ὡς αἰσχρὸν ἀκωδώνιστον ἐᾶν τὸ τοιοῦτον πρᾶγμα μεθέντας.</l>
@@ -1477,139 +1477,139 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 met="anapests" type="epirrheme">
-					<sp who="#proboulos">
+					<sp who="#proboylos">
 						<speaker>Πρόβουλος</speaker>
 						<l>καὶ μὴν αὐτῶν τοῦτ’ ἐπιθυμῶ νὴ τὸν Δία πρῶτα πυθέσθαι,</l>
 						<l>ὅ τι βουλόμεναι τὴν πόλιν ἡμῶν ἀπεκλῄσατε τοῖσι μοχλοῖσιν.</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l>ἵνα τἀργύριον σῶν παρέχοιμεν καὶ μὴ πολεμοῖτε δῑ αὐτό.</l>
 					</sp>
-					<sp who="#proboulos">
+					<sp who="#proboylos">
 						<speaker>Πρόβουλος</speaker>
 						<l>διὰ τἀργύριον πολεμοῦμεν γάρ;</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l part="Y">καὶ τἄλλα γε πάντ’ ἐκυκήθη.</l>
 						<l n="490">ἵνα γὰρ Πείσανδρος ἔχοι κλέπτειν χοἰ ταῖς ἀρχαῖς ἐπέχοντες,</l>
 						<l>ἀεί τινα κορκορυγὴν ἐκύκων. οἱ δ’ οὖν τοῦδ’ οὕνεκα δρώντων</l>
 						<l>ὅ τι βούλονται· τὸ γὰρ ἀργύριον τοῦτ’ οὐκέτι μὴ καθέλωσιν.</l>
 					</sp>
-					<sp who="#proboulos">
+					<sp who="#proboylos">
 						<speaker>Πρόβουλος</speaker>
 						<l>ἀλλὰ τί δράσεις;</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l part="Y">τοῦτό μ’ ἐρωτᾷς; ἡμεῖς ταμιεύσομεν αὐτό.</l>
 					</sp>
-					<sp who="#proboulos">
+					<sp who="#proboylos">
 						<speaker>Πρόβουλος</speaker>
 						<l>ὑμεῖς ταμιεύσετε τἀργύριον;</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l part="Y">τί &lt;δὲ&gt; δεινὸν τοῦτο νομίζεις;</l>
 						<l n="495">οὐ καὶ τἄνδον χρήματα πάντως ἡμεῖς ταμιεύομεν ὑμῖν;</l>
 					</sp>
-					<sp who="#proboulos">
+					<sp who="#proboylos">
 						<speaker>Πρόβουλος</speaker>
 						<l>ἀλλ’ οὐ ταὐτόν.</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l part="Y">πῶς οὐ ταὐτόν;</l>
 					</sp>
-					<sp who="#proboulos">
+					<sp who="#proboylos">
 						<speaker>Πρόβουλος</speaker>
 						<l part="Y">πολεμητέον ἔστ’ ἀπὸ τούτου.</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l>ἀλλ’ οὐδὲν δεῖ πρῶτον πολεμεῖν.</l>
 					</sp>
-					<sp who="#proboulos">
+					<sp who="#proboylos">
 						<speaker>Πρόβουλος</speaker>
 						<l part="Y">πῶς γὰρ σωθησόμεθ’ ἄλλως;</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l>ἡμεῖς ὑμᾶς σώσομεν.</l>
 					</sp>
-					<sp who="#proboulos">
+					<sp who="#proboylos">
 						<speaker>Πρόβουλος</speaker>
 						<l part="Y">ὑμεῖς;</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l part="Y">ἡμεῖς μέντοι.</l>
 					</sp>
-					<sp who="#proboulos">
+					<sp who="#proboylos">
 						<speaker>Πρόβουλος</speaker>
 						<l part="Y">σχέτλιόν γε.</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l>ὡς σωθήσει, κἂν μὴ βούλῃ.</l>
 					</sp>
-					<sp who="#proboulos">
+					<sp who="#proboylos">
 						<speaker>Πρόβουλος</speaker>
 						<l part="Y">δεινόν &lt;γε&gt; λέγεις.</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l part="Y">ἀγανακτεῖς.</l>
 						<l n="500">ἀλλὰ ποιητέα ταῦτ’ ἐστὶν ὅμως.</l>
 					</sp>
-					<sp who="#proboulos">
+					<sp who="#proboylos">
 						<speaker>Πρόβουλος</speaker>
 						<l part="Y">νὴ τὴν Δήμητρ’ ἄδικόν γε.</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l>σωστέον ὦ τᾶν.</l>
 					</sp>
-					<sp who="#proboulos">
+					<sp who="#proboylos">
 						<speaker>Πρόβουλος</speaker>
 						<l part="Y">κεἰ μὴ δέομαι;</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l part="Y">τοῦδ’ οὕνεκα καὶ πολὺ μᾶλλον.</l>
 					</sp>
-					<sp who="#proboulos">
+					<sp who="#proboylos">
 						<speaker>Πρόβουλος</speaker>
 						<l>ὑμῖν δὲ πόθεν περὶ τοῦ πολέμου τῆς τ’ εἰρήνης ἐμέλησεν;</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l>ἡμεῖς φράσομεν.</l>
 					</sp>
-					<sp who="#proboulos">
+					<sp who="#proboylos">
 						<speaker>Πρόβουλος</speaker>
 						<l part="Y">λέγε δὴ ταχέως, ἵνα μὴ κλάῃς,</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l part="Y">ἀκροῶ δή,</l>
 						<l>καὶ τὰς χεῖρας πειρῶ κατέχειν.</l>
 					</sp>
-					<sp who="#proboulos">
+					<sp who="#proboylos">
 						<speaker>Πρόβουλος</speaker>
 						<l part="Y">ἀλλ’ οὐ δύναμαι· χαλεπὸν γὰρ</l>
 						<l n="505">ὑπὸ τῆς ὀργῆς αὐτὰς ἴσχειν.</l>
 					</sp>
-					<sp who="#gunha">
+					<sp who="#gynea">
 						<speaker>Γυνὴ Α.</speaker>
 						<l part="Y">κλαύσει τοίνυν πολὺ μᾶλλον.</l>
 					</sp>
-					<sp who="#proboulos">
+					<sp who="#proboylos">
 						<speaker>Πρόβουλος</speaker>
 						<l>τοῦτο μὲν ὦ γραῦ σαυτῇ κρώξαις· σὺ δέ μοι λέγε.</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l part="Y">ταῦτα ποιήσω.</l>
 						<l>ἡμεῖς τὸν μὲν πρότερον πόλεμον † καὶ τὸν χρόνον ἠνεσχόμεθα †</l>
@@ -1622,15 +1622,15 @@ bring up to P3
 						<l>ἐν τῷ δήμῳ τήμερονὑμῖν;’ ‘τίδὲ σοὶ ταῦτ’;’ ἦ δ’ ὃς ἂν ἁνήρ.</l>
 						<l n="515">‘οὐ σιγήσει;’ κἀγὼ ἐσίγων.</l>
 					</sp>
-					<sp who="#gunhb">
+					<sp who="#gyneb">
 						<speaker>Γυνὴ Β.</speaker>
 						<l part="Y">ἀλλ’ οὐκ ἂν ἐγώ ποτ’ ἐσίγων.</l>
 					</sp>
-					<sp who="#proboulos">
+					<sp who="#proboylos">
 						<speaker>Πρόβουλος</speaker>
 						<l>κἂν ᾤμωζές γ’, εἰ μὴ ’σίγας.</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l part="Y">τοιγὰρ ἔγωγ’ ἔνδον ἐσίγων.</l>
 						<l> . . . ἔτερόν τι πονηρότερον βούλευμ’ ἐπεπύσμεθ’ ἂν ὑμῶν·</l>
@@ -1638,11 +1638,11 @@ bring up to P3
 						<l>ὁ δέ μ’ εὐθὺς ὑποβλέψας &lt;ἂν&gt; ἔφασκ’, εἰ μὴ τὸν στήμονα νήσω,</l>
 						<l n="520">ὀτοτύξεσθαι μακρὰ τὴν κεφαλήν· ‘πόλεμος δ’ ἄνδρεσσι μελήσει.’</l>
 					</sp>
-					<sp who="#proboulos">
+					<sp who="#proboylos">
 						<speaker>Πρόβουλος</speaker>
 						<l>ὀρθῶς γε λέγων νὴ Δί’ ἐκεῖνος.</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l part="Y">πῶς ὀρθῶς ὦ κακόδαιμον,</l>
 						<l>εἰ μηδὲ κακῶς βουλευομένοις ἐξῆν ὑμῖν ὑποθέσθαι;</l>
@@ -1653,15 +1653,15 @@ bring up to P3
 						<l>ἢν οὖν ἡμῶν χρηστὰ λεγουσῶν ἐθελήσητ’ ἀντακροᾶσθαι</l>
 						<l>κἀντισιωπᾶθ’ ὥσπερ χἠμεῖς, ἐπανορθώσαιμεν ἂν ὑμᾶς.</l>
 					</sp>
-					<sp who="#proboulos">
+					<sp who="#proboylos">
 						<speaker>Πρόβουλος</speaker>
 						<l>ὑμεῖς ἡμᾶς; δεινόν γε λέγεις κοὐ τλητὸν ἔμοιγε.</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l part="Y">σιώπα.</l>
 					</sp>
-					<sp who="#proboulos">
+					<sp who="#proboylos">
 						<speaker>Πρόβουλος</speaker>
 						<l n="530">σοί γ’ ὦ κατάρατε σιωπῶ ’γώ, καὶ ταῦτα κάλυμμα φορούσῃ</l>
 						<l>περὶ τὴν κεφαλήν; μή νυν ζῴην.</l>
@@ -1669,18 +1669,18 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 met="anapests" type="pnigos">
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l>ἀλλ’ εἰ τοῦτ’ ἐμπόδιόν σοι,</l>
 						<l>παρ’ ἐμοῦ τουτὶ τὸ κάλυμμα λαβὼν</l>
 						<l>ἔχε καὶ περίθου περὶ τὴν κεφαλήν,</l>
 						<l>κᾆτα σιώπα</l>
 					</sp>
-					<sp who="#gunhg">
+					<sp who="#gyneg">
 						<speaker>Γυνὴ Γ.</speaker>
 						<l n="535">καὶ τοῦτον τὸν καλαθίσκον.</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l>κᾆτα ξαίνειν ξυζωσάμενος</l>
 						<l>κυάμους τρώγων·</l>
@@ -1689,7 +1689,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 met="trochees" type="antiprelude">
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l>αἰρώμεθ’ ὦ γυναῖκες ἀπὸ τῶν καλπίδων, ὅπως ἂν</l>
 						<l n="540">ἐν τῷ μέρει χἠμεῖς τι ταῖς φίλαισι συλλάβωμεν.</l>
@@ -1697,7 +1697,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l>ἔγωγε γὰρ &lt;ἂν&gt; οὔποτε κάμοιμ’ ἂν ὀρχουμένη,</l>
 						<l>†οὐδὲ τὰ γόνατα κόπος ἕλοι μου καματηρός†·</l>
@@ -1710,7 +1710,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 met="anapests" type="antikatakeleusmenos">
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l>ἀλλ’ ὦ τηθῶν ἀνδρειοτάτων καὶ μητριδίων ἀκαληφῶν,</l>
 						<l n="550">χωρεῖτ’ ὀργῇ καὶ μὴ τέγγεσθ’· ἔτι γὰρ νῦν οὔρια θεῖτε.</l>
@@ -1718,82 +1718,82 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 met="anapests" type="antepirrheme">
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l>ἀλλ’ ἤνπερ ὅ &lt;τε&gt; γλυκύθυμος Ἔρως χἠ Κυπρογένεῑ Ἀφροδίτη</l>
 						<l>ἵμερον ἡμῶν κατὰ τῶν κόλπων καὶ τῶν μηρῶν καταπνεύσῃ,</l>
 						<l>κᾆτ’ ἐντήξῃ τέτανον τερπνὸν τοῖς ἀνδράσι καὶ ῥοπαλισμούς,</l>
 						<l>οἶμαί ποτε Λυσιμάχας ἡμᾶς ἐν τοῖς Ἕλλησι καλεῖσθαι.</l>
 					</sp>
-					<sp who="#proboulos">
+					<sp who="#proboylos">
 						<speaker>Πρόβουλος</speaker>
 						<l n="555">τί ποιησάσας;</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l part="Y">ἢν παύσωμεν πρώτιστον μὲν ξὺν ὅπλοισιν</l>
 						<l>ἀγοράζοντας καὶ μαινομένους.</l>
 					</sp>
-					<sp who="#gunha">
+					<sp who="#gynea">
 						<speaker>Γυνὴ Α.</speaker>
 						<l part="Y">νὴ τὴν Παφίαν Ἀφροδίτην.</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l>νῦν μὲν γὰρ δὴ κἀν ταῖσι χύτραις κἀν τοῖς λαχάνοισιν ὁμοίως</l>
 						<l>περιέρχονται κατὰ τὴν ἀγορὰν ξὺν ὅπλοις ὥσπερ Κορύβαντες.</l>
 					</sp>
-					<sp who="#proboulos">
+					<sp who="#proboylos">
 						<speaker>Πρόβουλος</speaker>
 						<l>νὴ Δία· χρὴ γὰρ τοὺς ἀνδρείους.</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l part="Y">καὶ μὴν τό γε πρᾶγμα γέλοιον,</l>
 						<l n="560">ὅταν ἀσπίδ’ ἔχων καὶ Γοργόνα τις κᾆτ’ ὠνῆται κορακίνους.</l>
 					</sp>
-					<sp who="#gunhb">
+					<sp who="#gyneb">
 						<speaker>Γυνὴ Β.</speaker>
 						<l>νὴ Δί’ ἐγὼ γοῦν ἄνδρα κομήτην φυλαρχοῦντ’ εἶδον ἐφ’ ἵππου</l>
 						<l>ἐς τὸν χαλκοῦν ἐμβαλλόμενον πῖλον λέκιθον παρὰ γραός·</l>
 						<l>ἕτερος δ’ &lt;αὖ&gt; Θρᾷξ πέλτην σείων κἀκόντιον ὥσπερ ὁ Τηρεύς,</l>
 						<l>ἐδεδίσκετο τὴν ἰσχαδόπωλιν καὶ τὰς δρυπεπεῖς κατέπινεν.</l>
 					</sp>
-					<sp who="#proboulos">
+					<sp who="#proboylos">
 						<speaker>Πρόβουλος</speaker>
 						<l n="565">πῶς οὖν ὑμεῖς δυναταὶ παῦσαι τεταραγμένα πράγματα πολλὰ</l>
 						<l>ἐν ταῖς χώραις καὶ διαλῦσαι;</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l part="Y">φαύλως πάνυ.</l>
 					</sp>
-					<sp who="#proboulos">
+					<sp who="#proboylos">
 						<speaker>Πρόβουλος</speaker>
 						<l part="Y">πῶς; ἀπόδειξον.</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l>ὥσπερ κλωστῆρ’, ὅταν ἡμῖν ᾖ τεταραγμένος, ὧδε λαβοῦσαι,</l>
 						<l>ὑπενεγκοῦσαι τοῖσιν ἀτράκτοις τὸ μὲν ἐνταυθοῖ τὸ δ’ ἐκεῖσε,</l>
 						<l>οὕτως καὶ τὸν πόλεμον τοῦτον διαλύσομεν, ἤν τις ἐάσῃ,</l>
 						<l n="570">διενεγκοῦσαι διὰ πρεσβειῶν τὸ μὲν ἐνταυθοῖ τὸ δ’ ἐκεῖσε.</l>
 					</sp>
-					<sp who="#proboulos">
+					<sp who="#proboylos">
 						<speaker>Πρόβουλος</speaker>
 						<l>ἐξ ἐρίων δὴ καὶ κλωστήρων καὶ ἀτράκτων πράγματα δεινὰ</l>
 						<l>παύσειν οἴεσθ’ ὦ ἀνόητοι;</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l part="Y">κἂν ὑμῖν γ’ εἴ τις ἐνῆν νοῦς,</l>
 						<l>ἐκ τῶν ἐρίων τῶν ἡμετέρων ἐπολιτεύεσθ’ ἂν ἅπαντα.</l>
 					</sp>
-					<sp who="#proboulos">
+					<sp who="#proboylos">
 						<speaker>Πρόβουλος</speaker>
 						<l>πῶς δή; φέρ’ ἴδω.</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l part="Y">πρῶτον μὲν ἐχρῆν, ὥσπερ πόκου ἐν βαλανείῳ</l>
 						<l n="575">ἐκπλύναντας τὴν οἰσπώτην, ἐκ τῆς πόλεως ἐπὶ κλίνης</l>
@@ -1809,32 +1809,32 @@ bring up to P3
 						<l n="585">δεῦρο ξυνάγειν καὶ συναθροίξειν εἰς ἕν, κἄπειτα ποιῆσαι</l>
 						<l>τολύπην μεγάλην κᾆτ’ ἐκ ταύτης τῷ δήμῳ χλαῖναν ὑφῆναι.</l>
 					</sp>
-					<sp who="#proboulos">
+					<sp who="#proboylos">
 						<speaker>Πρόβουλος</speaker>
 						<l>οὔκουν δεινὸν ταυτὶ ταύτας ῥαβδίξειν καὶ τολυπεύειν,</l>
 						<l>αἶς οὐδὲ μετῆν πάνυ τοῦ πολέμου;</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l part="Y">καὶ μὴν ὦ παγκατάρατε</l>
 						<l>πλεῖν ἤ γε διπλοῦν αὐτὸν φέρομεν, πρώτιστον μέν γε τεκοῦσαι</l>
 						<l n="590">κἀκπέμψασαι παῖδας ὁπλίτας.</l>
 					</sp>
-					<sp who="#proboulos">
+					<sp who="#proboylos">
 						<speaker>Πρόβουλος</speaker>
 						<l part="Y">σίγα, μὴ μνησικακήσῃς.</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l>εἶθ’ ἡνίκα χρῆν εὐφρανθῆναι καὶ τῆς ἥβης ἀπολαῦσαι,</l>
 						<l>μονοκοιτοῦμεν διὰ τὰς στρατιάς. καὶ θἠμέτερον μὲν ἐᾶτε,</l>
 						<l>περὶ τῶν δὲ κορῶν ἐν τοῖς θαλάμοις γηρασκουσῶν ἀνιῶμαι.</l>
 					</sp>
-					<sp who="#proboulos">
+					<sp who="#proboylos">
 						<speaker>Πρόβουλος</speaker>
 						<l>οὔκουν χἄνδρες γηράσκουσιν;</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l part="Y">μὰ Δί’ ἀλλ’ οὐκ</l>
 						<l>εἶπας ὅμοιον.</l>
@@ -1845,26 +1845,26 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 met="anapests" type="antipnigos">
-					<sp who="#proboulos">
+					<sp who="#proboylos">
 						<speaker>Πρόβουλος</speaker>
 						<l>ἀλλ’ ὅστις ἔτι στῦσαι δυνατὸς—</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l>σὺ δὲ δὴ τί μαθὼν οὐκ ἀποθνῄσκεις;</l>
 						<l n="600">†χωρίον ἐστί·† σορὸν ὠνήσει·</l>
 						<l>μελιτοῦτταν ἐγὼ καὶ δὴ μάξω.</l>
 						<l>λαβὲ ταυτὶ καὶ στεφάνωσαι.</l>
 					</sp>
-					<sp who="#gunhc">
+					<sp who="#gyneks">
 						<speaker>Γυνὴ Ξ.</speaker>
 						<l>καὶ ταυτασὶ δέξαι παρ’ ἐμοῦ.</l>
 					</sp>
-					<sp who="#gunha">
+					<sp who="#gynea">
 						<speaker>Γυνὴ Α.</speaker>
 						<l>καὶ τουτονγὶ λαβὲ τὸν στέφανον.</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l n="605">τοῦ δεῖ; τί ποθεῖς; χώρει ’ς τὴν ναῦν·</l>
 						<l>ὁ Χάρων σε καλεῖ,</l>
@@ -1874,13 +1874,13 @@ bring up to P3
 				</div2>
 			</div1>
 			<div1 type="Episode">
-				<sp who="#proboulos">
+				<sp who="#proboylos">
 					<speaker>Πρόβουλος</speaker>
 					<l>εἶτ’ οὐχὶ ταῦτα δεινὰ πάσχειν ἔστ’ ἐμέ;</l>
 					<l>νὴ τὸν Δί’ ἀλλὰ τοῖς προβούλοις ἄντικρυς</l>
 					<l n="610">ἐμαυτὸν ἐπιδείξω βαδίζων ὡς ἔχω.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>μῶν ἐγκαλεῖς ὅτι οὐχὶ προὐθέμεσθά σε;</l>
 					<l>ἀλλ’ ἐς τρίτην γοῦν ἡμέραν σοὶ πρὼ| πάνυ</l>
@@ -1890,7 +1890,7 @@ bring up to P3
 			</div1>
 			<div1 type="Choral">
 				<div2 type="trochees">
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>οὐκέτ’ ἔργον ἐγκαθεύδειν ὅστις ἔστ’ ἐλεύθερος,</l>
 						<l n="615">ἀλλ’ ἐπαποδυώμεθ’ ἄνδρες τουτῳὶ τῷ πράγματι.</l>
@@ -1898,7 +1898,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="strophe">
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>πραγμάτων μοι δοκεῖ,</l>
 						<l>καὶ μάλιστ’ ὀσφραίνομαι τῆς Ἱππίου τυραννίδος·</l>
@@ -1911,7 +1911,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="trochees">
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>δεινὰ γάρ τοι τάσδε γ’ ἤδη τοὺς πολίτας νουθετεῖν,</l>
 						<l>καὶ λαλεῖν γυναῖκας οὔσας ἀσπίδος χαλκῆς πέρι,</l>
@@ -1927,7 +1927,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l>οὐκ ἄρ’ εἰσιόντα σ’ οἴκαδ’ ἡ τεκοῦσα γνώσεται.</l>
 						<l>ἀλλὰ θώμεσθ’ ὦ φίλαι γρᾶες ταδί πρῶτον χαμαί.</l>
@@ -1943,7 +1943,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="trochees">
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l>ἆρα προὐφείλω τι χρηστὸν τῇ πόλει παραινέσαι;</l>
 						<l>εἰ δ’ ἐγὼ γυνὴ πέφυκα, τοῦτο μὴ φθονεῖτέ μοι,</l>
@@ -1959,7 +1959,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="2" type="strophe">
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>ταῦτ’ οὖν οὐχ ὕβρις τὰ πράγματ’ ἐστὶ</l>
 						<l n="660">πολλή; κἀπιδώσειν μοι δοκεῖ τὸ χρῆμα μᾶλλον.</l>
@@ -1973,7 +1973,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="trochees">
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>εἰ γὰρ ἐνδώσει τις ἡμῶν ταῖσδε κἂν σμικρὰν λαβήν,</l>
 						<l>οὐδὲν ἐλλείψουσιν αὗται λιπαροῦς χειρουργίας,</l>
@@ -1989,7 +1989,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="2" type="antistrophe">
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l>εἰ νὴ τὼ θεώ με ζωπυρήσεις,</l>
 						<l>λύσω τὴν ἐμαυτῆς ὗν ἐγὼ δή, καὶ ποιήσω</l>
@@ -2004,7 +2004,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="trochees">
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l>οὐ γὰρ ὑμῶν φροντίσαιμ’ ἄν, ἢν ἐμοὶ ζῇ Λαμπιτὼ</l>
 						<l>ἥ τε Θηβαία φίλη παῖς εὐγενὴς Ἰσμηνία.</l>
@@ -2021,45 +2021,45 @@ bring up to P3
 				</div2>
 			</div1>
 			<div1 type="Episode">
-				<sp who="#xorosgunaikwn">
+				<sp who="#xorosgynaikon">
 					<speaker>Χορὸς Γυναικῶν</speaker>
 					<l>ἄνασσα πράγους τοῦδε καὶ βουλεύματος,</l>
 					<l>τί μοι σκυθρωπὸς ἐξελήλυθας δόμων;</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>κακῶν γυναικῶν ἔργα καὶ θήλεια φρὴν</l>
 					<l>ποιεῖ μ’ ἄθυμον περιπατεῖν τ’ ἄνω κάτω.</l>
 				</sp>
-				<sp who="#xorosgunaikwn">
+				<sp who="#xorosgynaikon">
 					<speaker>Χορὸς Γυναικῶν</speaker>
 					<l n="710">τί φῄς; τί φῄς;</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>ἀληθῆ, ἀληθῆ.</l>
 				</sp>
-				<sp who="#xorosgunaikwn">
+				<sp who="#xorosgynaikon">
 					<speaker>Χορὸς Γυναικῶν</speaker>
 					<l>τί δ’ ἐστὶ δεινόν; φράζε ταῖς σαυτῆς φίλαις.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>ἀλλ’ αἰσχρὸν εἰπεῖν καὶ σιωπῆσαι βαρύ.</l>
 				</sp>
-				<sp who="#xorosgunaikwn">
+				<sp who="#xorosgynaikon">
 					<speaker>Χορὸς Γυναικῶν</speaker>
 					<l>μή νύν με κρύψῃς ὅ τι πεπόνθαμεν κακόν.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l n="715">βινητιῶμεν, ᾗ βράχιστον τοῦ λόγου.</l>
 				</sp>
-				<sp who="#xorosgunaikwn">
+				<sp who="#xorosgynaikon">
 					<speaker>Χορὸς Γυναικῶν</speaker>
 					<l>ἰὼ Ζεῦ.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>τί Ζῆν’ ἀυτεῖς; ταῦτα δ’ οὖν οὕτως ἔχει.</l>
 					<l>ἐγὼ μὲν οὖν αὐτὰς ἀποσχεῖν οὐκέτι</l>
@@ -2074,125 +2074,125 @@ bring up to P3
 					<l>ἕλκουσιν. ἤδη γοῦν τις αὐτῶν ἔρχεται.</l>
 					<l>αὕτη σὺ ποῖ θεῖς;</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α.</speaker>
 					<l part="Y">οἴκαδ’ ἐλθεῖν βούλομαι.</l>
 					<l>οἴκοι γάρ ἐστιν ἔριά μοι Μιλήσια</l>
 					<l n="730">ὑπὸ τῶν σέων κατακοπτόμενα.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l part="Y">ποίων σέων;</l>
 					<l>οὐκ εἶ πάλιν;</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α.</speaker>
 					<l part="Y">ἀλλ’ ἥξω ταχέως νὴ τὼ θεὼ</l>
 					<l>ὅσον διαπετάσασ’ ἐπὶ τῆς κλίνης μόνον.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>μὴ διαπετάννυ, μηδ’ ἀπέλθῃς μηδαμῇ.</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α.</speaker>
 					<l>ἀλλ’ ἐῶ ’πολέσθαι τἄρῑ;</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l part="Y">ἢν τούτου δέῃ.</l>
 				</sp>
-				<sp who="#gunhb">
+				<sp who="#gyneb">
 					<speaker>Γυνὴ Β.</speaker>
 					<l n="735">τάλαιν’ ἐγώ, τάλαινα τῆς Ἀμοργίδος,</l>
 					<l>ἣν ἄλοπον οἴκοι καταλέλοιφ’.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l part="Y">αὕθἠτέρα</l>
 					<l>ἐπὶ τὴν Ἄμοργιν τὴν ἄλοπον ἐξέρχεται.</l>
 					<l>χώρει πάλιν δεῦρ’.</l>
 				</sp>
-				<sp who="#gunhb">
+				<sp who="#gyneb">
 					<speaker>Γυνὴ Β.</speaker>
 					<l part="Y">ἀλλὰ νὴ τὴν Φωσφόρον</l>
 					<l>ἔγωγ’ ἀποδείρασ’ αὐτίκα μάλ’ ἀνέρχομαι.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l n="740">μή μἀποδείρῃς. ἢν γὰρ ἄρξῃς τοῦτο σύ,</l>
 					<l>ἑτέρα γυνὴ ταὐτὸν ποιεῖν βουλήσεται.</l>
 				</sp>
-				<sp who="#gunhg">
+				<sp who="#gyneg">
 					<speaker>Γυνὴ Γ</speaker>
 					<l>ὦ πότνῑ Εἰλείθυῑ ἐπίσχες τοῦ τόκου,</l>
 					<l>ἕως ἂν εἰς ὅσιον μόλω ’γὼ χωρίον.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>τί ταῦτα ληρεῖς;</l>
 				</sp>
-				<sp who="#gunhg">
+				<sp who="#gyneg">
 					<speaker>Γυνὴ Γ</speaker>
 					<l part="Y">αὐτίκα μάλα τέξομαι.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l n="745">ἀλλ’ οὐκ ἐκύεις σύ γ’ ἐχθές.</l>
 				</sp>
-				<sp who="#gunhg">
+				<sp who="#gyneg">
 					<speaker>Γυνὴ Γ</speaker>
 					<l part="Y">ἀλλὰ τήμερον.</l>
 					<l>ἀλλ’ οἴκαδέ μ’ ὡς τὴν μαῖαν ὦ Λυσιστράτη</l>
 					<l>ἀπόπεμψον ὡς τάχιστα.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l part="Y">τίνα λόγον λέγεις;</l>
 					<l>τί τοῦτ’ ἔχεις τὸ σκληρόν;</l>
 				</sp>
-				<sp who="#gunhg">
+				<sp who="#gyneg">
 					<speaker>Γυνὴ Γ</speaker>
 					<l part="Y">ἄρρεν παιδίον.</l>
 					<milestone ed="p" n="749" unit="card"/>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>μὰ τὴν Ἀφροδίτην οὐ σύ γ’, ἀλλ’ ἢ χαλκίον</l>
 					<l n="750">ἔχειν τι φαίνει κοῖλον· εἴσομαι δ’ ἐγώ.</l>
 					<l>ὦ καταγέλαστ’ ἔχουσα τὴν ἱερὰν κυνῆν</l>
 					<l>κυεῖν ἔφασκες;</l>
 				</sp>
-				<sp who="#gunhg">
+				<sp who="#gyneg">
 					<speaker>Γυνὴ Γ</speaker>
 					<l part="Y">καὶ κυῶ γε νὴ Δία.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>τί δῆτα ταύτην εἶχες;</l>
 				</sp>
-				<sp who="#gunhg">
+				<sp who="#gyneg">
 					<speaker>Γυνὴ Γ</speaker>
 					<l part="Y">ἵνα μ’ εἰ καταλάβοι</l>
 					<l>ὁ τόκος ἔτ’ ἐν πόλει, τέκοιμ’ ἐς τὴν κυνῆν</l>
 					<l n="755">ἐσβᾶσα ταύτην, ὥσπερ αἱ περιστεραί.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>τί λέγεις; προφασίζει· περιφανῆ τὰ πράγματα.</l>
 					<l>οὐ τἀμφιδρόμια τῆς κυνῆς αὐτοῦ μενεῖς;</l>
 				</sp>
-				<sp who="#gunhg">
+				<sp who="#gyneg">
 					<speaker>Γυνὴ Γ</speaker>
 					<l>ἀλλ’ οὐ δύναμαι ’γωγ’ οὐδὲ κοιμᾶσθ’ ἐν πόλει,</l>
 					<l>ἐξ οὗ τὸν ὄφιν εἶδον τὸν οἰκουρόν ποτε.</l>
 				</sp>
-				<sp who="#gunhd">
+				<sp who="#gyned">
 					<speaker>Γυνὴ Δ</speaker>
 					<l n="760">ἐγὼ δ’ ὑπὸ τῶν γλαυκῶν γε τάλαιν’ ἀπόλλυμαι</l>
 					<l>ταῖς ἀγρυπνίαισι κακκαβαζουσῶν ἀεί.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>ὦ δαιμόνιαι παύσασθε τῶν τερατευμάτων.</l>
 					<l>ποθεῖτ’ ἴσως τοὺς ἄνδρας· ἡμᾶς δ’ οὐκ οἴει</l>
@@ -2202,11 +2202,11 @@ bring up to P3
 					<l>ὡς χρησμὸς ἡμῖν ἐστιν ἐπικρατεῖν, ἐὰν</l>
 					<l>μὴ στασιάσωμεν· ἔστι δ’ ὁ χρησμὸς οὑτοσί.</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l>λέγ’ αὐτὸν ἡμῖν ὅ τι λέγει.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l part="Y">σιγᾶτε δή.</l>
 					<l n="770">ἀλλ’ ὁπόταν πτήξωσι χελιδόνες εἰς ἕνα χῶρον,</l>
@@ -2214,21 +2214,21 @@ bring up to P3
 					<l>παῦλα κακῶν ἔσται, τὰ δ’ ὑπέρτερα νέρτερα θήσει</l>
 					<l>Ζεὺς ὑψιβρεμέτης—</l>
 				</sp>
-				<sp who="#gunhb">
+				<sp who="#gyneb">
 					<speaker>Γυνὴ Β</speaker>
 					<l part="Y">ἐπάνω κατακεισόμεθ’ ἡμεῖς;</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>ἢν δὲ διαστῶσιν καὶ ἀναπτῶνται πτερύγεσσιν</l>
 					<l n="775">ἐξ ἱεροῦ ναοῖο χελιδόνες, οὐκέτι δόξει</l>
 					<l>ὄρνεον οὐδ’ ὁτιοῦν καταπυγωνέστερον εἶναι.</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l>σαφής γ’ ὁ χρησμὸς νὴ  Δί’.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l part="Y">ὦ πάντες θεοί,</l>
 					<l>μή νυν ἀπείπωμεν ταλαιπωρούμεναι,</l>
@@ -2239,7 +2239,7 @@ bring up to P3
 			</div1>
 			<div1 type="Lyric-Scene">
 				<div2 n="1" type="strophe">
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>μῦθον βούλομαι λέξαι τιν’ ὑμῖν, ὅν ποτ’ ἤκουσ’</l>
 						<l>αὐτὸς ἔτι παῖς ὤν.</l>
@@ -2254,23 +2254,23 @@ bring up to P3
 						<l n="795">’κεῖνος, ἡμεῖς τ’ οὐδὲν ἧττον</l>
 						<l>τοῦ Μελανίωνος οἱ σώφρονες.</l>
 					</sp>
-					<sp who="#gerwn">
+					<sp who="#geron">
 						<speaker>Γέρων</speaker>
 						<l>βούλομαί σε γραῦ κύσαι—</l>
 					</sp>
-					<sp who="#gunh">
+					<sp who="#gyne">
 						<speaker>Γυνή</speaker>
 						<l>κρόμμυόν τἄρ’ οὐκ ἔδει.</l>
 					</sp>
-					<sp who="#gerwn">
+					<sp who="#geron">
 						<speaker>Γέρων</speaker>
 						<l>κἀνατείνας λακτίσαι.</l>
 					</sp>
-					<sp who="#gunh">
+					<sp who="#gyne">
 						<speaker>Γυνή</speaker>
 						<l n="800">τὴν λόχμην πολλὴν φορεῖς.</l>
 					</sp>
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>καὶ Μυρωνίδης γὰρ ἦν</l>
 						<l>τραχὺς ἐντεῦθεν μελάμπυγός</l>
@@ -2280,7 +2280,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="2" type="antistrophe">
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l n="805">κἀγὼ βούλομαι μῦθόν τιν’ ὑμῖν ἀντιλέξαι</l>
 						<l>τῷ Μελανίωνι.</l>
@@ -2297,23 +2297,23 @@ bring up to P3
 						<l>τοὺς πονηροὺς ἄνδρας ἀεί,</l>
 						<l n="820">ταῖσι δὲ γυναιξὶν ἦν φίλτατος.</l>
 					</sp>
-					<sp who="#gunh">
+					<sp who="#gyne">
 						<speaker>Γυνή</speaker>
 						<l>τὴν γνάθον βούλει θένω;</l>
 					</sp>
-					<sp who="#gerwn">
+					<sp who="#geron">
 						<speaker>Γέρων</speaker>
 						<l>μηδαμῶς· †ἔδεισά γε.†</l>
 					</sp>
-					<sp who="#gunh">
+					<sp who="#gyne">
 						<speaker>Γυνή</speaker>
 						<l>ἀλλὰ κρούσω τῷ σκέλει;</l>
 					</sp>
-					<sp who="#gerwn">
+					<sp who="#geron">
 						<speaker>Γέρων</speaker>
 						<l>τὸν σάκανδρον ἐκφανεῖς.</l>
 					</sp>
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l n="825">ἀλλ’ ὅμως ἂν οὐκ ἴδοις</l>
 						<l>καίπερ οὔσης γραὸς ὄντ’ αὐτὸν</l>
@@ -2324,105 +2324,105 @@ bring up to P3
 				</div2>
 			</div1>
 			<div1 type="Lyric-Scene">
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>ἰοὺ ἰοὺ γυναῖκες ἴτε δεῦρ’ ὡς ἐμὲ</l>
 					<l n="830">ταχέως.</l>
 				</sp>
-				<sp who="#gunh">
+				<sp who="#gyne">
 					<speaker>Γυνή</speaker>
 					<l part="Y">τί δ’ ἔστιν; εἰπέ μοι τίς ἡ βοή;</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>ἄνδρ’ &lt;ἄνδρ’&gt; ὁρῶ προσιόντα παραπεπληγμένον,</l>
 					<l>τοῖς τῆς Ἀφροδίτης ὀργίοις εἰλημμένον.</l>
 					<l>ὦ πότνια Κύπρου καὶ Κυθήρων καὶ Πάφου</l>
 					<l>μεδέουσ’, ἴθ’ ὀρθὴν ἥνπερ ἔρχι τὴν ὁδόν.</l>
 				</sp>
-				<sp who="#gunh">
+				<sp who="#gyne">
 					<speaker>Γυνή</speaker>
 					<l n="835">ποῦ δ’ ἐστὶν ὅστις ἐστί;</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l part="Y">παρὰ τὸ τῆς Χλόης.</l>
 				</sp>
-				<sp who="#gunh">
+				<sp who="#gyne">
 					<speaker>Γυνὴ</speaker>
 					<l>ὢ νὴ Δί’ ἔστι δῆτα. τίς κἀστίν ποτε;</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>ὁρᾶτε· γιγνώσκει τις ὑμῶν;</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l part="Y">νὴ Δία</l>
 					<l>ἔγωγε· κἀστὶν οὑμὸς ἀνὴρ Κινησίας.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>σὸν ἔργον ἤδη τοῦτον ὀπτᾶν καὶ στρέφειν</l>
 					<l n="840">κἀξηπεροπεύειν καὶ φιλεῖν καὶ μὴ φιλεῖν,</l>
 					<l>καὶ πάνθ’ ὑπέχειν πλὴν ὧν σύνοιδεν ἡ κύλιξ.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l>ἀμέλει ποιήσω ταῦτ’ ἐγώ.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l part="Y">καὶ μὴν ἐγὼ</l>
 					<l>ξυνηπεροπεύσω &lt;σοι&gt; παραμένουσ’ ἐνθαδί,</l>
 					<l>καὶ ξυσταθεύσω τοῦτον. ἀλλ’ ἀπέλθετε.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l n="845">οἴμοι κακοδαίμων, οἷος ὁ σπασμός μ’ ἔχει</l>
 					<l>χὠ τέτανος ὥσπερ ἐπὶ τροχοῦ στρεβλούμενον.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>τίς οὗτος οὑντὸς τῶν φυλάκων ἑστώς;</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l part="Y">ἐγώ.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>ἀνήρ;</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l part="Y">ἀνὴρ δῆτ’.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l part="Y">οὐκ ἄπει δῆτ’ ἐκποδών;</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l>σὺ δ’ εἶ τίς ἡκβάλλουσά μ’;</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l part="Y">ἡμεροσκόπος.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l n="850">πρὸς τῶν θεῶν νυν ἐκκάλεσόν μοι Μυρρίνην.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>ἰδοὺ καλέσω ’γὼ Μυρρίνην σοι; σὺ δὲ τίς εἶ;</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l>ἀνὴρ ἐκείνης, Παιονίδης Κινησίας.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>ὦ χαῖρε φίλτατ’· οὐ γὰρ ἀκλεὲς τοὔνομ</l>
 					<l>τὸ σὸν παρ’ ἡμῖν ἐστιν οὐδ’ ἀνώνυμον.</l>
@@ -2430,34 +2430,34 @@ bring up to P3
 					<l>κἂν ᾠὸν ἢ μῆλον λάβῃ, ‘Κινησίᾳ</l>
 					<l>τουτὶ γένοιτο,’ φησίν.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l part="Y">ὢ πρὸς τῶν θεῶν.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>νὴ τὴν Ἀφροδίτην· κἂν περὶ ἀνδρῶν γ’ ἐμπέσῃ</l>
 					<l>λόγος τις, εἴρηκ’ εὐθέως ἡ σὴ γυνὴ</l>
 					<l n="860">ὅτι λῆρός ἐστι τἄλλα πρὸς Κινησίαν.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l>ἴθι νυν κάλεσον αὐτήν.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l part="Y">τί οὖν; δώσεις τί μοι;</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l>ἔγωγέ &lt;σοι&gt; νὴ τὸν Δί’, ἢν βούλῃ γε σύ·</l>
 					<l>ἔχω δὲ τοῦθ’· ὅπερ οὖν ἔχω, δίδωμί σοι.</l>
 				</sp>
-				<sp who="#lusistrath">
+				<sp who="#lysistrate">
 					<speaker>Λυσιστράτη</speaker>
 					<l>φέρε νυν καλέσω καταβᾶσά σοι.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l part="Y">ταχύ νυν πάνυ.</l>
 					<l n="865">ὡς οὐδεμίαν ἔχω γε τῷ βίῳ χάριν,</l>
@@ -2467,331 +2467,331 @@ bring up to P3
 					<l>χάριν οὐδεμίαν οἶδ’ ἐσθίων· ἔστυκα γάρ.</l>
 					<milestone ed="p" n="870" unit="card"/>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l n="870">φιλῶ φιλῶ ’γὼ τοῦτον· ἀλλ’ οὐ βούλεται</l>
 					<l>ὑπ’ ἐμοῦ φιλεῖσθαι. σὺ δ’ ἐμὲ τούτῳ μὴ κάλει.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l>ὦ γλυκύτατον Μυρρινίδιον τί ταῦτα δρᾷς;</l>
 					<l>κατάβηθι δεῦρο.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l part="Y">μὰ Δί’ ἐγὼ μὲν αὐτόσ’ οὔ.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l>ἐμοῦ καλοῦντος οὐ καταβήσει Μυρρίνη;</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l n="875">οὐ γὰρ δεόμενος οὐδὲν ἐκκαλεῖς ἐμέ.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l>ἐγὼ οὐ δεόμενος; ἐπιτετριμμένος μὲν οὖν.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l>ἄπειμι.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l part="Y">μὴ δῆτ’, ἀλλὰ τῷ γοῦν παιδίῳ</l>
 					<l>ὑπάκουσον· οὗτος οὐ καλεῖς τὴν μαμμίαν;</l>
 				</sp>
-				<sp who="#paiskinhsiou">
+				<sp who="#paiskinesioy">
 					<speaker>Παῖς Κινησίου</speaker>
 					<l>μαμμία, μαμμία, μαμμία.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l n="880">αὕτη τί πάσχεις; οὐδ’ ἐλεεῖς τὸ παιδίον</l>
 					<l>ἄλουτον ὂν κἄθηλον ἕκτην ἡμέραν;</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l>ἔγωγ’ ἐλεῶ δῆτ’· ἀλλ’ ἀμελὴς αὐτῷ πατὴρ</l>
 					<l>ἔστιν.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l part="Y">κατάβηθ’ ὦ δαιμονία τῷ παιδίῳ.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l>οἷον τὸ τεκεῖν· καταβατέον. τί γὰρ πάθω;</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l n="885">ἐμοὶ γὰρ αὕτη καὶ νεωτέρα δοκεῖ</l>
 					<l>πολλῷ γεγενῆσθαι κἀγανώτερον βλέπειν·</l>
 					<l>χἂ δυσκολαίνει πρὸς ἐμὲ καὶ βρενθύεται,</l>
 					<l>ταῦτ’ αὐτὰ δή ’σθ’ ἃ κἄμ’ ἐπιτρίβει τῷ πόθῳ.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l>ὦ γλυκύτατον σὺ τεκνίδιον κακοῦ πατρός,</l>
 					<l n="890">φέρε σε φιλήσω γλυκύτατον τῇ μαμμίᾳ.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l>τί ὦ πονήρα ταῦτα ποιεῖς χἀτέραις</l>
 					<l>πείθει γυναιξί, κἀμέ τ’ ἄχθεσθαι ποιεῖς</l>
 					<l>αὐτή τε λυπεῖ;</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l part="Y">μὴ πρόσαγε τὴν χεῖρά μοι.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l>τὰ δ’ ἔνδον ὄντα τἀμὰ καὶ σὰ χρήματα</l>
 					<l n="895">χεῖρον διατίθης.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l part="Y">ὀλίγον αὐτῶν μοι μέλει.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l>ὀλίγον μέλει σοι τῆς κρόκης φορουμένης</l>
 					<l>ὑπὸ τῶν ἀλεκτρυόνων;</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l part="Y">ἔμοιγε νὴ Δία.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l>τὰ &lt;δὲ&gt; τῆς Ἀφροδίτης ἱέρ’ ἀνοργίαστά σοι</l>
 					<l>χρόνον τοσοῦτόν ἐστιν. οὐ βαδιεῖ πάλιν;</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l n="900">μὰ Δί’ οὐκ ἔγωγ’, ἢν μὴ διαλλαχθῆτέ γε</l>
 					<l>καὶ τοῦ πολέμου παύσησθε.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l part="Y">τοιγάρ, ἢν δοκῇ,</l>
 					<l>ποιήσομεν καὶ ταῦτα.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l part="Y">τοιγάρ, ἢν δοκῇ,</l>
 					<l>κἄγωγ’ ἄπειμ’ ἐκεῖσε· νῦν δ’ ἀπομώμοκα.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l>σὺ δ’ ἀλλὰ κατακλίνηθι μετ’ ἐμοῦ διὰ χρόνου.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l n="905">οὐ δῆτα· καίτοι σ’ οὐκ ἐρῶ γ’ ὡς οὐ φιλῶ.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l>φιλεῖς; τί οὖν οὐ κατεκλίνης ὦ Μύρριον;</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l>ὦ καταγέλαστ’ ἐναντίον τοῦ παιδίου;</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l>μὰ Δί’ ἀλλὰ τοῦτό γ’ οἴκαδ’ ὦ Μανῆ φέρε.</l>
 					<l>ἰδοὺ τὸ μέν σοι παιδίον καὶ δὴ ’κποδών,</l>
 					<l n="910">σὺ δ’ οὐ κατακλίνει.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l part="Y">ποῦ γὰρ ἄν τις καὶ τάλαν</l>
 					<l>δράσειε τοῦθ’;</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l part="Y">ὅπου; τὸ τοῦ Πανὸς καλόν.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l>καὶ πῶς ἔθ’ ἁγνὴ δῆτ’ ἂν ἔλθοιμ’ ἐς πόλιν;</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l>κάλλιστα δήπου λουσαμένη τῇ Κλεψύδρᾳ.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l>ἔπειτ’ ὀμόσασα δῆτ’ ἐπιορκήσω τάλαν;</l>
 					<milestone ed="p" n="915" unit="card"/>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l n="915">εἰς ἐμὲ τράποιτο· μηδὲν ὅρκου φροντίσῃς.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l>φέρε νυν ἐνέγκω κλινίδιον νῷν.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l part="Y">μηδαμῶς.</l>
 					<l>ἀρκεῖ χαμαὶ νῷν.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l part="Y">μὰ τὸν Ἀπόλλω μή σ’ ἐγὼ</l>
 					<l>καίπερ τοιοῦτον ὄντα κατακλινῶ χαμαί.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l>ἥ τοι γυνὴ φιλεῖ με, δήλη ’στὶν καλῶς.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l n="920">ἰδοὺ κατάκεισ’ ἀνύσας τι, κἀγὼ ’κδύομαι.</l>
 					<l>καίτοι, τὸ δεῖνα, ψίαθός ἐστ’ ἐξοιστέα.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l>ποία ψίαθος; μὴ μοί γε.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l part="Y">νὴ τὴν Ἄρτεμιν,</l>
 					<l>αἰσχρὸν γὰρ ἐπὶ τόνου γε.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l part="Y">δός μοί νυν κύσαι.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l>ἰδού.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l part="Y">παπαιάξ· ἧκέ νυν ταχέως πάνυ.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l n="925">ἰδοὺ ψίαθος· κατάκεισο, καὶ δὴ ’κδύομαι.</l>
 					<l>καίτοι, τὸ δεῖνα, προσκεφάλαιον οὐκ ἔχεις.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l>ἀλλ’ οὐδὲ δέομ’ ἔγωγε.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l part="Y">νὴ Δί’ ἀλλ’ ἐγώ.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l>ἀλλ’ ἢ τὸ πέος τόδ’ Ἡρακλῆς ξενίζεται.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l>ἀνίστασ’, ἀναπήδησον. ἤδη πάντ’ ἔχω.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l n="930">ἅπαντα δῆτα.  δεῦρό νυν ὦ χρύσιον.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l>τὸ στρόφιον ἤδη λύομαι. μέμνησό νυν·</l>
 					<l>μή μ’ ἐξαπατήσῃς τὰ περὶ τῶν διαλλαγῶν.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l>νὴ Δί’ ἀπολοίμην ἆρα.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l part="Y">σισύραν οὐκ ἔχεις.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l>μὰ Δί’ οὐδὲ δέομαί γ’, ἀλλὰ βινεῖν βούλομαι.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l n="935">ἀμέλει ποιήσεις τοῦτο· ταχὺ γὰρ ἔρχομαι.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l>ἅνθρωπος ἐπιτρίψει με διὰ τὰ στρώματα.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l>ἔπαιρε σαυτόν.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l part="Y">ἀλλ’ ἐπῆρται τοῦτό γε.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l>βούλει μυρίσω σε;</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l part="Y">μὰ τὸν Ἀπόλλω μὴ μέ γε.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l>νὴ τὴν Ἀφροδίτην ἤν τε βούλῃ γ’ ἤν τε μή.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l n="940">εἴθ’ ἐκχυθείη τὸ μύρον ὦ Ζεῦ δέσποτα.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l>πρότεινέ νυν τὴν χεῖρα κἀλείφου λαβών.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l>οὐχ ἡδὺ τὸ μύρον μὰ τὸν Ἀπόλλω τουτογί,</l>
 					<l>εἰ μὴ διατριπτικόν γε κοὐκ ὄζον γάμων.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l>τάλαιν’ ἐγὼ τὸ Ῥόδιον ἤνεγκον μύρον.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l n="945">ἀγαθόν· ἔα αὔτ’ ὦ δαιμονία.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l part="Y">ληρεῖς ἔχων.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l>κάκιστ’ ἀπόλοιθ’ ὁ πρῶτος ἑψήσας μύρον.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l>λαβὲ τόνδε τὸν ἀλάβαστον.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l part="Y">ἀλλ’ ἕτερον ἔχω.</l>
 					<l>ἀλλ’ ᾠζυρὰ κατάκεισο καὶ μή μοι φέρε</l>
 					<l>μηδέν.</l>
 				</sp>
-				<sp who="#murrinh">
+				<sp who="#myrrine">
 					<speaker>Μυρρίνη</speaker>
 					<l part="Y">ποιήσω ταῦτα νὴ τὴν Ἄρτεμιν.</l>
 					<l n="950">ὑπολύομαι γοῦν. ἀλλ’ ὅπως ὦ φίλτατε</l>
 					<l>σπονδὰς ποιεῖσθαι ψηφιεῖ.</l>
 				</sp>
-				<sp who="#kinhsias">
+				<sp who="#kinesias">
 					<speaker>Κινησίας</speaker>
 					<l part="Y">βουλεύσομαι.</l>
 					<l>ἀπολώλεκέν με κἀπιτέτριφεν ἡ γυνὴ</l>
@@ -2799,7 +2799,7 @@ bring up to P3
 					<milestone ed="p" n="954" unit="card"/>
 				</sp>
 				<div2 type="lyric">
-					<sp who="#kinhsias">
+					<sp who="#kinesias">
 						<speaker>Κινησίας</speaker>
 						<l>οἴμοι τί πάθω; τίνα βινήσω</l>
 						<l n="955">τῆς καλλίστης πασῶν ψευσθείς;</l>
@@ -2807,7 +2807,7 @@ bring up to P3
 						<l>ποῦ Κυναλώπηξ;</l>
 						<l>μίσθωσόν μοι τὴν τίτθην.</l>
 					</sp>
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>ἐν δεινῷ γ’ ὦ δύστηνε κακῷ</l>
 						<l n="960">τείρει ψυχὴν ἐξαπατηθείς.</l>
@@ -2818,24 +2818,24 @@ bring up to P3
 						<l n="965">κατατεινόμενος</l>
 						<l>καὶ μὴ βινῶν τοὺς ὄρθρους;</l>
 					</sp>
-					<sp who="#kinhsias">
+					<sp who="#kinesias">
 						<speaker>Κινησίας</speaker>
 						<l>ὦ Ζεῦ δεινῶν ἀντισπασμῶν.</l>
 					</sp>
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>ταυτὶ μέντοι νυνί σ’ ἐποίησ’</l>
 						<l>ἡ παμβδελυρὰ καὶ παμμυσαρά.</l>
 					</sp>
-					<sp who="#kinhsias">
+					<sp who="#kinesias">
 						<speaker>Κινησίας</speaker>
 						<l n="970">μὰ Δί’ ἀλλὰ φίλη καὶ παγγλυκερά.</l>
 					</sp>
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>ποία γλυκερά; μιαρὰ μιαρά.</l>
 					</sp>
-					<sp who="#kinhsias">
+					<sp who="#kinesias">
 						<speaker>Κινησίας</speaker>
 						<l>&lt;μιαρὰ&gt; δῆτ’ ὦ Ζεῦ ὦ Ζεῦ·</l>
 						<l>εἴθ’ αὐτὴν ὥσπερ τοὺς θωμοὺς</l>
@@ -2849,83 +2849,83 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="iambics">
-					<sp who="#khruclakedaimoniwn">
+					<sp who="#kerykslakedaimonion">
 						<speaker>Κῆρυξ Λακεδαιμονίων</speaker>
 						<l n="980">πᾷ τᾶν Ἀσανᾶν ἐστιν ἁ γερωχία</l>
 						<l>ἢ τοὶ πρυτάνιες; λῶ τι μυσίξαι νέον.</l>
 					</sp>
-					<sp who="#kinhsias">
+					<sp who="#kinesias">
 						<speaker>Κινησίας</speaker>
 						<l>σὺ δ’ εἶ πότερον ἄνθρωπος ἢ κονίσαλος;</l>
 					</sp>
-					<sp who="#khruclakedaimoniwn">
+					<sp who="#kerykslakedaimonion">
 						<speaker>Κῆρυξ Λακεδαιμονίων</speaker>
 						<l>κᾶρυξ ἐγὼν ὦ κυρσάνιε ναὶ τὼ σιὼ</l>
 						<l>ἔμολον ἀπὸ Σπάρτας περὶ τᾶν διαλλαγᾶν.</l>
 					</sp>
-					<sp who="#kinhsias">
+					<sp who="#kinesias">
 						<speaker>Κινησίας</speaker>
 						<l n="985">κἄπειτα δόρυ δῆθ’ ὑπὸ μάλης ἥκεις ἔχων;</l>
 					</sp>
-					<sp who="#khruclakedaimoniwn">
+					<sp who="#kerykslakedaimonion">
 						<speaker>Κῆρυξ Λακεδαιμονίων</speaker>
 						<l>οὐ τὸν Δί’ οὐκ ἐγών γα.</l>
 					</sp>
-					<sp who="#kinhsias">
+					<sp who="#kinesias">
 						<speaker>Κινησίας</speaker>
 						<l part="Y">ποῖ μεταστρέφει;</l>
 						<l>τί δὴ προβάλλει τὴν χλαμύδ’; ἢ βουβωνιᾷς</l>
 						<l>ὑπὸ τῆς ὁδοῦ;</l>
 					</sp>
-					<sp who="#khruclakedaimoniwn">
+					<sp who="#kerykslakedaimonion">
 						<speaker>Κῆρυξ Λακεδαιμονίων</speaker>
 						<l part="Y">παλαιόρ γα ναὶ τὸν Κάστορα</l>
 						<l>ὥνθρωπος.</l>
 					</sp>
-					<sp who="#kinhsias">
+					<sp who="#kinesias">
 						<speaker>Κινησίας</speaker>
 						<l part="Y">ἀλλ’ ἔστυκας ὦ μιαρώτατε.</l>
 					</sp>
-					<sp who="#khruclakedaimoniwn">
+					<sp who="#kerykslakedaimonion">
 						<speaker>Κῆρυξ Λακεδαιμονίων</speaker>
 						<l n="990">οὐ τὸν Δί’ οὐκ ἐγών γα· μηδ’ αὖ πλαδδίη.</l>
 					</sp>
-					<sp who="#kinhsias">
+					<sp who="#kinesias">
 						<speaker>Κινησίας</speaker>
 						<l>τί δ’ ἐστί σοι τοδί;</l>
 					</sp>
-					<sp who="#khruclakedaimoniwn">
+					<sp who="#kerykslakedaimonion">
 						<speaker>Κῆρυξ Λακεδαιμονίων</speaker>
 						<l part="Y">σκυτάλα Λακωνικά.</l>
 					</sp>
-					<sp who="#kinhsias">
+					<sp who="#kinesias">
 						<speaker>Κινησίας</speaker>
 						<l>εἴπερ γε χαὔτη ’στὶ σκυτάλη Λακωνική.</l>
 						<l>ἀλλ’ ὡς πρὸς εἰδότ’ ἐμὲ σὺ τἀληθῆ λέγε.</l>
 						<l>τί τὰ πράγμαθ’ ὑμῖν ἐστι τἀν Λακεδαίμονι;</l>
 					</sp>
-					<sp who="#khruclakedaimoniwn">
+					<sp who="#kerykslakedaimonion">
 						<speaker>Κῆρυξ Λακεδαιμονίων</speaker>
 						<l n="995">ὀρσὰ Λακεδαίμων πᾶα καὶ τοὶ σύμμαχοι</l>
 						<l>ἅπαντες ἐστύκαντι· Πελλάνας δὲ δεῖ.</l>
 					</sp>
-					<sp who="#kinhsias">
+					<sp who="#kinesias">
 						<speaker>Κινησίας</speaker>
 						<l>ἀπὸ τοῦ δὲ τουτὶ τὸ κακὸν ὑμῖν ἐνέπεσεν;</l>
 						<l>ἀπὸ Πανός;</l>
 					</sp>
-					<sp who="#khruclakedaimoniwn">
+					<sp who="#kerykslakedaimonion">
 						<speaker>Κῆρυξ Λακεδαιμονίων</speaker>
 						<l part="Y">οὔκ, ἀλλ’ ἆρχεν οἰῶ Λαμπιτώ,</l>
 						<l>ἔπειτα τἄλλαι ταὶ κατὰ Σπάρταν ἅμα</l>
 						<l n="1000">γυναῖκες ᾇπερ ἀπὸ μιᾶς ὑσπλαγίδος</l>
 						<l>ἀπήλααν τὼς ἄνδρας ἀπὸ τῶν ὑσσάκων.</l>
 					</sp>
-					<sp who="#kinhsias">
+					<sp who="#kinesias">
 						<speaker>Κινησίας</speaker>
 						<l>πῶς οὖν ἔχετε;</l>
 					</sp>
-					<sp who="#khruclakedaimoniwn">
+					<sp who="#kerykslakedaimonion">
 						<speaker>Κῆρυξ Λακεδαιμονίων</speaker>
 						<l part="Y">μογίομες. ἂν γὰρ τὰν πόλιν</l>
 						<l>ᾇπερ λυχνοφορίοντες ἐπικεκύφαμες.</l>
@@ -2933,7 +2933,7 @@ bring up to P3
 						<l n="1005">ἐῶντι, πρίν γ’ ἅπαντες ἐξ ἑνὸς λόγω</l>
 						<l>σπονδὰς ποιησώμεσθα ποττὰν Ἑλλάδα.</l>
 					</sp>
-					<sp who="#kinhsias">
+					<sp who="#kinesias">
 						<speaker>Κινησίας</speaker>
 						<l>τουτὶ τὸ πρᾶγμα πανταχόθεν ξυνομώμοται</l>
 						<l>ὑπὸ τῶν γυναικῶν· ἄρτι νυνὶ μανθάνω.</l>
@@ -2942,7 +2942,7 @@ bring up to P3
 						<l>ἐγὼ δ’ ἑτέρους ἐνθένδε τῇ βουλῇ φράσω</l>
 						<l>πρέσβεις ἑλέσθαι τὸ πέος ἐπιδείξας τοδί.</l>
 					</sp>
-					<sp who="#khruclakedaimoniwn">
+					<sp who="#kerykslakedaimonion">
 						<speaker>Κῆρυξ Λακεδαιμονίων</speaker>
 						<l>ποτάομαι· κράτιστα γὰρ παντᾷ λέγεις.</l>
 						<milestone ed="p" n="1014" unit="card"/>
@@ -2951,69 +2951,69 @@ bring up to P3
 			</div1>
 			<div1 type="Choral">
 				<div2 type="trochees">
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>οὐδέν ἐστι θηρίον γυναικὸς ἀμαχώτερον,</l>
 						<l n="1015">οὐδὲ πῦρ, οὐδ’ ὧδ’ ἀναιδὴς οὐδεμία πόρδαλις.</l>
 					</sp>
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l>ταῦτα μέντοι &lt;σὺ&gt; ξυνιεὶς εἶτα πολεμεῖς ἐμοί,</l>
 						<l>ἐξὸν ὦ πόνηρε σοὶ βέβαιον ἔμ’ ἔχειν φίλην;</l>
 					</sp>
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>ὡς ἐγὼ μισῶν γυναῖκας οὐδέποτε παύσομαι.</l>
 					</sp>
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l>ἀλλ’ ὅταν βούλῃ σύ· νῦν δ’ οὖν οὔ σε περιόψομαι</l>
 						<l n="1020">γυμνὸν ὄνθ’ οὕτως. ὁρῶ γὰρ ὡς καταγέλαστος εἶ.</l>
 						<l>ἀλλὰ τὴν ἐξωμίδ’ ἐνδύσω σε προσιοῦσ’ ἐγώ.</l>
 					</sp>
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>τοῦτο μὲν μὰ τὸν Δί’ οὐ πονηρὸν ἐποιήσατε·</l>
 						<l>ἀλλ’ ὑπ’ ὀργῆς γὰρ πονηρᾶς καὶ τότ’ ἀπέδυν ἐγώ.</l>
 					</sp>
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l>πρῶτα μὲν φαίνει γ’ ἀνήρ, εἶτ’ οὐ καταγέλαστος εἶ.</l>
 						<l n="1025">κεἴ με μὴ ’λύπεις, ἐγώ σου κἂν τόδε τὸ θηρίον</l>
 						<l>τοὐπὶ τὠφθαλμῷ λαβοῦσ’ ἐξεῖλον ἂν ὃ νῦν ἔνι.</l>
 					</sp>
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>τοῦτ’ ἄρ’ ἦν με τοὐπιτρῖβον, δακτύλιος οὑτοσί·</l>
 						<l>ἐκσκάλευσον αὐτό, κᾆτα δεῖξον ἀφελοῦσά μοι·</l>
 						<l>ὡς τὸν ὀφθαλμόν γέ μου νὴ τὸν Δία πάλαι δάκνει.</l>
 					</sp>
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l n="1030">ἀλλὰ δράσω ταῦτα· καίτοι δύσκολος ἔφυς ἀνήρ.</l>
 						<l>ἦ μέγ’ ὦ Ζεῦ χρῆμ’ ἰδεῖν τῆς ἐμπίδος ἔνεστί σοι.</l>
 						<l>οὐχ ὁρᾷς; οὐκ ἐμπίς ἐστιν ἥδε Τρικορυσία;</l>
 					</sp>
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>νὴ Δί’ ὤνησάς γέ μ’, ὡς πάλαι γέ μ’ ἐφρεωρύχει,</l>
 						<l>ὥστ’ ἐπειδὴ ’ξῃρέθη, ῥεῖ μου τὸ δάκρυον πολύ.</l>
 					</sp>
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l n="1035">ἀλλ’ ἀποψήσω σ’ ἐγώ, καίτοι πάνυ πονηρὸς εἶ,</l>
 						<l>καὶ φιλήσω.</l>
 					</sp>
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l part="Y">μὴ φιλήσῃς.</l>
 					</sp>
-					<sp who="#xorosgunaikwn">
+					<sp who="#xorosgynaikon">
 						<speaker>Χορὸς Γυναικῶν</speaker>
 						<l part="Y">ἤν τε</l>
 						<l>βούλῃ γ’ ἤν τε μή.</l>
 					</sp>
-					<sp who="#xorosgerontwn">
+					<sp who="#xorosgeronton">
 						<speaker>Χορὸς Γερόντων</speaker>
 						<l>ἀλλὰ μὴ ὥρασ’ ἵκοισθ’· ὡς ἐστὲ θωπικαὶ φύσει,</l>
 						<l>κἄστ’ ἐκεῖνο τοὔπος ὀρθῶς κοὐ κακῶς εἰρημένον,</l>
@@ -3075,7 +3075,7 @@ bring up to P3
 						<l>ἄνδρες Λάκωνες πρῶτα μέν μοι χαίρετε,</l>
 						<l n="1075">εἶτ’ εἴπαθ’ ἡμῖν πῶς ἔχοντες ἥκετε.</l>
 					</sp>
-					<sp who="#lakwn">
+					<sp who="#lakon">
 						<speaker>Λάκων</speaker>
 						<l>τί δεῖ ποθ’ ὑμὲ πολλὰ μυσίδδειν ἔπη;</l>
 						<l>ὁρῆν γὰρ ἔξεσθ’ ὡς ἔχοντες ἵκομες.</l>
@@ -3085,7 +3085,7 @@ bring up to P3
 						<l>βαβαί· νενεύρωται μὲν ἥδε συμφορὰ</l>
 						<l>δεινῶς, †τεθερμῶσθαί γε† χεῖρον φαίνεται.</l>
 					</sp>
-					<sp who="#lakwn">
+					<sp who="#lakon">
 						<speaker>Λάκων</speaker>
 						<l n="1080">ἄφατα. τί κα λέγοι τις; ἀλλ’ ὅπᾳ σέλει</l>
 						<l>παντᾷ τις ἐλσὼν ἁμὶν εἰράναν σέτω.</l>
@@ -3097,7 +3097,7 @@ bring up to P3
 						<l>θαἰμάτῑ ἀποστέλλοντας· ὥστε φαίνεται</l>
 						<l n="1085">ἀσκητικὸν τὸ χρῆμα τοῦ νοσήματος.</l>
 					</sp>
-					<sp who="#aqhnaios">
+					<sp who="#athenaios">
 						<speaker>Ἀθηναῖος</speaker>
 						<l>τίς ἂν φράσεις ποῦ’ στιν ἡ Λυσιστράτη;</l>
 						<l>ὡς ἄνδρες ἡμεῖς οὑτοιὶ τοιουτοιί.</l>
@@ -3107,7 +3107,7 @@ bring up to P3
 						<l>χαὔτη ξυνᾴδει χἠτέρα ταύτῃ νόσῳ.</l>
 						<l>ἦ που πρὸς ὄρθρον σπασμὸς ὑμᾶς λαμβάνει;</l>
 					</sp>
-					<sp who="#aqhnaios">
+					<sp who="#athenaios">
 						<speaker>Ἀθηναῖος</speaker>
 						<l n="1090">μὰ Δί’ ἀλλὰ ταυτὶ δρῶντες ἐπιτετρίμμεθα.</l>
 						<l>ὥστ’ εἴ τις ἡμᾶς μὴ διαλλάξει ταχύ,</l>
@@ -3118,45 +3118,45 @@ bring up to P3
 						<l>εἰ σωφρονεῖτε, θαἰμάτια λήψεσθ’, ὅπως</l>
 						<l>τῶν Ἑρμοκοπιδῶν μή τις ὑμᾶς ὄψεται.</l>
 					</sp>
-					<sp who="#aqhnaios">
+					<sp who="#athenaios">
 						<speaker>Ἀθηναῖος</speaker>
 						<l n="1095">νὴ τὸν Δί’ εὖ μέντοι λέγεις.</l>
 					</sp>
-					<sp who="#lakwn">
+					<sp who="#lakon">
 						<speaker>Λάκων</speaker>
 						<l part="Y">ναὶ τὼ σιὼ</l>
 						<l>παντᾷ γα. φέρε τὸ ἔσθος ἀμβαλώμεθα.</l>
 					</sp>
-					<sp who="#aqhnaios">
+					<sp who="#athenaios">
 						<speaker>Ἀθηναῖος</speaker>
 						<l>ὢ χαίρετ’ ὦ Λάκωνες· αἰσχρά γ’ ἐπάθομεν.</l>
 					</sp>
-					<sp who="#lakwn">
+					<sp who="#lakon">
 						<speaker>Λάκων</speaker>
 						<l>ὦ Πολυχαρείδα δεινά κ’ αὖ ’πεπόνθεμες,</l>
 						<l>αἰ εἶδον ἁμὲ τὤνδρες ἀμπεφλασμένως.</l>
 					</sp>
-					<sp who="#aqhnaios">
+					<sp who="#athenaios">
 						<speaker>Ἀθηναῖος</speaker>
 						<l n="1100">ἄγε δὴ Λάκωνες αὔθ’ ἕκαστα χρὴ λέγειν.</l>
 						<l>ἐπὶ τί πάρεστε δεῦρο;</l>
 					</sp>
-					<sp who="#lakwn">
+					<sp who="#lakon">
 						<speaker>Λάκων</speaker>
 						<l part="Y">περὶ διαλλαγᾶν</l>
 						<l>πρέσβεις.</l>
 					</sp>
-					<sp who="#aqhnaios">
+					<sp who="#athenaios">
 						<speaker>Ἀθηναῖος</speaker>
 						<l part="Y">καλῶς δὴ λέγετε· χἠμεῖς τουτογί.</l>
 						<l>τί οὐ καλοῦμεν δῆτα τὴν Λυσιστράην,</l>
 						<l>ἥπερ διαλλάξειεν ἡμᾶς ἂν μόνη;</l>
 					</sp>
-					<sp who="#lakwn">
+					<sp who="#lakon">
 						<speaker>Λάκων</speaker>
 						<l n="1105">ναὶ τὼ σιὼ κἂν λῆτε τὸν Λυσίστρατον.</l>
 					</sp>
-					<sp who="#aqhnaios">
+					<sp who="#athenaios">
 						<speaker>Ἀθηναῖος</speaker>
 						<l>ἀλλ’ οὐδὲν ἡμᾶς, ὡς ἔοικε, δεῖ καλεῖν·</l>
 						<l>αὐτὴ γάρ, ὡς ἤκουσεν, ἥδ’ ἐξέρχεται.</l>
@@ -3171,7 +3171,7 @@ bring up to P3
 						<l>συνεχώρησάν σοι καὶ κοινῇ τἀγκλήματα πάντ’ ἐπέτρεψαν.</l>
 						<milestone ed="p" n="1112" unit="card"/>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l>ἀλλ’ οὐχὶ χαλεπὸν τοὔργον, εἰ λάβοι γέ τις</l>
 						<l>ὀργῶντας ἀλλήλων τε μὴ ’κπειρωμένους.</l>
@@ -3198,11 +3198,11 @@ bring up to P3
 						<l>Ἕλληνας ἄνδρας καὶ πόλεις ἀπόλλυτε.</l>
 						<l n="1135">εἷς μὲν λόγος μοι δεῦρ’ ἀεὶ περαίνεται.</l>
 					</sp>
-					<sp who="#aqhnaios">
+					<sp who="#athenaios">
 						<speaker>Ἀθηναῖος</speaker>
 						<l>ἐγὼ δ’ ἀπόλλυμαί γ’ ἀπεψωλημένος.</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l>εἶτ’ ὦ Λάκωνες, πρὸς γὰρ ὑμᾶς τρέψομαι,</l>
 						<l>οὐκ ἴσθ’ ὅτ’ ἐλθὼν δεῦρο Περικλείδας ποτὲ</l>
@@ -3215,15 +3215,15 @@ bring up to P3
 						<l n="1145">ταυτὶ παθόντες τῶν Ἀθηναίων ὕπο</l>
 						<l>δῃοῦτε χώραν, ἧς ὑπ’ εὖ πεπόνθατε;</l>
 					</sp>
-					<sp who="#aqhnaios">
+					<sp who="#athenaios">
 						<speaker>Ἀθηναῖος</speaker>
 						<l>ἀδικοῦσιν οὗτοι νὴ Δί’ ὦ Λυσιστράτη.</l>
 					</sp>
-					<sp who="#lakwn">
+					<sp who="#lakon">
 						<speaker>Λάκων</speaker>
 						<l>ἀδικίομες· ἀλλ’ ὁ πρωκτὸς ἄφατον ὡς καλός.</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l>ὑμᾶς δ’ ἀφήσειν τοὺς Ἀθηναίους &lt;μ’&gt; οἴει;</l>
 						<l n="1150">οὐκ ἴσθ’ ὅθ’ ὑμᾶς οἱ Λάκωνες αὖθις αὖ</l>
@@ -3235,94 +3235,94 @@ bring up to P3
 						<l>τὸν δῆμον ὑμῶν χλαῖναν ἠμπέσχον πάλιν;</l>
 						<milestone ed="p" n="1157" unit="card"/>
 					</sp>
-					<sp who="#lakwn">
+					<sp who="#lakon">
 						<speaker>Λάκων</speaker>
 						<l>οὔπα γυναῖκ’ ὄπωπα χαϊωτεραν.</l>
 					</sp>
-					<sp who="#aqhnaios">
+					<sp who="#athenaios">
 						<speaker>Ἀθηναῖος</speaker>
 						<l>ἐγὼ δὲ κύσθον γ’ οὐδέπω καλλίονα.</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l>τί δῆθ’ υπηργμένων γε πολλῶν κἀγαθῶν</l>
 						<l n="1160">μάχεσθε κοὐ παύεσθε τῆς μοχθηρίας;</l>
 						<l>τί δ’ οὐ διηλλάγητε; φέρε τί τοὐμποδών;</l>
 					</sp>
-					<sp who="#lakwn">
+					<sp who="#lakon">
 						<speaker>Λάκων</speaker>
 						<l>ἁμές γε λῶμες, αἴ τις ἁμὶν τὤγκυκλον</l>
 						<l>λῇ τοῦτ’ ἀποδόμεν.</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l part="Y">ποῖον ὦ τᾶν;</l>
 					</sp>
-					<sp who="#lakwn">
+					<sp who="#lakon">
 						<speaker>Λάκων</speaker>
 						<l part="Y">τὰν Πύλον,</l>
 						<l>ἇσπερ πάλαι δεόμεθα καὶ βλιμάττομες.</l>
 					</sp>
-					<sp who="#aqhnaios">
+					<sp who="#athenaios">
 						<speaker>Ἀθηναῖος</speaker>
 						<l n="1165">μὰ τὸν Ποσειδῶ τοῦτο μέν γ’ οὐ δράσετε.</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l>ἄφετ’ ὦγάθ’ αὐτοῖς.</l>
 					</sp>
-					<sp who="#aqhnaios">
+					<sp who="#athenaios">
 						<speaker>Ἀθηναῖος</speaker>
 						<l part="Y">κᾆτα τίνα κινήσομεν;</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l>ἕτερόν γ’ ἀπαιτεῖτ’ ἀντὶ τούτου χωρίον.</l>
 					</sp>
-					<sp who="#aqhnaios">
+					<sp who="#athenaios">
 						<speaker>Ἀθηναῖος</speaker>
 						<l>τὸ δεῖνα τοίνυν παράδοθ’ ἡμῖν τουτονὶ</l>
 						<l>πρώτιστα τὸν Ἐχινοῦντα καὶ τὸν Μηλιᾶ</l>
 						<l n="1170">κόλπον τὸν ὄπισθεν καὶ τὰ Μεγαρικὰ σκέλη.</l>
 					</sp>
-					<sp who="#lakwn">
+					<sp who="#lakon">
 						<speaker>Λάκων</speaker>
 						<l>οὐ τὼ σιὼ οὐχὶ πάντα γ’ ὦ λισσάνιε.</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l>ἐᾶτε, μηδὲν διαφέρου περὶ σκελοῖν.</l>
 					</sp>
-					<sp who="#aqhnaios">
+					<sp who="#athenaios">
 						<speaker>Ἀθηναῖος</speaker>
 						<l>ἤδη γεωργεῖν γυμνὸς ἀποδὺς βούλομαι.</l>
 					</sp>
-					<sp who="#lakwn">
+					<sp who="#lakon">
 						<speaker>Λάκων</speaker>
 						<l>ἐγὼ δὲ κοπραγωγεῖν γα †πρῶτα† ναὶ τὼ σιώ.</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l n="1175">ἐπὴν διαλλαγῆτε, ταῦτα δράσετε.</l>
 						<l>ἀλλ’ εἰ δοκεῖ δρᾶν ταῦτα, βουλεύσασθε καὶ</l>
 						<l>τοῖς ξυμμάχοις ἐλθόντες ἀνακοινώσατε.</l>
 					</sp>
-					<sp who="#aqhnaios">
+					<sp who="#athenaios">
 						<speaker>Ἀθηναῖος</speaker>
 						<l>ποίοισιν ὦ τᾶν ξυμμάχοις; ἐστύκαμεν.</l>
 						<l>οὐ ταὐτὰ δόξει τοῖσι συμμάχοισι νῷν</l>
 						<l n="1180">βινεῖν ἅπασιν;</l>
 					</sp>
-					<sp who="#lakwn">
+					<sp who="#lakon">
 						<speaker>Λάκων</speaker>
 						<l part="Y">τοῖσι γῶν ναὶ τὼ σιὼ</l>
 						<l>ἁμοῖσι.</l>
 					</sp>
-					<sp who="#aqhnaios">
+					<sp who="#athenaios">
 						<speaker>Ἀθηναῖος</speaker>
 						<l part="Y">καὶ γὰρ ναὶ μὰ Δία Καρυστίοις.</l>
 					</sp>
-					<sp who="#lusistrath">
+					<sp who="#lysistrate">
 						<speaker>Λυσιστράτη</speaker>
 						<l>καλῶς λέγετε. νῦν οὖν ὅπως ἁγνεύσετε,</l>
 						<l>ὅπως ἂν αἱ γυναῖκες ὑμᾶς ἐν πόλει</l>
@@ -3331,15 +3331,15 @@ bring up to P3
 						<l>κἄπειτα τὴν αὑτοῦ γυναῖχ’ ὑμῶν λαβὼν</l>
 						<l>ἄπεισ’ ἕκαστος.</l>
 					</sp>
-					<sp who="#aqhnaios">
+					<sp who="#athenaios">
 						<speaker>Ἀθηναῖος</speaker>
 						<l part="Y">ἀλλ’ ἴωμεν ὡς τάχος.</l>
 					</sp>
-					<sp who="#lakwn">
+					<sp who="#lakon">
 						<speaker>Λάκων</speaker>
 						<l>ἄγ’ ὅπᾳ τυ λῇς.</l>
 					</sp>
-					<sp who="#aqhnaios">
+					<sp who="#athenaios">
 						<speaker>Ἀθηναῖος</speaker>
 						<l part="Y">νὴ τὸν Δί’ ὡς τάχιστ’ ἄγε.</l>
 						<milestone ed="p" n="1189" unit="card"/>
@@ -3388,7 +3388,7 @@ bring up to P3
 				</div2>
 			</div1>
 			<div1 type="Lyric-Scene">
-				<sp who="#aqhnaiosa">
+				<sp who="#athenaiosa">
 					<speaker>Ἀθηναῖος Α.</speaker>
 					<l>ἄνοιγε τὴν θύραν· παραχωρεῖν οὐ θέλεις;</l>
 					<l>ὑμεῖς τί κάθησθε; μῶν ἐγὼ τῇ λαμπάδι</l>
@@ -3396,23 +3396,23 @@ bring up to P3
 					<l>οὐκ ἂν ποιήσαιμ’. εἰ δὲ πάνυ δεῖ τοῦτο δρᾶν,</l>
 					<l n="1220">ὑμῖν χαρίσασθαι, προσταλαιπωρήσομεν.</l>
 				</sp>
-				<sp who="#aqhnaiosb">
+				<sp who="#athenaiosb">
 					<speaker>Ἀθηναῖος Β</speaker>
 					<l>χἠμεῖς γε μετὰ σοῦ ξυνταλαιπωρήσομεν.</l>
 				</sp>
-				<sp who="#aqhnaiosa">
+				<sp who="#athenaiosa">
 					<speaker>Ἀθηναῖος Α.</speaker>
 					<l>οὐκ ἄπιτε; κωκύσεσθε τὰς τρίχας μακρά.</l>
 					<l>οὐκ ἄπιθ’, ὅπως ἂν οἱ Λάκωνες ἔνδοθεν</l>
 					<l>καθ’ ἡσυχίαν ἀπίωσιν εὐωχημένοι;</l>
 				</sp>
-				<sp who="#aqhnaiosb">
+				<sp who="#athenaiosb">
 					<speaker>Ἀθηναῖος Β.</speaker>
 					<l n="1225">οὔπω τοιοῦτον συμπόσιον ὄπωπ’ ἐγώ.</l>
 					<l>ἦ καὶ χαρίεντες ἦσαν οἱ Λακωνικοί·</l>
 					<l>ἡμεῖς δ’ ἐν οἴνῳ συμπόται σοφώτατοι.</l>
 				</sp>
-				<sp who="#aqhnaiosa">
+				<sp who="#athenaiosa">
 					<speaker>Ἀθηναῖος Α.</speaker>
 					<l>ὀρθῶς γ’, ὁτιὴ νήφοντες οὐχ ὑγιαίνομεν·</l>
 					<l>ἢν τοὺς Ἀθηναίους ἐγὼ πείσω λέγων,</l>
@@ -3428,24 +3428,24 @@ bring up to P3
 					<l>ἀλλ’ οὑτοιὶ γὰρ αὖθις ἔρχονται πάλιν</l>
 					<l n="1240">ἐς ταὐτόν. οὐκ ἐρρήσετ’ ὦ μαστιγίαι;</l>
 				</sp>
-				<sp who="#aqhnaiosb">
+				<sp who="#athenaiosb">
 					<speaker>Ἀθηναῖος Β.</speaker>
 					<l>νὴ τὸν Δί’ ὡς ἤδη γε χωροῦσ’ ἔνδοθεν.</l>
 				</sp>
-				<sp who="#lakwn">
+				<sp who="#lakon">
 					<speaker>Λάκων</speaker>
 					<l>ὦ Πολυχαρείδα λαβὲ τὰ φυσατήρια,</l>
 					<l>ἵν’ ἐγὼ διποδιάξω τε κἀείσω καλὸν</l>
 					<l>ἐς τὼς Ἀσαναίως τε † καὶ ἐς ἡμᾶς ἅμα †.</l>
 				</sp>
-				<sp who="#aqhnaios">
+				<sp who="#athenaios">
 					<speaker>Ἀθηναῖος</speaker>
 					<l n="1245">λαβὲ δῆτα τὰς φυσαλλίδας πρὸς τῶν θεῶν,</l>
 					<l>ὡς ἥδομαί γ’ ὑμᾶς ὁρῶν ὀρχουμένους.</l>
 					<milestone ed="p" n="1247" unit="card"/>
 				</sp>
 				<div2 type="lyric">
-					<sp who="#xoroslakedaimoniwn">
+					<sp who="#xoroslakedaimonion">
 						<speaker>Χορὸς Λακεδαιμονίων</speaker>
 						<l>ὅρμαον</l>
 						<l>τὼς κυρσανίως ὦ Μναμοΰνα</l>
@@ -3472,7 +3472,7 @@ bring up to P3
 						<l n="1270">κυναγὲ παρσένε.</l>
 						<milestone ed="p" n="1273" unit="card"/>
 					</sp>
-					<sp who="#aqhnaios">
+					<sp who="#athenaios">
 						<speaker>Ἀθηναῖος</speaker>
 						<l>ἄγε νυν ἐπειδὴ τἄλλα πεποίηται καλῶς,</l>
 						<l>ἀπάγεσθε ταύτας ὦ Λάκωνες, τάσδε τε</l>
@@ -3484,7 +3484,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="lyric">
-					<sp who="#xorosaqhnaiwn">
+					<sp who="#xorosathenaion">
 						<speaker>Χορὸς Ἀθηναίων</speaker>
 						<l>πρόσαγε χορόν, ἔπαγε &lt;δὲ&gt; Χάριτας,</l>
 						<l n="1280">ἐπὶ δὲ κάλεσον Ἄρτεμιν,</l>
@@ -3505,13 +3505,13 @@ bring up to P3
 						 
 						<milestone ed="p" n="1295" unit="card"/>
 					</sp>
-					<sp who="#aqhnaios">
+					<sp who="#athenaios">
 						<speaker>Ἀθηναῖος</speaker>
 						<l n="1295">πρόφαινε δὴ σὺ Μοῦσαν ἐπὶ νέᾳ νέαν.</l>
 					</sp>
 				</div2>
 				<div2 type="lyric">
-					<sp who="#xoroslakedaimoniwn">
+					<sp who="#xoroslakedaimonion">
 						<speaker>Χορὸς Λακεδαιμονίων</speaker>
 						<l>Ταΰγετον αὖτ’ ἐραννὸν ἐκλιπῶα</l>
 						<l>Μῶα μόλε Λάκαινα πρεπτὸν ἁμὶν</l>

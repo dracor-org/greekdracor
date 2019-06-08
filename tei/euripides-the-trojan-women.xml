@@ -33,6 +33,7 @@
 							<publisher>Clarendon Press, Oxford</publisher>
 							<date>1913</date>
 						</imprint>
+						<date type="premiere" when="-415">415 BCE</date>
 					</bibl>
 				</biblStruct>
 			</sourceDesc>
@@ -45,7 +46,6 @@
 						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
 					</licence>
 				</availability>
-				<date type="premiere" when="-415">415 BCE</date>
 			</bibl>
 		</fileDesc>
 		<profileDesc>
@@ -164,7 +164,7 @@ bring up to P3
 		<body>
 			<div1 type="episode">
 				<milestone ed="p" n="1" unit="card"/>
-				<sp n="Ποσειδῶν" who="#poseidwn">
+				<sp n="Ποσειδῶν" who="#poseidon">
 					<speaker>Ποσειδῶν</speaker>
 					<l>Ἥκω λιπὼν Αἴγαιον ἁλμυρὸν βάθος</l>
 					<l>πόντου Ποσειδῶν, ἔνθα Νηρῄδων χοροὶ</l>
@@ -215,90 +215,90 @@ bring up to P3
 					<l>Παλλὰς Διὸς παῖς, ἦσθ’ ἂν ἐν βάθροις ἔτι.</l>
 				</sp>
 				<milestone ed="p" n="48" unit="card"/>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθήνα</speaker>
 					<l>ἔξεστι τὸν γένει μὲν ἄγχιστον πατρὸς</l>
 					<l>μέγαν τε δαίμον’ ἐν θεοῖς τε τίμιον,</l>
 					<l n="50">λύσασαν ἔχθραν τὴν πάρος, προσεννέπειν;</l>
 				</sp>
-				<sp who="#poseidwn">
+				<sp who="#poseidon">
 					<speaker>Ποσειδῶν</speaker>
 					<l>ἔξεστιν· αἱ γὰρ συγγενεῖς ὁμιλίαι,</l>
 					<l>ἄνασσ’ Ἀθάνα, φίλτρον οὐ σμικρὸν φρενῶν.</l>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθήνα</speaker>
 					<l>ἐπῄνεσ’ ὀργὰς ἠπίους· φέρω δὲ σοὶ</l>
 					<l>κοινοὺς ἐμαυτῇ τ’ ἐς μέσον λόγους, ἄναξ.</l>
 				</sp>
-				<sp who="#poseidwn">
+				<sp who="#poseidon">
 					<speaker>Ποσειδῶν</speaker>
 					<l n="55">μῶν ἐκ θεῶν του καινὸν ἀγγελεῖς ἔπος,</l>
 					<l>ἢ Ζηνὸς ἢ καὶ δαιμόνων τινὸς πάρα;</l>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθήνα</speaker>
 					<l>οὔκ, ἀλλὰ Τροίας οὕνεκ’, ἔνθα βαίνομεν,</l>
 					<l>πρὸς σὴν ἀφῖγμαι δύναμιν, ὡς κοινὴν λάβω.</l>
 				</sp>
-				<sp who="#poseidwn">
+				<sp who="#poseidon">
 					<speaker>Ποσειδῶν</speaker>
 					<l>ἦ πού νιν, ἔχθραν τὴν πρὶν ἐκβαλοῦσα, νῦν</l>
 					<l n="60">ἐς οἶκτον ἦλθες πυρὶ κατῃθαλωμένης;</l>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθήνα</speaker>
 					<l>ἐκεῖσε πρῶτ’ ἄνελθε· κοινώσῃ λόγους</l>
 					<l>καὶ συνθελήσεις ἃν ἐγὼ πρᾶξαι θέλω;</l>
 				</sp>
-				<sp who="#poseidwn">
+				<sp who="#poseidon">
 					<speaker>Ποσειδῶν</speaker>
 					<l>μάλιστ’· ἀτὰρ δὴ καὶ τὸ σὸν θέλω μαθεῖν·</l>
 					<l>πότερον Ἀχαιῶν ἦλθες οὕνεκ’ ἢ Φρυγῶν;</l>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθήνα</speaker>
 					<l n="65">τοὺς μὲν πρὶν ἐχθροὺς Τρῶας εὐφρᾶναι θέλω,</l>
 					<l>στρατῷ δ’ Ἀχαιῶν νόστον ἐμβαλεῖν πικρόν.</l>
 				</sp>
-				<sp who="#poseidwn">
+				<sp who="#poseidon">
 					<speaker>Ποσειδῶν</speaker>
 					<l>τί δ’ ὧδε πηδᾷς ἄλλοτ’ εἰς ἄλλους τρόπους</l>
 					<l>μισεῖς τε λίαν καὶ φιλεῖς ὃν ἂν τύχῃς;</l>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθήνα</speaker>
 					<l>οὐκ οἶσθ’ ὑβρισθεῖσάν με καὶ ναοὺς ἐμούς;</l>
 				</sp>
-				<sp who="#poseidwn">
+				<sp who="#poseidon">
 					<speaker>Ποσειδῶν</speaker>
 					<l n="70">οἶδ’, ἡνίκ’ Αἴας εἷλκε Κασάνδραν βίᾳ.</l>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθήνα</speaker>
 					<l>κοὐδέν γ’ Ἀχαιῶν ἔπαθεν οὐδ’ ἤκουσ’ ὕπο.</l>
 				</sp>
-				<sp who="#poseidwn">
+				<sp who="#poseidon">
 					<speaker>Ποσειδῶν</speaker>
 					<l>καὶ μὴν ἔπερσάν γ’ Ἴλιον τῷ σῷ σθένει.</l>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθήνα</speaker>
 					<l>τοιγάρ σφε σὺν σοὶ βούλομαι δρᾶσαι κακῶς.</l>
 				</sp>
-				<sp who="#poseidwn">
+				<sp who="#poseidon">
 					<speaker>Ποσειδῶν</speaker>
 					<l>ἕτοιμ’ ἃ βούλῃ τἀπ’ ἐμοῦ. δράσεις δὲ τί;</l>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθήνα</speaker>
 					<l n="75">δύσνοστον αὐτοῖς νόστον ἐμβαλεῖν θέλω.</l>
 				</sp>
-				<sp who="#poseidwn">
+				<sp who="#poseidon">
 					<speaker>Ποσειδῶν</speaker>
 					<l>ἐν γῇ μενόντων ἢ καθ’ ἁλμυρὰν ἅλα;</l>
 				</sp>
-				<sp who="#aqhna">
+				<sp who="#athena">
 					<speaker>Ἀθήνα</speaker>
 					<l>ὅταν πρὸς οἴκους ναυστολῶσ’ ἀπ’ Ἰλίου.</l>
 					<l>καὶ Ζεὺς μὲν ὄμβρον καὶ χάλαζαν ἄσπετον</l>
@@ -311,7 +311,7 @@ bring up to P3
 					<l n="85">ὡς ἂν τὸ λοιπὸν τἄμ’ ἀνάκτορ’ εὐσεβεῖν</l>
 					<l>εἰδῶσ’ Ἀχαιοί, θεούς τε τοὺς ἄλλους σέβειν.</l>
 				</sp>
-				<sp who="#poseidwn">
+				<sp who="#poseidon">
 					<speaker>Ποσειδῶν</speaker>
 					<l>ἔσται τάδ’· ἡ χάρις γὰρ οὐ μακρῶν λόγων</l>
 					<l>δεῖται· ταράξω πέλαγος Αἰγαίας ἁλός.</l>
@@ -329,7 +329,7 @@ bring up to P3
 			</div1>
 			<div1 type="choral">
 				<div2 type="anapests">
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>ἄνα, δύσδαιμον, πεδόθεν κεφαλή·</l>
 						<l>ἐπάειρε δέρην· οὐκέτι Τροία</l>
@@ -359,7 +359,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="lyric">
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>πρῷραι ναῶν, ὠκείαις</l>
 						<l>Ἴλιον ἱερὰν αἳ κώπαις</l>
@@ -397,7 +397,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="strophe">
-					<sp who="#hmixoriona">
+					<sp who="#emixoriona">
 						<speaker>Ἡμιχόριον Α</speaker>
 						<l>Ἑκάβη, τί θροεῖς; τί δὲ θωΰσσεις;</l>
 						<l>ποῖ λόγος ἥκει; διὰ γὰρ μελάθρων</l>
@@ -406,28 +406,28 @@ bring up to P3
 						<l>Τρῳάσιν, αἳ τῶνδ’ οἴκων εἴσω</l>
 						<l>δουλείαν αἰάζουσιν.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>ὦ τέκν’, Ἀργείων πρὸς ναῦς ἤδη . . .</l>
 					</sp>
-					<sp who="#hmixoriona">
+					<sp who="#emixoriona">
 						<speaker>Ἡμιχόριον Α</speaker>
 						<l n="160">κινεῖται κωπήρης χείρ;</l>
 						<l>οἲ ἐγώ, τί θέλουσ’, ἦ πού μ’ ἤδη</l>
 						<l>ναυσθλώσουσιν πατρίας ἐκ γᾶς;</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>οὐκ οἶδ’, εἰκάζω δ’ ἄταν.</l>
 					</sp>
-					<sp who="#hmixoriona">
+					<sp who="#emixoriona">
 						<speaker>Ἡμιχόριον Α</speaker>
 						<l>ἰὼ ἰώ.</l>
 						<l n="165">μέλεαι μόχθων ἐπακουσόμεναι</l>
 						<l>Τρῳάδες, ἔξω † κομίζεσθ’ † οἴκων·</l>
 						<l>στέλλουσ’ Ἀργεῖοι νόστον.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>αἶ, αἶ.</l>
 						<l>μή νύν μοι τὰν</l>
@@ -443,7 +443,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#hmixorionb">
+					<sp who="#emixorionb">
 						<speaker>Ἡμιχόριον Β</speaker>
 						<l>οἴμοι. τρομερὰ σκηνὰς ἔλιπον</l>
 						<l>τάσδ’ Ἀγαμέμνονος ἐπακουσομένα,</l>
@@ -452,28 +452,28 @@ bring up to P3
 						<l n="180">ἢ κατὰ πρύμνας ἤδη ναῦται</l>
 						<l>στέλλονται κινεῖν κώπας;</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>ὦ τέκνον, ὀρθρεύου σὰν ψυχάν.</l>
 					</sp>
-					<sp who="#hmixorionb">
+					<sp who="#emixorionb">
 						<speaker>Ἡμιχόριον Β</speaker>
 						<l>ἐκπληχθεῖσ’ ἦλθον φρίκᾳ.</l>
 						<l>ἤδη τις ἔβα Δαναῶν κῆρυξ;</l>
 						<l n="185">τῷ πρόσκειμαι δούλα τλάμων;</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>ἐγγύς που κεῖσαι κλήρου.</l>
 					</sp>
-					<sp who="#hmixorionb">
+					<sp who="#emixorionb">
 						<speaker>Ἡμιχόριον Β</speaker>
 						<l>ἰὼ ἰώ.</l>
 						<l>τίς μ’ Ἀργείων ἢ Φθιωτᾶν</l>
 						<l>ἢ νησαίαν μ’ ἄξει χώραν</l>
 						<l>δύστανον πόρσω Τροίας;</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l n="190">φεῦ φεῦ.</l>
 						<l n="190b">τῷ δ’ ἁ τλάμων</l>
@@ -544,7 +544,7 @@ bring up to P3
 						<l>τί φέρει; τί λέγει; δοῦλαι γὰρ δὴ</l>
 						<l>Δωρίδος ἐσμὲν χθονὸς ἤδη.</l>
 					</sp>
-					<sp who="#talqubios">
+					<sp who="#talthybios">
 						<speaker>Ταλθύβιος</speaker>
 						<l n="235">Ἑκάβη, πυκνὰς γὰρ οἶσθά μ’ ἐς Τροίαν ὁδοὺς</l>
 						<l>ἐλθόντα κήρυκ’ ἐξ Ἀχαιικοῦ στρατοῦ,</l>
@@ -554,126 +554,126 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="lyric">
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>&lt;αἰαῖ,&gt; τόδε</l>
 						<l>τόδε, φίλαι Τρῳάδες, ὃ φόβος ἦν πάλαι.</l>
 					</sp>
-					<sp who="#talqubios">
+					<sp who="#talthybios">
 						<speaker>Ταλθύβιος</speaker>
 						<l n="240">ἤδη κεκλήρωσθ’, εἰ τόδ’ ἦν ὑμῖν φόβος.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>αἰαῖ, τίν’ ἢ</l>
 						<l>Θεσσαλίας πόλιν ἢ</l>
 						<l>Φθιάδος εἶπας ἢ Καδμείας χθονός;</l>
 					</sp>
-					<sp who="#talqubios">
+					<sp who="#talthybios">
 						<speaker>Ταλθύβιος</speaker>
 						<l>κατ’ ἄνδρ’ ἑκάστη κοὐχ ὁμοῦ λελόγχατε.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>τίν’ ἄρα τίς ἔλαχε; τίνα πότμος εὐτυχὴς</l>
 						<l n="245">Ἰλιάδων μένει;</l>
 					</sp>
-					<sp who="#talqubios">
+					<sp who="#talthybios">
 						<speaker>Ταλθύβιος</speaker>
 						<l>οἶδ’· ἀλλ’ ἕκαστα πυνθάνου, μὴ πάνθ’ ὁμοῦ.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>τοὐμὸν τίς ἆρ’</l>
 						<l>ἔλαχε τέκος, ἔνεπε, τλάμονα Κασάνδραν;</l>
 					</sp>
-					<sp who="#talqubios">
+					<sp who="#talthybios">
 						<speaker>Ταλθύβιος</speaker>
 						<l n="249">ἐξαίρετόν νιν ἔλαβεν Ἀγαμέμνων ἄναξ.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l n="250">ἦ τᾷ Λακεδαιμονίᾳ νύμφᾳ</l>
 						<l>δούλαν; ἰώ μοί μοι.</l>
 					</sp>
-					<sp who="#talqubios">
+					<sp who="#talthybios">
 						<speaker>Ταλθύβιος</speaker>
 						<l>οὔκ, ἀλλὰ λέκτρων σκότια νυμφευτήρια.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l n="253">ἦ τὰν τοῦ Φοίβου παρθένον, ᾇ γέρας ὁ</l>
 						<l>χρυσοκόμας ἔδωκ’ ἄλεκτρον ζόαν;</l>
 					</sp>
-					<sp who="#talqubios">
+					<sp who="#talthybios">
 						<speaker>Ταλθύβιος</speaker>
 						<l n="255">ἔρως ἐτόξευσ’ αὐτὸν ἐνθέου κόρης.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>ῥῖπτε, τέκνον, ζαθέους κλῇ‐</l>
 						<l>δας καὶ ἀπὸ χροὸς ἐνδυ‐</l>
 						<l>τῶν στεφέων ἱεροὺς στολμούς.</l>
 					</sp>
-					<sp who="#talqubios">
+					<sp who="#talthybios">
 						<speaker>Ταλθύβιος</speaker>
 						<l>οὐ γὰρ μέγ’ αὐτῇ βασιλικῶν λέκτρων τυχεῖν;</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l n="260">τί δ’ ὃ νεοχμὸν ἀπ’ ἐμέθεν ἐλάβετε τέκος, ποῦ μοι;</l>
 					</sp>
-					<sp who="#talqubios">
+					<sp who="#talthybios">
 						<speaker>Ταλθύβιος</speaker>
 						<l n="262">Πολυξένην ἔλεξας, ἢ τίν’ ἱστορεῖς;</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>ταύταν· τῷ πάλος ἔζευξεν;</l>
 					</sp>
-					<sp who="#talqubios">
+					<sp who="#talthybios">
 						<speaker>Ταλθύβιος</speaker>
 						<l>τύμβῳ τέτακται προσπολεῖν Ἀχιλλέως.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l n="265">ὤμοι ἐγώ· τάφῳ πρόσπολον ἐτεκόμαν.</l>
 						<l>ἀτὰρ τίς ὅδ’ ἢ νόμος ἢ τί</l>
 						<l>θέσμιον, ὦ φίλος, Ἑλλάνων;</l>
 					</sp>
-					<sp who="#talqubios">
+					<sp who="#talthybios">
 						<speaker>Ταλθύβιος</speaker>
 						<l>εὐδαιμόνιζε παῖδα σήν· ἔχει καλῶς.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>τί τόδ’ ἔλακες; ἆρά μοι ἀέλιον λεύσσει;</l>
 					</sp>
-					<sp who="#talqubios">
+					<sp who="#talthybios">
 						<speaker>Ταλθύβιος</speaker>
 						<l n="270">ἔχει πότμος νιν, ὥστ’ ἀπηλλάχθαι πόνων.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>τί δ’ ἁ τοῦ χαλκεομήστορος Ἕκτορος δάμαρ,</l>
 						<l>Ἀνδρομάχα τάλαινα, τίν’ ἔχει τύχαν;</l>
 					</sp>
-					<sp who="#talqubios">
+					<sp who="#talthybios">
 						<speaker>Ταλθύβιος</speaker>
 						<l>καὶ τήνδ’ Ἀχιλλέως ἔλαβε παῖς ἐξαίρετον.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>ἐγὼ δὲ τῷ</l>
 						<l n="275">πρόσπολος ἁ τριτοβάμονος χερὶ</l>
 						<l>δευομένα βάκτρου γεραιῷ κάρᾳ;</l>
 					</sp>
-					<sp who="#talqubios">
+					<sp who="#talthybios">
 						<speaker>Ταλθύβιος</speaker>
 						<l>Ἰθάκης Ὀδυσσεὺς ἔλαχ’ ἄναξ δούλην σ’ ἔχειν.</l>
 						<milestone ed="p" n="278" unit="card"/>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>ἒ ἔ.</l>
 						<l>ἄρασσε κρᾶτα κούριμον,</l>
@@ -697,7 +697,7 @@ bring up to P3
 						<l>τὸ μὲν σὸν οἶσθα, πότνια, τὰς δ’ ἐμὰς τύχας</l>
 						<l>τίς ἆρ’ Ἀχαιῶν ἢ τίς Ἑλλήνων ἔχει;</l>
 					</sp>
-					<sp who="#talqubios">
+					<sp who="#talthybios">
 						<speaker>Ταλθύβιος</speaker>
 						<l>ἴτ’, ἐκκομίζειν δεῦρο Κασάνδραν χρεὼν</l>
 						<l n="295">ὅσον τάχιστα, δμῶες, ὡς στρατηλάτῃ</l>
@@ -712,7 +712,7 @@ bring up to P3
 						<l>ἄνοιγ’ ἄνοιγε, μὴ τὸ ταῖσδε πρόσφορον</l>
 						<l n="305">ἐχθρὸν δ’ Ἀχαιοῖς εἰς ἔμ’ αἰτίαν βάλῃ.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>οὐκ ἔστιν, οὐ πιμπρᾶσιν, ἀλλὰ παῖς ἐμὴ</l>
 						<l>μαινὰς θοάζει δεῦρο Κασάνδρα δρόμῳ.</l>
@@ -767,7 +767,7 @@ bring up to P3
 						<l>βασίλεια, βακχεύουσαν οὐ λήψῃ κόρην,</l>
 						<l>μὴ κοῦφον αἴρῃ βῆμ’ ἐς Ἀργείων στρατόν;</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>Ἥφαιστε, δᾳδουχεῖς μὲν ἐν γάμοις βροτῶν,</l>
 						<l>ἀτὰρ λυγράν γε τήνδ’ ἀναιθύσσεις φλόγα</l>
@@ -843,7 +843,7 @@ bring up to P3
 						<l>ὡς ἡδέως κακοῖσιν οἰκείοις γελᾷς,</l>
 						<l>μέλπεις θ’ ἃ μέλπουσ’ οὐ σαφῆ δείξεις ἴσως.</l>
 					</sp>
-					<sp who="#talqubios">
+					<sp who="#talthybios">
 						<speaker>Ταλθύβιος</speaker>
 						<l>εἰ μή σ’ Ἀπόλλων ἐξεβάκχευεν φρένας,</l>
 						<l>οὔ τἂν ἀμισθὶ τοὺς ἐμοὺς στρατηλάτας</l>
@@ -921,7 +921,7 @@ bring up to P3
 						<l>οὐκ ἀντιλήψεσθ’; ἦ μεθήσετ’, ὦ κακαί,</l>
 						<l n="465">γραῖαν πεσοῦσαν; αἴρετ’ εἰς ὀρθὸν δέμας.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>ἐᾶτέ μ’ — οὔτοι φίλα τὰ μὴ φίλ’, ὦ κόραι — </l>
 						<l>κεῖσθαι πεσοῦσαν· πτωμάτων γὰρ ἄξια</l>
@@ -1062,101 +1062,101 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="strophe">
-					<sp who="#andromaxh">
+					<sp who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l>Ἀχαιοὶ δεσπόται μ’ ἄγουσιν.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>οἴμοι.</l>
 					</sp>
-					<sp who="#andromaxh">
+					<sp who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l part="Y">τί παιᾶν’ ἐμὸν στενάζεις;</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>αἰαῖ — </l>
 					</sp>
-					<sp who="#andromaxh">
+					<sp who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l part="Y">τῶνδ’ ἀλγέων — </l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l n="580">ὦ Ζεῦ — </l>
 					</sp>
-					<sp who="#andromaxh">
+					<sp who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l part="Y">καὶ συμφορᾶς.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>τέκεα,</l>
 					</sp>
-					<sp who="#andromaxh">
+					<sp who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l part="Y">πρίν ποτ’ ἦμεν.</l>
 						<milestone ed="p" n="582" unit="card"/>
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>βέβακ’ ὄλβος, βέβακε Τροία</l>
 					</sp>
-					<sp who="#andromaxh">
+					<sp who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l>τλάμων.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l part="Y">ἐμῶν τ’ εὐγένεια παίδων.</l>
 					</sp>
-					<sp who="#andromaxh">
+					<sp who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l>φεῦ φεῦ.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l part="Y">φεῦ δῆτ’ ἐμῶν</l>
 					</sp>
-					<sp who="#andromaxh">
+					<sp who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l n="585">κακῶν.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l part="Y">οἰκτρὰ τύχα</l>
 					</sp>
-					<sp who="#andromaxh">
+					<sp who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l>πόλεος,</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l part="Y">ἃ καπνοῦται.</l>
 						<milestone ed="p" n="587" unit="card"/>
 					</sp>
 				</div2>
 				<div2 n="2" type="strophe">
-					<sp who="#andromaxh">
+					<sp who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l>μόλοις, ὦ πόσις, μοι — </l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>βοᾷς τὸν παρ’ Ἅιδᾳ</l>
 						<l>παῖδ’ ἐμόν, ὦ μελέα.</l>
 					</sp>
-					<sp who="#andromaxh">
+					<sp who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l n="590">σᾶς δάμαρτος ἄλκαρ.</l>
 						<milestone ed="p" n="591" unit="card"/>
 					</sp>
 				</div2>
 				<div2 n="2" type="antistrophe">
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>σύ τ’, ὦ λῦμ’ Ἀχαιῶν,</l>
 						<l>τέκνων δέσποθ’ ἁμῶν,</l>
@@ -1166,23 +1166,23 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="3" type="strophe">
-					<sp who="#andromaxh">
+					<sp who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l n="595">οἵδε πόθοι μεγάλοι . . .</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l part="Y">σχετλία, τάδε πάσχομεν ἄλγη.</l>
 					</sp>
-					<sp who="#andromaxh">
+					<sp who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l>οἰχομένας πόλεως . . .</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l part="Y">ἐπὶ δ’ ἄλγεσιν ἄλγεα κεῖται.</l>
 					</sp>
-					<sp who="#andromaxh">
+					<sp who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l>δυσφροσύναισι θεῶν, ὅτε σὸς γόνος ἔκφυγεν Ἅιδαν,</l>
 						<l>ὃς λεχέων στυγερῶν χάριν ὤλεσε</l>
@@ -1194,23 +1194,23 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="3" type="antistrophe">
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>ὦ πατρίς, ὦ μελέα . . .</l>
 					</sp>
-					<sp who="#andromaxh">
+					<sp who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l part="Y">καταλειπομέναν σε δακρύω,</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>νῦν τέλος οἰκτρὸν ὁρᾷς.</l>
 					</sp>
-					<sp who="#andromaxh">
+					<sp who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l part="Y">καὶ ἐμὸν δόμον ἔνθ’  ἐλοχεύθην.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>ὦ τέκν’, ἐρημόπολις μάτηρ ἀπολείπεται ὑμῶν,</l>
 						<l>οἷος ἰάλεμος, οἷά τε πένθη</l>
@@ -1227,69 +1227,69 @@ bring up to P3
 						<l>ὡς ἡδὺ δάκρυα τοῖς κακῶς πεπραγόσι</l>
 						<l>θρήνων τ’ ὀδυρμοὶ μοῦσά θ’ ἣ λύπας ἔχει.</l>
 					</sp>
-					<sp who="#andromaxh">
+					<sp who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l n="610">ὦ μῆτερ ἀνδρός, ὅς ποτ’ Ἀργείων δορὶ</l>
 						<l>πλείστους διώλεσ’, Ἕκτορος, τάδ’ εἰσορᾷς;</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>ὁρῶ τὰ τῶν θεῶν, ὡς τὰ μὲν πυργοῦσ’ ἄνω</l>
 						<l>τὸ μηδὲν ὄντα, τὰ δὲ δοκοῦντ’ ἀπώλεσαν.</l>
 					</sp>
-					<sp who="#andromaxh">
+					<sp who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l>ἀγόμεθα λεία σὺν τέκνῳ· τὸ δ’ εὐγενὲς</l>
 						<l n="615">ἐς δοῦλον ἥκει, μεταβολὰς τοσάσδ’ ἔχον.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>τὸ τῆς ἀνάγκης δεινόν· ἄρτι κἀπ’ ἐμοῦ</l>
 						<l>βέβηκ’ ἀποσπασθεῖσα Κασάνδρα βίᾳ.</l>
 					</sp>
-					<sp who="#andromaxh">
+					<sp who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l>φεῦ φεῦ·</l>
 						<l>ἄλλος τις Αἴας, ὡς ἔοικε, δεύτερος</l>
 						<l>παιδὸς πέφηνε σῆς. νοσεῖς δὲ χἅτερα.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l n="620">ὧν γ’ οὔτε μέτρον οὔτ’ ἀριθμός ἐστί μοι·</l>
 						<l>κακῷ κακὸν γὰρ εἰς ἅμιλλαν ἔρχεται.</l>
 					</sp>
-					<sp who="#andromaxh">
+					<sp who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l>τέθνηκέ σοι παῖς πρὸς τάφῳ Πολυξένη</l>
 						<l>σφαγεῖσ’ Ἀχιλλέως, δῶρον ἀψύχῳ νεκρῷ.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>οἲ ’γὼ τάλαινα. τοῦτ’ ἐκεῖν’ ὅ μοι πάλαι</l>
 						<l n="625">Ταλθύβιος αἴνιγμ’ οὐ σαφῶς εἶπεν σαφές.</l>
 					</sp>
-					<sp who="#andromaxh">
+					<sp who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l>εἶδόν νιν αὐτή, κἀποβᾶσα τῶνδ’ ὄχων</l>
 						<l>ἔκρυψα πέπλοις κἀπεκοψάμην νεκρόν.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>αἰαῖ, τέκνον, σῶν ἀνοσίων προσφαγμάτων·</l>
 						<l>αἰαῖ μάλ’ αὖθις, ὡς κακῶς διόλλυσαι.</l>
 					</sp>
-					<sp who="#andromaxh">
+					<sp who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l n="630">ὄλωλεν ὡς ὄλωλεν· ἀλλ’ ὅμως ἐμοῦ</l>
 						<l>ζώσης γ’ ὄλωλεν εὐτυχεστέρῳ πότμῳ.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>οὐ ταὐτόν, ὦ παῖ, τῷ βλέπειν τὸ κατθανεῖν·</l>
 						<l>τὸ μὲν γὰρ οὐδέν, τῷ δ’ ἔνεισιν ἐλπίδες.</l>
 						<milestone ed="p" n="634" unit="card"/>
 					</sp>
-					<sp n="Ἀνδρομάχη" who="#andromaxh">
+					<sp n="Ἀνδρομάχη" who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l>ὦ μῆτερ, † ὦ τεκοῦσα †, κάλλιστον λόγον</l>
 						<l n="635">ἄκουσον, ὥς σοι τέρψιν ἐμβαλῶ φρενί.</l>
@@ -1348,7 +1348,7 @@ bring up to P3
 						<l>ἐς ταὐτὸν ἥκεις συμφορᾶς· θρηνοῦσα δὲ</l>
 						<l n="685">τὸ σὸν διδάσκεις μ’ ἔνθα πημάτων κυρῶ.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>αὐτὴ μὲν οὔπω ναὸς εἰσέβην σκάφος,</l>
 						<l>γραφῇ δ’ ἰδοῦσα καὶ κλύουσ’ ἐπίσταμαι.</l>
@@ -1375,65 +1375,65 @@ bring up to P3
 						<l>στείχοντα καινῶν ἄγγελον βουλευμάτων;</l>
 						<milestone ed="p" n="709" unit="card"/>
 					</sp>
-					<sp who="#talqubios">
+					<sp who="#talthybios">
 						<speaker>Ταλθύβιος</speaker>
 						<l>Φρυγῶν ἀρίστου πρίν ποθ’ Ἕκτορος δάμαρ,</l>
 						<l n="710">μή με στυγήσῃς· οὐχ ἑκὼν γὰρ ἀγγελῶ.</l>
 						<l>Δαναῶν δὲ κοινὰ Πελοπιδῶν τ’ ἀγγέλματα. . . .</l>
 					</sp>
-					<sp who="#andromaxh">
+					<sp who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l>τί δ’ ἔστιν; ὥς μοι φροιμίων ἄρχῃ κακῶν.</l>
 					</sp>
-					<sp who="#talqubios">
+					<sp who="#talthybios">
 						<speaker>Ταλθύβιος</speaker>
 						<l>ἔδοξε τόνδε παῖδα . . . πῶς εἴπω λόγον;</l>
 					</sp>
-					<sp who="#andromaxh">
+					<sp who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l>μῶν οὐ τὸν αὐτὸν δεσπότην ἡμῖν ἔχειν;</l>
 					</sp>
-					<sp who="#talqubios">
+					<sp who="#talthybios">
 						<speaker>Ταλθύβιος</speaker>
 						<l n="715">οὐδεὶς Ἀχαιῶν τοῦδε δεσπόσει ποτέ.</l>
 					</sp>
-					<sp who="#andromaxh">
+					<sp who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l>ἀλλ’ ἐνθάδ’ αὐτοῦ λείψανον Φρυγῶν λιπεῖν;</l>
 					</sp>
-					<sp who="#talqubios">
+					<sp who="#talthybios">
 						<speaker>Ταλθύβιος</speaker>
 						<l>οὐκ οἶδ’ ὅπως σοι ῥᾳδίως εἴπω κακά.</l>
 					</sp>
-					<sp who="#andromaxh">
+					<sp who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l>ἐπῄνεσ’ αἰδῶ, πλὴν ἐὰν λέγῃς καλά.</l>
 					</sp>
-					<sp who="#talqubios">
+					<sp who="#talthybios">
 						<speaker>Ταλθύβιος</speaker>
 						<l>κτενοῦσι σὸν παῖδ’, ὡς πύθῃ κακὸν μέγα.</l>
 					</sp>
-					<sp who="#andromaxh">
+					<sp who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l n="720">οἴμοι, γάμων τόδ’ ὡς κλύω μεῖζον κακόν.</l>
 					</sp>
-					<sp who="#talqubios">
+					<sp who="#talthybios">
 						<speaker>Ταλθύβιος</speaker>
 						<l>νικᾷ δ’ Ὀδυσσεὺς ἐν Πανέλλησιν λέγων . . .</l>
 					</sp>
-					<sp who="#andromaxh">
+					<sp who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l>αἰαῖ μάλ’· οὐ γὰρ μέτρια πάσχομεν κακά.</l>
 					</sp>
-					<sp who="#talqubios">
+					<sp who="#talthybios">
 						<speaker>Ταλθύβιος</speaker>
 						<l>λέξας ἀρίστου παῖδα μὴ τρέφειν πατρὸς . . .</l>
 					</sp>
-					<sp who="#andromaxh">
+					<sp who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l>τοιαῦτα νικήσειε τῶν αὑτοῦ πέρι.</l>
 					</sp>
-					<sp who="#talqubios">
+					<sp who="#talthybios">
 						<speaker>Ταλθύβιος</speaker>
 						<l n="725">ῥῖψαι δὲ πύργων δεῖν σφε Τρωικῶν ἄπο.</l>
 						<l>ἀλλ’ ὣς γενέσθω, καὶ σοφωτέρα φανῇ·</l>
@@ -1452,7 +1452,7 @@ bring up to P3
 						<l>αὐτή τ’ Ἀχαιῶν πρευμενεστέρων τύχοις.</l>
 						<milestone ed="p" n="740" unit="card"/>
 					</sp>
-					<sp who="#andromaxh">
+					<sp who="#andromaxe">
 						<speaker>Ἀνδρομάχη</speaker>
 						<l n="740">ὦ φίλτατ’, ὦ περισσὰ τιμηθεὶς τέκνον,</l>
 						<l>θανῇ πρὸς ἐχθρῶν μητέρ’ ἀθλίαν λιπών,</l>
@@ -1503,7 +1503,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="anapests">
-					<sp who="#talqubios">
+					<sp who="#talthybios">
 						<speaker>Ταλθύβιος</speaker>
 						<l>ἄγε παῖ, φίλιον πρόσπτυγμα μεθεὶς</l>
 						<l>μητρὸς μογερᾶς, βαῖνε πατρῴων</l>
@@ -1516,7 +1516,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="anapests">
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l n="790">ὦ τέκνον, ὦ παῖ παιδὸς μογεροῦ,</l>
 						<l>συλώμεθα σὴν ψυχὴν ἀδίκως</l>
@@ -1633,7 +1633,7 @@ bring up to P3
 					<l>κόμης ἐπισπάσαντες· οὔριοι δ’ ὅταν</l>
 					<l>πνοαὶ μόλωσι, πέμψομέν νιν Ἑλλάδα.</l>
 				</sp>
-				<sp who="#ekabh">
+				<sp who="#ekabe">
 					<speaker>Ἑκάβη</speaker>
 					<l>ὦ γῆς ὄχημα κἀπὶ γῆς ἔχων ἕδραν,</l>
 					<l n="885">ὅστις ποτ’ εἶ σύ, δυστόπαστος εἰδέναι,</l>
@@ -1645,7 +1645,7 @@ bring up to P3
 					<speaker>Μενέλαος</speaker>
 					<l>τί δ’ ἔστιν; εὐχὰς ὡς ἐκαίνισας θεῶν.</l>
 				</sp>
-				<sp who="#ekabh">
+				<sp who="#ekabe">
 					<speaker>Ἑκάβη</speaker>
 					<l n="890">αἰνῶ σε, Μενέλᾱ, εἰ κτενεῖς δάμαρτα σήν.</l>
 					<l>ὁρᾶν δὲ τήνδε φεῦγε, μή σ’ ἕλῃ πόθῳ.</l>
@@ -1654,7 +1654,7 @@ bring up to P3
 					<l>ἐγώ νιν οἶδα, καὶ σύ, χοἱ πεπονθότες.</l>
 					<milestone ed="p" n="895" unit="card"/>
 				</sp>
-				<sp who="#elenh">
+				<sp who="#elene">
 					<speaker>Ἑλένη</speaker>
 					<l n="895">Μενέλαε, φροίμιον μὲν ἄξιον φόβου</l>
 					<l>τόδ’ ἐστίν· ἐν γὰρ χερσὶ προσπόλων σέθεν</l>
@@ -1668,7 +1668,7 @@ bring up to P3
 					<l>οὐκ εἰς ἀκριβὲς ἦλθες, ἀλλ’ ἅπας στρατὸς</l>
 					<l>κτανεῖν ἐμοί σ’ ἔδωκεν, ὅνπερ ἠδίκεις.</l>
 				</sp>
-				<sp who="#elenh">
+				<sp who="#elene">
 					<speaker>Ἑλένη</speaker>
 					<l>ἔξεστιν οὖν πρὸς ταῦτ’ ἀμείψασθαι λόγῳ,</l>
 					<l>ὡς οὐ δικαίως, ἢν θάνω, θανούμεθα;</l>
@@ -1677,7 +1677,7 @@ bring up to P3
 					<speaker>Μενέλαος</speaker>
 					<l n="905">οὐκ ἐς λόγους ἐλήλυθ’, ἀλλά σε κτενῶν.</l>
 				</sp>
-				<sp who="#ekabh">
+				<sp who="#ekabe">
 					<speaker>Ἑκάβη</speaker>
 					<l>ἄκουσον αὐτῆς, μὴ θάνῃ τοῦδ’ ἐνδεής,</l>
 					<l>Μενέλαε, καὶ δὸς τοὺς ἐναντίους λόγους</l>
@@ -1691,7 +1691,7 @@ bring up to P3
 					<l>ἔξεστι. τῶν σῶν δ’ οὕνεχ’ — ὡς μάθῃ — λόγων</l>
 					<l>δώσω τόδ’ αὐτῇ· τῆσδε δ’ οὐ δώσω χάριν.</l>
 				</sp>
-				<sp n="Ἑλένη" who="#elenh">
+				<sp n="Ἑλένη" who="#elene">
 					<speaker>Ἑλένη</speaker>
 					<l>ἴσως με, κἂν εὖ κἂν κακῶς δόξω λέγειν,</l>
 					<l n="915">οὐκ ἀνταμείψῃ πολεμίαν ἡγούμενος.</l>
@@ -1755,7 +1755,7 @@ bring up to P3
 					<l>πειθὼ διαφθείρουσα τῆσδ’, ἐπεὶ λέγει</l>
 					<l>καλῶς κακοῦργος οὖσα· δεινὸν οὖν τόδε.</l>
 				</sp>
-				<sp n="Ἑκάβη" who="#ekabh">
+				<sp n="Ἑκάβη" who="#ekabe">
 					<speaker>Ἑκάβη</speaker>
 					<l>ταῖς θεαῖσι πρῶτα σύμμαχος γενήσομαι</l>
 					<l n="970">καὶ τήνδε δείξω μὴ λέγουσαν ἔνδικα.</l>
@@ -1839,12 +1839,12 @@ bring up to P3
 					<l n="1040">πόνους τ’ Ἀχαιῶν ἀπόδος ἐν μικρῷ μακροὺς</l>
 					<l>θανοῦσ’, ἵν’ εἰδῇς μὴ καταισχύνειν ἐμέ.</l>
 				</sp>
-				<sp who="#elenh">
+				<sp who="#elene">
 					<speaker>Ἑλένη</speaker>
 					<l>μή, πρός σε γονάτων, τὴν νόσον τὴν τῶν θεῶν</l>
 					<l>προσθεὶς ἐμοὶ κτάνῃς με, συγγίγνωσκε δέ.</l>
 				</sp>
-				<sp who="#ekabh">
+				<sp who="#ekabe">
 					<speaker>Ἑκάβη</speaker>
 					<l>μηδ’ οὓς ἀπέκτειν’ ἥδε συμμάχους προδῷς·</l>
 					<l n="1045">ἐγὼ πρὸ κείνων καὶ τέκνων σε λίσσομαι.</l>
@@ -1855,7 +1855,7 @@ bring up to P3
 					<l>λέγω δὲ προσπόλοισι πρὸς πρύμνας νεῶν</l>
 					<l>τήνδ’ ἐκκομίζειν, ἔνθα ναυστολήσεται.</l>
 				</sp>
-				<sp who="#ekabh">
+				<sp who="#ekabe">
 					<speaker>Ἑκάβη</speaker>
 					<l>μή νυν νεὼς σοὶ ταὐτὸν ἐσβήτω σκάφος.</l>
 				</sp>
@@ -1863,7 +1863,7 @@ bring up to P3
 					<speaker>Μενέλαος</speaker>
 					<l n="1050">τί δ’ ἔστι; μεῖζον βρῖθος ἢ πάροιθ’ ἔχει;</l>
 				</sp>
-				<sp who="#ekabh">
+				<sp who="#ekabe">
 					<speaker>Ἑκάβη</speaker>
 					<l>οὐκ ἔστ’ ἐραστὴς ὅστις οὐκ ἀεὶ φιλεῖ.</l>
 				</sp>
@@ -1972,7 +1972,7 @@ bring up to P3
 						<l>Δαναοὶ κτείναντες ἔχουσιν.</l>
 						<milestone ed="p" n="1123" unit="card"/>
 					</sp>
-					<sp who="#talqubios">
+					<sp who="#talthybios">
 						<speaker>Ταλθύβιος</speaker>
 						<l>Ἑκάβη, νεὼς μὲν πίτυλος εἷς λελειμμένος</l>
 						<l>λάφυρα τἀπίλοιπ’ Ἀχιλλείου τόκου</l>
@@ -2009,7 +2009,7 @@ bring up to P3
 						<l n="1155">ἐς ἓν ξυνελθόντ’ οἴκαδ’ ὁρμήσῃ πλάτην.</l>
 						<milestone ed="p" n="1156" unit="card"/>
 					</sp>
-					<sp n="Ἑκάβη" who="#ekabh">
+					<sp n="Ἑκάβη" who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>θέσθ’ ἀμφίτορνον ἀσπίδ’ Ἕκτορος πέδῳ,</l>
 						<l>λυπρὸν θέαμα κοὐ φίλον λεύσσειν ἐμοί.</l>
@@ -2069,7 +2069,7 @@ bring up to P3
 						<l>καὶ μὴν πρόχειρον αἵδε σοι σκυλευμάτων</l>
 						<l>Φρυγίων φέρουσι κόσμον ἐξάπτειν νεκρῷ.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>ὦ τέκνον, οὐχ ἵπποισι νικήσαντά σε</l>
 						<l n="1210">οὐδ’ ἥλικας τόξοισιν, οὓς Φρύγες νόμους</l>
@@ -2089,7 +2089,7 @@ bring up to P3
 						<l n="1217b">ἀνάκτωρ πόλεως.</l>
 						<milestone ed="p" n="1218" unit="card"/>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>ἃ δ’ ἐν γάμοισι χρῆν σε προσθέσθαι χροῒ</l>
 						<l>Ἀσιατίδων γήμαντα τὴν ὑπερτάτην,</l>
@@ -2109,7 +2109,7 @@ bring up to P3
 						<l n="1228">γαῖά σ’ ὦ τέκνον δέξεται.</l>
 						<l>στέναζε, μᾶτερ,</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l part="Y">αἰαῖ.</l>
 					</sp>
@@ -2117,7 +2117,7 @@ bring up to P3
 						<speaker>Χορός</speaker>
 						<l n="1230">νεκρῶν ἴακχον.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l part="Y">οἴμοι [μοι].</l>
 					</sp>
@@ -2126,7 +2126,7 @@ bring up to P3
 						<l>οἴμοι δῆτα σῶν ἀλάστων κακῶν.</l>
 						<milestone ed="p" n="1232" unit="card"/>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>τελαμῶσιν ἕλκη τὰ μὲν ἐγώ σ’ ἰάσομαι,</l>
 						<l>τλήμων ἰατρός, ὄνομ’ ἔχουσα, τἄργα δ’ οὔ·</l>
@@ -2139,7 +2139,7 @@ bring up to P3
 						<l>πιτύλους διδοῦσα χειρός,</l>
 						<l>ἰώ μοί μοι.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>ὦ φίλταται γυναῖκες . . .</l>
 					</sp>
@@ -2150,7 +2150,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="iambic">
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l n="1240">οὐκ ἦν ἄρ’ ἐν θεοῖσι πλὴν οὑμοὶ πόνοι</l>
 						<l>Τροία τε πόλεων ἔκκριτον μισουμένη,</l>
@@ -2182,7 +2182,7 @@ bring up to P3
 						<l>καινόν τι κακὸν προσέσεσθαι.</l>
 						<milestone ed="p" n="1260" unit="card"/>
 					</sp>
-					<sp who="#talqubios">
+					<sp who="#talthybios">
 						<speaker>Ταλθύβιος</speaker>
 						<l n="1260">αὐδῶ λοχαγοῖς, οἳ τέταχθ’ ἐμπιμπράναι</l>
 						<l>Πριάμου τόδ’ ἄστυ, μηκέτ’ ἀργοῦσαν φλόγα</l>
@@ -2197,7 +2197,7 @@ bring up to P3
 						<l n="1270">ἕπου. μεθήκουσίν σ’ Ὀδυσσέως πάρα</l>
 						<l>οἵδ’, ᾧ σε δούλην κλῆρος ἐκπέμπει πάτρας.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>οἲ ’γὼ τάλαινα· τοῦτο δὴ τὸ λοίσθιον</l>
 						<l>καὶ τέρμα πάντων τῶν ἐμῶν ἤδη κακῶν·</l>
@@ -2212,7 +2212,7 @@ bring up to P3
 						<l>φέρ’ ἐς πυρὰν δράμωμεν· ὡς κάλλιστά μοι</l>
 						<l>σὺν τῇδε πατρίδι κατθανεῖν πυρουμένῃ.</l>
 					</sp>
-					<sp who="#talqubios">
+					<sp who="#talthybios">
 						<speaker>Ταλθύβιος</speaker>
 						<l>ἐνθουσιᾷς, δύστηνε, τοῖς σαυτῆς κακοῖς.</l>
 						<l n="1285">ἀλλ’ ἄγετε, μὴ φείδεσθ’· Ὀδυσσέως δὲ χρὴ</l>
@@ -2221,7 +2221,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="lyric">
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>ὀττοτοτοτοτοῖ.</l>
 						<l>Κρόνιε, πρύτανι Φρύγιε, γενέτα</l>
@@ -2233,7 +2233,7 @@ bring up to P3
 						<l>δέδορκεν, ἁ δὲ μεγαλόπολις</l>
 						<l>ἄπολις ὄλωλεν οὐδ’ ἔτ’ ἔστι Τροία.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l n="1294">ὀττοτοτοτοτοῖ.</l>
 						<l n="1295">λέλαμπεν Ἴλιος, Περ‐</l>
@@ -2250,7 +2250,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="strophe">
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>ἰὼ γᾶ τρόφιμε τῶν ἐμῶν τέκνων.</l>
 					</sp>
@@ -2258,7 +2258,7 @@ bring up to P3
 						<speaker>Χορός</speaker>
 						<l>ἓ ἕ.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>ὦ τέκνα, κλύετε, μάθετε ματρὸς αὐδάν.</l>
 					</sp>
@@ -2266,7 +2266,7 @@ bring up to P3
 						<speaker>Χορός</speaker>
 						<l>ἰαλέμῳ τοὺς θανόντας ἀπύεις.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l n="1305">γεραιά γ’ ἐς πέδον τιθεῖσα μέλεα καὶ</l>
 						<l>χερσὶ γαῖαν κτυποῦσα δισσαῖς.</l>
@@ -2277,7 +2277,7 @@ bring up to P3
 						<l>τοὺς ἐμοὺς καλοῦσα νέρθεν</l>
 						<l>ἀθλίους ἀκοίτας.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l n="1310">ἀγόμεθα φερόμεθ’ . . .</l>
 					</sp>
@@ -2285,7 +2285,7 @@ bring up to P3
 						<speaker>Χορός</speaker>
 						<l part="Y">ἄλγος ἄλγος βοᾷς.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>δούλειον ὑπὸ μέλαθρον.</l>
 					</sp>
@@ -2293,7 +2293,7 @@ bring up to P3
 						<speaker>Χορός</speaker>
 						<l part="Y">ἐκ πάτρας γ’ ἐμᾶς.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>ἰώ.</l>
 						<l>Πρίαμε Πρίαμε, σὺ μὲν ὀλόμενος</l>
@@ -2308,7 +2308,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>ἰὼ θεῶν μέλαθρα καὶ πόλις φίλα,</l>
 					</sp>
@@ -2316,7 +2316,7 @@ bring up to P3
 						<speaker>Χορός</speaker>
 						<l>ἓ ἕ.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>τὰν φόνιον ἔχετε φλόγα δορός τε λόγχαν.</l>
 					</sp>
@@ -2324,7 +2324,7 @@ bring up to P3
 						<speaker>Χορός</speaker>
 						<l>τάχ’ ἐς φίλαν γᾶν πεσεῖσθ’ ἀνώνυμοι.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l n="1320">κόνις δ’ ἴσα καπνῷ πτέρυγι πρὸς αἰθέρα</l>
 						<l>ᾆστον οἴκων ἐμῶν με θήσει.</l>
@@ -2335,7 +2335,7 @@ bring up to P3
 						<l>ἄλλο φροῦδον, οὐδ’ ἔτ’ ἔστιν</l>
 						<l>ἁ τάλαινα Τροία.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l n="1325">ἐμάθετ’, ἐκλύετε;</l>
 					</sp>
@@ -2343,7 +2343,7 @@ bring up to P3
 						<speaker>Χορός</speaker>
 						<l part="Y">Περγάμων &lt;γε&gt; κτύπον.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>ἔνοσις ἅπασαν ἔνοσις . . .</l>
 					</sp>
@@ -2351,7 +2351,7 @@ bring up to P3
 						<speaker>Χορός</speaker>
 						<l part="Y">ἐπικλύσει πόλιν.</l>
 					</sp>
-					<sp who="#ekabh">
+					<sp who="#ekabe">
 						<speaker>Ἑκάβη</speaker>
 						<l>ἰώ·</l>
 						<l>τρομερὰ μέλεα, φέρετ’ ἐμὸν ἴχνος·</l>

@@ -33,6 +33,7 @@
 							<publisher>Cambridge, Mass., Harvard University Press; London, William Heinemann, Ltd.</publisher>
 							<date>1926</date>
 						</imprint>
+					<date type="premiere" when="-472">472 BCE</date>
 					</bibl>
 				</biblStruct>
 			</sourceDesc>
@@ -45,7 +46,6 @@
 						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
 					</licence>
 				</availability>
-				<date type="premiere" when="-472">472 BCE</date>
 			</bibl>
 		</fileDesc>
 		<profileDesc>
@@ -1264,7 +1264,7 @@ convert to P3
 			</div1>
 			<div1 type="episode">
 				<div2 type="anapests">
-					<sp who="#eidwlondareiou">
+					<sp who="#eidolondareioy">
 						<speaker>Εἴδωλον  Δαρείου</speaker>
 						<l>ὦ πιστὰ πιστῶν ἥλικές θ’ ἥβης ἐμῆς</l>
 						<l>Πέρσαι γεραιοί, τίνα πόλις πονεῖ πόνον;</l>
@@ -1689,7 +1689,7 @@ convert to P3
 			</div1>
 			<div1 type="episode">
 				<div2 type="anapests">
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>ἰώ,</l>
 						<l>δύστηνος ἐγὼ στυγερᾶς μοίρας</l>
@@ -1726,7 +1726,7 @@ convert to P3
 			</div1>
 			<div1 type="choral">
 				<div2 n="1" type="strophe">
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>ὅδ’ ἐγώ, οἰοῖ,  αἰακτὸς</l>
 						<l>μέλεος γέννᾳ γᾷ τε πατρῴᾳ</l>
@@ -1744,7 +1744,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>ἵετ’  αἰανῆ [καὶ]   πάνδυρτον</l>
 						<l>δύσθροον αὐδάν.    δαίμων γὰρ ὅδ’ αὖ</l>
@@ -1762,7 +1762,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 n="2" type="strophe">
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l n="950">Ἰάνων γὰρ  ἀπηύρα,</l>
 						<l>Ἰάνων ναύφρακτος</l>
@@ -1783,7 +1783,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 n="2" type="antistrophe">
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>ὀλοοὺς ἀπέλειπον</l>
 						<l>Τυρίας ἐκ ναὸς</l>
@@ -1804,7 +1804,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 n="3" type="strophe">
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>ἰὼ ἰώ μοί μοι</l>
 						<l n="975">τὰς ὠγυγίους κατιδόντες</l>
@@ -1829,7 +1829,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 n="3" type="antistrophe">
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>&lt;ἰὼ ἰὼ&gt; δῆτα</l>
 						<l>ἴυγγ’  ἀγαθῶν ἑτάρων μοι [ὑπομιμνήσκεις]</l>
@@ -1852,7 +1852,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 n="4" type="strophe">
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>βεβᾶσι γὰρ τοίπερ ἀγρέται  στρατοῦ.</l>
 					</sp>
@@ -1860,7 +1860,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l>βεβᾶσιν, οἴ,  νώνυμοι.</l>
 					</sp>
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>ἰὴ ἰή, ἰὼ  ἰώ.</l>
 					</sp>
@@ -1873,7 +1873,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 n="4" type="antistrophe">
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>πεπλήγμεθ’ οἵᾳ δῑ αἰῶνος  τύχᾳ·</l>
 					</sp>
@@ -1881,7 +1881,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l>πεπλήγμεθ’· εὔδηλα  γάρ·</l>
 					</sp>
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l n="1010">νέᾳ νέᾳ δύᾳ  δύᾳ.</l>
 					</sp>
@@ -1894,7 +1894,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 n="5" type="strophe">
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>πῶς δ’  οὔ;  στρατὸν μὲν τοσοῦ‐</l>
 						<l n="1015">τον τάλας  πέπληγμαι.</l>
@@ -1903,7 +1903,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l>τί δ’ οὔκ; ὄλωλεν μεγάλως τὰ  Περσᾶν.</l>
 					</sp>
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>ὁρᾷς τὸ λοιπὸν τόδε τᾶς ἐμᾶς  στολᾶς;</l>
 					</sp>
@@ -1911,7 +1911,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l>ὁρῶ ὁρῶ.</l>
 					</sp>
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l n="1020">τόνδε  τ’  ὀιστοδέγμονα—</l>
 					</sp>
@@ -1919,7 +1919,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l>τί τόδε λέγεις  σεσωσμένον;</l>
 					</sp>
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>θησαυρὸν βελέεσσιν;</l>
 					</sp>
@@ -1927,7 +1927,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l>βαιά γ’ ὡς ἀπὸ  πολλῶν.</l>
 					</sp>
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>ἐσπανίσμεθ’ ἀρωγῶν.</l>
 					</sp>
@@ -1938,7 +1938,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 n="5" type="antistrophe">
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>ἀγανόρειος·  κατεῖ‐</l>
 						<l>δον δὲ  πῆμ’  ἄελπτον.</l>
@@ -1947,7 +1947,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l>τραπέντα ναύφρακτον ἐρεῖς  ὅμιλον;</l>
 					</sp>
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l n="1030">πέπλον δ’ ἐπέρρηξ’ ἐπὶ  συμφορᾷ  κακοῦ.</l>
 					</sp>
@@ -1955,7 +1955,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l>παπαῖ  παπαῖ.</l>
 					</sp>
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>καὶ πλέον ἢ παπαῖ μὲν  οὖν.</l>
 					</sp>
@@ -1963,7 +1963,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l>δίδυμα γάρ ἐστι καὶ  τριπλᾶ—</l>
 					</sp>
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>λυπρά, χάρματα δ’  ἐχθροῖς.</l>
 					</sp>
@@ -1971,7 +1971,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l n="1035">καὶ σθένος γ’  ἐκολούσθη—</l>
 					</sp>
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>γυμνός εἰμι  προπομπῶν.</l>
 					</sp>
@@ -1982,7 +1982,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 n="6" type="strophe">
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>δίαινε δίαινε πῆμα·   πρὸς δόμους δ’  ἴθι.</l>
 					</sp>
@@ -1990,7 +1990,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l>αἰαῖ αἰαῖ, δύα  δύα.</l>
 					</sp>
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l n="1040">βόα νυν  ἀντίδουπά  μοι.</l>
 					</sp>
@@ -1998,7 +1998,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l>δόσιν κακὰν κακῶν  κακοῖς.</l>
 					</sp>
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>ἴυζε μέλος ὁμοῦ  τιθείς.</l>
 					</sp>
@@ -2011,7 +2011,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 n="6" type="antistrophe">
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>ἔρεσσ’ ἔρεσσε καὶ   στέναζ’ ἐμὴν  χάριν.</l>
 					</sp>
@@ -2019,7 +2019,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l>διαίνομαι γοεδνὸς  ὤν.</l>
 					</sp>
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>βόα νυν ἀντίδουπά  μοι.</l>
 					</sp>
@@ -2027,7 +2027,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l>μέλειν πάρεστι,  δέσποτα.</l>
 					</sp>
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l n="1050">ἐπορθίαζέ νυν  γόοις.</l>
 					</sp>
@@ -2040,7 +2040,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 n="7" type="strophe">
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>καὶ στέρν’ ἄρασσε κἀπιβόα τὸ  Μύσιον.</l>
 					</sp>
@@ -2048,7 +2048,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l n="1055">ἄνῑ  ἄνια.</l>
 					</sp>
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>καί μοι γενείου πέρθε λευκήρη  τρίχα.</l>
 					</sp>
@@ -2056,7 +2056,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l>ἄπριγδ’ ἄπριγδα μάλα  γοεδνά.</l>
 					</sp>
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>ἀύτει δ’  ὀξύ.</l>
 					</sp>
@@ -2067,7 +2067,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 n="7" type="antistrophe">
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l n="1060">πέπλον δ’ ἔρεικε κολπίαν  ἀκμῇ χερῶν.</l>
 					</sp>
@@ -2075,7 +2075,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l>ἄνῑ ἄνια.</l>
 					</sp>
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>καὶ ψάλλ’ ἔθειραν καὶ κατοίκτισαι  στρατόν.</l>
 					</sp>
@@ -2083,7 +2083,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l>ἄπριγδ’ ἄπριγδα μάλα  γοεδνά.</l>
 					</sp>
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>διαίνου δ’ ὄσσε.</l>
 					</sp>
@@ -2094,7 +2094,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 type="epode">
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>βόα νυν ἀντίδουπά μοι.</l>
 					</sp>
@@ -2102,7 +2102,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l>οἰοῖ  οἰοῖ.</l>
 					</sp>
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>αἰακτὸς ἐς δόμους  κίε.</l>
 					</sp>
@@ -2110,7 +2110,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l n="1070">ἰὼ ἰώ,  [Περσὶς αἶα δύσβατος].</l>
 					</sp>
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>ἰωὰ δὴ κατ’  ἄστυ.</l>
 					</sp>
@@ -2118,7 +2118,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l>ἰωὰ δῆτα, ναὶ  ναί.</l>
 					</sp>
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>γοᾶσθ’ ἁβροβάται.</l>
 					</sp>
@@ -2126,7 +2126,7 @@ convert to P3
 						<speaker>Χορός</speaker>
 						<l>ἰὼ ἰώ, Περσὶς αἶα  δύσβατος.</l>
 					</sp>
-					<sp who="#cerchs">
+					<sp who="#kserkses">
 						<speaker>Ξέρξης</speaker>
 						<l>ἰὴ ἰὴ τρισκάλμοισιν,</l>
 						<l n="1075">ἰὴ ἰή, βάρισιν  ὀλόμενοι.</l>

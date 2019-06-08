@@ -34,6 +34,7 @@
 							<publisher>Clarendon Press, Oxford</publisher>
 							<date>1907</date>
 						</imprint>
+						<date type="premiere" when="-411">411 BCE</date>
 					</bibl>
 				</biblStruct>
 			</sourceDesc>
@@ -46,7 +47,6 @@
 						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
 					</licence>
 				</availability>
-				<date type="premiere" when="-411">411 BCE</date>
 			</bibl>
 		</fileDesc>
 		<profileDesc>
@@ -184,57 +184,57 @@ bring up to P3
 		<body>
 			<div1 type="Prologue">
 				<milestone n="1" unit="card"/>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>ὦ Ζεῦ χελιδὼν ἆρά ποτε φανήσεται;</l>
 					<l>ἀπολεῖ μ’ ἀλοῶν ἅνθρωπος ἐξ ἑωθινοῦ.</l>
 					<l>οἷόν τε, πρὶν τὸν σπλῆνα κομιδῇ μ’ ἐκβαλεῖν,</l>
 					<l>παρὰ σοῦ πυφέσθαι ποῖ μ’ ἄγεις ωὖριπίδη;</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l n="5">ἀλλ’ οὐκ ἀκούειν δεῖ σε πάνθ’ ὅσ’ αὐτίκα</l>
 					<l>ὄψει παρεστώς.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l part="Y">πῶς λέγεις; αὖθις φράσον.</l>
 					<l>οὐ δεῖ μ’ ἀκούειν;</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l part="Y">οὐχ ἅ γ’ ἂν μέλλῃς ὁρᾶν.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>οὐδ’ ἆρ’ ὁρᾶν δεῖ μ’;</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l part="Y">οὐχ ἅ γ’ ἂν ἀκούειν δέῃ.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>πῶς μοι παραινεῖς; δεξιῶς μέντοι λέγεις.</l>
 					<l n="10">οὐ φὴ|ς σὺ χρῆναί μ’ οὔτ’ ἀκούειν οὔθ’ ὁρᾶν;</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l>χωρὶς γὰρ αὐτοῖν ἑκατέρου ’στὶν ἡ φύσις.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>τοῦ μήτ’ ἀκούειν μήθ’ ὁρᾶν;</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l part="Y">εὖ ἴσθ’ ὅτι.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>πῶς χωρίς;</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l part="Y">οὕτω ταῦτα διεκρίθη τότε.</l>
 					<l>αἰθὴρ γὰρ ὅτε τὰ πρῶτα διεχωρίζετο</l>
@@ -243,89 +243,89 @@ bring up to P3
 					<l>ὀφθαλμὸν ἀντίμιμον ἡλίου τροχῷ,</l>
 					<l>ἀκοῇ δὲ χοάνην ὦτα διετετρήνατο.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>διὰ τὴν χοάνην οὖν μήτ’ ἀκούω μήθ’ ὁρῶ;</l>
 					<l n="20">νὴ τὸν Δί’ ἥδομαί γε τουτὶ προσμαθών.</l>
 					<l>οἷόν γέ που ’στιν αἱ σοφαὶ ξυνουσίαι.</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l>πόλλ’ ἂν μάθοις τοιαῦτα παρ’ ἐμοῦ.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l part="Y">πῶς ἂν οὖν</l>
 					<l>πρὸς τοῖς ἀγαθοῖς τούτοισιν ἐξεύροιμ’ ὅπως</l>
 					<l>ἔτι προσμάθοιμι χωλὸς εἶναι τὼ σκέλει;</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l n="25">βάδιζε δευρὶ καὶ πρόσεχε τὸν νοῦν.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l part="Y">ἰδού.</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l>ὁρᾷς τὸ θύριον τοῦτο;</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l part="Y">νὴ τὸν Ἡρακλέα</l>
 					<l>οἶμαί γε.</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l part="Y">σίγα νυν.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l part="Y">σιωπῶ τὸ θύριον;</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l>ἄκοῡ.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l part="Y">ἀκούω καὶ σιωπῶ τὸ θύριον;</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l>ἐνταῦθ’ Ἀγάθων ὁ κλεινὸς οἰκῶν τυγχάνει</l>
 					<l n="30">ὁ τραγῳδοποιός.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l part="Y">ποῖος οὗτος Ἁγάθων;</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l>ἔστιν τις Ἀγάθων—</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l part="Y">μῶν ὁ μέλας ὁ καρτερός;</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l>οὔκ, ἀλλ’ ἕτερός τις· οὐχ ἑόρακας πώποτε;</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>μῶν ὁ δασυπώγων;</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l part="Y">οὐχ ἑόρακας πώποτε;</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>μὰ τὸν Δί’ οὔτοι γ’ ὥστε καί μέ γ’ εἰδέναι.</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l n="35">καὶ μὴν βεβίνηκας σύ γ’, ἀλλ’ οὐκ οἶσθ’ ἴσως.</l>
 					<l>ἀλλ’ ἐκποδὼν πτήξωμεν, ὡς ἐξέρχεται</l>
@@ -333,7 +333,7 @@ bring up to P3
 					<l>προθυσόμενος ἔοικε τῆς ποιήσεως.</l>
 				</sp>
 				<div2 type="anapests">
-					<sp who="#qerapwn">
+					<sp who="#therapon">
 						<speaker>Θεράπων</speaker>
 						<l>εὔφημος πᾶς ἔστω λαός,</l>
 						<l n="40">στόμα συγκλῄσας· ἐπιδημεῖ γὰρ</l>
@@ -343,47 +343,47 @@ bring up to P3
 						<l>κῦμα δὲ πόντου μὴ κελαδείτω</l>
 						<l n="45">γλαυκόν·</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">βομβάξ.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">σίγα.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">τι λέγει;</l>
 					</sp>
-					<sp who="#qerapwn">
+					<sp who="#therapon">
 						<speaker>Θεράπων</speaker>
 						<l>πτηνῶν τε γένη κατακοιμάσθω,</l>
 						<l>θηρῶν τ’ ἀγρίων πόδες ὑλοδρόμων</l>
 						<l>μὴ λυέσθων.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">βομβαλοβομβάξ.</l>
 					</sp>
-					<sp who="#qerapwn">
+					<sp who="#therapon">
 						<speaker>Θεράπων</speaker>
 						<l>μέλλει γὰρ ὁ καλλιεπὴς Ἀγάθων</l>
 						<l n="50">πρόμος ἡμέτερος—</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">μῶν βινεῖσθαι;</l>
 					</sp>
-					<sp who="#qerapwn">
+					<sp who="#therapon">
 						<speaker>Θεράπων</speaker>
 						<l>τίς ὁ φωνήσας;</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">νήνεμος αἰθήρ.</l>
 						<milestone ed="p" n="52" unit="card"/>
 					</sp>
-					<sp who="#qerapwn">
+					<sp who="#therapon">
 						<speaker>Θεράπων</speaker>
 						<l>δρυόχους τιθέναι δράματος ἀρχάς.</l>
 						<l>κάμπτει δὲ νέας ἁψῖδας ἐπῶν,</l>
@@ -392,15 +392,15 @@ bring up to P3
 						<l>καὶ κηροχυτεῖ καὶ γογγύλλει</l>
 						<l>καὶ χοανεύει.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">καὶ λαικάζει.</l>
 					</sp>
-					<sp who="#qerapwn">
+					<sp who="#therapon">
 						<speaker>Θεράπων</speaker>
 						<l>τίς ἀγροιώτας πελάθει θριγκοῖς;</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>ὃς ἕτοιμος σοῦ τοῦ τε ποιητοῦ</l>
 						<l n="60">τοῦ καλλιεποῦς κατὰ τοῦ θριγκοῦ</l>
@@ -409,186 +409,186 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="iambics">
-					<sp who="#qerapwn">
+					<sp who="#therapon">
 						<speaker>Θεράπων</speaker>
 						<l>ἦ που νέος γ’ ὢν ἦσθ’ ὑβριστὴς ὦ γέρον.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>ὦ δαιμόνιε τοῦτον μὲν ἔα χαίρειν, σὺ δὲ</l>
 						<l n="65">Ἀγάθωνά μοι δεῦρ’ ἐκκάλεσον πάσῃ τέχνῃ.</l>
 					</sp>
-					<sp who="#qerapwn">
+					<sp who="#therapon">
 						<speaker>Θεράπων</speaker>
 						<l>μηδὲν ἱκέτεῡ· αὐτὸς γὰρ ἔξεισιν τάχα.</l>
 						<l>καὶ γὰρ μελοποιεῖν ἄρχεται· χειμῶνος οὖν</l>
 						<l>ὄντος κατακάμπτειν τὰς στροφὰς οὐ ῥᾴδιον,</l>
 						<l>ἢν μὴ προίῃ θύρασι πρὸς τὸν ἥλιον.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l n="70">τί οὖν ἐγὼ δρῶ;</l>
 					</sp>
-					<sp who="#qerapwn">
+					<sp who="#therapon">
 						<speaker>Θεράπων</speaker>
 						<l part="Y">περίμεν’, ὡς ἐξερχεται.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>ὦ Ζεῦ τί δρᾶσαι διανοεῖ με τήμερον;</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>νὴ τοὺς θεοὺς ἐγὼ πυθέσθαι βούλομαι</l>
 						<l>τί τὸ πρᾶγμα τουτί. τί στένεις; τί δυσφορεῖς;</l>
 						<l>οὐ χρῆν σε κρύπτειν ὄντα κηδεστὴν ἐμόν.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l n="75">ἔστιν κακόν μοι μέγα τι προπεφυραμένον.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>ποῖόν τι;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">τῇδε θἠμέρᾳ κριθήσεται</l>
 						<l>εἴτ’ ἔστ’ ἔτι ζῶν εἴτ’ ἀπόλωλ’ Εὐριπίδης.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>καὶ πῶς; ἐπεὶ νῦν γ’ οὔτε τὰ δικαστήρια</l>
 						<l>μέλλει δικάζειν οὔτε βουλῆς ἐσθ’ ἕδρα,</l>
 						<l n="80">ἐπεὶ τρίτη ’στὶ Θεσμοφορίων ἡ μέση.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>τοῦτ’ αὐτὸ γὰρ τοι κἀπολεῖν με προσδοκῶ.</l>
 						<l>αἱ γὰρ γυναῖκες ἐπιβεβουλεύκασί μοι</l>
 						<l>κἀν Θεσμοφόροιν μέλλουσι περί μου τήμερον</l>
 						<l>ἐκκλησιάζειν ἐπ’ ὀλέθρῳ.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">τιὴ τί δή;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l n="85">ὁτιὴ τραγῳδῶ καὶ κακῶς αὐτὰς λέγω.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>νὴ τὸν Ποσειδῶ καὶ δίκαιά &lt;γ’&gt; ἂν πάθοις.</l>
 						<l>ἀτὰρ τίν’ ἐκ τούτων σὺ μηχανὴν ἔχεις;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>Ἀγάθωνα πεῖσαι τὸν τραγῳδοδιδάσκαλον</l>
 						<l>ἐς Θεσμοφόροιν ἐλθεῖν.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">τί δράσοντ’; εἰπέ μοι.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l n="90">ἐκκλησιάσοντ’ ἐν ταῖς γυναιξὶ κἂν δέῃ</l>
 						<l>λέξονθ’ ὑπὲρ ἐμοῦ.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">πότερα φανερῶς ἢ λάθρᾳ;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>λάθρᾳ, στολὴν γυναικὸς ἠμφιεσμένον.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>τὸ πρᾶγμα κομψὸν καὶ σφόδρ’ ἐκ τοῦ σοῦ τρόπου·</l>
 						<l>τοῦ γὰρ τεχνάζειν ἡμέτερος ὁ πυραμοῦς.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l n="95">σίγα.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">τί δ’ ἔστιν;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">Ἁγάθων ἐξέρχεται.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>καὶ ποῖός ἐστιν;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">οὗτος οὑκκυκλούμενος.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>ἀλλ’ ἢ τυφλὸς μέν εἰμ’· ἐγὼ γὰρ οὐχ ὁρῶ</l>
 						<l>ἄνδρ’ οὐδέν’ ἐνθάδ’ ὄντα, Κυρήνην δ’ ὁρῶ.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>σίγα· μελῳδεῖν γὰρ παρασκευάζεται.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l n="100">μύρμηκος ἀτραπούς, ἢ τί διαμινύρεται;</l>
 						<milestone ed="p" n="101" unit="card"/>
 					</sp>
 				</div2>
 				<div2 type="lyric">
-					<sp who="#agaqwn">
+					<sp who="#agathon">
 						<speaker>Ἀγάθων</speaker>
 						<l>ἱερὰν χθονίαις δεξάμεναι</l>
 						<l>λαμπάδα κοῦραι ξὺν ἐλευθέρᾳ</l>
 						<l>πατρίδι χορεύσασθε βοάν.</l>
 					</sp>
-					<sp who="#xorosagaqwnos">
+					<sp who="#xorosagathonos">
 						<speaker>Χορὸς Ἀγάθωνος</speaker>
 						<l>τίνι δαιμόνων ὁ κῶμος;</l>
 						<l n="105">λέγε νυν. εὐπίστως δὲ τοὐμὸν</l>
 						<l>δαίμονας ἔχει σεβίσαι.</l>
 					</sp>
-					<sp who="#agaqwn">
+					<sp who="#agathon">
 						<speaker>Ἀγάθων</speaker>
 						<l>ἄγε νυν ὄλβιζε Μοῦσα</l>
 						<l>χρυσέων ῥύτορα τόξων</l>
 						<l n="110">Φοῖβον, ὃς ἱδρύσατο χώρας</l>
 						<l>γύαλα Σιμουντίδι γᾷ.</l>
 					</sp>
-					<sp who="#xorosagaqwnos">
+					<sp who="#xorosagathonos">
 						<speaker>Χορὸς Ἀγάθωνος</speaker>
 						<l>χαῖρε καλλίστας ἀοιδᾶς</l>
 						<l>Φοῖβ’ ἐν εὐμούσοισι τιμαῖς</l>
 						<l>γέρας ἱερὸν προφέρων.</l>
 					</sp>
-					<sp who="#agaqwn">
+					<sp who="#agathon">
 						<speaker>Ἀγάθων</speaker>
 						<l>τάν τ’ ἐν ὄρεσι δρυογόνοισι</l>
 						<l n="115">κόραν ἀείσατ’</l>
 						<l>Ἄρτεμιν ἀγροτέραν.</l>
 					</sp>
-					<sp who="#xorosagaqwnos">
+					<sp who="#xorosagathonos">
 						<speaker>Χορὸς Ἀγάθωνος</speaker>
 						<l>ἕπομαι κλῄζουσα σεμνὸν</l>
 						<l>γόνον ὀλβίζουσα Λατοῦς</l>
 						<l>Ἄρτεμιν ἀπειρολεχῆ.</l>
 					</sp>
-					<sp who="#agaqwn">
+					<sp who="#agathon">
 						<speaker>Ἀγάθων</speaker>
 						<l n="120">Λατώ τε κρούματά τ’ Ἀσιάδος</l>
 						<l>ποδὶ †παράρυθμ’ εὔρυθμα Φρυγίων</l>
 						<l>διανεύματα Χαρίτων†.</l>
 					</sp>
-					<sp who="#xorosagaqwnos">
+					<sp who="#xorosagathonos">
 						<speaker>Χορὸς Ἀγάθωνος</speaker>
 						<l>σέβομαι Λατώ τ’ ἄνασσαν</l>
 						<l>κίθαρίν τε ματέρ’ ὕμνων</l>
@@ -600,7 +600,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="iambics">
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l n="130">ὡς ἡδὺ τὸ μέλος ὦ πότνιαι Γενετυλλίδες</l>
 						<l>καὶ θηλυδριῶδες καὶ κατεγλωττισμένον</l>
@@ -619,7 +619,7 @@ bring up to P3
 						<l>τί φῄς; τί σιγᾷς; ἀλλὰ δῆτ’ ἐκ τοῦ μέλους</l>
 						<l n="145">ζητῶ σ’, ἐπειδή γ’ αὐτὸς οὐ βούλει φράσαι;</l>
 					</sp>
-					<sp who="#agaqwn">
+					<sp who="#agathon">
 						<speaker>Ἀγάθων</speaker>
 						<l>ὦ πρέσβυ πρέσβυ, τοῦ φθόνου μὲν τὸν ψόγον</l>
 						<l>ἤκουσα, τὴν δ’ ἄλγησιν οὐ παρεσχόμην·</l>
@@ -630,22 +630,22 @@ bring up to P3
 						<l>μετουσίαν δεῖ τῶν τρόπων τὸ σῶμ’ ἔχειν.</l>
 						<milestone ed="p" n="153" unit="card"/>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>οὐκοῦν κελητίζεις, ὅταν Φαίδραν ποιῇς;</l>
 					</sp>
-					<sp who="#agaqwn">
+					<sp who="#agathon">
 						<speaker>Ἀγάθων</speaker>
 						<l>ἀνδρεῖα δ’ ἢν ποιῇ τις, ἐν τῷ σώματι</l>
 						<l n="155">ἔνεσθ’ ὑπάρχον τοῦθ’. ἃ δ’ οὐ κεκτήμεθα,</l>
 						<l>μίμησις ἤδη ταῦτα συνθηρεύεται.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>ὅταν σατύρους τοίνυν ποιῇς, καλεῖν ἐμέ,</l>
 						<l>ἵνα συμποιῶ σοὔπισθεν ἐστυκὼς ἐγώ.</l>
 					</sp>
-					<sp who="#agaqwn">
+					<sp who="#agathon">
 						<speaker>Ἀγάθων</speaker>
 						<l>ἄλλως τ’ ἄμουσόν ἐστι ποιητὴν ἰδεῖν</l>
 						<l n="160">ἀγρεῖον ὄντα καὶ δασύν· σκέψαι δ’ ὅτι</l>
@@ -657,94 +657,94 @@ bring up to P3
 						<l>διὰ τοῦτ’ ἄρ’ αὐτοῦ καὶ κάλ’ ἦν τὰ δράματα.</l>
 						<l>ὅμοια γὰρ ποιεῖν ἀνάγκη τῇ φύσει.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>ταῦτ’ ἄρ’ ὁ Φιλοκλέης αἰσχρὸς ὢν αἰσχρῶς ποιεῖ,</l>
 						<l>ὁ δ’ αὖ Ξενοκλέης ὢν κακὸς κακῶς ποιεῖ,</l>
 						<l n="170">ὁ δ’ αὖ Θέογνις ψυχρὸς ὢν ψυχρῶς ποιεῖ.</l>
 					</sp>
-					<sp who="#agaqwn">
+					<sp who="#agathon">
 						<speaker>Ἀγάθων</speaker>
 						<l>ἅπασ’ ἀνάγκη· ταῦτα γάρ τοι γνοὺς ἐγὼ</l>
 						<l>ἐμαυτὸν ἐθεράπευσα.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">πῶς πρὸς τῶν θεῶν;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>παῦσαι βαΰζων· καὶ γὰρ ἐγὼ τοιοῦτος ἦν</l>
 						<l>ὢν τηλικοῦτος, ἡνίκ’ ἠρχόμην ποιεῖν.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l n="175">μὰ τὸν Δί’ οὐ ζηλῶ σε τῆς παιδεύσεως.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>ἀλλ’ ὧνπερ οὕνεκ’ ἦλθον, ἔα μ’ εἰπεῖν.</l>
 					</sp>
-					<sp who="#agaqwn">
+					<sp who="#agathon">
 						<speaker>Ἀγάθων</speaker>
 						<l part="Y">λέγε.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>Ἀγάθων, σοφοῦ πρὸς ἀνδρός, ὅστις ἐν βραχεῖ</l>
 						<l>πολλοὺς καλῶς οἷός τε συντέμνειν λόγους.</l>
 						<l>ἐγὼ δὲ καινῇ ξυμφορᾷ πεπληγμένος</l>
 						<l n="180">ἱκέτης ἀφῖγμαι πρὸς σέ.</l>
 					</sp>
-					<sp who="#agaqwn">
+					<sp who="#agathon">
 						<speaker>Ἀγάθων</speaker>
 						<l part="Y">τοῦ χρείαν ἔχων;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>μέλλουσί μ’ αἱ γυναῖκες ἀπολεῖν τήμερον</l>
 						<l>τοῖς Θεσμοφορίοις, ὅτι κακῶς αὐτὰς λέγω.</l>
 					</sp>
-					<sp who="#agaqwn">
+					<sp who="#agathon">
 						<speaker>Ἀγάθων</speaker>
 						<l>τίς οὖν παρ’ ἡμῶν ἐστιν ὠφέλειά σοι;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>ἡ πᾶσ’· ἐὰν γὰρ ἐγκαθεζόμενος λάθρᾳ</l>
 						<l n="185">ἐν ταῖς γυναιξίν, ὡς δοκῶν εἶναι γυνή,</l>
 						<l>ὑπεραποκρίνῃ μου, σαφῶς σώσεις ἐμέ.</l>
 						<l>μόνος γὰρ ἂν λέξειας ἀξίως ἐμοῦ.</l>
 					</sp>
-					<sp who="#agaqwn">
+					<sp who="#agathon">
 						<speaker>Ἀγάθων</speaker>
 						<l>ἔπειτα πῶς οὐκ αὐτὸς ἀπολογεῖ παρών;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>ἐγὼ φράσω σοι. πρῶτα μὲν γιγνώσκομαι·</l>
 						<l n="190">ἔπειτα πολιός εἰμι καὶ πώγων’ ἔχω,</l>
 						<l>σὺ δ’ εὐπρόσωπος λευκὸς ἐξυρημένος</l>
 						<l>γυναικόφωνος ἁπαλὸς εὐπρεπὴς ἰδεῖν.</l>
 					</sp>
-					<sp who="#agaqwn">
+					<sp who="#agathon">
 						<speaker>Ἀγάθων</speaker>
 						<l>Εὐριπίδη—</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">τί ἔστιν;</l>
 					</sp>
-					<sp who="#agaqwn">
+					<sp who="#agathon">
 						<speaker>Ἀγάθων</speaker>
 						<l part="Y">ἐποίησάς ποτε,</l>
 						<l>‘χαίρεις ὁρῶν φῶς, πατέρα δ’ οὐ χαίρειν δοκεῖς;’</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l n="195">ἔγωγε.</l>
 					</sp>
-					<sp who="#agaqwn">
+					<sp who="#agathon">
 						<speaker>Ἀγάθων</speaker>
 						<l part="Y">μή νυν ἐλπίσῃς τὸ σὸν κακὸν</l>
 						<l>ἡμᾶς ὑφέξειν. καὶ γὰρ ἂν μαινοίμεθ’ ἄν.</l>
@@ -752,345 +752,345 @@ bring up to P3
 						<l>τὰς συμφορὰς γὰρ οὐχὶ τοῖς τεχνάσμασιν</l>
 						<l>φέρειν δίκαιον ἀλλὰ τοῖς παθήμασιν.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l n="200">καὶ μὴν ού γ’ ὦ κατάπυγον εὐρύπρωκτος εἶ</l>
 						<l>οὐ τοῖς λόγοισιν ἀλλὰ τοῖς παθήμασιν.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>τί δ’ ἔστιν ὅτι δέδοικας ἐλθεῖν αὐτόσε;</l>
 					</sp>
-					<sp who="#agaqwn">
+					<sp who="#agathon">
 						<speaker>Ἀγάθων</speaker>
 						<l>κάκιον ἀπολοίμην ἂν ἢ σύ.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">πῶς;</l>
 					</sp>
-					<sp who="#agaqwn">
+					<sp who="#agathon">
 						<speaker>Ἀγάθων</speaker>
 						<l part="Y">ὅπως;</l>
 						<l>δοκῶν γυναικῶν ἔργα νυκτερείσια</l>
 						<l n="205">κλέπτειν ὑφαρπάζειν τε θήλειαν Κύπριν.</l>
 						<milestone ed="p" n="206" unit="card"/>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>ἰδού γε κλέπτειν· νὴ Δία βινεῖσθαι μὲν οὖν.</l>
 						<l>ἀτὰρ ἡ πρόφασίς γε νὴ Δί’ εἰκότως ἔχει.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>τί οὖν; ποιήσεις ταῦτα;</l>
 					</sp>
-					<sp who="#agaqwn">
+					<sp who="#agathon">
 						<speaker>Ἀγάθων</speaker>
 						<l part="Y">μὴ δόκει γε σύ.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>ὦ τρισκακοδαίμων ὡς ἀπόλωλ’ Εὐριπίδης.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l n="210">ὦ φίλτατ’ ὦ κηδεστὰ μὴ σαυτὸν προδῷς.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>πῶς οὖν ποιήσω δῆτα;</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">τοῦτον μὲν μακρὰ</l>
 						<l>κλάειν κέλεῡ, ἐμοὶ δ’ ὅ τι βούλει χρῶ λαβών.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>ἄγε νυν ἐπειδὴ σαυτὸν ἐπιδίδως ἐμοί,</l>
 						<l>ἀπόδυθι τουτὶ θοἰμάτιον.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">καὶ δὴ χαμαί.</l>
 						<l n="215">ἀτὰρ τί μέλλεις δρᾶν μ’;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">ἀποξυρεῖν ταδί,</l>
 						<l>τὰ κάτω δ’ ἀφεύειν.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">ἀλλὰ πρᾶττ’, εἴ σοι δοκεῖ.</l>
 						<l>ἢ μὴ’ πιδοῦν’ ἐμαυτὸν ὤφελόν ποτε.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>Ἀγάθων σὺ μέντοι ξυροφορεῖς ἑκάστοτε,</l>
 						<l>χρῆσόν τί νυν ἡμῖν ξυρόν.</l>
 					</sp>
-					<sp who="#agaqwn">
+					<sp who="#agathon">
 						<speaker>Ἀγάθων</speaker>
 						<l part="Y">αὐτὸς λάμβανε</l>
 						<l n="220">ἐντεῦθεν ἐκ τῆς ξυροδόκης.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">γενναῖος εἶ.</l>
 						<l>κάθιξε· φύσα τὴν γνάθον τὴν δεξιάν.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>ὤμοι.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">τί κέκραγας; ἐμβαλῶ σοι πάτταλον,</l>
 						<l>ἢν μὴ σιωπᾷς.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">ἀτταταῖ ἰατταταῖ.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>οὗτος σὺ ποῖ θεῖς;</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">ἐς τὸ τῶν σεμνῶν</l>
 						<l n="225">θεῶν· οὐ γὰρ μὰ τὴν Δήμητρά γ’ ἐνταυθοῖ μενῶ</l>
 						<l>τεμνόμενος.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">οὔκουν καταγέλαστος δῆτ’ ἔσει</l>
 						<l>τὴν ἡμίκραιραν τὴν ἑτέραν ψιλὴν ἔχων;</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>ὀλίγον μέλει μοι.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">μηδαμῶς πρὸς τῶν θεῶν</l>
 						<l>προδῷς με· χώρει δεῦρο.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">κακοδαίμων ἐγώ.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l n="230">ἔχ’ ἀτρέμα σαυτὸν κἀνάκυπτε· ποῖ στρέφει;</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>μυμῦ.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">τί μύξεις; πάντα πεποίηται καλῶς.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>οἴμοι κακοδαίμων, ψιλὸς αὖ στρατεύσομαι.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>μὴ φροντίσῃ· ὡς εὐπρεπὴς φανεῖ πάνυ.</l>
 						<l>βούλει θεᾶσθαι σαυτόν;</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">εἰ δοκεῖ, φέρε.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l n="235">ὁρᾷς σεαυτόν;</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">οὐ μὰ Δί’ ἀλλὰ Κλεισθένη.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>ἀνίστασ’, ἵν’ ἀφεύσω σε, κἀγκύψας ἔχε.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>οἴμοι κακοδαίμων δελφάκιον γενήσομαι.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>ἐνεγκάτω τις ἔνδοθεν δᾷδ’ ἢ λύχνον.</l>
 						<l>ἐπίκυπτε· τὴν κέρκον φυλάττου νυν ἄκραν.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l n="240">ἐμοὶ μελήσει νὴ Δία, πλήν γ’ ὅτι κάομαι.</l>
 						<l>οἴμοι τάλας. ὕδωρ ὕδωρ ὦ γείτονες.</l>
 						<l>πρὶν ἀντιλαβέσθαι †πρωκτὸν τῆς φλογός.†</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>θάρρει.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">τί θαρρῶ καταπεπυρπολημένος;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>ἀλλ’ οὐκ ἔτ’ οἰδὲν πρᾶγμά σοι· τὰ πλεῖστα γὰρ</l>
 						<l n="245">ἀποπεπόνηκας.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">φῦ ἰοὺ τῆς ἀσβόλου.</l>
 						<l>αἰθὸς γεγένημαι πάντα τὰ περὶ τὴν τράμιν.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>μὴ φροντίσῃς· ἕτερος γὰρ αὐτὰ σφογγιεῖ.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>οἰμώξετἄρ’ εἴ τις τὸν ἐμὸν πρωκτὸν πλυνεῖ.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>Ἀγάθων, ἐπειδὴ σαυτὸν ἐπιδοῦναι φθονεῖς,</l>
 						<l n="250">ἀλλ’ ἱμάτιον γοῦν χρῆσον ἡμῖν τουτῳὶ</l>
 						<l>καὶ στρόφιον· οὐ γὰρ ταῦτά γ’ ὡς οὐκ ἔστ’ ἐρεῖς.</l>
 					</sp>
-					<sp who="#agaqwn">
+					<sp who="#agathon">
 						<speaker>Ἀγάθων</speaker>
 						<l>λαμβάνετε καὶ χρῆσθ’· οὐ φθονῶ.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">τί οὖν λάβω;</l>
 					</sp>
-					<sp who="#agaqwn">
+					<sp who="#agathon">
 						<speaker>Ἀγάθων</speaker>
 						<l part="Y">ὅ τι; τὸν κροκωτὸν πρῶτον ἐνδύου λαβών.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">νὴ τὴν Ἀφροδίτην ἡδύ γ’ ὄζει ποσθίου.</l>
 						<l n="255">σύζωσον ἀνύσας. αἶρε νῦν στρόφιον.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">ἰδού.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>ἴθι νυν κατάστειλόν με τὰ περὶ τὼ σκέλει.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>κεκρυφάλου δεῖ καὶ μίτρας.</l>
 					</sp>
-					<sp who="#agaqwn">
+					<sp who="#agathon">
 						<speaker>Ἀγάθων</speaker>
 						<l part="Y">ἡδὶ μὲν οὖν</l>
 						<l>κεφαλὴ περίθετος, ἣν ἐγὼ νύκτωρ φορῶ.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>νὴ τὸν Δί’ ἀλλὰ κἀπιτηδεία πάνυ.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l n="260">ἆρ’ ἁρμόσει μοι;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">νὴ Δί’ ἀλλ’ ἄριστ’ ἔχει.</l>
 						<l>φέρ’ ἔγκυκλον·</l>
 					</sp>
-					<sp who="#agaqwn">
+					<sp who="#agathon">
 						<speaker>Ἀγάθων</speaker>
 						<l part="Y">τουτὶ λάβ’ ἀπὸ τῆς κλινίδος.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>ὑποδημάτων δεῖ.</l>
 					</sp>
-					<sp who="#agaqwn">
+					<sp who="#agathon">
 						<speaker>Ἀγάθων</speaker>
 						<l part="Y">τἀμὰ ταυτὶ λάμβανε.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>ἆρ’ ἁρμόσει μοι;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">χαλαρὰ γοῦν χαίρεις φορῶν.</l>
 					</sp>
-					<sp who="#agaqwn">
+					<sp who="#agathon">
 						<speaker>Ἀγάθων</speaker>
 						<l part="Y">σὺ τοῦτο γίγνωσκ’· ἀλλ’ ἔχεις γὰρ ὧν δέει,</l>
 						<l n="265">εἴσω τις ὡς τάχιστά μ’ ἐσκυκλησάτω.</l>
 						<milestone ed="p" n="266" unit="card"/>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>ἁνὴρ μὲν ἡμῖν οὑτοσὶ καὶ δὴ γυνὴ</l>
 						<l>τό γ’ εἶδος· ἢν λαλῇς δ’, ὅπως τῷ φθέγματι</l>
 						<l>γυναικιεῖς εὖ καὶ πιθανῶς.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">πειράσομαι.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>βάδιζε τοίνυν.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">μὰ τὸν Ἀπόλλω οὔκ, ἤν γε μὴ</l>
 						<l n="270">ὀμόσῃς ἐμοί—</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">τί χρῆμα;</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">συσσώσειν ἐμὲ</l>
 						<l>πάσαις τέχναις, ἤν μοί τι περιπίπτῃ κακόν.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>ὄμνυμι τοίνυν αἰθέρ’ οἴκησιν Διός.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>τί μᾶλλον ἢ τὴν Ἱπποκράτους ξυνοικίαν;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>ὄμνυμι τοίνυν πάντας ἄρδην τοὺς θεούς.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l n="275">μέμνησο τοίνυν ταῦθ’, ὅτι ἡ φρὴν ὤμοσεν,</l>
 						<l>ἡ γλῶττα δ’ οὐκ ὀμώμοκ’· οὐδ’ ὥρκωσ’ ἐγώ.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>ἔκσπευδε ταχέως· ὡς τὸ τῆς ἐκκλησίας</l>
 						<l>σημεῖον ἐν τῷ Θεσμοφορείῳ φαίνεται.</l>
 						<l>ἐγὼ δ’ ἄπειμι.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">δεῦρό νυν ὦ Θρᾷτθ’ ἕπου.</l>
 						<l n="280">ὦ Θρᾷττα θέασαι, καομένων τῶν λαμπάδων</l>
@@ -1114,7 +1114,7 @@ bring up to P3
 			</div1>
 			<div1 type="Parodos">
 				<div2 met="none" type="prologue">
-					<sp who="#khrukaina">
+					<sp who="#kerykaina">
 						<speaker>Κηρύκαινα</speaker>
 						<l n="295">εὐφημία ’στω, εὐφημία ’στω. εὔχεσθε τοῖν</l>
 						<l>Θεσμοφόροιν τῇ Δήμητρι καὶ τῇ Κόρῃ καὶ τῷ</l>
@@ -1155,7 +1155,7 @@ bring up to P3
 						<l n="330b">εὐγενεῖς γυναῖκες.</l>
 						<milestone ed="p" n="331" unit="card"/>
 					</sp>
-					<sp who="#khrukaina">
+					<sp who="#kerykaina">
 						<speaker>Κηρύκαινα</speaker>
 						<l>εὔχεσθε τοῖς θεοῖσι τοῖς Ὀλυμπίοις</l>
 						<l>καὶ ταῖς Ὀλυμπίαισι καὶ τοῖς Πυθίοις</l>
@@ -1206,7 +1206,7 @@ bring up to P3
 				</div2>
 			</div1>
 			<div1 type="Lyric-Scene">
-				<sp who="#khrukaina">
+				<sp who="#kerykaina">
 					<speaker>Κηρύκαινα</speaker>
 					<l>ἄκουε πᾶς. ἔδοξε τῇ βουλῇ τάδε</l>
 					<l>τῇ τῶν γυναικῶν· Τιμόκλεῑ ἐπεστάτει,</l>
@@ -1217,11 +1217,11 @@ bring up to P3
 					<l>ὅ τι χρὴ παθεῖν ἐκεῖνον· ἀδικεῖν γὰρ δοκεῖ</l>
 					<l>ἡμῖν ἁπάσαις. τίς ἀγορεύειν βούλεται;</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l n="380">ἐγώ.</l>
 				</sp>
-				<sp who="#khrukaina">
+				<sp who="#kerykaina">
 					<speaker>Κηρύκαινα</speaker>
 					<l part="Y">περίθου νυν τόνδε πρῶτον πρὶν λέγειν.</l>
 				</sp>
@@ -1230,7 +1230,7 @@ bring up to P3
 					<l>σίγα σιώπα, πρόσεχε τὸν νοῦν· χρέμπτεται γὰρ ἤδη</l>
 					<l>ὅπερ ποιοῦσ’ οἱ ῥήτορες. μακρὰν ἔοικε λέξειν.</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l>φιλοτιμίᾳ μὲν οὐδεμιᾷ μὰ τὼ θεὼ</l>
 					<l>λέξουσ’ ἀνέστην ὦ γυναῖκες· ἀλλὰ γὰρ</l>
@@ -1302,7 +1302,7 @@ bring up to P3
 						<l n="442b">ἄντικρυς μηδὲν λέγειν.</l>
 						<milestone ed="p" n="443" unit="card"/>
 					</sp>
-					<sp who="#gunhb">
+					<sp who="#gyneb">
 						<speaker>Γυνὴ Β</speaker>
 						<l>ὀλίγων ἕνεκα καὐτὴ παρῆλθον ῥημάτων.</l>
 						<l>τὰ μὲν γὰρ ἄλλ’ αὕτη κατηγόρηκεν εὖ·</l>
@@ -1338,7 +1338,7 @@ bring up to P3
 						<l n="465c">περιφανῶς δοῦναι δίκην.</l>
 						<milestone ed="p" n="466" unit="card"/>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l n="466">τὸ μὲν ὦ γυναῖκες ὀξυθυμεῖσθαι σφόδρα</l>
 						<l>Εὐριπίδῃ, τοιαῦτ’ ἀκουούσας κακά,</l>
@@ -1425,7 +1425,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 met="anapests" type="epirrheme">
-					<sp who="#gunha">
+					<sp who="#gynea">
 						<speaker>Γυνὴ Α</speaker>
 						<l>οὔ τοι μὰ τὴν Ἄγλαυρον ὦ γυναῖκες εὖ φρονεῖτε,</l>
 						<l>ἀλλ’ ἢ πεφάρμαχθ’ ἢ κακόν τι μέγα πεπόνθατ’ ἄλλο,</l>
@@ -1435,14 +1435,14 @@ bring up to P3
 						<l>ταύτης ἀποψιλώσομεν τὸν χοῖρον, ἵνα διδαχθῇ</l>
 						<l>γυνὴ γυναῖκας οὖσα μὴ κακῶς λέγειν τὸ λοιπόν.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l n="540">μὴ δῆτα τόν γε χοῖρον ὦ γυναῖκες. εἰ γὰρ οὔσης</l>
 						<l>παρρησίας κἀξὸν λέγειν ὅσαι πάρεσμεν ἀσταί,</l>
 						<l>εἶτ’ εἶπον ἁγίγνωσκον ὑπὲρ Εὐριπίδου δίκαια,</l>
 						<l>διὰ τοῦτο τιλλομένην με δεῖ δοῦναι δίκην ὑφ’ ὑμῶν;</l>
 					</sp>
-					<sp who="#gunha">
+					<sp who="#gynea">
 						<speaker>Γυνὴ Α</speaker>
 						<l>οὐ γάρ σε δεῖ δοῦναι δίκην; ἥτις μόνη τέτληκας</l>
 						<l n="545">ὑπὲρ ἀνδρὸς ἀντειπεῖν, ὃς ἡμᾶς πολλὰ κακὰ δέδρακεν</l>
@@ -1450,97 +1450,97 @@ bring up to P3
 						<l>ἐγένετο, Μελανίππας ποιῶν Φαίδρας τε· Πηνελόπην δὲ</l>
 						<l>οὐπώποτ’ ἐποίησ’, ὅτι γυνὴ σώφρων ἔδοξεν εἶναι.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>ἐγὼ γὰρ οἶδα ταἴτιον. Μίαν γὰρ οὐκ ἂν εἴποις</l>
 						<l n="550">τῶν νῦν γυναικῶν Πηνελόπην, Παίδρας δ’ ἁπαξαπάσας.</l>
 					</sp>
-					<sp who="#gunha">
+					<sp who="#gynea">
 						<speaker>Γυνὴ Α</speaker>
 						<l>ἀκούετ’ ὦ γυναῖκες οἷ’ εἴρηκεν ἡ πανοῦργος</l>
 						<l>ἡμᾶς ἁπάσας αὖθις αὖ.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">καὶ νὴ Δί’ οὐδέπω γε</l>
 						<l>εἴρηχ’ ὅσα ξύνοιδ’· ἐπεὶ βούλεσθε πλείον’ εἴπω;</l>
 					</sp>
-					<sp who="#gunha">
+					<sp who="#gynea">
 						<speaker>Γυνὴ Α</speaker>
 						<l>ἀλλ’ οὐκ ἂν ἔτ’ ἔχοις· ὅσα γὰρ ᾔδησθ’ ἐξέχεας ἅπαντα.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l n="555">μὰ Δί’ οὐδέπω τὴν μυριοστὴν μοῖραν ὧν ποιοῦμεν.</l>
 						<l>ἐπεὶ τάδ’ οὐκ εἴρηχ’, ὁρᾷς, ὡς στλεγγίδας λαβοῦσαι</l>
 						<l>ἔπειτα σιφωνίζομεν τὸν οἶνον.</l>
 					</sp>
-					<sp who="#gunha">
+					<sp who="#gynea">
 						<speaker>Γυνὴ Α</speaker>
 						<l part="Y">ἐπιτριβείης.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>ὥς τ’ αὖ τὰ κρέ’ ἐξ Ἀπατουρίων ταῖς μαστροποῖς διδοῦσαι</l>
 						<l>ἔπειτα τὴν γαλῆν φαμεν—</l>
 					</sp>
-					<sp who="#gunha">
+					<sp who="#gynea">
 						<speaker>Γυνὴ Α</speaker>
 						<l part="Y">τάλαιν’ ἐγώ· φλυαρεῖς.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l n="560">οὐδ’ ὡς τὸν ἄνδρα τῷ πελέκει γυνὴ κατεσπόδησεν,</l>
 						<l>οὐκ εἶπον· οὐδ’ ὡς φαρμάκοις ἑτέρα τὸν ἄνδρ’ ἔμηνεν,</l>
 						<l>οὐδ’ ὡς ὑπὸ τῇ πυέλῳ κατώρυξέν ποτ’—</l>
 					</sp>
-					<sp who="#gunha">
+					<sp who="#gynea">
 						<speaker>Γυνὴ Α</speaker>
 						<l part="Y">ἐξόλοιο.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>ἁχαρνικὴ τὸν πατέρα.</l>
 					</sp>
-					<sp who="#gunha">
+					<sp who="#gynea">
 						<speaker>Γυνὴ Α</speaker>
 						<l part="Y">ταυτὶ δῆτ’ ἀνέκτ’ ἀκούειν;</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l n="565">οὐδ’ ὡς σὺ τῆς δούλης τεκούσης ἄρρεν εἶτα σαυτῇ</l>
 						<l>τοῦθ’ ὑπεβάλου, τὸ σὸν δὲ θυγάτριον παρῆκας αὐτῇ.</l>
 					</sp>
-					<sp who="#gunha">
+					<sp who="#gynea">
 						<speaker>Γυνὴ Α</speaker>
 						<l>οὔ τοι μὰ τὼ θεὼ σὺ καταπροίξει λέγουσα ταυτί,</l>
 						<l>ἀλλ’ ἐκποκιῶ σου τὰς ποκάδας.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">οὐ δὴ μὰ Δία σύ γ’ ἅψει.</l>
 					</sp>
-					<sp who="#gunha">
+					<sp who="#gynea">
 						<speaker>Γυνὴ Α</speaker>
 						<l>καὶ μὴν ἰδού.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">καὶ μὴν ἰδού.</l>
 					</sp>
-					<sp who="#gunha">
+					<sp who="#gynea">
 						<speaker>Γυνὴ Α</speaker>
 						<l part="Y">λαβὲ θοἰμάτιον Φιλίστη.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>πρόσθες μόνον, κἀγώ σε νὴ τὴν Ἄρτεμιν—</l>
 					</sp>
-					<sp who="#gunha">
+					<sp who="#gynea">
 						<speaker>Γυνὴ Α</speaker>
 						<l part="Y">τί δράσεις;</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l n="570">τὸν σησαμοῦνθ’ ὃν κατέφαγες, τοῦτον χεσεῖν ποιήσω.</l>
 					</sp>
@@ -1554,7 +1554,7 @@ bring up to P3
 				</div2>
 			</div1>
 			<div1 type="Episode">
-				<sp who="#kleisqenhs">
+				<sp who="#kleisthenes">
 					<speaker>Κλεισθένης</speaker>
 					<l>φίλαι γυναῖκες ξυγγενεῖς τοὐμοῦ τρόπου·</l>
 					<l n="575">ὅτι μὲν φίλος εἴμ’ ὑμῖν, ἐπίδηλος ταῖς γνάθοις·</l>
@@ -1570,7 +1570,7 @@ bring up to P3
 					<l>τί δ’ ἔστιν ὦ παῖ; παῖδα γάρ σ’ εἰκὸς καλεῖν,</l>
 					<l>ἕως ἂν οὕτως τὰς γνάθους ψιλὰς ἔχῃς.</l>
 				</sp>
-				<sp who="#kleisqenhs">
+				<sp who="#kleisthenes">
 					<speaker>Κλεισθένης</speaker>
 					<l>Εὐριπίδην φάσ’ ἄνδρα κηδεστήν τινα</l>
 					<l n="585">αὑτοῦ γέροντα δεῦρ’ ἀναπέμψαι τήμερον.</l>
@@ -1579,7 +1579,7 @@ bring up to P3
 					<speaker>Χορός</speaker>
 					<l>πρὸς ποῖον ἔργον ἢ τίνος γνώμης χάριν;</l>
 				</sp>
-				<sp who="#kleisqenhs">
+				<sp who="#kleisthenes">
 					<speaker>Κλεισθένης</speaker>
 					<l>ἵν’ ἅττα βουλεύοισθε καὶ μέλλοιτε δρᾶν,</l>
 					<l>ἐκεῖνος εἴη τῶν λόγων κατάσκοπος.</l>
@@ -1588,18 +1588,18 @@ bring up to P3
 					<speaker>Χορός</speaker>
 					<l>καὶ πῶς λέληθεν ἐν γυναιξὶν ὢν ἀνήρ;</l>
 				</sp>
-				<sp who="#kleisqenhs">
+				<sp who="#kleisthenes">
 					<speaker>Κλεισθένης</speaker>
 					<l n="590">ἀφηῦσεν αὐτὸν κἀπέτιλ’ Εὐριπίδης</l>
 					<l>καὶ τἄλλ’ ἅπανθ’ ὥσπερ γυναῖκ’ ἐσκεύασεν.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>πείθεσθε τούτῳ ταῦτα; τίς δ’ οὕτως ἀνὴρ</l>
 					<l>ἠλίθιος ὅστις τιλλόμενος ἠνείχετο;</l>
 					<l>οὐκ οἴομαι ’γωγ’ ὦ πολυτιμήτω θεώ.</l>
 				</sp>
-				<sp who="#kleisqenhs">
+				<sp who="#kleisthenes">
 					<speaker>Κλεισθένης</speaker>
 					<l n="595">ληρεῖς· ἐγὼ γὰρ οὐκ ἂν ἦλθον ἀγγελῶν,</l>
 					<l>εἰ μὴ ’πεπύσμην ταῦτα τῶν σάφ’ εἰδότων.</l>
@@ -1613,27 +1613,27 @@ bring up to P3
 					<l>καὶ σὺ ξυνέξευρ’ αὐτόν, ὡς ἂν τὴν χάριν</l>
 					<l>ταύτην τε κἀκείνην ἔχῃς ὦ πρόξενε.</l>
 				</sp>
-				<sp who="#kleisqenhs">
+				<sp who="#kleisthenes">
 					<speaker>Κλεισθένης</speaker>
 					<l>φέρ’ ἴδω· τίς ἡ πρώτη σύ;</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l part="Y">ποῖ τις τρέψεται;</l>
 				</sp>
-				<sp who="#kleisqenhs">
+				<sp who="#kleisthenes">
 					<speaker>Κλεισθένης</speaker>
 					<l>ζητητέαι γάρ ἐστε.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l part="Y">κακοδαίμων ἐγώ.</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l n="605">ἔμ’ ἥτις &lt;εἴμ’&gt; ἤρου; Κλεωνύμου γυνή.</l>
 				</sp>
-				<sp who="#kleisqenhs">
+				<sp who="#kleisthenes">
 					<speaker>Κλεισθένης</speaker>
 					<l>γιγνώσκεθ’ ὑμεῖς ἥτις ἔσθ’ ἥδ’ ἡ γυνή;</l>
 				</sp>
@@ -1641,28 +1641,28 @@ bring up to P3
 					<speaker>Χορός</speaker>
 					<l>γιγνώσκομεν δῆτ’. ἀλλὰ τὰς ἄλλας ἄθρει.</l>
 				</sp>
-				<sp who="#kleisqenhs">
+				<sp who="#kleisthenes">
 					<speaker>Κλεισθένης</speaker>
 					<l>ἡδὶ δὲ δὴ τίς ἐστιν ἡ τὸ παιδίον</l>
 					<l>ἔχουσα;</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l part="Y">τίτθη νὴ Δί’ ἐμή.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l part="Y">διοίχομαι.</l>
 				</sp>
-				<sp who="#kleisqenhs">
+				<sp who="#kleisthenes">
 					<speaker>Κλεισθένης</speaker>
 					<l n="610">αὕτη σὺ ποῖ στρέφει; μέν’ αὐτοῦ. τί τὸ κακόν;</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>ἔασον οὐρῆσαί μ’.</l>
 				</sp>
-				<sp who="#kleisqenhs">
+				<sp who="#kleisthenes">
 					<speaker>Κλεισθένης</speaker>
 					<l part="Y">ἀναίσχυντός &lt;τις&gt; εἶ.</l>
 					<l>σὺ δ’ οὖν ποίει τοῦτ’. ἀναμενῶ γὰρ ἐνθάδε.</l>
@@ -1672,170 +1672,170 @@ bring up to P3
 					<l>ἀνάμενε δῆτα καὶ σκόπει γ’ αὐτὴν σφόδρα·</l>
 					<l>μόνην γὰρ αὐτὴν ὦνερ οὐ γιγνώσκομεν.</l>
 				</sp>
-				<sp who="#kleisqenhs">
+				<sp who="#kleisthenes">
 					<speaker>Κλεισθένης</speaker>
 					<l n="615">πολύν γε χρόνον οὐρεῖς σύ.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l part="Y">νὴ Δί’ ὦ μέλε·</l>
 					<l>στραγγουριῶ γάρ· ἐχθὲς ἔφαγον κάρδαμα.</l>
 				</sp>
-				<sp who="#kleisqenhs">
+				<sp who="#kleisthenes">
 					<speaker>Κλεισθένης</speaker>
 					<l>τί καρδαμίζεις; οὐ βαδιεῖ δεῦρ’ ὡς ἐμέ;</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>τί δῆτά μ’ ἕλκεις ἀσθενοῦσαν;</l>
 				</sp>
-				<sp who="#kleisqenhs">
+				<sp who="#kleisthenes">
 					<speaker>Κλεισθένης</speaker>
 					<l part="Y">εἰπέ μοι,</l>
 					<l>τίς ἔστ’ ἀνήρ σοι;</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l part="Y">τὸν ἐμὸν ἄνδρα πυνθάνει;</l>
 					<l n="620">τὸν δεῖνα γιγνώσκεις, τὸν ἐκ Κοθωκιδῶν;</l>
 				</sp>
-				<sp who="#kleisqenhs">
+				<sp who="#kleisthenes">
 					<speaker>Κλεισθένης</speaker>
 					<l>τὸν δεῖνα; ποῖον;</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l part="Y">ἔσθ’ ὁ δεῖν’, ὃς καί ποτε</l>
 					<l>τὸν δεῖνα τὸν τοῦ δεῖνα—</l>
 				</sp>
-				<sp who="#kleisqenhs">
+				<sp who="#kleisthenes">
 					<speaker>Κλεισθένης</speaker>
 					<l part="Y">ληρεῖν μοι δοκεῖς.</l>
 					<l>ἀνῆλθες ἤδη δεῦρο πρότερον;</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l part="Y">νὴ Δία</l>
 					<l>ὁσέτη γε.</l>
 				</sp>
-				<sp who="#kleisqenhs">
+				<sp who="#kleisthenes">
 					<speaker>Κλεισθένης</speaker>
 					<l part="Y">καὶ τίς σοὐστὶ συσκηνήτρια;</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l n="625">ἡ δεῖν’ ἔμοιγ’.</l>
 				</sp>
-				<sp who="#kleisqenhs">
+				<sp who="#kleisthenes">
 					<speaker>Κλεισθένης</speaker>
 					<l part="Y">οἴμοι τάλας, οὐδὲν λέγεις.</l>
 					<milestone ed="p" n="626" unit="card"/>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l>ἄπελθ’. ἐγὼ γὰρ βασανιῶ ταύτην καλῶς</l>
 					<l>ἐκ τῶν ἱερῶν τῶν πέρυσι· σὺ δ’ ἀπόστηθί μοι,</l>
 					<l>ἵνα μὴ ’πακούσῃς ὢν ἀνήρ. σὺ δ’ εἰπέ μοι</l>
 					<l>ὅ τι πρῶτον ἡμῖν τῶν ἱερῶν ἐδείκνυτο.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l n="630">φέρ’ ἴδω, τί μέντοι πρῶτον ἦν; ἐπίνομεν.</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l>τί δὲ μετὰ τοῦτο δεύτερον;</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l part="Y">προὐπίνομεν.</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l>ταυτὶ μὲν ἤκουσάς τινος· τί δαὶ τρίτον;</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>σκάφιον Ξένυλλ’ ᾔτησεν· οὐ γὰρ ἦν ἀμίς.</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l>οὐδὲν λέγεις. δεῦρ’ ἐλθὲ δεῦρ’ ὦ Κλείσθενες·</l>
 					<l n="635">ὅδ’ ἐστὶν ἁνὴρ ὃν λέγεις.</l>
 				</sp>
-				<sp who="#kleisqenhs">
+				<sp who="#kleisthenes">
 					<speaker>Κλεισθένης</speaker>
 					<l part="Y">τί οὖν ποιῶ;</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l>ἀπόδυσον αὐτόν· οὐδὲν ὑγιὲς γὰρ λέγει.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>κἄπειτ’ ἀποδύσετ’ ἐννέα παίδων μητέρα;</l>
 				</sp>
-				<sp who="#kleisqenhs">
+				<sp who="#kleisthenes">
 					<speaker>Κλεισθένης</speaker>
 					<l>χάλα ταχέως τὸ στρόφιον ὦναίσχυντε σύ.</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l>ὡς καὶ στιβαρά τις φαίνεται καὶ καρτερά·</l>
 					<l n="640">καὶ νὴ Δία τιτθούς γ’ ὥσπερ ἡμεῖς οὐκ ἔχει.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>στερίφη γάρ εἰμι κοὐκ ἐκύησα πώποτε.</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l>νῦν· τότε δὲ μήτηρ ἦσθα παίδων ἐννέα.</l>
 				</sp>
-				<sp who="#kleisqenhs">
+				<sp who="#kleisthenes">
 					<speaker>Κλεισθένης</speaker>
 					<l>ἀνίστασ’ ὀρθός. ποῖ τὸ πέος ὠθεῖς κάτω;</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l>τοδὶ διέκυψε καὶ μάλ’ εὔχρων ὦ τάλαν.</l>
 				</sp>
-				<sp who="#kleisqenhs">
+				<sp who="#kleisthenes">
 					<speaker>Κλεισθένης</speaker>
 					<l n="645">καὶ ποῦ ’στιν;</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l part="Y">αὖθις ἐς τὸ πρόσθεν οἴχεται.</l>
 				</sp>
-				<sp who="#kleisqenhs">
+				<sp who="#kleisthenes">
 					<speaker>Κλεισθένης</speaker>
 					<l>οὐκ ἐνγεταυθί.</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l part="Y">μἀλλὰ δεῦρ’ ἥκει πάλιν.</l>
 				</sp>
-				<sp who="#kleisqenhs">
+				<sp who="#kleisthenes">
 					<speaker>Κλεισθένης</speaker>
 					<l>ἰσθμόν τιν’ ἔχεις ὦνθρωπ’· ἄνω τε καὶ κάτω</l>
 					<l>τὸ πέος διέλκεις πυκνότερον Κορινθίων.</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l>ὦ μιαρὸς οὗτος· ταῦτ’ ἄρ’ ὑπὲρ Εὐριπίδου</l>
 					<l n="650">ἡμῖν ἐλοιδορεῖτο.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l part="Y">κακοδαίμων ἐγώ,</l>
 					<l>εἰς οἷ’ ἐμαυτὸν εἰσεκύλισα πράγματα.</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l>ἄγε δὴ τί δρῶμεν;</l>
 				</sp>
-				<sp who="#kleisqenhs">
+				<sp who="#kleisthenes">
 					<speaker>Κλεισθένης</speaker>
 					<l part="Y">τουτονὶ φυλάττετε</l>
 					<l>καλῶς, ὅπως μὴ διαφυγὼν οἰχήσεται·</l>
@@ -1901,20 +1901,20 @@ bring up to P3
 				</div2>
 			</div1>
 			<div1 type="Episode">
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l>ἆ ποῖ σὺ φεύγεις; οὗτος οὗτος οὐ μενεῖς;</l>
 					<l n="690">τάλαιν’ ἐγὼ τάλαινα, καὶ τὸ παιδίον</l>
 					<l>ἐξαρπάσας μοι φροῦδος ἀπὸ τοῦ τιτθίου.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>κέκραχθι· τοῦτο δ’ οὐδέποτε σὺ ψωμιεῖς,</l>
 					<l>ἢν μή μ’ ἀφῆτ’· ἀλλ’ ἐνθάδ’ ἐπὶ τῶν μηρίων</l>
 					<l>πληγὲν μαχαίρᾳ τῇδε φοινίας φλέβας</l>
 					<l n="695">καθαιματώσει βωμόν.</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l part="Y">ὦ τάλαιν’ ἐγώ.</l>
 					<l>γυναῖκες, οὐκ ἀρήξετ’; οὐ πολλὴν βοὴν</l>
@@ -1935,7 +1935,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="trochees">
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>οἷον ὑμῶν ἐξαράξω τὴν ἄγαν αὐθαδίαν.</l>
 					</sp>
@@ -1943,7 +1943,7 @@ bring up to P3
 						<speaker>Χορός</speaker>
 						<l n="705">ταῦτα δῆτ’ οὐ δεινὰ πράγματ’ ἐστὶ καὶ περαιτέρω;</l>
 					</sp>
-					<sp who="#gunha">
+					<sp who="#gynea">
 						<speaker>Γυνὴ Α</speaker>
 						<l>δεινὰ δῆθ’, ὅστις γ’ ἔχει μου ’ξαρπάσας τὸ παιδίον.</l>
 						<milestone ed="p" n="707" unit="card"/>
@@ -1955,7 +1955,7 @@ bring up to P3
 						<l>τί ἂν οὖν εἴποι πρὸς ταῦτά τις, ὅτε</l>
 						<l>τοιαῦτα ποιῶν ὅδ’ ἀναισχυντεῖ;</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>κοὔπω μέντοι γε πέπαυμαι.</l>
 					</sp>
@@ -1966,7 +1966,7 @@ bring up to P3
 						<l>οἷον δράσας διέδυς ἔργον,</l>
 						<l>λήψει δὲ κακόν.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>τοῦτο μέντοι μὴ γένοιτο μηδαμῶς, ἀπεύχομαι.</l>
 					</sp>
@@ -1975,7 +1975,7 @@ bring up to P3
 						<l n="715">τίς οὖν σοι, τίς ἂν σύμμαχος ἐκ θεῶν</l>
 						<l>ἀθανάτων ἔλθοι ξὺν ἀδίκοις ἔργοις;</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>μάτην λαλεῖτε· τὴν δ’ ἐγὼ οὐκ ἀφήσω.</l>
 					</sp>
@@ -1994,12 +1994,12 @@ bring up to P3
 				</div2>
 			</div1>
 			<div1 type="Episode">
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l>ἴωμεν ἐπὶ τὰς κληματίδας ὦ Μανία.</l>
 					<l>κἀγώ σ’ ἀποδείξω θυμάλωπα τήμερον.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l n="730">ὕφαπτε καὶ κάταιθε· σὺ δὲ τὸ Κρητικὸν</l>
 					<l>ἀπόδυθι ταχέως· τοῦ θανάτου δ’ ὦ παιδίον</l>
@@ -2011,115 +2011,115 @@ bring up to P3
 					<l>ὦ μέγα καπήλοις ἀγαθὸν ἡμῖν δ’ αὖ κακόν,</l>
 					<l>κακὸν δὲ καὶ τοῖς σκευαρίοις καὶ τῇ κρόκῃ.</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l>παράβαλλε πολλὰς κληματίδας ὦ Μανία.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l n="740">παράβαλλε δῆτα· σὺ δ’ ἀπόκριναί μοι τοδί,</l>
 					<l>τουτὶ τεκεῖν φῄς;</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l part="Y">&lt;καὶ&gt; δέκα μῆνας αὔτ’ ἐγὼ</l>
 					<l>ἤνεγκον.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l part="Y">ἤνεγκας σύ;</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l part="Y">νὴ τὴν Ἄρτεμιν.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>πρικότυλον ἢ πῶς; εἰπέ μοι.</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l part="Y">τί μ’ ἠργάσω;</l>
 					<l>ἀπέδυσας ὦναίσχυντέ μου τὸ παιδίον</l>
 					<l n="745">τυννοῦτον ὄν.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l part="Y">τυννοῦτο;</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l part="Y">μικρὸν νὴ Δία.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>πόσ’ ἔτη δὲ γέγονε; τρεῖς Χοᾶς ἢ τέτταρας;</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l>σχεδὸν τοσοῦτον χὤσον ἐκ Διονυσίων.</l>
 					<l>ἀλλ’ ἀπόδος αὐτό.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l part="Y">μὰ τὸν Ἀπόλλω τουτονί.</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l>ἐμπρήσομεν τοίνυν σε.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l part="Y">πάνυ γ’ ἐμπίμπρατε·</l>
 					<l n="750">αὕτη δ’ ἀποσφαγήσεται μάλ’ αὐτίκα.</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l>μὴ δῆθ’, ἱκετεύω σ’· ἀλλ’ ἔμ’ ὅ τι χρῄζεις ποίει</l>
 					<l>ὑπέρ γε τούτου.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l part="Y">φιλότεκνός τις εἶ φύσει.</l>
 					<l>ἀλλ’ οὐδὲν ἧττον ἥδ’ ἀποσφαγήσεται</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l>οἴμοι τέκνον. δός μοι σφαγεῖον Μανία,</l>
 					<l n="755">ἵν’ οὖν τό γ’ αἷμα τοῦ τέκνου τοὐμοῦ λάβω.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>ὕπεχ’ αὐτό, χαριοῦμαι γὰρ ἕν γε τοῦτό σοι.</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l>κακῶς ἀπόλοῑ, ὡς φθονερὸς εἶ καὶ δυσμενής.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>τουτὶ τὸ δέρμα τῆς ἱερείας γίγνεται.</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l>τί τῆς ἱερείας γίγνεται;</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l part="Y">τουτί. λαβέ.</l>
 				</sp>
-				<sp who="#gunhg">
+				<sp who="#gyneg">
 					<speaker>Γυνὴ Γ</speaker>
 					<l n="760">ταλαντάτη Μίκκα τίς ἐξεκόρησέ σε;</l>
 					<l>[τίς τὴν ἀγαπητὴν παῖδά σοὐξῃρήσατο;]</l>
 				</sp>
-				<sp who="#gunha">
+				<sp who="#gynea">
 					<speaker>Γυνὴ Α</speaker>
 					<l>ὁ πανοῦργος οὗτος. ἀλλ’ ἐπειδήπερ πάρει,</l>
 					<l>φύλαξον αὐτόν, ἵνα λαβοῦσα Κλεισθένη</l>
 					<l>τοῖσιν πρυτάνεσιν ἃ πεποίηχ’ οὗτος φράσω.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l n="765">ἄγε δὴ τίς ἔσται μηχανὴ σωτηρίας;</l>
 					<l>τίς πεῖρα, τίς ἐπίνοῑ; ὁ μὲν γὰρ αἴτιος</l>
@@ -2135,7 +2135,7 @@ bring up to P3
 					<milestone ed="p" n="776" unit="card"/>
 				</sp>
 				<div2 type="lyric">
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>ὦ χεῖρες ἐμαὶ</l>
 						<l>ἐγχειρεῖν χρῆν ἔργῳ πορίμῳ.</l>
@@ -2232,7 +2232,7 @@ bring up to P3
 				</div2>
 			</div1>
 			<div1 type="Episode">
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>ἰλλὸς γεγένημαι προσδοκῶν· ὁ δ’ οὐδέπω.</l>
 					<l>τί δῆτ’ ἂν εἴη τοὐμποδών; οὐκ ἔσθ’ ὅπως</l>
@@ -2241,245 +2241,245 @@ bring up to P3
 					<l n="850">ἐγᾦδα· τὴν καινὴν Ἑλένην μιμήσομαι.</l>
 					<l>πάντως ὑπάρχει μοι γυναικεία στολή.</l>
 				</sp>
-				<sp who="#gunhg">
+				<sp who="#gyneg">
 					<speaker>Γυνὴ Γ</speaker>
 					<l>τί αὖ σὺ κυρκανᾷς; τί κοικύλλεις ἔχων;</l>
 					<l>πικρὰν Ἑλένην ὄψει τάχ’, εἰ μὴ κοσμίως</l>
 					<l>ἕξεις, ἕως ἂν τῶν πρυτάνεών τις φανῇ.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l n="855">Νείλου μὲν αἵδε καλλιπάρθενοι ῥοαί,</l>
 					<l>ὃς ἀντὶ δίας ψακάδος Αἰγύπτου πέδον</l>
 					<l>λευκῆς νοτίζει μελανοσυρμαῖον λεών.</l>
 				</sp>
-				<sp who="#gunhg">
+				<sp who="#gyneg">
 					<speaker>Γυνὴ Γ</speaker>
 					<l>πανοῦργος εἶ νὴ τὴν Ἑκάτην τὴν φωσφόρον.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>ἐμοὶ δὲ γῆ μὲν πατρὶς οὐκ ἀνώνυμος</l>
 					<l n="860">Σπάρτη, πατὴρ δὲ Τυνδάρεως.</l>
 				</sp>
-				<sp who="#gunhg">
+				<sp who="#gyneg">
 					<speaker>Γυνὴ Γ</speaker>
 					<l part="Y">σοί γ’ ὦλεθρε</l>
 					<l>πατὴρ ἐκεῖνός ἐστι; Φρυνώνδας μὲν οὖν.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>Ἑλένη δ’ ἐκλήθην.</l>
 				</sp>
-				<sp who="#gunhg">
+				<sp who="#gyneg">
 					<speaker>Γυνὴ Γ</speaker>
 					<l part="Y">αὖθις αὖ γίγνει γυνή,</l>
 					<l>πρὶν τῆς ἑτέρας δοῦναι γυναικίσεως δίκην;</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>ψυχαὶ δὲ πολλαὶ δῑ ἔμ’ ἐπὶ Σκαμανδρίαις</l>
 					<l n="865">ῥοαῖσιν ἔθανον.</l>
 				</sp>
-				<sp who="#gunhg">
+				<sp who="#gyneg">
 					<speaker>Γυνὴ Γ</speaker>
 					<l part="Y">ὤφελες δὲ καὶ σύ γε.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>κἀγὼ μὲν ἐνθάδ’ εἴμ’· ὁ δ’ ἄθλιος πόσις</l>
 					<l>οὑμὸς Μενέλαος οὐδέπω προσέρχεται.</l>
 					<l>τί οὖν ἔτι ζῶ;</l>
 				</sp>
-				<sp who="#gunhg">
+				<sp who="#gyneg">
 					<speaker>Γυνὴ Γ</speaker>
 					<l part="Y">τῶν κοράκων πονηρίᾳ.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>ἀλλ’ ὥσπερ αἰκάλλει τι καρδίαν ἐμήν.</l>
 					<l n="870">μὴ ψεῦσον ὦ Ζεῦ τῆς ἐπιούσης ἐλπίδος.</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l>τίς τῶνδ’ ἐρυμνῶν δωμάτων ἔχει κράτος,</l>
 					<l>ὅστις ξένους δέξαιτο ποντίῳ σάλῳ</l>
 					<l>κάμνοντας ἐν χειμῶνι καὶ ναυαγίαις;</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>Πρωτέως τάδ’ ἐστὶ μέλαθρα.</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l part="Y">ποίου Πρωτέως;</l>
 				</sp>
-				<sp who="#gunhg">
+				<sp who="#gyneg">
 					<speaker>Γυνὴ Γ</speaker>
 					<l n="875">ὦ τρισκακόδαιμον, ψεύδεται νὴ τὼ θεώ,</l>
 					<l>ἐπεὶ τέθνηκε Πρωτέας ἔτη δέκα.</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l>ποίαν δὲ χώραν εἰσεκέλσαμεν σκάφει;</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l part="Y">Αἴγυπτον.</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l part="Y">ὦ δύστηνος οἷ πεπλώκαμεν.</l>
 				</sp>
-				<sp who="#gunhg">
+				<sp who="#gyneg">
 					<speaker>Γυνὴ Γ</speaker>
 					<l>πείθει τι &lt;τούτῳ&gt; τῷ κακῶς ἀπολουμένῳ</l>
 					<l n="880">ληροῦντι λῆρον; Θεσμοφορεῖον τουτογί.</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l>αὐτὸς δὲ Πρωτεὺς ἔνδον ἔστ’ ἢ ’ξώπιος;</l>
 				</sp>
-				<sp who="#gunhg">
+				<sp who="#gyneg">
 					<speaker>Γυνὴ Γ</speaker>
 					<l>οὐκ ἔσθ’ ὅπως οὐ ναυτιᾷς ἔτ’ ὦ ξένε,</l>
 					<l>ὅστις &lt;γ’&gt; ἀκούσας ὅτι τέθνηκε Πρωτέας</l>
 					<l>ἔπειτ’ ἐρωτᾷς ‘ἔνδον ἔστ’ ἢ ’ξώπιος;’</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l n="885">αἰαῖ τέθνηκε. ποῦ δ’ ἐτυμβεύθη τάφῳ;</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>τόδ’ ἐστὶν αὐτοῦ σῆμ’, ἐφ’ ᾧ καθήμεθα.</l>
 				</sp>
-				<sp who="#gunhg">
+				<sp who="#gyneg">
 					<speaker>Γυνὴ Γ</speaker>
 					<l>κακῶς τ’ ἄρ’ ἐξόλοιο κἀξολεῖ γέ τοι,</l>
 					<l>ὅστις γε τολμᾷς σῆμα τὸν βωμὸν καλεῖν.</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l>τί δὴ σὺ θάσσεις τάσδε τυμβήρεις ἕδρας</l>
 					<l n="890">φάρει καλυπτὸς ὦ ξένη;</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l part="Y">βιάζομαι</l>
 					<l>γάμοισι Πρωτέως παιδὶ συμμεῖξαι λέχος.</l>
 				</sp>
-				<sp who="#gunhg">
+				<sp who="#gyneg">
 					<speaker>Γυνὴ Γ</speaker>
 					<l>τί ὦ κακόδαιμον ἐξαπατᾷς αὖ τὸν ξένον;</l>
 					<l>οὗτος πανουργῶν δεῦρ’ ἀνῆλθεν ὦ ξένε</l>
 					<l>ὡς τὰς γυναῖκας ἐπὶ κλοπῇ τοῦ χρυσίου.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l n="895">βάυζε τοὐμὸν σῶμα βάλλουσα ψόγῳ.</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l>ξένη τίς ἡ γραῦς ἡ κακορροθοῦσά σε;</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>αὕτη Θεονόη Πρωτέως.</l>
 				</sp>
-				<sp who="#gunhg">
+				<sp who="#gyneg">
 					<speaker>Γυνὴ Γ</speaker>
 					<l part="Y">μὰ τὼ θεὼ</l>
 					<l>εἰ μὴ Κρίτυλλά γ’ Ἀντιθέου Γαργηττόθεν·</l>
 					<l>σὺ δ’ εἶ πανοῦργος.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l part="Y">ὁπόσα τοι βούλει λέγε.</l>
 					<l n="900">οὐ γὰρ γαμοῦμαι σῷ κασιγνήτῳ ποτὲ</l>
 					<l>προδοῦσα Μενέλεων τὸν ἐμὸν ἐν Τροίᾳ πόσιν.</l>
 					<milestone ed="p" n="902" unit="card"/>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l>γύναι τί εἶπας; στρέψον ἀνταυγεῖς κόρας.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>αἰσχύνομαί σε τὰς γνάθους ὑβρισμένη.</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l>τουτὶ τί ἔστιν; ἀφασία τίς τοί μ’ ἔχει.</l>
 					<l n="905">ὦ θεοὶ τίν’ ὄψιν εἰσορῶ; τίς εἶ γύναι;</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>σὺ δ’ εἶ τίς; αὑτὸς γὰρ σὲ κἄμ’ ἔχει λόγος.</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l>Ἑλληνὶς εἶ τις ἢ ’πιχωρία γυνή;</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>Ἑλληνίς. ἀλλὰ καὶ τὸ σὸν θέλω μαθεῖν.</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l>Ἑλένῃ σ’ ὁμοίαν δὴ μάλιστ’ εἶδον γύναι.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l n="910">ἐγὼ δὲ Μενελάῳ σ’ ὅσα γ’ ἐκ τῶν ἰφύων.</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l>ἔγνως ἄρ’ ὀρθῶς ἄνδρα δυστυχέστατον.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>ὦ χρόνιος ἐλθὼν σῆς δάμαρτος ἐσχάρας</l>
 					<l>λαβέ με λαβέ με πόσι, περίβαλε δὲ χέρας.</l>
 					<l n="915">φέρε σὲ κύσω. ἄπαγέ μ’ ἄπαγ’ ἄπαγέ με</l>
 					<l>λαβὼν ταχὺ πάνυ.</l>
 				</sp>
-				<sp who="#gunhg">
+				<sp who="#gyneg">
 					<speaker>Γυνὴ Γ</speaker>
 					<l part="Y">κλαύσετ’ ἄρα νὴ τὼ θεὼ</l>
 					<l>ὅστις σ’ ἀπάξει τυπτόμενος τῇ λαμπάδι.</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l>σὺ τὴν ἐμὴν γυναῖκα κωλύεις ἐμέ,</l>
 					<l>τὴν Τυνδάρειον παῖδ’, ἐπὶ Σπάρτην ἄγειν;</l>
 				</sp>
-				<sp who="#gunhg">
+				<sp who="#gyneg">
 					<speaker>Γυνὴ Γ</speaker>
 					<l n="920">οἴμ’ ὡς πανοῦργος καὐτὸς εἶναί μοι δοκεῖς</l>
 					<l>καὶ τοῦδέ τις ξύμβουλος. οὐκ ἐτὸς πάλαι</l>
 					<l>ᾐγυπτιάζετ’. ἀλλ’ ὅδε μὲν δώσει δίκην.</l>
 					<l>προσέρχεται γὰρ ὁ πρύτανις χὠ τοξότης.</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l>τουτὶ πονηρόν· ἀλλ’ ὑπαποκινητέον.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l n="925">ἐγὼ δ’ ὁ κακοδαίμων τί δρῶ;</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l part="Y">μέν’ ἥσυχος.</l>
 					<l>οὐ γὰρ προδώσω σ’ οὐδέποτ’, ἤνπερ ἐμπνέω,</l>
 					<l>ἢν μὴ προλίπωσ’ αἱ μυρίαι με μηχαναί.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>αὕτη μὲν ἡ μήρινθος οὐδὲν ἔσπασεν.</l>
 				</sp>
-				<sp who="#prutanis">
+				<sp who="#prytanis">
 					<speaker>Πρύτανις</speaker>
 					<l>ὅδ’ ἔσθ’ ὁ πανοῦργος ὃν ἔλεγ’ ἡμῖν Κλεισθένης;</l>
 					<l n="930">οὗτος τί κύπτεις; δῆσον αὐτὸν εἰσάγων</l>
@@ -2488,34 +2488,34 @@ bring up to P3
 					<l>ἔα πρὸς αὐτόν, ἀλλὰ τὴν μάστιγ’ ἔχων</l>
 					<l>παῖ’ ἢν προσίῃ τις.</l>
 				</sp>
-				<sp who="#gunhg">
+				<sp who="#gyneg">
 					<speaker>Γυνὴ Γ</speaker>
 					<l part="Y">νὴ Δί’ ὡς νῦν δή γ’ ἀνὴρ</l>
 					<l n="935">ὀλίγου μ’ ἀφείλετ’ αὐτὸν ἱστιορράφος.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>ὦ πρύτανι πρὸς τῆς δεξιᾶς, ἥνπερ φιλεῖς</l>
 					<l>κοίλην προτείνειν ἀργύριον ἤν τις διδῷ,</l>
 					<l>χάρισαι βραχύ τί μοι καίπερ ἀποθανουμένῳ.</l>
 				</sp>
-				<sp who="#prutanis">
+				<sp who="#prytanis">
 					<speaker>Πρύτανις</speaker>
 					<l>τί σοι χαρίσωμαι;</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l part="Y">γυμνὸν ἀποδύσαντά με</l>
 					<l n="940">κέλευε πρὸς τῇ σανίδι δεῖν τὸν τοξότην,</l>
 					<l>ἵνα μὴ ’ν κροκωτοῖς καὶ μίτραις γέρων ἀνὴρ</l>
 					<l>γέλωτα παρέχω τοῖς κόραξιν ἑστιῶν.</l>
 				</sp>
-				<sp who="#prutanis">
+				<sp who="#prytanis">
 					<speaker>Πρύτανις</speaker>
 					<l>ἔχοντα ταῦτ’ ἔδοξε τῇ βουλῇ σε δεῖν,</l>
 					<l>ἵνα τοῖς παριοῦσι δῆλος ᾖς πανοῦργος ὤν.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l n="945">ἰαππαπαιάξ· ὦ κροκώθ’ οἷ’ εἴργασαι·</l>
 					<l>κοὐκ ἔστ’ ἔτ’ ἐλπὶς οὐδεμία σωτηρίας.</l>
@@ -2641,45 +2641,45 @@ bring up to P3
 				</div2>
 			</div1>
 			<div1 type="Lyric-Scene">
-				<sp who="#tocoths">
+				<sp who="#toksotes">
 					<speaker>Τοξότης</speaker>
 					<l>ἐνταῦτα νῦν οἰμῶξι πρὸς τὴν αἰτρίαν.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>ὦ τοξόθ’ ἱκετεύω σε.</l>
 				</sp>
-				<sp who="#tocoths">
+				<sp who="#toksotes">
 					<speaker>Τοξότης</speaker>
 					<l part="Y">μή μ’ ἰκετεῦσι σύ.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>χάλασον τὸν ἧλον.</l>
 				</sp>
-				<sp who="#tocoths">
+				<sp who="#toksotes">
 					<speaker>Τοξότης</speaker>
 					<l part="Y">ἀλλὰ ταῦτα δρᾶσ’ ἐγώ.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>οἴμοι κακοδαίμων, μᾶλλον ἐπικρούεις σύ γε.</l>
 				</sp>
-				<sp who="#tocoths">
+				<sp who="#toksotes">
 					<speaker>Τοξότης</speaker>
 					<l n="1005">ἔτι μᾶλλο βοῦλις;</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l part="Y">ἀτταταῖ ἰατταταῖ·</l>
 					<l>κακῶς ἀπόλοιο.</l>
 				</sp>
-				<sp who="#tocoths">
+				<sp who="#toksotes">
 					<speaker>Τοξότης</speaker>
 					<l part="Y">σῖγα κακοδαίμων γέρον.</l>
 					<l>πέρ’ ἐγὼ ’ξινίγκι πορμός, ἴνα πυλάξι σοι.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>ταυτὶ τὰ βέλτιστ’ ἀπολέλαυκ’ Εὐριπίδου.</l>
 					<l>ἔα· θεοί, Ζεῦ σῶτερ, εἰσὶν ἐλπίδες.</l>
@@ -2690,7 +2690,7 @@ bring up to P3
 					<l n="1015">ἥξει με σώσων· οὐ γὰρ ἂν παρέπτετο.</l>
 				</sp>
 				<div2 type="lyric">
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>φίλαι παρθένοι φίλαι, πῶς ἂν &lt;οὖν&gt;</l>
 						<l>ἐπέλθοιμι καὶ</l>
@@ -2699,7 +2699,7 @@ bring up to P3
 						<l n="1020">κατάνευσον, ἔασον ὡς</l>
 						<l>τὴν γυναῖκά μ’ ἐλθεῖν.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>ἄνοικτος ὅς μ’ ἔδησε τὸν</l>
 						<l>πολυστονώτατον βροτῶν·</l>
@@ -2739,16 +2739,16 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="iambics">
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>χαῖρ’ ὦ φίλη παῖ· τὸν δὲ πατέρα Κηφέα</l>
 						<l>ὅς σ’ ἐξέθηκεν ἀπολέσειαν οἱ θεοί.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>σὺ δ’ εἶ τίς ἥτις τοὐμὸν ᾤκτιρας πάθος;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>Ἠχὼ λόγων ἀντῳδὸς ἐπικοκκάστρια,</l>
 						<l n="1060">ἥπερ πέρυσιν ἐν τῷδε ταὐτῷ χωρίῳ</l>
@@ -2756,17 +2756,17 @@ bring up to P3
 						<l>ἀλλ’ ὦ τέκνον σὲ μὲν τὸ σαυτῆς χρὴ ποιεῖν,</l>
 						<l>κλάειν ἐλεινῶς.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">σὲ δ’ ἐπικλάειν ὕστερον.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>ἐμοὶ μελήσει ταῦτά γ’. ἀλλ’ ἄρχου λόγων.</l>
 					</sp>
 				</div2>
 				<div2 type="lyric">
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l n="1065">ὦ νὺξ ἱερὰ</l>
 						<l>ὡς μακρὸν ἵππευμα διώκεις</l>
@@ -2774,198 +2774,198 @@ bring up to P3
 						<l>αἰθέρος ἱερᾶς</l>
 						<l>τοῦ σεμνοτάτου δῑ Ὀλύμπου;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>δῑ Ὀλύμπου.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l n="1070">τί ποτ’ Ἀνδρομέδα περίαλλα κακῶν</l>
 						<l>μέρος ἐξέλαχον—</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">μέρος ἐξέλαχον—</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>θανάτου τλήμων;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">θανάτου τλήμων;</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>ἀπολεῖς μ’ ὦ γραῦ στωμυλλομένη.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>στωμυλλομένη.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l n="1075">νὴ Δί’ ὀχληρά γ’ εἰσήρρηκας</l>
 						<l>λίαν.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">λίαν.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>ὦγάθ’ ἔασόν με μονῳδῆσαι,</l>
 						<l>καὶ χαριεῖ μοι. παῦσαι.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">παῦσαι.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>βάλλ’ ἐς κόρακας.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">βάλλ’ ἐς κόρακας.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l n="1080">τί κακόν;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">τί κακόν;</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">ληρεῖς.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">ληρεῖς.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>οἴμωζ’.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">οἴμωζ’.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l part="Y">ὀτότυζ’.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">ὀτότυζ’.</l>
 					</sp>
-					<sp who="#tocoths">
+					<sp who="#toksotes">
 						<speaker>Τοξότης</speaker>
 						<l>οὖτος σί λαλῖς;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">οὖτος σί λαλῖς;</l>
 					</sp>
-					<sp who="#tocoths">
+					<sp who="#toksotes">
 						<speaker>Τοξότης</speaker>
 						<l>πρυτάνεις καλέσω;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">πρυτάνεις καλέσω;</l>
 					</sp>
-					<sp who="#tocoths">
+					<sp who="#toksotes">
 						<speaker>Τοξότης</speaker>
 						<l n="1085">σί κακόν;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">σί κακόν;</l>
 					</sp>
-					<sp who="#tocoths">
+					<sp who="#toksotes">
 						<speaker>Τοξότης</speaker>
 						<l>πῶτε τὸ πωνή;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">πῶτε τὸ πωνή;</l>
 					</sp>
-					<sp who="#tocoths">
+					<sp who="#toksotes">
 						<speaker>Τοξότης</speaker>
 						<l>σὺ λαλῖς;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">σὺ λαλῖς;</l>
 					</sp>
-					<sp who="#tocoths">
+					<sp who="#toksotes">
 						<speaker>Τοξότης</speaker>
 						<l part="Y">κλαύσει.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">κλαύσει.</l>
 					</sp>
-					<sp who="#tocoths">
+					<sp who="#toksotes">
 						<speaker>Τοξότης</speaker>
 						<l>κακκάσκι μοι;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">κακκάσκι μοι;</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l n="1090">μὰ Δί’ ἀλλὰ γυνὴ πλησίον αὕτη.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>πλησίον αὕτη.</l>
 					</sp>
-					<sp who="#tocoths">
+					<sp who="#toksotes">
 						<speaker>Τοξότης</speaker>
 						<l>ποῦ στ’ η’ μιαρά; καὶ δὴ πεύγει.</l>
 						<l>ποῖ ποῖ πεύγεις;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">&lt; ποῖ ποῖ πεύγεις;&gt;</l>
 					</sp>
-					<sp who="#tocoths">
+					<sp who="#toksotes">
 						<speaker>Τοξότης</speaker>
 						<l>οὐ καιρήσεις;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">&lt; οὐ καιρήσεις;&gt;</l>
 					</sp>
-					<sp who="#tocoths">
+					<sp who="#toksotes">
 						<speaker>Τοξότης</speaker>
 						<l n="1095">ἔτι γὰρ γρύζεις;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">ἔτι γὰρ γρύζεις;</l>
 					</sp>
-					<sp who="#tocoths">
+					<sp who="#toksotes">
 						<speaker>Τοξότης</speaker>
 						<l>λαβὲ τὴ μιαρά.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">λαβὲ τὴ μιαρά.</l>
 					</sp>
-					<sp who="#tocoths">
+					<sp who="#toksotes">
 						<speaker>Τοξότης</speaker>
 						<l>λάλο καὶ κατάρατο γύναικο.</l>
 						<milestone ed="p" n="1098" unit="card"/>
 					</sp>
 				</div2>
 				<div2 type="iambics">
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>ὦ θεοὶ τίν’ ἐς γῆν βαρβάρων ἀφίγμεθα</l>
 						<l>ταχεῖ πεδίλῳ; διὰ μέσου γὰρ αἰθέρος</l>
@@ -2973,94 +2973,94 @@ bring up to P3
 						<l>Περσεὺς πρὸς Ἄργος ναυστολῶν τὸ Γοργόνος</l>
 						<l>κάρα κομίζων.</l>
 					</sp>
-					<sp who="#tocoths">
+					<sp who="#toksotes">
 						<speaker>Τοξότης</speaker>
 						<l part="Y">τί λέγι; τὴ Γόργος πέρι</l>
 						<l>τὸ γραμματέο σὺ τὴ κεπαλή;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">τὴν Γοργόνος</l>
 						<l>ἔγωγε φημί.</l>
 					</sp>
-					<sp who="#tocoths">
+					<sp who="#toksotes">
 						<speaker>Τοξότης</speaker>
 						<l part="Y">Γόργο τοι κἀγὼ λέγι.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l n="1105">ἔα· τίν’ ὄχθον τόνδ’ ὁρῶ καὶ παρθένον</l>
 						<l>θεαῖς ὁμοίαν ναῦν ὅπως ὡρμισμένην;</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>ὦ ξένε κατοίκτιρόν με τὴν παναθλίαν,</l>
 						<l>λῦσόν με δεσμῶν.</l>
 					</sp>
-					<sp who="#tocoths">
+					<sp who="#toksotes">
 						<speaker>Τοξότης</speaker>
 						<l part="Y">οὐκὶ μὶ λαλῆσι σύ;</l>
 						<l>κατάρατο τολμᾷς ἀποτανουμένη λαλᾷς;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l n="1110">ὦ παρθέν’ οἰκτίρω σὲ κρεμαμένην ὁρῶν.</l>
 					</sp>
-					<sp who="#tocoths">
+					<sp who="#toksotes">
 						<speaker>Τοξότης</speaker>
 						<l>οὐ παρτέν’ ἐστίν, ἀλλ’ ἀμαρτωλὴ γέρων</l>
 						<l>καὶ κλέπτο καὶ πανοῦργο.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">ληρεῖς ὦ Σκύθα.</l>
 						<l>αὕτη γάρ ἐστιν Ἀνδρομέδα παῖς Κηφέως.</l>
 					</sp>
-					<sp who="#tocoths">
+					<sp who="#toksotes">
 						<speaker>Τοξότης</speaker>
 						<l>σκέψαι τὸ κύστο· μή τι μικτὸν παίνεται;</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l n="1115">φέρε δεῦρό μοι τὴν χεῖρ’, ἵν’ ἅψωμαι κόρης·</l>
 						<l>φέρε Σκύθ’· ἀνθρώποισι γὰρ νοσήματα</l>
 						<l>ἅπασίν ἐστιν· ἐμὲ δὲ καὐτὸν τῆς κόρης</l>
 						<l>ταύτης ἔρως εἴληφεν.</l>
 					</sp>
-					<sp who="#tocoths">
+					<sp who="#toksotes">
 						<speaker>Τοξότης</speaker>
 						<l part="Y">οὐ ζηλῶσί σε·</l>
 						<l>ἀτὰρ εἰ τὸ πρωκτὸ δεῦρο περιεστραμμένον,</l>
 						<l n="1120">οὐκ ἐπτόνησά σ’ αὐτὸ πυγίζεις ἄγων.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>τί δ’ οὐκ ἐᾷς λύσαντά μ’ αὐτὴν ὦ Σκύθα</l>
 						<l>πεσεῖν ἐς εὐνὴν καὶ γαμήλιον λέχος;</l>
 					</sp>
-					<sp who="#tocoths">
+					<sp who="#toksotes">
 						<speaker>Τοξότης</speaker>
 						<l>εἰ σπόδρ’ ἐπιτυμεῖς τὴ γέροντο πύγισο,</l>
 						<l>τὴ σανίδο τρήσας ἐξόπιστο πρώκτισον.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l n="1125">μὰ Δί’ ἀλλὰ λύσω δεσμά.</l>
 					</sp>
-					<sp who="#tocoths">
+					<sp who="#toksotes">
 						<speaker>Τοξότης</speaker>
 						<l part="Y">μαστιγῶ σ’ ἄρα.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>καὶ μὴν ποιήσω τοῦτο.</l>
 					</sp>
-					<sp who="#tocoths">
+					<sp who="#toksotes">
 						<speaker>Τοξότης</speaker>
 						<l part="Y">τὸ κεπαλή σ’ ἄρα</l>
 						<l>τὸ ξιπομάκαιραν ἀποκεκόψι τουτοϊ.</l>
 					</sp>
-					<sp who="#euripidhs">
+					<sp who="#eyripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>αἰαῖ· τί δράσω; πρὸς τίνας στρεφθῶ λόγους;</l>
 						<l>ἀλλ’ οὐ &lt;γὰρ&gt; ἂν δέξαιτο βάρβαρος φύσις.</l>
@@ -3068,15 +3068,15 @@ bring up to P3
 						<l>μάτην ἀναλίσκοις ἄν, ἀλλ’ ἄλλην τινὰ</l>
 						<l>τούτῳ πρέπουσαν μηχανὴν προσοιστέον.</l>
 					</sp>
-					<sp who="#tocoths">
+					<sp who="#toksotes">
 						<speaker>Τοξότης</speaker>
 						<l>μιαρὸς ἀλώπηξ, οἶον ἐπιτήκιζί μοι.</l>
 					</sp>
-					<sp who="#mnhsiloxos">
+					<sp who="#mnesiloxos">
 						<speaker>Μνησίλοχος</speaker>
 						<l>μέμνησο Περσεῦ μ’ ὡς καταλείπεις ἀθλίαν.</l>
 					</sp>
-					<sp who="#tocoths">
+					<sp who="#toksotes">
 						<speaker>Τοξότης</speaker>
 						<l n="1135">ἔτι γὰρ σὺ τὴ μάστιγαν ἐπιτυμεῖς λαβεῖν;</l>
 						<milestone ed="p" n="1136" unit="card"/>
@@ -3140,7 +3140,7 @@ bring up to P3
 				</div2>
 			</div1>
 			<div1 type="Episode">
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l n="1160">γυναῖκες εἰ βούλεσθε τὸν λοιπόν χρόνον</l>
 					<l>σπονδὰς ποιήσασθαι πρὸς ἐμέ, νυνὶ πάρα,</l>
@@ -3151,7 +3151,7 @@ bring up to P3
 					<speaker>Χορός</speaker>
 					<l>χρείᾳ δὲ ποίᾳ τόνδ’ ἐπεσφέρεις λόγον;</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l n="1165">ὅδ’ ἐστὶν οὑν τῇ σανίδι κηδεστὴς ἐμός.</l>
 					<l>ἢν οὖν κομίσωμαι τοῦτον, οὐδὲν μή ποτε</l>
@@ -3164,113 +3164,113 @@ bring up to P3
 					<l n="1170">τὰ μὲν παρ’ ἡμῶν ἴσθι σοι πεπεισμένα·</l>
 					<l>τὸν βάρβαρον δὲ τοῦτον αὐτὸς πεῖθε σύ.</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l>ἐμὸν ἔργον ἐστίν· καὶ σὸν ὦλάφιον ἅ σοι</l>
 					<l>καθ’ ὁδὸν ἔφραζον ταῦτα μεμνῆσθαι ποιεῖν.</l>
 					<l>πρῶτον μὲν οὖν δίελθε κἀνακάλπασον.</l>
 					<l n="1175">σὺ δ’ ὦ Τερηδὼν ἐπαναφύσα Περσικόν.</l>
 				</sp>
-				<sp who="#tocoths">
+				<sp who="#toksotes">
 					<speaker>Τοξότης</speaker>
 					<l>τί τὸ βόμβο τοῦτο; κῶμο τίς ἀνεγεῖρί μοι</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l>ἡ παῖς ἔμελλε προμελετᾶν ὦ τοξότα.</l>
 					<l>ὀρχησομένη γὰρ ἔρχεθ’ ὡς ἄνδρας τινάς.</l>
 				</sp>
-				<sp who="#tocoths">
+				<sp who="#toksotes">
 					<speaker>Τοξότης</speaker>
 					<l>ὀρκῆσι καὶ μελετῆσι, οὐ κωλύσ’ ἐγώ.</l>
 					<l n="1180">ὡς ἐλαπρός, ὥσπερ ψύλλο κατὰ τὸ κῴδιο.</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l>φέρε θοἰμάτιον ἄνωθεν ὦ τέκνον τοδί·</l>
 					<l>καθιζομένη δ’ ἐπὶ τοῖσι γόνασι τοῦ Σκύθου</l>
 					<l>τὼ πόδε πρότεινον, ἵν’ ὑπολύσω.</l>
 				</sp>
-				<sp who="#tocoths">
+				<sp who="#toksotes">
 					<speaker>Τοξότης</speaker>
 					<l part="Y">ναῖκι ναὶ</l>
 					<l>κάτησο κάτησο, ναῖκι ναῖκι τυγάτριον.</l>
 					<l n="1185">οἴμ’ ὠς στέριπο τὸ τιττἴ, ὤσπερ γογγύλη.</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l>αὔλει σὺ θᾶττον· ἔτι δέδοικας τὸν Σκύθην;</l>
 				</sp>
-				<sp who="#tocoths">
+				<sp who="#toksotes">
 					<speaker>Τοξότης</speaker>
 					<l n="1187">καλό γε τὸ πυγή. κλαῦσί γ’ ἂν μὴ ’νδον μένῃς.</l>
 					<l n="1187a">ἀνακύπτι καὶ παρακύπτι ἀπεψωλημένος·</l>
 					<l n="1188">εἶεν· καλὴ τὸ σκῆμα περὶ τὸ πόστιον.</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l>καλῶς ἔχει. λαβὲ θοἰμάτιον· ὥρα ’στὶ νῷν</l>
 					<l n="1190">ἤδη βαδίζειν.</l>
 				</sp>
-				<sp who="#tocoths">
+				<sp who="#toksotes">
 					<speaker>Τοξότης</speaker>
 					<l part="Y">οὐκὶ πιλῆσι πρῶτά με;</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l>πάνυ γε· φίλησον αὐτόν.</l>
 				</sp>
-				<sp who="#tocoths">
+				<sp who="#toksotes">
 					<speaker>Τοξότης</speaker>
 					<l part="Y">ὂ ὂ ὂ παπαπαπαῖ,</l>
 					<l>ὠς γλυκερὸ τὸ γλῶσσ’, ὤσπερ Ἀττικὸς μέλις.</l>
 					<l>τί οὐ κατεύδει παρ’ ἐμέ;</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l part="Y">χαῖρε τοξότα,</l>
 					<l>οὐ γὰρ γένοιτ’ ἂν τοῦτο.</l>
 				</sp>
-				<sp who="#tocoths">
+				<sp who="#toksotes">
 					<speaker>Τοξότης</speaker>
 					<l part="Y">ναὶ &lt;ναὶ&gt; γρᾴδιο.</l>
 					<l>ἐμοὶ κάρισο σὺ τοῦτο.</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l part="Y">δώσεις οὖν δραχμήν;</l>
 				</sp>
-				<sp who="#tocoths">
+				<sp who="#toksotes">
 					<speaker>Τοξότης</speaker>
 					<l n="1195">ναὶ ναῖκι δῶσι.</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l part="Y">τἀργύριον τοίνυν φέρε.</l>
 				</sp>
-				<sp who="#tocoths">
+				<sp who="#toksotes">
 					<speaker>Τοξότης</speaker>
 					<l>ἀλλ’ οὐκ ἔκὠδέν· ἀλλὰ τὸ συβήνην λαβέ.</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l>ἔπειτα † κομίζεις αὐτοῖς.†</l>
 				</sp>
-				<sp who="#tocoths">
+				<sp who="#toksotes">
 					<speaker>Τοξότης</speaker>
 					<l part="Y">ἀκολούτι τέκνον.</l>
 					<l>σὺ δὲ τοῦτο τήρει τὴ γέροντο, γρᾴδιο.</l>
 					<l n="1200">ὄνομα δέ σοι τί ἔστιν;</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l part="Y">Ἀρτεμισία.</l>
 				</sp>
-				<sp who="#tocoths">
+				<sp who="#toksotes">
 					<speaker>Τοξότης</speaker>
 					<l>μεμνῆσι τοίνυν τοὔνομ’· Ἀρταμουξία.</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l>Ἑρμῆ δόλιε ταυτὶ μὲν ἔτι καλῶς ποιεῖς.</l>
 					<l>σὺ μὲν οὖν ἀπότρεχε παιδάριον τουτὶ λαβών·</l>
@@ -3278,20 +3278,20 @@ bring up to P3
 					<l n="1205">ὅταν λυθῇς τάχιστα θεύξει καὶ τενεῖς</l>
 					<l>ὡς τὴν γυναῖκα καὶ τὰ παιδἴ οἴκαδε.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l>ἐμοὶ μελήσει ταῦτά γ’ ἢν ἅπαξ λυθῶ.</l>
 				</sp>
-				<sp who="#euripidhs">
+				<sp who="#eyripides">
 					<speaker>Εὐριπίδης</speaker>
 					<l>λέλυσο. σὸν ἔργον, φεῦγε πρὶν τὸν τοξότην</l>
 					<l>ἥκοντα καταλαβεῖν.</l>
 				</sp>
-				<sp who="#mnhsiloxos">
+				<sp who="#mnesiloxos">
 					<speaker>Μνησίλοχος</speaker>
 					<l part="Y">ἐγὼ δὴ τοῦτο δρῶ.</l>
 				</sp>
-				<sp who="#tocoths">
+				<sp who="#toksotes">
 					<speaker>Τοξότης</speaker>
 					<l n="1210">ὦ γρᾴδῑ ὠς καρίεντό σοι τὸ τυγάτριον,</l>
 					<l>κοὐ δύσκολ’ ἀλλὰ πρᾶο. ποῦ τὸ γρᾴδιο;</l>
@@ -3307,7 +3307,7 @@ bring up to P3
 					<speaker>Χορός</speaker>
 					<l>τὴν γραῦν ἐρωτᾷς, ἣ ’φερεν τὰς πηκτίδας;</l>
 				</sp>
-				<sp who="#tocoths">
+				<sp who="#toksotes">
 					<speaker>Τοξότης</speaker>
 					<l>ναὶ ναῖκι. εἶδες αὐτό;</l>
 				</sp>
@@ -3316,7 +3316,7 @@ bring up to P3
 					<l part="Y">ταύτῃ γ’ οἴχεται</l>
 					<l>αὐτή τ’ ἐκείνη καὶ γέρων τις εἵπετο.</l>
 				</sp>
-				<sp who="#tocoths">
+				<sp who="#toksotes">
 					<speaker>Τοξότης</speaker>
 					<l n="1220">κροκῶτ’ ἔκοντο τὴ γέροντο;</l>
 				</sp>
@@ -3325,7 +3325,7 @@ bring up to P3
 					<l part="Y">φήμ’ ἐγώ.</l>
 					<l>ἔτ’ ἂν καταλάβοις, εἰ διώκοις ταυτῃί.</l>
 				</sp>
-				<sp who="#tocoths">
+				<sp who="#toksotes">
 					<speaker>Τοξότης</speaker>
 					<l>ὦ μιαρὸ γρᾶο· πότερα τρέξι τὴν ὀδό;</l>
 					<l>Ἀρταμουξία.</l>
@@ -3335,7 +3335,7 @@ bring up to P3
 					<l>ὀρθὴν ἄνω δίωκε. ποῖ θεῖς; οὐ πάλιν</l>
 					<l>τῃδὶ διώξει; σ’ τοὔμπαλιν τρέχεις σύ γε.</l>
 				</sp>
-				<sp who="#tocoths">
+				<sp who="#toksotes">
 					<speaker>Τοξότης</speaker>
 					<l n="1225">κακόδαιμον, ἀλλὰ τρέξι. Ἀρταμουξία.</l>
 					<milestone ed="p" n="1226" unit="card"/>

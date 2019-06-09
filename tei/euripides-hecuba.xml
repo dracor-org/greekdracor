@@ -51,31 +51,31 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="talthybios">
+					<person xml:id="talthybios" sex="MALE">
 						<persName>Ταλθύβιος</persName>
 					</person>
-					<person xml:id="therapaina">
+					<person xml:id="therapaina" sex="FEMALE">
 						<persName>Θεράπαινα</persName>
 					</person>
-					<person xml:id="polymestor">
+					<person xml:id="polymestor" sex="MALE">
 						<persName>Πολυμήστωρ</persName>
 					</person>
-					<person xml:id="polydoroyeidolon">
+					<person xml:id="polydoroyeidolon" sex="MALE">
 						<persName>Πολυδώρου εἴδωλον</persName>
 					</person>
-					<person xml:id="odysseys">
+					<person xml:id="odysseys" sex="MALE">
 						<persName>Ὀδυσσεύς</persName>
 					</person>
-					<person xml:id="agamemnon">
+					<person xml:id="agamemnon" sex="MALE">
 						<persName>Ἀγαμέμνων</persName>
 					</person>
-					<person xml:id="ekabe">
+					<person xml:id="ekabe" sex="FEMALE">
 						<persName>Ἑκάβη</persName>
 					</person>
-					<personGrp xml:id="xoros">
+					<personGrp xml:id="xoros" sex="FEMALE">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="polyksene">
+					<person xml:id="polyksene" sex="FEMALE">
 						<persName>Πολυξένη</persName>
 					</person>
 				</listPerson>

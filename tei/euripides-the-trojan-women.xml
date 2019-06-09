@@ -51,37 +51,37 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="andromaxe">
+					<person xml:id="andromaxe" sex="FEMALE">
 						<persName>Ἀνδρομάχη</persName>
 					</person>
-					<person xml:id="talthybios">
+					<person xml:id="talthybios" sex="MALE">
 						<persName>Ταλθύβιος</persName>
 					</person>
-					<personGrp xml:id="xoros">
+					<personGrp xml:id="xoros" sex="FEMALE">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="elene">
+					<person xml:id="elene" sex="FEMALE">
 						<persName>Ἑλένη</persName>
 					</person>
-					<person xml:id="menelaos">
+					<person xml:id="menelaos" sex="MALE">
 						<persName>Μενέλαος</persName>
 					</person>
-					<person xml:id="emixorionb">
-						<persName>Ἡμιχόριον Β</persName>
+					<personGrp xml:id="emixorionb" sex="FEMALE">
+						<name>Ἡμιχόριον Β</persName>
 					</person>
-					<person xml:id="ekabe">
+					<person xml:id="ekabe" sex="FEMALE">
 						<persName>Ἑκάβη</persName>
 					</person>
-					<person xml:id="emixoriona">
-						<persName>Ἡμιχόριον Α</persName>
+					<personGrp xml:id="emixoriona" sex="FEMALE">
+						<name>Ἡμιχόριον Α</persName>
 					</person>
-					<person xml:id="athena">
+					<person xml:id="athena" sex="FEMALE">
 						<persName>Ἀθήνα</persName>
 					</person>
-					<person xml:id="kasandra">
+					<person xml:id="kasandra" sex="FEMALE">
 						<persName>Κασάνδρα</persName>
 					</person>
-					<person xml:id="poseidon">
+					<person xml:id="poseidon" sex="MALE">
 						<persName>Ποσειδῶν</persName>
 					</person>
 				</listPerson>

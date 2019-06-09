@@ -1,5 +1,5 @@
-# greekdracor
+# GreekDraCor
 
-Ancient Greek plays from [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/opensource/download). 
+Ancient Greek plays, adapted from [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/opensource/download).
 
-Betacode conversion to utf made with [Python package](https://pypi.org/project/betacode/)
+Betacode to Unicode conversion done with [betacode 0.2](https://pypi.org/project/betacode/).

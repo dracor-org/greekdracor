@@ -52,39 +52,39 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="menelaos">
+					<person xml:id="menelaos" sex="MALE">
 						<persName>Μενέλαος</persName>
 					</person>
-					<person xml:id="aggelos">
+					<person xml:id="aggelos" sex="MALE">
 						<persName>Ἄγγελος</persName>
 					</person>
-					<person xml:id="odysseys">
+					<person xml:id="odysseys" sex="MALE">
 						<persName>Ὀδυσσεύς</persName>
 					</person>
-					<person xml:id="teykros">
+					<person xml:id="teykros" sex="MALE">
 						<persName>Τεῦκρος</persName>
 					</person>
-					<person xml:id="emixorion2">
-						<persName>Ἡμιχόριον 2</persName>
-					</person>
-					<person xml:id="athena">
+					<personGrp xml:id="emixorion2" sex="MALE">
+						<name>Ἡμιχόριον 2</name>
+					</personGrp>
+					<person xml:id="athena" sex="FEMALE">
 						<persName>Ἀθήνα</persName>
 					</person>
-					<person xml:id="agamemnon">
+					<person xml:id="agamemnon" sex="MALE">
 						<persName>Ἀγαμέμνων</persName>
 					</person>
-					<personGrp xml:id="xoros">
+					<personGrp xml:id="xoros" sex="MALE">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="aias">
+					<person xml:id="aias" sex="MALE">
 						<persName>Αἴας</persName>
 					</person>
-					<person xml:id="tekmessa">
+					<person xml:id="tekmessa" sex="FEMALE">
 						<persName>Τέκμησσα</persName>
 					</person>
-					<person xml:id="emixorion1">
-						<persName>Ἡμιχόριον 1</persName>
-					</person>
+					<personGrp xml:id="emixorion1" sex="MALE">
+						<name>Ἡμιχόριον 1</name>
+					</personGrp>
 				</listPerson>
 			</particDesc>
 			<textClass>

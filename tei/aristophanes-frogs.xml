@@ -52,49 +52,49 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="therapaina">
+					<person xml:id="therapaina" sex="FEMALE">
 						<persName>Θεράπαινα</persName>
 					</person>
-					<person xml:id="eyripides">
+					<person xml:id="eyripides" sex="MALE">
 						<persName>Εὐριπίδης</persName>
 					</person>
-					<person xml:id="aiakos">
+					<person xml:id="aiakos" sex="MALE">
 						<persName>Ἄιακος</persName>
 					</person>
-					<person xml:id="pandokeytria">
+					<person xml:id="pandokeytria" sex="FEMALE">
 						<persName>Πανδοκευτρία</persName>
 					</person>
-					<person xml:id="ksanthias">
+					<person xml:id="ksanthias" sex="MALE">
 						<persName>Ξανθίας</persName>
 					</person>
-					<person xml:id="aisxylos">
+					<person xml:id="aisxylos" sex="MALE">
 						<persName>Αἰσχύλος</persName>
 					</person>
-					<person xml:id="plathane">
+					<person xml:id="plathane" sex="FEMALE">
 						<persName>Πλαθάνη</persName>
 					</person>
-					<person xml:id="erakles">
+					<person xml:id="erakles" sex="MALE">
 						<persName>Ἡρακλῆς</persName>
 					</person>
-					<person xml:id="dionysos">
+					<person xml:id="dionysos" sex="MALE">
 						<persName>Διόνυσος</persName>
 					</person>
-					<person xml:id="xaron">
+					<person xml:id="xaron" sex="MALE">
 						<persName>Χάρων</persName>
 					</person>
-					<person xml:id="nekros">
+					<person xml:id="nekros" sex="MALE">
 						<persName>Νέκρος</persName>
 					</person>
-					<person xml:id="batraxoi">
-						<persName>Βάτραχοι</persName>
-					</person>
-					<person xml:id="dis">
+					<personGrp xml:id="batraxoi" sex="UNKNOWN">
+						<name>Βάτραχοι</name>
+					</personGrp>
+					<person xml:id="dis" sex="MALE">
 						<persName>Δις.</persName>
 					</person>
-					<person xml:id="ployton">
+					<person xml:id="ployton" sex="MALE">
 						<persName>Πλούτων</persName>
 					</person>
-					<personGrp xml:id="xoros">
+					<personGrp xml:id="xoros" sex="UNKNOWN">
 						<name>Χορός</name>
 					</personGrp>
 				</listPerson>

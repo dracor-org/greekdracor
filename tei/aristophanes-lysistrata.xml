@@ -58,19 +58,19 @@
 					<person xml:id="kinesias">
 						<persName>Κινησίας</persName>
 					</person>
-					<personGrp xml:id="xoros">
+					<personGrp xml:id="choros">
 						<name>Χορός </name>
 					</personGrp>
 					<person xml:id="lakon">
 						<persName>Λάκων</persName>
 					</person>
-					<person xml:id="paiskinesioy">
+					<person xml:id="pais_kinesiou">
 						<persName>Παῖς Κινησίου</persName>
 					</person>
-					<person xml:id="athenaiosb">
+					<person xml:id="athenaios_b">
 						<persName>Ἀθηναῖος Β</persName>
 					</person>
-					<person xml:id="gyned">
+					<person xml:id="gyne_d">
 						<persName>Γυνὴ Δ</persName>
 					</person>
 					<personGrp xml:id="xorosgynaikon">
@@ -79,19 +79,19 @@
 					<person xml:id="alle">
 						<persName>Ἄλλη</persName>
 					</person>
-					<person xml:id="gynea">
+					<person xml:id="gyne_a">
 						<persName>Γυνὴ Α</persName>
 					</person>
 					<person xml:id="lampito">
 						<persName>Λαμπιτῶ</persName>
 					</person>
-					<person xml:id="kerykslakedaimonion">
+					<person xml:id="keryx_lakedaimonion">
 						<persName>Κῆρυξ Λακεδαιμονίων</persName>
 					</person>
 					<personGrp xml:id="xoroslakedaimonion">
 						<name>Χορὸς Λακεδαιμονίων</name>
 					</personGrp>
-					<person xml:id="gyneb">
+					<person xml:id="gyne_b">
 						<persName>Γυνὴ Β</persName>
 					</person>
 					<personGrp xml:id="xorosgeronton">
@@ -103,7 +103,7 @@
 					<person xml:id="kalonike">
 						<persName>Καλονίκη</persName>
 					</person>
-					<person xml:id="athenaiosa">
+					<person xml:id="athenaios_a">
 						<persName>Ἀθηναῖος Α</persName>
 					</person>
 					<person xml:id="gyne">
@@ -115,16 +115,16 @@
 					<personGrp xml:id="xorosathenaion">
 						<name>Χορὸς Ἀθηναίων</name>
 					</personGrp>
-					<person xml:id="proboylos">
+					<person xml:id="proboulos">
 						<persName>Πρόβουλος</persName>
 					</person>
 					<person xml:id="pasai">
 						<persName>Πᾶσαι</persName>
 					</person>
-					<person xml:id="gyneks">
+					<person xml:id="gyne_x">
 						<persName>Γυνὴ Ξ</persName>
 					</person>
-					<person xml:id="gyneg">
+					<person xml:id="gyne_g">
 						<persName>Γυνὴ Γ</persName>
 					</person>
 					<person xml:id="geron">
@@ -1293,7 +1293,7 @@ bring up to P3
 				</div2>
 			</div1>
 			<div1 type="Episode">
-				<sp who="#proboylos">
+				<sp who="#proboulos">
 					<speaker>Πρόβουλος</speaker>
 					<l>ἆρ’ ἐξέλαμψε τῶν γυναικῶν ἡ τρυφὴ</l>
 					<l>χὠ τυμπανισμὸς χοἰ πυκνοὶ Σαβάζιοι,</l>
@@ -1315,7 +1315,7 @@ bring up to P3
 					<l>ἔλουσαν ἡμᾶς, ὥστε θαἰματίδια</l>
 					<l>σείειν πάρεστιν ὥσπερ ἐνεουρηκότας.</l>
 				</sp>
-				<sp who="#proboylos">
+				<sp who="#proboulos">
 					<speaker>Πρόβουλος</speaker>
 					<l>νὴ τὸν Ποσειδῶ τὸν ἁλυκὸν δίκαιά γε.</l>
 					<l>ὅταν γὰρ αὐτοὶ ξυμπονηρευώμεθα</l>
@@ -1352,7 +1352,7 @@ bring up to P3
 					<l>ἐξέρχομαι γὰρ αὐτομάτη. τί δεῖ μοχλῶν;</l>
 					<l>οὐ γὰρ μοχλῶν δεῖ μᾶλλον ἢ νοῦ καὶ φρενῶν.</l>
 				</sp>
-				<sp who="#proboylos">
+				<sp who="#proboulos">
 					<speaker>Πρόβουλος</speaker>
 					<l>ἄληθες ὦ μιαρὰ σύ; ποῦ ’σθ’ ὁ τοξότης;</l>
 					<l>ξυλλάμβαν’ αὐτὴν κὠπίσω τὼ χεῖρε δεῖ.</l>
@@ -1362,38 +1362,38 @@ bring up to P3
 					<l n="435">εἴ τἄρα νὴ τὴν Ἄρτεμιν τὴν χεῖρά μοι</l>
 					<l>ἄκραν προσοίσει δημόσιος ὤν, κλαύσεται.</l>
 				</sp>
-				<sp who="#proboylos">
+				<sp who="#proboulos">
 					<speaker>Πρόβουλος</speaker>
 					<l>ἔδεισας οὗτος; οὐ ξυναρπάσει μέσην</l>
 					<l>καὶ σὺ μετὰ τούτου κἀνύσαντε δήσετον;</l>
 				</sp>
-				<sp who="#gynea">
+				<sp who="#gyne_a">
 					<speaker>Γυνὴ Α</speaker>
 					<l>εἴ τἄρα νὴ τὴν Πάνδροσον ταύτῃ μόνον</l>
 					<l n="440">τὴν χεῖρ’ ἐπιβαλεῖς, ἐπιχεσεῖ πατούμενος.</l>
 				</sp>
-				<sp who="#proboylos">
+				<sp who="#proboulos">
 					<speaker>Πρόβουλος</speaker>
 					<l>ἰδού γ’ἐπιχεσεῖ. ποῦ ’στιν ἕτερος τοξότης;</l>
 					<l>ταύτην προτέραν ξύνδησον, ὁτιὴ καὶ λαλεῖ.</l>
 					<milestone ed="p" n="443" unit="card"/>
 				</sp>
-				<sp who="#gyneb">
+				<sp who="#gyne_b">
 					<speaker>Γυνὴ Β</speaker>
 					<l>εἴ τἄρα νὴ τὴν Φωσφόρον τὴν χεῖρ’ ἄκραν</l>
 					<l>ταύτῃ προσοίσεις, κύαθον αἰτήσεις τάχα.</l>
 				</sp>
-				<sp who="#proboylos">
+				<sp who="#proboulos">
 					<speaker>Πρόβουλος</speaker>
 					<l n="445">τουτὶ τί ἦν; ποῦ τοξότης; ταύτης ἔχου.</l>
 					<l>παύσω τιν’ ὑμῶν τῆσδ’ ἐγὼ τῆς ἐξόδου.</l>
 				</sp>
-				<sp who="#gyneg">
+				<sp who="#gyne_g">
 					<speaker>Γυνὴ Γ</speaker>
 					<l>εἴ τἄρα νὴ τὴν Ταυροπόλον ταύτῃ πρόσει,</l>
 					<l>ἐκκοκκιῶ σου τὰς στενοκωκύτους τρίχας.</l>
 				</sp>
-				<sp who="#proboylos">
+				<sp who="#proboulos">
 					<speaker>Πρόβουλος</speaker>
 					<l>οἴμοι κακοδαίμων· ἐπιλέλοιφ’ ὁ τοξότης.</l>
 					<l n="450">ἀτὰρ οὐ γυναικῶν οὐδέποτ’ ἔσθ’ ἡττητέα</l>
@@ -1406,7 +1406,7 @@ bring up to P3
 					<l>ὅτι καὶ παρ’ ἡμῖν εἰσι τέτταρες λόχοι</l>
 					<l>μαχίμων γυναικῶν ἔνδον ἐξωπλισμένων.</l>
 				</sp>
-				<sp who="#proboylos">
+				<sp who="#proboulos">
 					<speaker>Πρόβουλος</speaker>
 					<l n="455">ἀποστρέφετε τὰς χεῖρας αὐτῶν ὦ Σκύθαι.</l>
 				</sp>
@@ -1419,7 +1419,7 @@ bring up to P3
 					<l n="460">οὐ λοιδορήσετ’, οὐκ ἀναισχυντήσετε;</l>
 					<l>παύσασθ’, ἐπαναχωρεῖτε, μὴ σκυλεύετε.</l>
 				</sp>
-				<sp who="#proboylos">
+				<sp who="#proboulos">
 					<speaker>Πρόβουλος</speaker>
 					<l>οἴμ’ ὡς κακῶς πέπραγέ μου τὸ τοξικόν.</l>
 				</sp>
@@ -1429,7 +1429,7 @@ bring up to P3
 					<l>ἥκειν ἐνόμισας, ἢ γυναιξὶν οὐκ οἴει</l>
 					<l n="465">χολὴν ἐνεῖναι;</l>
 				</sp>
-				<sp who="#proboylos">
+				<sp who="#proboulos">
 					<speaker>Πρόβουλος</speaker>
 					<l part="Y">νὴ τὸν Ἀπόλλω καὶ μάλα</l>
 					<l>πολλήν γ’, ἐάνπερ πλησίον κάπηλος ᾖ.</l>
@@ -1477,7 +1477,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 met="anapests" type="epirrheme">
-					<sp who="#proboylos">
+					<sp who="#proboulos">
 						<speaker>Πρόβουλος</speaker>
 						<l>καὶ μὴν αὐτῶν τοῦτ’ ἐπιθυμῶ νὴ τὸν Δία πρῶτα πυθέσθαι,</l>
 						<l>ὅ τι βουλόμεναι τὴν πόλιν ἡμῶν ἀπεκλῄσατε τοῖσι μοχλοῖσιν.</l>
@@ -1486,7 +1486,7 @@ bring up to P3
 						<speaker>Λυσιστράτη</speaker>
 						<l>ἵνα τἀργύριον σῶν παρέχοιμεν καὶ μὴ πολεμοῖτε δῑ αὐτό.</l>
 					</sp>
-					<sp who="#proboylos">
+					<sp who="#proboulos">
 						<speaker>Πρόβουλος</speaker>
 						<l>διὰ τἀργύριον πολεμοῦμεν γάρ;</l>
 					</sp>
@@ -1497,7 +1497,7 @@ bring up to P3
 						<l>ἀεί τινα κορκορυγὴν ἐκύκων. οἱ δ’ οὖν τοῦδ’ οὕνεκα δρώντων</l>
 						<l>ὅ τι βούλονται· τὸ γὰρ ἀργύριον τοῦτ’ οὐκέτι μὴ καθέλωσιν.</l>
 					</sp>
-					<sp who="#proboylos">
+					<sp who="#proboulos">
 						<speaker>Πρόβουλος</speaker>
 						<l>ἀλλὰ τί δράσεις;</l>
 					</sp>
@@ -1505,7 +1505,7 @@ bring up to P3
 						<speaker>Λυσιστράτη</speaker>
 						<l part="Y">τοῦτό μ’ ἐρωτᾷς; ἡμεῖς ταμιεύσομεν αὐτό.</l>
 					</sp>
-					<sp who="#proboylos">
+					<sp who="#proboulos">
 						<speaker>Πρόβουλος</speaker>
 						<l>ὑμεῖς ταμιεύσετε τἀργύριον;</l>
 					</sp>
@@ -1514,7 +1514,7 @@ bring up to P3
 						<l part="Y">τί &lt;δὲ&gt; δεινὸν τοῦτο νομίζεις;</l>
 						<l n="495">οὐ καὶ τἄνδον χρήματα πάντως ἡμεῖς ταμιεύομεν ὑμῖν;</l>
 					</sp>
-					<sp who="#proboylos">
+					<sp who="#proboulos">
 						<speaker>Πρόβουλος</speaker>
 						<l>ἀλλ’ οὐ ταὐτόν.</l>
 					</sp>
@@ -1522,7 +1522,7 @@ bring up to P3
 						<speaker>Λυσιστράτη</speaker>
 						<l part="Y">πῶς οὐ ταὐτόν;</l>
 					</sp>
-					<sp who="#proboylos">
+					<sp who="#proboulos">
 						<speaker>Πρόβουλος</speaker>
 						<l part="Y">πολεμητέον ἔστ’ ἀπὸ τούτου.</l>
 					</sp>
@@ -1530,7 +1530,7 @@ bring up to P3
 						<speaker>Λυσιστράτη</speaker>
 						<l>ἀλλ’ οὐδὲν δεῖ πρῶτον πολεμεῖν.</l>
 					</sp>
-					<sp who="#proboylos">
+					<sp who="#proboulos">
 						<speaker>Πρόβουλος</speaker>
 						<l part="Y">πῶς γὰρ σωθησόμεθ’ ἄλλως;</l>
 					</sp>
@@ -1538,7 +1538,7 @@ bring up to P3
 						<speaker>Λυσιστράτη</speaker>
 						<l>ἡμεῖς ὑμᾶς σώσομεν.</l>
 					</sp>
-					<sp who="#proboylos">
+					<sp who="#proboulos">
 						<speaker>Πρόβουλος</speaker>
 						<l part="Y">ὑμεῖς;</l>
 					</sp>
@@ -1546,7 +1546,7 @@ bring up to P3
 						<speaker>Λυσιστράτη</speaker>
 						<l part="Y">ἡμεῖς μέντοι.</l>
 					</sp>
-					<sp who="#proboylos">
+					<sp who="#proboulos">
 						<speaker>Πρόβουλος</speaker>
 						<l part="Y">σχέτλιόν γε.</l>
 					</sp>
@@ -1554,7 +1554,7 @@ bring up to P3
 						<speaker>Λυσιστράτη</speaker>
 						<l>ὡς σωθήσει, κἂν μὴ βούλῃ.</l>
 					</sp>
-					<sp who="#proboylos">
+					<sp who="#proboulos">
 						<speaker>Πρόβουλος</speaker>
 						<l part="Y">δεινόν &lt;γε&gt; λέγεις.</l>
 					</sp>
@@ -1563,7 +1563,7 @@ bring up to P3
 						<l part="Y">ἀγανακτεῖς.</l>
 						<l n="500">ἀλλὰ ποιητέα ταῦτ’ ἐστὶν ὅμως.</l>
 					</sp>
-					<sp who="#proboylos">
+					<sp who="#proboulos">
 						<speaker>Πρόβουλος</speaker>
 						<l part="Y">νὴ τὴν Δήμητρ’ ἄδικόν γε.</l>
 					</sp>
@@ -1571,7 +1571,7 @@ bring up to P3
 						<speaker>Λυσιστράτη</speaker>
 						<l>σωστέον ὦ τᾶν.</l>
 					</sp>
-					<sp who="#proboylos">
+					<sp who="#proboulos">
 						<speaker>Πρόβουλος</speaker>
 						<l part="Y">κεἰ μὴ δέομαι;</l>
 					</sp>
@@ -1579,7 +1579,7 @@ bring up to P3
 						<speaker>Λυσιστράτη</speaker>
 						<l part="Y">τοῦδ’ οὕνεκα καὶ πολὺ μᾶλλον.</l>
 					</sp>
-					<sp who="#proboylos">
+					<sp who="#proboulos">
 						<speaker>Πρόβουλος</speaker>
 						<l>ὑμῖν δὲ πόθεν περὶ τοῦ πολέμου τῆς τ’ εἰρήνης ἐμέλησεν;</l>
 					</sp>
@@ -1587,7 +1587,7 @@ bring up to P3
 						<speaker>Λυσιστράτη</speaker>
 						<l>ἡμεῖς φράσομεν.</l>
 					</sp>
-					<sp who="#proboylos">
+					<sp who="#proboulos">
 						<speaker>Πρόβουλος</speaker>
 						<l part="Y">λέγε δὴ ταχέως, ἵνα μὴ κλάῃς,</l>
 					</sp>
@@ -1596,16 +1596,16 @@ bring up to P3
 						<l part="Y">ἀκροῶ δή,</l>
 						<l>καὶ τὰς χεῖρας πειρῶ κατέχειν.</l>
 					</sp>
-					<sp who="#proboylos">
+					<sp who="#proboulos">
 						<speaker>Πρόβουλος</speaker>
 						<l part="Y">ἀλλ’ οὐ δύναμαι· χαλεπὸν γὰρ</l>
 						<l n="505">ὑπὸ τῆς ὀργῆς αὐτὰς ἴσχειν.</l>
 					</sp>
-					<sp who="#gynea">
+					<sp who="#gyne_a">
 						<speaker>Γυνὴ Α.</speaker>
 						<l part="Y">κλαύσει τοίνυν πολὺ μᾶλλον.</l>
 					</sp>
-					<sp who="#proboylos">
+					<sp who="#proboulos">
 						<speaker>Πρόβουλος</speaker>
 						<l>τοῦτο μὲν ὦ γραῦ σαυτῇ κρώξαις· σὺ δέ μοι λέγε.</l>
 					</sp>
@@ -1622,11 +1622,11 @@ bring up to P3
 						<l>ἐν τῷ δήμῳ τήμερονὑμῖν;’ ‘τίδὲ σοὶ ταῦτ’;’ ἦ δ’ ὃς ἂν ἁνήρ.</l>
 						<l n="515">‘οὐ σιγήσει;’ κἀγὼ ἐσίγων.</l>
 					</sp>
-					<sp who="#gyneb">
+					<sp who="#gyne_b">
 						<speaker>Γυνὴ Β.</speaker>
 						<l part="Y">ἀλλ’ οὐκ ἂν ἐγώ ποτ’ ἐσίγων.</l>
 					</sp>
-					<sp who="#proboylos">
+					<sp who="#proboulos">
 						<speaker>Πρόβουλος</speaker>
 						<l>κἂν ᾤμωζές γ’, εἰ μὴ ’σίγας.</l>
 					</sp>
@@ -1638,7 +1638,7 @@ bring up to P3
 						<l>ὁ δέ μ’ εὐθὺς ὑποβλέψας &lt;ἂν&gt; ἔφασκ’, εἰ μὴ τὸν στήμονα νήσω,</l>
 						<l n="520">ὀτοτύξεσθαι μακρὰ τὴν κεφαλήν· ‘πόλεμος δ’ ἄνδρεσσι μελήσει.’</l>
 					</sp>
-					<sp who="#proboylos">
+					<sp who="#proboulos">
 						<speaker>Πρόβουλος</speaker>
 						<l>ὀρθῶς γε λέγων νὴ Δί’ ἐκεῖνος.</l>
 					</sp>
@@ -1653,7 +1653,7 @@ bring up to P3
 						<l>ἢν οὖν ἡμῶν χρηστὰ λεγουσῶν ἐθελήσητ’ ἀντακροᾶσθαι</l>
 						<l>κἀντισιωπᾶθ’ ὥσπερ χἠμεῖς, ἐπανορθώσαιμεν ἂν ὑμᾶς.</l>
 					</sp>
-					<sp who="#proboylos">
+					<sp who="#proboulos">
 						<speaker>Πρόβουλος</speaker>
 						<l>ὑμεῖς ἡμᾶς; δεινόν γε λέγεις κοὐ τλητὸν ἔμοιγε.</l>
 					</sp>
@@ -1661,7 +1661,7 @@ bring up to P3
 						<speaker>Λυσιστράτη</speaker>
 						<l part="Y">σιώπα.</l>
 					</sp>
-					<sp who="#proboylos">
+					<sp who="#proboulos">
 						<speaker>Πρόβουλος</speaker>
 						<l n="530">σοί γ’ ὦ κατάρατε σιωπῶ ’γώ, καὶ ταῦτα κάλυμμα φορούσῃ</l>
 						<l>περὶ τὴν κεφαλήν; μή νυν ζῴην.</l>
@@ -1676,7 +1676,7 @@ bring up to P3
 						<l>ἔχε καὶ περίθου περὶ τὴν κεφαλήν,</l>
 						<l>κᾆτα σιώπα</l>
 					</sp>
-					<sp who="#gyneg">
+					<sp who="#gyne_g">
 						<speaker>Γυνὴ Γ.</speaker>
 						<l n="535">καὶ τοῦτον τὸν καλαθίσκον.</l>
 					</sp>
@@ -1725,7 +1725,7 @@ bring up to P3
 						<l>κᾆτ’ ἐντήξῃ τέτανον τερπνὸν τοῖς ἀνδράσι καὶ ῥοπαλισμούς,</l>
 						<l>οἶμαί ποτε Λυσιμάχας ἡμᾶς ἐν τοῖς Ἕλλησι καλεῖσθαι.</l>
 					</sp>
-					<sp who="#proboylos">
+					<sp who="#proboulos">
 						<speaker>Πρόβουλος</speaker>
 						<l n="555">τί ποιησάσας;</l>
 					</sp>
@@ -1734,7 +1734,7 @@ bring up to P3
 						<l part="Y">ἢν παύσωμεν πρώτιστον μὲν ξὺν ὅπλοισιν</l>
 						<l>ἀγοράζοντας καὶ μαινομένους.</l>
 					</sp>
-					<sp who="#gynea">
+					<sp who="#gyne_a">
 						<speaker>Γυνὴ Α.</speaker>
 						<l part="Y">νὴ τὴν Παφίαν Ἀφροδίτην.</l>
 					</sp>
@@ -1743,7 +1743,7 @@ bring up to P3
 						<l>νῦν μὲν γὰρ δὴ κἀν ταῖσι χύτραις κἀν τοῖς λαχάνοισιν ὁμοίως</l>
 						<l>περιέρχονται κατὰ τὴν ἀγορὰν ξὺν ὅπλοις ὥσπερ Κορύβαντες.</l>
 					</sp>
-					<sp who="#proboylos">
+					<sp who="#proboulos">
 						<speaker>Πρόβουλος</speaker>
 						<l>νὴ Δία· χρὴ γὰρ τοὺς ἀνδρείους.</l>
 					</sp>
@@ -1752,14 +1752,14 @@ bring up to P3
 						<l part="Y">καὶ μὴν τό γε πρᾶγμα γέλοιον,</l>
 						<l n="560">ὅταν ἀσπίδ’ ἔχων καὶ Γοργόνα τις κᾆτ’ ὠνῆται κορακίνους.</l>
 					</sp>
-					<sp who="#gyneb">
+					<sp who="#gyne_b">
 						<speaker>Γυνὴ Β.</speaker>
 						<l>νὴ Δί’ ἐγὼ γοῦν ἄνδρα κομήτην φυλαρχοῦντ’ εἶδον ἐφ’ ἵππου</l>
 						<l>ἐς τὸν χαλκοῦν ἐμβαλλόμενον πῖλον λέκιθον παρὰ γραός·</l>
 						<l>ἕτερος δ’ &lt;αὖ&gt; Θρᾷξ πέλτην σείων κἀκόντιον ὥσπερ ὁ Τηρεύς,</l>
 						<l>ἐδεδίσκετο τὴν ἰσχαδόπωλιν καὶ τὰς δρυπεπεῖς κατέπινεν.</l>
 					</sp>
-					<sp who="#proboylos">
+					<sp who="#proboulos">
 						<speaker>Πρόβουλος</speaker>
 						<l n="565">πῶς οὖν ὑμεῖς δυναταὶ παῦσαι τεταραγμένα πράγματα πολλὰ</l>
 						<l>ἐν ταῖς χώραις καὶ διαλῦσαι;</l>
@@ -1768,7 +1768,7 @@ bring up to P3
 						<speaker>Λυσιστράτη</speaker>
 						<l part="Y">φαύλως πάνυ.</l>
 					</sp>
-					<sp who="#proboylos">
+					<sp who="#proboulos">
 						<speaker>Πρόβουλος</speaker>
 						<l part="Y">πῶς; ἀπόδειξον.</l>
 					</sp>
@@ -1779,7 +1779,7 @@ bring up to P3
 						<l>οὕτως καὶ τὸν πόλεμον τοῦτον διαλύσομεν, ἤν τις ἐάσῃ,</l>
 						<l n="570">διενεγκοῦσαι διὰ πρεσβειῶν τὸ μὲν ἐνταυθοῖ τὸ δ’ ἐκεῖσε.</l>
 					</sp>
-					<sp who="#proboylos">
+					<sp who="#proboulos">
 						<speaker>Πρόβουλος</speaker>
 						<l>ἐξ ἐρίων δὴ καὶ κλωστήρων καὶ ἀτράκτων πράγματα δεινὰ</l>
 						<l>παύσειν οἴεσθ’ ὦ ἀνόητοι;</l>
@@ -1789,7 +1789,7 @@ bring up to P3
 						<l part="Y">κἂν ὑμῖν γ’ εἴ τις ἐνῆν νοῦς,</l>
 						<l>ἐκ τῶν ἐρίων τῶν ἡμετέρων ἐπολιτεύεσθ’ ἂν ἅπαντα.</l>
 					</sp>
-					<sp who="#proboylos">
+					<sp who="#proboulos">
 						<speaker>Πρόβουλος</speaker>
 						<l>πῶς δή; φέρ’ ἴδω.</l>
 					</sp>
@@ -1809,7 +1809,7 @@ bring up to P3
 						<l n="585">δεῦρο ξυνάγειν καὶ συναθροίξειν εἰς ἕν, κἄπειτα ποιῆσαι</l>
 						<l>τολύπην μεγάλην κᾆτ’ ἐκ ταύτης τῷ δήμῳ χλαῖναν ὑφῆναι.</l>
 					</sp>
-					<sp who="#proboylos">
+					<sp who="#proboulos">
 						<speaker>Πρόβουλος</speaker>
 						<l>οὔκουν δεινὸν ταυτὶ ταύτας ῥαβδίξειν καὶ τολυπεύειν,</l>
 						<l>αἶς οὐδὲ μετῆν πάνυ τοῦ πολέμου;</l>
@@ -1820,7 +1820,7 @@ bring up to P3
 						<l>πλεῖν ἤ γε διπλοῦν αὐτὸν φέρομεν, πρώτιστον μέν γε τεκοῦσαι</l>
 						<l n="590">κἀκπέμψασαι παῖδας ὁπλίτας.</l>
 					</sp>
-					<sp who="#proboylos">
+					<sp who="#proboulos">
 						<speaker>Πρόβουλος</speaker>
 						<l part="Y">σίγα, μὴ μνησικακήσῃς.</l>
 					</sp>
@@ -1830,7 +1830,7 @@ bring up to P3
 						<l>μονοκοιτοῦμεν διὰ τὰς στρατιάς. καὶ θἠμέτερον μὲν ἐᾶτε,</l>
 						<l>περὶ τῶν δὲ κορῶν ἐν τοῖς θαλάμοις γηρασκουσῶν ἀνιῶμαι.</l>
 					</sp>
-					<sp who="#proboylos">
+					<sp who="#proboulos">
 						<speaker>Πρόβουλος</speaker>
 						<l>οὔκουν χἄνδρες γηράσκουσιν;</l>
 					</sp>
@@ -1845,7 +1845,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 met="anapests" type="antipnigos">
-					<sp who="#proboylos">
+					<sp who="#proboulos">
 						<speaker>Πρόβουλος</speaker>
 						<l>ἀλλ’ ὅστις ἔτι στῦσαι δυνατὸς—</l>
 					</sp>
@@ -1856,11 +1856,11 @@ bring up to P3
 						<l>μελιτοῦτταν ἐγὼ καὶ δὴ μάξω.</l>
 						<l>λαβὲ ταυτὶ καὶ στεφάνωσαι.</l>
 					</sp>
-					<sp who="#gyneks">
+					<sp who="#gyne_x">
 						<speaker>Γυνὴ Ξ.</speaker>
 						<l>καὶ ταυτασὶ δέξαι παρ’ ἐμοῦ.</l>
 					</sp>
-					<sp who="#gynea">
+					<sp who="#gyne_a">
 						<speaker>Γυνὴ Α.</speaker>
 						<l>καὶ τουτονγὶ λαβὲ τὸν στέφανον.</l>
 					</sp>
@@ -1874,7 +1874,7 @@ bring up to P3
 				</div2>
 			</div1>
 			<div1 type="Episode">
-				<sp who="#proboylos">
+				<sp who="#proboulos">
 					<speaker>Πρόβουλος</speaker>
 					<l>εἶτ’ οὐχὶ ταῦτα δεινὰ πάσχειν ἔστ’ ἐμέ;</l>
 					<l>νὴ τὸν Δί’ ἀλλὰ τοῖς προβούλοις ἄντικρυς</l>
@@ -2074,7 +2074,7 @@ bring up to P3
 					<l>ἕλκουσιν. ἤδη γοῦν τις αὐτῶν ἔρχεται.</l>
 					<l>αὕτη σὺ ποῖ θεῖς;</l>
 				</sp>
-				<sp who="#gynea">
+				<sp who="#gyne_a">
 					<speaker>Γυνὴ Α.</speaker>
 					<l part="Y">οἴκαδ’ ἐλθεῖν βούλομαι.</l>
 					<l>οἴκοι γάρ ἐστιν ἔριά μοι Μιλήσια</l>
@@ -2085,7 +2085,7 @@ bring up to P3
 					<l part="Y">ποίων σέων;</l>
 					<l>οὐκ εἶ πάλιν;</l>
 				</sp>
-				<sp who="#gynea">
+				<sp who="#gyne_a">
 					<speaker>Γυνὴ Α.</speaker>
 					<l part="Y">ἀλλ’ ἥξω ταχέως νὴ τὼ θεὼ</l>
 					<l>ὅσον διαπετάσασ’ ἐπὶ τῆς κλίνης μόνον.</l>
@@ -2094,7 +2094,7 @@ bring up to P3
 					<speaker>Λυσιστράτη</speaker>
 					<l>μὴ διαπετάννυ, μηδ’ ἀπέλθῃς μηδαμῇ.</l>
 				</sp>
-				<sp who="#gynea">
+				<sp who="#gyne_a">
 					<speaker>Γυνὴ Α.</speaker>
 					<l>ἀλλ’ ἐῶ ’πολέσθαι τἄρῑ;</l>
 				</sp>
@@ -2102,7 +2102,7 @@ bring up to P3
 					<speaker>Λυσιστράτη</speaker>
 					<l part="Y">ἢν τούτου δέῃ.</l>
 				</sp>
-				<sp who="#gyneb">
+				<sp who="#gyne_b">
 					<speaker>Γυνὴ Β.</speaker>
 					<l n="735">τάλαιν’ ἐγώ, τάλαινα τῆς Ἀμοργίδος,</l>
 					<l>ἣν ἄλοπον οἴκοι καταλέλοιφ’.</l>
@@ -2113,7 +2113,7 @@ bring up to P3
 					<l>ἐπὶ τὴν Ἄμοργιν τὴν ἄλοπον ἐξέρχεται.</l>
 					<l>χώρει πάλιν δεῦρ’.</l>
 				</sp>
-				<sp who="#gyneb">
+				<sp who="#gyne_b">
 					<speaker>Γυνὴ Β.</speaker>
 					<l part="Y">ἀλλὰ νὴ τὴν Φωσφόρον</l>
 					<l>ἔγωγ’ ἀποδείρασ’ αὐτίκα μάλ’ ἀνέρχομαι.</l>
@@ -2123,7 +2123,7 @@ bring up to P3
 					<l n="740">μή μἀποδείρῃς. ἢν γὰρ ἄρξῃς τοῦτο σύ,</l>
 					<l>ἑτέρα γυνὴ ταὐτὸν ποιεῖν βουλήσεται.</l>
 				</sp>
-				<sp who="#gyneg">
+				<sp who="#gyne_g">
 					<speaker>Γυνὴ Γ</speaker>
 					<l>ὦ πότνῑ Εἰλείθυῑ ἐπίσχες τοῦ τόκου,</l>
 					<l>ἕως ἂν εἰς ὅσιον μόλω ’γὼ χωρίον.</l>
@@ -2132,7 +2132,7 @@ bring up to P3
 					<speaker>Λυσιστράτη</speaker>
 					<l>τί ταῦτα ληρεῖς;</l>
 				</sp>
-				<sp who="#gyneg">
+				<sp who="#gyne_g">
 					<speaker>Γυνὴ Γ</speaker>
 					<l part="Y">αὐτίκα μάλα τέξομαι.</l>
 				</sp>
@@ -2140,7 +2140,7 @@ bring up to P3
 					<speaker>Λυσιστράτη</speaker>
 					<l n="745">ἀλλ’ οὐκ ἐκύεις σύ γ’ ἐχθές.</l>
 				</sp>
-				<sp who="#gyneg">
+				<sp who="#gyne_g">
 					<speaker>Γυνὴ Γ</speaker>
 					<l part="Y">ἀλλὰ τήμερον.</l>
 					<l>ἀλλ’ οἴκαδέ μ’ ὡς τὴν μαῖαν ὦ Λυσιστράτη</l>
@@ -2151,7 +2151,7 @@ bring up to P3
 					<l part="Y">τίνα λόγον λέγεις;</l>
 					<l>τί τοῦτ’ ἔχεις τὸ σκληρόν;</l>
 				</sp>
-				<sp who="#gyneg">
+				<sp who="#gyne_g">
 					<speaker>Γυνὴ Γ</speaker>
 					<l part="Y">ἄρρεν παιδίον.</l>
 					<milestone ed="p" n="749" unit="card"/>
@@ -2163,7 +2163,7 @@ bring up to P3
 					<l>ὦ καταγέλαστ’ ἔχουσα τὴν ἱερὰν κυνῆν</l>
 					<l>κυεῖν ἔφασκες;</l>
 				</sp>
-				<sp who="#gyneg">
+				<sp who="#gyne_g">
 					<speaker>Γυνὴ Γ</speaker>
 					<l part="Y">καὶ κυῶ γε νὴ Δία.</l>
 				</sp>
@@ -2171,7 +2171,7 @@ bring up to P3
 					<speaker>Λυσιστράτη</speaker>
 					<l>τί δῆτα ταύτην εἶχες;</l>
 				</sp>
-				<sp who="#gyneg">
+				<sp who="#gyne_g">
 					<speaker>Γυνὴ Γ</speaker>
 					<l part="Y">ἵνα μ’ εἰ καταλάβοι</l>
 					<l>ὁ τόκος ἔτ’ ἐν πόλει, τέκοιμ’ ἐς τὴν κυνῆν</l>
@@ -2182,12 +2182,12 @@ bring up to P3
 					<l>τί λέγεις; προφασίζει· περιφανῆ τὰ πράγματα.</l>
 					<l>οὐ τἀμφιδρόμια τῆς κυνῆς αὐτοῦ μενεῖς;</l>
 				</sp>
-				<sp who="#gyneg">
+				<sp who="#gyne_g">
 					<speaker>Γυνὴ Γ</speaker>
 					<l>ἀλλ’ οὐ δύναμαι ’γωγ’ οὐδὲ κοιμᾶσθ’ ἐν πόλει,</l>
 					<l>ἐξ οὗ τὸν ὄφιν εἶδον τὸν οἰκουρόν ποτε.</l>
 				</sp>
-				<sp who="#gyned">
+				<sp who="#gyne_d">
 					<speaker>Γυνὴ Δ</speaker>
 					<l n="760">ἐγὼ δ’ ὑπὸ τῶν γλαυκῶν γε τάλαιν’ ἀπόλλυμαι</l>
 					<l>ταῖς ἀγρυπνίαισι κακκαβαζουσῶν ἀεί.</l>
@@ -2202,7 +2202,7 @@ bring up to P3
 					<l>ὡς χρησμὸς ἡμῖν ἐστιν ἐπικρατεῖν, ἐὰν</l>
 					<l>μὴ στασιάσωμεν· ἔστι δ’ ὁ χρησμὸς οὑτοσί.</l>
 				</sp>
-				<sp who="#gynea">
+				<sp who="#gyne_a">
 					<speaker>Γυνὴ Α</speaker>
 					<l>λέγ’ αὐτὸν ἡμῖν ὅ τι λέγει.</l>
 				</sp>
@@ -2214,7 +2214,7 @@ bring up to P3
 					<l>παῦλα κακῶν ἔσται, τὰ δ’ ὑπέρτερα νέρτερα θήσει</l>
 					<l>Ζεὺς ὑψιβρεμέτης—</l>
 				</sp>
-				<sp who="#gyneb">
+				<sp who="#gyne_b">
 					<speaker>Γυνὴ Β</speaker>
 					<l part="Y">ἐπάνω κατακεισόμεθ’ ἡμεῖς;</l>
 				</sp>
@@ -2224,7 +2224,7 @@ bring up to P3
 					<l n="775">ἐξ ἱεροῦ ναοῖο χελιδόνες, οὐκέτι δόξει</l>
 					<l>ὄρνεον οὐδ’ ὁτιοῦν καταπυγωνέστερον εἶναι.</l>
 				</sp>
-				<sp who="#gynea">
+				<sp who="#gyne_a">
 					<speaker>Γυνὴ Α</speaker>
 					<l>σαφής γ’ ὁ χρησμὸς νὴ  Δί’.</l>
 				</sp>
@@ -2502,7 +2502,7 @@ bring up to P3
 					<l part="Y">μὴ δῆτ’, ἀλλὰ τῷ γοῦν παιδίῳ</l>
 					<l>ὑπάκουσον· οὗτος οὐ καλεῖς τὴν μαμμίαν;</l>
 				</sp>
-				<sp who="#paiskinesioy">
+				<sp who="#pais_kinesiou">
 					<speaker>Παῖς Κινησίου</speaker>
 					<l>μαμμία, μαμμία, μαμμία.</l>
 				</sp>
@@ -2849,7 +2849,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="iambics">
-					<sp who="#kerykslakedaimonion">
+					<sp who="#keryx_lakedaimonion">
 						<speaker>Κῆρυξ Λακεδαιμονίων</speaker>
 						<l n="980">πᾷ τᾶν Ἀσανᾶν ἐστιν ἁ γερωχία</l>
 						<l>ἢ τοὶ πρυτάνιες; λῶ τι μυσίξαι νέον.</l>
@@ -2858,7 +2858,7 @@ bring up to P3
 						<speaker>Κινησίας</speaker>
 						<l>σὺ δ’ εἶ πότερον ἄνθρωπος ἢ κονίσαλος;</l>
 					</sp>
-					<sp who="#kerykslakedaimonion">
+					<sp who="#keryx_lakedaimonion">
 						<speaker>Κῆρυξ Λακεδαιμονίων</speaker>
 						<l>κᾶρυξ ἐγὼν ὦ κυρσάνιε ναὶ τὼ σιὼ</l>
 						<l>ἔμολον ἀπὸ Σπάρτας περὶ τᾶν διαλλαγᾶν.</l>
@@ -2867,7 +2867,7 @@ bring up to P3
 						<speaker>Κινησίας</speaker>
 						<l n="985">κἄπειτα δόρυ δῆθ’ ὑπὸ μάλης ἥκεις ἔχων;</l>
 					</sp>
-					<sp who="#kerykslakedaimonion">
+					<sp who="#keryx_lakedaimonion">
 						<speaker>Κῆρυξ Λακεδαιμονίων</speaker>
 						<l>οὐ τὸν Δί’ οὐκ ἐγών γα.</l>
 					</sp>
@@ -2877,7 +2877,7 @@ bring up to P3
 						<l>τί δὴ προβάλλει τὴν χλαμύδ’; ἢ βουβωνιᾷς</l>
 						<l>ὑπὸ τῆς ὁδοῦ;</l>
 					</sp>
-					<sp who="#kerykslakedaimonion">
+					<sp who="#keryx_lakedaimonion">
 						<speaker>Κῆρυξ Λακεδαιμονίων</speaker>
 						<l part="Y">παλαιόρ γα ναὶ τὸν Κάστορα</l>
 						<l>ὥνθρωπος.</l>
@@ -2886,7 +2886,7 @@ bring up to P3
 						<speaker>Κινησίας</speaker>
 						<l part="Y">ἀλλ’ ἔστυκας ὦ μιαρώτατε.</l>
 					</sp>
-					<sp who="#kerykslakedaimonion">
+					<sp who="#keryx_lakedaimonion">
 						<speaker>Κῆρυξ Λακεδαιμονίων</speaker>
 						<l n="990">οὐ τὸν Δί’ οὐκ ἐγών γα· μηδ’ αὖ πλαδδίη.</l>
 					</sp>
@@ -2894,7 +2894,7 @@ bring up to P3
 						<speaker>Κινησίας</speaker>
 						<l>τί δ’ ἐστί σοι τοδί;</l>
 					</sp>
-					<sp who="#kerykslakedaimonion">
+					<sp who="#keryx_lakedaimonion">
 						<speaker>Κῆρυξ Λακεδαιμονίων</speaker>
 						<l part="Y">σκυτάλα Λακωνικά.</l>
 					</sp>
@@ -2904,7 +2904,7 @@ bring up to P3
 						<l>ἀλλ’ ὡς πρὸς εἰδότ’ ἐμὲ σὺ τἀληθῆ λέγε.</l>
 						<l>τί τὰ πράγμαθ’ ὑμῖν ἐστι τἀν Λακεδαίμονι;</l>
 					</sp>
-					<sp who="#kerykslakedaimonion">
+					<sp who="#keryx_lakedaimonion">
 						<speaker>Κῆρυξ Λακεδαιμονίων</speaker>
 						<l n="995">ὀρσὰ Λακεδαίμων πᾶα καὶ τοὶ σύμμαχοι</l>
 						<l>ἅπαντες ἐστύκαντι· Πελλάνας δὲ δεῖ.</l>
@@ -2914,7 +2914,7 @@ bring up to P3
 						<l>ἀπὸ τοῦ δὲ τουτὶ τὸ κακὸν ὑμῖν ἐνέπεσεν;</l>
 						<l>ἀπὸ Πανός;</l>
 					</sp>
-					<sp who="#kerykslakedaimonion">
+					<sp who="#keryx_lakedaimonion">
 						<speaker>Κῆρυξ Λακεδαιμονίων</speaker>
 						<l part="Y">οὔκ, ἀλλ’ ἆρχεν οἰῶ Λαμπιτώ,</l>
 						<l>ἔπειτα τἄλλαι ταὶ κατὰ Σπάρταν ἅμα</l>
@@ -2925,7 +2925,7 @@ bring up to P3
 						<speaker>Κινησίας</speaker>
 						<l>πῶς οὖν ἔχετε;</l>
 					</sp>
-					<sp who="#kerykslakedaimonion">
+					<sp who="#keryx_lakedaimonion">
 						<speaker>Κῆρυξ Λακεδαιμονίων</speaker>
 						<l part="Y">μογίομες. ἂν γὰρ τὰν πόλιν</l>
 						<l>ᾇπερ λυχνοφορίοντες ἐπικεκύφαμες.</l>
@@ -2942,7 +2942,7 @@ bring up to P3
 						<l>ἐγὼ δ’ ἑτέρους ἐνθένδε τῇ βουλῇ φράσω</l>
 						<l>πρέσβεις ἑλέσθαι τὸ πέος ἐπιδείξας τοδί.</l>
 					</sp>
-					<sp who="#kerykslakedaimonion">
+					<sp who="#keryx_lakedaimonion">
 						<speaker>Κῆρυξ Λακεδαιμονίων</speaker>
 						<l>ποτάομαι· κράτιστα γὰρ παντᾷ λέγεις.</l>
 						<milestone ed="p" n="1014" unit="card"/>
@@ -3027,7 +3027,7 @@ bring up to P3
 			</div1>
 			<div1 type="Choral">
 				<div2 n="1" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>οὐ παρασκευαζόμεσθα</l>
 						<l>τῶν πολιτῶν οὐδέν’ ὦνδρες</l>
@@ -3047,7 +3047,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἑστιᾶν δὲ μέλλομεν ξένους</l>
 						<l>τινὰς Καρυστίους, ἄν‐</l>
@@ -3066,7 +3066,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="anapests">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>καὶ μὴν ἀπὸ τῆς Σπάρτης οἱδὶ πρέσβεις ἕλκοντες ὑπήνας</l>
 						<l>χωροῦσ’, ὥσπερ χοιροκομεῖον περὶ τοῖς μηροῖσιν ἔχοντες.</l>
@@ -3080,7 +3080,7 @@ bring up to P3
 						<l>τί δεῖ ποθ’ ὑμὲ πολλὰ μυσίδδειν ἔπη;</l>
 						<l>ὁρῆν γὰρ ἔξεσθ’ ὡς ἔχοντες ἵκομες.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός </speaker>
 						<l>βαβαί· νενεύρωται μὲν ἥδε συμφορὰ</l>
 						<l>δεινῶς, †τεθερμῶσθαί γε† χεῖρον φαίνεται.</l>
@@ -3090,7 +3090,7 @@ bring up to P3
 						<l n="1080">ἄφατα. τί κα λέγοι τις; ἀλλ’ ὅπᾳ σέλει</l>
 						<l>παντᾷ τις ἐλσὼν ἁμὶν εἰράναν σέτω.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός </speaker>
 						<l>καὶ μὴν ὁρῶ καὶ τούσδε τοὺς αὐτόχθονας</l>
 						<l>ὥσπερ παλαιστὰς ἄνδρας ἀπὸ τῶν γαστέρων</l>
@@ -3102,7 +3102,7 @@ bring up to P3
 						<l>τίς ἂν φράσεις ποῦ’ στιν ἡ Λυσιστράτη;</l>
 						<l>ὡς ἄνδρες ἡμεῖς οὑτοιὶ τοιουτοιί.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός </speaker>
 						<l>χαὔτη ξυνᾴδει χἠτέρα ταύτῃ νόσῳ.</l>
 						<l>ἦ που πρὸς ὄρθρον σπασμὸς ὑμᾶς λαμβάνει;</l>
@@ -3113,7 +3113,7 @@ bring up to P3
 						<l>ὥστ’ εἴ τις ἡμᾶς μὴ διαλλάξει ταχύ,</l>
 						<l>οὐκ ἔσθ’ ὅπως οὐ Κλεισθένη βινήσομεν.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>εἰ σωφρονεῖτε, θαἰμάτια λήψεσθ’, ὅπως</l>
 						<l>τῶν Ἑρμοκοπιδῶν μή τις ὑμᾶς ὄψεται.</l>
@@ -3163,7 +3163,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="anapests">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>χαῖρ’ ὦ πασῶν ἀνδρειοτάτη· δεῖ δὴ νυνί σε γενέσθαι</l>
 						<l>δεινὴν &lt;δειλὴν&gt; ἀγαθὴν φαύλην σεμνὴν ἀγανὴν πολύπειρον·</l>
@@ -3346,7 +3346,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="2" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>στρωμάτων δὲ ποικίλων καὶ</l>
 						<l n="1190">χλανιδίων καὶ ξυστίδων καὶ</l>
@@ -3367,7 +3367,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="3" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>εἰ δέ τῳ μὴ σῖτος ὑμῶν</l>
 						<l>ἔστι, βόσκει δ’ οἰκέτας καὶ</l>
@@ -3388,7 +3388,7 @@ bring up to P3
 				</div2>
 			</div1>
 			<div1 type="Lyric-Scene">
-				<sp who="#athenaiosa">
+				<sp who="#athenaios_a">
 					<speaker>Ἀθηναῖος Α.</speaker>
 					<l>ἄνοιγε τὴν θύραν· παραχωρεῖν οὐ θέλεις;</l>
 					<l>ὑμεῖς τί κάθησθε; μῶν ἐγὼ τῇ λαμπάδι</l>
@@ -3396,23 +3396,23 @@ bring up to P3
 					<l>οὐκ ἂν ποιήσαιμ’. εἰ δὲ πάνυ δεῖ τοῦτο δρᾶν,</l>
 					<l n="1220">ὑμῖν χαρίσασθαι, προσταλαιπωρήσομεν.</l>
 				</sp>
-				<sp who="#athenaiosb">
+				<sp who="#athenaios_b">
 					<speaker>Ἀθηναῖος Β</speaker>
 					<l>χἠμεῖς γε μετὰ σοῦ ξυνταλαιπωρήσομεν.</l>
 				</sp>
-				<sp who="#athenaiosa">
+				<sp who="#athenaios_a">
 					<speaker>Ἀθηναῖος Α.</speaker>
 					<l>οὐκ ἄπιτε; κωκύσεσθε τὰς τρίχας μακρά.</l>
 					<l>οὐκ ἄπιθ’, ὅπως ἂν οἱ Λάκωνες ἔνδοθεν</l>
 					<l>καθ’ ἡσυχίαν ἀπίωσιν εὐωχημένοι;</l>
 				</sp>
-				<sp who="#athenaiosb">
+				<sp who="#athenaios_b">
 					<speaker>Ἀθηναῖος Β.</speaker>
 					<l n="1225">οὔπω τοιοῦτον συμπόσιον ὄπωπ’ ἐγώ.</l>
 					<l>ἦ καὶ χαρίεντες ἦσαν οἱ Λακωνικοί·</l>
 					<l>ἡμεῖς δ’ ἐν οἴνῳ συμπόται σοφώτατοι.</l>
 				</sp>
-				<sp who="#athenaiosa">
+				<sp who="#athenaios_a">
 					<speaker>Ἀθηναῖος Α.</speaker>
 					<l>ὀρθῶς γ’, ὁτιὴ νήφοντες οὐχ ὑγιαίνομεν·</l>
 					<l>ἢν τοὺς Ἀθηναίους ἐγὼ πείσω λέγων,</l>
@@ -3428,7 +3428,7 @@ bring up to P3
 					<l>ἀλλ’ οὑτοιὶ γὰρ αὖθις ἔρχονται πάλιν</l>
 					<l n="1240">ἐς ταὐτόν. οὐκ ἐρρήσετ’ ὦ μαστιγίαι;</l>
 				</sp>
-				<sp who="#athenaiosb">
+				<sp who="#athenaios_b">
 					<speaker>Ἀθηναῖος Β.</speaker>
 					<l>νὴ τὸν Δί’ ὡς ἤδη γε χωροῦσ’ ἔνδοθεν.</l>
 				</sp>

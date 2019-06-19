@@ -51,7 +51,7 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="aggelos">
+					<person xml:id="angelos">
 						<persName>Ἄγγελος</persName>
 					</person>
 					<person xml:id="teiresias">
@@ -63,16 +63,16 @@
 					<person xml:id="iokaste">
 						<persName>Ἰοκάστη</persName>
 					</person>
-					<personGrp xml:id="xoros">
+					<personGrp xml:id="choros">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="oidipoys">
+					<person xml:id="oidipous">
 						<persName>Οἰδίπους</persName>
 					</person>
 					<person xml:id="antigone">
 						<persName>Ἄντιγόνη</persName>
 					</person>
-					<person xml:id="menoikeys">
+					<person xml:id="menoikeus">
 						<persName>Μενοικεύς</persName>
 					</person>
 					<person xml:id="paidagogos">
@@ -504,7 +504,7 @@ bring up to P3
 			</div1>
 			<div1 type="choral">
 				<div2 n="1" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>Τύριον οἶδμα λιποῦσ’ ἔβαν</l>
 						<l>ἀκροθίνια Λοξίᾳ</l>
@@ -522,7 +522,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>πόλεος ἐκπροκριθεῖσ’ ἐμᾶς</l>
 						<l n="215">καλλιστεύματα Λοξίᾳ</l>
@@ -540,7 +540,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="mesode">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἰὼ λάμπουσα πέτρα πυρὸς</l>
 						<l>δικόρυφον σέλας ὑπὲρ ἄκρων</l>
@@ -559,7 +559,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="2" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>νῦν δέ μοι πρὸ τειχέων</l>
 						<l n="240">θούριος μολὼν Ἄρης</l>
@@ -576,7 +576,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="2" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="250">ἀμφὶ δὲ πτόλιν νέφος</l>
 						<l>ἀσπίδων πυκνὸν φλέγει</l>
@@ -616,7 +616,7 @@ bring up to P3
 					<l>ξέναι γυναῖκες, εἴπατ’, ἐκ ποίας πάτρας</l>
 					<l>Ἑλληνικοῖσι δώμασιν πελάζετε;</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l n="280">Φοίνισσα μὲν γῆ πατρὶς ἡ θρέψασά με,</l>
 					<l>Ἀγήνορος δὲ παῖδες ἐκ παίδων δορὸς</l>
@@ -633,13 +633,13 @@ bring up to P3
 					<l>ἔτικτε δ’ Ἰοκάστη με, παῖς Μενοικέως·</l>
 					<l n="290">καλεῖ δὲ Πολυνείκη με Θηβαῖος λεώς.</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>ὦ συγγένεια τῶν Ἀγήνορος τέκνων,</l>
 					<l>ἐμῶν τυράννων, ὧν ἀπεστάλην ὕπο — </l>
 					<milestone ed="p" n="293" unit="card"/>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>γονυπετεῖς ἕδρας προσπίτνω σ’, ἄναξ,</l>
 					<l>τὸν οἴκοθεν νόμον σέβουσ’ — </l>
@@ -713,7 +713,7 @@ bring up to P3
 						<l>πρὸς ἐμὲ γὰρ κακῶν ἔμολε τῶνδ’ ἄχη.</l>
 					</sp>
 					<milestone ed="p" n="355" unit="card"/>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="355">δεινὸν γυναιξὶν αἱ δῑ ὠδίνων γοναί,</l>
 						<l>καὶ φιλότεκνόν πως πᾶν γυναικεῖον γένος.</l>
@@ -938,7 +938,7 @@ bring up to P3
 						<l>ἁγὼ μεθήκω δεῦρο μυρίαν ἄγων</l>
 						<l>λόγχην· πένης γὰρ οὐδὲν εὐγενὴς ἀνήρ.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>καὶ μὴν Ἐτεοκλῆς ἐς διαλλαγὰς ὅδε</l>
 						<l>χωρεῖ· σὸν ἔργον, μῆτερ Ἰοκάστη, λέγειν</l>
@@ -1008,7 +1008,7 @@ bring up to P3
 						<l n="495">λόγων ἀθροίσας εἶπον, ἀλλὰ καὶ σοφοῖς</l>
 						<l>καὶ τοῖσι φαύλοις ἔνδιχ’, ὡς ἐμοὶ δοκεῖ.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἐμοὶ μέν, εἰ καὶ μὴ καθ’ Ἑλλήνων χθόνα</l>
 						<l>τεθράμμεθ’, ἀλλ’ οὖν ξυνετά μοι δοκεῖς λέγειν.</l>
@@ -1044,7 +1044,7 @@ bring up to P3
 						<l>εἴπερ γὰρ ἀδικεῖν χρή, τυραννίδος πέρι</l>
 						<l n="525">κάλλιστον ἀδικεῖν, τἄλλα δ’ εὐσεβεῖν χρεών.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>οὐκ εὖ λέγειν χρὴ μὴ ’πὶ τοῖς ἔργοις καλοῖς·</l>
 						<l>οὐ γὰρ καλὸν τοῦτ’, ἀλλὰ τῇ δίκῃ πικρόν.</l>
@@ -1123,7 +1123,7 @@ bring up to P3
 						</l>
 						<l n="585">ἐς ταὔθ’ ὅταν μόλητον, ἔχθιστον κακόν.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ὦ θεοί, γένοισθε τῶνδ’ ἀπότροποι κακῶν</l>
 						<l>καὶ ξύμβασίν τιν’ Οἰδίπου τέκνοις δότε.</l>
@@ -1374,7 +1374,7 @@ bring up to P3
 			<milestone ed="p" n="638" unit="card"/>
 			<div1 type="choral">
 				<div2 n="1" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>Κάδμος ἔμολε τάνδε γᾶν</l>
 						<l>Τύριος, ᾧ τετρασκελὴς</l>
@@ -1399,7 +1399,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἔνθα φόνιος ἦν δράκων</l>
 						<l>Ἄρεος ὠμόφρων φύλαξ</l>
@@ -1424,7 +1424,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="epode">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>καὶ σέ, τὸν προμάτορος</l>
 						<l>Ἰοῦς ποτ’ ἔκγονον</l>
@@ -1682,7 +1682,7 @@ bring up to P3
 			<milestone ed="p" n="784" unit="card"/>
 			<div1 type="choral">
 				<div2 n="1" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ὦ πολύμοχθος Ἄρης, τί ποθ’ αἵματι</l>
 						<l n="785">καὶ θανάτῳ κατέχῃ Βρομίου παράμουσος ἑορταῖς;</l>
@@ -1707,7 +1707,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ὦ ζαθέων πετάλων πολυθηρότα‐</l>
 						<l>τον νάπος, Ἀρτέμιδος χιονοτρόφον ὄμμα Κιθαιρών,</l>
@@ -1734,7 +1734,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="epode">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἔτεκες, ὦ Γαῖ’, ἔτεκές ποτε,</l>
 						<l>βάρβαρον ὡς ἀκοὰν ἐδάην ἐδάην ποτ’ ἐν οἴκοις,</l>
@@ -2010,7 +2010,7 @@ bring up to P3
 					<l>χρῆν θεσπιῳδεῖν, ὃς δέδοικεν οὐδένα.</l>
 					<milestone ed="p" n="960" unit="card"/>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l n="960">Κρέον, τί σιγᾷς γῆρυν ἄφθογγον σχάσας;</l>
 					<l>κἀμοὶ γὰρ οὐδὲν ἧσσον ἔκπληξις πάρα.</l>
@@ -2036,7 +2036,7 @@ bring up to P3
 					<l n="975">κἂν μὲν φθάσωμεν, ἔστι σοι σωτηρία·</l>
 					<l>ἢν δ’ ὑστερήσῃς, οἰχόμεσθα, κατθανῇ.</l>
 				</sp>
-				<sp who="#menoikeys">
+				<sp who="#menoikeus">
 					<speaker>Μενοικεύς</speaker>
 					<l>ποῖ δῆτα φεύγω; τίνα πόλιν; τίνα ξένων;</l>
 				</sp>
@@ -2044,7 +2044,7 @@ bring up to P3
 					<speaker>Κρέων</speaker>
 					<l>ὅπου χθονὸς τῆσδ’ ἐκποδὼν μάλιστ’ ἔσῃ.</l>
 				</sp>
-				<sp who="#menoikeys">
+				<sp who="#menoikeus">
 					<speaker>Μενοικεύς</speaker>
 					<l>οὐκοῦν σὲ φράζειν εἰκός, ἐκπονεῖν δ’ ἐμέ.</l>
 				</sp>
@@ -2052,7 +2052,7 @@ bring up to P3
 					<speaker>Κρέων</speaker>
 					<l n="980">Δελφοὺς περάσας — </l>
 				</sp>
-				<sp who="#menoikeys">
+				<sp who="#menoikeus">
 					<speaker>Μενοικεύς</speaker>
 					<l part="Y">ποῖ με χρή, πάτερ, μολεῖν;</l>
 				</sp>
@@ -2060,7 +2060,7 @@ bring up to P3
 					<speaker>Κρέων</speaker>
 					<l>Αἰτωλίδ’ ἐς γῆν.</l>
 				</sp>
-				<sp who="#menoikeys">
+				<sp who="#menoikeus">
 					<speaker>Μενοικεύς</speaker>
 					<l part="Y">ἐκ δὲ τῆσδε ποῖ περῶ;</l>
 				</sp>
@@ -2068,7 +2068,7 @@ bring up to P3
 					<speaker>Κρέων</speaker>
 					<l>Θεσπρωτὸν οὖδας.</l>
 				</sp>
-				<sp who="#menoikeys">
+				<sp who="#menoikeus">
 					<speaker>Μενοικεύς</speaker>
 					<l part="Y">σεμνὰ Δωδώνης βάθρα;</l>
 				</sp>
@@ -2076,7 +2076,7 @@ bring up to P3
 					<speaker>Κρέων</speaker>
 					<l>ἔγνως.</l>
 				</sp>
-				<sp who="#menoikeys">
+				<sp who="#menoikeus">
 					<speaker>Μενοικεύς</speaker>
 					<l part="Y">τί δὴ τόδ’ ἔρυμά μοι γενήσεται;</l>
 				</sp>
@@ -2084,7 +2084,7 @@ bring up to P3
 					<speaker>Κρέων</speaker>
 					<l>πόμπιμος ὁ δαίμων.</l>
 				</sp>
-				<sp who="#menoikeys">
+				<sp who="#menoikeus">
 					<speaker>Μενοικεύς</speaker>
 					<l part="Y">χρημάτων δὲ τίς πόρος;</l>
 				</sp>
@@ -2092,7 +2092,7 @@ bring up to P3
 					<speaker>Κρέων</speaker>
 					<l n="985">ἐγὼ πορεύσω χρυσόν.</l>
 				</sp>
-				<sp n="Μενοικεύς" who="#menoikeys">
+				<sp n="Μενοικεύς" who="#menoikeus">
 					<speaker>Μενοικεύς</speaker>
 					<l part="Y">εὖ λέγεις, πάτερ.</l>
 					<l>χώρει νυν· ὡς σὴν πρὸς κασιγνήτην μολών,</l>
@@ -2140,7 +2140,7 @@ bring up to P3
 			<milestone ed="p" n="1019" unit="card"/>
 			<div1 type="choral">
 				<div2 n="1" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἔβας ἔβας,</l>
 						<l>ὦ πτεροῦσσα, γᾶς λόχευμα</l>
@@ -2173,7 +2173,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>χρόνῳ δ’ ἔβα</l>
 						<l>Πυθίαις ἀποστολαῖσιν</l>
@@ -2207,7 +2207,7 @@ bring up to P3
 			</div1>
 			<milestone ed="p" n="1067" unit="card"/>
 			<div1 type="episode">
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>ὠή, τίς ἐν πύλαισι δωμάτων κυρεῖ;</l>
 					<l>ἀνοίγετ’· ἐκπορεύετ’ Ἰοκάστην δόμων.</l>
@@ -2223,7 +2223,7 @@ bring up to P3
 					<l n="1075">[τί μοί ποθ’ ἥκεις καινὸν ἀγγελῶν ἔπος;]</l>
 					<l>τέθνηκεν ἢ ζῇ παῖς ἐμός; σήμαινέ μοι.</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>ζῇ, μὴ τρέσῃς τόδ’, ὥς &lt;σ’&gt; ἀπαλλάξω φόβου.</l>
 				</sp>
@@ -2231,7 +2231,7 @@ bring up to P3
 					<speaker>Ἰοκάστη</speaker>
 					<l>τί δ’; ἑπτάπυργοι πῶς ἔχουσι περιβολαί;</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>ἑστᾶσ’ ἄθραυστοι, κοὐκ ἀνήρπασται πόλις.</l>
 				</sp>
@@ -2239,7 +2239,7 @@ bring up to P3
 					<speaker>Ἰοκάστη</speaker>
 					<l n="1080">ἦλθον δὲ πρὸς κίνδυνον Ἀργείου δορός;</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>ἀκμήν γ’ ἐπ’ αὐτήν· ἀλλ’ ὁ Καδμείων Ἄρης</l>
 					<l>κρείσσων κατέστη τοῦ Μυκηναίου δορός.</l>
@@ -2249,7 +2249,7 @@ bring up to P3
 					<l>ἓν εἰπὲ πρὸς θεῶν, εἴ τι Πολυνείκους πέρι</l>
 					<l>οἶσθ’· ὡς μέλει μοι καὶ τόδ’, εἰ λεύσσει φάος.</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l n="1085">ζῇ σοι ξυνωρὶς ἐς τόδ’ ἡμέρας τέκνων.</l>
 				</sp>
@@ -2260,7 +2260,7 @@ bring up to P3
 					<l>λέξον, γέροντα τυφλὸν ὡς κατὰ στέγας</l>
 					<l>ἐλθοῦσα τέρψω, τῆσδε γῆς σεσῳσμένης.</l>
 				</sp>
-				<sp n="Ἄγγελος" who="#aggelos">
+				<sp n="Ἄγγελος" who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l n="1090">ἐπεὶ Κρέοντος παῖς ὁ γῆς ὑπερθανὼν</l>
 					<l>πύργων ἐπ’ ἄκρων στὰς μελάνδετον ξίφος</l>
@@ -2405,7 +2405,7 @@ bring up to P3
 					<l>ἔσται τὸ λοιπὸν ἥδε γῆ, θεοῖς μέλει·</l>
 					<l>καὶ νῦν γὰρ αὐτὴν δαιμόνων ἔσῳσέ τις.</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l n="1200">καλὸν τὸ νικᾶν· εἰ δ’ ἀμείνον’ οἱ θεοὶ</l>
 					<l>γνώμην ἔχουσιν — εὐτυχὴς εἴην ἐγώ.</l>
@@ -2421,7 +2421,7 @@ bring up to P3
 					<l>ἰδίᾳ δὲ λυπρῶς. ἀλλ’ ἄνελθέ μοι πάλιν,</l>
 					<l>τί τἀπὶ τούτοις παῖδ’ ἐμὼ δρασείετον.</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>ἔα τὰ λοιπά· δεῦρ’ ἀεὶ γὰρ εὐτυχεῖς.</l>
 				</sp>
@@ -2429,7 +2429,7 @@ bring up to P3
 					<speaker>Ἰοκάστη</speaker>
 					<l n="1210">τοῦτ’ εἰς ὕποπτον εἶπας· οὐκ ἐατέον.</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>μεῖζον τί χρῄζεις παῖδας ἢ σεσῳσμένους;</l>
 				</sp>
@@ -2437,7 +2437,7 @@ bring up to P3
 					<speaker>Ἰοκάστη</speaker>
 					<l>καὶ τἀπίλοιπά γ’ εἰ καλῶς πράσσω κλύειν.</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>μέθες μ’· ἔρημος παῖς ὑπασπιστοῦ σέθεν.</l>
 				</sp>
@@ -2445,7 +2445,7 @@ bring up to P3
 					<speaker>Ἰοκάστη</speaker>
 					<l>κακόν τι κεύθεις καὶ στέγεις ὑπὸ σκότῳ.</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l n="1215">κοὐκ ἄν γε λέξαιμ’ ἐπ’ ἀγαθοῖσι σοῖς κακά.</l>
 				</sp>
@@ -2453,7 +2453,7 @@ bring up to P3
 					<speaker>Ἰοκάστη</speaker>
 					<l>ἢν μή γε φεύγων ἐκφύγῃς πρὸς αἰθέρα.</l>
 				</sp>
-				<sp n="Ἄγγελος" who="#aggelos">
+				<sp n="Ἄγγελος" who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>αἰαῖ· τί μ’ οὐκ εἴασας ἐξ εὐαγγέλου</l>
 					<l>φήμης ἀπελθεῖν, ἀλλὰ μηνῦσαι κακά;</l>
@@ -2590,7 +2590,7 @@ bring up to P3
 			</div1>
 			<div1 type="choral">
 				<div2 n="1" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>αἰαῖ αἰαῖ, τρομερὰν φρίκᾳ</l>
 						<l n="1285">τρομερὰν φρέν’ ἔχω· διὰ σάρκα δ’ ἐμὰν</l>
@@ -2607,7 +2607,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>φεῦ δᾶ φεῦ δᾶ, δίδυμοι θῆρες,</l>
 						<l>φόνιαι ψυχαὶ δορὶ παλλόμεναι</l>
@@ -2647,7 +2647,7 @@ bring up to P3
 					<l n="1320">τοῖς γὰρ θανοῦσι χρὴ τὸν οὐ τεθνηκότα</l>
 					<l>τιμὰς διδόντα χθόνιον εὐσεβεῖν θεόν.</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>βέβηκ’ ἀδελφὴ σή, Κρέων, ἔξω δόμων</l>
 					<l>κόρη τε μητρὸς Ἀντιγόνη κοινῷ ποδί.</l>
@@ -2656,7 +2656,7 @@ bring up to P3
 					<speaker>Κρέων</speaker>
 					<l>ποῖ; κἀπὶ ποίαν συμφοράν; σήμαινέ μοι.</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l n="1325">ἤκουσε τέκνα μονομάχῳ μέλλειν δορὶ</l>
 					<l>ἐς ἀσπίδ’ ἥξειν βασιλικῶν δόμων ὕπερ.</l>
@@ -2666,7 +2666,7 @@ bring up to P3
 					<l>πῶς φῄς; νέκυν τοι παιδὸς ἀγαπάζων ἐμοῦ</l>
 					<l>οὐκ ἐς τόδ’ ἦλθον ὥστε καὶ τάδ’ εἰδέναι.</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>ἀλλ’ οἴχεται μὲν σὴ κασιγνήτη πάλαι·</l>
 					<l n="1330">δοκῶ δ’ ἀγῶνα τὸν περὶ ψυχῆς, Κρέον,</l>
@@ -2680,7 +2680,7 @@ bring up to P3
 					<milestone ed="p" n="1335" unit="card"/>
 				</sp>
 				<div2 type="trochees">
-					<sp who="#aggelos">
+					<sp who="#angelos">
 						<speaker>Ἄγγελος</speaker>
 						<l n="1335">ὦ τάλας ἐγώ, τίν’ εἴπω μῦθον ἢ τίνας γόους;</l>
 					</sp>
@@ -2688,7 +2688,7 @@ bring up to P3
 						<speaker>Κρέων</speaker>
 						<l>οἰχόμεσθ’· οὐκ εὐπροσώποις φροιμίοις ἄρχῃ λόγου.</l>
 					</sp>
-					<sp who="#aggelos">
+					<sp who="#angelos">
 						<speaker>Ἄγγελος</speaker>
 						<l>ὦ τάλας, δισσῶς ἀυτῶ· μεγάλα γὰρ φέρω κακά.</l>
 					</sp>
@@ -2696,7 +2696,7 @@ bring up to P3
 						<speaker>Κρέων</speaker>
 						<l>πρὸς πεπραγμένοισιν ἄλλοις πήμασιν. λέγεις δὲ τί;</l>
 					</sp>
-					<sp who="#aggelos">
+					<sp who="#angelos">
 						<speaker>Ἄγγελος</speaker>
 						<l>οὐκέτ’ εἰσὶ σῆς ἀδελφῆς παῖδες ἐν φάει, Κρέον.</l>
 						<milestone ed="p" n="1340" unit="card"/>
@@ -2709,7 +2709,7 @@ bring up to P3
 						<l>ὦ δώματ’ εἰσηκούσατ’ Οἰδίπου τάδε</l>
 						<l>παίδων ὁμοίαις συμφοραῖς ὀλωλότων;</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ὥστ’ ἂν δακρῦσαί γ’, εἰ φρονοῦντ’ ἐτύγχανεν.</l>
 					</sp>
@@ -2719,7 +2719,7 @@ bring up to P3
 						<l n="1345">οἴμοι ξυμφορᾶς βαρυποτμωτάτας,</l>
 						<l>[οἴμοι κακῶν δύστηνος· ὦ τάλας ἐγώ.]</l>
 					</sp>
-					<sp who="#aggelos">
+					<sp who="#angelos">
 						<speaker>Ἄγγελος</speaker>
 						<l>εἰ καὶ τὰ πρὸς τούτοισί γ’ εἰδείης κακά.</l>
 					</sp>
@@ -2727,13 +2727,13 @@ bring up to P3
 						<speaker>Κρέων</speaker>
 						<l>καὶ πῶς γένοιτ’ ἂν τῶνδε δυσποτμώτερα;</l>
 					</sp>
-					<sp who="#aggelos">
+					<sp who="#angelos">
 						<speaker>Ἄγγελος</speaker>
 						<l>τέθνηκ’ ἀδελφὴ σὴ δυοῖν παίδοιν μέτα.</l>
 					</sp>
 				</div2>
 				<div2 type="lyric">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="1350">ἀνάγετ’ ἀνάγετε κωκυ‐</l>
 						<l>τόν, ἐπὶ κάρα τε λευκοπήχεις κτύπους χεροῖν.</l>
@@ -2745,7 +2745,7 @@ bring up to P3
 						<l>πῶς καὶ πέπρακται διπτύχων παίδων φόνος</l>
 						<l n="1355">ἀρᾶς τ’ ἀγώνισμ’ Οἰδίπου; σήμαινέ μοι.</l>
 					</sp>
-					<sp n="Ἄγγελος" who="#aggelos">
+					<sp n="Ἄγγελος" who="#angelos">
 						<speaker>Ἄγγελος</speaker>
 						<l>τὰ μὲν πρὸ πύργων εὐτυχήματα χθονὸς</l>
 						<l>οἶσθ’· οὐ μακρὰν γὰρ τειχέων περιπτυχαί.</l>
@@ -2827,13 +2827,13 @@ bring up to P3
 						<l>γαῖαν δ’ ὀδὰξ ἑλόντες ἀλλήλων πέλας</l>
 						<l>πίπτουσιν ἄμφω κοὐ διώρισαν κράτος.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="1425">φεῦ φεῦ, κακῶν σῶν, Οἰδίπου, σ’ ὅσον στένω·</l>
 						<l>τὰς σὰς δ’ ἀρὰς ἔοικεν ἐκπλῆσαι θεός.</l>
 					</sp>
 					<milestone ed="p" n="1427" unit="card"/>
-					<sp n="Ἄγγελος" who="#aggelos">
+					<sp n="Ἄγγελος" who="#angelos">
 						<speaker>Ἄγγελος</speaker>
 						<l>ἄκουε δή νυν καὶ τὰ πρὸς τούτοις κακά.</l>
 						<l>ἐπεὶ τέκνω πεσόντ’ ἐλειπέτην βίον,</l>
@@ -2899,7 +2899,7 @@ bring up to P3
 					<milestone ed="p" n="1480" unit="card"/>
 				</div2>
 				<div2 type="anapests">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="1480">οὐκ εἰς ἀκοὰς ἔτι δυστυχία</l>
 						<l>δώματος ἥκει· πάρα γὰρ λεύσσειν</l>
@@ -2969,7 +2969,7 @@ bring up to P3
 						<l>πόδ’ ἢ δεμνίοις δύ‐</l>
 						<l>στανος ἰαύων;</l>
 					</sp>
-					<sp who="#oidipoys">
+					<sp who="#oidipous">
 						<speaker>Οἰδίπους</speaker>
 						<l>τί μ’, ὦ παρθένε, βακτρεύμασι τυφλοῦ</l>
 						<l n="1540">ποδὸς ἐξάγαγες ἐς φῶς</l>
@@ -2987,7 +2987,7 @@ bring up to P3
 						<l>ἃ πόδα σὸν τυφλόπουν θεραπεύμασιν αἰὲν ἐμόχθει,</l>
 						<l n="1550">&lt;ὦ&gt; πάτερ, ὤμοι.</l>
 					</sp>
-					<sp who="#oidipoys">
+					<sp who="#oidipous">
 						<speaker>Οἰδίπους</speaker>
 						<l>ὤμοι ἐμῶν παθέων· πάρα γὰρ στενάχειν τάδ’, ἀυτεῖν.</l>
 						<l>τρισσαὶ ψυχαί· ποίᾳ μοίρᾳ</l>
@@ -3002,7 +3002,7 @@ bring up to P3
 						<l>καὶ πυρὶ καὶ σχετλίαισι μάχαις ἐπὶ παῖδας ἔβα σούς,</l>
 						<l>ὦ πάτερ, ὤ μοι.</l>
 					</sp>
-					<sp who="#oidipoys">
+					<sp who="#oidipous">
 						<speaker>Οἰδίπους</speaker>
 						<l n="1560">αἰαῖ.</l>
 					</sp>
@@ -3010,7 +3010,7 @@ bring up to P3
 						<speaker>Ἀντιγόνη</speaker>
 						<l part="Y">τί τάδε καταστένεις,</l>
 					</sp>
-					<sp who="#oidipoys">
+					<sp who="#oidipous">
 						<speaker>Οἰδίπους</speaker>
 						<l>τέκνα.</l>
 					</sp>
@@ -3021,7 +3021,7 @@ bring up to P3
 						<l>ἀελίου τάδε σώματα νεκρῶν</l>
 						<l>ὄμματος αὐγαῖς σαῖς ἐπενώμας — </l>
 					</sp>
-					<sp who="#oidipoys">
+					<sp who="#oidipous">
 						<speaker>Οἰδίπους</speaker>
 						<l n="1565">τῶν μὲν ἐμῶν τεκέων φανερὸν κακόν·</l>
 						<l>ἁ δὲ τάλαιν’ ἄλοχος τίνι μοι, τέκνον, ὤλετο μοίρᾳ;</l>
@@ -3048,7 +3048,7 @@ bring up to P3
 				</div2>
 				<div2 type="iambic">
 					<milestone ed="p" n="1582" unit="card"/>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>πολλῶν κακῶν κατῆρξεν Οἰδίπου δόμοις</l>
 						<l>τόδ’ ἦμαρ· εἴη δ’ εὐτυχέστερος βίος.</l>
@@ -3067,7 +3067,7 @@ bring up to P3
 						<l>οὐδ’ ἐχθρὸς ὢν σός, διὰ δὲ τοὺς ἀλάστορας</l>
 						<l>τοὺς σοὺς δεδοικὼς μή τι γῆ πάθῃ κακόν.</l>
 					</sp>
-					<sp who="#oidipoys">
+					<sp who="#oidipous">
 						<speaker>Οἰδίπους</speaker>
 						<l n="1595">ὦ μοῖρ’, ἀπ’ ἀρχῆς ὥς μ’ ἔφυσας ἄθλιον</l>
 						<l>καὶ τλήμον’, εἴ τις ἄλλος ἀνθρώπων ἔφυ·</l>
@@ -3281,7 +3281,7 @@ bring up to P3
 						<speaker>Κρέων</speaker>
 						<l>ἴθ’, οὐ φονεύσεις παῖδ’ ἐμόν, λίπε χθόνα.</l>
 					</sp>
-					<sp who="#oidipoys">
+					<sp who="#oidipous">
 						<speaker>Οἰδίπους</speaker>
 						<l>ὦ θύγατερ, αἰνῶ μέν σε τῆς προθυμίας.</l>
 					</sp>
@@ -3289,7 +3289,7 @@ bring up to P3
 						<speaker>Ἀντιγόνη</speaker>
 						<l>ἀλλ’ εἰ γαμοίμην, σὺ δὲ μόνος φεύγοις, πάτερ;</l>
 					</sp>
-					<sp who="#oidipoys">
+					<sp who="#oidipous">
 						<speaker>Οἰδίπους</speaker>
 						<l n="1685">μέν’ εὐτυχοῦσα, τἄμ’ ἐγὼ στέρξω κακά.</l>
 					</sp>
@@ -3297,7 +3297,7 @@ bring up to P3
 						<speaker>Ἀντιγόνη</speaker>
 						<l>καὶ τίς σε τυφλὸν ὄντα θεραπεύσει, πάτερ;</l>
 					</sp>
-					<sp who="#oidipoys">
+					<sp who="#oidipous">
 						<speaker>Οἰδίπους</speaker>
 						<l>πεσὼν ὅπου μοι μοῖρα κείσομαι πέδῳ.</l>
 					</sp>
@@ -3305,7 +3305,7 @@ bring up to P3
 						<speaker>Ἀντιγόνη</speaker>
 						<l>ὁ δ’ Οἰδίπους ποῦ καὶ τὰ κλείν’ αἰνίγματα;</l>
 					</sp>
-					<sp who="#oidipoys">
+					<sp who="#oidipous">
 						<speaker>Οἰδίπους</speaker>
 						<l>ὄλωλ’· ἓν ἦμάρ μ’ ὤλβισ’, ἓν δ’ ἀπώλεσεν.</l>
 					</sp>
@@ -3313,7 +3313,7 @@ bring up to P3
 						<speaker>Ἀντιγόνη</speaker>
 						<l n="1690">οὔκουν μετασχεῖν κἀμὲ δεῖ τῶν σῶν κακῶν;</l>
 					</sp>
-					<sp who="#oidipoys">
+					<sp who="#oidipous">
 						<speaker>Οἰδίπους</speaker>
 						<l>αἰσχρὰ φυγὴ θυγατρὶ σὺν τυφλῷ πατρί.</l>
 					</sp>
@@ -3321,7 +3321,7 @@ bring up to P3
 						<speaker>Ἀντιγόνη</speaker>
 						<l>οὔ, σωφρονούσῃ γ’, ἀλλὰ γενναία, πάτερ.</l>
 					</sp>
-					<sp who="#oidipoys">
+					<sp who="#oidipous">
 						<speaker>Οἰδίπους</speaker>
 						<l>προσάγαγέ νύν με, μητρὸς ὡς ψαύσω σέθεν.</l>
 					</sp>
@@ -3329,7 +3329,7 @@ bring up to P3
 						<speaker>Ἀντιγόνη</speaker>
 						<l>ἰδού, γεραιᾶς φιλτάτης ψαῦσον χερί.</l>
 					</sp>
-					<sp who="#oidipoys">
+					<sp who="#oidipous">
 						<speaker>Οἰδίπους</speaker>
 						<l n="1695">ὦ μῆτερ, ὦ ξυνάορ’ ἀθλιωτάτη.</l>
 					</sp>
@@ -3337,7 +3337,7 @@ bring up to P3
 						<speaker>Ἀντιγόνη</speaker>
 						<l>οἰκτρὰ πρόκειται, πάντ’ ἔχουσ’ ὁμοῦ κακά.</l>
 					</sp>
-					<sp who="#oidipoys">
+					<sp who="#oidipous">
 						<speaker>Οἰδίπους</speaker>
 						<l>Ἐτεοκλέους δὲ πτῶμα Πολυνείκους τε ποῦ;</l>
 					</sp>
@@ -3345,7 +3345,7 @@ bring up to P3
 						<speaker>Ἀντιγόνη</speaker>
 						<l>τώδ’ ἐκτάδην σοι κεῖσθον ἀλλήλοιν πέλας.</l>
 					</sp>
-					<sp who="#oidipoys">
+					<sp who="#oidipous">
 						<speaker>Οἰδίπους</speaker>
 						<l>πρόσθες τυφλὴν χεῖρ’ ἐπὶ πρόσωπα δυστυχῆ.</l>
 					</sp>
@@ -3353,7 +3353,7 @@ bring up to P3
 						<speaker>Ἀντιγόνη</speaker>
 						<l n="1700">ἰδού, θανόντων σῶν τέκνων ἅπτου χερί.</l>
 					</sp>
-					<sp who="#oidipoys">
+					<sp who="#oidipous">
 						<speaker>Οἰδίπους</speaker>
 						<l>ὦ φίλα πεσήματ’ ἄθλῑ ἀθλίου πατρός.</l>
 					</sp>
@@ -3361,7 +3361,7 @@ bring up to P3
 						<speaker>Ἀντιγόνη</speaker>
 						<l>ὦ φίλτατον δῆτ’ ὄνομα Πολυνείκους ἐμοί.</l>
 					</sp>
-					<sp who="#oidipoys">
+					<sp who="#oidipous">
 						<speaker>Οἰδίπους</speaker>
 						<l>νῦν χρησμός, ὦ παῖ, Λοξίου περαίνεται.</l>
 					</sp>
@@ -3369,7 +3369,7 @@ bring up to P3
 						<speaker>Ἀντιγόνη</speaker>
 						<l>ὁ ποῖος; ἀλλ’ ἦ πρὸς κακοῖς ἐρεῖς κακά;</l>
 					</sp>
-					<sp who="#oidipoys">
+					<sp who="#oidipous">
 						<speaker>Οἰδίπους</speaker>
 						<l n="1705">ἐν ταῖς Ἀθήναις κατθανεῖν μ’ ἀλώμενον.</l>
 					</sp>
@@ -3377,7 +3377,7 @@ bring up to P3
 						<speaker>Ἀντιγόνη</speaker>
 						<l>ποῦ; τίς σε πύργος Ἀτθίδος προσδέξεται;</l>
 					</sp>
-					<sp who="#oidipoys">
+					<sp who="#oidipous">
 						<speaker>Οἰδίπους</speaker>
 						<l>ἱερὸς Κολωνός, δώμαθ’ ἱππίου θεοῦ.</l>
 						<l>ἀλλ’ εἶα, τυφλῷ τῷδ’ ὑπηρέτει πατρί,</l>
@@ -3392,7 +3392,7 @@ bring up to P3
 						<l>πάτερ γεραιέ, πομπίμαν</l>
 						<l>ἔχων ἔμ’ ὥστε ναυσίπομπον αὔραν.</l>
 					</sp>
-					<sp who="#oidipoys">
+					<sp who="#oidipous">
 						<speaker>Οἰδίπους</speaker>
 						<l>&lt;ἰδοὺ&gt; ἰδού, πορεύομαι·</l>
 						<l n="1715">τέκνον, σύ μοι ποδαγὸς ἀθλία γενοῦ.</l>
@@ -3402,7 +3402,7 @@ bring up to P3
 						<l>γενόμεθα γενόμεθ’, ἄθλιαί</l>
 						<l>γε δῆτα Θηβαιᾶν μάλιστα παρθένων.</l>
 					</sp>
-					<sp who="#oidipoys">
+					<sp who="#oidipous">
 						<speaker>Οἰδίπους</speaker>
 						<l>πόθι γεραιὸν ἴχνος τίθημι;</l>
 						<l>βάκτρα πρόσφερ’, ὦ τέκνον.</l>
@@ -3413,7 +3413,7 @@ bring up to P3
 						<l>τᾷδε τᾷδε πόδα τιθείς,</l>
 						<l>ὥστ’ ὄνειρον ἰσχύν.</l>
 					</sp>
-					<sp who="#oidipoys">
+					<sp who="#oidipous">
 						<speaker>Οἰδίπους</speaker>
 						<l>ἰὼ ἰώ, δυστυχεστάτας φυγὰς</l>
 						<l>ἐλαύνων τὸν γέροντά μ’ ἐκ πάτρας.</l>
@@ -3424,7 +3424,7 @@ bring up to P3
 						<l>τί τλάς; τί τλάς; οὐχ ὁρᾷ Δίκα κακούς,</l>
 						<l>οὐδ’ ἀμείβεται βροτῶν ἀσυνεσίας.</l>
 					</sp>
-					<sp who="#oidipoys">
+					<sp who="#oidipous">
 						<speaker>Οἰδίπους</speaker>
 						<l>ὅδ’ εἰμὶ μοῦσαν ὃς ἐπὶ καλ‐</l>
 						<l>λίνικον οὐράνιον ἔβαν</l>
@@ -3452,7 +3452,7 @@ bring up to P3
 						<l n="1745">μέλεος, ὅν, εἴ με καὶ θανεῖν, πάτερ, χρεών,</l>
 						<l>σκότια γᾷ καλύψω.</l>
 					</sp>
-					<sp who="#oidipoys">
+					<sp who="#oidipous">
 						<speaker>Οἰδίπους</speaker>
 						<l>πρὸς ἥλικας φάνηθι σάς.</l>
 					</sp>
@@ -3460,7 +3460,7 @@ bring up to P3
 						<speaker>Ἀντιγόνη</speaker>
 						<l>ἅλις ὀδυρμάτων ἐμῶν.</l>
 					</sp>
-					<sp who="#oidipoys">
+					<sp who="#oidipous">
 						<speaker>Οἰδίπους</speaker>
 						<l>σὺ δ’ ἀμφὶ βωμίους λιτὰς — </l>
 					</sp>
@@ -3468,7 +3468,7 @@ bring up to P3
 						<speaker>Ἀντιγόνη</speaker>
 						<l n="1750">κόρον ἔχουσ’ ἐμῶν κακῶν.</l>
 					</sp>
-					<sp who="#oidipoys">
+					<sp who="#oidipous">
 						<speaker>Οἰδίπους</speaker>
 						<l>ἴθ’ ἀλλὰ Βρόμιος ἵνα τε σηκὸς</l>
 						<l>ἄβατος ὄρεσι μαινάδων.</l>
@@ -3483,7 +3483,7 @@ bring up to P3
 					<milestone ed="p" n="1758" unit="card"/>
 				</div2>
 				<div2 type="trochees">
-					<sp who="#oidipoys">
+					<sp who="#oidipous">
 						<speaker>Οἰδίπους</speaker>
 						<l>ὦ πάτρας κλεινῆς πολῖται, λεύσσετ’, Οἰδίπους ὅδε,</l>
 						<l>ὃς τὰ κλείν’ αἰνίγματ’ ἔγνω καὶ μέγιστος ἦν ἀνήρ,</l>
@@ -3495,7 +3495,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="anapests">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ὦ μέγα σεμνὴ Νίκη, τὸν ἐμὸν</l>
 						<l n="1765">βίοτον κατέχοις</l>

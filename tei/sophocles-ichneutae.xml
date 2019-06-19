@@ -52,28 +52,25 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<personGrp xml:id="XorosSatyron">
+					<personGrp xml:id="choros_satyron">
 						<name>Χορὸς Σατύρων</name>
 					</personGrp>
-					<person xml:id="HmixA">
-						<persName>Ἡμιχ. α</persName>
-					</person>
-					<person xml:id="HmixB">
-						<persName>Ἡμιχ. β</persName>
-					</person>
-					<person xml:id="HmixorosA">
-						<persName>Ἡμιχορός α</persName>
-					</person>
-					<person xml:id="Silenos">
+					<personGrp xml:id="hemichoros_a">
+						<name>Ἡμιχορός α</name>
+					</personGrp>
+					<personGrp xml:id="hemichoros_b">
+						<name>Ἡμιχορός β</name>
+					</personGrp>
+					<person xml:id="silenos">
 						<persName>Σιληνός</persName>
 					</person>
-					<person xml:id="Kyllene">
+					<person xml:id="kyllene">
 						<persName>Κυλλήνη</persName>
 					</person>
-					<person xml:id="Xoros">
+					<personGrp xml:id="choros">
 						<name>Χορός</name>
-					</person>
-					<person xml:id="Apollon">
+					</personGrp>
+					<person xml:id="apollon">
 						<persName>Ἀπόλλων</persName>
 					</person>
 				</listPerson>
@@ -134,7 +131,7 @@ new text
 		<div1>
 			<milestone ed="p" n="1" unit="card"/>
 			<milestone n="1" unit="column"/>
-			<sp who="#Apollon">
+			<sp who="#apollon">
 				<speaker>Ἀπόλλων</speaker>
 				<l> ]κιο[</l>
 				<l> ]πειτα[</l>
@@ -245,7 +242,7 @@ new text
 				<l>[τὸν φ]ῶρα τῶν Παιῶνος ὅστις ἂ[ν λάβῃ,</l>
 				<l>[τῷδ’ α]ὐτόχρημα μισθός ἐσθ’ ὁ κε[ίμενος.</l>
 			</sp>
-			<sp who="#Silenos">
+			<sp who="#silenos">
 				<speaker>Σιληνός</speaker>
 				<l n="45">[ὦ Φοῖβε,] σοῦ φώνημαθ’ ὡς ἐπέκλυον</l>
 				<l>[βοῶ]ντος ὀρθίοισι σὺν κηρύγμας[ι,</l>
@@ -275,7 +272,7 @@ new text
 					 ιμ]’ [ἂ]ν εἴπερ ἐκτε[λ]εῖς ἅπερ λέγεις
 				</l>
 			</sp>
-			<sp who="#Apollon">
+			<sp who="#apollon">
 				<speaker>Ἀπόλλων</speaker>
 				<l n="55">
 					[
@@ -283,15 +280,15 @@ new text
 					 ]ώσω· μοῦνον ἐμπ[έδου τ]άδε.
 				</l>
 			</sp>
-			<sp who="#Silenos">
+			<sp who="#silenos">
 				<speaker>Σιληνός</speaker>
 				<l>τα[ς βοῦς ἀπάξω ς]οι· σὺ δ’ ἐμπέδου [δόσι]ν.</l>
 			</sp>
-			<sp who="#Apollon">
+			<sp who="#apollon">
 				<speaker>Ἀπόλλων</speaker>
 				<l>[ἕξει σφ’ ὁ γ’ εὑ]ρὼν ὅστι[ς] ἔ[ς]θ’· ἑτ[οῖμ]α δ[έ.</l>
 			</sp>
-			<sp who="#Silenos">
+			<sp who="#silenos">
 				<speaker>Σιληνός</speaker>
 				<l>
 					[
@@ -305,7 +302,7 @@ new text
 					[
 				</l>
 			</sp>
-			<sp who="#Apollon">
+			<sp who="#apollon">
 				<speaker>Ἀπόλλων</speaker>
 				<l>
 					[
@@ -318,7 +315,7 @@ new text
 					<note anchored="yes" lang="en" place="inline" resp="ed">one line missing here</note>
 				</l>
 			</sp>
-			<sp who="#Apollon">
+			<sp who="#apollon">
 				<speaker>Ἀπόλλων</speaker>
 				<l>
 					<gap/>
@@ -327,7 +324,7 @@ new text
 					]
 				</l>
 			</sp>
-			<sp who="#Silenos">
+			<sp who="#silenos">
 				<speaker>Σιληνός</speaker>
 				<l>
 					τί τοῦτο; πο[ι
@@ -335,7 +332,7 @@ new text
 					λέγ]εις;
 				</l>
 			</sp>
-			<sp who="#Apollon">
+			<sp who="#apollon">
 				<speaker>Ἀπόλλων</speaker>
 				<l>
 					ἐλεύθερος σὺ [πᾶν τε γένος ἔσται τέκν]ων.
@@ -343,7 +340,7 @@ new text
 					<milestone n="64" unit="card"/>
 				</l>
 			</sp>
-			<sp who="#XorosSatyron">
+			<sp who="#choros_satyron">
 				<speaker>Χορὸς Σατύρων</speaker>
 				<l>
 					ἴθ’ ἄγε δ[
@@ -426,7 +423,7 @@ new text
 					<milestone n="79" unit="card"/>
 				</l>
 			</sp>
-			<sp who="#Silenos">
+			<sp who="#silenos">
 				<speaker>Σιληνός</speaker>
 				<l>θεὸς Τύχη [κ]αὶ δαῖμον ἰθυντήριε,</l>
 				<l n="80">τυχ[ε]ῖν με πράγους οὗ δράμημ’ ἐπείγεται,</l>
@@ -450,13 +447,13 @@ new text
 				</l>
 				<l>μήνυ[τρα</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l>ἰὼ ς[</l>
 				<l>ϋηο[</l>
 				<l n="90">δ’ οὐδ[</l>
 			</sp>
-			<sp who="#Silenos">
+			<sp who="#silenos">
 				<speaker>Σιληνός</speaker>
 				<l>φησίν τις; ἢ[</l>
 				<l>ἔοικεν ἤδη κ[</l>
@@ -492,7 +489,7 @@ new text
 					<milestone n="100" unit="card"/>
 				</l>
 			</sp>
-			<sp who="#HmixorosA">
+			<sp who="#hemichoros_a">
 				<speaker>Ἡμιχορός α</speaker>
 				<l n="100">θεὸς θεὸς θεὸς θεός· ἔα [ἔα·</l>
 				<l>
@@ -501,33 +498,33 @@ new text
 					τει.
 				</l>
 			</sp>
-			<sp who="#HmixB">
+			<sp who="#hemichoros_b">
 				<speaker>Ἡμιχ. β</speaker>
 				<l>ταῦτ’ ἔστ’ ἐκεῖνα· τῶν βοῶν τ[ὰ] σήματα.</l>
 			</sp>
-			<sp who="#HmixA">
+			<sp who="#hemichoros_a">
 				<speaker>Ἡμιχ. α</speaker>
 				<l>σίγ[α]· θεός τις τὴν ἀποι[κία]ν ἄγει.</l>
 			</sp>
-			<sp who="#HmixB">
+			<sp who="#hemichoros_b">
 				<speaker>Ἡμιχ. β</speaker>
 				<l>τί δρῶμεν, ὦ τᾶν; ἦ τὸ δέον [ἐξ]ήνομεν;</l>
 			</sp>
-			<sp who="#HmixA">
+			<sp who="#hemichoros_a">
 				<speaker>Ἡμιχ. α</speaker>
 				<l n="105" part="I">τί; τοῖς[ι] ταύτῃ πῶς δοκεῖ;</l>
 			</sp>
-			<sp who="#HmixB">
+			<sp who="#hemichoros_b">
 				<speaker>Ἡμιχ. β</speaker>
 				<l part="F">δοκεῖ πάνυ.</l>
 				<l>σαφῆ [γ]ὰρ αὔθ’ ἕκαστα σημαίνει τάδε.</l>
 			</sp>
-			<sp who="#HmixA">
+			<sp who="#hemichoros_a">
 				<speaker>Ἡμιχ. α</speaker>
 				<l>ἰδοὺ ἰδού·</l>
 				<l>καὶ τοὐπίσημον αὐτὸ τῶν ὁπλῶν πάλι[ν.</l>
 			</sp>
-			<sp who="#HmixB">
+			<sp who="#hemichoros_b">
 				<speaker>Ἡμιχ. β</speaker>
 				<l>ἄθρει μάλα.</l>
 				<l n="110">
@@ -536,7 +533,7 @@ new text
 					[τρού]μ[ε]νον.
 				</l>
 			</sp>
-			<sp who="#HmixA">
+			<sp who="#hemichoros_a">
 				<speaker>Ἡμιχ. α</speaker>
 				<l>
 					χ[ώ]ρει δρόμῳ καὶ τα[
@@ -555,13 +552,13 @@ new text
 				</l>
 				<l>ῥοίβδημ’ ἐάν τι τῶν [βοῶν δ]ῑ οὖς [λάβῃ</l>
 			</sp>
-			<sp who="#HmixB">
+			<sp who="#hemichoros_b">
 				<speaker>Ἡμιχ. β</speaker>
 				<l>οὐκ εἰσακούω πω [τορῶ]ς τοῦ φθ[έγ]ματος.</l>
 				<l n="115">ἀλλ’ αὐτὰ μὴν ἴχ[νη τε] χὠ στίβος τάδε</l>
 				<l>κείνων ἐναργῆ τῶν β[ο]ῶν μαθεῖν πάρα.</l>
 			</sp>
-			<sp who="#HmixA">
+			<sp who="#hemichoros_a">
 				<speaker>Ἡμιχ. α</speaker>
 				<l>ἔα μάλα·</l>
 				<l>παλινστραφῆ τοι ναὶ μὰ Δία τὰ βήματα</l>
@@ -575,7 +572,7 @@ new text
 					<milestone n="124" unit="card"/>
 				</l>
 			</sp>
-			<sp who="#Silenos">
+			<sp who="#silenos">
 				<speaker>Σιληνός</speaker>
 				<l>τίν’ αὖ τέχνην σὺ τήν[δ’ ἄρ’ ἐξ]ῆυρες, τίν’ αὖ,</l>
 				<l n="125">πρόσπαιον ὧδε κεκλιμ[ένον] κυνηγετεῖν</l>
@@ -585,26 +582,26 @@ new text
 				<l>[τ]ί ταῦτα; ποῦ γῆς ἐμάθετ’ ἐν πο[ί]ῳ τόπῳ;</l>
 				<l n="130">ς[η]μήνατ’, οὐ γὰρ ἴδρις εἰμὶ τοῦ τρόπου.</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l>ὕ [ὗ] ὕ ὗ.</l>
 			</sp>
-			<sp who="#Silenos">
+			<sp who="#silenos">
 				<speaker>Σιληνός</speaker>
 				<l>τ[ί τοῦτ’ ἰύζεις;] τίνα φοβῇ; τίν’ εἰσορᾷς;</l>
 				<l>τ[ί δεῖμ’ ὄπωπ]ας; τί ποτε βακχεύεις ἔχων;</l>
 				<l>α[γχοῦ τις ἤχε]ι κέρχνος·  ἱμείρει[ς] μαθεῖν</l>
 				<l n="135">τ[ίς ἦν;  τί σιγ]ᾶτ’, ὦ πρ[ὸ τοῦ λαλίστ]ατοι;</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l>ς[ίγα μὲν οὖν.]</l>
 			</sp>
-			<sp who="#Silenos">
+			<sp who="#silenos">
 				<speaker>Σιληνός</speaker>
 				<l>τ[ίν’ ἔστ’ ἐκεῖθε]ν ἁπονος[φίζ]εις ἔχων;</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l>
 					ἄ[κουε δή.
@@ -612,19 +609,19 @@ new text
 					<milestone n="6" unit="column"/>
 				</l>
 			</sp>
-			<sp who="#Silenos">
+			<sp who="#silenos">
 				<speaker>Σιληνός</speaker>
 				<l>καλῶς ἀκούς[ω μηδεν]ὸς φωνὴν κλύων;</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l n="140">ἐμοὶ πιθοῦ.</l>
 			</sp>
-			<sp who="#Silenos">
+			<sp who="#silenos">
 				<speaker>Σιληνός</speaker>
 				<l>ἐμ[ὸν] δίω[γμά γ’ οὐδα]μῶς ὀνήσετε.</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l>ἄκουσον αὖ τ[ο]ῦ χρ[ήμα]τ[ο]ς χρόνον τινά,</l>
 				<l>[ο]ἵῳ ’κπ[λ]αγέντες ἐν[θάδ’] ἐξενίσμεθα</l>
@@ -634,7 +631,7 @@ new text
 					<milestone n="145" unit="card"/>
 				</l>
 			</sp>
-			<sp who="#Silenos">
+			<sp who="#silenos">
 				<speaker>Σιληνός</speaker>
 				<l n="145">τί μοι ψ[ό]φον; φοβ[εῖσθε] κα[ὶ] δειμαίνετε,</l>
 				<l>μάλθης ἄναγνα σώ[μα]τ’ ἐκμεμαγμένα</l>
@@ -665,13 +662,13 @@ new text
 				<l>τὰς βοῦς ὅπῃ βεβᾶσι καὶ τὸν βουκόλο[ν,</l>
 				<l>κλαίοντες αὐτῇ δειλίᾳ ψοφή[ς]ετε.</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l>πάτερ, παρὼν αὐτός με συμποδηγέτε[ι,</l>
 				<l n="170">ἵν’ εὖ κατείδῃς εἴ τίς ἐστι δειλία·</l>
 				<l>γνώση[ι] γὰρ αὐτός, ἂν παρῇς, οὐδὲν λέγω[ν.</l>
 			</sp>
-			<sp who="#Silenos">
+			<sp who="#silenos">
 				<speaker>Σιληνός</speaker>
 				<l>ἐγὼ πα[ρ]ὼν αὐτός σε προσβιβῶ λόγῳ,</l>
 				<l>κυνορτικὸν σύριγμα διακαλούμεν[ος.</l>
@@ -682,7 +679,7 @@ new text
 					<milestone n="176" unit="card"/>
 				</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l>ὗ ὗ ὗ, ψ ψ, ἆ ἆ. λέγ’ ὅ τι πονεῖς.</l>
 				<l>τί μάτην ὑπέκλαγες, ὑπέκριγες</l>
@@ -766,19 +763,19 @@ new text
 				<l>πάτερ, τί σιγᾷς; μῶν ἀληθ[ὲς εἴπομεν;</l>
 				<l>οὐ[κ ε]ἰσακο[ύε]ις; ἦ κεκώφη[σαι, ψόφον;</l>
 			</sp>
-			<sp who="#Silenos">
+			<sp who="#silenos">
 				<speaker>Σιληνός</speaker>
 				<l n="205" part="I">σί[γα·] τί ἔστιν;</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l part="Y">οὐ μενῶ.</l>
 			</sp>
-			<sp who="#Silenos">
+			<sp who="#silenos">
 				<speaker>Σιληνός</speaker>
 				<l part="Y">μέν’, ε[ἰ] &lt;δύνᾳ.&gt;</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l>οὐκ ἔστιν. ἀλλ’ αὐτὸς σὺ ταῦθ[’ ὅπῃ θέλεις]</l>
 				<l>ζήτει τε κἀξίχνευε καὶ πλού[τει λαβὼν</l>
@@ -795,13 +792,13 @@ new text
 					] χρόνον.
 				</l>
 			</sp>
-			<sp who="#Silenos">
+			<sp who="#silenos">
 				<speaker>Σιληνός</speaker>
 				<l n="210">ἀλλ’ οὔ τι μ[ή σοί] μ[’ ἐκλιπεῖν ἐφήσομαι]</l>
 				<l>οὐδ’ ἐξυπελθ[εῖ]ν τ[οῦ πόνου πρίν γ’ ἂν σα]φῶς</l>
 				<l>εἰδῶμεν ὅν[τιν’] ἔ[νδον ἥδ’ ἔχει στέγη.]</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l>ἶὼ γ[</l>
 				<l>
@@ -828,7 +825,7 @@ new text
 					<milestone n="221" unit="card"/>
 				</l>
 			</sp>
-			<sp who="#Kyllene">
+			<sp who="#kyllene">
 				<speaker>Κυλλήνη</speaker>
 				<l>θῆρες, τί [τό]νδε χλοερὸν ὑλώδη πάγον</l>
 				<l>ἔν[θ]ηρον ὡρμήθητε σὺν πολλῇ βοῇ;</l>
@@ -900,7 +897,7 @@ new text
 					<milestone n="243" unit="card"/>
 				</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<note anchored="yes" place="inline" type="meter">str.</note>
 				<l>νύμφη βαθύζωνε π[αῦσαι χόλου ]</l>
@@ -916,7 +913,7 @@ new text
 					<milestone n="251" unit="card"/>
 				</l>
 			</sp>
-			<sp who="#Kyllene">
+			<sp who="#kyllene">
 				<speaker>Κυλλήνη</speaker>
 				<l>ταῦτ’ ἔστ’ ἐκείνων νῦν [ τρόπων πεπαίτερα,</l>
 				<l>καὶ τοῖσδε θηρῶν ἐκπύ[θοιο μᾶλλον ἂν</l>
@@ -926,14 +923,14 @@ new text
 				<l>ἀλλ’ ἥσυχος πρόφαινε καὶ μ[ή]νυ[έ μοι</l>
 				<l>ὅτου μάλιστα πράγματος χρείαν ἔχεις.</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l>τόπων ἄνασσα τῶν[δ]ε, Κυλλήνης σθένος,</l>
 				<l>ὅτου μὲν οὕνεκ’ ἦλθ[ο]ν, ὕστερον φράσω·</l>
 				<l n="260">τὸ φθέγμα δ’ ἡμῖν τοῦ[θ’] ὅπερ φωνεῖ φράσον</l>
 				<l>καὶ τίς ποτ’ αὐτῷ δι[α]χαράσσεται βροτῶν.</l>
 			</sp>
-			<sp who="#Kyllene">
+			<sp who="#kyllene">
 				<speaker>Κυλλήνη</speaker>
 				<l> ὑμᾶς μὲν αὐτοὺς χρὴ τάδ’ εἰδέναι σαφῶς</l>
 				<l>ὡς εἰ φανεῖτε τὸν λ[ό]γον τὸν ἐξ ἐμοῦ,</l>
@@ -983,7 +980,7 @@ new text
 					<milestone n="290" unit="card"/>
 				</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l n="290">
 					ἄφραστ[ο 
@@ -1028,55 +1025,55 @@ new text
 					<milestone n="298" unit="card"/>
 				</l>
 			</sp>
-			<sp who="#Kyllene">
+			<sp who="#kyllene">
 				<speaker>Κυλλήνη</speaker>
 				<l>μὴ νῦν ἀπίστει· πιστὰ γάρ σε προσγελᾷ θεᾶς ἔπη.</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l n="300">καὶ πῶς πίθωμαι τοῦ θανόντος φθέγμα τοιοῦτον βρέμειν;</l>
 			</sp>
-			<sp who="#Kyllene">
+			<sp who="#kyllene">
 				<speaker>Κυλλήνη</speaker>
 				<l>πιθοῦ· θανὼν γὰρ ἔσχε φωνήν, ζῶν δ’ ἄναυδος ἦν ὁ θήρ.</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l>ποῖός τις ἦν εἶδος; πρ[ο]μήκης, ἢ ’πίκυρτος, ἢ βραχύς;</l>
 			</sp>
-			<sp who="#Kyllene">
+			<sp who="#kyllene">
 				<speaker>Κυλλήνη</speaker>
 				<l>βραχύς, χυτρώδης, πο[ι]κίλῃ δορᾷ κατερρικνωμένος.</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l>ὡς αἰέλουρος εἰκάσαι πέφυκεν ἢ τὼς πόρδαλις;</l>
 			</sp>
-			<sp who="#Kyllene">
+			<sp who="#kyllene">
 				<speaker>Κυλλήνη</speaker>
 				<l n="305">πλεῖστον με[τ]αξύ· γογγύλον γάρ ἐστι καὶ βραχυσκελές.</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l>οὐδ’ ὡς ἰχνευμ&lt;ων&gt; προσφερὲς πέφυκεν οὐδ’ ὡς καρκίν&lt;ος&gt;;</l>
 			</sp>
-			<sp who="#Kyllene">
+			<sp who="#kyllene">
 				<speaker>Κυλλήνη</speaker>
 				<l>οὐδ’ αὖ τοιοῦτ[ό]ν ἐστιν· ἀλλ’ ἄλλον τιν’ ἐξευροῦ τρόπον.</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l>ἀλλ’ ὡς κεράστ[η]ς κάνθαρος δῆτ’ ἐστὶν Αἰτναῖος φυήν;</l>
 			</sp>
-			<sp who="#Kyllene">
+			<sp who="#kyllene">
 				<speaker>Κυλλήνη</speaker>
 				<l>νῦν ἐγγὺς ἔγν[ως] ᾧ μάλιστα προσφερὲς τὸ κνώδαλον.</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l n="310">τ[ί δ’ αὖ τὸ ] φων[οῦ]ν ἐστιν αὐτοῦ, τοὐντὸς ἢ τοὔξω, φράσον.</l>
 			</sp>
-			<sp who="#Kyllene">
+			<sp who="#kyllene">
 				<speaker>Κυλλήνη</speaker>
 				<l>
 					 [
@@ -1086,15 +1083,15 @@ new text
 					φ]ορίνη σύγγονος τῶν ὀστράκων.
 				</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l>[ποῖον δὲ τοὔνομ’ ἐν]νέ[πει]ς;  πόρσυνον, εἴ τι πλέον ἔχεις.</l>
 			</sp>
-			<sp who="#Kyllene">
+			<sp who="#kyllene">
 				<speaker>Κυλλήνη</speaker>
 				<l>[τὸν θῆρα μὲν χέλυν, τὸ φωνο]ῦν δ’ αὖ λύραν ὁ παῖς καλεῖ.</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l>
 					[ 
@@ -1105,7 +1102,7 @@ new text
 					] τινι;
 				</l>
 			</sp>
-			<sp who="#Kyllene">
+			<sp who="#kyllene">
 				<speaker>Κυλλήνη</speaker>
 				<l>
 					[ 
@@ -1170,7 +1167,7 @@ new text
 					<milestone n="329" unit="card"/>
 				</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l>
 					ὀ&lt;ρθ&gt;οψάλακτός τις ὀμφὴ κατοιχνεῖ τόπου,      
@@ -1189,19 +1186,19 @@ new text
 					<milestone n="338" unit="card"/>
 				</l>
 			</sp>
-			<sp who="#Kyllene">
+			<sp who="#kyllene">
 				<speaker>Κυλλήνη</speaker>
 				<l>[τίς ἔχει πλά]νη σε; τίνα κλοπὴν ὠνείδις[ας;</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l>[οὐ μὰ Δία σ’, ὦ πρές]βειρα χειμάζειν [ θέλω.</l>
 			</sp>
-			<sp who="#Kyllene">
+			<sp who="#kyllene">
 				<speaker>Κυλλήνη</speaker>
 				<l n="340">[μῶν τὸν Διὸς παῖδ’ ὄ]ντα φ&lt;η&gt;λήτην κα[λεῖς;</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l>
 					[
@@ -1210,7 +1207,7 @@ new text
 					 ]αν αὐτῇ τῇ κλο[πῇ.
 				</l>
 			</sp>
-			<sp who="#Kyllene">
+			<sp who="#kyllene">
 				<speaker>Κυλλήνη</speaker>
 				<l>
 					[
@@ -1219,7 +1216,7 @@ new text
 					ε]ἴ γε τἀληθῆ λέ[γεις.
 				</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l>
 					[       
@@ -1265,7 +1262,7 @@ new text
 					<milestone n="352" unit="card"/>
 				</l>
 			</sp>
-			<sp who="#Kyllene">
+			<sp who="#kyllene">
 				<speaker>κυλλήνη</speaker>
 				<l>
 					[  
@@ -1306,7 +1303,7 @@ new text
 					<milestone n="371" unit="card"/>
 				</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l>
 					στρέφου λυγίζου τε μύθοις, ὁποι‐  
@@ -1327,62 +1324,62 @@ new text
 					<note anchored="yes" lang="en" place="inline" resp="ed.">ονε ορ μορε λινες μισσινγ</note>
 				</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l>[ὁ Ζ]εὺς γὰρ ]</l>
 			</sp>
-			<sp who="#Kyllene">
+			<sp who="#kyllene">
 				<speaker>Κυλλήνη</speaker>
 				<l n="380">[ὁ] παῖς κλο[π</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l>[εἰ] τοι πονη[ρὰ δρᾷ, πονηρὸς ὢν κυρεῖ.</l>
 			</sp>
-			<sp who="#Kyllene">
+			<sp who="#kyllene">
 				<speaker>Κυλλήνη</speaker>
 				<l>[κ]ακῶς ἀκού[ειν οὐ πρέπει Διὸς γόνῳ.</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l>[ε]ἰ δ’ ἔστ’ ἀλη[θῆ, χρή με καὶ λέγειν τάδε.</l>
 			</sp>
-			<sp who="#Kyllene">
+			<sp who="#kyllene">
 				<speaker>Κυλλήνη</speaker>
 				<l>[ο]ὐ μὴ ταδ’ [εἴπῃς</l>
 				<l>
 					<note anchored="yes" lang="en" place="inline" resp="ed.">αβουτ 8 λινες οφ ωηιξη ωε ηαvε ονλψ τηε ινιτιαλ λεττερς</note>
 				</l>
 			</sp>
-			<sp who="#Kyllene">
+			<sp who="#kyllene">
 				<speaker>Κυλλήνη</speaker>
 				<l>ποῦ καὶ βόες νέμουσι τ[</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l>π[λ]είους δέ γ’ ἤδη νῦν [</l>
 			</sp>
-			<sp who="#Kyllene">
+			<sp who="#kyllene">
 				<speaker>Κυλλήνη</speaker>
 				<l>τ[ί]ς, ὦ πόνηρ’, ἔχει; τί πλε[</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l>ὁ παῖς ὃς ἔνδον ἐστὶν ἐγκεκλη[ιμένος.</l>
 			</sp>
-			<sp who="#Kyllene">
+			<sp who="#kyllene">
 				<speaker>Κυλλήνη</speaker>
 				<l>[τὸ]ν παῖδα παῦσαι τοῦ Διὸς [ κακῶς λέγων.</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l n="400">π[α]ύοιμ[’ ἄ]ν [, εἰ] τὰς βοῦς τις ἐ[ξελᾶν θέλοι.</l>
 			</sp>
-			<sp who="#Kyllene">
+			<sp who="#kyllene">
 				<speaker>Κυλλήνη</speaker>
 				<l>ἤδη με πνίγεις καὶ σὺ χα[ἰ βόες σέθεν.</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l>
 					[
@@ -1400,24 +1397,24 @@ new text
 					<milestone n="17" unit="column"/>
 				</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l>ἰοὺ ἰοὺ [</l>
 				<l>ἥν τ’ ἔφη π[</l>
 				<l>οὗτος οὐ φ[</l>
 			</sp>
-			<sp who="#Silenos">
+			<sp who="#silenos">
 				<speaker>Σιληνός</speaker>
 				<l>ω Λ[οξία</l>
 				<l>ιω δ[</l>
 			</sp>
-			<sp who="#Xoros">
+			<sp who="#choros">
 				<speaker>Χορός</speaker>
 				<l>ὦ Λοξία, δε[</l>
 				<l>καὶ παρη[</l>
 				<l>τῶν [β]οῶ[ν</l>
 			</sp>
-			<sp who="#Apollon">
+			<sp who="#apollon">
 				<speaker>Ἀπόλλων</speaker>
 				<l>
 					[
@@ -1435,7 +1432,7 @@ new text
 				<l>μισθς [</l>
 				<l>ἐλεύθερο[</l>
 			</sp>
-			<sp who="#Silenos">
+			<sp who="#silenos">
 				<speaker>Σιληνός</speaker>
 				<l>τὸν ἐγ[</l>
 			</sp>

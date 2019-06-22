@@ -51,13 +51,13 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="ksoythos">
+					<person xml:id="xouthos">
 						<persName>Ξοῦθος</persName>
 					</person>
 					<person xml:id="ion">
 						<persName>Ἴων</persName>
 					</person>
-					<person xml:id="profetis">
+					<person xml:id="prophetis">
 						<persName>Προφῆτις</persName>
 					</person>
 					<person xml:id="presbytes">
@@ -69,13 +69,13 @@
 					<person xml:id="athena">
 						<persName>Ἀθήνα</persName>
 					</person>
-					<person xml:id="ermes">
+					<person xml:id="hermes">
 						<persName>Ἑρμῆς</persName>
 					</person>
-					<personGrp xml:id="xoros">
+					<personGrp xml:id="choros">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="kreoysa">
+					<person xml:id="kreousa">
 						<persName>Κρέουσα</persName>
 					</person>
 				</listPerson>
@@ -166,7 +166,7 @@ bring up to P3
 		<body>
 			<div1 type="episode">
 				<milestone ed="p" n="1" unit="card"/>
-				<sp n="Ἑρμῆς" who="#ermes">
+				<sp n="Ἑρμῆς" who="#hermes">
 					<speaker>Ἑρμῆς</speaker>
 					<l>Ἄτλας, ὁ χαλκέοισι † νώτοις οὐρανὸν</l>
 					<l>θεῶν παλαιὸν οἶκον ἐκτρίβων, θεῶν</l>
@@ -393,7 +393,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l> — οὐκ ἐν ταῖς ζαθέαις Ἀθά‐</l>
 						<l n="185">ναις εὐκίονες ἦσαν αὐ‐</l>
@@ -410,7 +410,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l> — ὁρῶ. καὶ πέλας ἄλλος αὐ‐</l>
 						<l n="195">τοῦ πανὸν πυρίφλεκτον αἴ‐</l>
@@ -427,7 +427,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="2" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="205"> — πάντᾳ τοι βλέφαρον διώ‐</l>
 						<l>κω. σκέψαι κλόνον ἐν τείχες‐</l>
@@ -448,7 +448,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="2" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>σέ τοι, τὸν παρὰ ναὸν αὐ‐</l>
 						<l n="220">δῶ· θέμις γυάλων ὑπερ‐</l>
@@ -459,7 +459,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>οὐ θέμις, ὦ ξέναι.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>οὐδ’ ἂν</l>
 						<l>ἐκ σέθεν ἂν πυθοίμεθ’ αὐδάν;</l>
@@ -468,7 +468,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>τίνα τήνδε θέλεις;</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἆρ’ ὄντως μέσον ὀμφαλὸν</l>
 						<l>γᾶς Φοίβου κατέχει δόμος;</l>
@@ -477,7 +477,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>στέμμασί γ’ ἐνδυτόν, ἀμφὶ δὲ Γοργόνες.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="225">οὕτω καὶ φάτις αὐδᾷ.</l>
 					</sp>
@@ -488,7 +488,7 @@ bring up to P3
 						<l>πάριτ’ ἐς θυμέλας· ἐπὶ δ’ ἀσφάκτοις</l>
 						<l>μήλοισι δόμων μὴ πάριτ’ ἐς μυχόν.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="230">ἔχω μαθοῦσα· θεοῦ δὲ νόμον</l>
 						<l>οὐ παραβαίνομεν,</l>
@@ -498,7 +498,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>πάντα θεᾶσθ’, ὅ τι καὶ θέμις, ὄμμασι.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>μεθεῖσαν δεσπόται</l>
 						<l>με θεοῦ γύαλα τάδ’ εἰσιδεῖν.</l>
@@ -507,7 +507,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>δμῳαὶ δὲ τίνων κλῄζεσθε δόμων;</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="235">Παλλάδι σύνοικα τρόφιμα μέλα‐</l>
 						<l n="235b">θρα τῶν ἐμῶν τυράννων·</l>
@@ -531,7 +531,7 @@ bring up to P3
 					<l n="245">ὃ πάντες ἄλλοι γύαλα λεύσσοντες θεοῦ</l>
 					<l>χαίρουσιν, ἐνταῦθ’ ὄμμα σὸν δακρυρροεῖ;</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>ὦ ξένε, τὸ μὲν σὸν οὐκ ἀπαιδεύτως ἔχει</l>
 					<l>ἐς θαύματ’ ἐλθεῖν δακρύων ἐμῶν πέρι·</l>
@@ -546,7 +546,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l n="255">τί χρῆμ’ ἀνερμήνευτα δυσθυμῇ, γύναι;</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>οὐδέν· μεθῆκα τόξα· τἀπὶ τῷδε δὲ</l>
 					<l>ἐγώ τε σιγῶ, καὶ σὺ μὴ φρόντιζ’ ἔτι.</l>
@@ -556,7 +556,7 @@ bring up to P3
 					<l>τίς δ’ εἶ; πόθεν γῆς ἦλθες; ἐκ ποίας πάτρας</l>
 					<l>πέφυκας; ὄνομα τί σε καλεῖν ἡμᾶς χρεών;</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l n="260">Κρέουσα μέν μοι τοὔνομ’, ἐκ δ’ Ἐρεχθέως</l>
 					<l>πέφυκα, πατρὶς γῆ δ’ Ἀθηναίων πόλις.</l>
@@ -566,7 +566,7 @@ bring up to P3
 					<l>ὦ κλεινὸν οἰκοῦσ’ ἄστυ γενναίων τ’ ἄπο</l>
 					<l>τραφεῖσα πατέρων, ὥς σε θαυμάζω, γύναι.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>τοσαῦτα κεὐτυχοῦμεν, ὦ ξέν’, οὐ πέρα.</l>
 				</sp>
@@ -574,7 +574,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l n="265">πρὸς θεῶν ἀληθῶς, ὡς μεμύθευται βροτοῖς . . .;</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>τί χρῆμ’ ἐρωτᾷς, ὦ ξέν’, ἐκμαθεῖν θέλων;</l>
 				</sp>
@@ -582,7 +582,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>ἐκ γῆς πατρός σου πρόγονος ἔβλαστεν πατήρ;</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>Ἐριχθόνιός γε· τὸ δὲ γένος μ’ οὐκ ὠφελεῖ.</l>
 				</sp>
@@ -590,7 +590,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>ἦ καί σφ’ Ἀθάνα γῆθεν ἐξανείλετο;</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l n="270">ἐς παρθένους γε χεῖρας, οὐ τεκοῦσά νιν.</l>
 				</sp>
@@ -598,7 +598,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>δίδωσι δ’, ὥσπερ ἐν γραφῇ νομίζεται . . .;</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>Κέκροπός γε σῴζειν παισὶν οὐχ ὁρώμενον.</l>
 				</sp>
@@ -606,7 +606,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>ἤκουσα λῦσαι παρθένους τεῦχος θεᾶς.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>τοιγὰρ θανοῦσαι σκόπελον ᾕμαξαν πέτρας.</l>
 					<milestone ed="p" n="275" unit="card"/>
@@ -616,7 +616,7 @@ bring up to P3
 					<l n="275">εἶἑν·</l>
 					<l>τί δαὶ τόδ’; ἆρ’ ἀληθὲς ἢ μάτην λόγος . . .</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>τί χρῆμ’ ἐρωτᾷς; καὶ γὰρ οὐ κάμνω σχολῇ.</l>
 				</sp>
@@ -624,7 +624,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>πατὴρ Ἐρεχθεὺς σὰς ἔθυσε συγγόνους;</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>ἔτλη πρὸ γαίας σφάγια παρθένους κτανεῖν.</l>
 				</sp>
@@ -632,7 +632,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>σὺ δ’ ἐξεσώθης πῶς κασιγνήτων μόνη;</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l n="280">βρέφος νεογνὸν μητρὸς ἦν ἐν ἀγκάλαις.</l>
 				</sp>
@@ -640,7 +640,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>πατέρα δ’ ἀληθῶς χάσμα σὸν κρύπτει χθονός;</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>πληγαὶ τριαίνης ποντίου σφ’ ἀπώλεσαν.</l>
 				</sp>
@@ -648,7 +648,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>Μακραὶ δὲ χῶρός ἐστ’ ἐκεῖ κεκλημένος;</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>τί δ’ ἱστορεῖς τόδ’; ὥς μ’ ἀνέμνησάς τινος.</l>
 				</sp>
@@ -656,7 +656,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l n="285">τιμᾷ σφε Πύθιος ἀστραπαί τε Πύθιαι.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>† τιμᾶ τιμᾶ †· ὡς μήποτ’ ὤφελόν σφ’ ἰδεῖν.</l>
 				</sp>
@@ -664,7 +664,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>τί δὲ στυγεῖς σὺ τοῦ θεοῦ τὰ φίλτατα;</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>οὐδέν· ξύνοιδ’ ἄντροισιν αἰσχύνην τινά.</l>
 				</sp>
@@ -672,7 +672,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>πόσις δὲ τίς σ’ ἔγημ’ Ἀθηναίων, γύναι;</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l n="290">οὐκ ἀστός, ἀλλ’ ἐπακτὸς ἐξ ἄλλης χθονός.</l>
 				</sp>
@@ -680,7 +680,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>τίς; εὐγενῆ νιν δεῖ πεφυκέναι τινά.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>Ξοῦθος, πεφυκὼς Αἰόλου Διός τ’ ἄπο.</l>
 				</sp>
@@ -688,7 +688,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>καὶ πῶς ξένος σ’ ὢν ἔσχεν οὖσαν ἐγγενῆ;</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>Εὔβοῑ Ἀθήναις ἔστι τις γείτων πόλις . . .</l>
 				</sp>
@@ -696,7 +696,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l n="295">ὅροις ὑγροῖσιν, ὡς λέγουσ’, ὡρισμένη.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>ταύτην ἔπερσε Κεκροπίδαις κοινῷ δορί.</l>
 				</sp>
@@ -704,7 +704,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>ἐπίκουρος ἐλθών; κᾆτα σὸν γαμεῖ λέχος;</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>φερνάς γε πολέμου καὶ δορὸς λαβὼν γέρας.</l>
 				</sp>
@@ -712,7 +712,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>σὺν ἀνδρὶ δ’ ἥκεις ἢ μόνη χρηστήρια;</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l n="300">σὺν ἀνδρί. σηκοὺς δ’ ἐκστρέφει Τροφωνίου.</l>
 				</sp>
@@ -720,7 +720,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>πότερα θεατὴς ἢ χάριν μαντευμάτων;</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>κείνου τε Φοίβου θ’ ἓν θέλων μαθεῖν ἔπος.</l>
 				</sp>
@@ -728,7 +728,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>καρποῦ δ’ ὕπερ γῆς ἥκετ’, ἢ παίδων πέρι;</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>ἄπαιδές ἐσμεν, χρόνῑ ἔχοντ’ εὐνήματα.</l>
 				</sp>
@@ -736,7 +736,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l n="305">οὐδ’ ἔτεκες οὐδὲν πώποτ’, ἀλλ’ ἄτεκνος εἶ;</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>ὁ Φοῖβος οἶδε τὴν ἐμὴν ἀπαιδίαν.</l>
 				</sp>
@@ -745,7 +745,7 @@ bring up to P3
 					<l>ὦ τλῆμον, ὡς τἄλλ’ εὐτυχοῦσ’ οὐκ εὐτυχεῖς.</l>
 					<milestone ed="p" n="308" unit="card"/>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>σὺ δ’ εἶ τίς; ὥς σου τὴν τεκοῦσαν ὤλβισα.</l>
 				</sp>
@@ -753,7 +753,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>τοῦ θεοῦ καλοῦμαι δοῦλος εἰμί τ’, ὦ γύναι.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l n="310">ἀνάθημα πόλεως, ἤ τινος πραθεὶς ὕπο;</l>
 				</sp>
@@ -761,7 +761,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>οὐκ οἶδα πλὴν ἕν· Λοξίου κεκλήμεθα.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>ἡμεῖς σ’ ἄρ’ αὖθις, ὦ ξέν’, ἀντοικτίρομεν.</l>
 				</sp>
@@ -769,7 +769,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>ὡς μὴ εἰδόθ’ ἥτις μ’ ἔτεκεν ἐξ ὅτου τ’ ἔφυν.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>ναοῖσι δ’ οἰκεῖς τοισίδ’ ἢ κατὰ στέγας;</l>
 				</sp>
@@ -777,7 +777,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l n="315">ἅπαν θεοῦ μοι δῶμ’, ἵν’ ἂν λάβῃ μ’ ὕπνος.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>παῖς δ’ ὢν ἀφίκου ναὸν ἢ νεανίας;</l>
 				</sp>
@@ -785,7 +785,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>βρέφος λέγουσιν οἱ δοκοῦντες εἰδέναι.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>καὶ τίς γάλακτί σ’ ἐξέθρεψε Δελφίδων;</l>
 				</sp>
@@ -793,7 +793,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>οὐπώποτ’ ἔγνων μαστόν· ἣ δ’ ἔθρεψέ με . . .</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l n="320">τίς, ὦ ταλαίπωρ’; ὡς νοσοῦσ’ ηὗρον νόσους.</l>
 				</sp>
@@ -801,7 +801,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>Φοίβου προφῆτις, μητέρ’ ὣς νομίζομεν.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>ἐς δ’ ἄνδρ’ ἀφίκου τίνα τροφὴν κεκτημένος;</l>
 				</sp>
@@ -809,7 +809,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>βωμοί μ’ ἔφερβον οὑπιών τ’ ἀεὶ ξένος.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>τάλαινά σ’ ἡ τεκοῦσα· τίς ποτ’ ἦν ἄρα;</l>
 				</sp>
@@ -817,7 +817,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l n="325">ἀδίκημά του γυναικὸς ἐγενόμην ἴσως.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>ἔχεις δὲ βίοτον· εὖ γὰρ ἤσκησαι πέπλοις.</l>
 				</sp>
@@ -825,7 +825,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>τοῖς τοῦ θεοῦ κοσμούμεθ’, ᾧ δουλεύομεν.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>οὐδ’ ᾖξας εἰς ἔρευναν ἐξευρεῖν γονάς;</l>
 				</sp>
@@ -833,7 +833,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>ἔχω γὰρ οὐδέν, ὦ γύναι, τεκμήριον.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l n="330">φεῦ·</l>
 					<l>πέπονθέ τις σῇ μητρὶ ταὔτ’ ἄλλη γυνή.</l>
@@ -842,7 +842,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>τίς; εἰ πόνου μοι ξυλλάβοι, χαίροιμεν ἄν.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>ἧς οὕνεκ’ ἦλθον δεῦρο πρὶν πόσιν μολεῖν.</l>
 				</sp>
@@ -850,7 +850,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>ποῖόν τι χρῄζουσ’; ὡς ὑπουργήσω, γύναι.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>μάντευμα κρυπτὸν δεομένη Φοίβου μαθεῖν.</l>
 				</sp>
@@ -858,7 +858,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l n="335">λέγοις ἄν· ἡμεῖς τἄλλα προξενήσομεν.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>ἄκουε δὴ τὸν μῦθον.  — ἀλλ’ αἰδούμεθα.</l>
 				</sp>
@@ -866,7 +866,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>οὔ τἄρα πράξεις οὐδέν· ἀργὸς ἡ θεός.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>Φοίβῳ μιγῆναί φησί τις φίλων ἐμῶν.</l>
 				</sp>
@@ -874,7 +874,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>Φοίβῳ γυνὴ γεγῶσα; μὴ λέγ’, ὦ ξένη.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l n="340">καὶ παῖδά γ’ ἔτεκε τῷ θεῷ λάθρα πατρός.</l>
 				</sp>
@@ -882,7 +882,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>οὐκ ἔστιν· ἀνδρὸς ἀδικίαν αἰσχύνεται.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>οὔ φησιν αὐτή, καὶ πέπονθεν ἄθλια.</l>
 				</sp>
@@ -890,7 +890,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>τί χρῆμα δράσασ’, εἰ θεῷ συνεζύγη;</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>τὸν παῖδ’ ὃν ἔτεκεν ἐξέθηκε δωμάτων.</l>
 				</sp>
@@ -898,7 +898,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l n="345">ὁ δ’ ἐκτεθεὶς παῖς ποῦ ’στιν; εἰσορᾷ φάος;</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>οὐκ οἶδεν οὐδείς. ταῦτα καὶ μαντεύομαι.</l>
 				</sp>
@@ -906,7 +906,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>εἰ δ’ οὐκέτ’ ἔστι, τίνι τρόπῳ διεφθάρη;</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>θῆράς σφε τὸν δύστηνον ἐλπίζει κτανεῖν.</l>
 				</sp>
@@ -914,7 +914,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>ποίῳ τόδ’ ἔγνω χρωμένη τεκμηρίῳ;</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l n="350">ἐλθοῦσ’ ἵν’ αὐτὸν ἐξέθηκ’ οὐχ ηὗρ’ ἔτι.</l>
 				</sp>
@@ -922,7 +922,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>ἦν δὲ σταλαγμὸς ἐν στίβῳ τις αἵματος;</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>οὔ φησι. καίτοι πόλλ’ ἐπεστράφη πέδον.</l>
 				</sp>
@@ -930,7 +930,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>χρόνος δὲ τίς τῷ παιδὶ διαπεπραγμένῳ;</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>σοὶ ταὐτὸν ἥβης, εἴπερ, εἶχεν ἂν μέτρον.</l>
 					<milestone ed="p" n="355" unit="card"/>
@@ -939,7 +939,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l n="355">ἀδικεῖ νιν ὁ θεός· ἡ τεκοῦσα δ’ ἀθλία.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>οὔκουν ἔτ’ ἄλλον γ’ ὕστερον τίκτει γόνον.</l>
 				</sp>
@@ -947,7 +947,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>τί δ’, εἰ λάθρα νιν Φοῖβος ἐκτρέφει λαβών;</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>τὰ κοινὰ χαίρων οὐ δίκαια δρᾷ μόνος.</l>
 				</sp>
@@ -955,7 +955,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>οἴμοι· προσῳδὸς ἡ τύχη τὠμῷ πάθει.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l n="360">καὶ σέ, ὦ ξέν’, οἶμαι μητέρ’ ἀθλίαν ποθεῖν.</l>
 				</sp>
@@ -963,7 +963,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>καὶ μή γ’ ἐπ’ οἶκτόν μ’ ἔξαγ’ οὗ ’λελήσμεθα.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>σιγῶ· πέραινε δ’ ὧν σ’ ἀνιστορῶ πέρι.</l>
 				</sp>
@@ -971,7 +971,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>οἶσθ’ οὖν ὃ κάμνει τοῦ λόγου μάλιστά σοι;</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>τί δ’ οὐκ ἐκείνῃ τῇ ταλαιπώρῳ νοσεῖ;</l>
 				</sp>
@@ -979,7 +979,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l n="365">πῶς ὁ θεὸς ὃ λαθεῖν βούλεται μαντεύσεται;</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>εἴπερ καθίζει τρίποδα κοινὸν Ἑλλάδος.</l>
 				</sp>
@@ -987,7 +987,7 @@ bring up to P3
 					<speaker>Ἴων</speaker>
 					<l>αἰσχύνεται τὸ πρᾶγμα· μὴ ’ξέλεγχέ νιν.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>ἀλγύνεται δέ γ’ ἡ παθοῦσα τῇ τύχῃ.</l>
 				</sp>
@@ -1006,13 +1006,13 @@ bring up to P3
 					<l>ἄκοντα κεκτήμεσθα τἀγάθ’, ὦ γύναι·</l>
 					<l n="380">ἃ δ’ ἂν διδῶσ’ ἑκόντες, ὠφελούμεθα.</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>πολλαί γε πολλοῖς εἰσι συμφοραὶ βροτῶν,</l>
 					<l>μορφαὶ δὲ διαφέρουσιν· ἓν δ’ ἂν εὐτυχὲς</l>
 					<l>μόλις ποτ’ ἐξεύροι τις ἀνθρώπων βίῳ.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>ὦ Φοῖβε, κἀκεῖ κἀνθάδ’ οὐ δίκαιος εἶ</l>
 					<l n="385">ἐς τὴν ἀποῦσαν, ἧς πάρεισιν οἱ λόγοι·</l>
@@ -1036,31 +1036,31 @@ bring up to P3
 					<l n="400">μισούμεθ’· οὕτω δυστυχεῖς πεφύκαμεν.</l>
 					<milestone ed="p" n="401" unit="card"/>
 				</sp>
-				<sp who="#ksoythos">
+				<sp who="#xouthos">
 					<speaker>Ξοῦθος</speaker>
 					<l>πρῶτον μὲν ὁ θεὸς τῶν ἐμῶν προσφθεγμάτων</l>
 					<l>λαβὼν ἀπαρχὰς χαιρέτω, σύ τ’, ὦ γύναι.</l>
 					<l>μῶν χρόνιος ἐλθών σ’ ἐξέπληξ’ ὀρρωδίᾳ;</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>οὐδέν γ’· ἀφίκου δ’ ἐς μέριμναν. ἀλλά μοι</l>
 					<l n="405">λέξον, τί θέσπισμ’ ἐκ Τροφωνίου φέρεις,</l>
 					<l>παίδων ὅπως νῷν σπέρμα συγκραθήσεται;</l>
 				</sp>
-				<sp who="#ksoythos">
+				<sp who="#xouthos">
 					<speaker>Ξοῦθος</speaker>
 					<l>οὐκ ἠξίωσε τοῦ θεοῦ προλαμβάνειν</l>
 					<l>μαντεύμαθ’· ἓν δ’ οὖν εἶπεν· οὐκ ἄπαιδά με</l>
 					<l>πρὸς οἶκον ἥξειν οὐδὲ σὲ ἐκ χρηστηρίων.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l n="410">ὦ πότνια Φοίβου μῆτερ, εἰ γὰρ αἰσίως</l>
 					<l>ἔλθοιμεν, ἅ τε νῷν συμβόλαια πρόσθεν ἦν</l>
 					<l>ἐς παῖδα τὸν σόν, μεταπέσοι βελτίονα.</l>
 				</sp>
-				<sp who="#ksoythos">
+				<sp who="#xouthos">
 					<speaker>Ξοῦθος</speaker>
 					<l>ἔσται τάδ’· ἀλλὰ τίς προφητεύει θεοῦ;</l>
 				</sp>
@@ -1070,7 +1070,7 @@ bring up to P3
 					<l n="415">οἳ πλησίον θάσσουσι τρίποδος, ὦ ξένε,</l>
 					<l>Δελφῶν ἀριστῆς, οὓς ἐκλήρωσεν πάλος.</l>
 				</sp>
-				<sp who="#ksoythos">
+				<sp who="#xouthos">
 					<speaker>Ξοῦθος</speaker>
 					<l>καλῶς· ἔχω δὴ πάνθ’ ὅσων ἐχρῄζομεν.</l>
 					<l>στείχοιμ’ ἂν εἴσω· καὶ γάρ, ὡς ἐγὼ κλύω,</l>
@@ -1081,7 +1081,7 @@ bring up to P3
 					<l>λαβοῦσα κλῶνας, εὐτέκνους εὔχου θεοῖς</l>
 					<l>χρησμούς μ’ ἐνεγκεῖν ἐξ Ἀπόλλωνος δόμων.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l n="425">ἔσται τάδ’, ἔσται. Λοξίας δ’ ἐὰν θέλῃ</l>
 					<l>νῦν ἀλλὰ τὰς πρὶν ἀναλαβεῖν ἁμαρτίας,</l>
@@ -1118,7 +1118,7 @@ bring up to P3
 			</div1>
 			<div1 type="choral">
 				<div2 n="1" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>σὲ τὰν ὠδίνων λοχιᾶν</l>
 						<l>ἀνειλείθυιαν, ἐμὰν</l>
@@ -1144,7 +1144,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ὑπερβαλλούσας γὰρ ἔχει</l>
 						<l>θνατοῖς εὐδαιμονίας</l>
@@ -1170,7 +1170,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="epode">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ὦ Πανὸς θακήματα καὶ</l>
 						<l>παραυλίζουσα πέτρα</l>
@@ -1203,13 +1203,13 @@ bring up to P3
 						<l>ἐκλέλοιπ’ ἤδη τὸν ἱερὸν τρίποδα καὶ χρηστήριον</l>
 						<l>Ξοῦθος, ἢ μίμνει κατ’ οἶκον ἱστορῶν ἀπαιδίαν;</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἐν δόμοις ἔστ’, ὦ ξέν’· οὔπω δῶμ’ ὑπερβαίνει τόδε.</l>
 						<l n="515">ὡς δ’ ἐπ’ ἐξόδοισιν ὄντος, τῶνδ’ ἀκούομεν πυλῶν</l>
 						<l>δοῦπον, ἐξιόντα τ’ ἤδη δεσπότην ὁρᾶν πάρα.</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l>ὦ τέκνον, χαῖρ’· ἡ γὰρ ἀρχὴ τοῦ λόγου πρέπουσά μοι.</l>
 					</sp>
@@ -1217,7 +1217,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>χαίρομεν· σὺ δ’ εὖ φρόνει γε, καὶ δύ’ ὄντ’ εὖ πράξομεν.</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l>δὸς χερὸς φίλημά μοι σῆς σώματός τ’ ἀμφιπτυχάς.</l>
 					</sp>
@@ -1225,7 +1225,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l n="520">εὖ φρονεῖς μέν; ἤ σ’ ἔμηνε θεοῦ τις, ὦ ξένε, βλάβη;</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l>σωφρονῶ· τὰ φίλταθ’ εὑρὼν οὐ φυγεῖν ἐφίεμαι.</l>
 					</sp>
@@ -1233,7 +1233,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>παῦε, μὴ ψαύσας τὰ τοῦ θεοῦ στέμματα ῥήξῃς χερί.</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l>ἅψομαι· κοὐ ῥυσιάζω, τἀμὰ δ’ εὑρίσκω φίλα.</l>
 					</sp>
@@ -1241,7 +1241,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>οὐκ ἀπαλλάξῃ, πρὶν εἴσω τόξα πλευμόνων λαβεῖν;</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l n="525">ὡς τί δὴ φεύγεις με; σαυτοῦ γνωρίσας τὰ φίλτατα — </l>
 					</sp>
@@ -1249,7 +1249,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>οὐ φιλῶ φρενοῦν ἀμούσους καὶ μεμηνότας ξένους.</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l>κτεῖνε καὶ πίμπρη· πατρὸς γάρ, ἢν κτάνῃς, ἔσῃ φονεύς.</l>
 					</sp>
@@ -1257,7 +1257,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>ποῦ δέ μοι πατὴρ σύ; ταῦτ’ οὖν οὐ γέλως κλύειν ἐμοῦ;</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l>οὔ· τρέχων ὁ μῦθος ἄν σοι τἀμὰ σημήνειεν ἄν.</l>
 					</sp>
@@ -1265,7 +1265,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l n="530">καὶ τί μοι λέξεις;</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">πατὴρ σός εἰμι καὶ σὺ παῖς ἐμός.</l>
 					</sp>
@@ -1273,7 +1273,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>τίς λέγει τάδε;</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">ὅς σ’ ἔθρεψεν ὄντα Λοξίας ἐμόν.</l>
 					</sp>
@@ -1281,7 +1281,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>μαρτυρεῖς σαυτῷ.</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">τὰ τοῦ θεοῦ γ’ ἐκμαθὼν χρηστήρια.</l>
 					</sp>
@@ -1289,7 +1289,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>ἐσφάλης αἴνιγμ’ ἀκούσας.</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">οὐκ ἄρ’ ὄρθ’ ἀκούομεν.</l>
 					</sp>
@@ -1297,7 +1297,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>ὁ δὲ λόγος τίς ἐστι Φοίβου;</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">τὸν συναντήσαντά μοι — </l>
 					</sp>
@@ -1305,7 +1305,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l n="535">τίνα συνάντησιν;</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">δόμων τῶνδ’ ἐξιόντι τοῦ θεοῦ</l>
 					</sp>
@@ -1313,7 +1313,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>συμφορᾶς τίνος κυρῆσαι;</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">παῖδ’ ἐμὸν πεφυκέναι.</l>
 					</sp>
@@ -1321,7 +1321,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>σὸν γεγῶτ’, ἢ δῶρον ἄλλως;</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">δῶρον, ὄντα δ’ ἐξ ἐμοῦ.</l>
 					</sp>
@@ -1329,7 +1329,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>πρῶτα δῆτ’ ἐμοὶ ξυνάπτεις πόδα σόν;</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">οὐκ ἄλλῳ, τέκνον.</l>
 					</sp>
@@ -1337,7 +1337,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>ἡ τύχη πόθεν ποθ’ ἥκει;</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">δύο μίαν θαυμάζομεν.</l>
 					</sp>
@@ -1345,7 +1345,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l n="540">ἔα. τίνος δέ σοι πέφυκα μητρός;</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">οὐκ ἔχω φράσαι.</l>
 					</sp>
@@ -1353,7 +1353,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>οὐδὲ Φοῖβος εἶπε;</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">τερφθεὶς τοῦτο, κεῖν’ οὐκ ἠρόμην.</l>
 					</sp>
@@ -1361,7 +1361,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>γῆς ἄρ’ ἐκπέφυκα μητρός.</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">οὐ πέδον τίκτει τέκνα.</l>
 					</sp>
@@ -1369,7 +1369,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>πῶς ἂν οὖν εἴην σός;</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">οὐκ οἶδ’, ἀναφέρω δ’ ἐς τὸν θεόν.</l>
 						<milestone ed="p" n="544" unit="card"/>
@@ -1378,7 +1378,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>φέρε λόγων ἁψώμεθ’ ἄλλων.</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">ταῦτ’ ἀμείνον’, ὦ τέκνον.</l>
 					</sp>
@@ -1386,7 +1386,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l n="545">ἦλθες ἐς νόθον τι λέκτρον;</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">μωρίᾳ γε τοῦ νέου.</l>
 					</sp>
@@ -1394,7 +1394,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>πρὶν κόρην λαβεῖν Ἐρεχθέως;</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">οὐ γὰρ ὕστερόν γέ πω.</l>
 					</sp>
@@ -1402,7 +1402,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>ἆρα δῆτ’ ἐκεῖ μ’ ἔφυσας;</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">τῷ χρόνῳ γε συντρέχει.</l>
 					</sp>
@@ -1410,7 +1410,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>κᾆτα πῶς ἀφικόμεσθα δεῦρο — </l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">ταῦτ’ ἀμηχανῶ.</l>
 					</sp>
@@ -1418,7 +1418,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>διὰ μακρᾶς ἐλθὼν κελεύθου;</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">τοῦτο κἄμ’ ἀπαιολεῖ.</l>
 					</sp>
@@ -1426,7 +1426,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l n="550">Πυθίαν δ’ ἦλθες πέτραν πρίν;</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">ἐς φανάς γε Βακχίου.</l>
 					</sp>
@@ -1434,7 +1434,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>προξένων δ’ ἔν του κατέσχες;</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">ὅς με Δελφίσιν κόραις . . .</l>
 					</sp>
@@ -1442,7 +1442,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>ἐθιάσευσ’, ἢ πῶς τάδ’ αὐδᾷς;</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">Μαινάσιν γε Βακχίου.</l>
 					</sp>
@@ -1450,7 +1450,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>ἔμφρον’ ἢ κάτοινον ὄντα;</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">Βακχίου πρὸς ἡδοναῖς.</l>
 					</sp>
@@ -1458,7 +1458,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>τοῦτ’ ἐκεῖν’ ἵν’ ἐσπάρημεν.</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">ὁ πότμος ἐξηῦρεν, τέκνον.</l>
 					</sp>
@@ -1466,7 +1466,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l n="555">πῶς δ’ ἀφικόμεσθα ναούς;</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">ἔκβολον κόρης ἴσως.</l>
 					</sp>
@@ -1474,7 +1474,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>ἐκπεφεύγαμεν τὸ δοῦλον.</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">πατέρα νυν δέχου, τέκνον.</l>
 					</sp>
@@ -1482,7 +1482,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>τῷ θεῷ γοῦν οὐκ ἀπιστεῖν εἰκός.</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">εὖ φρονεῖς ἄρα.</l>
 					</sp>
@@ -1490,7 +1490,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>καὶ τί βουλόμεσθά γ’ ἄλλο — </l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">νῦν ὁρᾷς ἃ χρή σ’ ὁρᾶν.</l>
 					</sp>
@@ -1498,7 +1498,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>ἢ Διὸς παιδὸς γενέσθαι παῖς;</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">ὃ σοί γε γίγνεται.</l>
 					</sp>
@@ -1506,7 +1506,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l n="560">ἦ θίγω δῆθ’ οἵ μ’ ἔφυσαν;</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">πιθόμενός γε τῷ θεῷ.</l>
 					</sp>
@@ -1514,7 +1514,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>χαῖρέ μοι, πάτερ — </l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">φίλον γε φθέγμ’ ἐδεξάμην τόδε.</l>
 					</sp>
@@ -1522,7 +1522,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>ἡμέρα θ’ ἡ νῦν παροῦσα.</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l part="Y">μακάριόν γ’ ἔθηκέ με.</l>
 					</sp>
@@ -1535,13 +1535,13 @@ bring up to P3
 					<milestone ed="p" n="566" unit="card"/>
 				</div2>
 				<div2 type="iambic">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>κοιναὶ μὲν ἡμῖν δωμάτων εὐπραξίαι·</l>
 						<l>ὅμως δὲ καὶ δέσποιναν ἐς τέκν’ εὐτυχεῖν</l>
 						<l>ἐβουλόμην ἂν τούς τ’ Ἐρεχθέως δόμους.</l>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l>ὦ τέκνον, ἐς μὲν σὴν ἀνεύρεσιν θεὸς</l>
 						<l n="570">ὀρθῶς ἔκρανε, καὶ συνῆψ’ ἐμοί τε σέ,</l>
@@ -1636,13 +1636,13 @@ bring up to P3
 						<l>ἔα δ’ ἔμ’ αὐτοῦ ζῆν· ἴση γὰρ ἡ χάρις,</l>
 						<l>μεγάλοισι χαίρειν σμικρά θ’ ἡδέως ἔχειν.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>καλῶς ἔλεξας, εἴπερ οὓς ἐγὼ φιλῶ</l>
 						<l>ἐν τοῖσι σοῖσιν εὐτυχήσουσιν φίλοις.</l>
 						<milestone ed="p" n="650" unit="card"/>
 					</sp>
-					<sp who="#ksoythos">
+					<sp who="#xouthos">
 						<speaker>Ξοῦθος</speaker>
 						<l n="650">παῦσαι λόγων τῶνδ’, εὐτυχεῖν δ’ ἐπίστασο·</l>
 						<l>θέλω γὰρ οὗπέρ σ’ ηὗρον ἄρξασθαι, τέκνον,</l>
@@ -1681,7 +1681,7 @@ bring up to P3
 				 
 
 				<div2 n="1" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ὁρῶ δάκρυα καὶ πενθίμους</l>
 						<l>&lt;ἀλαλαγὰς&gt; στεναγμάτων τ’ ἐσβολάς,</l>
@@ -1704,7 +1704,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="695"> — φίλαι, πότερ’ ἐμᾷ δεσποίνᾳ</l>
 						<l>τάδε τορῶς ἐς οὖς γεγωνήσομεν;</l>
@@ -1727,7 +1727,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="epode">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἰὼ δειράδες Παρνασοῦ πέτρας</l>
 						<l n="715">ἔχουσαι σκόπελον οὐράνιόν θ’ ἕδραν,</l>
@@ -1747,7 +1747,7 @@ bring up to P3
 				</div2>
 			</div1>
 			<div1 type="episode">
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l n="725">ὦ πρέσβυ παιδαγώγ’ Ἐρεχθέως πατρὸς</l>
 					<l>τοὐμοῦ ποτ’ ὄντος, ἡνίκ’ ἦν ἔτ’ ἐν φάει,</l>
@@ -1769,7 +1769,7 @@ bring up to P3
 					<l>αἰπεινά τοι μαντεῖα· τοῦ γήρως δέ μοι</l>
 					<l n="740">συνεκπονοῦσα κῶλον ἰατρὸς γενοῦ.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>ἕπου νυν· ἴχνος δ’ ἐκφύλασσ’ ὅπου τίθης.</l>
 				</sp>
@@ -1778,7 +1778,7 @@ bring up to P3
 					<l>ἰδού.</l>
 					<l>τὸ τοῦ ποδὸς μὲν βραδύ, τὸ τοῦ δὲ νοῦ ταχύ.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>βάκτρῳ δ’ ἐρείδου περιφερῆ στίβον χθονός.</l>
 				</sp>
@@ -1786,7 +1786,7 @@ bring up to P3
 					<speaker>Πρεσβύτης</speaker>
 					<l>καὶ τοῦτο τυφλόν, ὅταν ἐγὼ βλέπω βραχύ.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l n="745">ὀρθῶς ἔλεξας· ἀλλὰ μὴ παρῇς κόπῳ.</l>
 				</sp>
@@ -1794,7 +1794,7 @@ bring up to P3
 					<speaker>Πρεσβύτης</speaker>
 					<l>οὔκουν ἑκών γε· τοῦ δ’ ἀπόντος οὐ κρατῶ.</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>γυναῖκες, ἱστῶν τῶν ἐμῶν καὶ κερκίδος</l>
 					<l>δούλευμα πιστόν, τίνα τύχην λαβὼν πόσις</l>
@@ -1803,7 +1803,7 @@ bring up to P3
 					<l>οὐκ εἰς ἀπίστους δεσπότας βαλεῖς χάριν.</l>
 				</sp>
 				<!--  the two interjections were marked as "lyric" -->
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>ἰὼ δαῖμον.</l>
 				</sp>
@@ -1811,7 +1811,7 @@ bring up to P3
 					<speaker>Πρεσβύτης</speaker>
 					<l>τὸ φροίμιον μὲν τῶν λόγων οὐκ εὐτυχές.</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>ἰὼ τλᾶμον.</l>
 				</sp>
@@ -1819,30 +1819,30 @@ bring up to P3
 					<speaker>Πρεσβύτης</speaker>
 					<l n="755">ἀλλ’ ἦ τι θεσφάτοισι δεσποτῶν νοσῶ;</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>εἶἑν· τί δρῶμεν; θάνατος ὧν κεῖται πέρι . . .</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>τίς ἥδε μοῦσα, χὡ φόβος τίνων πέρι;</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>εἴπωμεν ἢ σιγῶμεν; ἢ τί δράσομεν;</l>
 				</sp>
-				<sp who="#kreoysa">
+				<sp who="#kreousa">
 					<speaker>Κρέουσα</speaker>
 					<l>εἴφ’· ὡς ἔχεις γε συμφοράν τιν’ εἰς ἐμέ.</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l n="760">εἰρήσεταί τοι, κεἰ θανεῖν μέλλω διπλῇ.</l>
 					<l>οὐκ ἔστι σοι, δέσποιν’, ἐπ’ ἀγκάλαις λαβεῖν</l>
 					<l>τέκν’, οὐδὲ μαστῷ σῷ προσαρμόσαι ποτέ.</l>
 				</sp>
 				<div2 type="lyric">
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ὤμοι, θάνοιμι.</l>
 					</sp>
@@ -1850,7 +1850,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>θύγατερ.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l part="Y">ὦ τάλαιν’</l>
 						<l>ἐγὼ συμφορᾶς, ἔλαβον ἔπαθον ἄχος</l>
@@ -1861,7 +1861,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>τέκνον.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l part="Y">αἰαῖ αἰαῖ·</l>
 						<l n="767">διανταῖος ἔτυπεν ὀδύνα με πλευ‐</l>
@@ -1871,7 +1871,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>μήπω στενάξῃς — </l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l part="Y">ἀλλὰ πάρεισι γόοι.</l>
 					</sp>
@@ -1879,7 +1879,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l n="770">πρὶν ἂν μάθωμεν — </l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l part="Y">ἀγγελίαν τίνα μοι;</l>
 					</sp>
@@ -1891,12 +1891,12 @@ bring up to P3
 						<l>κοινωνός ἐστιν, ἢ μόνη σὺ δυστυχεῖς.</l>
 						<milestone ed="p" n="774" unit="card"/>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>κείνῳ μέν, ὦ γεραιέ, παῖδα Λοξίας</l>
 						<l n="775">ἔδωκεν, ἰδίᾳ δ’ εὐτυχεῖ ταύτης δίχα.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>τόδ’ ἐπὶ τῷδε κακὸν ἄκρον ἔλακες</l>
 						<l>ἄχος ἐμοὶ στένειν.</l>
@@ -1906,13 +1906,13 @@ bring up to P3
 						<l>πότερα δὲ φῦναι δεῖ γυναικὸς ἔκ τινος</l>
 						<l>τὸν παῖδ’ ὃν εἶπας, ἢ γεγῶτ’ ἐθέσπισεν;</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="780">ἤδη πεφυκότ’ ἐκτελῆ νεανίαν</l>
 						<l>δίδωσιν αὐτῷ Λοξίας· παρῆ δ’ ἐγώ.</l>
 					</sp>
 					<!-- lyrics? -->
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>πῶς φῄς; ἄφατον ἄφατον ἀναύδητον</l>
 						<l>λόγον ἐμοὶ θροεῖς.</l>
@@ -1922,13 +1922,13 @@ bring up to P3
 						<l n="785">κἄμοιγε. πῶς δ’ ὁ χρησμὸς ἐκπεραίνεται,</l>
 						<l>σαφέστερόν μοι φράζε, χὥστις ἔσθ’ ὁ παῖς.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ὅτῳ ξυναντήσειεν ἐκ θεοῦ συθεὶς</l>
 						<l>πρώτῳ πόσις σός, παῖδ’ ἔδωκ’ αὐτῷ θεός.</l>
 					</sp>
 					<!-- marked lyric -->
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ὀττοτοττοτοῖ· τὸν δ’ ἐμὸν ἄτεκνον ἄτεκνον ἔλακεν</l>
 						<l n="790">ἄρα βίοτον; ἐρημίᾳ δ’ ὀρφανοὺς</l>
@@ -1939,13 +1939,13 @@ bring up to P3
 						<l>τίς οὖν ἐχρήσθη; τῷ συνῆψ’ ἴχνος ποδὸς</l>
 						<l>πόσις ταλαίνης; πῶς δὲ ποῦ νιν εἰσιδών;</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>οἶσθ’, ὦ φίλη δέσποινα, τὸν νεανίαν</l>
 						<l n="795">ὃς τόνδ’ ἔσαιρε ναόν; οὗτος ἔσθ’ ὁ παῖς.</l>
 					</sp>
 					<!-- marked lyric -->
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ἀν’ ὑγρὸν ἀμπταίην αἰθέρα πόρσω γαί‐</l>
 						<l>ας Ἑλλανίας, ἀστέρας ἑσπέρους,</l>
@@ -1956,7 +1956,7 @@ bring up to P3
 						<l n="800">ὄνομα δὲ ποῖον αὐτὸν ὀνομάζει πατήρ;</l>
 						<l>οἶσθ’, ἢ σιωπῇ τοῦτ’ ἀκύρωτον μένει;</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>Ἴων’, ἐπείπερ πρῶτος ἤντησεν πατρί.</l>
 					</sp>
@@ -1964,7 +1964,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>μητρὸς δ’ ὁποίας ἐστὶν — </l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l part="Y">οὐκ ἔχω φράσαι.</l>
 						<l>φροῦδος δ’ — ἵν’ εἰδῇς πάντα τἀπ’ ἐμοῦ, γέρον — </l>
@@ -2000,7 +2000,7 @@ bring up to P3
 						<l n="830">καινὸν δὲ τοὔνομ’ ἀνὰ χρόνον πεπλασμένον</l>
 						<l>Ἴων, ἰόντι δῆθεν ὅτι συνήντετο.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>οἴμοι, κακούργους ἄνδρας ὡς αἰεὶ στυγῶ,</l>
 						<l>οἳ συντιθέντες τἄδικ’ εἶτα μηχαναῖς</l>
@@ -2032,7 +2032,7 @@ bring up to P3
 						<l n="855">τοὔνομα· τὰ δ’ ἄλλα πάντα τῶν ἐλευθέρων</l>
 						<l>οὐδὲν κακίων δοῦλος, ὅστις ἐσθλὸς ᾖ.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>κἀγώ, φίλη δέσποινα, συμφορὰν θέλω</l>
 						<l>κοινουμένη τήνδ’ ἢ θανεῖν ἢ ζῆν καλῶς.</l>
@@ -2040,7 +2040,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="lyric">
-					<sp n="Κρέουσα" who="#kreoysa">
+					<sp n="Κρέουσα" who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ὦ ψυχά, πῶς σιγάσω;</l>
 						<l n="860">πῶς δὲ σκοτίας ἀναφήνω</l>
@@ -2111,7 +2111,7 @@ bring up to P3
 						<l>Λατὼ Δίοισί σε καρποῖς.</l>
 					</sp>
 					<milestone ed="p" n="923" unit="card"/>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>οἴμοι, μέγας θησαυρὸς ὡς ἀνοίγνυται</l>
 						<l>κακῶν, ἐφ’ οἷσι πᾶς ἂν ἐκβάλοι δάκρυ.</l>
@@ -2128,7 +2128,7 @@ bring up to P3
 						<l>ποῖον τεκεῖν φὴ|ς παῖδα; ποῦ θεῖναι πόλεως</l>
 						<l>θηρσὶν φίλον τύμβευμ’; ἄνελθέ μοι πάλιν.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>αἰσχύνομαι μέν σ’, ὦ γέρον, λέξω δ’ ὅμως.</l>
 					</sp>
@@ -2136,7 +2136,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l n="935">ὡς συστενάζειν γ’ οἶδα γενναίως φίλοις.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ἄκουε τοίνυν· οἶσθα Κεκροπίας πέτρας</l>
 						<l>πρόσβορρον ἄντρον, ἃς Μακρὰς κικλήσκομεν;</l>
@@ -2145,7 +2145,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>οἶδ’, ἔνθα Πανὸς ἄδυτα καὶ βωμοὶ πέλας.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ἐνταῦθ’ ἀγῶνα δεινὸν ἠγωνίσμεθα.</l>
 					</sp>
@@ -2153,7 +2153,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l n="940">τίν’; ὡς ἀπαντᾷ δάκρυά μοι τοῖς σοῖς λόγοις.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>Φοίβῳ ξυνῆψ’ ἄκουσα δύστηνον γάμον.</l>
 					</sp>
@@ -2161,7 +2161,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>ὦ θύγατερ, ἆρ’ ἦν ταῦθ’ ἅ γ’ ᾐσθόμην ἐγώ;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>οὐκ οἶδ’· ἀληθῆ δ’ εἰ λέγεις φαίημεν ἄν.</l>
 					</sp>
@@ -2169,7 +2169,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>νόσον κρυφαίαν ἡνίκ’ ἔστενες λάθρα;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l n="945">τότ’ ἦν ἃ νῦν σοι φανερὰ σημαίνω κακά.</l>
 					</sp>
@@ -2177,7 +2177,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>κᾆτ’ ἐξέκλεψας πῶς Ἀπόλλωνος γάμους;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ἔτεκον — ἀνάσχου ταῦτ’ ἐμοῦ κλύων, γέρον.</l>
 					</sp>
@@ -2185,7 +2185,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>ποῦ; τίς λοχεύει σ’; ἢ μόνη μοχθεῖς τάδε;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>μόνη κατ’ ἄντρον οὗπερ ἐζεύχθην γάμοις.</l>
 					</sp>
@@ -2193,7 +2193,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l n="950">ὁ παῖς δὲ ποῦ ’στιν; ἵνα σὺ μηκέτ’ ᾖς ἄπαις.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>τέθνηκεν, ὦ γεραιέ, θηρσὶν ἐκτεθείς.</l>
 					</sp>
@@ -2201,7 +2201,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>τέθνηκ’; Ἀπόλλων δ’ ὁ κακὸς οὐδὲν ἤρκεσεν;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>οὐκ ἤρκεσ’· Ἅιδου δ’ ἐν δόμοις παιδεύεται.</l>
 					</sp>
@@ -2209,7 +2209,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>τίς γάρ νιν ἐξέθηκεν; οὐ γὰρ δὴ σύ γε.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l n="955">ἡμεῖς, ἐν ὄρφνῃ σπαργανώσαντες πέπλοις.</l>
 					</sp>
@@ -2217,7 +2217,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>οὐδὲ ξυνῄδει σοί τις ἔκθεσιν τέκνου;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>αἱ ξυμφοραί γε καὶ τὸ λανθάνειν μόνον.</l>
 					</sp>
@@ -2225,7 +2225,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>καὶ πῶς ἐν ἄντρῳ παῖδα σὸν λιπεῖν ἔτλης;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>πῶς δ’ οἰκτρὰ πολλὰ στόματος ἐκβαλοῦσ’ ἔπη — </l>
 					</sp>
@@ -2234,7 +2234,7 @@ bring up to P3
 						<l n="960">φεῦ·</l>
 						<l>τλήμων σὺ τόλμης, ὁ δὲ θεὸς μᾶλλον σέθεν.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>εἰ παῖδά γ’ εἶδες χεῖρας ἐκτείνοντά μοι.</l>
 					</sp>
@@ -2242,7 +2242,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>μαστὸν διώκοντ’ ἦ πρὸς ἀγκάλαις πεσεῖν;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ἐνταῦθ’, ἵν’ οὐκ ὢν ἄδικ’ ἔπασχεν ἐξ ἐμοῦ.</l>
 					</sp>
@@ -2250,7 +2250,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>σοὶ δ’ ἐς τί δόξ’ ἐσῆλθεν ἐκβαλεῖν τέκνον;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l n="965">ὡς τὸν θεὸν σῴζοντα τόν γ’ αὑτοῦ γόνον.</l>
 						<milestone ed="p" n="966" unit="card"/>
@@ -2259,7 +2259,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>οἴμοι, δόμων σῶν ὄλβος ὡς χειμάζεται.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>τί κρᾶτα κρύψας, ὦ γέρον, δακρυρροεῖς;</l>
 					</sp>
@@ -2267,7 +2267,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>σὲ καὶ πατέρα σὸν δυστυχοῦντας εἰσορῶ.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>τὰ θνητὰ τοιαῦτ’· οὐδὲν ἐν ταὐτῷ μένει.</l>
 					</sp>
@@ -2275,7 +2275,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l n="970">μή νυν ἔτ’ οἴκτων, θύγατερ, ἀντεχώμεθα.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>τί γάρ με χρὴ δρᾶν; ἀπορία τὸ δυστυχεῖν.</l>
 					</sp>
@@ -2283,7 +2283,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>τὸν πρῶτον ἀδικήσαντά σ’ ἀποτίνου θεόν.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>καὶ πῶς τὰ κρείσσω θνητὸς οὖσ’ ὑπερδράμω;</l>
 					</sp>
@@ -2291,7 +2291,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>πίμπρη τὰ σεμνὰ Λοξίου χρηστήρια.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l n="975">δέδοικα· καὶ νῦν πημάτων ἄδην ἔχω.</l>
 					</sp>
@@ -2299,7 +2299,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>τὰ δυνατά νυν τόλμησον, ἄνδρα σὸν κτανεῖν.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>αἰδούμεθ’ εὐνὰς τὰς τόθ’ ἡνίκ’ ἐσθλὸς ἦν.</l>
 					</sp>
@@ -2307,7 +2307,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>νῦν δ’ ἀλλὰ παῖδα τὸν ἐπὶ σοὶ πεφηνότα.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>πῶς; εἰ γὰρ εἴη δυνατόν· ὡς θέλοιμί γ’ ἄν.</l>
 					</sp>
@@ -2315,7 +2315,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l n="980">ξιφηφόρους σοὺς ὁπλίσασ’ ὀπάονας.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>στείχοιμ’ ἄν· ἀλλὰ ποῦ γενήσεται τόδε;</l>
 					</sp>
@@ -2323,7 +2323,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>ἱεραῖσιν ἐν σκηναῖσιν, οὗ θοινᾷ φίλους.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ἐπίσημον ὁ φόνος, καὶ τὸ δοῦλον ἀσθενές.</l>
 					</sp>
@@ -2331,7 +2331,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>ὤμοι, κακίζῃ· φέρε, σὺ νῦν βούλευέ τι.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l n="985">καὶ μὴν ἔχω γε δόλια καὶ δραστήρια.</l>
 					</sp>
@@ -2339,7 +2339,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>ἀμφοῖν ἂν εἴην τοῖνδ’ ὑπηρέτης ἐγώ.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ἄκουε τοίνυν· οἶσθα γηγενῆ μάχην;</l>
 					</sp>
@@ -2347,7 +2347,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>οἶδ’, ἣν Φλέγρᾳ Γίγαντες ἔστησαν θεοῖς.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ἐνταῦθα Γοργόν’ ἔτεκε Γῆ, δεινὸν τέρας.</l>
 					</sp>
@@ -2355,7 +2355,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l n="990">ἦ παισὶν αὑτῆς σύμμαχον, θεῶν πόνον;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ναί· καί νιν ἔκτειν’ ἡ Διὸς Παλλὰς θεά.</l>
 					</sp>
@@ -2363,7 +2363,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>[ποῖόν τι μορφῆς σχῆμ’ ἔχουσαν ἀγρίας;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>θώρακ’ ἐχίδνης περιβόλοις ὡπλισμένον.]</l>
 					</sp>
@@ -2371,7 +2371,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>ἆρ’ οὗτός ἐσθ’ ὁ μῦθος ὃν κλύω πάλαι;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l n="995">ταύτης Ἀθάναν δέρος ἐπὶ στέρνοις ἔχειν.</l>
 					</sp>
@@ -2379,7 +2379,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>ἣν αἰγίδ’ ὀνομάζουσι, Παλλάδος στολήν;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>τόδ’ ἔσχεν ὄνομα θεῶν ὅτ’ ᾖξεν ἐς δόρυ.</l>
 						<milestone ed="p" n="998" unit="card"/>
@@ -2388,7 +2388,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>τί δῆτα, θύγατερ, τοῦτο σοῖς ἐχθροῖς βλάβος;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>Ἐριχθόνιον οἶσθ’, ἢ — ; τί δ’ οὐ μέλλεις, γέρον;</l>
 					</sp>
@@ -2396,7 +2396,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l n="1000">ὃν πρῶτον ὑμῶν πρόγονον ἐξανῆκε γῆ;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>τούτῳ δίδωσι Παλλὰς ὄντι νεογόνῳ — </l>
 					</sp>
@@ -2404,7 +2404,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>τί χρῆμα; μέλλον γάρ τι προσφέρεις ἔπος.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>δισσοὺς σταλαγμοὺς αἵματος Γοργοῦς ἄπο.</l>
 					</sp>
@@ -2412,7 +2412,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>ἰσχὺν ἔχοντας τίνα πρὸς ἀνθρώπου φύσιν;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l n="1005">τὸν μὲν θανάσιμον, τὸν δ’ ἀκεσφόρον νόσων.</l>
 					</sp>
@@ -2420,7 +2420,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>ἐν τῷ καθάψασ’ ἀμφὶ παιδὶ σώματος;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>χρυσοῖσι δεσμοῖς· ὁ δὲ δίδωσ’ ἐμῷ πατρί.</l>
 					</sp>
@@ -2428,7 +2428,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>κείνου δὲ κατθανόντος ἐς σὲ ἀφίκετο;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ναί· κἀπὶ καρπῷ γ’ αὔτ’ ἐγὼ χερὸς φέρω.</l>
 					</sp>
@@ -2436,7 +2436,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l n="1010">πῶς οὖν κέκρανται δίπτυχον δῶρον θεᾶς;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>κοίλης μὲν ὅστις φλεβὸς ἀπέσταξεν φόνῳ — </l>
 					</sp>
@@ -2444,7 +2444,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>τί τῷδε χρῆσθαι; δύνασιν ἐκφέρει τίνα;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>νόσους ἀπείργει καὶ τροφὰς ἔχει βίου.</l>
 					</sp>
@@ -2452,7 +2452,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>ὁ δεύτερος δ’ ἀριθμὸς ὧν λέγεις τί δρᾷ;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l n="1015">κτείνει, δρακόντων ἰὸς ὢν τῶν Γοργόνος.</l>
 					</sp>
@@ -2460,7 +2460,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>ἐς ἓν δὲ κραθέντ’ αὐτὸν ἢ χωρὶς φορεῖς;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>χωρίς· κακῷ γὰρ ἐσθλὸν οὐ συμμείγνυται.</l>
 					</sp>
@@ -2468,7 +2468,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>ὦ φιλτάτη παῖ, πάντ’ ἔχεις ὅσων σε δεῖ.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>τούτῳ θανεῖται παῖς· σὺ δ’ ὁ κτείνων ἔσῃ.</l>
 					</sp>
@@ -2476,7 +2476,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l n="1020">ποῦ καὶ τί δράσας; σὸν λέγειν, τολμᾶν δ’ ἐμόν.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ἐν ταῖς Ἀθήναις, δῶμ’ ὅταν τοὐμὸν μόλῃ.</l>
 					</sp>
@@ -2484,7 +2484,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>οὐκ εὖ τόδ’ εἶπας· καὶ σὺ γὰρ τοὐμὸν ψέγεις.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>πῶς; ἆρ’ ὑπείδου τοῦθ’ ὃ κἄμ’ ἐσέρχεται;</l>
 					</sp>
@@ -2492,7 +2492,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>σὺ παῖδα δόξεις διολέσαι, κεἰ μὴ κτενεῖς.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l n="1025">ὀρθῶς· φθονεῖν γάρ φασι μητρυιὰς τέκνοις.</l>
 					</sp>
@@ -2500,7 +2500,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>αὐτοῦ νυν αὐτὸν κτεῖν’, ἵν’ ἀρνήσῃ φόνους.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>προλάζυμαι γοῦν τῷ χρόνῳ τῆς ἡδονῆς.</l>
 					</sp>
@@ -2508,7 +2508,7 @@ bring up to P3
 						<speaker>Πρεσβύτης</speaker>
 						<l>καὶ σόν γε λήσεις πόσιν ἅ σε σπεύδει λαθεῖν.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>οἶσθ’ οὖν ὃ δρᾶσον; χειρὸς ἐξ ἐμῆς λαβὼν</l>
 						<l n="1030">χρύσωμ’ Ἀθάνας τόδε, παλαιὸν ὄργανον,</l>
@@ -2538,7 +2538,7 @@ bring up to P3
 			</div1>
 			<div1 type="choral">
 				<div2 n="1" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>Εἰνοδία θύγατερ Δάματρος, ἃ τῶν</l>
 						<l>νυκτιπόλων ἐφόδων ἀνάσσεις</l>
@@ -2557,7 +2557,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>εἰ δ’ ἀτελὴς θάνατος σπουδαί τε δεσποί‐</l>
 						<l>νας, ὅ τε καιρὸς ἄπεισι τόλμας,</l>
@@ -2576,7 +2576,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="2" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>αἰσχύνομαι τὸν πολύυ‐</l>
 						<l n="1075">μνον θεόν, εἰ παρὰ καλλιχόροισι παγαῖς</l>
@@ -2598,7 +2598,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="2" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="1090">ὁρᾶθ’ ὅσοι δυσκελάδοι‐</l>
 						<l>σιν κατὰ μοῦσαν ἰόντες ἀείδεθ’ ὕμνοις</l>
@@ -2627,7 +2627,7 @@ bring up to P3
 					<l>δέσποιναν εὕρω; πανταχῇ γὰρ ἄστεως</l>
 					<l>ζητῶν νιν ἐξέπλησα κοὐκ ἔχω λαβεῖν.</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>τί δ’ ἔστιν, ὦ ξύνδουλε; τίς προθυμία</l>
 					<l n="1110">ποδῶν ἔχει σε, καὶ λόγους τίνας φέρεις;</l>
@@ -2637,7 +2637,7 @@ bring up to P3
 					<l>θηρώμεθ’· ἀρχαὶ δ’ ἁπιχώριοι χθονὸς</l>
 					<l>ζητοῦσιν αὐτήν, ὡς θάνῃ πετρουμένη.</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>οἴμοι, τί λέξεις; οὔτι που λελήμμεθα</l>
 					<l>κρυφαῖον ἐς παῖδ’ ἐκπορίζουσαι φόνον;</l>
@@ -2646,7 +2646,7 @@ bring up to P3
 					<speaker>Θεράπων</speaker>
 					<l n="1115">ἔγνως;  — μεθέξεις οὐκ ἐν ὑστάτοις κακοῦ.</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>ὤφθη δὲ πῶς τὰ κρυπτὰ μηχανήματα;</l>
 				</sp>
@@ -2655,7 +2655,7 @@ bring up to P3
 					<l>τὸ μὴ δίκαιον τῆς δίκης ἡσσώμενον</l>
 					<l>ἐξηῦρεν ὁ θεός, οὐ μιανθῆναι θέλων.</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>πῶς; ἀντιάζω σ’ ἱκέτις ἐξειπεῖν τάδε.</l>
 					<l n="1120">πεπυσμέναι γάρ, εἰ θανεῖν ὅμως χρεών,</l>
@@ -2785,7 +2785,7 @@ bring up to P3
 				</sp>
 				<milestone ed="p" n="1229" unit="card"/>
 				<div2 type="lyric">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>οὐκ ἔστ’ οὐκ ἔστιν θανάτου</l>
 						<l n="1230">παρατροπὰ μελέᾳ μοι·</l>
@@ -2806,7 +2806,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="anapests">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>οὐκ ἔστι λαθεῖν, ὅτε μὴ χρῄζων</l>
 						<l n="1245">θεὸς ἐκκλέπτει.</l>
@@ -2818,46 +2818,46 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="trochees">
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l n="1250">πρόσπολοι, διωκόμεσθα θανασίμους ἐπὶ σφαγάς,</l>
 						<l>Πυθίᾳ ψήφῳ κρατηθεῖσ’, ἔκδοτος δὲ γίγνομαι.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἴσμεν, ὦ τάλαινα, τὰς σὰς συμφοράς, ἵν’ εἶ τύχης.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ποῖ φύγω δῆτ’; ἐκ γὰρ οἴκων προύλαβον μόγις πόδα</l>
 						<l>μὴ θανεῖν, κλοπῇ δ’ ἀφῖγμαι διαφυγοῦσα πολεμίους.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="1255">ποῖ δ’ ἂν ἄλλοσ’ ἢ ’πὶ βωμόν;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l part="Y">καὶ τί μοι πλέον τόδε;</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἱκέτιν οὐ θέμις φονεύειν.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l part="Y">τῷ νόμῳ δέ γ’ ὄλλυμαι.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>χειρία γ’ ἁλοῦσα.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l part="Y">καὶ μὴν οἵδ’ ἀγωνισταὶ πικροὶ</l>
 						<l>δεῦρ’ ἐπείγονται ξιφήρεις.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l part="Y">ἵζε νυν πυρᾶς ἔπι.</l>
 						<l>κἂν θάνῃς γὰρ ἐνθάδ’ οὖσα, τοῖς ἀποκτείνασί σε</l>
@@ -2891,7 +2891,7 @@ bring up to P3
 						<l>ὡς οὐ δίκην δώσουσα τῶν εἰργασμένων.</l>
 						<milestone ed="p" n="1282" unit="card"/>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ἀπεννέπω σε μὴ κατακτείνειν ἐμὲ</l>
 						<l>ὑπέρ τ’ ἐμαυτῆς τοῦ θεοῦ θ’ ἵν’ ἕσταμεν.</l>
@@ -2900,7 +2900,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>τί δ’ ἐστὶ Φοίβῳ σοί τε κοινὸν ἐν μέσῳ;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l n="1285">ἱερὸν τὸ σῶμα τῷ θεῷ δίδωμ’ ἔχειν.</l>
 					</sp>
@@ -2908,7 +2908,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>κἄπειτ’ ἔκαινες φαρμάκοις τὸν τοῦ θεοῦ;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ἀλλ’ οὐκέτ’ ἦσθα Λοξίου, πατρὸς δὲ σοῦ.</l>
 					</sp>
@@ -2916,7 +2916,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>ἀλλ’ ἐγενόμεσθα πατρός· οὐσίαν λέγω.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>οὐκοῦν τότ’ ἦσθα· νῦν δ’ ἐγώ, σὺ δ’ οὐκέτι.</l>
 					</sp>
@@ -2924,7 +2924,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l n="1290">οὐκ εὐσεβεῖς γε· τἀμὰ δ’ εὐσεβῆ τότ’ ἦν.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ἔκτεινά σ’ ὄντα πολέμιον δόμοις ἐμοῖς.</l>
 					</sp>
@@ -2932,7 +2932,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>οὔτοι σὺν ὅπλοις ἦλθον ἐς τὴν σὴν χθόνα.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>μάλιστα· κἀπίμπρης γ’ Ἐρεχθέως δόμους.</l>
 					</sp>
@@ -2940,7 +2940,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>ποίοισι πανοῖς ἢ πυρὸς ποίᾳ φλογί;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l n="1295">ἔμελλες οἰκεῖν τἄμ’, ἐμοῦ βίᾳ λαβών.</l>
 					</sp>
@@ -2948,7 +2948,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>πατρός γε γῆν διδόντος ἣν ἐκτήσατο.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>τοῖς Αἰόλου δὲ πῶς μετῆν τῶν Παλλάδος;</l>
 					</sp>
@@ -2956,7 +2956,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>ὅπλοισιν αὐτήν, οὐ λόγοις ἐρρύσατο.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ἐπίκουρος οἰκήτωρ γ’ ἂν οὐκ εἴη χθονός.</l>
 					</sp>
@@ -2964,7 +2964,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l n="1300">κἄπειτα τοῦ μέλλειν μ’ ἀπέκτεινες φόβῳ;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ὡς μὴ θάνοιμί γ’, εἰ σὺ μὴ μέλλων τύχοις.</l>
 					</sp>
@@ -2972,7 +2972,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>φθονεῖς ἄπαις οὖσ’, εἰ πατὴρ ἐξηῦρέ με.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>σὺ τῶν ἀτέκνων δῆτ’ ἀναρπάσεις δόμους;</l>
 					</sp>
@@ -2980,7 +2980,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>ἡμῖν δέ γ’ ἀλλὰ πατρικῆς οὐκ ἦν μέρος;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l n="1305">ὅσ’ ἀσπὶς ἔγχος θ’· ἥδε σοι παμπησία.</l>
 					</sp>
@@ -2988,7 +2988,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>ἔκλειπε βωμὸν καὶ θεηλάτους ἕδρας.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>τὴν σὴν ὅπου σοι μητέρ’ ἐστὶ νουθέτει.</l>
 					</sp>
@@ -2996,7 +2996,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>σὺ δ’ οὐχ ὑφέξεις ζημίαν, κτείνουσ’ ἐμέ;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ἤν γ’ ἐντὸς ἀδύτων τῶνδέ με σφάξαι θέλῃς.</l>
 					</sp>
@@ -3004,7 +3004,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l n="1310">τίς ἡδονή σοι θεοῦ θανεῖν ἐν στέμμασι;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>λυπήσομέν τιν’, ὧν λελυπήμεσθ’ ὕπο.</l>
 					</sp>
@@ -3021,7 +3021,7 @@ bring up to P3
 						<l>τόν τ’ ἐσθλὸν ὄντα τόν τε μὴ θεῶν πάρα.</l>
 						<milestone ed="p" n="1320" unit="card"/>
 					</sp>
-					<sp who="#profetis">
+					<sp who="#prophetis">
 						<speaker>Προφῆτις</speaker>
 						<l n="1320">ἐπίσχες, ὦ παῖ· τρίποδα γὰρ χρηστήριον</l>
 						<l>λιποῦσα θριγκοῦ τοῦδ’ ὑπερβάλλω πόδα</l>
@@ -3032,7 +3032,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>χαῖρ’, ὦ φίλη μοι μῆτερ, οὐ τεκοῦσά περ.</l>
 					</sp>
-					<sp who="#profetis">
+					<sp who="#prophetis">
 						<speaker>Προφῆτις</speaker>
 						<l n="1325">ἀλλ’ οὖν λεγώμεθ’· ἡ φάτις δ’ οὔ μοι πικρά.</l>
 					</sp>
@@ -3040,7 +3040,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>ἤκουσας ὥς μ’ ἔκτεινεν ἥδε μηχαναῖς;</l>
 					</sp>
-					<sp who="#profetis">
+					<sp who="#prophetis">
 						<speaker>Προφῆτις</speaker>
 						<l>ἤκουσα· καὶ σὺ δ’ ὠμὸς ὢν ἁμαρτάνεις.</l>
 					</sp>
@@ -3048,7 +3048,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>οὐ χρή με τοὺς κτείνοντας ἀνταπολλύναι;</l>
 					</sp>
-					<sp who="#profetis">
+					<sp who="#prophetis">
 						<speaker>Προφῆτις</speaker>
 						<l>προγονοῖς δάμαρτες δυσμενεῖς ἀεί ποτε.</l>
 					</sp>
@@ -3056,7 +3056,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l n="1330">ἡμεῖς δὲ μητρυιαῖς γε πάσχοντες κακῶς.</l>
 					</sp>
-					<sp who="#profetis">
+					<sp who="#prophetis">
 						<speaker>Προφῆτις</speaker>
 						<l>μὴ ταῦτα· λείπων ἱερὰ καὶ στείχων πάτραν — </l>
 					</sp>
@@ -3064,7 +3064,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>τί δή με δρᾶσαι νουθετούμενον χρεών;</l>
 					</sp>
-					<sp who="#profetis">
+					<sp who="#prophetis">
 						<speaker>Προφῆτις</speaker>
 						<l>καθαρὸς Ἀθήνας ἔλθ’ ὑπ’ οἰωνῶν καλῶν.</l>
 					</sp>
@@ -3072,7 +3072,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>καθαρὸς ἅπας τοι πολεμίους ὃς ἂν κτάνῃ.</l>
 					</sp>
-					<sp who="#profetis">
+					<sp who="#prophetis">
 						<speaker>Προφῆτις</speaker>
 						<l n="1335">μὴ σύ γε· παρ’ ἡμῶν δ’ ἔκλαβ’ οὓς ἔχω λόγους.</l>
 					</sp>
@@ -3080,7 +3080,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>λέγοις ἄν· εὔνους δ’ οὖσ’ ἐρεῖς ὅσ’ ἂν λέγῃς.</l>
 					</sp>
-					<sp who="#profetis">
+					<sp who="#prophetis">
 						<speaker>Προφῆτις</speaker>
 						<l>ὁρᾷς τόδ’ ἄγγος χερὸς ὑπ’ ἀγκάλαις ἐμαῖς;</l>
 					</sp>
@@ -3088,7 +3088,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>ὁρῶ παλαιὰν ἀντίπηγ’ ἐν στέμμασιν.</l>
 					</sp>
-					<sp who="#profetis">
+					<sp who="#prophetis">
 						<speaker>Προφῆτις</speaker>
 						<l>ἐν τῇδέ σ’ ἔλαβον νεόγονον βρέφος ποτέ.</l>
 					</sp>
@@ -3096,7 +3096,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l n="1340">τί φῄς; ὁ μῦθος εἰσενήνεκται νέος.</l>
 					</sp>
-					<sp who="#profetis">
+					<sp who="#prophetis">
 						<speaker>Προφῆτις</speaker>
 						<l>σιγῇ γὰρ εἶχον αὐτά· νῦν δὲ δείκνυμεν.</l>
 					</sp>
@@ -3104,7 +3104,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>πῶς οὖν ἔκρυπτες τόδε λαβοῦσ’ ἡμᾶς πάλαι;</l>
 					</sp>
-					<sp who="#profetis">
+					<sp who="#prophetis">
 						<speaker>Προφῆτις</speaker>
 						<l>ὁ θεός σ’ ἐβούλετ’ ἐν δόμοις ἔχειν λάτριν.</l>
 					</sp>
@@ -3112,7 +3112,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>νῦν δ’ οὐχὶ χρῄζει; τῷ τόδε γνῶναί με χρή;</l>
 					</sp>
-					<sp who="#profetis">
+					<sp who="#prophetis">
 						<speaker>Προφῆτις</speaker>
 						<l n="1345">πατέρα κατειπὼν τῆσδέ σ’ ἐκπέμπει χθονός.</l>
 					</sp>
@@ -3120,7 +3120,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>σὺ δ’ ἐκ κελευσμῶν ἢ πόθεν σῴζεις τάδε;</l>
 					</sp>
-					<sp who="#profetis">
+					<sp who="#prophetis">
 						<speaker>Προφῆτις</speaker>
 						<l>ἐνθύμιόν μοι τότε τίθησι Λοξίας — </l>
 					</sp>
@@ -3128,7 +3128,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>τί χρῆμα δρᾶσαι; λέγε, πέραινε σοὺς λόγους.</l>
 					</sp>
-					<sp who="#profetis">
+					<sp who="#prophetis">
 						<speaker>Προφῆτις</speaker>
 						<l>σῶσαι τόδ’ εὕρημ’ ἐς τὸν ὄντα νῦν χρόνον.</l>
 					</sp>
@@ -3136,7 +3136,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l n="1350">ἔχει δέ μοι τί κέρδος — ἢ τίνα βλάβην;</l>
 					</sp>
-					<sp who="#profetis">
+					<sp who="#prophetis">
 						<speaker>Προφῆτις</speaker>
 						<l>ἐνθάδε κέκρυπται σπάργαν’ οἷς ἐνῆσθα σύ.</l>
 					</sp>
@@ -3144,7 +3144,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>μητρὸς τάδ’ ἡμῖν ἐκφέρεις ζητήματα;</l>
 					</sp>
-					<sp who="#profetis">
+					<sp who="#prophetis">
 						<speaker>Προφῆτις</speaker>
 						<l>ἐπεί γ’ ὁ δαίμων βούλεται· πάροιθε δ’ οὔ.</l>
 					</sp>
@@ -3152,7 +3152,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>ὦ μακαρίων μοι φασμάτων ἥδ’ ἡμέρα.</l>
 					</sp>
-					<sp who="#profetis">
+					<sp who="#prophetis">
 						<speaker>Προφῆτις</speaker>
 						<l n="1355">λαβών νυν αὐτὰ τὴν τεκοῦσαν ἐκπόνει.</l>
 					</sp>
@@ -3160,7 +3160,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>πᾶσάν γ’ ἐπελθὼν Ἀσιάδ’ Εὐρώπης θ’ ὅρους.</l>
 					</sp>
-					<sp who="#profetis">
+					<sp who="#prophetis">
 						<speaker>Προφῆτις</speaker>
 						<l>γνώσῃ τάδ’ αὐτός. τοῦ θεοῦ δ’ ἕκατί σε</l>
 						<l>ἔθρεψά τ’, ὦ παῖ, καὶ τάδ’ ἀποδίδωμί σοι,</l>
@@ -3209,7 +3209,7 @@ bring up to P3
 						<l>χρόνος πολὺς δὴ τοῖσδε θησαυρίσμασιν.</l>
 						<milestone ed="p" n="1395" unit="card"/>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l n="1395">τί δῆτα φάσμα τῶν ἀνελπίστων ὁρῶ;</l>
 					</sp>
@@ -3217,7 +3217,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>σίγα σύ· πολλὰ καὶ πάροιθεν οἶσθά μοι — </l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>οὐκ ἐν σιωπῇ τἀμά· μή με νουθέτει.</l>
 						<l>ὁρῶ γὰρ ἄγγος οὗ ’ξέθηκ’ ἐγώ ποτε — </l>
@@ -3230,7 +3230,7 @@ bring up to P3
 						<l>λάζυσθε τήνδε· θεομανὴς γὰρ ἥλατο</l>
 						<l>βωμοῦ λιποῦσα ξόανα· δεῖτε δ’ ὠλένας.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>σφάζοντες οὐ λήγοιτ’ ἄν· ὡς ἀνθέξομαι</l>
 						<l n="1405">καὶ τῆσδε καὶ σοῦ τῶν τε σῶν κεκρυμμένων.</l>
@@ -3239,7 +3239,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>τάδ’ οὐχὶ δεινά; ῥυσιάζομαι λόγῳ.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>οὔκ, ἀλλὰ σοῖς φίλοισιν εὑρίσκῃ φίλος.</l>
 					</sp>
@@ -3247,7 +3247,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>ἐγὼ φίλος σός; κᾆτά μ’ ἔκτεινες λάθρα;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>παῖς γ’, εἰ τόδ’ ἐστὶ τοῖς τεκοῦσι φίλτατον.</l>
 					</sp>
@@ -3255,7 +3255,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l n="1410">παῦσαι πλέκουσα.  — λήψομαί σ’ ἐγὼ καλῶς.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ἐς τοῦθ’ ἱκοίμην, τοῦδε τοξεύω, τέκνον.</l>
 					</sp>
@@ -3263,7 +3263,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>κενὸν τόδ’ ἄγγος ἢ στέγει πλήρωμά τι;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>σά γ’ ἔνδυθ’, οἷσί σ’ ἐξέθηκ’ ἐγώ ποτε.</l>
 					</sp>
@@ -3271,7 +3271,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>καὶ τοὔνομ’ αὐτῶν ἐξερεῖς πρὶν εἰσιδεῖν;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l n="1415">κἂν μὴ φράσω γε, κατθανεῖν ὑφίσταμαι.</l>
 					</sp>
@@ -3279,7 +3279,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>λέγ’· ὡς ἔχει τι δεινὸν ἥ γε τόλμα σου.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>σκέψασθ’· ὃ παῖς ποτ’ οὖσ’ ὕφασμ’ ὕφην’ ἐγὼ — </l>
 					</sp>
@@ -3287,7 +3287,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>ποῖόν τι; πολλὰ παρθένων ὑφάσματα.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>οὐ τέλεον, οἷον δ’ ἐκδίδαγμα κερκίδος.</l>
 					</sp>
@@ -3295,7 +3295,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l n="1420">μορφὴν ἔχον τίν’; ὥς με μὴ ταύτῃ λάβῃς.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>Γοργὼ μὲν ἐν μέσοισιν ἠτρίοις πέπλων.</l>
 					</sp>
@@ -3303,7 +3303,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>ὦ Ζεῦ, τίς ἡμᾶς ἐκκυνηγετεῖ πότμος;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>κεκρασπέδωται δ’ ὄφεσιν αἰγίδος τρόπον.</l>
 					</sp>
@@ -3312,7 +3312,7 @@ bring up to P3
 						<l>ἰδού·</l>
 						<l>τόδ’ ἔσθ’ ὕφασμα, θέσφαθ’ ὡς εὑρίσκομεν.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l n="1425">ὦ χρόνιον ἱστῶν παρθένευμα τῶν ἐμῶν.</l>
 					</sp>
@@ -3320,7 +3320,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>ἔστιν τι πρὸς τῷδ’, ἢ μόνῳ τῷδ’ εὐτυχεῖς;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>δράκοντες· ἀρχαῖόν τι παγχρύσῳ γένει</l>
 						<l>δώρημ’ Ἀθάνας, ἣ τέκν’ ἐντρέφειν λέγει — </l>
@@ -3330,7 +3330,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l n="1430">τί δρᾶν, τί χρῆσθαι, φράζε μοι, χρυσώματι;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>δέραια παιδὶ νεογόνῳ φέρειν, τέκνον.</l>
 					</sp>
@@ -3338,7 +3338,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>ἔνεισιν οἵδε· τὸ δὲ τρίτον ποθῶ μαθεῖν.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>στέφανον ἐλαίας ἀμφέθηκά σοι τότε,</l>
 						<l>ἣν πρῶτ’ Ἀθάνα σκόπελον εἰσηνέγκατο,</l>
@@ -3351,7 +3351,7 @@ bring up to P3
 						<l>ὦ φιλτάτη μοι μῆτερ, ἄσμενός σ’ ἰδὼν</l>
 						<l>πρὸς ἀσμένας πέπτωκα σὰς παρηίδας.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ὦ τέκνον, ὦ φῶς μητρὶ κρεῖσσον ἡλίου — </l>
 						<l n="1440">συγγνώσεται γὰρ ὁ θεός — ἐν χεροῖν σ’ ἔχω,</l>
@@ -3366,7 +3366,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="lyric">
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l n="1445">ἰὼ ἰώ, λαμπρᾶς αἰθέρος ἀμπτυχαί,</l>
 						<l>τίν’ αὐδὰν ἀύσω,</l>
@@ -3379,7 +3379,7 @@ bring up to P3
 						<l n="1450">ἐμοὶ γενέσθαι πάντα μᾶλλον ἄν ποτε,</l>
 						<l>μῆτερ, παρέστη τῶνδ’, ὅπως σός εἰμ’ ἐγώ.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ἔτι φόβῳ τρέμω.</l>
 					</sp>
@@ -3387,7 +3387,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>μῶν οὐκ ἔχειν μ’ ἔχουσα;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l part="Y">τὰς γὰρ ἐλπίδας</l>
 						<l>ἀπέβαλον πρόσω.</l>
@@ -3400,7 +3400,7 @@ bring up to P3
 						<l>θεῖον τόδ’· ἀλλὰ τἀπίλοιπα τῆς τύχης</l>
 						<l>εὐδαιμονοῖμεν, ὡς τὰ πρόσθε δυστυχῆ.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>τέκνον, οὐκ ἀδάκρυτος ἐκλοχεύῃ,</l>
 						<l>γόοις δὲ ματρὸς ἐκ χερῶν ὁρίζῃ·</l>
@@ -3411,7 +3411,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>τοὐμὸν λέγουσα καὶ τὸ σὸν κοινῶς λέγεις.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ἄπαιδες οὐκέτ’ ἐσμὲν οὐδ’ ἄτεκνοι·</l>
 						<l>δῶμ’ ἑστιοῦται, γᾶ δ’ ἔχει τυράννους·</l>
@@ -3425,7 +3425,7 @@ bring up to P3
 						<l>μῆτερ, παρών μοι καὶ πατὴρ μετασχέτω</l>
 						<l>τῆς ἡδονῆς τῆσδ’ ἧς ἔδωχ’ ὑμῖν ἐγώ.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l n="1470">ὦ τέκνον,</l>
 						<l>τί φῄς; οἷον οἷον ἀνελέγχομαι.</l>
@@ -3434,7 +3434,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>πῶς εἶπας;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l part="Y">ἄλλοθεν γέγονας, ἄλλοθεν.</l>
 					</sp>
@@ -3442,7 +3442,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>ὤμοι· νόθον με παρθένευμ’ ἔτικτε σόν;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>οὐχ ὑπὸ λαμπάδων οὐδὲ χορευμάτων</l>
 						<l n="1475">ὑμέναιος ἐμός,</l>
@@ -3452,7 +3452,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>αἰαῖ· πέφυκα δυσγενής. μῆτερ, πόθεν;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ἴστω Γοργοφόνα — </l>
 					</sp>
@@ -3460,7 +3460,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l part="Y">τί τοῦτ’ ἔλεξας;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ἃ σκοπέλοις ἐπ’ ἐμοῖς</l>
 						<l n="1480">τὸν ἐλαιοφυῆ πάγον</l>
@@ -3470,7 +3470,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l part="Y">λέγεις μοι δόλια κοὐ σαφῆ τάδε.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>παρ’ ἀηδόνιον πέτραν</l>
 						<l>Φοίβῳ — </l>
@@ -3479,7 +3479,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l part="Y">τί Φοῖβον αὐδᾷς;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>κρυπτόμενον λέχος ηὐνάσθην . . .</l>
 					</sp>
@@ -3487,7 +3487,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l n="1485">λέγ’· ὡς ἐρεῖς τι κεδνὸν εὐτυχές τέ μοι.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>δεκάτῳ δέ σε μηνὸς ἐν</l>
 						<l>κύκλῳ κρύφιον ὠδῖν’ ἔτεκον Φοίβῳ.</l>
@@ -3496,7 +3496,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>ὦ φίλτατ’ εἰποῦσ’, εἰ λέγεις ἐτήτυμα.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>παρθένια δ’ ἐμᾶς &lt;λάθρα&gt; ματέρος</l>
 						<l n="1490">σπάργαν’ ἀμφίβολά σοι τάδ’ ἐνῆψα, κερ‐</l>
@@ -3511,7 +3511,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l>ὦ δεινὰ τλᾶσα μῆτερ.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l part="Y">ἐν φόβῳ, τέκνον,</l>
 						<l>καταδεθεῖσα σὰν</l>
@@ -3522,7 +3522,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l part="Y">ἐξ ἐμοῦ τ’ [οὐχ ὅσῑ] ἔθνῃσκες.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l n="1502">ἰώ· δειναὶ μὲν τότε τύχαι,</l>
 						<l>δεινὰ δὲ καὶ τάδ’· ἑλισσόμεσθ’ ἐκεῖθεν</l>
@@ -3534,7 +3534,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="iambic">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="1510">μηδεὶς δοκείτω μηδὲν ἀνθρώπων ποτὲ</l>
 						<l>ἄελπτον εἶναι πρὸς τὰ τυγχάνοντα νῦν.</l>
@@ -3559,7 +3559,7 @@ bring up to P3
 						<l>καὶ τοὐμὸν αἰσχρὸν ἀποφυγεῖν πειρωμένη,</l>
 						<l>Φοίβῳ τεκεῖν με φῄς, τεκοῦσ’ οὐκ ἐκ θεοῦ;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>μὰ τὴν παρασπίζουσαν ἅρμασίν ποτε</l>
 						<l>Νίκην Ἀθηνᾶν Ζηνὶ γηγενεῖς ἔπι,</l>
@@ -3571,7 +3571,7 @@ bring up to P3
 						<l>πῶς οὖν τὸν αὑτοῦ παῖδ’ ἔδωκ’ ἄλλῳ πατρὶ</l>
 						<l>Ξούθου τέ φησι παῖδά μ’ ἐκπεφυκέναι;</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>πεφυκέναι μὲν οὐχί, δωρεῖται δέ σε</l>
 						<l n="1535">αὑτοῦ γεγῶτα· καὶ γὰρ ἂν φίλος φίλῳ</l>
@@ -3582,7 +3582,7 @@ bring up to P3
 						<l>ὁ θεὸς ἀληθὴς ἢ μάτην μαντεύεται,</l>
 						<l>ἐμοῦ ταράσσει, μῆτερ, εἰκότως φρένα.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ἄκουε δή νυν ἅμ’ ἐσῆλθεν, ὦ τέκνον·</l>
 						<l n="1540">εὐεργετῶν σε Λοξίας ἐς εὐγενῆ</l>
@@ -3677,7 +3677,7 @@ bring up to P3
 						<l>σοὺς λόγους ἐδεξάμεσθα· πείθομαι δ’ εἶναι πατρὸς</l>
 						<l>Λοξίου καὶ τῆσδε. — καὶ πρὶν τοῦτο δ’ οὐκ ἄπιστον ἦν.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>τἀμὰ νῦν ἄκουσον· αἰνῶ Φοῖβον οὐκ αἰνοῦσα πρίν,</l>
 						<l n="1610">οὕνεχ’ οὗ ποτ’ ἠμέλησε παιδὸς ἀποδίδωσί μοι.</l>
@@ -3690,7 +3690,7 @@ bring up to P3
 						<l>ᾔνεσ’ οὕνεκ’ εὐλογεῖς θεὸν μεταβαλοῦσ’· ἀεὶ γὰρ οὖν</l>
 						<l n="1615">χρόνια μὲν τὰ τῶν θεῶν πως, ἐς τέλος δ’ οὐκ ἀσθενῆ.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ὦ τέκνον, στείχωμεν οἴκους.</l>
 					</sp>
@@ -3698,7 +3698,7 @@ bring up to P3
 						<speaker>Ἀθήνα</speaker>
 						<l part="Y">στείχεθ’, ἕψομαι δ’ ἐγώ.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ἀξία γ’ ἡμῶν ὁδουρός.</l>
 					</sp>
@@ -3706,7 +3706,7 @@ bring up to P3
 						<speaker>Ἀθήνα</speaker>
 						<l part="Y">καὶ φιλοῦσά γε πτόλιν.</l>
 					</sp>
-					<sp who="#kreoysa">
+					<sp who="#kreousa">
 						<speaker>Κρέουσα</speaker>
 						<l>ἐς θρόνους δ’ ἵζου παλαιούς.</l>
 					</sp>
@@ -3714,7 +3714,7 @@ bring up to P3
 						<speaker>Ἴων</speaker>
 						<l part="Y">ἄξιον τὸ κτῆμά μοι.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ὦ Διὸς Λητοῦς τ’ Ἄπολλον, χαῖρ’· ὅτῳ δ’ ἐλαύνεται</l>
 						<l n="1620">συμφοραῖς οἶκος, σέβοντα δαίμονας θαρσεῖν χρεών·</l>

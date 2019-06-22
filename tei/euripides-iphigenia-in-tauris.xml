@@ -54,7 +54,7 @@
 					<person xml:id="orestes">
 						<persName>Ὀρέστης</persName>
 					</person>
-					<person xml:id="aggelos">
+					<person xml:id="angelos">
 						<persName>Ἄγγελος</persName>
 					</person>
 					<person xml:id="pylades">
@@ -63,16 +63,16 @@
 					<person xml:id="athena">
 						<persName>Ἀθήνα</persName>
 					</person>
-					<person xml:id="boykolos">
+					<person xml:id="boukolos">
 						<persName>Βουκόλος</persName>
 					</person>
-					<personGrp xml:id="xoros">
+					<personGrp xml:id="choros">
 						<name>Χορός</name>
 					</personGrp>
 					<person xml:id="thoas">
 						<persName>Θόας</persName>
 					</person>
-					<person xml:id="ifigeneia">
+					<person xml:id="iphigeneia">
 						<persName>Ἰφιγένεια</persName>
 					</person>
 				</listPerson>
@@ -155,7 +155,7 @@ bring up to P3
 		<body>
 			<div1 type="episode">
 				<milestone ed="p" n="1" unit="card"/>
-				<sp n="Ἰφιγένεια" who="#ifigeneia">
+				<sp n="Ἰφιγένεια" who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l>Πέλοψ ὁ Ταντάλειος ἐς Πῖσαν μολὼν</l>
 					<l>θοαῖσιν ἵπποις Οἰνομάου γαμεῖ κόρην,</l>
@@ -326,7 +326,7 @@ bring up to P3
 			</div1>
 			<div1 type="choral">
 				<div2 type="anapests">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>εὐφαμεῖτ’, ὦ</l>
 						<l>πόντου δισσὰς συγχωρούσας</l>
@@ -349,7 +349,7 @@ bring up to P3
 						<l>μυριοτευχοῦς Ἀτρείδα; [τῶν κλεινῶν;]</l>
 						<milestone ed="p" n="143" unit="card"/>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ἰὼ δμωαί,</l>
 						<l>δυσθρηνήτοις ὡς θρήνοις</l>
@@ -385,7 +385,7 @@ bring up to P3
 						<l>κεῖμαι σφαχθεῖσ’ ἁ τλάμων.</l>
 						<milestone ed="p" n="178" unit="card"/>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἀντιψάλμους ᾠδὰς ὕμνων τ’</l>
 						<l n="180">Ἀσιητᾶν σοι βάρβαρον ἀχὰν</l>
@@ -411,7 +411,7 @@ bring up to P3
 						<l>ἐπὶ σοὶ δαίμων.</l>
 						<milestone ed="p" n="203" unit="card"/>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ἐξ ἀρχᾶς μοι δυσδαίμων</l>
 						<l>δαίμων τᾶς ματρὸς ζώνας</l>
@@ -450,21 +450,21 @@ bring up to P3
 				</div2>
 			</div1>
 			<div1 type="episode">
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>καὶ μὴν ὅδ’ ἀκτὰς ἐκλιπὼν θαλασσίους</l>
 					<l>βουφορβὸς ἥκει σημανῶν τί σοι νέον.</l>
 				</sp>
-				<sp who="#boykolos">
+				<sp who="#boukolos">
 					<speaker>Βουκόλος</speaker>
 					<l>Ἀγαμέμνονός τε καὶ Κλυταιμήστρας τέκνον,</l>
 					<l>ἄκουε καινῶν ἐξ ἐμοῦ κηρυγμάτων.</l>
 				</sp>
-				<sp who="#ifigeneia">
+				<sp who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l n="240">τί δ’ ἔστι τοῦ παρόντος ἐκπλῆσσον λόγου;</l>
 				</sp>
-				<sp who="#boykolos">
+				<sp who="#boukolos">
 					<speaker>Βουκόλος</speaker>
 					<l>ἥκουσιν ἐς γῆν, κυανέαν Συμπληγάδα</l>
 					<l>πλάτῃ φυγόντες, δίπτυχοι νεανίαι,</l>
@@ -472,47 +472,47 @@ bring up to P3
 					<l>Ἀρτέμιδι. χέρνιβας δὲ καὶ κατάργματα</l>
 					<l n="245">οὐκ ἂν φθάνοις ἂν εὐτρεπῆ ποιουμένη.</l>
 				</sp>
-				<sp who="#ifigeneia">
+				<sp who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l>ποδαποί; τίνος γῆς σχῆμ’ ἔχουσιν οἱ ξένοι;</l>
 				</sp>
-				<sp who="#boykolos">
+				<sp who="#boukolos">
 					<speaker>Βουκόλος</speaker>
 					<l>Ἕλληνες· ἓν τοῦτ’ οἶδα κοὐ περαιτέρω.</l>
 				</sp>
-				<sp who="#ifigeneia">
+				<sp who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l>οὐδ’ ὄνομ’ ἀκούσας οἶσθα τῶν ξένων φράσαι;</l>
 				</sp>
-				<sp who="#boykolos">
+				<sp who="#boukolos">
 					<speaker>Βουκόλος</speaker>
 					<l>Πυλάδης ἐκλῄζεθ’ ἅτερος πρὸς θατέρου.</l>
 				</sp>
-				<sp who="#ifigeneia">
+				<sp who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l n="250">τοῦ ξυζύγου δὲ τοῦ ξένου τί τοὔνομ’ ἦν;</l>
 				</sp>
-				<sp who="#boykolos">
+				<sp who="#boukolos">
 					<speaker>Βουκόλος</speaker>
 					<l>οὐδεὶς τόδ’ οἶδεν· οὐ γὰρ εἰσηκούσαμεν.</l>
 				</sp>
-				<sp who="#ifigeneia">
+				<sp who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l>πῶς δ’ εἴδετ’ αὐτοὺς κἀντυχόντες εἵλετε;</l>
 				</sp>
-				<sp who="#boykolos">
+				<sp who="#boukolos">
 					<speaker>Βουκόλος</speaker>
 					<l>ἄκραις ἐπὶ ῥηγμῖσιν ἀξένου πόρου — </l>
 				</sp>
-				<sp who="#ifigeneia">
+				<sp who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l>καὶ τίς θαλάσσης βουκόλοις κοινωνία;</l>
 				</sp>
-				<sp who="#boykolos">
+				<sp who="#boukolos">
 					<speaker>Βουκόλος</speaker>
 					<l n="255">βοῦς ἤλθομεν νίψοντες ἐναλίᾳ δρόσῳ.</l>
 				</sp>
-				<sp who="#ifigeneia">
+				<sp who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l>ἐκεῖσε δὴ ’πάνελθε, πῶς νιν εἵλετε</l>
 					<l>τρόπῳ θ’ ὁποίῳ· τοῦτο γὰρ μαθεῖν θέλω.</l>
@@ -520,7 +520,7 @@ bring up to P3
 					<l>Ἑλληνικαῖσιν ἐξεφοινίχθη ῥοαῖς.</l>
 					<milestone ed="p" n="260" unit="card"/>
 				</sp>
-				<sp n="Βουκόλος" who="#boykolos">
+				<sp n="Βουκόλος" who="#boukolos">
 					<speaker>Βουκόλος</speaker>
 					<l n="260">ἐπεὶ τὸν ἐσρέοντα διὰ Συμπληγάδων</l>
 					<l>βοῦς ὑλοφορβοὺς πόντον εἰσεβάλλομεν,</l>
@@ -614,13 +614,13 @@ bring up to P3
 					<l>τοιούσδε, τὸν σὸν Ἑλλὰς ἀποτείσει φόνον</l>
 					<l>δίκας τίνουσα τῆς ἐν Αὐλίδι σφαγῆς.</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l n="340">θαυμάστ’ ἔλεξας τὸν μανένθ’, ὅστις ποτὲ</l>
 					<l>Ἕλληνος ἐκ γῆς πόντον ἦλθεν ἄξενον.</l>
 				</sp>
 				<milestone ed="p" n="342" unit="card"/>
-				<sp who="#ifigeneia">
+				<sp who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l>εἶἑν· σὺ μὲν κόμιζε τοὺς ξένους μολών,</l>
 					<l>τὰ δ’ ἐνθάδ’ ἡμεῖς ὅσια φροντιούμεθα — </l>
@@ -683,7 +683,7 @@ bring up to P3
 			<milestone ed="p" n="392" unit="card"/>
 			<div1 type="choral">
 				<div2 n="1" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>κυάνεαι κυάνεαι</l>
 						<l>σύνοδοι θαλάσσας, ἵν’ οἶ‐</l>
@@ -702,7 +702,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἦ ῥοθίοις εἰλατίνας</l>
 						<l>δικρότοισι κώπας ἔπλευ‐</l>
@@ -721,7 +721,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="2" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>πῶς πέτρας τὰς συνδρομάδας,</l>
 						<l>πῶς Φινεϊδᾶν ἀΰ‐</l>
@@ -745,7 +745,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="2" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>εἴθ’ εὐχαῖσιν δεσποσύνοις</l>
 						<l>Λήδας Ἑλένα φίλα</l>
@@ -771,7 +771,7 @@ bring up to P3
 			</div1>
 			<div1 type="episode">
 				<div2 type="anapests">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἀλλ’ οἵδε χέρας δεσμοῖς δίδυμοι</l>
 						<l>συνερεισθέντες χωροῦσι, νέον</l>
@@ -786,7 +786,7 @@ bring up to P3
 						<l>[Ἕλλησι διδοὺς] ἀναφαίνει.</l>
 						<milestone ed="p" n="467" unit="card"/>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>εἶἑν·</l>
 						<l>τὰ τῆς θεοῦ μὲν πρῶτον ὡς καλῶς ἔχῃ</l>
@@ -825,7 +825,7 @@ bring up to P3
 						<l>θυσίας ἐπιστάμεσθα καὶ γιγνώσκομεν.</l>
 						<milestone ed="p" n="492" unit="card"/>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>πότερος ἄρ’ ὑμῶν ἐνθάδ’ ὠνομασμένος</l>
 						<l>Πυλάδης κέκληται; τόδε μαθεῖν πρῶτον θέλω.</l>
@@ -834,7 +834,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>ὅδ’, εἴ τι δή σοι τοῦτ’ ἐν ἡδονῇ μαθεῖν.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l n="495">ποίας πολίτης πατρίδος Ἕλληνος γεγώς;</l>
 					</sp>
@@ -842,7 +842,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>τί δ’ ἂν μαθοῦσα τόδε πλέον λάβοις, γύναι;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>πότερον ἀδελφὼ μητρός ἐστον ἐκ μιᾶς;</l>
 					</sp>
@@ -850,7 +850,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>φιλότητί γ’· ἐσμὲν δ’ οὐ κασιγνήτω, γύναι.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>σοὶ δ’ ὄνομα ποῖον ἔθεθ’ ὁ γεννήσας πατήρ;</l>
 					</sp>
@@ -858,7 +858,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l n="500">τὸ μὲν δίκαιον Δυστυχὴς καλοίμεθ’ ἄν.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>οὐ τοῦτ’ ἐρωτῶ· τοῦτο μὲν δὸς τῇ τύχῃ.</l>
 					</sp>
@@ -866,7 +866,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>ἀνώνυμοι θανόντες οὐ γελῴμεθ’ ἄν.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>τί δὲ φθονεῖς τοῦτο; ἦ φρονεῖς οὕτω μέγα;</l>
 					</sp>
@@ -874,7 +874,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>τὸ σῶμα θύσεις τοὐμόν, οὐχὶ τοὔνομα.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l n="505">οὐδ’ ἂν πόλιν φράσειας ἥτις ἐστί σοι;</l>
 					</sp>
@@ -882,7 +882,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>ζητεῖς γὰρ οὐδὲν κέρδος, ὡς θανουμένῳ.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>χάριν δὲ δοῦναι τήνδε κωλύει τί σε;</l>
 					</sp>
@@ -890,7 +890,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>τὸ κλεινὸν Ἄργος πατρίδ’ ἐμὴν ἐπεύχομαι.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>πρὸς θεῶν, ἀληθῶς, ὦ ξέν’, εἶ κεῖθεν γεγώς;</l>
 					</sp>
@@ -898,7 +898,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l n="510">ἐκ τῶν Μυκηνῶν &lt;γ’&gt;, αἵ ποτ’ ἦσαν ὄλβιαι.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>φυγὰς &lt;δ’&gt; ἀπῆρας πατρίδος, ἢ ποίᾳ τύχῃ;</l>
 					</sp>
@@ -906,7 +906,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>φεύγω τρόπον γε δή τιν’ οὐχ ἑκὼν ἑκών.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ἆρ’ ἄν τί μοι φράσειας ὧν ἐγὼ θέλω;</l>
 					</sp>
@@ -914,7 +914,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>ὡς ἐν παρέργῳ τῆς ἐμῆς δυσπραξίας.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l n="515">καὶ μὴν ποθεινός γ’ ἦλθες ἐξ Ἄργους μολών.</l>
 					</sp>
@@ -922,7 +922,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>οὔκουν ἐμαυτῷ γ’· εἰ δὲ σοί, σὺ τοῦτ’ ἔρα.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>Τροίαν ἴσως οἶσθ’, ἧς ἁπανταχοῦ λόγος.</l>
 					</sp>
@@ -930,7 +930,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>ὡς μήποτ’ ὤφελόν γε μηδ’ ἰδὼν ὄναρ.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>φασίν νιν οὐκέτ’ οὖσαν οἴχεσθαι δορί.</l>
 					</sp>
@@ -938,7 +938,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l n="520">ἔστιν γὰρ οὕτως οὐδ’ ἄκραντ’ ἠκούσατε.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>Ἑλένη δ’ ἀφῖκται δῶμα Μενέλεω πάλιν;</l>
 					</sp>
@@ -946,7 +946,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>ἥκει, κακῶς γ’ ἐλθοῦσα τῶν ἐμῶν τινι.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>καὶ ποῦ ’στι; κἀμοὶ γάρ τι προυφείλει κακόν.</l>
 					</sp>
@@ -954,7 +954,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>Σπάρτῃ ξυνοικεῖ τῷ πάρος ξυνευνέτῃ.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l n="525">ὦ μῖσος εἰς Ἕλληνας, οὐκ ἐμοὶ μόνῃ.</l>
 					</sp>
@@ -962,7 +962,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>ἀπέλαυσα κἀγὼ δή τι τῶν κείνης γάμων.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>νόστος δ’ Ἀχαιῶν ἐγένεθ’, ὡς κηρύσσεται;</l>
 					</sp>
@@ -970,7 +970,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>ὡς πάνθ’ ἅπαξ με συλλαβοῦσ’ ἀνιστορεῖς.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>πρὶν γὰρ θανεῖν σε, τοῦδ’ ἐπαυρέσθαι θέλω.</l>
 					</sp>
@@ -978,7 +978,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l n="530">ἔλεγχ’, ἐπειδὴ τοῦδ’ ἐρᾷς· λέξω δ’ ἐγώ.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>Κάλχας τις ἦλθε μάντις ἐκ Τροίας πάλιν;</l>
 					</sp>
@@ -986,7 +986,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>ὄλωλεν, ὡς ἦν ἐν Μυκηναίοις λόγος.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ὦ πότνῑ, ὡς εὖ.  — τί γὰρ ὁ Λαέρτου γόνος;</l>
 					</sp>
@@ -994,7 +994,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>οὔπω νενόστηκ’ οἶκον, ἔστι δ’, ὡς λόγος.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l n="535">ὄλοιτο, νόστου μήποτ’ ἐς πάτραν τυχών.</l>
 					</sp>
@@ -1002,7 +1002,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>μηδὲν κατεύχου· πάντα τἀκείνου νοσεῖ.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>Θέτιδος δ’ ὁ τῆς Νηρῇδος ἔστι παῖς ἔτι;</l>
 					</sp>
@@ -1010,7 +1010,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>οὐκ ἔστιν· ἄλλως λέκτρ’ ἔγημ’ ἐν Αὐλίδι.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>δόλια γάρ, ὡς ἴσασιν οἱ πεπονθότες.</l>
 						<milestone ed="p" n="540" unit="card"/>
@@ -1019,7 +1019,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l n="540">τίς εἶ ποθ’; ὡς εὖ πυνθάνῃ τἀφ’ Ἑλλάδος.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ἐκεῖθέν εἰμι· παῖς ἔτ’ οὖσ’ ἀπωλόμην.</l>
 					</sp>
@@ -1027,7 +1027,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>ὀρθῶς ποθεῖς ἄρ’ εἰδέναι τἀκεῖ, γύναι.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>τί δ’ ὁ στρατηγός, ὃν λέγουσ’ εὐδαιμονεῖν;</l>
 					</sp>
@@ -1035,7 +1035,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>τίς; οὐ γὰρ ὅν γ’ ἐγᾦδα τῶν εὐδαιμόνων.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l n="545">Ἀτρέως ἐλέγετο δή τις Ἀγαμέμνων ἄναξ.</l>
 					</sp>
@@ -1043,7 +1043,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>οὐκ οἶδ’· ἄπελθε τοῦ λόγου τούτου, γύναι.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>μὴ πρὸς θεῶν, ἀλλ’ εἴφ’, ἵν’ εὐφρανθῶ, ξένε.</l>
 					</sp>
@@ -1051,7 +1051,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>τέθνηχ’ ὁ τλήμων, πρὸς δ’ ἀπώλεσέν τινα.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>τέθνηκε; ποίᾳ συμφορᾷ; τάλαιν’ ἐγώ.</l>
 					</sp>
@@ -1059,7 +1059,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l n="550">τί δ’ ἐστέναξας τοῦτο; μῶν προσῆκέ σοι;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>τὸν ὄλβον αὐτοῦ τὸν πάροιθ’ ἀναστένω.</l>
 					</sp>
@@ -1067,7 +1067,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>δεινῶς γὰρ ἐκ γυναικὸς οἴχεται σφαγείς.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ὦ πανδάκρυτος ἡ κτανοῦσα . . . χὡ κτανών.</l>
 					</sp>
@@ -1075,7 +1075,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>παῦσαί νυν ἤδη μηδ’ ἐρωτήσῃς πέρα.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l n="555">τοσόνδε γ’, εἰ ζῇ τοῦ ταλαιπώρου δάμαρ.</l>
 					</sp>
@@ -1083,7 +1083,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>οὐκ ἔστι· παῖς νιν ὃν ἔτεχ’, οὗτος ὤλεσεν.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ὦ συνταραχθεὶς οἶκος. ὡς τί δὴ θέλων;</l>
 					</sp>
@@ -1091,7 +1091,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>πατρὸς θανόντος τήνδε τιμωρούμενος.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>φεῦ·</l>
 						<l>ὡς εὖ κακὸν δίκαιον εἰσεπράξατο.</l>
@@ -1100,7 +1100,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l n="560">ἀλλ’ οὐ τὰ πρὸς θεῶν εὐτυχεῖ δίκαιος ὤν.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>λείπει δ’ ἐν οἴκοις ἄλλον Ἀγαμέμνων γόνον;</l>
 					</sp>
@@ -1108,7 +1108,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>λέλοιπεν Ἠλέκτραν γε παρθένον μίαν.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>τί δέ; σφαγείσης θυγατρὸς ἔστι τις λόγος;</l>
 					</sp>
@@ -1116,7 +1116,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>οὐδείς γε, πλὴν θανοῦσαν οὐχ ὁρᾶν φάος.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l n="565">τάλαιν’ ἐκείνη χὡ κτανὼν αὐτὴν πατήρ.</l>
 					</sp>
@@ -1124,7 +1124,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>κακῆς γυναικὸς χάριν ἄχαριν ἀπώλετο.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ὁ τοῦ θανόντος δ’ ἔστι παῖς Ἄργει πατρός;</l>
 					</sp>
@@ -1132,7 +1132,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>ἔστ’, ἄθλιός γε, κοὐδαμοῦ καὶ πανταχοῦ.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ψευδεῖς ὄνειροι, χαίρετ’· οὐδὲν ἦτ’ ἄρα.</l>
 					</sp>
@@ -1145,13 +1145,13 @@ bring up to P3
 						<l>ὃς οὐκ ἄφρων ὢν μάντεων πεισθεὶς λόγοις</l>
 						<l n="575">ὄλωλεν — ὡς ὄλωλε τοῖσιν εἰδόσιν.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>φεῦ φεῦ· τί δ’ ἡμεῖς οἵ τ’ ἐμοὶ γεννήτορες;</l>
 						<l>ἆρ’ εἰσίν; ἆρ’ οὐκ εἰσί; τίς φράσειεν ἄν;</l>
 						<milestone ed="p" n="578" unit="card"/>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ἀκούσατ’· ἐς γὰρ δή τιν’ ἥκομεν λόγον,</l>
 						<l>ὑμῖν τ’ ὄνησιν, ὦ ξένοι, σπουδῆς ἅμα</l>
@@ -1188,7 +1188,7 @@ bring up to P3
 						<l>αὐτὸς σέσῳσται. τυγχάνει δ’ ὅδ’ ὢν φίλος,</l>
 						<l>ὃν οὐδὲν ἧσσον ἢ ’μὲ φῶς ὁρᾶν θέλω.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ὦ λῆμ’ ἄριστον, ὡς ἀπ’ εὐγενοῦς τινος</l>
 						<l n="610">ῥίζης πέφυκας τοῖς φίλοις τ’ ὀρθῶς φίλος.</l>
@@ -1204,7 +1204,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>θύσει δὲ τίς με καὶ τὰ δεινὰ τλήσεται;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ἐγώ· θεᾶς γὰρ τῆσδε προστροπὴν ἔχω.</l>
 					</sp>
@@ -1212,7 +1212,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>ἄζηλά γ’, ὦ νεᾶνι, κοὐκ εὐδαίμονα.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l n="620">ἀλλ’ εἰς ἀνάγκην κείμεθ’, ἣν φυλακτέον.</l>
 					</sp>
@@ -1220,7 +1220,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>αὐτὴ ξίφει θύουσα θῆλυς ἄρσενας;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>οὔκ, ἀλλὰ χαίτην ἀμφὶ σὴν χερνίψομαι.</l>
 					</sp>
@@ -1228,7 +1228,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>ὁ δὲ σφαγεὺς τίς; εἰ τάδ’ ἱστορεῖν με χρή.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ἔσω δόμων τῶνδ’ εἰσὶν οἷς μέλει τάδε.</l>
 					</sp>
@@ -1236,7 +1236,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l n="625">τάφος δὲ ποῖος δέξεταί μ’, ὅταν θάνω;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>πῦρ ἱερὸν ἔνδον χάσμα τ’ εὐρωπὸν πέτρας.</l>
 					</sp>
@@ -1245,7 +1245,7 @@ bring up to P3
 						<l>φεῦ·</l>
 						<l>πῶς ἄν μ’ ἀδελφῆς χεὶρ περιστείλειεν ἄν;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>μάταιον εὐχήν, ὦ τάλας, ὅστις ποτ’ εἶ,</l>
 						<l>ηὔξω· μακρὰν γὰρ βαρβάρου ναίει χθονός.</l>
@@ -1269,7 +1269,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="lyric">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>κατολοφύρομαι σὲ τὸν χερνίβων</l>
 						<l n="645">ῥανίσι μελόμενον αἱμακταῖς.</l>
@@ -1280,7 +1280,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="lyric">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>σὲ δὲ τύχας μάκαρος, ὦ</l>
 						<l>νεανία, σεβόμεθ’, ἐς</l>
@@ -1292,7 +1292,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 type="lyric">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ὦ σχέτλιοι πομπαί.</l>
 						<l>φεῦ φεῦ, διόλλυσαι.</l>
@@ -1400,7 +1400,7 @@ bring up to P3
 						<l>γυνὴ γὰρ ἥδε δωμάτων ἔξω περᾷ.</l>
 						<milestone ed="p" n="725" unit="card"/>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l n="725">ἀπέλθεθ’ ὑμεῖς καὶ παρευτρεπίζετε</l>
 						<l>τἄνδον μολόντες τοῖς ἐφεστῶσι σφαγῇ.</l>
@@ -1419,7 +1419,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>τί δῆτα βούλῃ; τίνος ἀμηχανεῖς πέρι;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l n="735">ὅρκον δότω μοι τάσδε πορθμεύσειν γραφὰς</l>
 						<l>πρὸς Ἄργος, οἷσι βούλομαι πέμψαι φίλων.</l>
@@ -1428,7 +1428,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>ἦ κἀντιδώσεις τῷδε τοὺς αὐτοὺς λόγους;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>τί χρῆμα δράσειν ἢ τί μὴ δράσειν; λέγε.</l>
 					</sp>
@@ -1436,7 +1436,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>ἐκ γῆς ἀφήσειν μὴ θανόντα βαρβάρου.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l n="740">δίκαιον εἶπας· πῶς γὰρ ἀγγείλειεν ἄν;</l>
 					</sp>
@@ -1444,7 +1444,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>ἦ καὶ τύραννος ταῦτα συγχωρήσεται;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ναί.</l>
 						<l>πείσω σφε, καὐτὴ ναὸς εἰσβήσω σκάφος.</l>
@@ -1453,7 +1453,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>ὄμνυ· σὺ δ’ ἔξαρχ’ ὅρκον ὅστις εὐσεβής.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>δώσω, λέγειν χρή, τήνδε τοῖσι σοῖς φίλοις.</l>
 					</sp>
@@ -1461,7 +1461,7 @@ bring up to P3
 						<speaker>Πυλάδης</speaker>
 						<l n="745">τοῖς σοῖς φίλοισι γράμματ’ ἀποδώσω τάδε.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>κἀγὼ σὲ σώσω κυανέας ἔξω πέτρας.</l>
 					</sp>
@@ -1469,7 +1469,7 @@ bring up to P3
 						<speaker>Πυλάδης</speaker>
 						<l>τίν’ οὖν ἐπόμνυς τοισίδ’ ὅρκιον θεῶν;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>Ἄρτεμιν, ἐν ἧσπερ δώμασιν τιμὰς ἔχω.</l>
 					</sp>
@@ -1477,7 +1477,7 @@ bring up to P3
 						<speaker>Πυλάδης</speaker>
 						<l>ἐγὼ δ’ ἄνακτά γ’ οὐρανοῦ, σεμνὸν Δία.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l n="750">εἰ δ’ ἐκλιπὼν τὸν ὅρκον ἀδικοίης ἐμέ;</l>
 					</sp>
@@ -1485,7 +1485,7 @@ bring up to P3
 						<speaker>Πυλάδης</speaker>
 						<l>ἄνοστος εἴην· τί δὲ σύ, μὴ σῴσασά με;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>μήποτε κατ’ Ἄργος ζῶσ’ ἴχνος θείην ποδός.</l>
 					</sp>
@@ -1493,7 +1493,7 @@ bring up to P3
 						<speaker>Πυλάδης</speaker>
 						<l>ἄκουε δή νυν ὃν παρήλθομεν λόγον.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ἀλλ’ αὖθις ἔσται καινός, ἢν καλῶς ἔχῃ.</l>
 					</sp>
@@ -1504,7 +1504,7 @@ bring up to P3
 						<l>ἀφανὴς γένηται, σῶμα δ’ ἐκσῴσω μόνον,</l>
 						<l>τὸν ὅρκον εἶναι τόνδε μηκέτ’ ἔμπεδον.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ἀλλ’ οἶσθ’ ὃ δράσω; πολλὰ γὰρ πολλῶν κυρεῖ·</l>
 						<l n="760">τἀνόντα κἀγγεγραμμέν’ ἐν δέλτου πτυχαῖς</l>
@@ -1521,7 +1521,7 @@ bring up to P3
 						<l>πρὸς Ἄργος ὅ τι τε χρὴ κλύοντα σοῦ λέγειν.</l>
 						<milestone ed="p" n="769" unit="card"/>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ἄγγελλ’ Ὀρέστῃ, παιδὶ τῷ Ἀγαμέμνονος·</l>
 						<l n="770">Ἡ ’ν Αὐλίδι σφαγεῖσ’ ἐπιστέλλει τάδε</l>
@@ -1531,7 +1531,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>ποῦ δ’ ἔστ’ ἐκείνη; κατθανοῦσ’ ἥκει πάλιν;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ἥδ’ ἣν ὁρᾷς σύ· μὴ λόγοις ἔκπλησσέ με.</l>
 						<l>Κόμισαί μ’ ἐς Ἄργος, ὦ σύναιμε, πρὶν θανεῖν,</l>
@@ -1542,7 +1542,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>Πυλάδη, τί λέξω; ποῦ ποτ’ ὄνθ’ ηὑρήμεθα;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ἢ σοῖς ἀραία δώμασιν γενήσομαι.</l>
 					</sp>
@@ -1550,7 +1550,7 @@ bring up to P3
 						<speaker>Πυλάδης</speaker>
 						<l>Ὀρέστα — ;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l part="Y">ἵν’ αὖθις ὄνομα δὶς κλύων μάθῃς.</l>
 					</sp>
@@ -1558,7 +1558,7 @@ bring up to P3
 						<speaker>Πυλάδης</speaker>
 						<l n="780">ὦ θεοί.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l part="Y">τί τοὺς θεοὺς ἀνακαλεῖς ἐν τοῖς ἐμοῖς;</l>
 					</sp>
@@ -1567,7 +1567,7 @@ bring up to P3
 						<l>οὐδέν· πέραινε δ’· ἐξέβην γὰρ ἄλλοσε.</l>
 						<l>τάχ’ οὐκ ἐρωτῶν σ’ εἰς ἄπιστ’ ἀφίξομαι.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>λέγ’ οὕνεκ’ ἔλαφον ἀντιδοῦσά μου θεὰ</l>
 						<l>Ἄρτεμις ἔσῳσέ μ’, ἣν ἔθυσ’ ἐμὸς πατήρ,</l>
@@ -1598,7 +1598,7 @@ bring up to P3
 						<l>ἐς τέρψιν εἶμι, πυθόμενος θαυμάστ’ ἐμοί.</l>
 						<milestone ed="p" n="798" unit="card"/>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ξέν’, οὐ δικαίως τῆς θεοῦ τὴν πρόσπολον</l>
 						<l>χραίνεις ἀθίκτοις περιβαλὼν πέπλοις χέρα.</l>
@@ -1609,7 +1609,7 @@ bring up to P3
 						<l>Ἀγαμέμνονος γεγῶσα, μή μ’ ἀποστρέφου,</l>
 						<l>ἔχουσ’ ἀδελφόν, οὐ δοκοῦσ’ ἕξειν ποτέ.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ἐγώ σ’ ἀδελφὸν τὸν ἐμόν; οὐ παύσῃ λέγων;</l>
 						<l>τὸ δ’ Ἄργος αὐτοῦ μεστὸν ἥ τε Ναυπλία.</l>
@@ -1618,7 +1618,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l n="805">οὐκ ἔστ’ ἐκεῖ σός, ὦ τάλαινα, σύγγονος.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ἀλλ’ ἡ Λάκαινα Τυνδαρίς σ’ ἐγείνατο;</l>
 					</sp>
@@ -1626,7 +1626,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>Πέλοπός γε παιδὶ παιδός, οὗ ’κπέφυκ’ ἐγώ.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>τί φῄς; ἔχεις τι τῶνδέ μοι τεκμήριον;</l>
 					</sp>
@@ -1634,7 +1634,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>ἔχω· πατρῴων ἐκ δόμων τι πυνθάνου.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l n="810">οὐκοῦν λέγειν μὲν χρὴ σέ, μανθάνειν δ’ ἐμέ.</l>
 					</sp>
@@ -1643,7 +1643,7 @@ bring up to P3
 						<l>λέγοιμ’ ἄν, ἀκοῇ πρῶτον Ἠλέκτρας τάδε·</l>
 						<l>Ἀτρέως Θυέστου τ’ οἶσθα γενομένην ἔριν;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ἤκουσα· χρυσῆς ἀρνὸς ἦν νείκη πέρι.</l>
 					</sp>
@@ -1651,7 +1651,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>ταῦτ’ οὖν ὑφήνασ’ οἶσθ’ ἐν εὐπήνοις ὑφαῖς;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l n="815">ὦ φίλτατ’, ἐγγὺς τῶν ἐμῶν κάμπτεις φρενῶν.</l>
 					</sp>
@@ -1659,7 +1659,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>εἰκώ τ’ ἐν ἱστοῖς ἡλίου μετάστασιν;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ὕφηνα καὶ τόδ’ εἶδος εὐμίτοις πλοκαῖς.</l>
 					</sp>
@@ -1667,7 +1667,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>καὶ λούτρ’ ἐς Αὖλιν μητρὸς ἀνεδέξω πάρα;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>οἶδ’· οὐ γὰρ ὁ γάμος ἐσθλὸς ὤν μ’ ἀφείλετο.</l>
 					</sp>
@@ -1675,7 +1675,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l n="820">τί γάρ; κόμας σὰς μητρὶ δοῦσα σῇ φέρειν;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>μνημεῖά γ’ ἀντὶ σώματος τοὐμοῦ τάφῳ.</l>
 					</sp>
@@ -1688,7 +1688,7 @@ bring up to P3
 						<l>ἐν παρθενῶσι τοῖσι σοῖς κεκρυμμένην.</l>
 					</sp>
 					<milestone ed="p" n="827" unit="card"/>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ὦ φίλτατ’, οὐδὲν ἄλλο, φίλτατος γὰρ εἶ,</l>
 						<l>ἔχω σ’, Ὀρέστα, τηλύγετον [χθονὸς] ἀπὸ πατρίδος</l>
@@ -1704,7 +1704,7 @@ bring up to P3
 						<l>κατὰ δὲ δάκρυ, κατὰ δὲ γόος ἅμα χαρᾷ</l>
 						<l>τὸ σὸν νοτίζει βλέφαρον, ὡσαύτως δ’ ἐμόν.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>τόδ’ ἔτι βρέφος</l>
 						<l n="835">ἔλιπον ἀγκάλαισι νεαρὸν τροφοῦ</l>
@@ -1717,7 +1717,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>τὸ λοιπὸν εὐτυχοῖμεν ἀλλήλων μέτα.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ἄτοπον ἁδονὰν ἔλαβον, ὦ φίλαι·</l>
 						<l>δέδοικα δ’ ἐκ χερῶν με μὴ πρὸς αἰθέρα</l>
@@ -1733,7 +1733,7 @@ bring up to P3
 						<l n="850">γένει μὲν εὐτυχοῦμεν, ἐς δὲ συμφοράς,</l>
 						<l>ὦ σύγγον’, ἡμῶν δυστυχὴς ἔφυ βίος.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ἐγᾦδ’ ἁ μέλεος, οἶδ’, ὅτε φάσγανον</l>
 						<l n="854">δέρᾳ θῆκέ μοι μελεόφρων πατήρ.</l>
@@ -1742,7 +1742,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l n="855">οἴμοι. δοκῶ γὰρ οὐ παρών σ’ ὁρᾶν ἐκεῖ.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ἀνυμέναιος, &lt;ὦ&gt; σύγγον’, Ἀχιλλέως</l>
 						<l>ἐς κλισίαν λέκτρων</l>
@@ -1754,7 +1754,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>ᾤμωξα κἀγὼ τόλμαν ἣν ἔτλη πατήρ.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l n="864">ἀπάτορ’ ἀπάτορα πότμον ἔλαχον.</l>
 						<l n="865">ἄλλα δ’ ἐξ ἄλλων κυρεῖ</l>
@@ -1765,7 +1765,7 @@ bring up to P3
 						<l n="866">εἰ σόν γ’ ἀδελφόν, ὦ τάλαιν’, ἀπώλεσας.</l>
 					</sp>
 					<milestone ed="p" n="868" unit="card"/>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l n="868">ὦ μελέα δεινᾶς τόλμας. δείν’ ἔτλαν</l>
 						<l n="870">δείν’ ἔτλαν, ὤμοι σύγγονε. παρὰ δ’ ὀλίγον</l>
@@ -1795,7 +1795,7 @@ bring up to P3
 				</div2>
 				<div2 type="iambic">
 					<milestone ed="p" n="900" unit="card"/>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="900">ἐν τοῖσι θαυμαστοῖσι καὶ μύθων πέρα</l>
 						<l>τάδ’ εἶδον αὐτὴ κοὐ κλύουσ’ ἀπαγγελῶ.</l>
@@ -1816,7 +1816,7 @@ bring up to P3
 						<l n="910">τοῦδε ξὺν ἡμῖν· ἢν δέ τις πρόθυμος ᾖ,</l>
 						<l>σθένειν τὸ θεῖον μᾶλλον εἰκότως ἔχει.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>μηδέν μ’ ἐπίσχῃ γ’· οὐδ’ ἀποστήσει λόγου,</l>
 						<l>πρῶτον πυθέσθαι τίνα ποτ’ Ἠλέκτρα πότμον</l>
@@ -1826,7 +1826,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l n="915">τῷδε ξυνοικεῖ βίον ἔχουσ’ εὐδαίμονα.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>οὗτος δὲ ποδαπὸς καὶ τίνος πέφυκε παῖς;</l>
 					</sp>
@@ -1834,7 +1834,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>Στρόφιος ὁ Φωκεὺς τοῦδε κλῄζεται πατήρ.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ὁ δ’ ἐστί γ’ Ἀτρέως θυγατρός, ὁμογενὴς ἐμός;</l>
 					</sp>
@@ -1842,7 +1842,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>ἀνεψιός γε, μόνος ἐμοὶ σαφὴς φίλος.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l n="920">οὐκ ἦν τόθ’ οὗτος ὅτε πατὴρ ἔκτεινέ με.</l>
 					</sp>
@@ -1850,7 +1850,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>οὐκ ἦν· χρόνον γὰρ Στρόφιος ἦν ἄπαις τινά.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>χαῖρ’ ὦ πόσις μοι τῆς ἐμῆς ὁμοσπόρου.</l>
 					</sp>
@@ -1858,7 +1858,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>κἀμός γε σωτήρ, οὐχὶ συγγενὴς μόνον.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>τὰ δεινὰ δ’ ἔργα πῶς ἔτλης μητρὸς πέρι;</l>
 					</sp>
@@ -1866,7 +1866,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l n="925">σιγῶμεν αὐτά· πατρὶ τιμωρῶν ἐμῷ.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ἡ δ’ αἰτία τίς ἀνθ’ ὅτου κτείνει πόσιν;</l>
 					</sp>
@@ -1874,7 +1874,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>ἔα τὰ μητρός· οὐδὲ σοὶ κλύειν καλόν.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>σιγῶ· τὸ δ’ Ἄργος πρὸς σὲ νῦν ἀποβλέπει;</l>
 					</sp>
@@ -1882,7 +1882,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>Μενέλαος ἄρχει· φυγάδες ἐσμὲν ἐκ πάτρας.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l n="930">οὔ που νοσοῦντας θεῖος ὕβρισεν δόμους;</l>
 					</sp>
@@ -1890,7 +1890,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>οὔκ, ἀλλ’ Ἐρινύων δεῖμά μ’ ἐκβάλλει χθονός.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ταῦτ’ ἆρ’ ἐπ’ ἀκταῖς κἀνθάδ’ ἠγγέλης μανείς;</l>
 					</sp>
@@ -1898,7 +1898,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>ὤφθημεν οὐ νῦν πρῶτον ὄντες ἄθλιοι.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ἔγνωκα· μητρός σ’ οὕνεκ’ ἠλάστρουν θεαί.</l>
 					</sp>
@@ -1906,7 +1906,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l n="935">ὥσθ’ αἱματηρὰ στόμῑ ἐπεμβαλεῖν ἐμοί.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>τί γάρ ποτ’ ἐς γῆν τήνδ’ ἐπόρθμευσας πόδα;</l>
 					</sp>
@@ -1914,7 +1914,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>Φοίβου κελευσθεὶς θεσφάτοις ἀφικόμην.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>τί χρῆμα δράσειν; ῥητὸν ἢ σιγώμενον;</l>
 						<milestone ed="p" n="939" unit="card"/>
@@ -1974,12 +1974,12 @@ bring up to P3
 						<l>οὐράνιον εἰ μὴ ληψόμεσθα θεᾶς βρέτας.</l>
 					</sp>
 					<milestone ed="p" n="987" unit="card"/>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>δεινή τις ὀργὴ δαιμόνων ἐπέζεσε</l>
 						<l>τὸ Ταντάλειον σπέρμα διὰ πόνων τ’ ἄγει.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>τὸ μὲν πρόθυμον, πρίν σε δεῦρ’ ἐλθεῖν, ἔχω</l>
 						<l n="990">Ἄργει γενέσθαι καὶ σέ, σύγγον’, εἰσιδεῖν.</l>
@@ -2019,7 +2019,7 @@ bring up to P3
 						<l>συνθεὶς τάδ’ εἰς ἓν νόστον ἐλπίζω λαβεῖν.</l>
 					</sp>
 					<milestone ed="p" n="1017" unit="card"/>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>πῶς οὖν γένοιτ’ ἂν ὥστε μήθ’ ἡμᾶς θανεῖν,</l>
 						<l>λαβεῖν θ’ ἃ βουλόμεσθα; τῇδε γὰρ νοσεῖ</l>
@@ -2029,7 +2029,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l n="1020">ἆρ’ ἂν τύραννον διολέσαι δυναίμεθ’ ἄν;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>δεινὸν τόδ’ εἶπας, ξενοφονεῖν ἐπήλυδας.</l>
 					</sp>
@@ -2037,7 +2037,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>ἀλλ’, εἰ σὲ σώσει κἀμέ, κινδυνευτέον.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>οὐκ ἂν δυναίμην· τὸ δὲ πρόθυμον ᾔνεσα.</l>
 					</sp>
@@ -2045,7 +2045,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>τί δ’, εἴ με ναῷ τῷδε κρύψειας λάθρα;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l n="1025">ὡς δὴ σκότον λαβόντες ἐκσωθεῖμεν ἄν;</l>
 					</sp>
@@ -2053,7 +2053,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>κλεπτῶν γὰρ ἡ νύξ, τῆς δ’ ἀληθείας τὸ φῶς.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>εἴσ’ ἔνδον ἱεροὶ φύλακες, οὓς οὐ λήσομεν.</l>
 					</sp>
@@ -2061,7 +2061,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>οἴμοι, διεφθάρμεσθα· πῶς σωθεῖμεν ἄν;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ἔχειν δοκῶ μοι καινὸν ἐξεύρημά τι.</l>
 					</sp>
@@ -2069,7 +2069,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l n="1030">ποῖόν τι; δόξης μετάδος, ὡς κἀγὼ μάθω.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ταῖς σαῖς ἀνίαις χρήσομαι σοφίσμασι.</l>
 					</sp>
@@ -2077,7 +2077,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>δειναὶ γὰρ αἱ γυναῖκες εὑρίσκειν τέχνας.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>φονέα σε φήσω μητρὸς ἐξ Ἄργους μολεῖν.</l>
 					</sp>
@@ -2085,7 +2085,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>χρῆσαι κακοῖσι τοῖς ἐμοῖς, εἰ κερδανεῖς.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l n="1035">ὡς οὐ θέμις γε λέξομεν θύειν θεᾷ,</l>
 					</sp>
@@ -2093,7 +2093,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>τίν’ αἰτίαν ἔχουσ’; ὑποπτεύω τι γάρ.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>οὐ καθαρὸν ὄντα· τὸ δ’ ὅσιον δώσω φόβῳ.</l>
 					</sp>
@@ -2101,7 +2101,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>τί δῆτα μᾶλλον θεᾶς ἄγαλμ’ ἁλίσκεται;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>πόντου σε πηγαῖς ἁγνίσαι βουλήσομαι,</l>
 					</sp>
@@ -2109,7 +2109,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l n="1040">ἔτ’ ἐν δόμοισι βρέτας, ἐφ’ ᾧ πεπλεύκαμεν.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>κἀκεῖνο νίψαι, σοῦ θιγόντος ὥς, ἐρῶ.</l>
 					</sp>
@@ -2117,7 +2117,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>ποῖ δῆτα; πόντου νοτερὸν εἶπας ἔκβολον;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>οὗ ναῦς χαλινοῖς λινοδέτοις ὁρμεῖ σέθεν.</l>
 					</sp>
@@ -2125,7 +2125,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>σὺ δ’ ἤ τις ἄλλος ἐν χεροῖν οἴσει βρέτας;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l n="1045">ἐγώ· θιγεῖν γὰρ ὅσιόν ἐστ’ ἐμοὶ μόνῃ.</l>
 					</sp>
@@ -2133,7 +2133,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>Πυλάδης δ’ ὅδ’ ἡμῖν ποῦ τετάξεται πόνου;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ταὐτὸν χεροῖν σοὶ λέξεται μίασμ’ ἔχων.</l>
 					</sp>
@@ -2141,7 +2141,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l>λάθρα δ’ ἄνακτος ἢ εἰδότος δράσεις τάδε;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>πείσασα μύθοις· οὐ γὰρ ἂν λάθοιμί γε.</l>
 					</sp>
@@ -2149,7 +2149,7 @@ bring up to P3
 						<speaker>Ὀρέστης</speaker>
 						<l n="1050">καὶ μὴν νεώς γε πίτυλος εὐήρης πάρα.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>σοὶ δὴ μέλειν χρὴ τἄλλ’ ὅπως ἕξει καλῶς.</l>
 					</sp>
@@ -2161,7 +2161,7 @@ bring up to P3
 						<l n="1055">τὰ δ’ ἄλλ’ ἴσως — . ἅπαντα συμβαίη καλῶς.</l>
 					</sp>
 					<milestone ed="p" n="1056" unit="card"/>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ὦ φίλταται γυναῖκες, εἰς ὑμᾶς βλέπω,</l>
 						<l>καὶ τἄμ’ ἐν ὑμῖν ἐστιν ἢ καλῶς ἔχειν</l>
@@ -2183,13 +2183,13 @@ bring up to P3
 						<l>φθέγξασθε — ταῦτα; μὴ γὰρ αἰνουσῶν λόγους</l>
 						<l>ὄλωλα κἀγὼ καὶ κασίγνητος τάλας.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="1075">θάρσει, φίλη δέσποινα, καὶ σῴζου μόνον·</l>
 						<l>ὡς ἔκ γ’ ἐμοῦ σοι πάντα σιγηθήσεται — </l>
 						<l>ἴστω μέγας Ζεύς — ὧν ἐπισκήπτεις πέρι.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ὄναισθε μύθων καὶ γένοισθ’ εὐδαίμονες.</l>
 						<l>
@@ -2214,7 +2214,7 @@ bring up to P3
 			</div1>
 			<div1 type="choral">
 				<div2 n="1" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ὄρνις, ἃ παρὰ πετρίνας</l>
 						<l n="1090">πόντου δειράδας, ἀλκυών,</l>
@@ -2237,7 +2237,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ὦ πολλαὶ δακρύων λιβάδες,</l>
 						<l>αἳ παρηίδας εἰς ἐμὰς</l>
@@ -2260,7 +2260,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="2" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>καὶ σὲ μέν, πότνῑ, Ἀργεία</l>
 						<l>πεντηκόντορος οἶκον ἄξει·</l>
@@ -2280,7 +2280,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="2" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>λαμπροὺς ἱπποδρόμους βαίην,</l>
 						<l>ἔνθ’ εὐάλιον ἔρχεται πῦρ·</l>
@@ -2307,7 +2307,7 @@ bring up to P3
 					<l>Ἑλληνίς; ἤδη τῶν ξένων κατήρξατο;</l>
 					<l n="1155">ἀδύτοις ἐν ἁγνοῖς σῶμα λάμπονται πυρί;</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>ἥδ’ ἐστίν, ἥ σοι πάντ’, ἄναξ, ἐρεῖ σαφῶς.</l>
 				</sp>
@@ -2317,7 +2317,7 @@ bring up to P3
 					<l>τί τόδε μεταίρεις ἐξ ἀκινήτων βάθρων,</l>
 					<l>Ἀγαμέμνονος παῖ, θεᾶς ἄγαλμ’ ἐν ὠλέναις;</l>
 				</sp>
-				<sp who="#ifigeneia">
+				<sp who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l>ἄναξ, ἔχ’ αὐτοῦ πόδα σὸν ἐν παραστάσιν.</l>
 				</sp>
@@ -2325,7 +2325,7 @@ bring up to P3
 					<speaker>Θόας</speaker>
 					<l n="1160">τί δ’ ἔστιν, Ἰφιγένεια, καινὸν ἐν δόμοις;</l>
 				</sp>
-				<sp who="#ifigeneia">
+				<sp who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l>ἀπέπτυσ’· Ὁσίᾳ γὰρ δίδωμ’ ἔπος τόδε.</l>
 				</sp>
@@ -2333,7 +2333,7 @@ bring up to P3
 					<speaker>Θόας</speaker>
 					<l>τί φροιμιάζῃ νεοχμόν; ἐξαύδα σαφῶς.</l>
 				</sp>
-				<sp who="#ifigeneia">
+				<sp who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l>οὐ καθαρά μοι τὰ θύματ’ ἠγρεύσασθ’, ἄναξ.</l>
 				</sp>
@@ -2341,7 +2341,7 @@ bring up to P3
 					<speaker>Θόας</speaker>
 					<l>τί τοὐκδιδάξαν τοῦτό σ’; ἢ δόξαν λέγεις;</l>
 				</sp>
-				<sp who="#ifigeneia">
+				<sp who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l n="1165">βρέτας τὸ τῆς θεοῦ πάλιν ἕδρας ἀπεστράφη.</l>
 				</sp>
@@ -2349,7 +2349,7 @@ bring up to P3
 					<speaker>Θόας</speaker>
 					<l>αὐτόματον, ἤ νιν σεισμὸς ἔστρεψε χθονός;</l>
 				</sp>
-				<sp who="#ifigeneia">
+				<sp who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l>αὐτόματον· ὄψιν δ’ ὀμμάτων ξυνήρμοσεν.</l>
 				</sp>
@@ -2357,7 +2357,7 @@ bring up to P3
 					<speaker>Θόας</speaker>
 					<l>ἡ δ’ αἰτία τίς; ἦ τὸ τῶν ξένων μύσος;</l>
 				</sp>
-				<sp who="#ifigeneia">
+				<sp who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l>ἥδ’, οὐδὲν ἄλλο· δεινὰ γὰρ δεδράκατον.</l>
 				</sp>
@@ -2365,7 +2365,7 @@ bring up to P3
 					<speaker>Θόας</speaker>
 					<l n="1170">ἀλλ’ ἦ τιν’ ἔκανον βαρβάρων ἀκτῆς ἔπι;</l>
 				</sp>
-				<sp who="#ifigeneia">
+				<sp who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l>οἰκεῖον ἦλθον τὸν φόνον κεκτημένοι.</l>
 				</sp>
@@ -2373,7 +2373,7 @@ bring up to P3
 					<speaker>Θόας</speaker>
 					<l>τίν’; εἰς ἔρον γὰρ τοῦ μαθεῖν πεπτώκαμεν.</l>
 				</sp>
-				<sp who="#ifigeneia">
+				<sp who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l>μητέρα κατειργάσαντο κοινωνῷ ξίφει.</l>
 				</sp>
@@ -2381,7 +2381,7 @@ bring up to P3
 					<speaker>Θόας</speaker>
 					<l>Ἄπολλον, οὐδ’ ἐν βαρβάροις ἔτλη τις ἄν.</l>
 				</sp>
-				<sp who="#ifigeneia">
+				<sp who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l n="1175">πάσης διωγμοῖς ἠλάθησαν Ἑλλάδος.</l>
 				</sp>
@@ -2389,7 +2389,7 @@ bring up to P3
 					<speaker>Θόας</speaker>
 					<l>ἦ τῶνδ’ ἕκατι δῆτ’ ἄγαλμ’ ἔξω φέρεις;</l>
 				</sp>
-				<sp who="#ifigeneia">
+				<sp who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l>σεμνόν γ’ ὑπ’ αἰθέρ’, ὡς μεταστήσω φόνου.</l>
 				</sp>
@@ -2397,7 +2397,7 @@ bring up to P3
 					<speaker>Θόας</speaker>
 					<l>μίασμα δ’ ἔγνως τοῖν ξένοιν ποίῳ τρόπῳ;</l>
 				</sp>
-				<sp who="#ifigeneia">
+				<sp who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l>ἤλεγχον, ὡς θεᾶς βρέτας ἀπεστράφη πάλιν.</l>
 				</sp>
@@ -2405,7 +2405,7 @@ bring up to P3
 					<speaker>Θόας</speaker>
 					<l n="1180">σοφήν σ’ ἔθρεψεν Ἑλλάς, ὡς ᾔσθου καλῶς.</l>
 				</sp>
-				<sp who="#ifigeneia">
+				<sp who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l>καὶ μὴν καθεῖσαν δέλεαρ ἡδύ μοι φρενῶν.</l>
 				</sp>
@@ -2413,7 +2413,7 @@ bring up to P3
 					<speaker>Θόας</speaker>
 					<l>τῶν Ἀργόθεν τι φίλτρον ἀγγέλλοντέ σοι;</l>
 				</sp>
-				<sp who="#ifigeneia">
+				<sp who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l>τὸν μόνον Ὀρέστην ἐμὸν ἀδελφὸν εὐτυχεῖν.</l>
 				</sp>
@@ -2421,7 +2421,7 @@ bring up to P3
 					<speaker>Θόας</speaker>
 					<l>ὡς δή σφε σῴσαις ἡδοναῖς ἀγγελμάτων.</l>
 				</sp>
-				<sp who="#ifigeneia">
+				<sp who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l n="1185">καὶ πατέρα γε ζῆν καὶ καλῶς πράσσειν ἐμόν.</l>
 				</sp>
@@ -2429,7 +2429,7 @@ bring up to P3
 					<speaker>Θόας</speaker>
 					<l>σὺ δ’ ἐς τὸ τῆς θεοῦ γ’ ἐξένευσας εἰκότως.</l>
 				</sp>
-				<sp who="#ifigeneia">
+				<sp who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l>πᾶσάν γε μισοῦσ’ Ἑλλάδ’, ἥ μ’ ἀπώλεσεν.</l>
 				</sp>
@@ -2437,7 +2437,7 @@ bring up to P3
 					<speaker>Θόας</speaker>
 					<l>τί δῆτα δρῶμεν, φράζε, τοῖν ξένοιν πέρι;</l>
 				</sp>
-				<sp who="#ifigeneia">
+				<sp who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l>τὸν νόμον ἀνάγκη τὸν προκείμενον σέβειν.</l>
 				</sp>
@@ -2445,7 +2445,7 @@ bring up to P3
 					<speaker>Θόας</speaker>
 					<l n="1190">οὔκουν ἐν ἔργῳ χέρνιβες ξίφος τε σόν;</l>
 				</sp>
-				<sp who="#ifigeneia">
+				<sp who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l>ἁγνοῖς καθαρμοῖς πρῶτά νιν νίψαι θέλω.</l>
 				</sp>
@@ -2453,7 +2453,7 @@ bring up to P3
 					<speaker>Θόας</speaker>
 					<l>πηγαῖσιν ὑδάτων ἢ θαλασσίᾳ δρόσῳ;</l>
 				</sp>
-				<sp who="#ifigeneia">
+				<sp who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l>θάλασσα κλύζει πάντα τἀνθρώπων κακά.</l>
 				</sp>
@@ -2461,7 +2461,7 @@ bring up to P3
 					<speaker>Θόας</speaker>
 					<l>ὁσιώτερον γοῦν τῇ θεῷ πέσοιεν ἄν.</l>
 				</sp>
-				<sp who="#ifigeneia">
+				<sp who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l n="1195">καὶ τἀμά γ’ οὕτω μᾶλλον ἂν καλῶς ἔχοι.</l>
 				</sp>
@@ -2469,7 +2469,7 @@ bring up to P3
 					<speaker>Θόας</speaker>
 					<l>οὔκουν πρὸς αὐτὸν ναὸν ἐκπίπτει κλύδων;</l>
 				</sp>
-				<sp who="#ifigeneia">
+				<sp who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l>ἐρημίας δεῖ· καὶ γὰρ ἄλλα δράσομεν.</l>
 				</sp>
@@ -2477,7 +2477,7 @@ bring up to P3
 					<speaker>Θόας</speaker>
 					<l>ἄγ’ ἔνθα χρῄζεις· οὐ φιλῶ τἄρρηθ’ ὁρᾶν.</l>
 				</sp>
-				<sp who="#ifigeneia">
+				<sp who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l>ἁγνιστέον μοι καὶ τὸ τῆς θεοῦ βρέτας.</l>
 				</sp>
@@ -2485,7 +2485,7 @@ bring up to P3
 					<speaker>Θόας</speaker>
 					<l n="1200">εἴπερ γε κηλὶς ἔβαλέ νιν μητροκτόνος.</l>
 				</sp>
-				<sp who="#ifigeneia">
+				<sp who="#iphigeneia">
 					<speaker>Ἰφιγένεια</speaker>
 					<l>οὐ γάρ ποτ’ ἄν νιν ἠράμην βάθρων ἄπο.</l>
 				</sp>
@@ -2495,7 +2495,7 @@ bring up to P3
 					<milestone ed="p" n="1203" unit="card"/>
 				</sp>
 				<div2 type="trochees">
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>οἶσθά νυν ἅ μοι γενέσθω;</l>
 					</sp>
@@ -2503,7 +2503,7 @@ bring up to P3
 						<speaker>Θόας</speaker>
 						<l part="Y">σὸν τὸ σημαίνειν τόδε.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>δεσμὰ τοῖς ξένοισι πρόσθες.</l>
 					</sp>
@@ -2511,7 +2511,7 @@ bring up to P3
 						<speaker>Θόας</speaker>
 						<l part="Y">ποῖ δέ σ’ ἐκφύγοιεν ἄν;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l n="1205">πιστὸν Ἑλλὰς οἶδεν οὐδέν.</l>
 					</sp>
@@ -2519,7 +2519,7 @@ bring up to P3
 						<speaker>Θόας</speaker>
 						<l part="Y">ἴτ’ ἐπὶ δεσμά, πρόσπολοι.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>κἀκκομιζόντων δὲ δεῦρο τοὺς ξένους — </l>
 					</sp>
@@ -2527,7 +2527,7 @@ bring up to P3
 						<speaker>Θόας</speaker>
 						<l part="Y">ἔσται τάδε.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>κρᾶτα κρύψαντες πέπλοισιν.</l>
 					</sp>
@@ -2535,7 +2535,7 @@ bring up to P3
 						<speaker>Θόας</speaker>
 						<l part="Y">ἡλίου πρόσθεν φλογός.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>σῶν τέ μοι σύμπεμπ’ ὀπαδῶν.</l>
 					</sp>
@@ -2543,7 +2543,7 @@ bring up to P3
 						<speaker>Θόας</speaker>
 						<l part="Y">οἵδ’ ὁμαρτήσουσί σοι.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>καὶ πόλει πέμψον τιν’ ὅστις σημανεῖ — </l>
 					</sp>
@@ -2551,7 +2551,7 @@ bring up to P3
 						<speaker>Θόας</speaker>
 						<l part="Y">ποίας τύχας;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l n="1210">ἐν δόμοις μίμνειν ἅπαντας.</l>
 					</sp>
@@ -2559,7 +2559,7 @@ bring up to P3
 						<speaker>Θόας</speaker>
 						<l part="Y">μὴ συναντῷεν φόνῳ;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>μυσαρὰ γὰρ τὰ τοιάδ’ ἐστί.</l>
 					</sp>
@@ -2567,7 +2567,7 @@ bring up to P3
 						<speaker>Θόας</speaker>
 						<l part="Y">στεῖχε καὶ σήμαινε σύ — </l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>μηδέν’ εἰς ὄψιν πελάζειν.</l>
 					</sp>
@@ -2575,7 +2575,7 @@ bring up to P3
 						<speaker>Θόας</speaker>
 						<l part="Y">εὖ γε κηδεύεις πόλιν.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>καὶ φίλων γ’ οὓς δεῖ μάλιστα.</l>
 					</sp>
@@ -2583,7 +2583,7 @@ bring up to P3
 						<speaker>Θόας</speaker>
 						<l part="Y">τοῦτ’ ἔλεξας εἰς ἐμέ.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<!-- lacuna here? -->
 						<l>. . .</l>
@@ -2592,7 +2592,7 @@ bring up to P3
 						<speaker>Θόας</speaker>
 						<l part="Y">ὡς εἰκότως σε πᾶσα θαυμάζει πόλις.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l n="1215">σὺ δὲ μένων αὐτοῦ πρὸ ναῶν τῇ θεῷ — </l>
 					</sp>
@@ -2600,7 +2600,7 @@ bring up to P3
 						<speaker>Θόας</speaker>
 						<l part="Y">τί χρῆμα δρῶ;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ἅγνισον πυρσῷ μέλαθρον.</l>
 					</sp>
@@ -2608,7 +2608,7 @@ bring up to P3
 						<speaker>Θόας</speaker>
 						<l part="Y">καθαρὸν ὡς μόλῃς πάλιν.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ἡνίκ’ ἂν δ’ ἔξω περῶσιν οἱ ξένοι — </l>
 					</sp>
@@ -2616,7 +2616,7 @@ bring up to P3
 						<speaker>Θόας</speaker>
 						<l part="Y">τί χρή με δρᾶν;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>πέπλον ὀμμάτων προθέσθαι.</l>
 					</sp>
@@ -2624,7 +2624,7 @@ bring up to P3
 						<speaker>Θόας</speaker>
 						<l part="Y">μὴ παλαμναῖον λάβω.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>ἢν δ’ ἄγαν δοκῶ χρονίζειν — </l>
 					</sp>
@@ -2632,7 +2632,7 @@ bring up to P3
 						<speaker>Θόας</speaker>
 						<l part="Y">τοῦδ’ ὅρος τίς ἐστί μοι;</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l n="1220">θαυμάσῃς μηδέν.</l>
 					</sp>
@@ -2640,7 +2640,7 @@ bring up to P3
 						<speaker>Θόας</speaker>
 						<l part="Y">τὰ τῆς θεοῦ πρᾶσσ’ — ἐπεὶ σχολή — καλῶς.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>εἰ γὰρ ὡς θέλω καθαρμὸς ὅδε πέσοι.</l>
 					</sp>
@@ -2648,7 +2648,7 @@ bring up to P3
 						<speaker>Θόας</speaker>
 						<l part="Y">συνεύχομαι.</l>
 					</sp>
-					<sp who="#ifigeneia">
+					<sp who="#iphigeneia">
 						<speaker>Ἰφιγένεια</speaker>
 						<l>τούσδ’ ἄρ’ ἐκβαίνοντας ἤδη δωμάτων ὁρῶ ξένους</l>
 						<l>καὶ θεᾶς κόσμους νεογνούς τ’ ἄρνας, ὡς φόνῳ φόνον</l>
@@ -2671,7 +2671,7 @@ bring up to P3
 			<milestone ed="p" n="1234" unit="card"/>
 			<div1 type="choral">
 				<div2 n="1" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>εὔπαις ὁ Λατοῦς γόνος,</l>
 						<l n="1235">τόν ποτε Δηλιὰς ἐν καρποφόροις γυάλοις</l>
@@ -2700,7 +2700,7 @@ bring up to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>Θέμιν δ’ ἐπεὶ γᾶς ἰὼν</l>
 						<l n="1260">παῖδ’ ἀπενάσσατο &lt;Πυθῶνος&gt; ἀπὸ ζαθέων</l>
@@ -2730,49 +2730,49 @@ bring up to P3
 			</div1>
 			<milestone ed="p" n="1284" unit="card"/>
 			<div1 type="episode">
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>ὦ ναοφύλακες βώμιοί τ’ ἐπιστάται,</l>
 					<l n="1285">Θόας ἄναξ γῆς τῆσδε ποῦ κυρεῖ βεβώς;</l>
 					<l>καλεῖτ’ ἀναπτύξαντες εὐγόμφους πύλας</l>
 					<l>ἔξω μελάθρων τῶνδε κοίρανον χθονός.</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>τί δ’ ἔστιν, εἰ χρὴ μὴ κελευσθεῖσαν λέγειν;</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>βεβᾶσι φροῦδοι δίπτυχοι νεανίαι</l>
 					<l n="1290">Ἀγαμεμνονείας παιδὸς ἐκ βουλευμάτων</l>
 					<l>φεύγοντες ἐκ γῆς τῆσδε καὶ σεμνὸν βρέτας</l>
 					<l>λαβόντες ἐν κόλποισιν Ἑλλάδος νεώς.</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>ἄπιστον εἶπας μῦθον· ὃν δ’ ἰδεῖν θέλεις</l>
 					<l>ἄνακτα χώρας, φροῦδος ἐκ ναοῦ συθείς.</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l n="1295">ποῖ; δεῖ γὰρ αὐτὸν εἰδέναι τὰ δρώμενα.</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>οὐκ ἴσμεν· ἀλλὰ στεῖχε καὶ δίωκέ νιν</l>
 					<l>ὅπου κυρήσας τούσδ’ ἀπαγγελεῖς λόγους.</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>ὁρᾶτ’, ἄπιστον ὡς γυναικεῖον γένος·</l>
 					<l>μέτεστι χὑμῖν τῶν πεπραγμένων μέρος.</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l n="1300">μαίνῃ· τί δ’ ἡμῖν τῶν ξένων δρασμοῦ μέτα;</l>
 					<l>οὐκ εἶ κρατούντων πρὸς πύλας ὅσον τάχος;</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>οὔ, πρίν γ’ ἂν εἴπῃ τοὔπος ἑρμηνεὺς ὅδε,</l>
 					<l>εἴτ’ ἔνδον εἴτ’ οὐκ ἔνδον ἀρχηγὸς χθονός.</l>
@@ -2788,7 +2788,7 @@ bring up to P3
 					<l>τίς ἀμφὶ δῶμα θεᾶς τόδ’ ἵστησιν βοήν,</l>
 					<l>πύλας ἀράξας καὶ ψόφον πέμψας ἔσω;</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>φεῦ·</l>
 					<l>πῶς ἔλεγον αἵδε, καί μ’ ἀπήλαυνον δόμων,</l>
@@ -2798,7 +2798,7 @@ bring up to P3
 					<speaker>Θόας</speaker>
 					<l>τί προσδοκῶσαι κέρδος ἢ θηρώμεναι;</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>αὖθις τὰ τῶνδε σημανῶ· τὰ δ’ ἐν ποσὶ</l>
 					<l>παρόντ’ ἄκουσον. ἡ νεᾶνις ἣ ’νθάδε</l>
@@ -2810,7 +2810,7 @@ bring up to P3
 					<speaker>Θόας</speaker>
 					<l>πῶς φῄς; τί πνεῦμα συμφορᾶς κεκτημένη;</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>σῴζουσ’ Ὀρέστην· τοῦτο γὰρ σὺ θαυμάσῃ.</l>
 				</sp>
@@ -2818,7 +2818,7 @@ bring up to P3
 					<speaker>Θόας</speaker>
 					<l>τὸν ποῖον; ἆρ’ ὃν Τυνδαρὶς τίκτει κόρη;</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l n="1320">ὃν τοῖσδε βωμοῖς θεὰ καθωσιώσατο.</l>
 				</sp>
@@ -2826,7 +2826,7 @@ bring up to P3
 					<speaker>Θόας</speaker>
 					<l>ὦ θαῦμα — πῶς σε μεῖζον ὀνομάσας τύχω;</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>μὴ ’νταῦθα τρέψῃς σὴν φρέν’, ἀλλ’ ἄκουέ μου·</l>
 					<l>σαφῶς δ’ ἀθρήσας καὶ κλύων ἐκφρόντισον</l>
@@ -2838,7 +2838,7 @@ bring up to P3
 					<l>φεύγουσιν, ὥστε διαφυγεῖν τοὐμὸν δόρυ.</l>
 					<milestone ed="p" n="1327" unit="card"/>
 				</sp>
-				<sp n="Ἄγγελος" who="#aggelos">
+				<sp n="Ἄγγελος" who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>ἐπεὶ πρὸς ἀκτὰς ἤλθομεν θαλασσίας,</l>
 					<l>οὗ ναῦς Ὀρέστου κρύφιος ἦν ὡρμισμένη,</l>
@@ -2945,7 +2945,7 @@ bring up to P3
 					<l>λαβεῖν, ἀδελφήν θ’, ἣ φόνον τὸν Αὐλίδι</l>
 					<l>ἀμνημόνευτον θεᾷ προδοῦσ’ ἁλίσκεται.</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l n="1420">ὦ τλῆμον Ἰφιγένεια, συγγόνου μέτα</l>
 					<l>θανῇ πάλιν μολοῦσα δεσποτῶν χέρας.</l>
@@ -3050,7 +3050,7 @@ bring up to P3
 					<milestone ed="p" n="1490" unit="card"/>
 				</sp>
 				<div2 type="anapests">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="1490">ἴτ’ ἐπ’ εὐτυχίᾳ τῆς σῳζομένης</l>
 						<l>μοίρας εὐδαίμονες ὄντες.</l>

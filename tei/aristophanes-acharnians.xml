@@ -52,19 +52,19 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="nikarxos">
+					<person xml:id="nikarchos">
 						<persName>Νίκαρχος</persName>
 					</person>
-					<person xml:id="aggelosa">
+					<person xml:id="angelos_a">
 						<persName>Ἄγγελος Α</persName>
 					</person>
 					<person xml:id="dr">
 						<persName>Δρ.</persName>
 					</person>
-					<person xml:id="eyripides">
+					<person xml:id="euripides">
 						<persName>Εὐριπίδης</persName>
 					</person>
-					<person xml:id="amfitheos">
+					<person xml:id="amphitheos">
 						<persName>Ἀμφίθεος</persName>
 					</person>
 					<person xml:id="thygater">
@@ -73,43 +73,43 @@
 					<person xml:id="georgos">
 						<persName>Γεωργός</persName>
 					</person>
-					<person xml:id="keryks">
+					<person xml:id="keryx">
 						<persName>Κῆρυξ</persName>
 					</person>
-					<personGrp xml:id="xoros">
+					<personGrp xml:id="choros">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="sykofantes">
+					<person xml:id="sykophantes">
 						<persName>Συκοφάντης</persName>
 					</person>
-					<person xml:id="pseydartabas">
+					<person xml:id="pseudartabas">
 						<persName>Ψευδαρτάβας</persName>
 					</person>
-					<person xml:id="paranymfos">
+					<person xml:id="paranymphos">
 						<persName>Παράνυμφος</persName>
 					</person>
 					<person xml:id="dikaiopolis">
 						<persName>Δικαιόπολις</persName>
 					</person>
-					<person xml:id="theraponlamaxoy">
+					<person xml:id="therapon_lamachou">
 						<persName>Θεράπων Λαμάχου</persName>
 					</person>
 					<person xml:id="presbys">
 						<persName>Πρέσβυς</persName>
 					</person>
-					<person xml:id="megareys">
+					<person xml:id="megareus">
 						<persName>Μεγαρεύς</persName>
 					</person>
-					<person xml:id="emixorionb">
-						<persName>Ἡμιχόριον Β</persName>
-					</person>
-					<person xml:id="emixoriona">
-						<persName>Ἡμιχόριον Α</persName>
-					</person>
+					<personGrp xml:id="hemichorion_a">
+						<name>Ἡμιχόριον Α</name>
+					</personGrp>
+					<personGrp xml:id="hemichorion_b">
+						<name>Ἡμιχόριον Β</name>
+					</personGrp>
 					<person xml:id="boiotos">
 						<persName>Βοιωτός</persName>
 					</person>
-					<person xml:id="lamaxos">
+					<person xml:id="lamachos">
 						<persName>Λάμαχος</persName>
 					</person>
 					<person xml:id="kora">
@@ -121,13 +121,13 @@
 					<person xml:id="theoros">
 						<persName>Θέωρος</persName>
 					</person>
-					<person xml:id="aggelosb">
+					<person xml:id="angelos_b">
 						<persName>Ἄγγελος Β</persName>
 					</person>
 					<person xml:id="dikaiopolos">
 						<persName>Δικαιόπολος</persName>
 					</person>
-					<person xml:id="kefisofon">
+					<person xml:id="kephisophon">
 						<persName>Κηφισόφων</persName>
 					</person>
 				</listPerson>
@@ -253,36 +253,36 @@ convert to P3
 					<l>ἐς τὴν προεδρίαν πᾶς ἀνὴρ ὠστίζεται.</l>
 					<milestone ed="p" n="43" unit="card"/>
 				</sp>
-				<sp who="#keryks">
+				<sp who="#keryx">
 					<speaker>Κῆρυξ</speaker>
 					<l>πάριτ’ ἐς τὸ πρόσθεν,</l>
 					<l>πάριθ’, ὡς ἂν ἐντὸς ἦτε τοῦ καθάρματος.</l>
 				</sp>
-				<sp who="#amfitheos">
+				<sp who="#amphitheos">
 					<speaker>Ἀμφίθεος</speaker>
 					<l n="45">ἤδη τις εἶπε;</l>
 				</sp>
-				<sp who="#keryks">
+				<sp who="#keryx">
 					<speaker>Κῆρυξ</speaker>
 					<l part="Y">τίς ἀγορεύειν βούλεται;</l>
 				</sp>
-				<sp who="#amfitheos">
+				<sp who="#amphitheos">
 					<speaker>Ἀμφίθεος</speaker>
 					<l>ἐγώ.</l>
 				</sp>
-				<sp who="#keryks">
+				<sp who="#keryx">
 					<speaker>Κῆρυξ</speaker>
 					<l part="Y">τίς ὤν;</l>
 				</sp>
-				<sp who="#amfitheos">
+				<sp who="#amphitheos">
 					<speaker>Ἀμφίθεος</speaker>
 					<l part="Y">Ἀμφίθεος.</l>
 				</sp>
-				<sp who="#keryks">
+				<sp who="#keryx">
 					<speaker>Κῆρυξ</speaker>
 					<l part="Y">οὐκ ἄνθρωπος;</l>
 				</sp>
-				<sp who="#amfitheos">
+				<sp who="#amphitheos">
 					<speaker>Ἀμφίθεος</speaker>
 					<l part="Y">οὔ,</l>
 					<l>ἀλλ’ ἀθάνατος. ὁ γὰρ Ἀμφίθεος Δήμητρος ἦν</l>
@@ -294,11 +294,11 @@ convert to P3
 					<l>ἀλλ’ ἀθάνατος ὢν ὦνδρες ἐφόδῑ οὐκ ἔχω·</l>
 					<l>οὐ γὰρ διδόασιν οἱ πρυτάνεις.</l>
 				</sp>
-				<sp who="#keryks">
+				<sp who="#keryx">
 					<speaker>Κῆρυξ</speaker>
 					<l part="Y">οἱ τοξόται.</l>
 				</sp>
-				<sp who="#amfitheos">
+				<sp who="#amphitheos">
 					<speaker>Ἀμφίθεος</speaker>
 					<l n="55">ὦ Τριπτόλεμε καὶ Κελεὲ περιόψεσθέ με;</l>
 				</sp>
@@ -308,7 +308,7 @@ convert to P3
 					<l>τὸν ἄνδρ’ ἀπάγοντες, ὅστις ἡμῖν ἤθελε</l>
 					<l>σπονδὰς ποιεῖσθαι καὶ κρεμάσαι τὰς ἀσπίδας.</l>
 				</sp>
-				<sp who="#keryks">
+				<sp who="#keryx">
 					<speaker>Κῆρυξ</speaker>
 					<l>κάθησο, σῖγα.</l>
 				</sp>
@@ -317,7 +317,7 @@ convert to P3
 					<l part="Y">μὰ τὸν Ἀπόλλω ’γὼ μὲν οὔ,</l>
 					<l n="60">ἢν μὴ περὶ εἰρήνης γε πρυτανεύσητέ μοι.</l>
 				</sp>
-				<sp who="#keryks">
+				<sp who="#keryx">
 					<speaker>Κῆρυξ</speaker>
 					<l>οἱ πρέσβεις οἱ παρὰ βασιλέως.</l>
 				</sp>
@@ -326,7 +326,7 @@ convert to P3
 					<l>ποίου βασιλέως; ἄχθομαι ’γὼ πρέσβεσιν</l>
 					<l>καὶ τοῖς ταὧσι τοῖς τ’ ἀλαζονεύμασιν.</l>
 				</sp>
-				<sp who="#keryks">
+				<sp who="#keryx">
 					<speaker>Κῆρυξ</speaker>
 					<l>σίγα.</l>
 				</sp>
@@ -417,7 +417,7 @@ convert to P3
 					<l part="Y">ἐκκόψειέ γε</l>
 					<l>κόραξ πατάξας, τόν τε σὸν τοῦ πρέσβεως.</l>
 				</sp>
-				<sp who="#keryks">
+				<sp who="#keryx">
 					<speaker>Κῆρυξ</speaker>
 					<l>ὁ βασιλέως ὀφθαλμός.</l>
 				</sp>
@@ -434,7 +434,7 @@ convert to P3
 					<l>λέξοντ’ Ἀθηναίοισιν ὦ Ψευδαρτάβα.</l>
 					<milestone ed="p" n="100" unit="card"/>
 				</sp>
-				<sp who="#pseydartabas">
+				<sp who="#pseudartabas">
 					<speaker>Ψευδαρτάβας</speaker>
 					<l n="100">ἰαρταμὰν ἐξάρξαν ἀπισσόνα σάτρα.</l>
 				</sp>
@@ -451,7 +451,7 @@ convert to P3
 					<l>πέμψειν βασιλέα φησὶν ὑμῖν χρυσίον.</l>
 					<l>λέγε δὴ σὺ μεῖζον καὶ σαφῶς τὸ χρυσίον.</l>
 				</sp>
-				<sp who="#pseydartabas">
+				<sp who="#pseudartabas">
 					<speaker>Ψευδαρτάβας</speaker>
 					<l n="104">οὐ λῆψι χρῦσο χαυνόπρωκτ’ Ἰαοναῦ.</l>
 				</sp>
@@ -489,7 +489,7 @@ convert to P3
 					<l>εὐνοῦχος ἡμῖν ἦλθες ἐσκευασμένος;</l>
 					<l>ὁδὶ δὲ τίς ποτ’ ἐστίν; οὐ δήπου Στράτων;</l>
 				</sp>
-				<sp who="#keryks">
+				<sp who="#keryx">
 					<speaker>Κῆρυξ</speaker>
 					<l>σίγα, κάθιζε.</l>
 					<l n="124">τὸν βασιλέως ὀφθαλμὸν ἡ βουλὴ καλεῖ</l>
@@ -503,7 +503,7 @@ convert to P3
 					<l>ἀλλ’ ἐργάσομαί τι δεινὸν ἔργον καὶ μέγα.</l>
 					<l>ἀλλ’ Ἀμφίθεός μοι ποῦ ’στιν;</l>
 				</sp>
-				<sp who="#amfitheos">
+				<sp who="#amphitheos">
 					<speaker>Ἀμφίθεος</speaker>
 					<l part="Y">οὑτοσὶ πάρα.</l>
 				</sp>
@@ -515,7 +515,7 @@ convert to P3
 					<l>ὑμεῖς δὲ πρεσβεύεσθε καὶ κεχήνετε.</l>
 					<milestone ed="p" n="134" unit="card"/>
 				</sp>
-				<sp who="#keryks">
+				<sp who="#keryx">
 					<speaker>Κῆρυξ</speaker>
 					<l>προσίτω Θέωρος ὁ παρὰ Σιτάλκους.</l>
 				</sp>
@@ -566,7 +566,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l part="Y">τοῦτο μέν γ’ ἤδη σαφές.</l>
 				</sp>
-				<sp who="#keryks">
+				<sp who="#keryx">
 					<speaker>Κῆρυξ</speaker>
 					<l n="155">οἱ Θρᾷκες ἴτε δεῦρ’, οὓς Θέωρος ἤγαγεν.</l>
 				</sp>
@@ -610,7 +610,7 @@ convert to P3
 					<l>διοσημία ’στὶ καὶ ῥανὶς βέβληκέ με.</l>
 					<milestone ed="p" n="172" unit="card"/>
 				</sp>
-				<sp who="#keryks">
+				<sp who="#keryx">
 					<speaker>Κῆρυξ</speaker>
 					<l>τοὺς Θρᾷκας ἀπιέναι, παρεῖναι δ’ εἰς ἔνην.</l>
 					<l>οἱ γὰρ πρυτάνεις λύουσι τὴν ἐκκλησίαν.</l>
@@ -621,7 +621,7 @@ convert to P3
 					<l n="175">ἀλλ’ ἐκ Λακεδαίμονος γὰρ Ἀμφίθεος ὁδί.</l>
 					<l>χαῖρ’ Ἀμφίθεε.</l>
 				</sp>
-				<sp who="#amfitheos">
+				<sp who="#amphitheos">
 					<speaker>Ἀμφίθεος</speaker>
 					<l part="Y">μήπω γε πρίν γ’ ἂν στῶ τρέχων·</l>
 					<l>δεῖ γάρ με φεύγοντ’ ἐκφυγεῖν Ἀχαρνέας.</l>
@@ -630,7 +630,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l>τί δ’ ἔστ’;</l>
 				</sp>
-				<sp who="#amfitheos">
+				<sp who="#amphitheos">
 					<speaker>Ἀμφίθεος</speaker>
 					<l part="Y">ἐγὼ μὲν δεῦρό σοι σπονδὰς φέρων</l>
 					<l>ἔσπευδον· οἱ δ’ ὤσφροντο πρεσβῦταί τινες</l>
@@ -645,7 +645,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l>οἱ δ’ οὖν βοώντων· ἀλλὰ τὰς σπονδὰς φέρεις;</l>
 				</sp>
-				<sp who="#amfitheos">
+				<sp who="#amphitheos">
 					<speaker>Ἀμφίθεος</speaker>
 					<l>ἔγωγέ φημι, τρία γε ταυτὶ γεύματα.</l>
 					<l>αὗται μέν εἰσι πεντέτεις. γεῦσαι λαβών.</l>
@@ -654,7 +654,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l>αἰβοῖ.</l>
 				</sp>
-				<sp who="#amfitheos">
+				<sp who="#amphitheos">
 					<speaker>Ἀμφίθεος</speaker>
 					<l part="Y">τί ἔστιν;</l>
 				</sp>
@@ -663,7 +663,7 @@ convert to P3
 					<l part="Y">οὐκ ἀρέσκουσίν μ’ ὅτι</l>
 					<l n="190">ὄζουσι πίττης καὶ παρασκευῆς νεῶν.</l>
 				</sp>
-				<sp who="#amfitheos">
+				<sp who="#amphitheos">
 					<speaker>Ἀμφίθεος</speaker>
 					<l>σὺ δ’ ἀλλὰ τασδὶ τὰς δεκέτεις γεῦσαι λαβών.</l>
 				</sp>
@@ -672,7 +672,7 @@ convert to P3
 					<l>ὄζουσι χαὖται πρέσβεων ἐς τὰς πόλεις</l>
 					<l>ὀξύτατον ὥσπερ διατριβῆς τῶν ξυμμάχων.</l>
 				</sp>
-				<sp who="#amfitheos">
+				<sp who="#amphitheos">
 					<speaker>Ἀμφίθεος</speaker>
 					<l>ἀλλ’ αὑταιὶ σπονδαὶ τριακοντούτιδες</l>
 					<l n="195">κατὰ γῆν τε καὶ θάλατταν.</l>
@@ -688,7 +688,7 @@ convert to P3
 					<l>ἐγὼ δὲ πολέμου καὶ κακῶν ἀπαλλαγεὶς</l>
 					<l>ἄξω τὰ κατ’ ἀγροὺς εἰσιὼν Διονύσια.</l>
 				</sp>
-				<sp who="#amfitheos">
+				<sp who="#amphitheos">
 					<speaker>Ἀμφίθεος</speaker>
 					<l>ἐγὼ δὲ φευξοῦμαί γε τοὺς Ἀχαρνέας.</l>
 					<milestone ed="p" n="204" unit="card"/>
@@ -696,7 +696,7 @@ convert to P3
 			</div1>
 			<div1 type="Parodos">
 				<div2 type="trochees">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>τῇδε πᾶς ἕπου δίωκε καὶ τὸν ἄνδρα πυνθάνου</l>
 						<l n="205">τῶν ὁδοιπόρων ἁπάντων· τῇ πόλει γὰρ ἄξιον</l>
@@ -706,7 +706,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἐκπέφευγ’, οἴχεται φροῦδος. οἴμοι τάλας</l>
 						<l n="210">τῶν ἐτῶν τῶν ἐμῶν·</l>
@@ -718,7 +718,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 type="trochees">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>νῦν δ’ ἐπειδὴ στερρὸν ἤδη τοὐμὸν ἀντικνήμιον,</l>
 						<l n="220">καὶ παλαιῷ Λακρατείδῃ τὸ σκέλος βαρύνεται,</l>
@@ -728,7 +728,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="225">ὅστις ὦ Ζεῦ πάτερ καὶ θεοὶ τοῖσιν ἐχθροῖσιν ἐσπείσατο,</l>
 						<l>οἷσι παρ’ ἐμοῦ πόλεμος ἐχθοδοπὸς αὔξεται τῶν ἐμῶν χωρίων·</l>
@@ -740,7 +740,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 type="trochees">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἀλλὰ δεῖ ζητεῖν τὸν ἄνδρα καὶ βλέπειν βαλληνάδε</l>
 						<l n="235">καὶ διώκειν γῆν πρὸ γῆς, ἕως ἂν εὑρεθῇ ποτέ·</l>
@@ -750,7 +750,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>εὐφημεῖτε, εὐφημεῖτε.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>σῖγα πᾶς. ἠκούσατ’ ἄνδρες ἆρα τῆς εὐφημίας;</l>
 						<l>οὗτος αὐτός ἐστιν ὃν ζητοῦμεν. ἀλλὰ δεῦρο πᾶς</l>
@@ -818,7 +818,7 @@ convert to P3
 			</div1>
 			<div1 type="Parodos">
 				<div2 type="lyric">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="280">οὗτος αὐτός ἐστιν, οὗτος.</l>
 						<l>βάλλε βάλλε βάλλε βάλλε,</l>
@@ -832,7 +832,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>Ἡράκλεις τουτὶ τί ἐστι; τὴν χύτραν συντρίψετε.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="285">σὲ μὲν οὖν καταλεύσομεν ὦ μιαρὰ κεφαλή.</l>
 					</sp>
@@ -840,7 +840,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>ἀντὶ ποίας αἰτίας ὦχαρνέων γεραίτατοι;</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>τοῦτ’ ἐρωτᾷς; ἀναίσχυντος εἶ καὶ βδελυρὸς</l>
 						<l n="290">ὦ προδότα τῆς πατρίδος, ὅστις ἡμῶν μόνος</l>
@@ -850,7 +850,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>ἀντὶ δ’ ὧν ἐσπεισάμην οὐκ ἴστε. μἀλλᾱ ἀκούσατε.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="295">σοῦ γ’ ἀκούσωμεν; ἀπολεῖ· κατά σε χώσομεν τοῖς λίθοις.</l>
 					</sp>
@@ -858,7 +858,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>μηδαμῶς πρὶν ἄν γ’ ἀκούσητ’· ἀλλ’ ἀνάσχεσθ’ ὦγαθοί.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>οὐκ ἀνασχήσομαι· μηδὲ λέγε μοι σὺ λόγον·</l>
 						<l n="300">ὡς μεμίσηκά σε Κλέωνος ἔτι μᾶλλον, ὃν ἐγὼ</l>
@@ -867,7 +867,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 type="trochees">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>σοῦ δ’ ἐγὼ λόγους λέγοντος οὐκ ἀκούσομαι μακρούς,</l>
 						<l>ὅστις ἐσπείσω Λάκωσιν, ἀλλὰ τιμωρήσομαι.</l>
@@ -877,7 +877,7 @@ convert to P3
 						<l n="305">ὦγαθοὶ τοὺς μὲν Λάκωνας ἐκποδὼν ἐάσατε,</l>
 						<l>τῶν δ’ ἐμῶν σπονδῶν ἀκούσατ’, εἰ καλῶς ἐσπεισάμην.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>πῶς δέ γ’ ἂν καλῶς λέγοις ἄν, εἴπερ ἐσπείσω γ’ ἅπαξ</l>
 						<l>οἷσιν οὔτε βωμὸς οὔτε πίστις οὔθ’ ὅρκος μένει;</l>
@@ -887,7 +887,7 @@ convert to P3
 						<l>οἶδ’ ἐγὼ καὶ τοὺς Λάκωνας, οἷς ἄγαν ἐγκείμεθα,</l>
 						<l n="310">οὐχ ἁπάντων ὄντας ἡμῖν αἰτίους τῶν πραγμάτων.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>οὐχ ἁπάντων ὦ πανοῦργε; ταῦτα δὴ τολμᾷς λέγειν</l>
 						<l>ἐμφανῶς ἤδη πρὸς ἡμᾶς; εἶτ’ ἐγώ σου φείσομαι;</l>
@@ -897,7 +897,7 @@ convert to P3
 						<l>οὐχ ἁπάντων, οὐχ ἁπάντων· ἀλλ’ ἐγὼ λέγων ὁδὶ</l>
 						<l>πόλλ’ ἂν ἀποφήναιμ’ ἐκείνους ἔσθ’ ἃ κἀδικουμένους.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="315">τοῦτο τοὔπος δεινὸν ἤδη καὶ ταραξικάρδιον,</l>
 						<l>εἰ σὺ τολμήσεις ὑπὲρ τῶν πολεμίων ἡμῖν λέγειν.</l>
@@ -907,7 +907,7 @@ convert to P3
 						<l>κἄν γε μὴ λέγω δίκαια μηδὲ τῷ πλήθει δοκῶ,</l>
 						<l>ὑπὲρ ἐπιξήνου ’θελήσω τὴν κεφαλὴν ἔχων λέγειν.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>εἰπέ μοι τί φειδόμεσθα τῶν λίθων ὦ δημόται</l>
 						<l n="320">μὴ οὐ καταξαίνειν τὸν ἄνδρα τοῦτον ἐς φοινικίδα;</l>
@@ -917,7 +917,7 @@ convert to P3
 						<l>οἷον αὖ μέλας τις ὑμῖν θυμάλωψ ἐπέζεσεν.</l>
 						<l>οὐκ ἀκούσεσθ’; οὐκ ἀκούσεσθ’ ἐτεὸν ὦχαρνηίδαι;</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>οὐκ ἀκουσόμεσθα δῆτα.</l>
 					</sp>
@@ -925,7 +925,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l part="Y">δεινά τἄρα πείσομαι.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἐξολοίμην, ἢν ἀκούσω.</l>
 					</sp>
@@ -933,7 +933,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l part="Y">μηδαμῶς ὦχαρνικοί.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ὡς τεθνήξων ἴσθι νυνί.</l>
 					</sp>
@@ -943,7 +943,7 @@ convert to P3
 						<l n="326">ἀνταποκτενῶ γὰρ ὑμῶν τῶν φίλων τοὺς φιλτάτους·</l>
 						<l>ὡς ἔχω γ’ ὑμῶν ὁμήρους, οὓς ἀποσφάξω λαβών.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>εἰπέ μοι, τί τοῦτ’ ἀπειλεῖ τοὔπος ἄνδρες δημόται</l>
 						<l>τοῖς Ἀχαρνικοῖσιν ἡμῖν; μῶν ἔχει του παιδίον</l>
@@ -954,7 +954,7 @@ convert to P3
 						<l>βάλλετ’ εἰ βούλεσθ’. ἐγὼ γὰρ τουτονὶ διαφθερῶ.</l>
 						<l>εἴσομαι δ’ ὑμῶν τάχ’ ὅστις ἀνθράκων τι κήδεται.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ὡς ἀπωλόμεσθ’. ὁ λάρκος δημότης ὅδ’ ἔστ’ ἐμός.</l>
 						<l>ἀλλὰ μὴ δράσῃς ὃ μέλλεις· μηδαμῶς ὦ μηδαμῶς.</l>
@@ -966,7 +966,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>ὡς ἀποκτενῶ, κέκραχθ’· ἐγὼ γὰρ οὐκ ἀκούσομαι.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="336">ἀπολεῖς ἄρ’ ὁμήλικα τόνδε φιλανθρακέα;</l>
 					</sp>
@@ -974,7 +974,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>οὐδ’ ἐμοῦ λέγοντος ὑμεῖς ἀρτίως ἠκούσατε.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἀλλὰ γὰρ νῦν λέγ’, εἴ σοι δοκεῖ, τόν τε Λακεδαιμόνιον</l>
 						<l>† αὐτὸν ὅτι τῷ † τρόπῳ σοὐστὶ φίλος·</l>
@@ -984,7 +984,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>τοὺς λίθους νύν μοι χαμᾶζε πρῶτον ἐξεράσατε.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>οὑτοιί σοι χαμαί, καὶ σὺ κατάθου πάλιν τὸ ξίφος.</l>
 					</sp>
@@ -992,7 +992,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>ἀλλ’ ὅπως μὴ ν’ τοῖς τρίβωσιν ἐγκάθηνταί που λίθοι.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἐκσέσεισται χαμᾶζ’· οὐχ ὁρᾷς σειόμενον;</l>
 						<l n="345">ἀλλὰ μή μοι πρόφασιν, ἀλλὰ κατάθου τὸ βέλος.</l>
@@ -1018,7 +1018,7 @@ convert to P3
 					<milestone ed="p" n="358" unit="card"/>
 				</sp>
 				<div2 n="1" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>τί οὖν οὐ λέγεις, ἐπίξηνον ἐξενεγκὼν θύραζ’,</l>
 						<l n="360">ὅ τι ποτ’ ὦ σχέτλιε τὸ μέγα τοῦτ’ ἔχεις;</l>
@@ -1054,7 +1054,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>τί ταῦτα στρέφει τεχνάζεις τε καὶ πορίζεις τριβάς;</l>
 						<l n="386">λαβὲ δ’ ἐμοῦ γ’ ἓνεκα παρ’ Ἱερωνύμου</l>
@@ -1071,7 +1071,7 @@ convert to P3
 						<l>καί μοι βαδιστέ’ ἐστὶν ὡς Εὐριπίδην.</l>
 						<l n="395">παῖ παῖ.</l>
 					</sp>
-					<sp who="#kefisofon">
+					<sp who="#kephisophon">
 						<speaker>Κηφισόφων</speaker>
 						<l part="Y">τίς οὗτος,</l>
 					</sp>
@@ -1079,7 +1079,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l part="Y">ἔνδον ἔστ’ Εὐριπίδης;</l>
 					</sp>
-					<sp who="#kefisofon">
+					<sp who="#kephisophon">
 						<speaker>Κηφισόφων</speaker>
 						<l>οὐκ ἔνδον ἔνδον ἐστίν, εἰ γνώμην ἔχεις.</l>
 					</sp>
@@ -1087,7 +1087,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>πῶς ἔνδον εἶτ’ οὐκ ἔνδον;</l>
 					</sp>
-					<sp who="#kefisofon">
+					<sp who="#kephisophon">
 						<speaker>Κηφισόφων</speaker>
 						<l part="Y">ὀρθῶς ὦ γέρον.</l>
 						<l>ὁ νοῦς μὲν ἔξω ξυλλέγων ἐπύλλια</l>
@@ -1100,7 +1100,7 @@ convert to P3
 						<l>ὅθ’ ὁ δοῦλος οὑτωσὶ σαφῶς ἀπεκρίνατο.</l>
 						<l>ἐκκάλεσον αὐτόν.</l>
 					</sp>
-					<sp who="#kefisofon">
+					<sp who="#kephisophon">
 						<speaker>Κηφισόφων</speaker>
 						<l part="Y">ἀλλ’ ἀδύνατον.</l>
 					</sp>
@@ -1113,7 +1113,7 @@ convert to P3
 						<l>Δικαιόπολις καλεῖ σε Χολλῄδης, ἐγώ.</l>
 						<milestone ed="p" n="407" unit="card"/>
 					</sp>
-					<sp who="#eyripides">
+					<sp who="#euripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>ἀλλ’ οὐ σχολή.</l>
 					</sp>
@@ -1121,7 +1121,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>ἀλλ’ ἐκκυκλήθητ’.</l>
 					</sp>
-					<sp who="#eyripides">
+					<sp who="#euripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">ἀλλ’ ἀδύνατον.</l>
 					</sp>
@@ -1129,7 +1129,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l part="Y">ἀλλ’ ὅμως.</l>
 					</sp>
-					<sp who="#eyripides">
+					<sp who="#euripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>ἀλλ’ ἐκκυκλήσομαι· καταβαίνειν δ’ οὐ σχολή.</l>
 					</sp>
@@ -1137,7 +1137,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>Εὐριπίδη,</l>
 					</sp>
-					<sp who="#eyripides">
+					<sp who="#euripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l part="Y">τί λέλακας;</l>
 					</sp>
@@ -1152,7 +1152,7 @@ convert to P3
 						<l>δεῖ γάρ με λέξαι τῷ χορῷ ῥῆσιν μακράν·</l>
 						<l>αὕτη δὲ θάνατον, ἢν κακῶς λέξω, φέρει.</l>
 					</sp>
-					<sp who="#eyripides">
+					<sp who="#euripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>τὰ ποῖα τρύχη; μῶν ἐν οἷς Οἰνεὺς ὁδὶ</l>
 						<l>ὁ δύσποτμος γεραιὸς ἠγωνίζετο;</l>
@@ -1161,7 +1161,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l n="420">οὐκ Οἰνέως ἦν, ἀλλ’ ἔτ’ ἀθλιωτέρου.</l>
 					</sp>
-					<sp who="#eyripides">
+					<sp who="#euripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>τὰ τοῦ τυφλοῦ Φοίνικος;</l>
 					</sp>
@@ -1170,7 +1170,7 @@ convert to P3
 						<l part="Y">οὐ Φοίνικος, οὔ·</l>
 						<l>ἀλλ’ ἕτερος ἦν Φοίνικος ἀθλιώτερος.</l>
 					</sp>
-					<sp who="#eyripides">
+					<sp who="#euripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>ποίας ποθ’ ἁνὴρ λακίδας αἰτεῖται πέπλων;</l>
 						<l>ἀλλ’ ἦ Φιλοκτήτου τὰ τοῦ πτωχοῦ λέγεις;</l>
@@ -1179,7 +1179,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l n="425">οὐκ ἀλλὰ τούτου πολὺ πολὺ πτωχιστέρου.</l>
 					</sp>
-					<sp who="#eyripides">
+					<sp who="#euripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>ἀλλ’ ἦ τὰ δυσπινῆ ’θέλεις πεπλώματα,</l>
 						<l>ἃ Βελλεροφόντης εἶχ’ ὁ χωλὸς οὑτοσί;</l>
@@ -1189,7 +1189,7 @@ convert to P3
 						<l>οὐ Βελλεροφόντης· ἀλλὰ κἀκεῖνος μὲν ἦν</l>
 						<l>χωλὸς προσαιτῶν στωμύλος δεινὸς λέγειν.</l>
 					</sp>
-					<sp who="#eyripides">
+					<sp who="#euripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l n="430">οἶδ’ ἄνδρα Μυσὸν Τήλεφον.</l>
 					</sp>
@@ -1198,13 +1198,13 @@ convert to P3
 						<l part="Y">ναὶ Τήλεφον·</l>
 						<l>τούτου δὸς ἀντιβολῶ σέ μοι τὰ σπάργανα.</l>
 					</sp>
-					<sp who="#eyripides">
+					<sp who="#euripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>ὦ παῖ δὸς αὐτῷ Τηλέφου ῥακώματα.</l>
 						<l>κεῖται δ’ ἄνωθεν τῶν Θυεστείων ῥακῶν</l>
 						<l>μεταξὺ τῶν Ἰνοῦς.</l>
 					</sp>
-					<sp who="#kefisofon">
+					<sp who="#kephisophon">
 						<speaker>Κηφισόφων</speaker>
 						<l part="Y">ἰδοὺ ταυτὶ λαβέ.</l>
 					</sp>
@@ -1221,7 +1221,7 @@ convert to P3
 						<l>τοὺς δ’ αὖ χορευτὰς ἠλιθίους παρεστάναι,</l>
 						<l>ὅπως ἂν αὐτοὺς ῥηματίοις σκιμαλίσω.</l>
 					</sp>
-					<sp who="#eyripides">
+					<sp who="#euripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l n="445">δώσω· πυκνῇ γὰρ λεπτὰ μηχανᾷ φρενί.</l>
 					</sp>
@@ -1231,7 +1231,7 @@ convert to P3
 						<l>εὖ γ’ οἷον ἤδη ῥηματίων ἐμπίμπλαμαι.</l>
 						<l>ἀτὰρ δέομαί γε πτωχικοῦ βακτηρίου.</l>
 					</sp>
-					<sp who="#eyripides">
+					<sp who="#euripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>τουτὶ λαβὼν ἄπελθε λαΐνων σταθμῶν.</l>
 					</sp>
@@ -1243,7 +1243,7 @@ convert to P3
 						<l>δός μοι σπυρίδιον διακεκαυμένον λύχνῳ.</l>
 						<milestone ed="p" n="454" unit="card"/>
 					</sp>
-					<sp who="#eyripides">
+					<sp who="#euripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>τί δ’ ὦ τάλας σε τοῦδ’ ἔχει πλέκους χρέος;</l>
 					</sp>
@@ -1251,7 +1251,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l n="455">χρέος μὲν οὐδέν, βούλομαι δ’ ὅμως λαβεῖν.</l>
 					</sp>
-					<sp who="#eyripides">
+					<sp who="#euripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>λυπηρὸς ἴσθ’ ὢν κἀποχώρησον δόμων.</l>
 					</sp>
@@ -1260,7 +1260,7 @@ convert to P3
 						<l>φεῦ·</l>
 						<l>εὐδαιμονοίης, ὥσπερ ἡ μήτηρ ποτέ.</l>
 					</sp>
-					<sp who="#eyripides">
+					<sp who="#euripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>ἄπελθε νῦν μοι.</l>
 					</sp>
@@ -1269,7 +1269,7 @@ convert to P3
 						<l part="Y">μἀλλά μοι δὸς ἓν μόνον</l>
 						<l>κοτυλίσκιον τὸ χεῖλος ἀποκεκρουσμένον.</l>
 					</sp>
-					<sp who="#eyripides">
+					<sp who="#euripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l n="460">φθείρου λαβὼν τόδ’· ἴσθ’ ὀχληρὸς ὢν δόμοις.</l>
 					</sp>
@@ -1279,7 +1279,7 @@ convert to P3
 						<l>ἀλλ’ ὦ γλυκύτατ’ Εὐριπίδη τουτὶ μόνον</l>
 						<l>δός μοι χυτρίδιον σφογγίῳ βεβυσμένον.</l>
 					</sp>
-					<sp who="#eyripides">
+					<sp who="#euripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>ὦνθρωπ’ ἀφαιρήσει με τὴν τραγῳδίαν·</l>
 						<l n="465">ἄπελθε ταυτηνὶ λαβών.</l>
@@ -1292,7 +1292,7 @@ convert to P3
 						<l>τουτὶ λαβὼν ἄπειμι κοὐ πρόσειμ’ ἔτι·</l>
 						<l>ἐς τὸ σπυρίδιον ἰσχνά μοι φυλλεῖα δός.</l>
 					</sp>
-					<sp who="#eyripides">
+					<sp who="#euripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l n="470">ἀπολεῖς μ’. ἰδού σοι. φροῦδά μοι τὰ δράματα.</l>
 					</sp>
@@ -1307,7 +1307,7 @@ convert to P3
 						<l>πλὴν ἓν μόνον, τουτὶ μόνον τουτὶ μόνον,</l>
 						<l>σκάνδικά μοι δὸς μητρόθεν δεδεγμένος.</l>
 					</sp>
-					<sp who="#eyripides">
+					<sp who="#euripides">
 						<speaker>Εὐριπίδης</speaker>
 						<l>ἁνὴρ ὑβρίζει· κλῇε πηκτὰ δωμάτων.</l>
 					</sp>
@@ -1328,7 +1328,7 @@ convert to P3
 			</div1>
 			<div1 type="Lyric-Scene">
 				<div2 n="1" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="490">τί δράσεις; τί φήσεις; εὖ ἴσθι νυν</l>
 						<l>ἀναίσχυντος ὢν σιδηροῦς τ’ ἀνήρ,</l>
@@ -1405,23 +1405,23 @@ convert to P3
 						<l>οὐκ οἰόμεσθα; νοῦς ἄρ’ ἡμῖν οὐκ ἔνι.</l>
 					</sp>
 					<milestone ed="p" n="557" unit="card"/>
-					<sp who="#emixoriona">
+					<sp who="#hemichorion_a">
 						<speaker>Ἡμιχόριον Α</speaker>
 						<l>ἄληθες ὦπίτριπτε καί μιαρώτατε;</l>
 						<l>ταυτὶ σὺ τολμᾷς πτωχὸς ὢν ἡμᾶς λέγειν,</l>
 						<l>καὶ συκοφάντης εἴ τις ἦν ὠνείδισας;</l>
 					</sp>
-					<sp who="#emixorionb">
+					<sp who="#hemichorion_b">
 						<speaker>Ἡμιχόριον Β</speaker>
 						<l n="560">νὴ τὸν Ποσειδῶ καὶ λέγει γ’ ἅπερ λέγει</l>
 						<l>δίκαια πάντα κοὐδὲν αὐτῶν ψεύδεται.</l>
 					</sp>
-					<sp who="#emixoriona">
+					<sp who="#hemichorion_a">
 						<speaker>Ἡμιχόριον Α</speaker>
 						<l>εἶτ’ εἰ δίκαια, τοῦτον εἰπεῖν αὔτ’ ἐχρῆν;</l>
 						<l>ἀλλ’ οὔτι χαίρων ταῦτα τολμήσει λέγειν.</l>
 					</sp>
-					<sp who="#emixorionb">
+					<sp who="#hemichorion_b">
 						<speaker>Ἡμιχόριον Β</speaker>
 						<l>οὗτος σὺ ποῖ θεῖς; οὐ μενεῖς; ὡς εἰ θενεῖς</l>
 						<l n="565">τὸν ἄνδρα τοῦτον, αὐτὸς ἀρθήσει τάχα.</l>
@@ -1429,7 +1429,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 n="2" type="strophe">
-					<sp who="#emixoriona">
+					<sp who="#hemichorion_a">
 						<speaker>Ἡμιχόριον Α</speaker>
 						<l>ἰὼ Λάμαχ’ ὦ βλέπων ἀστραπάς,</l>
 						<l>βοήθησον ὦ γοργολόφα φανείς,</l>
@@ -1439,7 +1439,7 @@ convert to P3
 						<l>τις ἀνύσας. ἐγὼ γὰρ ἔχομαι μέσος.</l>
 						<milestone ed="p" n="572" unit="card"/>
 					</sp>
-					<sp who="#lamaxos">
+					<sp who="#lamachos">
 						<speaker>Λάμαχος</speaker>
 						<l>πόθεν βοῆς ἤκουσα πολεμιστηρίας;</l>
 						<l>ποῖ χρὴ βοηθεῖν; ποῖ κυδοιμὸν ἐμβαλεῖν;</l>
@@ -1449,12 +1449,12 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l n="575">ὦ Λάμαχ’ ἥρως, τῶν λόφων καὶ τῶν λόχων.</l>
 					</sp>
-					<sp who="#emixoriona">
+					<sp who="#hemichorion_a">
 						<speaker>Ἡμιχόριον Α</speaker>
 						<l>ὦ Λάμαχ’, οὐ γὰρ οὗτος ἅνθρωπος πάλαι</l>
 						<l>ἅπασαν ἡμῶν τὴν πόλιν κακορροθεῖ;</l>
 					</sp>
-					<sp who="#lamaxos">
+					<sp who="#lamachos">
 						<speaker>Λάμαχος</speaker>
 						<l>οὗτος σὺ τολμᾷς πτωχὸς ὢν λέγειν τάδε;</l>
 					</sp>
@@ -1463,7 +1463,7 @@ convert to P3
 						<l>ὦ Λάμαχ’ ἥρως, ἀλλὰ συγγνώμην ἔχε,</l>
 						<l>εἰ πτωχὸς ὢν εἶπόν τι κἀστωμυλάμην.</l>
 					</sp>
-					<sp who="#lamaxos">
+					<sp who="#lamachos">
 						<speaker>Λάμαχος</speaker>
 						<l>τί δ’ εἶπας ἡμᾶς; οὐκ ἐρεῖς;</l>
 					</sp>
@@ -1473,7 +1473,7 @@ convert to P3
 						<l n="581">ὑπὸ τοῦ δέους γὰρ τῶν ὅπλων εἰλιγγιῶ.</l>
 						<l>ἀλλ’ ἀντιβολῶ σ’ ἀπένεγκέ μου τὴν μορμόνα.</l>
 					</sp>
-					<sp who="#lamaxos">
+					<sp who="#lamachos">
 						<speaker>Λάμαχος</speaker>
 						<l>ἰδού.</l>
 					</sp>
@@ -1481,7 +1481,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l part="Y">παράθες νυν ὑπτίαν αὐτὴν ἐμοί.</l>
 					</sp>
-					<sp who="#lamaxos">
+					<sp who="#lamachos">
 						<speaker>Λάμαχος</speaker>
 						<l>κεῖται.</l>
 					</sp>
@@ -1489,7 +1489,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l part="Y">φέρε νυν ἀπὸ τοῦ κράνους μοι τὸ πτερόν.</l>
 					</sp>
-					<sp who="#lamaxos">
+					<sp who="#lamachos">
 						<speaker>Λάμαχος</speaker>
 						<l>τουτὶ πτίλον σοι.</l>
 					</sp>
@@ -1498,7 +1498,7 @@ convert to P3
 						<l part="Y">τῆς κεφαλῆς νύν μου λαβοῦ,</l>
 						<l n="586">ἵν’ ἐξεμέσω· βδελύττομαι γὰρ τοὺς λόφους.</l>
 					</sp>
-					<sp who="#lamaxos">
+					<sp who="#lamachos">
 						<speaker>Λάμαχος</speaker>
 						<l>οὗτος τί δράσεις; τῷ πτίλῳ μέλλεις ἐμεῖν;</l>
 						<l>πτίλον γάρ ἐστιν—</l>
@@ -1508,7 +1508,7 @@ convert to P3
 						<l part="Y">εἰπέ μοι τίνος ποτὲ</l>
 						<l>ὄρνιθός ἐστιν; ἆρα κομπολακύθου;</l>
 					</sp>
-					<sp who="#lamaxos">
+					<sp who="#lamachos">
 						<speaker>Λάμαχος</speaker>
 						<l n="590">οἴμ’ ὡς τεθνήξεις.</l>
 					</sp>
@@ -1518,7 +1518,7 @@ convert to P3
 						<l>οὐ γὰρ κατ’ ἰσχύν ἐστιν· εἰ δ’ ἰσχυρὸς εἶ,</l>
 						<l>τί μ’ οὐκ ἀπεψώλησας; εὔοπλος γὰρ εἶ.</l>
 					</sp>
-					<sp who="#lamaxos">
+					<sp who="#lamachos">
 						<speaker>Λάμαχος</speaker>
 						<l>ταυτὶ λέγεις σὺ τὸν στρατηγὸν πτωχὸς ὤν;</l>
 					</sp>
@@ -1526,7 +1526,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>ἐγὼ γάρ εἰμι πτωχός;</l>
 					</sp>
-					<sp who="#lamaxos">
+					<sp who="#lamachos">
 						<speaker>Λάμαχος</speaker>
 						<l part="Y">ἀλλὰ τίς γὰρ εἶ;</l>
 					</sp>
@@ -1536,7 +1536,7 @@ convert to P3
 						<l>ἀλλ’ ἐξ ὅτου περ ὁ πόλεμος, στρατωνίδης,</l>
 						<l>σὺ δ’ ἐξ ὅτου περ ὁ πόλεμος, μισθαρχίδης.</l>
 					</sp>
-					<sp who="#lamaxos">
+					<sp who="#lamachos">
 						<speaker>Λάμαχος</speaker>
 						<l>ἐχειροτόνησαν γάρ με —</l>
 					</sp>
@@ -1552,7 +1552,7 @@ convert to P3
 						<l n="605">Γερητοθεοδώρους Διομειαλαζόνας,</l>
 						<l>τοὺς δ’ ἐν Καμαρίνῃ κἀν Γέλα κἀν Καταγέλᾳ.</l>
 					</sp>
-					<sp who="#lamaxos">
+					<sp who="#lamachos">
 						<speaker>Λάμαχος</speaker>
 						<l>ἐχειροτονήθησαν γάρ.</l>
 					</sp>
@@ -1570,7 +1570,7 @@ convert to P3
 						<l>ὥσπερ ἀπόνιπτρον ἐκχέοντες ἑσπέρας,</l>
 						<l>ἅπαντες ‘ἐξίστω’ παρῄνουν οἱ φίλοι.</l>
 					</sp>
-					<sp who="#lamaxos">
+					<sp who="#lamachos">
 						<speaker>Λάμαχος</speaker>
 						<l>ὦ δημοκρατία ταῦτα δῆτ’ ἀνασχετά;</l>
 					</sp>
@@ -1578,7 +1578,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>οὐ δῆτ’ ἐὰν μὴ μισθοφορῇ γε Λάμαχος.</l>
 					</sp>
-					<sp who="#lamaxos">
+					<sp who="#lamachos">
 						<speaker>Λάμαχος</speaker>
 						<l n="620">ἀλλ’ οὖν ἐγὼ μὲν πᾶσι Πελοποννησίοις</l>
 						<l>ἀεὶ πολεμήσω καὶ ταράξω πανταχῇ</l>
@@ -1595,7 +1595,7 @@ convert to P3
 			</div1>
 			<div1 type="Parabasis">
 				<div2 type="prelude">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἁνὴρ νικᾷ τοῖσι λόγοισιν, καὶ τὸν δῆμον μεταπείθει</l>
 						<l>περὶ τῶν σπονδῶν. ἀλλ’ ἀποδύντες τοῖς ἀναπαίστοις ἐπίωμεν.</l>
@@ -1603,7 +1603,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 met="anapests" type="parabasis">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἐξ οὗ γε χοροῖσιν ἐφέστηκεν τρυγικοῖς ὁ διδάσκαλος ἡμῶν,</l>
 						<l n="629">οὔπω παρέβη πρὸς τὸ θέατρον λέξων ὡς δεξιός ἐστιν·</l>
@@ -1640,7 +1640,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 type="pnigos">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>πρὸς ταῦτα Κλέων καὶ παλαμάσθω</l>
 						<l n="660">καὶ πᾶν ἐπ’ ἐμοὶ τεκταινέσθω.</l>
@@ -1652,7 +1652,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>δεῦρο Μοῦσ’ ἐλθὲ φλεγυρὰ πυρὸς ἔχουσα μένος ἔντονος Ἀχαρνική.</l>
 						<l>οἷον ἐξ ἀνθράκων πρινίνων φέψαλος ἀνήλατ’ ἐρεθιζόμενος οὐρίᾳ ῥιπίδι,</l>
@@ -1664,7 +1664,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 met="trochees" type="epirrhema">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>οἱ γέροντες οἱ παλαιοὶ μεμφόμεσθα τῇ πόλει·</l>
 						<l>οὐ γὰρ ἀξίως ἐκείνων ὧν ἐναυμαχήσαμεν</l>
@@ -1686,7 +1686,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ταῦτα πῶς εἰκότα, γέροντ’ ἀπολέσαι πολιὸν ἄνδρα περὶ κλεψύδραν,</l>
 						<l>πολλὰ δὴ ξυμπονήσαντα καὶ θερμὸν ἀπομορξάμενον ἀνδρικὸν ἱδρῶτα δὴ καὶ πολύν,</l>
@@ -1698,7 +1698,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 met="trochees" type="antepirrhema">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>τῷ γὰρ εἰκὸς ἄνδρα κυφὸν ἡλίκον Θουκυδίδην</l>
 						<l>ἐξολέσθαι συμπλακέντα τῇ Σκυθῶν ἐρημίᾳ,</l>
@@ -1734,7 +1734,7 @@ convert to P3
 					<l>ἐγὼ δὲ τὴν στήλην καθ’ ἣν ἐσπεισάμην</l>
 					<l>μέτειμ’, ἵνα στήσω φανερὰν ἐν τἀγορᾷ.</l>
 				</sp>
-				<sp who="#megareys">
+				<sp who="#megareus">
 					<speaker>Μεγαρεύς</speaker>
 					<l>ἀγορὰ ν’ Ἀθάναις χαῖρε Μεγαρεῦσιν φίλα.</l>
 					<l n="730">ἐπόθουν τυ ναὶ τὸν φίλιον ᾇπερ ματέρα.</l>
@@ -1748,7 +1748,7 @@ convert to P3
 						<speaker>Κόρα</speaker>
 						<l n="735">πεπρᾶσθαι πεπρᾶσθαι.</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l>ἐγώνγα καὐτός φαμι. τίς δ’ οὕτως ἄνους</l>
 						<l>ὃς ὑμέ κα πρίαιτο φανερὰν ζαμίαν;</l>
@@ -1770,7 +1770,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l n="750">τί; ἀνὴρ Μεγαρικός;</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l part="Y">ἀγορασοῦντες ἵκομες.</l>
 					</sp>
@@ -1778,7 +1778,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>πῶς ἔχετε;</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l part="Y">διαπεινᾶμες ἀεὶ ποττὸ πῦρ.</l>
 					</sp>
@@ -1787,7 +1787,7 @@ convert to P3
 						<l>ἀλλ’ ἡδύ τοι νὴ τὸν Δί’, ἢν αὐλὸς παρῇ.</l>
 						<l>τί δ’ ἄλλο πράττεθ’ οἱ Μεγαρῆς νῦν;</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l part="Y">οἷα δή.</l>
 						<l>ὅκα μὲν ἐγὼν τηνῶθεν ἐμπορευόμαν,</l>
@@ -1798,7 +1798,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>αὐτίκ’ ἄρ’ ἀπαλλάξεσθε πραγμάτων.</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l part="Y">σά μάν;</l>
 					</sp>
@@ -1806,7 +1806,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>τί δ’ ἄλλο Μεγαροῖ; πῶς ὁ σῖτος ὤνιος;</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l n="759">παρ’ ἁμὶ πολυτίματος ᾇπερ τοὶ θεοί.</l>
 					</sp>
@@ -1814,7 +1814,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>ἅλας οὖν φέρεις;</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l part="Y">οὐχ ὑμὲς αὐτῶν ἄρχετε;</l>
 					</sp>
@@ -1822,7 +1822,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>οὐδὲ σκόροδα;</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l part="Y">ποῖα σκόροδ’; ὑμὲς τῶν ἀεί,</l>
 						<l>ὅκκ’ ἐσβάλητε, τὼς ἀρωραῖοι μύες</l>
@@ -1832,7 +1832,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>τί δαὶ φέρεις;</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l part="Y">χοίρως ἐγώνγα μυστικάς.</l>
 					</sp>
@@ -1840,7 +1840,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>καλῶς λέγεις· ἐπίδειξον.</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l part="Y">ἀλλὰ μὰν καλαί.</l>
 						<l n="766">ἄντεινον αἰ λῇς· ὡς παχεῖα καὶ καλά.</l>
@@ -1849,7 +1849,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>τουτὶ τί ἦν τὸ πρᾶγμα;</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l part="Y">χοῖρος ναὶ Δία.</l>
 					</sp>
@@ -1857,7 +1857,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>τί λέγεις σύ; ποδαπὴ δή ’στι χοῖρος;</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l part="Y">Μεγαρικά.</l>
 						<l>ἢ οὐ χοῖρός ἐσθ’ ἅδ’;</l>
@@ -1866,7 +1866,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l part="Y">οὐκ ἔμοιγε φαίνεται.</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l n="770">οὐ δεινά; θᾶσθε τῶδε τὰς ἀπιστίας·</l>
 						<l>οὔ φατι τάνδε χοῖρον εἶμεν. ἀλλὰ μάν,</l>
@@ -1877,7 +1877,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>ἀλλ’ ἔστιν ἀνθρώπου γε.</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l part="Y">ναὶ τὸν Διοκλέα</l>
 						<l n="775">ἐμά γα. τὺ δέ νιν εἴμεναι τίνος δοκεῖς;</l>
@@ -1888,7 +1888,7 @@ convert to P3
 						<l part="Y">νὴ τοὺς θεοὺς</l>
 						<l>ἔγωγε.</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l part="Y">φώνει δὴ τὺ ταχέως χοιρίον.</l>
 						<l>οὐ χρῆσθα; σιγῇς ὦ κάκιστ’ ἀπολουμένα;</l>
@@ -1898,7 +1898,7 @@ convert to P3
 						<speaker>Κόρη</speaker>
 						<l n="780">κοῒ κοΐ.</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l>αὕτα ’στὶ χοῖρος;</l>
 					</sp>
@@ -1907,7 +1907,7 @@ convert to P3
 						<l part="Y">νῦν γε χοῖρος φαίνεται.</l>
 						<l>ἀτὰρ ἐκτραφείς γε κύσθος ἔσται.</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l part="Y">πέντ’ ἑτῶν,</l>
 						<l>σάφ’ ἴσθι, ποττὰν ματέρ’ εἰκασθήσεται.</l>
@@ -1916,7 +1916,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>ἀλλ’ οὐδὲ θύσιμός ἐστιν αὑτηγί.</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l part="Y">σά μάν;</l>
 						<l n="785">πᾷ δ’ οὐχὶ θύσιμός ἐστι;</l>
@@ -1925,7 +1925,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l part="Y">κέρκον οὐκ ἔχει.</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l>νεαρὰ γάρ ἐστιν· ἀλλὰ δελφακουμένα</l>
 						<l>ἑξεῖ μεγάλαν τε καὶ παχεῖαν κἠρυθράν.</l>
@@ -1935,7 +1935,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>ὡς ξυγγενὴς ὁ κύσθος αὐτῆς θατέρᾳ.</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l n="790">ὁμοματρία γάρ ἐστι κἠκ τωὐτῶ πατρός.</l>
 						<l>αἰ δ’ ἂν παχυνθῇ κἀναχνοιανθῇ τριχί,</l>
@@ -1945,7 +1945,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>ἀλλ’ οὐχὶ χοῖρος τἀφροδίτῃ θύεται.</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l>οὐ χοῖρος Ἀφροδίτᾳ; μόνᾳ γα δαιμόνων.</l>
 						<l n="795">καὶ γίνεταί γα τᾶνδε τᾶν χοίρων τὸ κρῆς</l>
@@ -1955,7 +1955,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>ἤδη δ’ ἄνευ τῆς μητρὸς ἐσθίοιεν ἄν;</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l>ναὶ τὸν Ποτειδᾶν καί κ’ ἄνις γα τῶ πατρός.</l>
 						<milestone ed="p" n="799" unit="card"/>
@@ -1964,7 +1964,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>τί δ’ ἐσθίει μάλιστα;</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l part="Y">πάνθ’ ἅ κα διδῷς.</l>
 						<l>αὐτὸς δ’ ἐρώτη.</l>
@@ -2009,7 +2009,7 @@ convert to P3
 						<l>οἷον ῥοθιάζουσ’ ὦ πολυτίμηθ’ Ἡράκλεις.</l>
 						<l>ποδαπὰ τὰ χοιρί’; ὡς Τραγασαῖα φαίνεται.</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l>ἀλλ’ οὔτι πάσας κατέτραγον τὰς ἰσχάδας.</l>
 						<l n="810">ἐγὼ γὰρ αὐτᾶν τάνδε μίαν ἀνειλόμαν.</l>
@@ -2019,7 +2019,7 @@ convert to P3
 						<l>νὴ τὸν Δί’ ἀστείω γε τὼ βοσκήματε·</l>
 						<l>πόσου πρίωμαί σοι τὰ χοιρίδια; λέγε.</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l>τὸ μὲν ἅτερον τούτων σκορόδων τροπαλίδος,</l>
 						<l>τὸ δ’ ἅτερον, αἰ λῇς, χοίνικος μόνας ἁλῶν.</l>
@@ -2028,35 +2028,35 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l n="815">ὠνήσομαί σοι· περίμεν’ αὐτοῦ.</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l part="Y">ταῦτα δή.</l>
 						<l>Ἑρμᾶ ’μπολαῖε τὰν γυναῖκα τὰν ἐμὰν</l>
 						<l>οὕτω μ’ ἀποδόσθαι τάν τ’ ἐμωυτῶ τ’ ἐμωυτῶ ματέρα.</l>
 					</sp>
-					<sp who="#sykofantes">
+					<sp who="#sykophantes">
 						<speaker>Συκοφάντης</speaker>
 						<l>ὦνθρωπε ποδαπός;</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l part="Y">χοιροπώλας Μεγαρικός.</l>
 					</sp>
-					<sp who="#sykofantes">
+					<sp who="#sykophantes">
 						<speaker>Συκοφάντης</speaker>
 						<l>τὰ χοιρίδια τοίνυν ἐγὼ φανῶ ταδὶ</l>
 						<l n="820">πολέμια καὶ σέ.</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l part="Y">τοῦτ’ ἐκεῖν’, ἵκει πάλιν</l>
 						<l>ὅθενπερ ἀρχὰ τῶν κακῶν ἁμῖν ἔφυ.</l>
 					</sp>
-					<sp who="#sykofantes">
+					<sp who="#sykophantes">
 						<speaker>Συκοφάντης</speaker>
 						<l>κλάων μεγαριεῖς. οὐκ ἀφήσεις τὸν σάκον;</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l>Δικαιόπολι Δικαιόπολι φαντάδδομαι.</l>
 					</sp>
@@ -2066,7 +2066,7 @@ convert to P3
 						<l n="825">τοὺς συκοφάντας οὐ θύραζ’ ἐξείρξετε;</l>
 						<l>τί δὴ μαθὼν φαίνεις ἄνευ θρυαλλίδος;</l>
 					</sp>
-					<sp who="#sykofantes">
+					<sp who="#sykophantes">
 						<speaker>Συκοφάντης</speaker>
 						<l>οὐ γὰρ φανῶ τοὺς πολεμίους;</l>
 					</sp>
@@ -2075,7 +2075,7 @@ convert to P3
 						<l part="Y">κλάων γε σύ,</l>
 						<l>εἰ μὴ ’τέρωσε συκοφαντήσεις τρέχων.</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l>οἷον τὸ κακὸν ἐν ταῖς Ἀθάναις τοῦτ’ ἔνι.</l>
 					</sp>
@@ -2085,7 +2085,7 @@ convert to P3
 						<l>τιμῆς, λαβὲ ταυτὶ τὰ σκόροδα καὶ τοὺς ἅλας,</l>
 						<l>καὶ χαῖρε πόλλ’.</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l part="Y">ἀλλ’ ἁμὶν οὐκ ἐπιχώριον.</l>
 					</sp>
@@ -2093,7 +2093,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>πολυπραγμοσύνη νυν ἐς κεφαλὴν τράποιτ’ ἐμοί.</l>
 					</sp>
-					<sp who="#megareys">
+					<sp who="#megareus">
 						<speaker>Μεγαρεύς</speaker>
 						<l>ὦ χοιρίδια πειρῆσθε κἄνις τῶ πατρὸς</l>
 						<l n="835">παίειν ἐφ’ ἁλὶ τὰν μᾶδδαν, αἴκα τις διδῷ.</l>
@@ -2103,7 +2103,7 @@ convert to P3
 			</div1>
 			<div1 type="Choral">
 				<div2 n="1" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>εὐδαιμονεῖ γ’ ἅνθρωπος. οὐκ ἤκουσας οἷ προβαίνει</l>
 						<l>τὸ πρᾶγμα τοῦ βουλεύματος; καρπώσεται γὰρ ἁνὴρ</l>
@@ -2115,7 +2115,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 n="2" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>οὐδ’ ἄλλος ἀνθρώπων ὑποψωνῶν σε πημανεῖ τι,</l>
 						<l>οὐδ’ ἐξομόρξεται Πρέπις τὴν εὐρυπρωκτίαν σοι,</l>
@@ -2127,7 +2127,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 n="3" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>οὐδ’ ἐντυχὼν ἐν τἀγορᾷ πρόσεισί σοι βαδίζων</l>
 						<l>Κρατῖνος ἀεὶ κεκαρμένος μοιχὸν μιᾷ μαχαίρᾳ,</l>
@@ -2139,7 +2139,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 n="4" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>οὐδ’ αὖθις αὖ σε σκώψεται Παύσων ὁ παμπόνηρος</l>
 						<l n="855">Λυσίστρατός τ’ ἐν τἀγορᾷ, Χολαργέων ὄνειδος,</l>
@@ -2275,7 +2275,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l part="Y">ἀλλ’ ἅπαν κακόν.</l>
 				</sp>
-				<sp who="#nikarxos">
+				<sp who="#nikarchos">
 					<speaker>Νίκαρχος</speaker>
 					<l n="910">ταυτὶ τίνος τὰ φορτί’ ἐστί;</l>
 				</sp>
@@ -2284,7 +2284,7 @@ convert to P3
 					<l part="Y">τῶδ’ ἐμὰ</l>
 					<l>Θείβαθεν, ἴττω Δεύς.</l>
 				</sp>
-				<sp who="#nikarxos">
+				<sp who="#nikarchos">
 					<speaker>Νίκαρχος</speaker>
 					<l part="Y">ἐγὼ τοίνυν ὁδὶ</l>
 					<l>φαίνω πολέμια ταῦτα.</l>
@@ -2294,7 +2294,7 @@ convert to P3
 					<l part="Y">τί δὲ κακὸν παθὼν</l>
 					<l>ὀρναπετίοισι πόλεμον ἤρα καί μάχαν;</l>
 				</sp>
-				<sp who="#nikarxos">
+				<sp who="#nikarchos">
 					<speaker>Νίκαρχος</speaker>
 					<l>καὶ σέ γε φανῶ πρὸς τοῖσδε.</l>
 				</sp>
@@ -2302,7 +2302,7 @@ convert to P3
 					<speaker>Βοιωτός</speaker>
 					<l part="Y">τί ἀδικείμενος;</l>
 				</sp>
-				<sp who="#nikarxos">
+				<sp who="#nikarchos">
 					<speaker>Νίκαρχος</speaker>
 					<l n="915">ἐγὼ φράσω σοι τῶν περιεστώτων χάριν·</l>
 					<l>ἐκ τῶν πολεμίων γ’ εἰσάγεις θρυαλλίδας.</l>
@@ -2311,7 +2311,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l>ἔπειτα φαίνεις δῆτα διὰ θρυαλλίδα;</l>
 				</sp>
-				<sp who="#nikarxos">
+				<sp who="#nikarchos">
 					<speaker>Νίκαρχος</speaker>
 					<l>αὕτη γὰρ ἐμπρήσειεν ἂν τὸ νεώριον.</l>
 				</sp>
@@ -2319,7 +2319,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l>νεώριον θρυαλλίς;</l>
 				</sp>
-				<sp who="#nikarxos">
+				<sp who="#nikarchos">
 					<speaker>Νίκαρχος</speaker>
 					<l part="Y">οἶμαι·</l>
 				</sp>
@@ -2327,7 +2327,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l part="Y">τίνι τρόπῳ;</l>
 				</sp>
-				<sp who="#nikarxos">
+				<sp who="#nikarchos">
 					<speaker>Νίκαρχος</speaker>
 					<l n="920">ἐνθεὶς ἂν ἐς τίφην ἀνὴρ Βοιώτιος</l>
 					<l>ἅψας ἄν ἐσπέμψειεν ἐς τὸ νεώριον</l>
@@ -2340,7 +2340,7 @@ convert to P3
 					<l part="Y">ὦ κάκιστ’ ἀπολούμενε,</l>
 					<l n="925">σελαγοῖντ’ ἂν ὑπὸ τίφης τε καὶ θρυαλλίδος;</l>
 				</sp>
-				<sp who="#nikarxos">
+				<sp who="#nikarchos">
 					<speaker>Νίκαρχος</speaker>
 					<l>μαρτύρομαι.</l>
 				</sp>
@@ -2354,7 +2354,7 @@ convert to P3
 			</div1>
 			<div1 type="Lyric-Scene">
 				<div2 n="1" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἔνδησον ὦ βέλτιστε τῷ</l>
 						<l n="930">ξένῳ καλῶς τὴν ἐμπολὴν</l>
@@ -2368,7 +2368,7 @@ convert to P3
 						<l>πυρορραγὲς</l>
 						<l>κἄλλως θεοῖσιν ἐχθρόν.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="935">τί χρήσεταί ποτ’ αὐτῷ;</l>
 					</sp>
@@ -2383,7 +2383,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>πῶς δ’ ἂν πεποιθοίη τις ἀγγείῳ</l>
 						<l n="941">τοιούτῳ χρώμενος</l>
@@ -2397,7 +2397,7 @@ convert to P3
 						<l>ἐκ ποδῶν</l>
 						<l n="945">κατωκάρα κρέμαιτο.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἤδη καλῶς ἔχει σοι.</l>
 					</sp>
@@ -2405,7 +2405,7 @@ convert to P3
 						<speaker>Βοιωτός</speaker>
 						<l>μέλλω γά τοι θερίδδειν.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἀλλ’ ὦ ξένων βέλτιστε συνθέριζε</l>
 						<l>καὶ τοῦτον λαβὼν</l>
@@ -2432,7 +2432,7 @@ convert to P3
 				</div2>
 			</div1>
 			<div1 type="Episode">
-				<sp who="#theraponlamaxoy">
+				<sp who="#therapon_lamachou">
 					<speaker>Θεράπων Λαμάχου</speaker>
 					<l>Δικαιόπολι.</l>
 				</sp>
@@ -2440,7 +2440,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l part="Y">τίς ἔστι; τί με βωστρεῖς;</l>
 				</sp>
-				<sp who="#theraponlamaxoy">
+				<sp who="#therapon_lamachou">
 					<speaker>Θεράπων Λαμάχου</speaker>
 					<l>ὅ τι;</l>
 					<l n="960">ἐκέλευε Λάμαχός σε ταυτησὶ δραχμῆς</l>
@@ -2451,7 +2451,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l>ὁ ποῖος οὗτος Λάμαχος τὴν ἔγχελυν;</l>
 				</sp>
-				<sp who="#theraponlamaxoy">
+				<sp who="#therapon_lamachou">
 					<speaker>Θεράπων Λαμάχου</speaker>
 					<l>ὁ δεινός, ὁ ταλαύρινος, ὃς τὴν Γοργόνα</l>
 					<l n="965">πάλλει κραδαίνων τρισὶ κατάσκιος λόφοις.</l>
@@ -2468,7 +2468,7 @@ convert to P3
 			</div1>
 			<div1 type="Choral">
 				<div2 type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>εἶδες ὦ εἶδες ὦ πᾶσα πόλι τὸν φρόνιμον ἄνδρα τὸν ὑπέρσοφον,</l>
 						<l>οἷ’ ἔχει σπεισάμενος ἐμπορικὰ χρήματα διεμπολᾶν,</l>
@@ -2487,7 +2487,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>&lt;οὑτοσὶ δ’&gt; ἐπτέρωταί τ’ ἐπὶ τὸ δεῖπνον ἅμα καὶ μεγάλα δὴ φρονεῖ,</l>
 						<l>τοῦ βίου δ’ ἐξέβαλε δεῖγμα &lt;τάδε&gt; τὰ πτερὰ πρὸ τῶν θυρῶν.</l>
@@ -2507,7 +2507,7 @@ convert to P3
 				</div2>
 			</div1>
 			<div1 type="Lyric-Scene">
-				<sp who="#keryks">
+				<sp who="#keryx">
 					<speaker>Κῆρυξ</speaker>
 					<l n="1000">ἀκούετε λεῴ· κατὰ τὰ πάτρια τοὺς Χοᾶς</l>
 					<l>πίνειν ὑπὸ τῆς σάλπιγγος· ὃς δ’ ἂν ἐκπίῃ</l>
@@ -2523,7 +2523,7 @@ convert to P3
 					<milestone ed="p" n="1008" unit="card"/>
 				</sp>
 				<div2 type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ζηλῶ σε τῆς εὐβουλίας,</l>
 						<l>μᾶλλον δὲ τῆς εὐωχίας</l>
@@ -2533,7 +2533,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>τί δῆτ’ ἐπειδὰν τὰς κίχλας ὀπτωμένας ἴδητε;</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>οἶμαί σε καὶ τοῦτ’ εὖ λέγειν.</l>
 					</sp>
@@ -2541,7 +2541,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l part="Y">τὸ πῦρ ὑποσκάλευε.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="1015">ἤκουσας ὡς μαγειρικῶς</l>
 						<l>κομψῶς τε καὶ δειπνητικῶς</l>
@@ -2634,7 +2634,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἁνὴρ ἀνηύρηκέν τι ταῖς</l>
 						<l>σπονδαῖσιν ἡδύ, κοὐκ ἔοικεν</l>
@@ -2644,7 +2644,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>κατάχει σὺ τῆς χορδῆς τὸ μέλι, τὰς σηπίας στάθευε.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἤκουσας ὀρθιασμάτων;</l>
 					</sp>
@@ -2652,7 +2652,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l part="Y">ὀπτᾶτε τἀγχέλεια.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἀποκτενεῖς λιμῷ ’μὲ καὶ</l>
 						<l n="1045">τοὺς γείτονας κνίσῃ τε καὶ</l>
@@ -2663,7 +2663,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>ὀπτᾶτε ταυτὶ καὶ καλῶς ξανθίζετε.</l>
 					</sp>
-					<sp who="#paranymfos">
+					<sp who="#paranymphos">
 						<speaker>Παράνυμφος</speaker>
 						<l>Δικαιόπολι.</l>
 					</sp>
@@ -2671,7 +2671,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l part="Y">τίς οὑτοσί; τίς οὑτοσί;</l>
 					</sp>
-					<sp who="#paranymfos">
+					<sp who="#paranymphos">
 						<speaker>Παράνυμφος</speaker>
 						<l>ἔπεμψέ τίς σοι νυμφίος ταυτὶ κρέα</l>
 						<l n="1050">ἐκ τῶν γάμων.</l>
@@ -2680,7 +2680,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l part="Y">καλῶς γε ποιῶν ὅστις ἦν.</l>
 					</sp>
-					<sp who="#paranymfos">
+					<sp who="#paranymphos">
 						<speaker>Παράνυμφος</speaker>
 						<l>ἐκέλευε δ’ ἐγχέαι σε τῶν κρεῶν χάριν,</l>
 						<l>ἵνα μὴ στρατεύοιτ’ ἀλλὰ βινοίη μένων,</l>
@@ -2692,7 +2692,7 @@ convert to P3
 						<l n="1055">ὡς οὐκ ἂν ἐγχέαιμι μυρίων δραχμῶν.</l>
 						<l>ἀλλ’ αὑτηὶ τίς ἔστιν;</l>
 					</sp>
-					<sp who="#paranymfos">
+					<sp who="#paranymphos">
 						<speaker>Παράνυμφος</speaker>
 						<l part="Y">ἡ νυμφεύτρια</l>
 						<l>δεῖται παρὰ τῆς νύμφης τι σοὶ λέξαι μόνῳ.</l>
@@ -2715,20 +2715,20 @@ convert to P3
 				</div2>
 			</div1>
 			<div1 type="Episode">
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>καὶ μὴν ὁδί τις τὰς ὀφρῦς ἀνεσπακὼς·</l>
 					<l n="1070">ὥσπερ τι δεινὸν ἀγγελῶν ἐπείγεται.</l>
 				</sp>
-				<sp who="#aggelosa">
+				<sp who="#angelos_a">
 					<speaker>Ἄγγελος Α</speaker>
 					<l>ἰὼ πόνοι τε καὶ μάχαι καὶ Λάμαχοι.</l>
 				</sp>
-				<sp who="#lamaxos">
+				<sp who="#lamachos">
 					<speaker>Λάμαχος</speaker>
 					<l>τίς ἀμφὶ χαλκοφάλαρα δώματα κτυπεῖ;</l>
 				</sp>
-				<sp who="#aggelosa">
+				<sp who="#angelos_a">
 					<speaker>Ἄγγελος Α</speaker>
 					<l>ἰέναι σ’ ἐκέλευον οἱ στρατηγοὶ τήμερον</l>
 					<l>ταχέως λαβόντα τοὺς λόχους καὶ τοὺς λόφους·</l>
@@ -2736,7 +2736,7 @@ convert to P3
 					<l>ὑπὸ τοὺς Χοᾶς γὰρ καὶ Χύτρους αὐτοῖσί τις</l>
 					<l>ἤγγειλε λῃστὰς ἐμβαλεῖν Βοιωτίους.</l>
 				</sp>
-				<sp who="#lamaxos">
+				<sp who="#lamachos">
 					<speaker>Λάμαχος</speaker>
 					<l>ἰὼ στρατηγοὶ πλείονες ἢ βελτίονες.</l>
 					<l>οὐ δεινὰ μὴ ’ξεῖναί με μηδ’ ἑορτάσαι;</l>
@@ -2745,7 +2745,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l n="1080">ἰὼ στράτευμα πολεμολαμαχαϊκόν.</l>
 				</sp>
-				<sp who="#lamaxos">
+				<sp who="#lamachos">
 					<speaker>Λάμαχος</speaker>
 					<l>οἴμοι κακοδαίμων καταγελᾷς ἤδη σύ μου.</l>
 				</sp>
@@ -2753,7 +2753,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l>βούλει μάχεσθαι Γηρυόνῃ τετραπτίλῳ;</l>
 				</sp>
-				<sp who="#lamaxos">
+				<sp who="#lamachos">
 					<speaker>Λάμαχος</speaker>
 					<l>αἰαῖ</l>
 					<l>οἵαν ὁ κῆρυξ ἀγγελίαν ἤγγειλέ μοι.</l>
@@ -2762,7 +2762,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l>αἰαῖ τίνα δ’ αὖ μοι προστρέχει τις ἀγγελῶν;</l>
 				</sp>
-				<sp who="#aggelosb">
+				<sp who="#angelos_b">
 					<speaker>Ἄγγελος Β</speaker>
 					<l n="1085">Δικαιόπολι.</l>
 				</sp>
@@ -2770,7 +2770,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l part="Y">τί ἔστιν;</l>
 				</sp>
-				<sp who="#aggelosb">
+				<sp who="#angelos_b">
 					<speaker>Ἄγγελος Β</speaker>
 					<l part="Y">ἐπὶ δεῖπνον ταχὺ</l>
 					<l>βάδιζε τὴν κίστην λαβὼν καὶ τὸν χοᾶ.</l>
@@ -2783,7 +2783,7 @@ convert to P3
 					<l>ὀρχηστρίδες, τὰ φίλταθ’ Ἁρμοδίου, καλαί.</l>
 					<l>ἀλλ’ ὡς τάχιστα σπεῦδε.</l>
 				</sp>
-				<sp who="#lamaxos">
+				<sp who="#lamachos">
 					<speaker>Λάμαχος</speaker>
 					<l part="Y">κακοδαίμων ἐγώ.</l>
 					<milestone ed="p" n="1095" unit="card"/>
@@ -2793,7 +2793,7 @@ convert to P3
 					<l n="1095">καὶ γὰρ σὺ μεγάλην ἐπεγράφου τὴν Γοργόνα.</l>
 					<l>σύγκλῃε, καὶ δεῖπνόν τις ἐνσκευαζέτω.</l>
 				</sp>
-				<sp who="#lamaxos">
+				<sp who="#lamachos">
 					<speaker>Λάμαχος</speaker>
 					<l>παῖ παῖ φέρ’ ἔξω δεῦρο τὸν γυλιὸν ἐμοί.</l>
 				</sp>
@@ -2801,7 +2801,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l>παῖ παῖ φέρ’ ἔξω δεῦρο τὴν κίστην ἐμοί.</l>
 				</sp>
-				<sp who="#lamaxos">
+				<sp who="#lamachos">
 					<speaker>Λάμαχος</speaker>
 					<l>ἅλας θυμίτας οἶσε παῖ καὶ κρόμμυα.</l>
 				</sp>
@@ -2809,7 +2809,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l n="1100">ἐμοὶ δὲ τεμάχη· κρομμύοις γὰρ ἄχθομαι.</l>
 				</sp>
-				<sp who="#lamaxos">
+				<sp who="#lamachos">
 					<speaker>Λάμαχος</speaker>
 					<l>θρῖον ταρίχους οἶσε δεῦρο παῖ σαπροῦ.</l>
 				</sp>
@@ -2817,7 +2817,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l>κἀμοὶ σὺ δημοῦ θρῖον· ὀπρήσω δ’ ἐκεῖ.</l>
 				</sp>
-				<sp who="#lamaxos">
+				<sp who="#lamachos">
 					<speaker>Λάμαχος</speaker>
 					<l>ἔνεγκε δεῦρο τὼ πτερὼ τὼ κ’ τοῦ κράνους.</l>
 				</sp>
@@ -2825,7 +2825,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l>ἐμοὶ δὲ τὰς φάττας γε φέρε καὶ τὰς κίχλας.</l>
 				</sp>
-				<sp who="#lamaxos">
+				<sp who="#lamachos">
 					<speaker>Λάμαχος</speaker>
 					<l n="1105">καλόν γε καὶ λευκὸν τὸ τῆς στρούθου πτερόν.</l>
 				</sp>
@@ -2833,7 +2833,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l>καλόν γε καὶ ξανθὸν τὸ τῆς φάττης κρέας.</l>
 				</sp>
-				<sp who="#lamaxos">
+				<sp who="#lamachos">
 					<speaker>Λάμαχος</speaker>
 					<l>ὦνθρωπε παῦσαι καταγελῶν μου τῶν ὅπλων.</l>
 				</sp>
@@ -2841,7 +2841,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l>ὦνθρωπε βούλει μὴ βλέπειν ἐς τὰς κίχλας;</l>
 				</sp>
-				<sp who="#lamaxos">
+				<sp who="#lamachos">
 					<speaker>Λάμαχος</speaker>
 					<l>τὸ λοφεῖον ἐξένεγκε τῶν τριῶν λόφων.</l>
 				</sp>
@@ -2849,7 +2849,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l n="1110">κἀμοὶ λεκάνιον τῶν λαγῴων δὸς κρεῶν.</l>
 				</sp>
-				<sp who="#lamaxos">
+				<sp who="#lamachos">
 					<speaker>Λάμαχος</speaker>
 					<l>ἀλλ’ ἢ τριχόβρωτες τοὺς λόφους που κατέφαγον.</l>
 				</sp>
@@ -2857,7 +2857,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l>ἀλλ’ ἤ πρὸ δείπνου τὴν μίμαρκυν κατέδομαι.</l>
 				</sp>
-				<sp who="#lamaxos">
+				<sp who="#lamachos">
 					<speaker>Λάμαχος</speaker>
 					<l>ὦνθρωπε βούλει μὴ προσαγορεύειν ἐμέ;</l>
 				</sp>
@@ -2867,7 +2867,7 @@ convert to P3
 					<l n="1115">βούλει περιδόσθαι κἀπιτρέψαι Λαμάχῳ,</l>
 					<l>πότερον ἀκρίδες ἥδιόν ἐστιν ἤ κίχλαι;</l>
 				</sp>
-				<sp who="#lamaxos">
+				<sp who="#lamachos">
 					<speaker>Λάμαχος</speaker>
 					<l>οἴμ’ ὡς ὑβρίζεις.</l>
 				</sp>
@@ -2875,7 +2875,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l part="Y">τὰς ἀκρίδας κρίνει πολύ.</l>
 				</sp>
-				<sp who="#lamaxos">
+				<sp who="#lamachos">
 					<speaker>Λάμαχος</speaker>
 					<l>παῖ παῖ καθελών μοι τὸ δόρυ δεῦρ’ ἔξω φέρε.</l>
 				</sp>
@@ -2883,7 +2883,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l>παῖ παῖ σὺ δ’ ἀφελὼν δεῦρο τὴν χορδὴν φέρε.</l>
 				</sp>
-				<sp who="#lamaxos">
+				<sp who="#lamachos">
 					<speaker>Λάμαχος</speaker>
 					<l n="1120">φέρε τοῦ δόρατος ἀφελκύσωμαι τοὔλυτρον.</l>
 					<l>ἔχ’, ἀντέχου παῖ.</l>
@@ -2892,7 +2892,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l part="Y">καὶ σὺ παῖ τοῦδ’ ἀντέχου.</l>
 				</sp>
-				<sp who="#lamaxos">
+				<sp who="#lamachos">
 					<speaker>Λάμαχος</speaker>
 					<l>τοὺς κιλλίβαντας οἶσε παῖ τῆς ἀσπίδος.</l>
 				</sp>
@@ -2900,7 +2900,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l>καὶ τῆς ἐμῆς τοὺς κριβανίτας ἔκφερε.</l>
 				</sp>
-				<sp who="#lamaxos">
+				<sp who="#lamachos">
 					<speaker>Λάμαχος</speaker>
 					<l>φέρε δεῦρο γοργόνωτον ἀσπίδος κύκλον.</l>
 				</sp>
@@ -2908,7 +2908,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l n="1125">κἀμοὶ πλακοῦντος τυρόνωτον δὸς κύκλον.</l>
 				</sp>
-				<sp who="#lamaxos">
+				<sp who="#lamachos">
 					<speaker>Λάμαχος</speaker>
 					<l>ταῦτ’ οὐ κατάγελώς ἐστιν ἀνθρώποις πλατύς;</l>
 				</sp>
@@ -2916,7 +2916,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l>ταῦτ’ οὐ πλακοῦς δῆτ’ ἐστὶν ἀνθρώποις γλυκύς;</l>
 				</sp>
-				<sp who="#lamaxos">
+				<sp who="#lamachos">
 					<speaker>Λάμαχος</speaker>
 					<l>κατάχει σὺ παῖ τοὔλαιον. ἐν τῷ χαλκίῳ</l>
 					<l>ἐνορῶ γέροντα δειλίας φευξούμενον.</l>
@@ -2926,7 +2926,7 @@ convert to P3
 					<l n="1130">κατάχει σὺ τὸ μέλι. κἀνθάδ’ ἔνδηλος γέρων</l>
 					<l>κλάειν κελεύων Λάμαχον τὸν Γοργάσου.</l>
 				</sp>
-				<sp who="#lamaxos">
+				<sp who="#lamachos">
 					<speaker>Λάμαχος</speaker>
 					<l>φέρε δεῦρο παῖ θώρακα πολεμιστήριον.</l>
 				</sp>
@@ -2934,7 +2934,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l>ἔξαιρε παῖ θώρακα κἀμοὶ τὸν χοᾶ.</l>
 				</sp>
-				<sp who="#lamaxos">
+				<sp who="#lamachos">
 					<speaker>Λάμαχος</speaker>
 					<l>ἐν τῷδε πρὸς τοὺς πολεμίους θωρήξομαι.</l>
 				</sp>
@@ -2942,7 +2942,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l n="1135">ἐν τῷδε πρὸς τοὺς συμπότας θωρήξομαι.</l>
 				</sp>
-				<sp who="#lamaxos">
+				<sp who="#lamachos">
 					<speaker>Λάμαχος</speaker>
 					<l>τὰ στρώματ’ ὦ παῖ δῆσον ἐκ τῆς ἀσπίδος.</l>
 				</sp>
@@ -2950,7 +2950,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l>τὸ δεῖπνον ὦ παῖ δῆσον ἐκ τῆς κιστίδος.</l>
 				</sp>
-				<sp who="#lamaxos">
+				<sp who="#lamachos">
 					<speaker>Λάμαχος</speaker>
 					<l>ἐγὼ δ’ ἐμαυτῷ τὸν γυλιὸν οἴσω λαβών.</l>
 				</sp>
@@ -2958,7 +2958,7 @@ convert to P3
 					<speaker>Δικαιόπολις</speaker>
 					<l>ἐγὼ δὲ θοἰμάτιον λαβὼν ἐξέρχομαι.</l>
 				</sp>
-				<sp who="#lamaxos">
+				<sp who="#lamachos">
 					<speaker>Λάμαχος</speaker>
 					<l n="1140">τὴν ἀσπίδ’ αἴρου καὶ βάδιζ’ ὦ παῖ λαβών.</l>
 					<l>νείφει. βαβαιάξ· χειμέρια τὰ πράγματα.</l>
@@ -2969,7 +2969,7 @@ convert to P3
 					<milestone ed="p" n="1143" unit="card"/>
 				</sp>
 				<div2 met="anapests" type="prelude">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἴτε δὴ χαίροντες ἐπὶ στρατιάν.</l>
 						<l>ὡς ἀνομοίαν ἔρχεσθον ὁδόν·</l>
@@ -2982,7 +2982,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>Ἀντίμαχον τὸν ψακάδος †τὸν ξυγγραφῆ† τὸν μελέων ποιητήν,</l>
 						<l n="1151">ὡς μὲν ἁπλῷ, κακῶς ἐξολέσειεν ὁ Ζεύς·</l>
@@ -2997,7 +2997,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>τοῦτο μὲν αὐτῷ κακὸν ἕν, κᾆθ’ ἕτερον νυκτερινὸν γένοιτο.</l>
 						<l n="1165">ἠπιαλῶν γὰρ οἴκαδ’ ἐξ ἱππασίας βαδίζων,</l>
@@ -3013,7 +3013,7 @@ convert to P3
 				</div2>
 			</div1>
 			<div1 type="Episode">
-				<sp who="#theraponlamaxoy">
+				<sp who="#therapon_lamachou">
 					<speaker>Θεράπων Λαμάχου</speaker>
 					<l>ὦ δμῶες οἳ κατ’ οἶκόν ἐστε Λαμάχου,</l>
 					<l n="1175">ὕδωρ ὕδωρ ἐν χυτριδίῳ θερμαίνετε·</l>
@@ -3033,7 +3033,7 @@ convert to P3
 					<l>ὁδὶ δὲ καὐτός· ἀλλ’ ἄνοιγε τὴν θύραν.</l>
 				</sp>
 				<div2 type="strophe">
-					<sp who="#lamaxos">
+					<sp who="#lamachos">
 						<speaker>Λάμαχος</speaker>
 						<l n="1190">ἀτταταῖ ἀτταταῖ</l>
 						<l>στυγερὰ τάδε γε κρυερὰ πάθεα· τάλας ἐγώ.</l>
@@ -3056,7 +3056,7 @@ convert to P3
 						<l>τὸν γὰρ χοᾶ πρῶτος ἐκπέπωκα.</l>
 						<milestone ed="p" n="1204" unit="card"/>
 					</sp>
-					<sp who="#lamaxos">
+					<sp who="#lamachos">
 						<speaker>Λάμαχος</speaker>
 						<l>ὦ συμφορὰ τάλαινα τῶν ἐμῶν κακῶν.</l>
 						<l n="1205">ἰὼ ἰὼ τραυμάτων ἐπωδύνων.</l>
@@ -3068,7 +3068,7 @@ convert to P3
 						</l>
 						<l>ἰὴ ἰὴ χαῖρε Λαμαχίππιον.</l>
 					</sp>
-					<sp who="#lamaxos">
+					<sp who="#lamachos">
 						<speaker>Λάμαχος</speaker>
 						<l>στυγερὸς ἐγώ.</l>
 					</sp>
@@ -3076,7 +3076,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l part="Y">τί με σὺ κυνεῖς;</l>
 					</sp>
-					<sp who="#lamaxos">
+					<sp who="#lamachos">
 						<speaker>Λάμαχος</speaker>
 						<l>μογερὸς ἐγώ.</l>
 					</sp>
@@ -3084,7 +3084,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l part="Y">τί με σὺ δάκνεις;</l>
 					</sp>
-					<sp who="#lamaxos">
+					<sp who="#lamachos">
 						<speaker>Λάμαχος</speaker>
 						<l n="1210">τάλας ἐγὼ ξυμβολῆς βαρείας.</l>
 					</sp>
@@ -3092,7 +3092,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>τοῖς Χουσὶ γάρ τις ξυμβολὰς ἐπράττετο;</l>
 					</sp>
-					<sp who="#lamaxos">
+					<sp who="#lamachos">
 						<speaker>Λάμαχος</speaker>
 						<l>ἰὼ ἰὼ Παιὰν Παιάν.</l>
 					</sp>
@@ -3100,7 +3100,7 @@ convert to P3
 						<speaker>Δικαιόπολις</speaker>
 						<l>ἀλλ’ οὐχὶ νυνὶ τήμερον Παιώνια.</l>
 					</sp>
-					<sp who="#lamaxos">
+					<sp who="#lamachos">
 						<speaker>Λάμαχος</speaker>
 						<l>λάβεσθέ μου λάβεσθε τοῦ σκέλους παπαῖ,</l>
 						<l n="1215">προσλάβεσθ’ ὦ φίλοι.</l>
@@ -3110,7 +3110,7 @@ convert to P3
 						<l>ἐμοῦ δέ γε σφὼ τοῦ πέους ἄμφω μέσου</l>
 						<l>προσλάβεσθ’ ὦ φίλαι.</l>
 					</sp>
-					<sp who="#lamaxos">
+					<sp who="#lamachos">
 						<speaker>Λάμαχος</speaker>
 						<l>εἰλιγγιῶ κάρα λίθῳ πεπληγμένος</l>
 						<l>καὶ σκοτοδινιῶ.</l>
@@ -3120,7 +3120,7 @@ convert to P3
 						<l n="1220">κἀγὼ καθεύδειν βούλομαι καὶ στύομαι</l>
 						<l>καὶ σκοτοβινιῶ</l>
 					</sp>
-					<sp who="#lamaxos">
+					<sp who="#lamachos">
 						<speaker>Λάμαχος</speaker>
 						<l>θύραζέ μ’ ἐξενέγκατ’ ἐς τοῦ Πιττάλου</l>
 						<l>παιωνίαισι χερσίν.</l>
@@ -3130,7 +3130,7 @@ convert to P3
 						<l>ὡς τοὺς κριτάς με φέρετε· ποῦ ’στιν ὁ βασιλεύς;</l>
 						<l n="1225">ἀπόδοτέ μοι τὸν ἀσκόν.</l>
 					</sp>
-					<sp who="#lamaxos">
+					<sp who="#lamachos">
 						<speaker>Λάμαχος</speaker>
 						<l>λόγχη τις ἐμπέπηγέ μοι δῑ ὀστέων ὀδυρτά.</l>
 						<milestone ed="p" n="1227" unit="card"/>
@@ -3145,7 +3145,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 type="lyric">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>τήνελλα δῆτ’, εἴπερ καλεῖς γ’, ὦ πρέσβυ, καλλίνικος.</l>
 					</sp>
@@ -3157,7 +3157,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 type="lyric">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="1230">τήνελλά νυν ὦ γεννάδα· χώρει λαβὼν τὸν ἀσκόν.</l>
 					</sp>
@@ -3169,7 +3169,7 @@ convert to P3
 					</sp>
 				</div2>
 				<div2 type="lyric">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἀλλ’ ἑψόμεσθα σὴν χάριν</l>
 						<l>τήνελλα καλλίνικος ᾄδοντες</l>

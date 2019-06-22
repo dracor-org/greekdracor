@@ -57,34 +57,34 @@
 					<person xml:id="presbys">
 						<persName>Πρέσβυς</persName>
 					</person>
-					<person xml:id="aggelos">
+					<person xml:id="angelos">
 						<persName>Ἄγγελος</persName>
 					</person>
-					<person xml:id="emixorion">
-						<persName>Ἡμιχόριον</persName>
-					</person>
-					<person xml:id="emixorion2">
-						<persName>Ἡμιχόριον 2</persName>
-					</person>
-					<person xml:id="trofos">
+					<personGrp xml:id="hemichorion">
+						<name>Ἡμιχόριον</name>
+					</personGrp>
+					<personGrp xml:id="hemichorion_1">
+						<name>Ἡμιχόριον 1</name>
+					</personGrp>
+					<personGrp xml:id="hemichorion_2">
+						<name>Ἡμιχόριον 2</name>
+					</personGrp>
+					<person xml:id="trophos">
 						<persName>Τροφός</persName>
 					</person>
-					<person xml:id="yllos">
+					<person xml:id="hyllos">
 						<persName>Ὕλλος</persName>
 					</person>
-					<person xml:id="erakles">
+					<person xml:id="herakles">
 						<persName>Ἡρακλῆς</persName>
 					</person>
 					<person xml:id="deianeira">
 						<persName>Δηιάνειρα</persName>
 					</person>
-					<person xml:id="emixorion1">
-						<persName>Ἡμιχόριον 1</persName>
-					</person>
-					<person xml:id="lixas">
+					<person xml:id="lichas">
 						<persName>Λίχας</persName>
 					</person>
-					<personGrp xml:id="xoros">
+					<personGrp xml:id="choros">
 						<name>Χορός</name>
 					</personGrp>
 				</listPerson>
@@ -261,7 +261,7 @@ antilabe in all files
 					<l>μῦθοι καλῶς πίπτουσιν· ἥδε γὰρ γυνὴ</l>
 					<l>δούλη μέν, εἴρηκεν δ’ ἐλεύθερον λόγον.</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>ποῖον; δίδαξον, μῆτερ, εἰ διδακτά μοι.</l>
 				</sp>
@@ -270,7 +270,7 @@ antilabe in all files
 					<l n="65">σὲ πατρὸς οὕτω δαρὸν ἐξενωμένου</l>
 					<l>τὸ μὴ πυθέσθαι ποῦ ’στιν, αἰσχύνην φέρειν.</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>ἀλλ’ οἶδα, μύθοις εἴ τι πιστεύειν χρεών.</l>
 				</sp>
@@ -278,7 +278,7 @@ antilabe in all files
 					<speaker>Δηιάνειρα</speaker>
 					<l>καὶ ποῦ κλύεις νιν, τέκνον, ἱδρῦσθαι χθονός;</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>τὸν μὲν παρελθόντ’ ἄροτον ἐν μήκει χρόνου</l>
 					<l n="70">Λυδῇ γυναικί φασί νιν λάτριν πονεῖν.</l>
@@ -287,7 +287,7 @@ antilabe in all files
 					<speaker>Δηιάνειρα</speaker>
 					<l>πᾶν τοίνυν, εἰ καὶ τοῦτ’ ἔτλη, κλύοι τις ἄν.</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>ἀλλ’ ἐξαφεῖται τοῦδέ γ’, ὡς ἐγὼ κλύω.</l>
 				</sp>
@@ -295,7 +295,7 @@ antilabe in all files
 					<speaker>Δηιάνειρα</speaker>
 					<l>ποῦ δῆτα νῦν ζῶν ἢ θανὼν ἀγγέλλεται;</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>Εὐβοΐδα χώραν φασίν, Εὐρύτου πόλιν,</l>
 					<l n="75">ἐπιστρατεύειν αὐτὸν ἢ μέλλειν ἔτι.</l>
@@ -305,7 +305,7 @@ antilabe in all files
 					<l>ἆρ’ οἶσθα δῆτ’, ὦ τέκνον, ὡς ἔλειπέ μοι</l>
 					<l>μαντεῖα πιστὰ τῆσδε τῆς χώρας πέρι;</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>τὰ ποῖα, μῆτερ; τὸν λόγον γὰρ ἀγνοῶ.</l>
 					<milestone ed="p" n="79" unit="card"/>
@@ -320,7 +320,7 @@ antilabe in all files
 					<l>[ἢ πίπτομεν σοῦ πατρὸς ἐξολωλότος]</l>
 					<l n="85">κείνου βίον σώσαντος, ἢ οἰχόμεσθ’ ἅμα;</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>ἀλλ’ εἶμι, μῆτερ· εἰ δὲ θεσφάτων ἐγὼ</l>
 					<l>βάξιν κατῄδη τῶνδε, κἂν πάλαι παρῆ·</l>
@@ -338,7 +338,7 @@ antilabe in all files
 			</div1>
 			<div1 type="choral">
 				<div2 n="1" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ὃν αἰόλα νὺξ ἐναριζομένα</l>
 						<l n="95">τίκτει κατευνάζει τε, φλογιζόμενον</l>
@@ -351,7 +351,7 @@ antilabe in all files
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ποθουμένᾳ γὰρ φρενὶ πυνθάνομαι</l>
 						<l>τὰν ἀμφινεικῆ Δηιάνειραν ἀεί,</l>
@@ -364,7 +364,7 @@ antilabe in all files
 					</sp>
 				</div2>
 				<div2 n="2" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>πολλὰ γὰρ ὥστ’ ἀκάμαντος ἢ νότου ἢ βορέα τις</l>
 						<l>κύματ’ ἂν εὐρέϊ πόντῳ βάντ’ ἐπιόντα τ’ ἴδοι,</l>
@@ -376,7 +376,7 @@ antilabe in all files
 					</sp>
 				</div2>
 				<div2 n="2" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ὧν ἐπιμεμφομένα σ’ αἰδοῖα  μέν, ἀντία δ’ οἴσω.</l>
 						<l n="125">φαμὶ γὰρ οὐκ ἀποτρύειν ἐλπίδα τὰν ἀγαθὰν</l>
@@ -388,7 +388,7 @@ antilabe in all files
 					</sp>
 				</div2>
 				<div2 type="epode">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>νὺξ βροτοῖσιν οὔτε κῆρες</l>
 						<l>οὔτε πλοῦτος, ἀλλ’ ἄφαρ</l>
@@ -443,13 +443,13 @@ antilabe in all files
 					<l>πάντων ἀρίστου φωτὸς ἐστερημένην.</l>
 				</sp>
 				<milestone ed="p" n="180" unit="card"/>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>εὐφημίαν νῦν ἴσχ’· ἐπεὶ καταστεφῆ</l>
 					<l>στείχονθ’ ὁρῶ τιν’ ἄνδρα πρὸς χαρὰν λόγων.</l>
 					<milestone ed="p" n="180" unit="card"/>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l n="180">δέσποινα Δῃάνειρα, πρῶτος ἀγγέλων</l>
 					<l>ὄκνου σε λύσω· τὸν γὰρ Ἀλκμήνης τόκον</l>
@@ -460,7 +460,7 @@ antilabe in all files
 					<speaker>Δηιάνειρα</speaker>
 					<l>τίν’ εἶπας, ὦ γεραιέ, τόνδε μοι λόγον;</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l n="185">τάχ’ ἐς δόμους σοὺς τὸν πολύζηλον πόσιν</l>
 					<l>ἥξειν φανέντα σὺν κράτει νικηφόρῳ.</l>
@@ -469,7 +469,7 @@ antilabe in all files
 					<speaker>Δηιάνειρα</speaker>
 					<l>καὶ τοῦ τόδ’ ἀστῶν ἢ ξένων μαθὼν λέγεις;</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>ἐν βουθερεῖ λειμῶνι πρὸς πολλοὺς θροεῖ</l>
 					<l n="190">Λίχας ὁ κῆρυξ ταῦτα· τοῦδ’ ἐγὼ κλύων</l>
@@ -480,7 +480,7 @@ antilabe in all files
 					<speaker>Δηιάνειρα</speaker>
 					<l>αὐτὸς δὲ πῶς ἄπεστιν, εἴπερ εὐτυχεῖ;</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>οὐκ εὐμαρείᾳ χρώμενος πολλῇ, γύναι.</l>
 					<l n="195">κύκλῳ γὰρ αὐτὸν Μηλιεὺς ἅπας λεὼς</l>
@@ -501,7 +501,7 @@ antilabe in all files
 				</sp>
 			</div1>
 			<div1 type="choral">
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l n="205">ἀνολολυξάτω  δόμοις ἐφεστίοις</l>
 					<l>ἀλαλαγαῖς ἁ  μελλόνυμφος, ἐν δὲ</l>
@@ -531,7 +531,7 @@ antilabe in all files
 					<l>χαίρειν δὲ τὸν κήρυκα προυννέπω, χρόνῳ</l>
 					<l>πολλῷ φανέντα, χαρτὸν εἴ τι καὶ φέρεις.</l>
 				</sp>
-				<sp who="#lixas">
+				<sp who="#lichas">
 					<speaker>Λίχας</speaker>
 					<l>ἀλλ’ εὖ μὲν ἵγμεθ’, εὖ δὲ προσφωνούμεθα,</l>
 					<l n="230">γύναι, κατ’ ἔργου κτῆσιν· ἄνδρα γὰρ καλῶς</l>
@@ -542,7 +542,7 @@ antilabe in all files
 					<l>ὦ φίλτατ’ ἀνδρῶν, πρῶθ’ ἃ πρῶτα βούλομαι</l>
 					<l>δίδαξον, εἰ ζῶνθ’ Ἡρακλῆ προσδέξομαι.</l>
 				</sp>
-				<sp who="#lixas">
+				<sp who="#lichas">
 					<speaker>Λίχας</speaker>
 					<l>ἔγωγέ τοι σφ’ ἔλειπον ἰσχύοντά τε</l>
 					<l n="235">καὶ ζῶντα καὶ θάλλοντα κοὐ νόσῳ βαρύν.</l>
@@ -551,7 +551,7 @@ antilabe in all files
 					<speaker>Δηιάνειρα</speaker>
 					<l>ποῦ γῆς; πατρῴας εἴτε βαρβάρου; λέγε.</l>
 				</sp>
-				<sp who="#lixas">
+				<sp who="#lichas">
 					<speaker>Λίχας</speaker>
 					<l>ἀκτή τις ἔστ’ Εὐβοιίς, ἔνθ’ ὁρίζεται</l>
 					<l>βωμοὺς τέλη τ’ ἔγκαρπα Κηναίῳ Διί.</l>
@@ -560,7 +560,7 @@ antilabe in all files
 					<speaker>Δηιάνειρα</speaker>
 					<l>εὐκταῖα φαίνων ἢ ἀπὸ μαντείας τινός;</l>
 				</sp>
-				<sp who="#lixas">
+				<sp who="#lichas">
 					<speaker>Λίχας</speaker>
 					<l n="240">εὐχαῖς ὅθ’ ᾕρει τῶνδ’ ἀνάστατον δορὶ</l>
 					<l>χώραν γυναικῶν ὧν ὁρᾷς ἐν ὄμμασιν.</l>
@@ -570,7 +570,7 @@ antilabe in all files
 					<l>αὗται δέ, πρὸς θεῶν, τοῦ ποτ’ εἰσὶ καὶ τίνες;</l>
 					<l>οἰκτραὶ γάρ, εἰ μὴ ξυμφοραὶ κλέπτουσί με.</l>
 				</sp>
-				<sp who="#lixas">
+				<sp who="#lichas">
 					<speaker>Λίχας</speaker>
 					<l>ταύτας ἐκεῖνος Εὐρύτου πέρσας πόλιν</l>
 					<l n="245">ἐξείλεθ’ αὑτῷ κτῆμα καὶ θεοῖς κριτόν.</l>
@@ -581,7 +581,7 @@ antilabe in all files
 					<l>χρόνον βεβὼς ἦν ἡμερῶν ἀνήριθμον;</l>
 					<milestone ed="p" n="248" unit="card"/>
 				</sp>
-				<sp n="Λίχας" who="#lixas">
+				<sp n="Λίχας" who="#lichas">
 					<speaker>Λίχας</speaker>
 					<l>οὔκ, ἀλλὰ τὸν μὲν πλεῖστον ἐν Λυδοῖς χρόνον</l>
 					<l>κατείχεθ’, ὥς φησ’ αὐτός, οὐκ ἐλεύθερος,</l>
@@ -629,7 +629,7 @@ antilabe in all files
 					<l n="290">πολλοῦ καλῶς λεχθέντος ἥδιστον κλύειν.</l>
 				</sp>
 				<milestone ed="p" n="291" unit="card"/>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>ἄνασσα, νῦν σοι τέρψις ἐμφανὴς κυρεῖ,</l>
 					<l>τῶν μὲν παρόντων, τὰ δὲ πεπυσμένῃ λόγῳ.</l>
@@ -659,7 +659,7 @@ antilabe in all files
 					<l>βλέπουσ’, ὅσῳπερ καὶ φρονεῖν οἶδεν μόνη.</l>
 					<milestone ed="p" n="314" unit="card"/>
 				</sp>
-				<sp who="#lixas">
+				<sp who="#lichas">
 					<speaker>Λίχας</speaker>
 					<l>τί δ’ οἶδ’ ἐγώ, τί δ’ ἄν με καὶ κρίνοις; ἴσως</l>
 					<l n="315">γέννημα τῶν ἐκεῖθεν οὐκ ἐν ὑστάτοις.</l>
@@ -668,7 +668,7 @@ antilabe in all files
 					<speaker>Δηιάνειρα</speaker>
 					<l>μὴ τῶν τυράννων; Εὐρύτου σπορά τις ἦν;</l>
 				</sp>
-				<sp who="#lixas">
+				<sp who="#lichas">
 					<speaker>Λίχας</speaker>
 					<l>οὐκ οἶδα· καὶ γὰρ οὐδ’ ἀνιστόρουν μακράν.</l>
 				</sp>
@@ -676,7 +676,7 @@ antilabe in all files
 					<speaker>Δηιάνειρα</speaker>
 					<l>οὐδ’ ὄνομα πρός του τῶν ξυνεμπόρων ἔχεις;</l>
 				</sp>
-				<sp who="#lixas">
+				<sp who="#lichas">
 					<speaker>Λίχας</speaker>
 					<l>ἥκιστα·  σιγῇ τοὐμὸν ἔργον ἤνυτον.</l>
 				</sp>
@@ -685,7 +685,7 @@ antilabe in all files
 					<l n="320">εἴπ’, ὦ τάλαιν’, ἀλλ’ ἡμὶν ἐκ σαυτῆς, ἐπεὶ</l>
 					<l>καὶ ξυμφορά τοι μὴ εἰδέναι σέ γ’ ἥτις εἶ.</l>
 				</sp>
-				<sp who="#lixas">
+				<sp who="#lichas">
 					<speaker>Λίχας</speaker>
 					<l>οὔ τἄρα τῷ γε πρόσθεν οὐδὲν ἐξ ἴσου</l>
 					<l>χρόνῳ διήσει  γλῶσσαν, ἥτις οὐδαμὰ</l>
@@ -705,7 +705,7 @@ antilabe in all files
 					<l>σπεύδῃς, ἐγώ τε τἄνδον ἐξαρκῆ τιθῶ.</l>
 					<milestone ed="p" n="335" unit="card"/>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l n="335">αὐτοῦ γε πρῶτον βαιὸν ἀμμείνασ’, ὅπως</l>
 					<l>μάθῃς ἄνευ τῶνδ’, οὕστινάς τ’ ἄγεις ἔσω,</l>
@@ -716,7 +716,7 @@ antilabe in all files
 					<speaker>Δηιάνειρα</speaker>
 					<l>τί δ’ ἐστί; τοῦ με τήνδ’ ἐφίστασαι βάσιν;</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l n="340">σταθεῖσ’ ἄκουσον· καὶ γὰρ οὐδὲ τὸν πάρος</l>
 					<l>μῦθον μάτην ἤκουσας, οὐδὲ νῦν δοκῶ.</l>
@@ -726,7 +726,7 @@ antilabe in all files
 					<l>πότερον ἐκείνους δῆτα δεῦρ’ αὖθις πάλιν</l>
 					<l>καλῶμεν, ἢ ’μοὶ ταῖσδέ τ’ ἐξειπεῖν θέλεις;</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>σοὶ ταῖσδέ τ’ οὐδὲν εἴργεται, τούτους δ’ ἔα.</l>
 				</sp>
@@ -734,7 +734,7 @@ antilabe in all files
 					<speaker>Δηιάνειρα</speaker>
 					<l n="345">καὶ δὴ βεβᾶσι, χὠ λόγος σημαινέτω.</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>ἁνὴρ ὅδ’ οὐδὲν ὧν ἔλεξεν ἀρτίως</l>
 					<l>φωνεῖ δίκης ἐς ὀρθόν, ἀλλ’ ἢ νῦν κακὸς</l>
@@ -746,7 +746,7 @@ antilabe in all files
 					<l n="350">ἃ μὲν γὰρ ἐξείρηκας ἀγνοία μ’ ἔχει.</l>
 					<milestone ed="p" n="351" unit="card"/>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>τούτου λέγοντος τἀνδρὸς εἰσήκουσ’ ἐγώ,</l>
 					<l>πολλῶν παρόντων μαρτύρων, ὡς τῆς κόρης</l>
@@ -781,14 +781,14 @@ antilabe in all files
 					<l>λαθραῖον; ὦ δύστηνος· ἆρ’ ἀνώνυμος</l>
 					<l>πέφυκεν, ὥσπερ οὑπάγων διώμνυτο;</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>ἦ κάρτα λαμπρὰ καὶ κατ’ ὄνομα καὶ φύσιν,</l>
 					<l n="380">πατρὸς μὲν οὖσα γένεσιν Εὐρύτου ποτὲ</l>
 					<l>Ἰόλη ’καλεῖτο, τῆς ἐκεῖνος οὐδαμὰ</l>
 					<l>βλάστας ἐφώνει, δῆθεν οὐδὲν ἱστορῶν.</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>ὄλοιντο—μή τι πάντες οἱ κακοί, τὰ δὲ</l>
 					<l>λαθραῖ’ ὃς ἀσκεῖ μὴ πρέποντ’ αὐτῷ κακά.</l>
@@ -798,7 +798,7 @@ antilabe in all files
 					<l n="385">τί χρὴ ποεῖν, γυναῖκες; ὡς ἐγὼ λόγοις</l>
 					<l>τοῖς νῦν παροῦσιν ἐκπεπληγμένη κυρῶ.</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>πεύθου μολοῦσα τἀνδρός, ὡς τάχ’ ἂν σαφῆ</l>
 					<l>λέξειεν, εἴ νιν πρὸς βίαν κρίνειν θέλοις.</l>
@@ -807,7 +807,7 @@ antilabe in all files
 					<speaker>Δηιάνειρα</speaker>
 					<l>ἀλλ’ εἶμι· καὶ γὰρ οὐκ ἀπὸ γνώμης λέγεις.</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l n="390">ἡμεῖς δὲ προσμένωμεν; ἢ τί χρὴ ποεῖν;</l>
 				</sp>
@@ -817,7 +817,7 @@ antilabe in all files
 					<l>ἀλλ’ αὐτόκλητος ἐκ δόμων πορεύεται.</l>
 					<milestone ed="p" n="393" unit="card"/>
 				</sp>
-				<sp who="#lixas">
+				<sp who="#lichas">
 					<speaker>Λίχας</speaker>
 					<l>τί χρή, γύναι, μολόντα μ’ Ἡρακλεῖ λέγειν;</l>
 					<l>δίδαξον, ὡς ἕρποντος, ὡς ὁρᾷς, ἐμοῦ.</l>
@@ -827,7 +827,7 @@ antilabe in all files
 					<l n="395">ὡς ἐκ ταχείας σὺν χρόνῳ βραδεῖ μολὼν</l>
 					<l>ᾄσσεις, πρὶν ἡμᾶς κἀννεώσασθαι λόγους.</l>
 				</sp>
-				<sp who="#lixas">
+				<sp who="#lichas">
 					<speaker>Λίχας</speaker>
 					<l>ἀλλ’ εἴ τι χρῄζεις ἱστορεῖν, πάρειμ’ ἐγώ.</l>
 				</sp>
@@ -835,7 +835,7 @@ antilabe in all files
 					<speaker>Δηιάνειρα</speaker>
 					<l>ἦ καὶ τὸ πιστὸν τῆς ἀληθείας νέμεις;</l>
 				</sp>
-				<sp who="#lixas">
+				<sp who="#lichas">
 					<speaker>Λίχας</speaker>
 					<l>ἴστω μέγας Ζεύς, ὧν γ’ ἂν ἐξειδὼς κυρῶ.</l>
 				</sp>
@@ -843,108 +843,108 @@ antilabe in all files
 					<speaker>Δηιάνειρα</speaker>
 					<l n="400">τίς ἡ γυνὴ δῆτ’ ἐστὶν ἣν ἥκεις ἄγων;</l>
 				</sp>
-				<sp who="#lixas">
+				<sp who="#lichas">
 					<speaker>Λίχας</speaker>
 					<l>Εὐβοιίς·  ὧν δ’ ἔβλαστεν οὐκ ἔχω λέγειν.</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>οὗτος, βλέφ’ ὧδε· πρὸς τίν’ ἐννέπειν δοκεῖς;</l>
 				</sp>
-				<sp who="#lixas">
+				<sp who="#lichas">
 					<speaker>Λίχας</speaker>
 					<l>σὺ δ’ εἰς τί δή με τοῦτ’ ἐρωτήσας ἔχεις;</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>τόλμησον εἰπεῖν, εἰ φρονεῖς, ὅ σ’ ἱστορῶ.</l>
 				</sp>
-				<sp who="#lixas">
+				<sp who="#lichas">
 					<speaker>Λίχας</speaker>
 					<l n="405">πρὸς τὴν κρατοῦσαν Δῃάνειραν, Οἰνέως</l>
 					<l>κόρην δάμαρτά θ’ Ἡρακλέους, εἰ μὴ κυρῶ</l>
 					<l>λεύσσων μάταια, δεσπότιν τε τὴν ἐμήν.</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>τοῦτ’ αὔτ’ ἔχρῃζον, τοῦτό σου μαθεῖν· λέγεις</l>
 					<l part="I">δέσποιναν εἶναι τήνδε σήν;</l>
 				</sp>
-				<sp who="#lixas">
+				<sp who="#lichas">
 					<speaker>Λίχας</speaker>
 					<l part="F">δίκαια γάρ.</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l n="410">τί δῆτα; ποίαν ἀξιοῖς δοῦναι δίκην,</l>
 					<l>ἢν εὑρεθῇς ἐς τήνδε μὴ δίκαιος ὤν;</l>
 				</sp>
-				<sp who="#lixas">
+				<sp who="#lichas">
 					<speaker>Λίχας</speaker>
 					<l>πῶς μὴ δίκαιος; τί ποτε ποικίλας ἔχεις;</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>οὐδέν· σὺ μέντοι κάρτα τοῦτο δρῶν κυρεῖς.</l>
 				</sp>
-				<sp who="#lixas">
+				<sp who="#lichas">
 					<speaker>Λίχας</speaker>
 					<l>ἄπειμι· μῶρος δ’ ἦ πάλαι κλύων σέθεν.</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l n="415">οὔ, πρίν γ’ ἂν εἴπῃς ἱστορούμενος βραχύ.</l>
 				</sp>
-				<sp who="#lixas">
+				<sp who="#lichas">
 					<speaker>Λίχας</speaker>
 					<l>λέγ’, εἴ τι χρῄζεις· καὶ γὰρ οὐ σιγηλὸς εἶ.</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>τὴν αἰχμάλωτον, ἣν ἔπεμψας ἐς δόμους,</l>
 					<l part="I">κάτοισθα δήπου;</l>
 				</sp>
-				<sp who="#lixas">
+				<sp who="#lichas">
 					<speaker>Λίχας</speaker>
 					<l part="F">φημί· πρὸς τί δ’ ἱστορεῖς;</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>οὔκουν σὺ ταύτην, ἣν ὑπ’ ἀγνοίας ὁρᾷς,</l>
 					<l n="420">Ἰόλην ἔφασκες Εὐρύτου σπορὰν ἄγειν;</l>
 				</sp>
-				<sp who="#lixas">
+				<sp who="#lichas">
 					<speaker>Λίχας</speaker>
 					<l>ποίοις ἐν ἀνθρώποισι; τίς πόθεν μολὼν</l>
 					<l>σοὶ μαρτυρήσει ταῦτ’ ἐμοῦ κλύειν πάρα;</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>πολλοῖσιν ἀστῶν· ἐν μέσῃ Τραχινίων</l>
 					<l>ἀγορᾷ πολύς σου ταῦτά γ’ εἰσήκουσ’ ὄχλος.</l>
 				</sp>
-				<sp who="#lixas">
+				<sp who="#lichas">
 					<speaker>Λίχας</speaker>
 					<l n="425">κλύειν γ’ ἔφασκον· ταὐτὸ δ’ οὐχὶ γίγνεται</l>
 					<l>δόκησιν εἰπεῖν κἀξακριβῶσαι λόγον.</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>ποίαν δόκησιν; οὐκ ἐπώμοτος λέγων</l>
 					<l>δάμαρτ’ ἔφασκες Ἡρακλεῖ ταύτην ἄγειν;</l>
 				</sp>
-				<sp who="#lixas">
+				<sp who="#lichas">
 					<speaker>Λίχας</speaker>
 					<l>ἐγὼ δάμαρτα; πρὸς θεῶν, φράσον, φίλη</l>
 					<l n="430">δέσποινα, τόνδε τίς ποτ’ ἐστὶν ὁ ξένος.</l>
 				</sp>
-				<sp who="#aggelos">
+				<sp who="#angelos">
 					<speaker>Ἄγγελος</speaker>
 					<l>ὃς σοῦ παρὼν ἤκουσεν, ὡς ταύτης πόθῳ</l>
 					<l>πόλις δαμείη πᾶσα, κοὐχ ἡ Λυδία</l>
 					<l>πέρσειεν αὐτήν, ἀλλ’ ὁ τῆσδ’ ἔρως φανείς.</l>
 				</sp>
-				<sp who="#lixas">
+				<sp who="#lichas">
 					<speaker>Λίχας</speaker>
 					<l>ἅνθρωπος, ὦ δέσποιν’, ἀποστήτω· τὸ γὰρ</l>
 					<l n="435">νοσοῦντι ληρεῖν ἀνδρὸς οὐχὶ σώφρονος.</l>
@@ -988,12 +988,12 @@ antilabe in all files
 					<l>πρὸς ἄλλον εἶναι, πρὸς δ’ ἔμ’ ἀψευδεῖν ἀεί.</l>
 					<milestone ed="p" n="470" unit="card"/>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l n="470">πείθου λεγούσῃ χρηστά, κοὐ μέμψει χρόνῳ</l>
 					<l>γυναικὶ τῇδε κἀπ’ ἐμοῦ κτήσει χάριν.</l>
 				</sp>
-				<sp who="#lixas">
+				<sp who="#lichas">
 					<speaker>Λίχας</speaker>
 					<l>ἀλλ’, ὦ φίλη δέσποιν’, ἐπεί σε μανθάνω</l>
 					<l>θνητὴν φρονοῦσαν θνητὰ κοὐκ ἀγνώμονα,</l>
@@ -1028,7 +1028,7 @@ antilabe in all files
 			</div1>
 			<div1 type="choral">
 				<div2 n="1" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>μέγα τι σθένος ἁ Κύπρις ἐκφέρεται νίκας ἀεί.</l>
 						<l>καὶ τὰ μὲν θεῶν</l>
@@ -1042,7 +1042,7 @@ antilabe in all files
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ὁ μὲν ἦν ποταμοῦ σθένος, ὑψίκερω τετραόρου</l>
 						<l>φάσμα ταύρου,</l>
@@ -1056,7 +1056,7 @@ antilabe in all files
 					</sp>
 				</div2>
 				<div2 type="epode">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>τότ’ ἦν χερός, ἦν δὲ τόξων πάταγος,</l>
 						<l>ταυρείων τ’ ἀνάμιγδα κεράτων·</l>
@@ -1137,7 +1137,7 @@ antilabe in all files
 					<l>πράσσειν μάταιον· εἰ δὲ μή, πεπαύσομαι.</l>
 					<milestone ed="p" n="588" unit="card"/>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>ἀλλ’ εἴ τις ἐστὶ πίστις ἐν τοῖς δρωμένοις,</l>
 					<l>δοκεῖς παρ’ ἡμῖν οὐ βεβουλεῦσθαι κακῶς.</l>
@@ -1147,7 +1147,7 @@ antilabe in all files
 					<l n="590">οὕτως ἔχει γ’ ἡ πίστις, ὡς τὸ μὲν δοκεῖν</l>
 					<l>ἔνεστι, πείρᾳ δ’ οὐ προσωμίλησά πω·</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>ἀλλ’ εἰδέναι χρὴ δρῶσαν, ὡς οὐδ’ εἰ δοκεῖς</l>
 					<l>ἔχειν, ἔχοις ἂν γνῶμα, μὴ πειρωμένη.</l>
@@ -1159,7 +1159,7 @@ antilabe in all files
 					<l>μόνον παρ’ ὑμῶν εὖ στεγοίμεθ’·  ὡς σκότῳ</l>
 					<l>κἂν αἰσχρὰ πράσσῃς, οὔποτ’ αἰσχύνῃ πεσεῖ.</l>
 				</sp>
-				<sp who="#lixas">
+				<sp who="#lichas">
 					<speaker>Λίχας</speaker>
 					<l>τί χρὴ ποεῖν; σήμαινε, τέκνον Οἰνέως,</l>
 					<l>ὡς ἐσμὲν ἤδη τῷ μακρῷ χρόνῳ βραδεῖς.</l>
@@ -1189,7 +1189,7 @@ antilabe in all files
 					<l>κἀμοῦ ξυνελθοῦσ’ ἐξ ἁπλῆς διπλῆ φανῇ.</l>
 					<milestone ed="p" n="620" unit="card"/>
 				</sp>
-				<sp who="#lixas">
+				<sp who="#lichas">
 					<speaker>Λίχας</speaker>
 					<l n="620">ἀλλ’ εἴπερ Ἑρμοῦ τήνδε πομπεύω τέχνην</l>
 					<l>βέβαιον, οὔ τι μὴ σφαλῶ γ’ ἐν σοί ποτε,</l>
@@ -1201,7 +1201,7 @@ antilabe in all files
 					<l>στείχοις ἂν ἤδη· καὶ γὰρ ἐξεπίστασαι</l>
 					<l n="625">τά γ’ ἐν δόμοισιν ὡς ἔχοντα τυγχάνει.</l>
 				</sp>
-				<sp who="#lixas">
+				<sp who="#lichas">
 					<speaker>Λίχας</speaker>
 					<l>ἐπίσταμαί τε καὶ φράσω σεσωσμένα.</l>
 				</sp>
@@ -1210,7 +1210,7 @@ antilabe in all files
 					<l>ἀλλ’ οἶσθα μὲν δὴ καὶ τὰ τῆς ξένης ὁρῶν</l>
 					<l>προσδέγματ’, αὐτὴν ὡς ἐδεξάμην φίλως.</l>
 				</sp>
-				<sp who="#lixas">
+				<sp who="#lichas">
 					<speaker>Λίχας</speaker>
 					<l>ὥστ’ ἐκπλαγῆναι τοὐμὸν ἡδονῇ κέαρ.</l>
 				</sp>
@@ -1224,7 +1224,7 @@ antilabe in all files
 			</div1>
 			<div1 type="choral">
 				<div2 n="1" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ὦ ναύλοχα καὶ πετραῖα</l>
 						<l>θερμὰ λουτρὰ καὶ πάγους</l>
@@ -1236,7 +1236,7 @@ antilabe in all files
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="640">ὁ καλλιβόας τάχ’ ὑμῖν</l>
 						<l>αὐλὸς οὐκ ἀναρσίαν</l>
@@ -1248,7 +1248,7 @@ antilabe in all files
 					</sp>
 				</div2>
 				<div2 n="2" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ὃν ἀπόπτολιν εἴχομεν παντᾷ,</l>
 						<l>δυοκαιδεκάμηνον ἀμμένουσαι</l>
@@ -1262,7 +1262,7 @@ antilabe in all files
 					</sp>
 				</div2>
 				<div2 n="2" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="655">ἀφίκοιτ’ ἀφίκοιτο· μὴ σταίη</l>
 						<l>πολύκωπον ὄχημα ναὸς αὐτῷ,</l>
@@ -1282,7 +1282,7 @@ antilabe in all files
 					<l>γυναῖκες, ὡς δέδοικα μὴ περαιτέρω</l>
 					<l>πεπραγμέν’ ᾖ μοι πάνθ’ ὅσ’ ἀρτίως ἔδρων.</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l n="665">τί δ’ ἔστι, Δῃάνειρα, τέκνον Οἰνέως;</l>
 				</sp>
@@ -1291,7 +1291,7 @@ antilabe in all files
 					<l>οὐκ οἶδ’· ἀθυμῶ δ’, εἰ φανήσομαι τάχα</l>
 					<l>κακὸν μέγ’ ἐκπράξασ’ ἀπ’ ἐλπίδος καλῆς.</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>οὐ δή τι τῶν σῶν Ἡρακλεῖ δωρημάτων;</l>
 				</sp>
@@ -1300,7 +1300,7 @@ antilabe in all files
 					<l>μάλιστά γ’, ὥστε μήποτ’ ἂν προθυμίαν</l>
 					<l n="670">ἄδηλον ἔργου τῳ παραινέσαι λαβεῖν.</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>δίδαξον, εἰ διδακτόν, ἐξ ὅτου φοβεῖ.</l>
 					<milestone ed="p" n="672" unit="card"/>
@@ -1361,7 +1361,7 @@ antilabe in all files
 					<l>ἥτις προτιμᾷ μὴ κακὴ πεφυκέναι.</l>
 				</sp>
 				<milestone ed="p" n="723" unit="card"/>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>ταρβεῖν μὲν ἔργα δείν’ ἀναγκαίως ἔχει,</l>
 					<l>τὴν δ’ ἐλπίδ’ οὐ χρὴ τῆς τύχης κρίνειν πάρος.</l>
@@ -1371,7 +1371,7 @@ antilabe in all files
 					<l n="725">οὐκ ἔστιν ἐν τοῖς μὴ καλοῖς βουλεύμασιν</l>
 					<l>οὐδ’ ἐλπίς, ἥτις καὶ θράσος τι προξενεῖ.</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>ἀλλ’ ἀμφὶ τοῖς σφαλεῖσι μὴ ’ξ ἑκουσίας</l>
 					<l>ὀργὴ πέπειρα, τῆς σε τυγχάνειν πρέπει.</l>
@@ -1381,13 +1381,13 @@ antilabe in all files
 					<l>τοιαῦτα δ’ ἂν λέξειεν οὐχ ὁ τοῦ κακοῦ</l>
 					<l n="730">κοινωνός, ἀλλ’ ᾧ μηδέν ἐστ’ οἴκοι βαρύ.</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>σιγᾶν ἂν ἁρμόζοι σε τὸν πλείω λόγον,</l>
 					<l>εἰ μή τι λέξεις παιδὶ τῷ σαυτῆς· ἐπεὶ</l>
 					<l>πάρεστι, μαστὴρ πατρὸς ὃς πρὶν ᾤχετο.</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>ὦ μῆτερ, ὡς ἂν ἐκ τριῶν σ’ ἓν εἱλόμην,</l>
 					<l n="735">ἢ μηκέτ’ εἶναι ζῶσαν, ἢ σεσωσμένην</l>
@@ -1398,7 +1398,7 @@ antilabe in all files
 					<speaker>Δηιάνειρα</speaker>
 					<l>τί δ’ ἐστίν, ὦ παῖ, πρός γ’ ἐμοῦ στυγούμενον;</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>τὸν ἄνδρα τὸν σὸν ἴσθι, τὸν δ’ ἐμὸν λέγω</l>
 					<l n="740">πατέρα, κατακτείνασα τῇδ’ ἐν ἡμέρᾳ.</l>
@@ -1407,7 +1407,7 @@ antilabe in all files
 					<speaker>Δηιάνειρα</speaker>
 					<l>οἴμοι, τιν’ ἐξήνεγκας, ὦ τέκνον, λόγον;</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>ὃν οὐχ οἷόν τε μὴ οὐ τελεσθῆναι· τὸ γὰρ</l>
 					<l>φανθὲν τίς ἂν δύναιτ’ ἂν ἀγένητον ποεῖν;</l>
@@ -1417,7 +1417,7 @@ antilabe in all files
 					<l>πῶς εἶπας, ὦ παῖ; τοῦ παρ’ ἀνθρώπων μαθὼν</l>
 					<l n="745">ἄζηλον οὕτως ἔργον εἰργάσθαι με φής;</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>αὐτὸς βαρεῖαν ξυμφορὰν ἐν ὄμμασιν</l>
 					<l>πατρὸς δεδορκὼς κοὐ κατὰ γλῶσσαν κλύων.</l>
@@ -1427,7 +1427,7 @@ antilabe in all files
 					<l>ποῦ δ’ ἐμπελάζεις τἀνδρὶ καὶ παρίστασαι;</l>
 					<milestone ed="p" n="749" unit="card"/>
 				</sp>
-				<sp n="Ὕλλος" who="#yllos">
+				<sp n="Ὕλλος" who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>εἰ χρὴ μαθεῖν σε, πάντα δὴ φωνεῖν χρεών.</l>
 					<l n="750">ὅθ’ εἷρπε κλεινὴν Εὐρύτου πέρσας πόλιν,</l>
@@ -1496,12 +1496,12 @@ antilabe in all files
 					<l>κτείνασ’, ὁποῖον ἄλλον οὐκ ὄψει ποτέ.</l>
 				</sp>
 				<milestone ed="p" n="813" unit="card"/>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>τί σῖγ’ ἀφέρπεις; οὐ κάτοισθ’ ὁθούνεκα</l>
 					<l>ξυνηγορεῖς σιγῶσα τῷ κατηγόρῳ;</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l n="815">ἐᾶτ’ ἀφέρπειν· οὖρος ὀφθαλμῶν ἐμῶν</l>
 					<l>αὐτῇ γένοιτ’ ἄπωθεν ἑρπούσῃ καλός.</l>
@@ -1514,7 +1514,7 @@ antilabe in all files
 			</div1>
 			<div1 type="choral">
 				<div2 n="1" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἴδ’ οἷον, ὦ παῖδες, προσέμιξεν ἄφαρ</l>
 						<l>τοὔπος τὸ θεοπρόπον ἡμῖν</l>
@@ -1528,7 +1528,7 @@ antilabe in all files
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>εἰ γάρ σφε Κενταύρου φονίᾳ νεφέλᾳ</l>
 						<l>χρίει δολοποιὸς ἀνάγκα</l>
@@ -1542,7 +1542,7 @@ antilabe in all files
 					</sp>
 				</div2>
 				<div2 n="2" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ὧν ἅδ’ ἁ τλάμων ἄοκνος μεγάλαν προορῶσα</l>
 						<l>δόμοισι βλάβαν νέων</l>
@@ -1558,7 +1558,7 @@ antilabe in all files
 					</sp>
 				</div2>
 				<div2 n="2" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἔρρωγεν παγὰ δακρύων·  κέχυται νόσος, ὦ πόποι,</l>
 						<l>οἷον ἀναρσίων</l>
@@ -1574,106 +1574,106 @@ antilabe in all files
 				</div2>
 			</div1>
 			<div1 type="episode">
-				<sp who="#emixorion">
+				<sp who="#hemichorion_1">
 					<speaker>Ἡμιχόριον 1</speaker>
 					<l>πότερον ἐγὼ μάταιος, ἢ κλύω τινὸς</l>
 					<l>οἴκτου δῑ οἴκων ἀρτίως ὁρμωμένου;</l>
 					<l n="865" part="Y">τί φημι;</l>
 				</sp>
-				<sp who="#emixorion">
+				<sp who="#hemichorion_2">
 					<speaker>Ἡμιχόριον 2</speaker>
 					<l>ἠχεῖ τις οὐκ ἄσημον, ἀλλὰ δυστυχῆ</l>
 					<l>κωκυτὸν εἴσω, καί τι καινίζει στέγη.</l>
 				</sp>
-				<sp who="#emixorion">
+				<sp who="#hemichorion">
 					<speaker>Ἡμιχόριον</speaker>
 					<l part="Y">ξύνες δὲ</l>
 					<l>τήνδ’ ὡς κατηφὴς  καὶ συνωφρυωμένη</l>
 					<l n="870">χωρεῖ πρὸς ἡμᾶς γραῖα σημανοῦσά τι.</l>
 				</sp>
-				<sp who="#trofos">
+				<sp who="#trophos">
 					<speaker>Τροφός</speaker>
 					<l>ὦ παῖδες, ὡς ἄρ’ ἡμὶν οὐ σμικρῶν κακῶν</l>
 					<l>ἦρξεν τὸ δῶρον Ἡρακλεῖ τὸ πόμπιμον.</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>τί δ’, ὦ γεραιά, καινοποιηθὲν λέγεις;</l>
 				</sp>
-				<sp who="#trofos">
+				<sp who="#trophos">
 					<speaker>Τροφός</speaker>
 					<l>βέβηκε Δῃάνειρα τὴν πανυστάτην</l>
 					<l n="875">ὁδῶν ἁπασῶν ἐξ ἀκινήτου ποδός.</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l part="I">οὐ δή ποθ’ ὡς θανοῦσα;</l>
 				</sp>
-				<sp who="#trofos">
+				<sp who="#trophos">
 					<speaker>Τροφός</speaker>
 					<l part="F">πάντ’ ἀκήκοας.</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l part="I">τέθνηκεν ἡ τάλαινα;</l>
 				</sp>
-				<sp who="#trofos">
+				<sp who="#trophos">
 					<speaker>Τροφός</speaker>
 					<l part="F">δεύτερον κλύεις.</l>
 				</sp>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>τάλαιν’ ὀλεθρία· τίνι τρόπῳ θανεῖν σφε φής;</l>
 				</sp>
-				<sp who="#trofos">
+				<sp who="#trophos">
 					<speaker>Τροφός</speaker>
 					<l part="I">σχετλιώτατά γε πρὸς πρᾶξιν.</l>
 				</sp>
 				<div2 type="lyric">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l part="F">εἰπὲ τῷ μόρῳ,</l>
 						<l n="880">γύναι, ξυντρέχει.</l>
 					</sp>
-					<sp who="#trofos">
+					<sp who="#trophos">
 						<speaker>Τροφός</speaker>
 						<l part="I">αὑτὴν διηΐστωσε.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l part="F">τίς θυμὸς ἢ τίνες νόσοι</l>
 						<l>τάνδ’ αἰχμᾷ  βέλεος κακοῦ ξυνεῖλε; πως ἐμήσατο</l>
 						<l n="885">πρὸς θανάτῳ θάνατον ἀνύσασα μόνα;</l>
 					</sp>
-					<sp who="#trofos">
+					<sp who="#trophos">
 						<speaker>Τροφός</speaker>
 						<l>στονόεντος ἐν τομᾷ σιδάρου.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἐπεῖδες, ὦ ματαία, τάνδε τὴν ὕβριν;</l>
 					</sp>
-					<sp who="#trofos">
+					<sp who="#trophos">
 						<speaker>Τροφός</speaker>
 						<l>ἐπεῖδον, ὡς δὴ πλησία παραστάτις.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="890">τίς ἦν; πῶς; φέρ’ εἰπέ.</l>
 					</sp>
-					<sp who="#trofos">
+					<sp who="#trophos">
 						<speaker>Τροφός</speaker>
 						<l>αὐτὴ πρὸς αὑτῆς χειροποιεῖται τάδε.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l part="I">τί φωνεῖς;</l>
 					</sp>
-					<sp who="#trofos">
+					<sp who="#trophos">
 						<speaker>Τροφός</speaker>
 						<l part="F">σαφηνῆ.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>ἔτεκεν ἔτεκε δὴ μεγάλαν</l>
 						<l>ἁ νέορτος ἅδε νύμφα</l>
@@ -1682,16 +1682,16 @@ antilabe in all files
 				</div2>
 				<div2 type="dialogue">
 					<milestone ed="p" n="896" unit="card"/>
-					<sp who="#trofos">
+					<sp who="#trophos">
 						<speaker>Τροφός</speaker>
 						<l>ἄγαν γε· μᾶλλον δ’, εἰ παροῦσα πλησία</l>
 						<l>ἔλευσσες οἷ’ ἔδρασε, κάρτ’ ἂν ᾤκτισας.</l>
 					</sp>
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>καὶ ταῦτ’ ἔτλη τις χεὶρ γυναικεία κτίσαι;</l>
 					</sp>
-					<sp who="#trofos">
+					<sp who="#trophos">
 						<speaker>Τροφός</speaker>
 						<l>δεινῶς γε· πεύσει δ’, ὥστε μαρτυρεῖν ἐμοί.</l>
 						<l n="900">ἐπεὶ γὰρ ἦλθε δωμάτων εἴσω μόνη</l>
@@ -1747,7 +1747,7 @@ antilabe in all files
 			</div1>
 			<div1 type="choral">
 				<div2 n="1" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>πότερα πρότερον ἐπιστένω,</l>
 						<l>πότερα μέλεα  περαιτέρω,</l>
@@ -1756,7 +1756,7 @@ antilabe in all files
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="950">τάδε μὲν ἔχομεν ὁρᾶν δόμοις,</l>
 						<l>τάδε δὲ μένομεν ἐπ’ ἐλπίσιν·</l>
@@ -1765,7 +1765,7 @@ antilabe in all files
 					</sp>
 				</div2>
 				<div2 n="2" type="strophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l>εἴθ’ ἀνεμόεσσά τις</l>
 						<l n="955">γένοιτ’ ἔπουρος ἑστιῶτις αὔρα,</l>
@@ -1780,7 +1780,7 @@ antilabe in all files
 					</sp>
 				</div2>
 				<div2 n="2" type="antistrophe">
-					<sp who="#xoros">
+					<sp who="#choros">
 						<speaker>Χορός</speaker>
 						<l n="965">ἀγχοῦ δ’ ἄρα κοὐ μακρὰν</l>
 						<l>προύκλαιον, ὀξύφωνος ὡς ἀηδών.</l>
@@ -1797,7 +1797,7 @@ antilabe in all files
 			</div1>
 			<div1 type="episode">
 				<div2 type="anapests">
-					<sp who="#yllos">
+					<sp who="#hyllos">
 						<speaker>Ὕλλος</speaker>
 						<l>οἴμοι ἐγὼ σοῦ,</l>
 						<l>πάτερ, οἴμοι ἐγὼ σοῦ μέλεος.</l>
@@ -1810,7 +1810,7 @@ antilabe in all files
 						<l>ζῇ γὰρ προπετής· ἀλλ’ ἴσχε δακὼν</l>
 						<l part="I">στόμα σόν.</l>
 					</sp>
-					<sp who="#yllos">
+					<sp who="#hyllos">
 						<speaker>Ὕλλος</speaker>
 						<l part="F">πῶς φής, γέρον; ἦ ζῇ;</l>
 					</sp>
@@ -1821,12 +1821,12 @@ antilabe in all files
 						<l n="980">φοιτάδα δεινὴν</l>
 						<l part="I">νόσον, ὦ τέκνον.</l>
 					</sp>
-					<sp who="#yllos">
+					<sp who="#hyllos">
 						<speaker>Ὕλλος</speaker>
 						<l part="F">ἀλλ’ ἐπί μοι μελέῳ</l>
 						<l>βάρος ἄπλετον· ἐμμέμονεν φρήν.</l>
 					</sp>
-					<sp who="#erakles">
+					<sp who="#herakles">
 						<speaker>Ἡρακλῆς</speaker>
 						<l>ὦ Ζεῦ,</l>
 						<l>ποῖ γᾶς ἥκω; παρὰ τοῖσι βροτῶν</l>
@@ -1841,12 +1841,12 @@ antilabe in all files
 						<l n="990">τῷδ’ ἀπὸ κρατὸς</l>
 						<l part="I">βλεφάρων θ’ ὕπνον;</l>
 					</sp>
-					<sp who="#yllos">
+					<sp who="#hyllos">
 						<speaker>Ὕλλος</speaker>
 						<l part="F">οὐ γὰρ ἔχω πῶς ἂν</l>
 						<l>στέρξαιμι κακὸν τόδε λεύσσων.</l>
 					</sp>
-					<sp who="#erakles">
+					<sp who="#herakles">
 						<speaker>Ἡρακλῆς</speaker>
 						<l>ὦ Κηναία κρηπὶς βωμῶν,</l>
 						<l>ἱερῶν οἵαν οἵων ἐπί μοι</l>
@@ -1865,7 +1865,7 @@ antilabe in all files
 			</div1>
 			<div1 type="choral">
 				<div2 n="1" type="strophe">
-					<sp who="#erakles">
+					<sp who="#herakles">
 						<speaker>Ἡρακλῆς</speaker>
 						<l>ἒ ἔ,</l>
 						<l n="1005">ἐᾶτέ μ’, ἐᾶτέ με δύσμορον ὕστατον,</l>
@@ -1893,7 +1893,7 @@ antilabe in all files
 					</sp>
 				</div2>
 				<div2 type="mesode">
-					<sp who="#yllos">
+					<sp who="#hyllos">
 						<speaker>Ὕλλος</speaker>
 						<l n="1020">ψαύω μὲν ἔγωγε,</l>
 						<l>λαθίπονον δ’ ὀδυνᾶν οὔτ’ ἔνδοθεν οὔτε θύραθεν</l>
@@ -1902,7 +1902,7 @@ antilabe in all files
 					</sp>
 				</div2>
 				<div2 n="1" type="antistrophe">
-					<sp who="#erakles">
+					<sp who="#herakles">
 						<speaker>Ἡρακλῆς</speaker>
 						<l>ὦ παῖ, ποῦ ποτ’ εἶ; τᾷδέ με τᾷδέ με</l>
 						<l n="1025">πρόσλαβε κουφίσας. ἒ ἔ, ἰὼ δαῖμον.</l>
@@ -1921,12 +1921,12 @@ antilabe in all files
 				</div2>
 			</div1>
 			<div1 type="episode">
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>κλύουσ’ ἔφριξα τάσδε συμφοράς, φίλαι,</l>
 					<l n="1045">ἄνακτος, οἵαις οἷος ὢν ἐλαύνεται.</l>
 				</sp>
-				<sp n="Ἡρακλῆς" who="#erakles">
+				<sp n="Ἡρακλῆς" who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l>ὦ πολλὰ δὴ καὶ θερμὰ κοὐ λόγῳ  κακὰ</l>
 					<l>καὶ χερσὶ καὶ νώτοισι μοχθήσας ἐγώ·</l>
@@ -1997,12 +1997,12 @@ antilabe in all files
 					<l>καὶ ζῶν κακούς γε καὶ θανὼν ἐτισάμην.</l>
 				</sp>
 				<milestone ed="p" n="1112" unit="card"/>
-				<sp who="#xoros">
+				<sp who="#choros">
 					<speaker>Χορός</speaker>
 					<l>ὦ τλῆμον Ἑλλάς, πένθος οἷον εἰσορῶ</l>
 					<l>ἕξουσαν, ἀνδρὸς τοῦδέ γ’ εἰ σφαλήσεται.</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>ἐπεὶ παρέσχες ἀντιφωνῆσαι, πάτερ,</l>
 					<l n="1115">σιγὴν παρασχὼν κλῦθί μου, νοσῶν ὅμως·</l>
@@ -2011,85 +2011,85 @@ antilabe in all files
 					<l>θυμῷ δύσοργος· οὐ γὰρ ἂν γνοίης ἐν οἷς</l>
 					<l>χαίρειν προθυμεῖ κἀν ὅτοις ἀλγεῖς μάτην.</l>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l n="1120">εἰπὼν ὃ χρῄζεις λῆξον· ὡς ἐγὼ νοσῶν</l>
 					<l>οὐδὲν ξυνίημ’ ὧν σὺ ποικίλλεις πάλαι.</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>τῆς μητρὸς ἥκω τῆς ἐμῆς φράσων ἐν οἷς</l>
 					<l>νῦν ἐστιν ὥς θ’ ἥμαρτεν οὐχ ἑκουσία.</l>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l>ὦ παγκάκιστε, καὶ παρεμνήσω γὰρ αὖ</l>
 					<l n="1125">τῆς πατροφόντου μητρός, ὡς κλύειν ἐμέ;</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>ἔχει γὰρ οὕτως ὥστε μὴ σιγᾶν πρέπειν.</l>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l>οὐ δῆτα τοῖς γε πρόσθεν ἡμαρτημένοις.</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>ἀλλ’ οὐδὲ μὲν δὴ τοῖς γ’ ἐφ’ ἡμέραν ἐρεῖς.</l>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l>λέγ’, εὐλαβοῦ δὲ μὴ φανῇς κακὸς γεγώς.</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l n="1130">λέγω· τέθνηκεν ἀρτίως νεοσφαγής.</l>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l>πρὸς τοῦ; τέρας τοι διὰ κακῶν ἐθέσπισας.</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>αὐτὴ πρὸς αὑτῆς, οὐδενὸς πρὸς ἐκτόπου.</l>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l>οἴμοι· πρὶν ὡς χρῆν σφ’ ἐξ ἐμῆς θανεῖν χερός;</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>κἂν σοῦ στραφείη θυμός, εἰ τὸ πᾶν μάθοις.</l>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l n="1135">δεινοῦ λόγου κατῆρξας· εἰπὲ δ’ ᾗ νοεῖς.</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>ἅπαν τὸ χρῆμ’, ἥμαρτε χρηστὰ μωμένη.</l>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l>χρήστ’, ὦ κάκιστε, πατέρα σὸν κτείνασα δρᾷ;</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>στέργημα γὰρ δοκοῦσα προσβαλεῖν σέθεν</l>
 					<l>ἀπήμπλαχ’, ὡς προσεῖδε τοὺς ἔνδον γάμους.</l>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l n="1140">καὶ τίς τοσοῦτος φαρμακεὺς Τραχινίων;</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>Νέσσος πάλαι Κένταυρος ἐξέπεισέ νιν</l>
 					<l>τοιῷδε φίλτρῳ τὸν σὸν ἐκμῆναι πόθον.</l>
 					<milestone ed="p" n="1143" unit="card"/>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l>ἰοὺ ἰοὺ δύστηνος, οἴχομαι τάλας·</l>
 					<l>ὄλωλ’ ὄλωλα, φέγγος οὐκέτ’ ἔστι μοι.</l>
@@ -2100,7 +2100,7 @@ antilabe in all files
 					<l>μάτην ἄκοιτιν, ὡς τελευταίαν ἐμοῦ</l>
 					<l n="1150">φήμην πύθησθε θεσφάτων ὅσ’ οἶδ’ ἐγώ.</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>ἀλλ’ οὔτε μήτηρ ἐνθάδ’, ἀλλ’ ἐπακτίᾳ</l>
 					<l>Τίρυνθι συμβέβηκεν ὥστ’ ἔχειν ἕδραν.</l>
@@ -2110,7 +2110,7 @@ antilabe in all files
 					<l>πράσσειν, κλύοντες ἐξυπηρετήσομεν.</l>
 					<milestone ed="p" n="1157" unit="card"/>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l>σὺ δ’ οὖν ἄκουε τοὔργον·  ἐξήκεις δ’ ἵνα</l>
 					<l>φανεῖς ὁποῖος ὢν ἀνὴρ ἐμὸς καλεῖ.</l>
@@ -2136,60 +2136,60 @@ antilabe in all files
 					<l>κάλλιστον ἐξευρόντα, πειθαρχεῖν πατρί.</l>
 					<milestone ed="p" n="1179" unit="card"/>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>ἀλλ’, ὦ πάτερ, ταρβῶ μὲν εἰς λόγου στάσιν</l>
 					<l n="1180">τοιάνδ’ ἐπελθών, πείσομαι δ’ ἅ σοι δοκεῖ.</l>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l>ἔμβαλλε χεῖρα δεξιὰν πρώτιστά μοι·</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>ὡς πρὸς τί πίστιν τήνδ’ ἄγαν ἐπιστρέφεις;</l>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l>οὐ θᾶσσον οἴσεις μηδ’ ἀπιστήσεις ἐμοί;</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>ἰδοὺ προτείνω, κοὐδὲν ἀντειρήσεται.</l>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l n="1185">ὄμνυ Διός νυν τοῦ με φύσαντος κάρα,</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>ἦ μὴν τί δράσειν; καὶ τόδ’ ἐξειρήσεται;</l>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l>ἦ μὴν ἐμοὶ τὸ λεχθὲν ἔργον ἐκτελεῖν.</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>ὄμνυμ’ ἔγωγε, Ζῆν’ ἔχων ἐπώμοτον.</l>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l>εἰ δ’ ἐκτὸς ἔλθοις, πημονὰς εὔχου λαβεῖν.</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l n="1190">οὐ μὴ λάβω· δράσω γάρ· εὔχομαι δ’ ὅμως·</l>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l>οἶσθ’ οὖν τὸν Οἴτης Ζηνὸς ὕψιστον πάγον;</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>οἶδ’, ὡς θυτήρ γε πολλὰ δὴ σταθεὶς ἄνω.</l>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l>ἐνταῦθά νυν χρὴ τοὐμὸν ἐξάραντά σε</l>
 					<l>σῶμ’ αὐτόχειρα καὶ ξὺν οἷς χρῄζεις φίλων.</l>
@@ -2203,65 +2203,65 @@ antilabe in all files
 					<l>καὶ νέρθεν ὢν ἀραῖος εἰσαεὶ βαρύς.</l>
 					<milestone ed="p" n="1203" unit="card"/>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>οἴμοι, πάτερ, τί δ’ εἶπας; οἷά μ’ εἴργασαι.</l>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l>ὁποῖα δραστέ’ ἐστίν· εἰ δὲ μή, πατρὸς</l>
 					<l n="1205">ἄλλου γενοῦ του μηδ’ ἐμὸς κληθῇς ἔτι.</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>οἴμοι μάλ’ αὖθις, οἷά μ’ ἐκκαλεῖ, πάτερ,</l>
 					<l>φονέα γενέσθαι καὶ παλαμναῖον σέθεν.</l>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l>οὐ δῆτ’ ἔγωγ’, ἀλλ’ ὧν ἔχω παιώνιον</l>
 					<l>καὶ μοῦνον ἰατῆρα τῶν ἐμῶν κακῶν.</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l n="1210">καὶ πῶς ὑπαίθων σῶμ’ ἂν ἰῴμην τὸ σόν;</l>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l>ἀλλ’ εἰ φοβεῖ πρὸς τοῦτο, τἄλλα γ’ ἔργασαι.</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>φορᾶς γέ τοι φθόνησις οὐ γενήσεται.</l>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l>ἦ καὶ πυρᾶς πλήρωμα τῆς εἰρημένης;</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>ὅσον γ’ ἂν αὐτὸς μὴ ποτιψαύων χεροῖν·</l>
 					<l n="1215">τὰ δ’ ἄλλα πράξω κοὐ καμεῖ τοὐμὸν μέρος.</l>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l>ἀλλ’ ἀρκέσει καὶ ταῦτα· πρόσνειμαι δέ μοι</l>
 					<l>χάριν βραχεῖαν πρὸς μακροῖς ἄλλοις διδούς.</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>εἰ καὶ μακρὰ κάρτ’ ἐστίν, ἐργασθήσεται.</l>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l>τὴν Εὐρυτείαν οἶσθα δῆτα παρθένον;</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l n="1220">Ἰόλην ἔλεξας, ὥς γ’ ἐπεικάζειν ἐμέ.</l>
 					<milestone ed="p" n="1221" unit="card"/>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l>ἔγνως.  τοσοῦτον δή σ’ ἐπισκήπτω, τέκνον·</l>
 					<l>ταύτην ἐμοῦ θανόντος, εἴπερ εὐσεβεῖν</l>
@@ -2274,16 +2274,16 @@ antilabe in all files
 					<l>σμικροῖς ἀπιστεῖν τὴν πάρος συγχεῖ χάριν.</l>
 					<milestone ed="p" n="1230" unit="card"/>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l n="1230">οἴμοι· τὸ μὲν νοσοῦντι θυμοῦσθαι κακόν,</l>
 					<l>τὸ δ’ ὧδ’ ὁρᾶν φρονοῦντα τίς ποτ’ ἂν φέροι;</l>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l>ὡς ἐργασείων οὐδὲν ὧν λέγω θροεῖς.</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>τίς γάρ ποθ’, ἥ μοι μητρὶ μὲν θανεῖν μόνη</l>
 					<l>μεταίτιος σοί τ’ αὖθις ὡς ἔχεις ἔχειν,</l>
@@ -2291,51 +2291,51 @@ antilabe in all files
 					<l>ἕλοιτο; κρεῖσσον κἀμέ γ’, ὦ πάτερ, θανεῖν</l>
 					<l>ἢ τοῖσιν ἐχθίστοισι συνναίειν ὁμοῦ.</l>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l>ἁνὴρ ὅδ’, ὡς ἔοικεν, οὐ νεμεῖν ἐμοὶ</l>
 					<l>φθίνοντι μοῖραν· ἀλλά τοι θεῶν ἀρὰ</l>
 					<l n="1240">μενεῖ σ’ ἀπιστήσαντα τοῖς ἐμοῖς λόγοις.</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>ὤμοι, τάχ’, ὡς ἔοικας, ὡς νοσεῖς φράσεις.</l>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l>σὺ γάρ μ’ ἀπ’ εὐνασθέντος ἐκκινεῖς κακοῦ.</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>δείλαιος, ὡς ἐς πολλὰ τἀπορεῖν ἔχω.</l>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l>οὐ γὰρ δικαιοῖς τοῦ φυτεύσαντος κλύειν.</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l n="1245">ἀλλ’ ἐκδιδαχθῶ δῆτα δυσσεβεῖν, πάτερ;</l>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l>οὐ δυσσέβεια, τοὐμὸν εἰ τέρψεις κέαρ.</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>πράσσειν ἄνωγας οὖν με πανδίκως τάδε;</l>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l>ἔγωγε· τούτων μάρτυρας καλῶ θεούς.</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>τοιγὰρ ποήσω κοὐκ ἀπώσομαι, τὸ σὸν</l>
 					<l n="1250">θεοῖσι δεικνὺς ἔργον· οὐ γὰρ ἄν ποτε</l>
 					<l>κακὸς φανείην σοί γε πιστεύσας, πάτερ.</l>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l>καλῶς τελευτᾷς, κἀπὶ τοῖσδε τὴν χάριν</l>
 					<l>ταχεῖαν, ὦ παῖ, πρόσθες, ὡς πρὶν ἐμπεσεῖν</l>
@@ -2343,13 +2343,13 @@ antilabe in all files
 					<l n="1255">ἄγ’ ἐγκονεῖτ’, αἴρεσθε· παῦλά τοι κακῶν</l>
 					<l>αὕτη, τελευτὴ τοῦδε τἀνδρὸς ὑστάτη.</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>ἀλλ’ οὐδὲν εἴργει σοὶ τελειοῦσθαι τάδε,</l>
 					<l>ἐπεὶ κελεύεις κἀξαναγκάζεις, πάτερ.</l>
 					<milestone ed="p" n="1259" unit="card"/>
 				</sp>
-				<sp who="#erakles">
+				<sp who="#herakles">
 					<speaker>Ἡρακλῆς</speaker>
 					<l>ἄγε νυν, πρὶν τήνδ’ ἀνακινῆσαι</l>
 					<l n="1260">νόσον, ὦ ψυχὴ σκληρά, χάλυβος</l>
@@ -2357,7 +2357,7 @@ antilabe in all files
 					<l>ἀνάπαυε βοήν, ὡς ἐπίχαρτον</l>
 					<l>τελέουσ’ ἀεκούσιον ἔργον.</l>
 				</sp>
-				<sp who="#yllos">
+				<sp who="#hyllos">
 					<speaker>Ὕλλος</speaker>
 					<l>αἴρετ’, ὀπαδοί, μεγάλην μὲν ἐμοὶ</l>
 					<l n="1265">τούτων θέμενοι συγγνωμοσύνην,</l>

@@ -51,7 +51,7 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="orestes" sex="MALE">
+					<person xml:id="orestes" sex="MALE" ana="https://www.wikidata.org/wiki/Q192407">
 						<persName>Ὀρέστης</persName>
 					</person>
 					<person xml:id="presbys" sex="MALE">
@@ -63,7 +63,7 @@
 					<personGrp xml:id="dioskoyroi" sex="MALE">
 						<name>Διόσκουροι</name>
 					</personGrp>
-					<person xml:id="klytaimestra" sex="FEMALE">
+					<person xml:id="klytaimestra" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q131157">
 						<persName>Κλυταιμήστρα</persName>
 					</person>
 					<person xml:id="autourgos" sex="MALE">
@@ -72,7 +72,7 @@
 					<personGrp xml:id="choros" sex="FEMALE">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="elektra" sex="FEMALE">
+					<person xml:id="elektra" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q131651">
 						<persName>Ἠλέκτρα</persName>
 					</person>
 				</listPerson>

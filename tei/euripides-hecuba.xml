@@ -63,13 +63,13 @@
 					<person xml:id="polydorou_eidolon" sex="MALE">
 						<persName>Πολυδώρου εἴδωλον</persName>
 					</person>
-					<person xml:id="odysseus" sex="MALE">
+					<person xml:id="odysseus" sex="MALE" ana="https://www.wikidata.org/wiki/Q47231">
 						<persName>Ὀδυσσεύς</persName>
 					</person>
-					<person xml:id="agamemnon" sex="MALE">
+					<person xml:id="agamemnon" sex="MALE" ana="https://www.wikidata.org/wiki/Q128176">
 						<persName>Ἀγαμέμνων</persName>
 					</person>
-					<person xml:id="hekabe" sex="FEMALE">
+					<person xml:id="hekabe" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q193433">
 						<persName>Ἑκάβη</persName>
 					</person>
 					<personGrp xml:id="choros" sex="FEMALE">

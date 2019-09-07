@@ -51,25 +51,25 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="kratos" sex="MALE">
+					<person xml:id="kratos" sex="MALE" ana="https://www.wikidata.org/wiki/Q334447">
 						<persName>Κράτος</persName>
 					</person>
-					<person xml:id="io" sex="FEMALE">
+					<person xml:id="io" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q179014">
 						<persName>Ἰώ</persName>
 					</person>
 					<person xml:id="hephaistos" sex="MALE">
 						<persName>Ἥφαιστος</persName>
 					</person>
-					<person xml:id="prometheus" sex="MALE">
+					<person xml:id="prometheus" sex="MALE" ana="https://www.wikidata.org/wiki/Q83160">
 						<persName>Προμηθεύς</persName>
 					</person>
-					<person xml:id="okeanos" sex="MALE">
+					<person xml:id="okeanos" sex="MALE" ana="https://www.wikidata.org/wiki/Q161419">
 						<persName>Ὠκεανός</persName>
 					</person>
 					<personGrp xml:id="choros" sex="UNKNOWN">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="hermes" sex="MALE">
+					<person xml:id="hermes" sex="MALE" ana="https://www.wikidata.org/wiki/Q41484">
 						<persName>Ἑρμῆς</persName>
 					</person>
 				</listPerson>

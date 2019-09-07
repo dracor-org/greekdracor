@@ -66,16 +66,16 @@
 					<person xml:id="therapon">
 						<persName>Θεράπων</persName>
 					</person>
-					<person xml:id="athena">
+					<person xml:id="athena" ana="https://www.wikidata.org/wiki/Q37122">
 						<persName>Ἀθήνα</persName>
 					</person>
-					<person xml:id="hermes">
+					<person xml:id="hermes" ana="https://www.wikidata.org/wiki/Q41484">
 						<persName>Ἑρμῆς</persName>
 					</person>
 					<personGrp xml:id="choros">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="kreousa">
+					<person xml:id="kreousa" ana="https://www.wikidata.org/wiki/Q375174">
 						<persName>Κρέουσα</persName>
 					</person>
 				</listPerson>

@@ -51,7 +51,7 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="andromache" sex="FEMALE">
+					<person xml:id="andromache" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q19376">
 						<persName>Ἀνδρομάχη</persName>
 					</person>
 					<person xml:id="talthybios" sex="MALE">
@@ -60,28 +60,28 @@
 					<personGrp xml:id="choros" sex="FEMALE">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="helene" sex="FEMALE">
+					<person xml:id="helene" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q164061">
 						<persName>Ἑλένη</persName>
 					</person>
-					<person xml:id="menelaos" sex="MALE">
+					<person xml:id="menelaos" sex="MALE" ana="https://www.wikidata.org/wiki/Q171839">
 						<persName>Μενέλαος</persName>
 					</person>
 					<personGrp xml:id="hemichorion_b" sex="FEMALE">
 						<name>Ἡμιχόριον Β</name>
 					</personGrp>
-					<person xml:id="hekabe" sex="FEMALE">
+					<person xml:id="hekabe" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q193433">
 						<persName>Ἑκάβη</persName>
 					</person>
 					<personGrp xml:id="hemichorion_a" sex="FEMALE">
 						<name>Ἡμιχόριον Α</name>
 					</personGrp>
-					<person xml:id="athena" sex="FEMALE">
+					<person xml:id="athena" sex="FEMALE"ana="https://www.wikidata.org/wiki/Q37122">
 						<persName>Ἀθήνα</persName>
 					</person>
-					<person xml:id="kasandra" sex="FEMALE">
+					<person xml:id="kasandra" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q170779">
 						<persName>Κασάνδρα</persName>
 					</person>
-					<person xml:id="poseidon" sex="MALE">
+					<person xml:id="poseidon" sex="MALE" ana="https://www.wikidata.org/wiki/Q41127">
 						<persName>Ποσειδῶν</persName>
 					</person>
 				</listPerson>

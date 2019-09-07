@@ -51,25 +51,25 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="angelos">
+					<person xml:id="angelos" sex="MALE">
 						<persName>Ἄγγελος</persName>
 					</person>
 					<person xml:id="teiresias">
 						<persName>Τειρεσίας</persName>
 					</person>
-					<person xml:id="polyneikes">
+					<person xml:id="polyneikes" sex="MALE" ana="https://www.wikidata.org/wiki/Q334817">
 						<persName>Πολυνείκης</persName>
 					</person>
-					<person xml:id="iokaste">
+					<person xml:id="iokaste" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q131445">
 						<persName>Ἰοκάστη</persName>
 					</person>
 					<personGrp xml:id="choros">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="oidipous">
+					<person xml:id="oidipous" sex="MALE" ana="https://www.wikidata.org/wiki/Q130890">
 						<persName>Οἰδίπους</persName>
 					</person>
-					<person xml:id="antigone">
+					<person xml:id="antigone" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q131351">
 						<persName>Ἄντιγόνη</persName>
 					</person>
 					<person xml:id="menoikeus">
@@ -78,10 +78,10 @@
 					<person xml:id="paidagogos">
 						<persName>Παιδαγωγός</persName>
 					</person>
-					<person xml:id="kreon">
+					<person xml:id="kreon" sex="MALE" ana="https://www.wikidata.org/wiki/Q732066">
 						<persName>Κρέων</persName>
 					</person>
-					<person xml:id="eteokles">
+					<person xml:id="eteokles" sex="MALE" ana="https://www.wikidata.org/wiki/Q506550">
 						<persName>Ἐτεοκλῆς</persName>
 					</person>
 				</listPerson>

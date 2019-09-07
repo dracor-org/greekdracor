@@ -52,19 +52,19 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="philoktetes">
+					<person xml:id="philoktetes" sex="MALE" ana="https://www.wikidata.org/wiki/Q212827">
 						<persName>Φιλοκτήτης</persName>
 					</person>
-					<person xml:id="herakles">
+					<person xml:id="herakles" sex="MALE" ana="https://www.wikidata.org/wiki/Q122248">
 						<persName>Ἡρακλῆς</persName>
 					</person>
 					<person xml:id="emporos">
 						<persName>Ἔμπορος</persName>
 					</person>
-					<person xml:id="odysseus">
+					<person xml:id="odysseus" sex="MALE" ana="https://www.wikidata.org/wiki/Q47231">
 						<persName>Ὀδυσσεύς</persName>
 					</person>
-					<person xml:id="neoptolemos">
+					<person xml:id="neoptolemos" sex="MALE" ana="https://www.wikidata.org/wiki/Q322639">
 						<persName>Νεοπτόλεμος</persName>
 					</person>
 					<personGrp xml:id="choros">

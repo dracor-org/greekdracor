@@ -54,19 +54,19 @@
 					<person xml:id="mousa" sex="FEMALE">
 						<persName>Μοῦσα</persName>
 					</person>
-					<person xml:id="odysseus" sex="MALE">
+					<person xml:id="odysseus" sex="MALE" ana="https://www.wikidata.org/wiki/Q47231">
 						<persName>Ὀδυσσεύς</persName>
 					</person>
-					<person xml:id="aineias" sex="MALE">
+					<person xml:id="aineias" sex="MALE" ana="https://www.wikidata.org/wiki/Q82732">
 						<persName>Αἰνείας</persName>
 					</person>
 					<person xml:id="heniochos" sex="MALE">
 						<persName>Ἡνίοχος</persName>
 					</person>
-					<person xml:id="athena" sex="FEMALE">
+					<person xml:id="athena" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q37122">
 						<persName>Ἀθήνα</persName>
 					</person>
-					<person xml:id="alexandros" sex="MALE">
+					<person xml:id="alexandros" sex="MALE" ana="https://www.wikidata.org/wiki/Q167646">
 						<persName>Ἀλέξανδρος</persName>
 					</person>
 					<person xml:id="angelos_poimen" sex="MALE">
@@ -75,10 +75,10 @@
 					<person xml:id="dolon" sex="MALE">
 						<persName>Δόλων</persName>
 					</person>
-					<person xml:id="diomedes" sex="MALE">
+					<person xml:id="diomedes" sex="MALE" ana="https://www.wikidata.org/wiki/Q208256">
 						<persName>Διομήδης</persName>
 					</person>
-					<person xml:id="hektor" sex="MALE">
+					<person xml:id="hektor" sex="MALE" ana="https://www.wikidata.org/wiki/Q159666">
 						<persName>Ἕκτωρ</persName>
 					</person>
 					<personGrp xml:id="choros" sex="MALE">

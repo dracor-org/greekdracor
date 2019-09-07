@@ -51,16 +51,16 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="orestes">
+					<person xml:id="orestes" ana="https://www.wikidata.org/wiki/Q192407">
 						<persName>Ὀρέστης</persName>
 					</person>
 					<person xml:id="angelos">
 						<persName>Ἄγγελος</persName>
 					</person>
-					<person xml:id="pylades">
+					<person xml:id="pylades" ana="https://www.wikidata.org/wiki/Q494886">
 						<persName>Πυλάδης</persName>
 					</person>
-					<person xml:id="athena">
+					<person xml:id="athena" ana="https://www.wikidata.org/wiki/Q37122">
 						<persName>Ἀθήνα</persName>
 					</person>
 					<person xml:id="boukolos">
@@ -72,7 +72,7 @@
 					<person xml:id="thoas">
 						<persName>Θόας</persName>
 					</person>
-					<person xml:id="iphigeneia">
+					<person xml:id="iphigeneia" ana="https://www.wikidata.org/wiki/Q192673">
 						<persName>Ἰφιγένεια</persName>
 					</person>
 				</listPerson>

@@ -55,22 +55,22 @@
 					<person xml:id="chrysothemis">
 						<persName>Χρυσόθεμις</persName>
 					</person>
-					<person xml:id="aigisthos">
+					<person xml:id="aigisthos" sex="MALE" ana="https://www.wikidata.org/wiki/Q212091">
 						<persName>Αἴγισθος</persName>
 					</person>
-					<person xml:id="orestes">
+					<person xml:id="orestes" sex="MALE" ana="https://www.wikidata.org/wiki/Q192407">
 						<persName>Ὀρέστης</persName>
 					</person>
-					<person xml:id="klytaimnestra">
+					<person xml:id="klytaimnestra" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q131157">
 						<persName>Κλυταιμνήστρα</persName>
 					</person>
 					<person xml:id="paidagogos">
 						<persName>Παιδαγωγός</persName>
 					</person>
-					<personGrp xml:id="choros">
+					<personGrp xml:id="choros" sex="UNKNOWN">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="elektra">
+					<person xml:id="elektra" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q131651">
 						<persName>Ἠλέκτρα</persName>
 					</person>
 				</listPerson>

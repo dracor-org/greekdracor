@@ -18,7 +18,7 @@
 						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
 					</licence>
 				</availability>
-				<idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q733158</idno>
+				<idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q733158</idno>
 			</publicationStmt>
 			
 
@@ -70,7 +70,7 @@
 					<personGrp xml:id="choros">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="apollon" sex="MALE" ana="https://www.wikidata.org/entity/Q37340">
+					<person xml:id="apollon" sex="MALE" ana="http://www.wikidata.org/entity/Q37340">
 						<persName>Ἀπόλλων</persName>
 					</person>
 				</listPerson>

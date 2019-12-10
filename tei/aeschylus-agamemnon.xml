@@ -18,7 +18,7 @@
 						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
 					</licence>
 				</availability>
-				<idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q3320792</idno>
+				<idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q3320792</idno>
 			</publicationStmt>
 			
 
@@ -54,22 +54,22 @@
 					<person xml:id="phylax" sex="MALE">
 						<persName>Φύλαξ</persName>
 					</person>
-					<person xml:id="aigisthos" sex="MALE" ana="https://www.wikidata.org/entity/Q212091">
+					<person xml:id="aigisthos" sex="MALE" ana="http://www.wikidata.org/entity/Q212091">
 						<persName>Αἴγισθος</persName>
 					</person>
-					<person xml:id="agamemnon" sex="MALE" ana="https://www.wikidata.org/entity/Q128176">
+					<person xml:id="agamemnon" sex="MALE" ana="http://www.wikidata.org/entity/Q128176">
 						<persName>Ἀγαμέμνων</persName>
 					</person>
-					<person xml:id="keryx" sex="MALE" ana="https://www.wikidata.org/entity/Q977434">
+					<person xml:id="keryx" sex="MALE" ana="http://www.wikidata.org/entity/Q977434">
 						<persName>Κῆρυξ</persName>
 					</person>
-					<person xml:id="klytaimestra" sex="FEMALE" ana="https://www.wikidata.org/entity/Q131157">
+					<person xml:id="klytaimestra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131157">
 						<persName>Κλυταιμήστρα</persName>
 					</person>
 					<personGrp xml:id="choros" sex="UNKNOWN">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="kasandra" sex="FEMALE" ana="https://www.wikidata.org/entity/Q170779">
+					<person xml:id="kasandra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q170779">
 						<persName>Κασάνδρα</persName>
 					</person>
 				</listPerson>

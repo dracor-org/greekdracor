@@ -18,7 +18,7 @@
 						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
 					</licence>
 				</availability>
-				<idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q506546</idno>
+				<idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q506546</idno>
 			</publicationStmt>
 			
 
@@ -51,10 +51,10 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="eteokles" sex="MALE" ana="https://www.wikidata.org/entity/Q506550">
+					<person xml:id="eteokles" sex="MALE" ana="http://www.wikidata.org/entity/Q506550">
 						<persName>Ἐτεοκλής</persName>
 					</person>
-					<person xml:id="ismene" sex="FEMALE" ana="https://www.wikidata.org/entity/Q753902">
+					<person xml:id="ismene" sex="FEMALE" ana="http://www.wikidata.org/entity/Q753902">
 						<persName>Ἰσμήνη</persName>
 					</person>
 					<person xml:id="angelos" sex="MALE">
@@ -72,7 +72,7 @@
 					<personGrp xml:id="choros" sex="UNKNOWN">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="antigone" sex="FEMALE" ana="https://www.wikidata.org/entity/Q131351">
+					<person xml:id="antigone" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131351">
 						<persName>Ἀντιγόνη</persName>
 					</person>
 				</listPerson>

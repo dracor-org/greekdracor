@@ -18,7 +18,7 @@
 						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
 					</licence>
 				</availability>
-				<idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q733444</idno>
+				<idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q733444</idno>
 			</publicationStmt>
 			
 
@@ -55,13 +55,13 @@
 					<person xml:id="chrysothemis">
 						<persName>Χρυσόθεμις</persName>
 					</person>
-					<person xml:id="aigisthos" sex="MALE" ana="https://www.wikidata.org/entity/Q212091">
+					<person xml:id="aigisthos" sex="MALE" ana="http://www.wikidata.org/entity/Q212091">
 						<persName>Αἴγισθος</persName>
 					</person>
-					<person xml:id="orestes" sex="MALE" ana="https://www.wikidata.org/entity/Q192407">
+					<person xml:id="orestes" sex="MALE" ana="http://www.wikidata.org/entity/Q192407">
 						<persName>Ὀρέστης</persName>
 					</person>
-					<person xml:id="klytaimnestra" sex="FEMALE" ana="https://www.wikidata.org/entity/Q131157">
+					<person xml:id="klytaimnestra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131157">
 						<persName>Κλυταιμνήστρα</persName>
 					</person>
 					<person xml:id="paidagogos">
@@ -70,7 +70,7 @@
 					<personGrp xml:id="choros" sex="UNKNOWN">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="elektra" sex="FEMALE" ana="https://www.wikidata.org/entity/Q131651">
+					<person xml:id="elektra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131651">
 						<persName>Ἠλέκτρα</persName>
 					</person>
 				</listPerson>

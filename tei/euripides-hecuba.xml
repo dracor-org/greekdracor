@@ -18,7 +18,7 @@
 						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
 					</licence>
 				</availability>
-				<idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q1115611</idno>
+				<idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q1115611</idno>
 			</publicationStmt>
 			
 
@@ -63,13 +63,13 @@
 					<person xml:id="polydorou_eidolon" sex="MALE">
 						<persName>Πολυδώρου εἴδωλον</persName>
 					</person>
-					<person xml:id="odysseus" sex="MALE" ana="https://www.wikidata.org/entity/Q47231">
+					<person xml:id="odysseus" sex="MALE" ana="http://www.wikidata.org/entity/Q47231">
 						<persName>Ὀδυσσεύς</persName>
 					</person>
-					<person xml:id="agamemnon" sex="MALE" ana="https://www.wikidata.org/entity/Q128176">
+					<person xml:id="agamemnon" sex="MALE" ana="http://www.wikidata.org/entity/Q128176">
 						<persName>Ἀγαμέμνων</persName>
 					</person>
-					<person xml:id="hekabe" sex="FEMALE" ana="https://www.wikidata.org/entity/Q193433">
+					<person xml:id="hekabe" sex="FEMALE" ana="http://www.wikidata.org/entity/Q193433">
 						<persName>Ἑκάβη</persName>
 					</person>
 					<personGrp xml:id="choros" sex="FEMALE">

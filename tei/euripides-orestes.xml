@@ -18,7 +18,7 @@
 						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
 					</licence>
 				</availability>
-				<idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q663886</idno>
+				<idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q663886</idno>
 			</publicationStmt>
 			
 
@@ -51,34 +51,34 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="orestes" sex="MALE" ana="https://www.wikidata.org/entity/Q192407">
+					<person xml:id="orestes" sex="MALE" ana="http://www.wikidata.org/entity/Q192407">
 						<persName>Ὀρέστης</persName>
 					</person>
 					<person xml:id="angelos" sex="MALE">
 						<persName>Ἄγγελος</persName>
 					</person>
-					<person xml:id="pylades" sex="MALE" ana="https://www.wikidata.org/entity/Q494886">
+					<person xml:id="pylades" sex="MALE" ana="http://www.wikidata.org/entity/Q494886">
 						<persName>Πυλάδης</persName>
 					</person>
 					<personGrp xml:id="choros">
 						<name>Χορός </name>
 					</personGrp>
-					<person xml:id="ermione" sex="FEMALE" ana="https://www.wikidata.org/entity/Q658523">
+					<person xml:id="ermione" sex="FEMALE" ana="http://www.wikidata.org/entity/Q658523">
 						<persName>Ερμιόνη</persName>
 					</person>
-					<person xml:id="helene" sex="FEMALE" ana="https://www.wikidata.org/entity/Q164061">
+					<person xml:id="helene" sex="FEMALE" ana="http://www.wikidata.org/entity/Q164061">
 						<persName>Ἑλένη</persName>
 					</person>
-					<person xml:id="elektra" sex="FEMALE" ana="https://www.wikidata.org/entity/Q131651">>
+					<person xml:id="elektra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131651">>
 						<persName>Ἠλέκτρα</persName>
 					</person>
-					<person xml:id="menelaos" ana="https://www.wikidata.org/entity/Q171839">
+					<person xml:id="menelaos" ana="http://www.wikidata.org/entity/Q171839">
 						<persName>Μενέλαος</persName>
 					</person>
 					<personGrp xml:id="hemichoros">
 						<name>Ἡμίχορος</name>
 					</personGrp>
-					<person xml:id="apollon" sex="MALE" ana="https://www.wikidata.org/entity/Q37340">
+					<person xml:id="apollon" sex="MALE" ana="http://www.wikidata.org/entity/Q37340">
 						<persName>Ἀπόλλων</persName>
 					</person>
 					<person xml:id="tyndareos">

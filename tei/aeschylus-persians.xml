@@ -18,7 +18,7 @@
 						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
 					</licence>
 				</availability>
-				<idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q788458</idno>
+				<idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q788458</idno>
 			</publicationStmt>
 			
 
@@ -51,13 +51,13 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="atossa" sex="FEMALE" ana="https://www.wikidata.org/entity/Q233359">
+					<person xml:id="atossa" sex="FEMALE" ana="http://www.wikidata.org/entity/Q233359">
 						<persName>Ἄτοσσα</persName>
 					</person>
-					<person xml:id="xerxes" sex="MALE" ana="https://www.wikidata.org/entity/Q129165">
+					<person xml:id="xerxes" sex="MALE" ana="http://www.wikidata.org/entity/Q129165">
 						<persName>Ξέρξης</persName>
 					</person>
-					<person xml:id="eidolon_dareiou" sex="MALE" ana="https://www.wikidata.org/entity/Q44387">
+					<person xml:id="eidolon_dareiou" sex="MALE" ana="http://www.wikidata.org/entity/Q44387">
 						<persName>Εἴδωλον  Δαρείου</persName>
 					</person>
 					<person xml:id="angelos" sex="MALE">
@@ -66,7 +66,7 @@
 					<personGrp xml:id="choros" sex="UNKNOWN">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="dareios" sex="MALE" ana="https://www.wikidata.org/entity/Q44387">
+					<person xml:id="dareios" sex="MALE" ana="http://www.wikidata.org/entity/Q44387">
 						<persName>Δαρεῖος</persName>
 					</person>
 				</listPerson>

@@ -18,7 +18,7 @@
 						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
 					</licence>
 				</availability>
-				<idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q1233660</idno>
+				<idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q1233660</idno>
 			</publicationStmt>
 			
 
@@ -57,19 +57,19 @@
 					<person xml:id="teiresias">
 						<persName>Τειρεσίας</persName>
 					</person>
-					<person xml:id="polyneikes" sex="MALE" ana="https://www.wikidata.org/entity/Q334817">
+					<person xml:id="polyneikes" sex="MALE" ana="http://www.wikidata.org/entity/Q334817">
 						<persName>Πολυνείκης</persName>
 					</person>
-					<person xml:id="iokaste" sex="FEMALE" ana="https://www.wikidata.org/entity/Q131445">
+					<person xml:id="iokaste" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131445">
 						<persName>Ἰοκάστη</persName>
 					</person>
 					<personGrp xml:id="choros">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="oidipous" sex="MALE" ana="https://www.wikidata.org/entity/Q130890">
+					<person xml:id="oidipous" sex="MALE" ana="http://www.wikidata.org/entity/Q130890">
 						<persName>Οἰδίπους</persName>
 					</person>
-					<person xml:id="antigone" sex="FEMALE" ana="https://www.wikidata.org/entity/Q131351">
+					<person xml:id="antigone" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131351">
 						<persName>Ἄντιγόνη</persName>
 					</person>
 					<person xml:id="menoikeus">
@@ -78,10 +78,10 @@
 					<person xml:id="paidagogos">
 						<persName>Παιδαγωγός</persName>
 					</person>
-					<person xml:id="kreon" sex="MALE" ana="https://www.wikidata.org/entity/Q732066">
+					<person xml:id="kreon" sex="MALE" ana="http://www.wikidata.org/entity/Q732066">
 						<persName>Κρέων</persName>
 					</person>
-					<person xml:id="eteokles" sex="MALE" ana="https://www.wikidata.org/entity/Q506550">
+					<person xml:id="eteokles" sex="MALE" ana="http://www.wikidata.org/entity/Q506550">
 						<persName>Ἐτεοκλῆς</persName>
 					</person>
 				</listPerson>

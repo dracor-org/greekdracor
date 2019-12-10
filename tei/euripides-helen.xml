@@ -18,7 +18,7 @@
 						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
 					</licence>
 				</availability>
-				<idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q1248812</idno>
+				<idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q1248812</idno>
 			</publicationStmt>
 			
 
@@ -75,10 +75,10 @@
 					<personGrp xml:id="choros">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="meneleos" ana="https://www.wikidata.org/entity/Q171839">
+					<person xml:id="meneleos" ana="http://www.wikidata.org/entity/Q171839">
 						<persName>Μενελέως</persName>
 					</person>
-					<person xml:id="helene" ana="https://www.wikidata.org/entity/Q164061">
+					<person xml:id="helene" ana="http://www.wikidata.org/entity/Q164061">
 						<persName>Ἑλένη</persName>
 					</person>
 				</listPerson>

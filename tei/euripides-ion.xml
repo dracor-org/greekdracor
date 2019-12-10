@@ -18,7 +18,7 @@
 						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
 					</licence>
 				</availability>
-				<idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q614607</idno>
+				<idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q614607</idno>
 			</publicationStmt>
 			
 
@@ -66,16 +66,16 @@
 					<person xml:id="therapon">
 						<persName>Θεράπων</persName>
 					</person>
-					<person xml:id="athena" ana="https://www.wikidata.org/entity/Q37122">
+					<person xml:id="athena" ana="http://www.wikidata.org/entity/Q37122">
 						<persName>Ἀθήνα</persName>
 					</person>
-					<person xml:id="hermes" ana="https://www.wikidata.org/entity/Q41484">
+					<person xml:id="hermes" ana="http://www.wikidata.org/entity/Q41484">
 						<persName>Ἑρμῆς</persName>
 					</person>
 					<personGrp xml:id="choros">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="kreousa" ana="https://www.wikidata.org/entity/Q375174">
+					<person xml:id="kreousa" ana="http://www.wikidata.org/entity/Q375174">
 						<persName>Κρέουσα</persName>
 					</person>
 				</listPerson>

@@ -18,7 +18,7 @@
 						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
 					</licence>
 				</availability>
-				<idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q523227</idno>
+				<idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q523227</idno>
 			</publicationStmt>
 			
 
@@ -51,16 +51,16 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="orestes" ana="https://www.wikidata.org/entity/Q192407">
+					<person xml:id="orestes" ana="http://www.wikidata.org/entity/Q192407">
 						<persName>Ὀρέστης</persName>
 					</person>
 					<person xml:id="angelos">
 						<persName>Ἄγγελος</persName>
 					</person>
-					<person xml:id="pylades" ana="https://www.wikidata.org/entity/Q494886">
+					<person xml:id="pylades" ana="http://www.wikidata.org/entity/Q494886">
 						<persName>Πυλάδης</persName>
 					</person>
-					<person xml:id="athena" ana="https://www.wikidata.org/entity/Q37122">
+					<person xml:id="athena" ana="http://www.wikidata.org/entity/Q37122">
 						<persName>Ἀθήνα</persName>
 					</person>
 					<person xml:id="boukolos">
@@ -72,7 +72,7 @@
 					<person xml:id="thoas">
 						<persName>Θόας</persName>
 					</person>
-					<person xml:id="iphigeneia" ana="https://www.wikidata.org/entity/Q192673">
+					<person xml:id="iphigeneia" ana="http://www.wikidata.org/entity/Q192673">
 						<persName>Ἰφιγένεια</persName>
 					</person>
 				</listPerson>

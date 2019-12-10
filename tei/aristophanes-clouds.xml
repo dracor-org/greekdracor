@@ -52,52 +52,52 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="mathetes">
+					<person xml:id="mathetes" sex="MALE">
 						<persName>Μαθητής</persName>
 					</person>
-					<person xml:id="dikaioslogos">
+					<person xml:id="dikaioslogos" sex="UNKNOWN">
 						<persName>Δίκαιος Λόγος</persName>
 					</person>
-					<person xml:id="mathetes_a">
+					<person xml:id="mathetes_a" sex="MALE">
 						<persName>Μαθητής Α</persName>
 					</person>
-					<person xml:id="strepsiades">
+					<person xml:id="strepsiades" sex="MALE">
 						<persName>Στρεψιάδης</persName>
 					</person>
-					<person xml:id="pheidippides">
+					<person xml:id="pheidippides" sex="MALE">
 						<persName>Φειδιππίδης</persName>
 					</person>
-					<person xml:id="sokrates" ana="http://www.wikidata.org/entity/Q913">
+					<person xml:id="sokrates" sex="MALE" ana="http://www.wikidata.org/entity/Q913">
 						<persName>Σωκράτης</persName>
 					</person>
-					<person xml:id="amynias">
+					<person xml:id="amynias" sex="MALE">
 						<persName>Αμυνίας</persName>
 					</person>
-					<person xml:id="martys">
+					<person xml:id="martys" sex="MALE">
 						<persName>Μάρτυς</persName>
 					</person>
-					<person xml:id="hermes" ana="http://www.wikidata.org/entity/Q41484">
+					<person xml:id="hermes" sex="MALE" ana="http://www.wikidata.org/entity/Q41484">
 						<persName>Ερμῆς</persName>
 					</person>
-					<person xml:id="therapon">
+					<person xml:id="therapon" sex="MALE">
 						<persName>Θεράπων</persName>
 					</person>
-					<person xml:id="mathetes_g">
+					<person xml:id="mathetes_g" sex="MALE">
 						<persName>Μαθητής Γ</persName>
 					</person>
-					<person xml:id="pasias">
+					<person xml:id="pasias" sex="MALE">
 						<persName>Πασίας</persName>
 					</person>
-					<personGrp xml:id="choros">
+					<personGrp xml:id="choros" sex="UNKNOWN">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="adikos_logos">
+					<person xml:id="adikos_logos" sex="UNKNOWN">
 						<persName>Ἄδικος Λόγος</persName>
 					</person>
-					<person xml:id="mathetes_b">
+					<person xml:id="mathetes_b" sex="MALE">
 						<persName>Μαθητής Β</persName>
 					</person>
-					<person xml:id="chairephon">
+					<person xml:id="chairephon" sex="MALE">
 						<persName>Χαιρεφῶν</persName>
 					</person>
 				</listPerson>

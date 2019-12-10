@@ -51,34 +51,34 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="graus">
+					<person xml:id="graus" sex="FEMALE">
 						<persName>Γραῦς</persName>
 					</person>
-					<person xml:id="theoklymenos">
+					<person xml:id="theoklymenos" sex="MALE" ana="http://www.wikidata.org/entity/Q2626787">
 						<persName>Θεοκλύμενος</persName>
 					</person>
-					<person xml:id="dioskoroi">
+					<person xml:id="dioskoroi" sex="MALE">
 						<persName>Διόσκοροι</persName>
 					</person>
-					<person xml:id="angelos">
+					<person xml:id="angelos" sex="MALE">
 						<persName>Ἄγγελος</persName>
 					</person>
-					<person xml:id="teukros">
+					<person xml:id="teukros" sex="MALE" ana="http://www.wikidata.org/entity/Q878184">
 						<persName>Τεῦκρος</persName>
 					</person>
-					<person xml:id="theonoe">
+					<person xml:id="theonoe" sex="FEMALE" ana="http://www.wikidata.org/entity/Q16217794">
 						<persName>Θεονόη</persName>
 					</person>
-					<person xml:id="therapon">
+					<person xml:id="therapon" sex="MALE">
 						<persName>Θεράπων</persName>
 					</person>
-					<personGrp xml:id="choros">
+					<personGrp xml:id="choros" sex="UNKNOWN">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="meneleos" ana="http://www.wikidata.org/entity/Q171839">
+					<person xml:id="meneleos" sex="MALE" ana="http://www.wikidata.org/entity/Q171839">
 						<persName>Μενελέως</persName>
 					</person>
-					<person xml:id="helene" ana="http://www.wikidata.org/entity/Q164061">
+					<person xml:id="helene" sex="FEMALE" ana="http://www.wikidata.org/entity/Q164061">
 						<persName>Ἑλένη</persName>
 					</person>
 				</listPerson>

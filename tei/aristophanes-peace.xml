@@ -52,13 +52,13 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="paidion">
+					<person xml:id="paidion" sex="UNKNOWN">
 						<persName>Παιδίον</persName>
 					</person>
-					<person xml:id="drepanourgos">
+					<person xml:id="drepanourgos" sex="MALE">
 						<persName>Δρεπανουργός</persName>
 					</person>
-					<person xml:id="thorakopoles">
+					<person xml:id="thorakopoles" sex="MALE">
 						<persName>Θωρακοπώλης</persName>
 					</person>
 					<personGrp xml:id="hemichorion_a">
@@ -70,46 +70,46 @@
 					<person xml:id="salpingopoios">
 						<persName>Σαλπιγγοποιός</persName>
 					</person>
-					<person xml:id="pais_kleonymou">
+					<person xml:id="pais_kleonymou" sex="MALE">
 						<persName>Παῖς Κλεωνύμου</persName>
 					</person>
-					<person xml:id="trygaios">
+					<person xml:id="trygaios" sex="MALE">
 						<persName>Τρυγαῖος</persName>
 					</person>
-					<person xml:id="hierokles">
+					<person xml:id="hierokles" sex="MALE">
 						<persName>Ἱεροκλῆς</persName>
 					</person>
-					<person xml:id="kydoimos">
+					<person xml:id="kydoimos" sex="MALE">
 						<persName>Κύδοιμος</persName>
 					</person>
-					<person xml:id="polemos">
+					<person xml:id="polemos" sex="MALE">
 						<persName>Πόλεμος</persName>
 					</person>
-					<person xml:id="doryksos">
+					<person xml:id="doryksos" sex="MALE">
 						<persName>Δορυξός</persName>
 					</person>
-					<person xml:id="lophopoios">
+					<person xml:id="lophopoios" sex="MALE">
 						<persName>Λοφοποιός</persName>
 					</person>
-					<person xml:id="kranopoios">
+					<person xml:id="kranopoios" sex="MALE">
 						<persName>Κρανοποιός</persName>
 					</person>
-					<person xml:id="oiketes">
+					<person xml:id="oiketes" sex="MALE">
 						<persName>Οἰκέτης</persName>
 					</person>
-					<person xml:id="oiketes_a">
+					<person xml:id="oiketes_a" sex="MALE">
 						<persName>Οἰκέτης Α</persName>
 					</person>
-					<person xml:id="oiketes_b">
+					<person xml:id="oiketes_b" sex="MALE">
 						<persName>Οἰκέτης Β</persName>
 					</person>
-					<personGrp xml:id="choros">
+					<personGrp xml:id="choros" sex="MALE">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="hermes" ana="http://www.wikidata.org/entity/Q41484">
+					<person xml:id="hermes" sex="MALE" ana="http://www.wikidata.org/entity/Q41484">
 						<persName>Ἑρμῆς</persName>
 					</person>
-					<person xml:id="pais_lamachou">
+					<person xml:id="pais_lamachou" sex="MALE">
 						<persName>Παῖς Λαμάχου</persName>
 					</person>
 				</listPerson>

@@ -52,82 +52,82 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="myrrine">
+					<person xml:id="myrrine" sex="FEMALE">
 						<persName>Μυρρίνη</persName>
 					</person>
-					<person xml:id="kinesias">
+					<person xml:id="kinesias" sex="MALE">
 						<persName>Κινησίας</persName>
 					</person>
-					<personGrp xml:id="choros">
+					<personGrp xml:id="choros" sex="UNKNOWN">
 						<name>Χορός </name>
 					</personGrp>
-					<person xml:id="lakon">
+					<person xml:id="lakon" sex="MALE">
 						<persName>Λάκων</persName>
 					</person>
-					<person xml:id="pais_kinesiou">
+					<person xml:id="pais_kinesiou" sex="UNKNOWN">
 						<persName>Παῖς Κινησίου</persName>
 					</person>
-					<person xml:id="athenaios_b">
+					<person xml:id="athenaios_b" sex="MALE">
 						<persName>Ἀθηναῖος Β</persName>
 					</person>
-					<person xml:id="gyne_d">
+					<person xml:id="gyne_d" sex="FEMALE">
 						<persName>Γυνὴ Δ</persName>
 					</person>
-					<personGrp xml:id="xorosgynaikon">
+					<personGrp xml:id="xorosgynaikon" sex="FEMALE">
 						<name>Χορὸς Γυναικῶν</name>
 					</personGrp>
-					<person xml:id="alle">
+					<person xml:id="alle" sex="FEMALE">
 						<persName>Ἄλλη</persName>
 					</person>
-					<person xml:id="gyne_a">
+					<person xml:id="gyne_a" sex="FEMALE">
 						<persName>Γυνὴ Α</persName>
 					</person>
-					<person xml:id="lampito">
+					<person xml:id="lampito" sex="FEMALE">
 						<persName>Λαμπιτῶ</persName>
 					</person>
-					<person xml:id="keryx_lakedaimonion">
+					<person xml:id="keryx_lakedaimonion" sex="MALE">
 						<persName>Κῆρυξ Λακεδαιμονίων</persName>
 					</person>
-					<personGrp xml:id="xoroslakedaimonion">
+					<personGrp xml:id="xoroslakedaimonion" sex="MALE">
 						<name>Χορὸς Λακεδαιμονίων</name>
 					</personGrp>
-					<person xml:id="gyne_b">
+					<person xml:id="gyne_b" sex="FEMALE">
 						<persName>Γυνὴ Β</persName>
 					</person>
-					<personGrp xml:id="xorosgeronton">
+					<personGrp xml:id="xorosgeronton" sex="MALE">
 						<name>Χορὸς Γερόντων</name>
 					</personGrp>
-					<person xml:id="lysistrate">
+					<person xml:id="lysistrate" sex="FEMALE">
 						<persName>Λυσιστράτη</persName>
 					</person>
-					<person xml:id="kalonike">
+					<person xml:id="kalonike" sex="FEMALE">
 						<persName>Καλονίκη</persName>
 					</person>
-					<person xml:id="athenaios_a">
+					<person xml:id="athenaios_a" sex="MALE">
 						<persName>Ἀθηναῖος Α</persName>
 					</person>
-					<person xml:id="gyne">
+					<person xml:id="gyne" sex="FEMALE">
 						<persName>Γυνὴ</persName>
 					</person>
-					<person xml:id="athenaios">
+					<person xml:id="athenaios" sex="MALE">
 						<persName>Ἀθηναῖος</persName>
 					</person>
-					<personGrp xml:id="xorosathenaion">
+					<personGrp xml:id="xorosathenaion" sex="MALE">
 						<name>Χορὸς Ἀθηναίων</name>
 					</personGrp>
-					<person xml:id="proboulos">
+					<person xml:id="proboulos" sex="MALE">
 						<persName>Πρόβουλος</persName>
 					</person>
-					<person xml:id="pasai">
-						<persName>Πᾶσαι</persName>
-					</person>
-					<person xml:id="gyne_x">
+                    <personGrp xml:id="pasai" sex="UNKNOWN">
+						<name>Πᾶσαι</name>
+					</personGrp>
+					<person xml:id="gyne_x" sex="FEMALE">
 						<persName>Γυνὴ Ξ</persName>
 					</person>
-					<person xml:id="gyne_g">
+					<person xml:id="gyne_g" sex="FEMALE">
 						<persName>Γυνὴ Γ</persName>
 					</person>
-					<person xml:id="geron">
+					<person xml:id="geron" sex="MALE">
 						<persName>Γέρων</persName>
 					</person>
 				</listPerson>

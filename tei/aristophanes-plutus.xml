@@ -52,34 +52,34 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="graus">
+					<person xml:id="graus" sex="FEMALE">
 						<persName>Γραῦς</persName>
 					</person>
-					<person xml:id="gyne">
+					<person xml:id="gyne" sex="FEMALE">
 						<persName>Γυνή</persName>
 					</person>
-					<person xml:id="chremylos">
+					<person xml:id="chremylos" sex="MALE">
 						<persName>Χρεμύλος</persName>
 					</person>
-					<person xml:id="karion">
+					<person xml:id="karion" sex="MALE">
 						<persName>Καρίων</persName>
 					</person>
-					<person xml:id="dikaios">
+					<person xml:id="dikaios" sex="MALE">
 						<persName>Δίκαιος</persName>
 					</person>
-					<person xml:id="penia">
+					<person xml:id="penia" sex="FEMALE" ana="http://www.wikidata.org/entity/Q10294">
 						<persName>Πενία</persName>
 					</person>
-					<person xml:id="blepsidemos">
+					<person xml:id="blepsidemos" sex="MALE">
 						<persName>Βλεψίδημος</persName>
 					</person>
-					<person xml:id="hiereus">
+					<person xml:id="hiereus" sex="MALE">
 						<persName>Ἱερεύς</persName>
 					</person>
-					<person xml:id="ploutos" ana="http://www.wikidata.org/entity/Q205251">
+					<person xml:id="ploutos" sex="MALE" ana="http://www.wikidata.org/entity/Q205251">
 						<persName>Πλοῦτος</persName>
 					</person>
-					<person xml:id="neanias">
+					<person xml:id="neanias" sex="MALE">
 						<persName>Νεανίας</persName>
 					</person>
 					<personGrp xml:id="choros">
@@ -88,7 +88,7 @@
 					<person xml:id="hermes" ana="http://www.wikidata.org/entity/Q41484">
 						<persName>Ἑρμῆς</persName>
 					</person>
-					<person xml:id="sykophantes">
+					<person xml:id="sykophantes" sex="MALE">
 						<persName>Συκοφάντης</persName>
 					</person>
 				</listPerson>

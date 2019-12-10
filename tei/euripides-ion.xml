@@ -54,28 +54,28 @@
 					<person xml:id="xouthos">
 						<persName>Ξοῦθος</persName>
 					</person>
-					<person xml:id="ion">
+					<person xml:id="ion" sex="MALE" ana="http://www.wikidata.org/entity/Q853462">
 						<persName>Ἴων</persName>
 					</person>
-					<person xml:id="prophetis">
+					<person xml:id="prophetis" sex="FEMALE">
 						<persName>Προφῆτις</persName>
 					</person>
-					<person xml:id="presbytes">
+					<person xml:id="presbytes" sex="MALE">
 						<persName>Πρεσβύτης</persName>
 					</person>
-					<person xml:id="therapon">
+					<person xml:id="therapon" sex="MALE">
 						<persName>Θεράπων</persName>
 					</person>
-					<person xml:id="athena" ana="http://www.wikidata.org/entity/Q37122">
+					<person xml:id="athena" sex="FEMALE" ana="http://www.wikidata.org/entity/Q37122">
 						<persName>Ἀθήνα</persName>
 					</person>
-					<person xml:id="hermes" ana="http://www.wikidata.org/entity/Q41484">
+					<person xml:id="hermes" sex="MALE" ana="http://www.wikidata.org/entity/Q41484">
 						<persName>Ἑρμῆς</persName>
 					</person>
-					<personGrp xml:id="choros">
+					<personGrp xml:id="choros" sex="UNKNOWN">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="kreousa" ana="http://www.wikidata.org/entity/Q375174">
+					<person xml:id="kreousa" sex="FEMALE" ana="http://www.wikidata.org/entity/Q375174">
 						<persName>Κρέουσα</persName>
 					</person>
 				</listPerson>

@@ -52,25 +52,25 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="nikias">
+					<person xml:id="nikias" sex="MALE">
 						<persName>Νικίας</persName>
 					</person>
-					<person xml:id="allantopoles">
+					<person xml:id="allantopoles" sex="MALE">
 						<persName>Ἀλλαντοπώλης</persName>
 					</person>
-					<personGrp xml:id="choros">
+					<personGrp xml:id="choros" sex="MALE">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="kleon">
+					<person xml:id="kleon" sex="MALE">
 						<persName>Κλέων</persName>
 					</person>
-					<personGrp xml:id="choros_hippeon">
+					<personGrp xml:id="choros_hippeon" sex="MALE">
 						<name>Χορός Ἱππεῶν</name>
 					</personGrp>
-					<person xml:id="demosthenes" ana="http://www.wikidata.org/entity/Q117253">
+					<person xml:id="demosthenes" sex="MALE">
 						<persName>Δημοσθένης</persName>
 					</person>
-					<person xml:id="demos">
+                    <person xml:id="demos" sex="MALE">
 						<persName>Δῆμος</persName>
 					</person>
 				</listPerson>

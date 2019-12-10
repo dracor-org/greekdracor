@@ -52,34 +52,34 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="kategoros">
+					<person xml:id="kategoros" sex="MALE">
 						<persName>Κατήγορος</persName>
 					</person>
-					<person xml:id="philokleon">
+					<person xml:id="philokleon" sex="MALE">
 						<persName>Φιλοκλέων</persName>
 					</person>
-					<person xml:id="kyon">
+					<person xml:id="kyon" sex="MALE">
 						<persName>Κύων</persName>
 					</person>
-					<person xml:id="bdelykleon">
+					<person xml:id="bdelykleon" sex="MALE">
 						<persName>Βδελυκλέων</persName>
 					</person>
-					<person xml:id="xymotes_tis">
+					<person xml:id="xymotes_tis" sex="UNKNOWN">
 						<persName>Ξυμότης τις</persName>
 					</person>
-					<personGrp xml:id="choros">
+					<personGrp xml:id="choros" sex="UNKNOWN">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="pais">
+					<person xml:id="pais" sex="UNKNOWN">
 						<persName>Παίς</persName>
 					</person>
-					<person xml:id="xanthias">
+					<person xml:id="xanthias" sex="MALE">
 						<persName>Ξανθίας</persName>
 					</person>
-					<person xml:id="artopolis">
+					<person xml:id="artopolis" sex="UNKNOWN">
 						<persName>Αρτόπωλις</persName>
 					</person>
-					<person xml:id="sosias">
+					<person xml:id="sosias" sex="MALE">
 						<persName>Σωσίας</persName>
 					</person>
 				</listPerson>

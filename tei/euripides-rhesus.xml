@@ -51,7 +51,7 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="mousa" sex="FEMALE">
+					<person xml:id="mousa" sex="FEMALE" ana="http://www.wikidata.org/entity/Q66016">
 						<persName>Μοῦσα</persName>
 					</person>
 					<person xml:id="odysseus" sex="MALE" ana="http://www.wikidata.org/entity/Q47231">
@@ -72,7 +72,7 @@
 					<person xml:id="angelos_poimen" sex="MALE">
 						<persName>Ἄγγελος Ποιμήν</persName>
 					</person>
-					<person xml:id="dolon" sex="MALE">
+					<person xml:id="dolon" sex="MALE" ana="http://www.wikidata.org/entity/Q854056">
 						<persName>Δόλων</persName>
 					</person>
 					<person xml:id="diomedes" sex="MALE" ana="http://www.wikidata.org/entity/Q208256">
@@ -84,7 +84,7 @@
 					<personGrp xml:id="choros" sex="MALE">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="resos" sex="MALE">
+					<person xml:id="resos" sex="MALE" ana="http://www.wikidata.org/entity/Q1061782">
 						<persName>Ῥῆσος</persName>
 					</person>
 					<person xml:id="angelos" sex="MALE">

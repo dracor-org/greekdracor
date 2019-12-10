@@ -60,7 +60,7 @@
 					<person xml:id="pylades" sex="MALE" ana="http://www.wikidata.org/entity/Q494886">
 						<persName>Πυλάδης</persName>
 					</person>
-					<personGrp xml:id="choros">
+					<personGrp xml:id="choros" sex="UNKNOWN">
 						<name>Χορός </name>
 					</personGrp>
 					<person xml:id="ermione" sex="FEMALE" ana="http://www.wikidata.org/entity/Q658523">
@@ -75,16 +75,16 @@
 					<person xml:id="menelaos" ana="http://www.wikidata.org/entity/Q171839">
 						<persName>Μενέλαος</persName>
 					</person>
-					<personGrp xml:id="hemichoros">
+					<personGrp xml:id="hemichoros" sex="FEMALE">
 						<name>Ἡμίχορος</name>
 					</personGrp>
 					<person xml:id="apollon" sex="MALE" ana="http://www.wikidata.org/entity/Q37340">
 						<persName>Ἀπόλλων</persName>
 					</person>
-					<person xml:id="tyndareos">
+					<person xml:id="tyndareos" sex="MALE" ana="http://www.wikidata.org/entity/Q192946">
 						<persName>Τυνδάρεως</persName>
 					</person>
-					<person xml:id="phryx">
+					<person xml:id="phryx" sex="MALE">
 						<persName>Φρύξ</persName>
 					</person>
 				</listPerson>

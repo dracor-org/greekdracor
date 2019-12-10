@@ -51,28 +51,28 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="orestes" ana="http://www.wikidata.org/entity/Q192407">
+					<person xml:id="orestes" sex="MALE" ana="http://www.wikidata.org/entity/Q192407">
 						<persName>Ὀρέστης</persName>
 					</person>
-					<person xml:id="angelos">
+					<person xml:id="angelos" sex="MALE">
 						<persName>Ἄγγελος</persName>
 					</person>
-					<person xml:id="pylades" ana="http://www.wikidata.org/entity/Q494886">
+					<person xml:id="pylades" sex="MALE" ana="http://www.wikidata.org/entity/Q494886">
 						<persName>Πυλάδης</persName>
 					</person>
-					<person xml:id="athena" ana="http://www.wikidata.org/entity/Q37122">
+					<person xml:id="athena" sex="FEMALE" ana="http://www.wikidata.org/entity/Q37122">
 						<persName>Ἀθήνα</persName>
 					</person>
-					<person xml:id="boukolos">
+					<person xml:id="boukolos" sex="MALE">
 						<persName>Βουκόλος</persName>
 					</person>
-					<personGrp xml:id="choros">
+					<personGrp xml:id="choros" sex="UNKNOWN">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="thoas">
+					<person xml:id="thoas" sex="MALE" ana="http://www.wikidata.org/entity/Q1367871">
 						<persName>Θόας</persName>
 					</person>
-					<person xml:id="iphigeneia" ana="http://www.wikidata.org/entity/Q192673">
+					<person xml:id="iphigeneia" sex="FEMALE" ana="http://www.wikidata.org/entity/Q192673">
 						<persName>Ἰφιγένεια</persName>
 					</person>
 				</listPerson>

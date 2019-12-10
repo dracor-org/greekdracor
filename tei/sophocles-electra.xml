@@ -52,7 +52,7 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="chrysothemis">
+					<person xml:id="chrysothemis" sex="FEMALE" ana="http://www.wikidata.org/entity/Q1146076">
 						<persName>Χρυσόθεμις</persName>
 					</person>
 					<person xml:id="aigisthos" sex="MALE" ana="http://www.wikidata.org/entity/Q212091">
@@ -64,7 +64,7 @@
 					<person xml:id="klytaimnestra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131157">
 						<persName>Κλυταιμνήστρα</persName>
 					</person>
-					<person xml:id="paidagogos">
+					<person xml:id="paidagogos" sex="MALE" ana="http://www.wikidata.org/entity/Q1367860">
 						<persName>Παιδαγωγός</persName>
 					</person>
 					<personGrp xml:id="choros" sex="UNKNOWN">

@@ -55,10 +55,10 @@
 					<person xml:id="theseus" sex="MALE" ana="http://www.wikidata.org/entity/Q1320718">
 						<persName>Θησεύς</persName>
 					</person>
-					<person xml:id="xenos">
+					<person xml:id="xenos" sex="MALE">
 						<persName>Ξένος</persName>
 					</person>
-					<person xml:id="angelos">
+					<person xml:id="angelos" sex="MALE">
 						<persName>Ἄγγελος</persName>
 					</person>
 					<person xml:id="oidipous" sex="MALE" ana="http://www.wikidata.org/entity/Q130890">
@@ -73,7 +73,7 @@
 					<person xml:id="ismene" sex="FEMALE" ana="http://www.wikidata.org/entity/Q753902">
 						<persName>Ἰσμήνη</persName>
 					</person>
-					<personGrp xml:id="choros">
+					<personGrp xml:id="choros" sex="MALE">
 						<name>Χορός</name>
 					</personGrp>
 					<person xml:id="antigone" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131351">

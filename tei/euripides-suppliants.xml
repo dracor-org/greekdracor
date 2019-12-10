@@ -57,28 +57,28 @@
 					<person xml:id="paides">
 						<persName>Παῖδες</persName>
 					</person>
-					<person xml:id="angelos">
+					<person xml:id="angelos" sex="MALE">
 						<persName>Ἄγγελος</persName>
 					</person>
-					<person xml:id="iphis">
+					<person xml:id="iphis" sex="MALE">
 						<persName>Ἶφις</persName>
 					</person>
-					<person xml:id="keryx">
+					<person xml:id="keryx" sex="MALE">
 						<persName>Κῆρυξ</persName>
 					</person>
-					<person xml:id="aithra">
+					<person xml:id="aithra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q11921121">
 						<persName>Αἴθρα</persName>
 					</person>
 					<person xml:id="theseus" sex="MALE" ana="http://www.wikidata.org/entity/Q1320718">
 						<persName>Θησεύς</persName>
 					</person>
-					<personGrp xml:id="choros">
+					<personGrp xml:id="choros" sex="UNKNOWN">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="adrastos">
+					<person xml:id="adrastos" sex="MALE" ana="http://www.wikidata.org/entity/Q223152">
 						<persName>Ἄδραστος</persName>
 					</person>
-					<person xml:id="euadne">
+					<person xml:id="euadne" sex="FEMALE">
 						<persName>Εὐάδνη</persName>
 					</person>
 				</listPerson>

@@ -51,40 +51,40 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="therapaina">
+					<person xml:id="therapaina" sex="FEMALE">
 						<persName>Θεράπαινα</persName>
 					</person>
-					<person xml:id="presbys">
+					<person xml:id="presbys" sex="MALE">
 						<persName>Πρέσβυς</persName>
 					</person>
-					<person xml:id="angelos">
+					<person xml:id="angelos" sex="MALE">
 						<persName>Ἄγγελος</persName>
 					</person>
-					<personGrp xml:id="hemichorion">
+					<personGrp xml:id="hemichorion" sex="FEMALE">
 						<name>Ἡμιχόριον</name>
 					</personGrp>
-					<personGrp xml:id="hemichorion_1">
+					<personGrp xml:id="hemichorion_1" sex="FEMALE">
 						<name>Ἡμιχόριον 1</name>
 					</personGrp>
-					<personGrp xml:id="hemichorion_2">
+					<personGrp xml:id="hemichorion_2" sex="FEMALE">
 						<name>Ἡμιχόριον 2</name>
 					</personGrp>
-					<person xml:id="trophos">
+					<person xml:id="trophos" sex="FEMALE">
 						<persName>Τροφός</persName>
 					</person>
-					<person xml:id="hyllos">
+					<person xml:id="hyllos" sex="MALE" ana="http://www.wikidata.org/entity/Q847268">
 						<persName>Ὕλλος</persName>
 					</person>
-					<person xml:id="herakles">
+					<person xml:id="herakles" sex="MALE" ana="http://www.wikidata.org/entity/Q122248">
 						<persName>Ἡρακλῆς</persName>
 					</person>
-					<person xml:id="deianeira">
+					<person xml:id="deianeira" sex="FEMALE" ana="http://www.wikidata.org/entity/Q272000">
 						<persName>Δηιάνειρα</persName>
 					</person>
-					<person xml:id="lichas">
+					<person xml:id="lichas" sex="MALE">
 						<persName>Λίχας</persName>
 					</person>
-					<personGrp xml:id="choros">
+					<personGrp xml:id="choros" sex="FEMALE">
 						<name>Χορός</name>
 					</personGrp>
 				</listPerson>

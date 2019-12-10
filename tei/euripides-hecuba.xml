@@ -51,7 +51,7 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="talthybios" sex="MALE">
+					<person xml:id="talthybios" sex="MALE" ana="http://www.wikidata.org/entity/Q1367860">
 						<persName>Ταλθύβιος</persName>
 					</person>
 					<person xml:id="therapaina" sex="FEMALE">
@@ -75,7 +75,7 @@
 					<personGrp xml:id="choros" sex="FEMALE">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="polyxene" sex="FEMALE">
+					<person xml:id="polyxene" sex="FEMALE" ana="http://www.wikidata.org/entity/Q750236">
 						<persName>Πολυξένη</persName>
 					</person>
 				</listPerson>

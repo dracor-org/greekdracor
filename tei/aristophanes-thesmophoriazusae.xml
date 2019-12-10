@@ -52,43 +52,43 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<personGrp xml:id="xorosagathonos">
+					<personGrp xml:id="xorosagathonos" sex="UNKNOWN">
 						<name>Χορὸς Ἀγάθωνος</name>
 					</personGrp>
-					<person xml:id="gyne_b">
+					<person xml:id="gyne_b" sex="FEMALE">
 						<persName>Γυνὴ Β</persName>
 					</person>
-					<person xml:id="kerykaina">
+					<person xml:id="kerykaina" sex="FEMALE">
 						<persName>Κηρύκαινα</persName>
 					</person>
-					<person xml:id="prytanis">
+					<person xml:id="prytanis" sex="MALE">
 						<persName>Πρύτανις</persName>
 					</person>
-					<person xml:id="euripides" ana="http://www.wikidata.org/entity/Q48305">
+					<person xml:id="euripides" sex="MALE" ana="http://www.wikidata.org/entity/Q48305">
 						<persName>Εὐριπίδης</persName>
 					</person>
-					<person xml:id="toksotes">
+					<person xml:id="toksotes" sex="MALE">
 						<persName>Τοξότης</persName>
 					</person>
-					<person xml:id="mnesilochos">
+					<person xml:id="mnesilochos" sex="MALE">
 						<persName>Μνησίλοχος</persName>
 					</person>
-					<person xml:id="kleisthenes">
+					<person xml:id="kleisthenes" sex="MALE">
 						<persName>Κλεισθένης</persName>
 					</person>
-					<person xml:id="therapon">
+					<person xml:id="therapon" sex="MALE">
 						<persName>Θεράπων</persName>
 					</person>
-					<person xml:id="gyne_a">
+					<person xml:id="gyne_a" sex="FEMALE">
 						<persName>Γυνὴ Α</persName>
 					</person>
-					<person xml:id="agathon">
+					<person xml:id="agathon" sex="MALE">
 						<persName>Ἀγάθων</persName>
 					</person>
-					<personGrp xml:id="choros">
+					<personGrp xml:id="choros" sex="UNKNOWN">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="gyne_g">
+					<person xml:id="gyne_g" sex="FEMALE">
 						<persName>Γυνὴ Γ</persName>
 					</person>
 				</listPerson>

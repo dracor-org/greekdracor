@@ -52,22 +52,22 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<personGrp xml:id="choros_satyron">
+					<personGrp xml:id="choros_satyron" sex="MALE">
 						<name>Χορὸς Σατύρων</name>
 					</personGrp>
-					<personGrp xml:id="hemichoros_a">
+					<personGrp xml:id="hemichoros_a" sex="MALE">
 						<name>Ἡμιχορός α</name>
 					</personGrp>
-					<personGrp xml:id="hemichoros_b">
+					<personGrp xml:id="hemichoros_b" sex="MALE">
 						<name>Ἡμιχορός β</name>
 					</personGrp>
-					<person xml:id="silenos">
+					<person xml:id="silenos" sex="MALE" ana="http://www.wikidata.org/entity/Q464091">
 						<persName>Σιληνός</persName>
 					</person>
-					<person xml:id="kyllene">
+					<person xml:id="kyllene" sex="FEMALE">
 						<persName>Κυλλήνη</persName>
 					</person>
-					<personGrp xml:id="choros">
+					<personGrp xml:id="choros" sex="MALE">
 						<name>Χορός</name>
 					</personGrp>
 					<person xml:id="apollon" sex="MALE" ana="http://www.wikidata.org/entity/Q37340">

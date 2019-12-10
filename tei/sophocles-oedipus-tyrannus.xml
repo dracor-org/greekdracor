@@ -51,19 +51,19 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="exangelos">
+					<person xml:id="exangelos" sex="MALE">
 						<persName>Ἐξάγγελος</persName>
 					</person>
-					<person xml:id="hiereus">
+					<person xml:id="hiereus" sex="MALE">
 						<persName>Ἱερεύς</persName>
 					</person>
 					<person xml:id="oidipous" sex="MALE" ana="http://www.wikidata.org/entity/Q130890">
 						<persName>Οἰδίπους</persName>
 					</person>
-					<person xml:id="teiresias">
+					<person xml:id="teiresias" sex="MALE" ana="http://www.wikidata.org/entity/Q656881">
 						<persName>Τειρεσίας</persName>
 					</person>
-					<person xml:id="therapon">
+					<person xml:id="therapon" sex="MALE">
 						<persName>Θεράπων</persName>
 					</person>
 					<person xml:id="iokaste" ana="http://www.wikidata.org/entity/Q131445">
@@ -72,10 +72,10 @@
 					<person xml:id="kreon" sex="MALE" ana="http://www.wikidata.org/entity/Q732066">
 						<persName>Κρέων</persName>
 					</person>
-					<personGrp xml:id="choros">
+					<personGrp xml:id="choros" sex="MALE">
 						<name>Χορός</name>
 					</personGrp>
-					<person xml:id="angelos">
+					<person xml:id="angelos" sex="MALE">
 						<persName>Ἄγγελος</persName>
 					</person>
 				</listPerson>

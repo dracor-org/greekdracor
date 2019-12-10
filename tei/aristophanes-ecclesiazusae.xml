@@ -52,55 +52,55 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person xml:id="gyne_b">
+					<person xml:id="gyne_b" sex="FEMALE">
 						<persName>Γυνὴ Β</persName>
 					</person>
-					<person xml:id="graus_b">
+					<person xml:id="graus_b" sex="FEMALE">
 						<persName>Γραῦς Β</persName>
 					</person>
-					<personGrp xml:id="choros">
+					<personGrp xml:id="choros" sex="UNKNOWN">
 						<name>Χορὸς</name>
 					</personGrp>
-					<person xml:id="kerykaina">
+					<person xml:id="kerykaina" sex="UNKNOWN">
 						<persName>Κηρύκαινα</persName>
 					</person>
-					<person xml:id="blepyros">
+					<person xml:id="blepyros" sex="MALE">
 						<persName>Βλέπυρος</persName>
 					</person>
-					<person xml:id="chremes">
+					<person xml:id="chremes" sex="MALE">
 						<persName>Χρέμης</persName>
 					</person>
-					<person xml:id="aner">
+					<person xml:id="aner" sex="MALE">
 						<persName>Ἀνήρ</persName>
 					</person>
-					<person xml:id="therapaina">
+					<person xml:id="therapaina" sex="FEMALE">
 						<persName>Θεραπαίνα</persName>
 					</person>
-					<person xml:id="graus_a">
+					<person xml:id="graus_a" sex="FEMALE">
 						<persName>Γραῦς Α</persName>
 					</person>
-					<person xml:id="aner_b">
+					<person xml:id="aner_b" sex="MALE">
 						<persName>Ἀνὴρ Β</persName>
 					</person>
-					<person xml:id="praxagora">
+					<person xml:id="praxagora" sex="FEMALE">
 						<persName>Πραξάγορα</persName>
 					</person>
-					<person xml:id="neanis">
+					<person xml:id="neanis" sex="MALE">
 						<persName>Νεᾶνις</persName>
 					</person>
-					<person xml:id="aner_a">
+					<person xml:id="aner_a" sex="MALE">
 						<persName>Ἀνὴρ Α</persName>
 					</person>
-					<person xml:id="gyne_a">
+					<person xml:id="gyne_a" sex="FEMALE">
 						<persName>Γυνὴ Α</persName>
 					</person>
-					<person xml:id="neanias">
+					<person xml:id="neanias" sex="MALE">
 						<persName>Νεανίας</persName>
 					</person>
-					<person xml:id="graus_g">
+					<person xml:id="graus_g" sex="FEMALE">
 						<persName>Γραῦς Γ</persName>
 					</person>
-					<person xml:id="gyne_g">
+					<person xml:id="gyne_g" sex="FEMALE">
 						<persName>Γυνὴ Γ</persName>
 					</person>
 				</listPerson>

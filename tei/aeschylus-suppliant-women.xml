@@ -57,7 +57,7 @@
 				  <personGrp xml:id="xorosdanaidon" sex="FEMALE">
 						<name>Χορός Δαναΐδων</name>
 					</personGrp>
-				  <person xml:id="keryx" sex="MALE" ana="http://www.wikidata.org/entity/Q977434">
+				  <person xml:id="keryx" sex="MALE">
 						<persName>Κῆρυξ</persName>
 					</person>
 				  <person xml:id="basileus" sex="MALE">
@@ -66,7 +66,7 @@
 				  <personGrp xml:id="xorostherapainon" sex="FEMALE">
 						<name>Χορός Θεραπαινῶν</name>
 					</personGrp>
-				  <person xml:id="danaos" sex="MALE">
+				  <person xml:id="danaos" sex="MALE" ana="http://www.wikidata.org/entity/Q210883">
 						<persName>Δαναός</persName>
 					</person>
 				  <personGrp xml:id="choros" sex="FEMALE">

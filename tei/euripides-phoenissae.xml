@@ -54,7 +54,7 @@
 					<person xml:id="angelos" sex="MALE">
 						<persName>Ἄγγελος</persName>
 					</person>
-					<person xml:id="teiresias">
+					<person xml:id="teiresias" sex="MALE" ana="http://www.wikidata.org/entity/Q656881">
 						<persName>Τειρεσίας</persName>
 					</person>
 					<person xml:id="polyneikes" sex="MALE" ana="http://www.wikidata.org/entity/Q334817">
@@ -63,7 +63,7 @@
 					<person xml:id="iokaste" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131445">
 						<persName>Ἰοκάστη</persName>
 					</person>
-					<personGrp xml:id="choros">
+					<personGrp xml:id="choros" sex="UNKNOWN">
 						<name>Χορός</name>
 					</personGrp>
 					<person xml:id="oidipous" sex="MALE" ana="http://www.wikidata.org/entity/Q130890">
@@ -72,10 +72,10 @@
 					<person xml:id="antigone" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131351">
 						<persName>Ἄντιγόνη</persName>
 					</person>
-					<person xml:id="menoikeus">
+					<person xml:id="menoikeus" sex="MALE" ana="http://www.wikidata.org/entity/Q744871">
 						<persName>Μενοικεύς</persName>
 					</person>
-					<person xml:id="paidagogos">
+					<person xml:id="paidagogos" sex="MALE">
 						<persName>Παιδαγωγός</persName>
 					</person>
 					<person xml:id="kreon" sex="MALE" ana="http://www.wikidata.org/entity/Q732066">

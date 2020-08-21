@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Greek Drama Corpus</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>DraCor</publisher>
+        <idno type="URI" xml:base="https://dracor.org/">greek</idno>
+        <idno type="repo">https://github.com/dracor-org/greekdracor</idno>
+      </publicationStmt>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          Derived from
+          <ref target="http://www.perseus.tufts.edu/hopper/opensource/download">Perseus
+          Digital Library</ref>, features 39 ancient Greek plays. Maintained by
+          Boris Orekhov. Corpus description and list of enhancements in the
+          <ref target="https://github.com/dracor-org/greekdracor">README on
+          GitHub</ref>.
+        </p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+</teiCorpus>

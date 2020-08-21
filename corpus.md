@@ -1,1 +1,0 @@
-Derived from [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/opensource/download), features 39 ancient Greek plays. Maintained by Boris Orekhov. Corpus description and list of enhancements in the [README on GitHub](https://github.com/dracor-org/greekdracor).

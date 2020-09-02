@@ -9,6 +9,11 @@
         <publisher>DraCor</publisher>
         <idno type="URI" xml:base="https://dracor.org/">greek</idno>
         <idno type="repo">https://github.com/dracor-org/greekdracor</idno>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/3.0/us/">
+            CC BY-SA 3.0 US
+          </licence>
+        </availability>
       </publicationStmt>
     </fileDesc>
     <encodingDesc>
@@ -17,9 +22,10 @@
           Derived from
           <ref target="http://www.perseus.tufts.edu/hopper/opensource/download">Perseus
           Digital Library</ref>, features 39 ancient Greek plays. Maintained by
-          Boris Orekhov. Corpus description and list of enhancements in the
+          Boris Orekhov and Frank Fischer. Corpus description and list of
+          enhancements in the
           <ref target="https://github.com/dracor-org/greekdracor">README on
-          GitHub</ref>.
+            GitHub</ref>.
         </p>
       </projectDesc>
     </encodingDesc>

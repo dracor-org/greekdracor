@@ -1,6 +1,6 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
-<TEI xml:lang="ell" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ell">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,7 +20,6 @@
             <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q1216139</idno>
       </publicationStmt>
       <extent>About 70Kb</extent>
       <sourceDesc>
@@ -33,7 +32,6 @@
               <publisher>Cambridge, Mass., Harvard University Press; London, William Heinemann, Ltd.</publisher>
               <date>1926</date>
             </imprint>
-            <date type="premiere" when="-0470">470 BCE</date>
           </bibl>
         </biblStruct>
       </sourceDesc>
@@ -138,7 +136,7 @@
           <name>Bill Merrill</name>
           <resp>ed.</resp>
         </respStmt>
-        <item>&quot;Apgous&quot; to &quot;Argous&quot; line 15; &quot;hampukon&quot; to &quot;ampukon&quot; line 431</item>
+        <item>"Apgous" to "Argous" line 15; "hampukon" to "ampukon" line 431</item>
       </change>
       <change>
         <date>23-Dec-99</date>
@@ -184,6 +182,14 @@ convert to P3
       <item>converted to P.5 Dracor format</item>
     </change>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="premiere" when="-0470">
+        <label>470 BCE</label>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q1216139"/>
+  </standOff>
   <text lang="greek">
     <body>
       <div1 type="episode">

@@ -1,6 +1,6 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
-<TEI xml:lang="ell" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ell">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,7 +20,6 @@
             <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q540161</idno>
       </publicationStmt>
       <extent>About 100Kb</extent>
       <sourceDesc>
@@ -33,7 +32,6 @@
               <publisher>Clarendon Press, Oxford</publisher>
               <date>1913</date>
             </imprint>
-            <date type="premiere" when="-0413">413 BCE</date>
           </bibl>
         </biblStruct>
       </sourceDesc>
@@ -106,7 +104,7 @@
           <name>Bill Merrill</name>
           <resp>ed.</resp>
         </respStmt>
-        <item>Made Speakers lower case;tagged lacunae; cut L N=&quot;0006&quot; L N=&quot;012&quot;  from line 328, †L N=&quot;32&quot; from 870; removed some caps;</item>
+        <item>Made Speakers lower case;tagged lacunae; cut L N="0006" L N="012"  from line 328, †L N="32" from 870; removed some caps;</item>
       </change>
       <change>
         <date>6/95</date>
@@ -162,6 +160,14 @@ convert to P3
       <item>converted to P.5 Dracor format</item>
     </change>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="premiere" when="-0413">
+        <label>413 BCE</label>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q540161"/>
+  </standOff>
   <text lang="greek">
     <body>
       <div1 type="episode">

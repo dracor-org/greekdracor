@@ -1,6 +1,6 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
-<TEI xml:lang="ell" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ell">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,7 +20,6 @@
             <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q294001</idno>
       </publicationStmt>
       <extent>About 120Kb</extent>
       <sourceDesc>
@@ -34,7 +33,6 @@
               <publisher>Cambridge University Press</publisher>
               <date>1889</date>
             </imprint>
-            <date type="premiere" when="-0401">401 BCE</date>
           </bibl>
         </biblStruct>
       </sourceDesc>
@@ -180,6 +178,14 @@ convert to TEI P3
       <item>converted to P.5 Dracor format</item>
     </change>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="premiere" when="-0401">
+        <label>401 BCE</label>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q294001"/>
+  </standOff>
   <text>
     <body n="OC">
       <div1 type="episode">

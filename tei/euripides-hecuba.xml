@@ -1,6 +1,6 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
-<TEI xml:lang="ell" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ell">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,7 +20,6 @@
             <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q1115611</idno>
       </publicationStmt>
       <extent>About 100Kb</extent>
       <sourceDesc>
@@ -33,7 +32,6 @@
               <publisher>Clarendon Press, Oxford</publisher>
               <date>1902</date>
             </imprint>
-            <date type="premiere" when="-0424">424 BCE</date>
           </bibl>
         </biblStruct>
       </sourceDesc>
@@ -158,6 +156,14 @@ convert to P3
       <item>converted to P.5 Dracor format</item>
     </change>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="premiere" when="-0424">
+        <label>424 BCE</label>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q1115611"/>
+  </standOff>
   <text lang="greek">
     <body>
       <div1 type="episode">

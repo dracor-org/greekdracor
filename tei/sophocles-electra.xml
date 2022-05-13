@@ -1,6 +1,6 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
-<TEI xml:lang="ell" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ell">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,7 +20,6 @@
             <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q733444</idno>
       </publicationStmt>
       <extent>About 98Kb</extent>
       <sourceDesc>
@@ -34,7 +33,6 @@
               <publisher>Cambridge University Press</publisher>
               <date>1894</date>
             </imprint>
-            <date type="premiere" when="-0419">419 BCE</date>
           </bibl>
         </biblStruct>
       </sourceDesc>
@@ -168,6 +166,14 @@ antilabe in all files
       <item>converted to P.5 Dracor format</item>
     </change>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="premiere" when="-0419">
+        <label>419 BCE</label>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q733444"/>
+  </standOff>
   <text lang="greek">
     <body>
       <div1 type="episode">

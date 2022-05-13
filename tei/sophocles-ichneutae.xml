@@ -1,6 +1,6 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
-<TEI xml:lang="ell" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ell">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,7 +20,6 @@
             <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q733158</idno>
       </publicationStmt>
       <extent>About 35Kb</extent>
       <sourceDesc>
@@ -108,7 +107,7 @@ added card 1s
 Revision 1.5  2003/07/01 22:18:08  yorkc
 Updated texts to TEI P4 and Perseus P4 extensions; minor cleanup (esp. character encodings and typos.)
 Revision 1.4  2001/03/19 21:29:41  amahoney
-mark one supplement as &quot;unclear&quot; to demonstrate the new rule in the spec;
+mark one supplement as "unclear" to demonstrate the new rule in the spec;
 I think this particular one is a true supplement rather than an unclear
 letter, but it really doesn't matter a whole lot for this purpose or in this text
 Revision 1.3  2001/01/02 14:48:53  amahoney
@@ -129,6 +128,9 @@ new text
       <item>converted to P.5 Dracor format</item>
     </change>
   </teiHeader>
+  <standOff>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q733158"/>
+  </standOff>
   <text lang="greek">
     <body>
       <div1>

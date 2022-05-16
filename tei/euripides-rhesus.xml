@@ -1,148 +1,141 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
-<TEI xml:lang="ell" xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title n="Rh." type="work">Rhesus</title>
-				<author>
-					<persName>Euripides</persName>
-					<idno type="wikidata">Q48305</idno>
-				</author>
-				<editor n="Murray" role="editor">Gilbert Murray</editor>
-			</titleStmt>
-			      
-			<publicationStmt>
-				<publisher xml:id="dracor">DraCor</publisher>
-				<idno type="dracor" xml:base="https://dracor.org/id/">greek000031</idno>
-				<availability>
-					<licence>
-						<ab>CC BY-SA 3.0 US</ab>
-						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
-					</licence>
-				</availability>
-				<idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q667750</idno>
-			</publicationStmt>
-			
-
-			<extent>About 100Kb</extent>
-			<sourceDesc>
-				<biblStruct>
-					<bibl type="originalSource">
-						<author key="wikidata:Q48305">Euripides</author>
-						<title>Euripidis Fabulae, ed. Gilbert Murray, vol. 3</title>
-						<imprint>
-							<pubPlace>Oxford</pubPlace>
-							<publisher>Clarendon Press, Oxford</publisher>
-							<date>1913</date>
-						</imprint>
-						<date type="premiere" when="-0453">453 BCE</date>
-					</bibl>
-				</biblStruct>
-			</sourceDesc>
-			<bibl type="digitalSource">
-				<name>Perseus Digital Library (http://www.perseus.tufts.edu)</name>
-				<idno type="URL">http://www.perseus.tufts.edu/hopper/opensource/download</idno>
-				<availability status="free">
-					<licence>
-						<ab>CC BY-SA 3.0 US</ab>
-						<ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
-					</licence>
-				</availability>
-			</bibl>
-		</fileDesc>
-		<metDecl pattern="[-ox]+">
-			<metSym value="o">short syllable</metSym>
-			<metSym value="-">long syllable</metSym>
-			<metSym value="x">undefined syllable</metSym>
-		</metDecl>
-		<profileDesc>
-			<particDesc>
-				<listPerson>
-					<person xml:id="mousa" sex="FEMALE" ana="http://www.wikidata.org/entity/Q66016">
-						<persName>Μοῦσα</persName>
-					</person>
-					<person xml:id="odysseus" sex="MALE" ana="http://www.wikidata.org/entity/Q47231">
-						<persName>Ὀδυσσεύς</persName>
-					</person>
-					<person xml:id="aineias" sex="MALE" ana="http://www.wikidata.org/entity/Q82732">
-						<persName>Αἰνείας</persName>
-					</person>
-					<person xml:id="heniochos" sex="MALE">
-						<persName>Ἡνίοχος</persName>
-					</person>
-					<person xml:id="athena" sex="FEMALE" ana="http://www.wikidata.org/entity/Q37122">
-						<persName>Ἀθήνα</persName>
-					</person>
-					<person xml:id="alexandros" sex="MALE" ana="http://www.wikidata.org/entity/Q167646">
-						<persName>Ἀλέξανδρος</persName>
-					</person>
-					<person xml:id="angelos_poimen" sex="MALE">
-						<persName>Ἄγγελος Ποιμήν</persName>
-					</person>
-					<person xml:id="dolon" sex="MALE" ana="http://www.wikidata.org/entity/Q854056">
-						<persName>Δόλων</persName>
-					</person>
-					<person xml:id="diomedes" sex="MALE" ana="http://www.wikidata.org/entity/Q208256">
-						<persName>Διομήδης</persName>
-					</person>
-					<person xml:id="hektor" sex="MALE" ana="http://www.wikidata.org/entity/Q159666">
-						<persName>Ἕκτωρ</persName>
-					</person>
-					<personGrp xml:id="choros" sex="MALE">
-						<name>Χορός</name>
-					</personGrp>
-					<person xml:id="resos" sex="MALE" ana="http://www.wikidata.org/entity/Q1061782">
-						<persName>Ῥῆσος</persName>
-					</person>
-					<person xml:id="angelos" sex="MALE">
-						<persName>Ἄγγελος</persName>
-					</person>
-				</listPerson>
-			</particDesc>
-			<textClass>
-				<keywords>
-					<term subtype="tragedy" type="genreTitle">Tragedy</term>
-				</keywords>
-			</textClass>
-			
-
-			<langUsage>
-				<language id="greek">Greek</language>
-			</langUsage>
-		</profileDesc>
-		<revisionDesc>
-			<change>
-				<date>1988</date>
-				<respStmt>
-					<name>Judith Nelson</name>
-					<resp>tagging</resp>
-				</respStmt>
-				<item>Basic SGML tagging</item>
-			</change>
-			<change>
-				<date>6/95</date>
-				<respStmt>
-					<name>Lisa Cerrato</name>
-					<resp>ed.</resp>
-				</respStmt>
-				<item>Added speaker tags where needed.</item>
-			</change>
-			<change>
-				<date>10/98</date>
-				<respStmt>
-					<name>Bill Merrill</name>
-					<resp>ed.</resp>
-				</respStmt>
-				<item>Fixed cardbreaks at 254, 370, 379; added line nos. 369b, 377b, 378b.</item>
-			</change>
-			<change>
-				<date>14-Jan-00</date>
-				<respStmt>
-					<name>Anne Mahoney</name>
-					<resp>Markup</resp>
-				</respStmt>
-				<item>$Log: eur.rh_gk.xml,v $
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ell">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title n="Rh." type="work">Rhesus</title>
+        <author>
+          <persName>Euripides</persName>
+          <idno type="wikidata">Q48305</idno>
+        </author>
+        <editor n="Murray" role="editor">Gilbert Murray</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="dracor" xml:base="https://dracor.org/id/">greek000031</idno>
+        <availability>
+          <licence>
+            <ab>CC BY-SA 3.0 US</ab>
+            <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <extent>About 100Kb</extent>
+      <sourceDesc>
+        <biblStruct>
+          <bibl type="originalSource">
+            <author key="wikidata:Q48305">Euripides</author>
+            <title>Euripidis Fabulae, ed. Gilbert Murray, vol. 3</title>
+            <imprint>
+              <pubPlace>Oxford</pubPlace>
+              <publisher>Clarendon Press, Oxford</publisher>
+              <date>1913</date>
+            </imprint>
+          </bibl>
+        </biblStruct>
+      </sourceDesc>
+      <bibl type="digitalSource">
+        <name>Perseus Digital Library (http://www.perseus.tufts.edu)</name>
+        <idno type="URL">http://www.perseus.tufts.edu/hopper/opensource/download</idno>
+        <availability status="free">
+          <licence>
+            <ab>CC BY-SA 3.0 US</ab>
+            <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
+          </licence>
+        </availability>
+      </bibl>
+    </fileDesc>
+    <metDecl pattern="[-ox]+">
+      <metSym value="o">short syllable</metSym>
+      <metSym value="-">long syllable</metSym>
+      <metSym value="x">undefined syllable</metSym>
+    </metDecl>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="mousa" sex="FEMALE" ana="http://www.wikidata.org/entity/Q66016">
+            <persName>Μοῦσα</persName>
+          </person>
+          <person xml:id="odysseus" sex="MALE" ana="http://www.wikidata.org/entity/Q47231">
+            <persName>Ὀδυσσεύς</persName>
+          </person>
+          <person xml:id="aineias" sex="MALE" ana="http://www.wikidata.org/entity/Q82732">
+            <persName>Αἰνείας</persName>
+          </person>
+          <person xml:id="heniochos" sex="MALE">
+            <persName>Ἡνίοχος</persName>
+          </person>
+          <person xml:id="athena" sex="FEMALE" ana="http://www.wikidata.org/entity/Q37122">
+            <persName>Ἀθήνα</persName>
+          </person>
+          <person xml:id="alexandros" sex="MALE" ana="http://www.wikidata.org/entity/Q167646">
+            <persName>Ἀλέξανδρος</persName>
+          </person>
+          <person xml:id="angelos_poimen" sex="MALE">
+            <persName>Ἄγγελος Ποιμήν</persName>
+          </person>
+          <person xml:id="dolon" sex="MALE" ana="http://www.wikidata.org/entity/Q854056">
+            <persName>Δόλων</persName>
+          </person>
+          <person xml:id="diomedes" sex="MALE" ana="http://www.wikidata.org/entity/Q208256">
+            <persName>Διομήδης</persName>
+          </person>
+          <person xml:id="hektor" sex="MALE" ana="http://www.wikidata.org/entity/Q159666">
+            <persName>Ἕκτωρ</persName>
+          </person>
+          <personGrp xml:id="choros" sex="MALE">
+            <name>Χορός</name>
+          </personGrp>
+          <person xml:id="resos" sex="MALE" ana="http://www.wikidata.org/entity/Q1061782">
+            <persName>Ῥῆσος</persName>
+          </person>
+          <person xml:id="angelos" sex="MALE">
+            <persName>Ἄγγελος</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genreTitle">Tragedy</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language id="greek">Greek</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>1988</date>
+        <respStmt>
+          <name>Judith Nelson</name>
+          <resp>tagging</resp>
+        </respStmt>
+        <item>Basic SGML tagging</item>
+      </change>
+      <change>
+        <date>6/95</date>
+        <respStmt>
+          <name>Lisa Cerrato</name>
+          <resp>ed.</resp>
+        </respStmt>
+        <item>Added speaker tags where needed.</item>
+      </change>
+      <change>
+        <date>10/98</date>
+        <respStmt>
+          <name>Bill Merrill</name>
+          <resp>ed.</resp>
+        </respStmt>
+        <item>Fixed cardbreaks at 254, 370, 379; added line nos. 369b, 377b, 378b.</item>
+      </change>
+      <change>
+        <date>14-Jan-00</date>
+        <respStmt>
+          <name>Anne Mahoney</name>
+          <resp>Markup</resp>
+        </respStmt>
+        <item>$Log: eur.rh_gk.xml,v $
 Revision 1.1  2009-11-23 18:46:35  rsingh04
 moved more xml files around based on copyright status
 Revision 1.2  2005/08/01 21:15:28  packel
@@ -163,1813 +156,1820 @@ interrupted by card breaks -- and move card break past close tag of sp
 Revision 1.6  2000/01/14 21:41:40  amahoney
 bring up to P3
 </item>
-			</change>
-		</revisionDesc>
-		<change>
-			<date>2019-05-12</date>
-			<respStmt>
-				<name>Boris Orekhov</name>
-				<resp>ed.</resp>
-			</respStmt>
-			<item>converted to P.5 Dracor format</item>
-		</change>
-	</teiHeader>
-	<text lang="greek">
-		<body>
-			<div1 type="choral">
-				<milestone ed="p" n="1" unit="card"/>
-				<div2 type="anapests">
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l real="-xo--x-oo-">Βᾶθι πρὸς εὐνὰς τὰς Ἑκτορέους.</l>
-						<l real="xx---xx-xx-">τίς ὑπασπιστῶν ἄγρυπνος βασιλέως,</l>
-						<l real="--oo-">ἢ τευχοφόρων;</l>
-						<l real="--oo--oxx-">δέξαιτο νέων κληδόνα μύθων,</l>
-						<l n="5" real="-xx----xx-">οἳ τετράμοιρον νυκτὸς φυλακὴν</l>
-						<l real="x-xx-ox--">πάσης στρατιᾶς προκάθηνται.</l>
-						<l real="--ox--xo-x">ὄρθου κεφαλὴν πῆχυν ἐρείσας,</l>
-						<l real="--ox---oxx">λῦσον βλεφάρων γοργωπὸν ἕδραν,</l>
-						<l real="-ox------">λεῖπε χαμεύνας φυλλοστρώτους,</l>
-						<l n="10" real="----xx--">Ἕκτορ· καιρὸς γὰρ ἀκοῦσαι.</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="xo-xx---xx-">τίς ὅδ’; ἦ φίλιος φθόγγος· τίς ἀνήρ;</l>
-						<l real="xo-xo-">τί τὸ σῆμα; θρόει·</l>
-						<l real="xox--x-oox">τίνες ἐκ νυκτῶν τὰς ἡμετέρας</l>
-						<l real="--x-oo--">κοίτας πλάθουσ’; ἐνέπειν χρή.</l>
-					</sp>
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l n="15" real="xx-xx-">φύλακες στρατιᾶς.</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l part="Y" real="xo-ox-">τί φέρῃ θορύβῳ;</l>
-					</sp>
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l real="--">θάρσει.</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l part="Y" real="--">θαρσῶ.</l>
-						<l real="--oox--">μῶν τις λόχος ἐκ νυκτῶν;</l>
-					</sp>
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l part="Y" real="--x">[οὐκ ἔστι.]</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="xxx">τί σὺ γὰρ</l>
-						<l real="xx-ox-x-xxx">φυλακὰς προλιπὼν κινεῖς στρατιάν,</l>
-						<l real="--xo---oxx">εἰ μή τιν’ ἔχων νυκτηγορίαν;</l>
-						<l n="20" real="--xo-ox---">οὐκ οἶσθα δορὸς πέλας Ἀργείου</l>
-						<l real="xxx--">νυχίαν ἡμᾶς</l>
-						<l real="--xx-xo-x">κοίταν πανόπλους κατέχοντας;</l>
-					</sp>
-					<milestone ed="p" n="23" unit="card"/>
-				</div2>
-				<div2 n="1" type="strophe">
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l real="x--ox-x-">ὁπλίζου χέρα· συμμάχων,</l>
-						<l real="---xo-x">Ἕκτορ, βᾶθι πρὸς εὐνάς,</l>
-						<l n="25" real="xxo-o--xxxo">ὄτρυνον ἔγχος αἴρειν, ἀφύπνισον.</l>
-						<l real="-ox-xo-ox-oo"> — πέμπε φίλους ἰέναι ποτὶ σὸν λόχον,</l>
-						<l real="-ox-xx---">ἁρμόσατε ψαλίοις ἵππους.</l>
-						<l real="x-ox-oxx"> — τίς εἶσ’ ἐπὶ Πανθοΐδαν,</l>
-						<l real="-o---xx-xo--">ἢ τὸν Εὐρώπας, Λυκίων ἀγὸν ἀνδρῶν;</l>
-						<l n="30" real="-xx-oo-"> — ποῦ σφαγίων ἔφοροι;</l>
-						<l real="-o---o--"> — ποῦ δὲ γυμνήτων μόναρχοι</l>
-						<l real="-oo-xx-">τοξοφόροι τε Φρυγῶν;</l>
-						<l real="-xoooox-x--"> — ζεύγνυτε κερόδετα τόξα νευραῖς.</l>
-						<milestone ed="p" n="34" unit="card"/>
-					</sp>
-				</div2>
-				<div2 type="anapests">
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="xo----xx--">τὰ μὲν ἀγγέλλεις δείματ’ ἀκούειν,</l>
-						<l n="35" real="xo-x---xx-">τὰ δὲ θαρσύνεις, κοὐδὲν καθαρῶς.</l>
-						<l real="--ox-x-oo-">ἀλλ’ ἦ Κρονίου Πανὸς τρομερᾷ</l>
-						<l real="-xxo-xx-ox-">μάστιγι φοβῇ; [φυλακὰς δὲ λιπὼν</l>
-						<l real="x-xx-xo-xo-">κινεῖς στρατιάν.] τί θροεῖς; τί σε φῶ</l>
-						<l real="oo----xx--">νέον ἀγγέλλειν; πολλὰ γὰρ εἰπὼν</l>
-						<l n="40" real="--x-xo-x">οὐδὲν τρανῶς ἀπέδειξας.</l>
-					</sp>
-					<milestone ed="p" n="41" unit="card"/>
-				</div2>
-				<div2 n="1" type="antistrophe">
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l real="x--xo-ox">πύρ’ αἴθει στρατὸς Ἀργόλας,</l>
-						<l real="---xx-x">Ἕκτορ, πᾶσαν ἀν’ ὄρφναν,</l>
-						<l real="x-o-ox---xx">διειπετῆ δὲ ναῶν πυρσοῖς σταθμά.</l>
-						<l real="-xx-ox-oo-xo">πᾶς δ’ Ἀγαμεμνονίαν προσέβα στρατὸς</l>
-						<l n="45" real="-xx-ox--x">ἐννύχιος θορύβῳ σκηνάν,</l>
-						<l real="o-xoxoo-">νέαν τιν’ ἐφιέμενοι</l>
-						<l real="-x---xo-oo--">βάξιν. οὐ γάρ πω πάρος ὧδ’ ἐφοβήθη</l>
-						<l real="-xo-xxx">ναυσιπόρος στρατιά.</l>
-						<l real="-x---o-o">σοὶ δ’, ὑποπτεύων τὸ μέλλον,</l>
-						<l n="50" real="-xo-oo-">ἤλυθον ἄγγελος, ὡς</l>
-						<l real="-ooooxx-x--">μήποτ’ ἐς ἐμέ τινα μέμψιν εἴπῃς.</l>
-					</sp>
-				</div2>
-			</div1>
-			<milestone ed="p" n="52" unit="card"/>
-			<div1 type="episode">
-				<sp who="#hektor">
-					<speaker>Ἕκτωρ</speaker>
-					<l real="--o---o---oo">ἐς καιρὸν ἥκεις, καίπερ ἀγγέλλων φόβον·</l>
-					<l real="--x---o-o-x-">ἅνδρες γὰρ ἐκ γῆς τῆσδε νυκτέρῳ πλάτῃ</l>
-					<l real="x-o-x-ox--x-">λαθόντες ὄμμα τοὐμὸν ἀρεῖσθαι φυγὴν</l>
-					<l n="55" real="--x---x---xx">μέλλουσι· σαίνει μ’ ἔννυχος φρυκτωρία.</l>
-					<l real="--o---x-o-xx">ὦ δαῖμον, ὅστις μ’ εὐτυχοῦντ’ ἐνόσφισας</l>
-					<l real="--o-x-o---xo">θοίνης λέοντα, πρὶν τὸν Ἀργείων στρατὸν</l>
-					<l real="--x-x-xx--ox">σύρδην ἅπαντα τῷδ’ ἀναλῶσαι δορί.</l>
-					<l real="--x---x-o-x-">εἰ γὰρ φαεννοὶ μὴ ξυνέσχον ἡλίου</l>
-					<l n="60" real="--o-x-o-x-ox">λαμπτῆρες, οὔτἂν ἔσχον εὐτυχοῦν δόρυ,</l>
-					<l real="--x---x---o-">πρὶν ναῦς πυρῶσαι καὶ διὰ σκηνῶν μολεῖν</l>
-					<l real="--x---ooxo-ox">κτείνων Ἀχαιοὺς τῇδε πολυφόνῳ χερί.</l>
-					<l real="x-o-oxoxo-ox">κἀγὼ μὲν ἦ πρόθυμος ἱέναι δόρυ</l>
-					<l real="--x---x-x-o-">ἐν νυκτὶ χρῆσθαί τ’ εὐτυχεῖ ῥύμῃ θεοῦ·</l>
-					<l n="65" real="--o-o-o-o-oo">ἀλλ’ οἱ σοφοί με καὶ τὸ θεῖον εἰδότες</l>
-					<l real="--o-x-o---xo">μάντεις ἔπεισαν ἡμέρας μεῖναι φάος</l>
-					<l real="x-x---o---x-">κἄπειτ’ Ἀχαιῶν μηδέν’ ἐν χέρσῳ λιπεῖν.</l>
-					<l real="--o-x-o-x-o-">οἳ δ’ οὐ μένουσι τῶν ἐμῶν θυοσκόων</l>
-					<l real="-xo--xo-o-o-">βουλάς· ἐν ὄρφνῃ δραπέτης μέγα σθένει.</l>
-					<l n="70" real="--x-x-x---x-">ἀλλ’ ὡς τάχιστα χρὴ παραγγέλλειν στρατῷ</l>
-					<l real="--o-x-x---x-">τεύχη πρόχειρα λαμβάνειν λῆξαί θ’ ὕπνου,</l>
-					<l real="--x---o---ox">ὡς ἄν τις αὐτῶν καὶ νεὼς θρῴσκων ἔπι</l>
-					<l real="--x--xx-x-o-">νῶτον χαραχθεὶς κλίμακας ῥάνῃ φόνῳ,</l>
-					<l real="--o-x-x-o-o-">οἳ δ’ ἐν βρόχοισι δέσμιοι λελημμένοι</l>
-					<l n="75" real="x-x-xxx-xxo-">Φρυγῶν ἀρούρας ἐκμάθωσι γαπονεῖν.</l>
-				</sp>
-				<sp who="#choros">
-					<speaker>Χορός</speaker>
-					<l real="--xx--x-x-oo">Ἕκτορ, ταχύνεις πρὶν μαθεῖν τὸ δρώμενον·</l>
-					<l real="--x---x---o-">ἅνδρες γὰρ εἰ φεύγουσιν οὐκ ἴσμεν τορῶς.</l>
-				</sp>
-				<sp who="#hektor">
-					<speaker>Ἕκτωρ</speaker>
-					<l real="--x--oxx---xo">τίς γὰρ πύρ’ αἴθειν πρόφασις Ἀργείων στρατόν;</l>
-				</sp>
-				<sp who="#choros">
-					<speaker>Χορός</speaker>
-					<l real="--x---x-o-ox">οὐκ οἶδ’· ὕποπτον δ’ ἐστὶ κάρτ’ ἐμῇ φρενί.</l>
-				</sp>
-				<sp who="#hektor">
-					<speaker>Ἕκτωρ</speaker>
-					<l n="80" real="--o---x---oo">πάντ’ ἂν φοβηθεὶς ἴσθι, δειμαίνων τόδε.</l>
-				</sp>
-				<sp who="#choros">
-					<speaker>Χορός</speaker>
-					<l real="--x--oox-o-o-">οὔπω πρὶν ἧψαν πολέμιοι τοσόνδε φῶς.</l>
-				</sp>
-				<sp who="#hektor">
-					<speaker>Ἕκτωρ</speaker>
-					<l real="--o--ooo-o-oo">οὐδ’ ὧδέ γ’ αἰσχρῶς ἔπεσον ἐν τροπῇ δορός.</l>
-				</sp>
-				<sp who="#choros">
-					<speaker>Χορός</speaker>
-					<l real="x-x---x-x-o-">σὺ ταῦτ’ ἔπραξας· καὶ τὰ λοιπὰ νῦν σκόπει.</l>
-				</sp>
-				<sp who="#hektor">
-					<speaker>Ἕκτωρ</speaker>
-					<l real="x-o---ox--ox">ἁπλοῦς ἐπ’ ἐχθροῖς μῦθος ὁπλίζειν χέρα.</l>
-				</sp>
-				<milestone ed="p" n="85" unit="card"/>
-				<sp who="#choros">
-					<speaker>Χορός</speaker>
-					<l n="85" real="--o-o--x---oo">καὶ μὴν ὅδ’ Αἰνέας καὶ μάλα σπουδῇ ποδὸς</l>
-					<l real="--o-x-o-x-x-">στείχει, νέον τι πρᾶγμ’ ἔχων φίλοις φράσαι.</l>
-				</sp>
-				<sp who="#aineias">
-					<speaker>Αἰνείας</speaker>
-					<l real="--x-x-o-x-xo">Ἕκτορ, τί χρῆμα νύκτεροι κατὰ στρατὸν</l>
-					<l real="--o--xxo---o-">τὰς σὰς πρὸς εὐνὰς φύλακες ἐλθόντες φόβῳ</l>
-					<l real="--o-x-ox--xo">νυκτηγοροῦσι καὶ κεκίνηται· στρατός;</l>
-				</sp>
-				<sp who="#hektor">
-					<speaker>Ἕκτωρ</speaker>
-					<l n="90" real="-oxx-o-o-o-oo">Αἰνέα, πύκαζε τεύχεσιν δέμας σέθεν.</l>
-				</sp>
-				<sp who="#aineias">
-					<speaker>Αἰνείας</speaker>
-					<l real="x-x--oox---o-">τί δ’ ἔστι; μῶν τις πολεμίων ἀγγέλλεται</l>
-					<l real="o-x-o-x-x-o-">δόλος κρυφαῖος ἑστάναι κατ’ εὐφρόνην;</l>
-				</sp>
-				<sp who="#hektor">
-					<speaker>Ἕκτωρ</speaker>
-					<l real="--x--xx---o-">φεύγουσιν ἅνδρες κἀπιβαίνουσιν νεῶν.</l>
-				</sp>
-				<sp who="#aineias">
-					<speaker>Αἰνείας</speaker>
-					<l real="x-x---x-x-xo">τί τοῦδ’ ἂν εἴποις ἀσφαλὲς τεκμήριον;</l>
-				</sp>
-				<sp who="#hektor">
-					<speaker>Ἕκτωρ</speaker>
-					<l n="95" real="--x---x-x-xo">αἴθουσι πᾶσαν νύκτα λαμπάδας πυρός·</l>
-					<l real="--o-x-o-o-xo">καί μοι δοκοῦσιν οὐ μενεῖν ἐς αὔριον,</l>
-					<l real="--o---o---o-">ἀλλ’ ἐκκέαντες πύρσ’ ἐπ’ εὐσέλμων νεῶν</l>
-					<l real="x-o---x---oo">φυγῇ πρὸς οἴκους τῆσδ’ ἀφορμήσειν χθονός.</l>
-				</sp>
-				<sp who="#aineias">
-					<speaker>Αἰνείας</speaker>
-					<l real="x-xx--xx--ox">σὺ δ’ ὡς τί δράσων πρὸς τάδ’ ὁπλίζῃ χέρας;</l>
-				</sp>
-				<sp who="#hektor">
-					<speaker>Ἕκτωρ</speaker>
-					<l n="100" real="--x--xx---o-">φεύγοντας αὐτοὺς κἀπιθρῴσκοντας νεῶν</l>
-					<l real="--x--xx-o-xx">λόγχῃ καθέξω κἀπικείσομαι βαρύς·</l>
-					<l real="--x---o-x-xo">αἰσχρὸν γὰρ ἡμῖν, καὶ πρὸς αἰσχύνῃ κακόν,</l>
-					<l real="o-x--oox-x-x-">θεοῦ διδόντος πολεμίους ἄνευ μάχης</l>
-					<l real="--o---xx--xx">φεύγειν ἐᾶσαι πολλὰ δράσαντας κακά.</l>
-				</sp>
-				<sp who="#aineias">
-					<speaker>Αἰνείας</speaker>
-					<l n="105" real="--x---o---ox">εἴθ’ ἦσθ’ ἀνὴρ εὔβουλος ὡς δρᾶσαι χερί.</l>
-					<l real="--x---o---o-">ἀλλ’ οὐ γὰρ αὑτὸς πάντ’ ἐπίστασθαι βροτῶν</l>
-					<l real="oxo---x---ox">πέφυκεν· ἄλλῳ δ’ ἄλλο πρόσκειται γέρας,</l>
-					<l real="o-x---o---x-">σὲ μὲν μάχεσθαι, τοὺς δὲ βουλεύειν καλῶς·</l>
-					<l real="--x---x---x-">ὅστις πυρὸς λαμπτῆρας ἐξήρθης κλύων</l>
-					<l n="110" real="o-x---x---x-">φλέγειν Ἀχαιούς, καὶ στρατὸν μέλλεις ἄγειν</l>
-					<l real="x-x---o-x-x-">τάφρους ὑπερβὰς νυκτὸς ἐν καταστάσει.</l>
-					<l real="--ox--o---xo">καίτοι περάσας κοῖλον αὐλώνων βάθος,</l>
-					<l real="--x--oox-x-oo">εἰ μὴ κυρήσεις πολεμίους ἀπὸ χθονὸς</l>
-					<l real="--x-x-o-x-ox">φεύγοντας, ἀλλὰ σὸν βλέποντας ἐς δόρυ,</l>
-					<l n="115" real="x-o-o-x-o-xx">νικώμενος μὲν οὔτι μὴ μόλῃς πάλιν·</l>
-					<l real="--ox-oox-o-xo">πῶς γὰρ περάσει σκόλοπας ἐν τροπῇ στρατός;</l>
-					<l real="--ox-xxx---x-">πῶς δ’ αὖ γεφύρας διαβαλοῦσ’ ἱππηλάται,</l>
-					<l real="--x---o-x-ox">ἢν ἆρα μὴ θραύσαντες ἀντύγων χνόας;</l>
-					<l real="x-ox--o---o-">νικῶν δ’ ἔφεδρον παῖδ’ ἔχεις τὸν Πηλέως,</l>
-					<l n="120" real="--ox--x-x-ox">ὅς σ’ οὐκ ἐάσει ναυσὶν ἐμβαλεῖν φλόγα,</l>
-					<l real="--x---o-x-x-">οὐδ’ ὧδ’ Ἀχαιούς, ὡς δοκεῖς, ἀναρπάσαι.</l>
-					<l real="--xx--o---ox">αἴθων γὰρ ἁνὴρ καὶ πεπύργωται χερί.</l>
-					<l real="--x-o-x-x-xx">ἀλλὰ στρατὸν μὲν ἥσυχον παρ’ ἀσπίδας</l>
-					<l real="--o-o-o-x-x-">εὕδειν ἐῶμεν ἐκ κόπων ἀρειφάτων,</l>
-					<l n="125" real="x-o-ooox-o-o-">κατάσκοπον δὲ πολεμίων, ὃς ἂν θέλῃ,</l>
-					<l real="--o---o---x-">πέμπειν δοκεῖ μοι· κἂν μὲν αἴρωνται φυγήν,</l>
-					<l real="--o-o-o---x-">στείχοντες ἐμπέσωμεν Ἀργείων στρατῷ·</l>
-					<l real="--o-x-x---xx">εἰ δ’ ἐς δόλον τιν’ ἥδ’ ἄγει φρυκτωρία,</l>
-					<l real="x-o---x-x-o-">μαθόντες ἐχθρῶν μηχανὰς κατασκόπου</l>
-					<l n="130" real="--o-x-o---x-">βουλευσόμεσθα· τήνδ’ ἔχω γνώμην, ἄναξ.</l>
-				</sp>
-				<milestone ed="p" n="131" unit="card"/>
-				<div2 n="1" type="strophe">
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l real="xoo-xooxoo-o-">τάδε δοκεῖ, τάδε μεταθέμενος νόει.</l>
-						<l real="xox-x-x--x-">σφαλερὰ δ’ οὐ φιλῶ στρατηγῶν κράτη.</l>
-						<l real="xxx-o-">τί γὰρ ἄμεινον ἢ</l>
-						<l real="xxx-o-x--o-">ταχυβάταν νεῶν κατόπταν μολεῖν</l>
-						<l n="135" real="oxoxoxxxx-">πέλας ὅ τί ποτ’ ἄρα δαΐοις</l>
-						<l real="xxx-x-x-x--o-">πυρὰ κατ’ ἀντίπρῳρα ναυστάθμων δαίεται;</l>
-						<milestone ed="p" n="137" unit="card"/>
-					</sp>
-				</div2>
-				<div2 type="iambic">
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="x-o---x-x-xo">νικᾶτ’, ἐπειδὴ πᾶσιν ἁνδάνει τάδε.</l>
-						<l real="--o-x-x-x-xo">στείχων δὲ κοίμα συμμάχους· τάχ’ ἂν στρατὸς</l>
-						<l real="x-x---o---xx">κινοῖτ’ ἀκούσας νυκτέρους ἐκκλησίας.</l>
-						<l n="140" real="o-o--oox-x-oo">ἐγὼ δὲ πέμψω πολεμίων κατάσκοπον.</l>
-						<l real="--x---x-x-ox">κἂν μέν τιν’ ἐχθρῶν μηχανὴν πυθώμεθα,</l>
-						<l real="x-x---x---oo">σὺ πάντ’ ἀκούσῃ καὶ παρὼν εἴσῃ λόγον·</l>
-						<l real="o-x---x---o-">ἐὰν δ’ ἀπαίρωσ’ ἐς φυγὴν ὁρμώμενοι,</l>
-						<l real="--o---o-xxo-">σάλπιγγος αὐδὴν προσδοκῶν καραδόκει,</l>
-						<l n="145" real="--o-x-x---o-">ὡς οὐ μενοῦντά μ’· ἀλλὰ προσμείξω νεῶν</l>
-						<l real="--x---o---x-">ὁλκοῖσι νυκτὸς τῆσδ’ ἐπ’ Ἀργείων στρατῷ.</l>
-					</sp>
-					<sp who="#aineias">
-						<speaker>Αἰνείας</speaker>
-						<l real="--x-x-x-x-o-">πέμφ’ ὡς τάχιστα· νῦν γὰρ ἀσφαλῶς φρονεῖς.</l>
-						<l real="--o---o-o-o-">σὺν σοὶ δ’ ἔμ’ ὄψῃ καρτεροῦνθ’, ὅταν δέῃ.</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="--x---x-x-o-">τίς δῆτα Τρώων οἳ πάρεισιν ἐν λόγῳ</l>
-						<l n="150" real="o-x---o---o-">θέλει κατόπτης ναῦς ἐπ’ Ἀργείων μολεῖν;</l>
-						<l real="x-o-o-o---o-">τίς ἂν γένοιτο τῆσδε γῆς εὐεργέτης;</l>
-						<l real="--x---o-x-o-">τίς φησιν; οὔτοι πάντ’ ἐγὼ δυνήσομαι</l>
-						<l real="o-x---x-x-o-">πόλει πατρῴᾳ συμμάχοις θ’ ὑπηρετεῖν.</l>
-					</sp>
-					<sp who="#dolon">
-						<speaker>Δόλων</speaker>
-						<l real="o-o---o-x-o-">ἐγὼ πρὸ γαίας τόνδε κίνδυνον θέλω</l>
-						<l n="155" real="--x---o---o-">ῥίψας κατόπτης ναῦς ἐπ’ Ἀργείων μολεῖν,</l>
-						<l real="--x--xx---xx">καὶ πάντ’ Ἀχαιῶν ἐκμαθὼν βουλεύματα</l>
-						<l real="--ox---x-x-oo">ἥξω· ἐπὶ τούτοις τόνδ’ ὑφίσταμαι πόνον.</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="o-x---x-x-ox">ἐπώνυμος μὲν κάρτα καὶ φιλόπτολις</l>
-						<l real="o-x-o-x-o-oo">Δόλων· πατρὸς δὲ καὶ πρὶν εὐκλεᾶ δόμον</l>
-						<l n="160" real="--o-o-x-o-oo">νῦν δὶς τόσως ἔθηκας εὐκλεέστερον.</l>
-					</sp>
-					<sp who="#dolon">
-						<speaker>Δόλων</speaker>
-						<l real="--o---o-x-xo">οὐκοῦν πονεῖν μὲν χρή, πονοῦντα δ’ ἄξιον</l>
-						<l real="--o---x---oo">μισθὸν φέρεσθαι. παντὶ γὰρ προσκείμενον</l>
-						<l real="--o---x---x-">κέρδος πρὸς ἔργῳ τὴν χάριν τίκτει διπλῆν.</l>
-					</sp>
-					<milestone ed="p" n="164" unit="card"/>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="--x-x-x---o-">ναί, καὶ δίκαια ταῦτα κοὐκ ἄλλως λέγω.</l>
-						<l n="165" real="--o---o-x-xo">τάξαι δὲ μισθόν, πλὴν ἐμῆς τυραννίδος.</l>
-					</sp>
-					<sp who="#dolon">
-						<speaker>Δόλων</speaker>
-						<l real="--o--oxo-x-xo">οὐ σῆς ἐρῶμεν πολιόχου τυραννίδος.</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="x-x--xxx---o-">σὺ δ’ ἀλλὰ γήμας Πριαμιδῶν γαμβρὸς γενοῦ.</l>
-					</sp>
-					<sp who="#dolon">
-						<speaker>Δόλων</speaker>
-						<l real="--o---o-x-o-">οὐδ’ ἐξ ἐμαυτοῦ μειζόνων γαμεῖν θέλω.</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="x-x-x-o---ox">χρυσὸς πάρεστιν, εἰ τόδ’ αἰτήσεις γέρας.</l>
-					</sp>
-					<sp who="#dolon">
-						<speaker>Δόλων</speaker>
-						<l n="170" real="--o---x-x-oo">ἀλλ’ ἔστ’ ἐν οἴκοις· οὐ βίου σπανίζομεν.</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="x-x---o-oxxo">τί δῆτα χρῄζεις ὧν κέκευθεν Ἴλιος;</l>
-					</sp>
-					<sp who="#dolon">
-						<speaker>Δόλων</speaker>
-						<l real="o-x---x-x-oo">ἑλὼν Ἀχαιοὺς δῶρά μοι ξυναίνεσον.</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="--x---x-x-o-">δώσω· σὺ δ’ αἴτει πλὴν στρατηλάτας νεῶν.</l>
-					</sp>
-					<sp who="#dolon">
-						<speaker>Δόλων</speaker>
-						<l real="--x--ooo---ox">κτεῖν’, οὔ σ’ ἀπαιτῶ Μενέλεω σχέσθαι χέρα.</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l n="175" real="--oxo--x---x-">οὐ μὴν τὸν Ἰλέως παῖδά μ’ ἐξαιτῇ λαβεῖν;</l>
-					</sp>
-					<sp who="#dolon">
-						<speaker>Δόλων</speaker>
-						<l real="x-o---o-x-o-">κακαὶ γεωργεῖν χεῖρες εὖ τεθραμμέναι.</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="x-x---x---o-">τίν’ οὖν Ἀχαιῶν ζῶντ’ ἀποινᾶσθαι θέλεις;</l>
-					</sp>
-					<sp who="#dolon">
-						<speaker>Δόλων</speaker>
-						<l real="--o-o-xxo-o-">καὶ πρόσθεν εἶπον· ἔστι χρυσὸς ἐν δόμοις.</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="--xx--o---x-">καὶ μὴν λαφύρων γ’ αὐτὸς αἱρήσῃ παρών.</l>
-					</sp>
-					<sp who="#dolon">
-						<speaker>Δόλων</speaker>
-						<l n="180" real="o-x-x-x-x-o-">θεοῖσιν αὐτὰ πασσάλευε πρὸς δόμοις.</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="x-x---o---ox">τί δῆτα μεῖζον τῶνδέ μ’ αἰτήσεις γέρας;</l>
-					</sp>
-					<sp who="#dolon">
-						<speaker>Δόλων</speaker>
-						<l real="--x---o-x-o-">ἵππους Ἀχιλλέως· χρὴ δ’ ἐπ’ ἀξίοις πονεῖν</l>
-						<l real="x-o---x-x-oo">ψυχὴν προβάλλοντ’ ἐν κύβοισι δαίμονος.</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="--o-x-o---o-">καὶ μὴν ἐρῶντί γ’ ἀντερᾷς ἵππων ἐμοί·</l>
-						<l n="185" real="--x-x-x-oxoo">ἐξ ἀφθίτων γὰρ ἄφθιτοι πεφυκότες</l>
-						<l real="--o-o-x-x-oo">τὸν Πηλέως φέρουσι θούριον γόνον·</l>
-						<l real="x-x---o--xx-">δίδωσι δ’ αὐτοὺς πωλοδαμνήσας ἄναξ</l>
-						<l real="--o---o-x-xo">Πηλεῖ Ποσειδῶν, ὡς λέγουσι, πόντιος.</l>
-						<l real="--ox--o---o-">ἀλλ’ οὔ σ’ ἐπάρας ψεύσομαι· δώσω δέ σοι,</l>
-						<l n="190" real="--o---x-o-oo">κάλλιστον οἴκοις κτῆμ’, Ἀχιλλέως ὄχον.</l>
-					</sp>
-					<sp who="#dolon">
-						<speaker>Δόλων</speaker>
-						<l real="--x---x---x-">αἰνῶ· λαβὼν δ’ ἄν φημι κάλλιστον Φρυγῶν</l>
-						<l real="--o---o---xx">δῶρον δέχεσθαι τῆς ἐμῆς εὐσπλαγχνίας.</l>
-						<l real="o-o--xx-x-x-">σὲ δ’ οὐ φθονεῖν χρή· μυρί’ ἔστιν ἄλλα σοι,</l>
-						<l real="o-x---x---oo">ἐφ’ οἷσι τέρψῃ τῆσδ’ ἀριστεύων χθονός.</l>
-					</sp>
-					<milestone ed="p" n="195" unit="card"/>
-				</div2>
-				<div2 type="antistrophe">
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l n="195" real="oxx-oxxoxo-o-">μέγας ἀγών, μεγάλα δ’ ἐπινοεῖς ἑλεῖν·</l>
-						<l real="xxx-o-x-xo-">μακάριός γε μὴν κυρήσας ἔσῃ.</l>
-						<l real="ooo-o-">πόνος ὅδ’ εὐκλεής·</l>
-						<l real="oxo-x-x--o-">μέγα δὲ κοιράνοισι γαμβρὸν πέλειν.</l>
-						<l real="xooooxo-xx">τὰ θεόθεν ἐπιδέτω Δίκα,</l>
-						<l n="200" real="xox-x-o-x--o-">τὰ δὲ παρ’ ἀνδράσιν τέλειά σοι φαίνεται.</l>
-					</sp>
-				</div2>
-				<div2 type="iambic">
-					<milestone ed="p" n="201" unit="card"/>
-					<sp who="#dolon">
-						<speaker>Δόλων</speaker>
-						<l real="--x---o-o-xo">στείχοιμ’ ἄν· ἐλθὼν &lt;δ’&gt; ἐς δόμους ἐφέστιος</l>
-						<l real="--o---o-x-o-">σκευῇ πρεπόντως σῶμ’ ἐμὸν καθάψομαι,</l>
-						<l real="x-o---o---ox">κἀκεῖθεν ἥσω ναῦς ἐπ’ Ἀργείων πόδα.</l>
-					</sp>
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l real="o-x---x---o-">ἐπεὶ τίν’ ἄλλην ἀντὶ τῆσδ’ ἕξεις στολήν;</l>
-					</sp>
-					<sp who="#dolon">
-						<speaker>Δόλων</speaker>
-						<l n="205" real="o-x---x-o-xx">πρέπουσαν ἔργῳ κλωπικοῖς τε βήμασι.</l>
-					</sp>
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l real="o-x---o-x-x-">σοφοῦ παρ’ ἀνδρὸς χρὴ σοφόν τι μανθάνειν·</l>
-						<l real="--x---o-x-x-">λέξον, τίς ἔσται τοῦδε σώματος σαγή;</l>
-					</sp>
-					<sp who="#dolon">
-						<speaker>Δόλων</speaker>
-						<l real="x-o-x-o-o-ox">λύκειον ἀμφὶ νῶτ’ ἐνάψομαι δορὰν</l>
-						<l real="--x-o-o---x-">καὶ χάσμα θηρὸς ἀμφ’ ἐμῷ θήσω κάρᾳ,</l>
-						<l n="210" real="x-o-x-x-x-ox">βάσιν τε χερσὶ προσθίαν καθαρμόσας</l>
-						<l real="--x--xx-x-o-">καὶ κῶλα κώλοις, τετράπουν μιμήσομαι</l>
-						<l real="x-o--oox-x-oo">λύκου κέλευθον πολεμίοις δυσεύρετον,</l>
-						<l real="x-o---o-x-xx">τάφροις πελάζων καὶ νεῶν προβλήμασιν.</l>
-						<l real="o-o---o---ox">ὅταν δ’ ἔρημον χῶρον ἐμβαίνω ποδί,</l>
-						<l n="215" real="xxo-x-o---oo">δίβαμος εἶμι· τῇδε σύγκειται δόλος.</l>
-					</sp>
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l real="--o---o-o-xx">ἀλλ’ εὖ σ’ ὁ Μαίας παῖς ἐκεῖσε καὶ πάλιν</l>
-						<l real="--o---o---x-">πέμψειεν Ἑρμῆς, ὅς γε φηλητῶν ἄναξ.</l>
-						<l real="o-o-o-x-o-o-">ἔχεις δὲ τοὔργον· εὐτυχεῖν μόνον σε δεῖ.</l>
-					</sp>
-					<sp who="#dolon">
-						<speaker>Δόλων</speaker>
-						<l real="--o-o-x-o-o-">σωθήσομαί γε καὶ κτανὼν Ὀδυσσέως</l>
-						<l n="220" real="--xx--o-o-xo">οἴσω κάρα σοι — σύμβολον δ’ ἔχων σαφὲς</l>
-						<l real="--o-x-o---o-">φήσεις Δόλωνα ναῦς ἐπ’ Ἀργείων μολεῖν — </l>
-						<l real="--xxo--x---ox">ἢ παῖδα Τυδέως· οὐδ’ ἀναιμάκτῳ χερὶ</l>
-						<l real="--o---x-o-ox">ἥξω πρὸς οἴκους πρὶν φάος μολεῖν χθόνα.</l>
-					</sp>
-				</div2>
-			</div1>
-			<milestone ed="p" n="224" unit="card"/>
-			<div1 type="choral">
-				<div2 n="1" type="strophe">
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l real="--o-xxo-xxx">Θυμβραῖε καὶ Δάλιε καὶ Λυκίας</l>
-						<l n="225" real="xo-x--">ναὸν ἐμβατεύων</l>
-						<l real="x-o-xxoxxoo--">Ἄπολλον, ὦ δία κεφαλά, μόλε τοξή‐</l>
-						<l real="-x--xxo">ρης, ἱκοῦ ἐννύχιος</l>
-						<l n="229" real="-o---xoxox--">καὶ γενοῦ σωτήριος ἀνέρι πομπᾶς</l>
-						<l n="230" real="xo---xo-xx-">ἁγεμὼν καὶ ξύλλαβε Δαρδανίδαις,</l>
-						<l real="--xo-oxx">ὦ παγκρατές, ὦ Τροΐας</l>
-						<l real="--x-x-x">τείχη παλαιὰ δείμας.</l>
-						<milestone ed="p" n="233" unit="card"/>
-					</sp>
-				</div2>
-				<div2 n="1" type="antistrophe">
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l real="o-o--xx-xx-">μόλοι δὲ ναυκλήρια, καὶ στρατιᾶς</l>
-						<l real="-x-x-x">Ἑλλάδος διόπτας</l>
-						<l n="235" real="x-o---ox-xox-">ἵκοιτο, καὶ κάμψειε πάλιν θυμέλας οἴ‐</l>
-						<l real="-xoxxxx">κων πατρὸς Ἰλιάδας.</l>
-						<l real="xx---oo-xx--">Φθιάδων δ’ ἵππων ποτ’ ἐπ’ ἄντυγα βαίη,</l>
-						<l real="-o---ox-ox-">δεσπότου πέρσαντος Ἀχαιὸν Ἄρη,</l>
-						<l n="240" real="--xo-xx-">τὰς πόντιος Αἰακίδᾳ</l>
-						<l real="--x-x--">Πηλεῖ δίδωσι δαίμων.</l>
-						<milestone ed="p" n="242" unit="card"/>
-					</sp>
-				</div2>
-				<div2 n="2" type="strophe">
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l n="243" real="o-o--oo-xxoo">ἐπεὶ πρό τ’ οἴκων πρό τε γᾶς ἔτλα μόνος</l>
-						<l real="-xx-xx-xx-">ναύσταθμα βὰς κατιδεῖν· ἄγαμαι</l>
-						<l n="245" real="-xo-xxxx">λήματος· ἦ σπανία &lt;τις&gt;</l>
-						<l real="-xx-ox-">τῶν ἀγαθῶν, ὅταν ᾖ</l>
-						<l real="xxxo-ox-">δυσάλιος ἐν πελάγει</l>
-						<l real="-x--">καὶ σαλεύῃ</l>
-						<l n="250" real="ox-xx-x-x-xo">πόλις. ἔστι Φρυγῶν τις ἔστιν ἄλκιμος·</l>
-						<l real="oxxxoo-">ἔνι δὲ θράσος ἐν αἰχ‐</l>
-						<l real="-oxx-oox">μᾷ· πόθι Μυσῶν ὃς ἐμὰν</l>
-						<l real="-xxxx--">συμμαχίαν ἀτίζει;</l>
-						<milestone ed="p" n="254" unit="card"/>
-					</sp>
-				</div2>
-				<div2 n="2" type="antistrophe">
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l real="x-x--oo-x-x-">τίν’ ἄνδρ’ Ἀχαιῶν ὁ πεδοστιβὴς σφαγεὺς</l>
-						<l n="255" real="-x--xx-xx-">οὐτάσει ἐν κλισίαις, τετράπουν</l>
-						<l real="-oo-ox--">μῖμον ἔχων ἐπιγαίου</l>
-						<l real="-oo-oox">θηρός; ἕλοι Μενέλαν,</l>
-						<l real="x-xx-oxo">κτανὼν δ’ Ἀγαμεμνόνιον</l>
-						<l real="-o--">κρᾶτ’ ἐνέγκοι</l>
-						<l n="260" real="oo-xo-o-o-oo">Ἑλένᾳ κακόγαμβρον ἐς χέρας γόον,</l>
-						<l real="ooxoxoox">ὃς ἐπὶ πόλιν, ὃς ἐπὶ</l>
-						<l real="-ox-xxo-">γᾶν Τροΐαν χιλιόναυν</l>
-						<l real="-xo-x-x">ἤλυθ’ ἔχων στρατείαν.</l>
-					</sp>
-				</div2>
-			</div1>
-			<milestone ed="p" n="264" unit="card"/>
-			<div1 type="episode">
-				<sp who="#angelos_poimen">
-					<speaker>Ἄγγελος Ποιμήν</speaker>
-					<l real="x-----o-x-oo">ἄναξ, τοιούτων δεσπόταισιν ἄγγελος</l>
-					<l n="265" real="--o-o-x-o-x-">εἴην τὸ λοιπὸν οἷά σοι φέρω μαθεῖν.</l>
-				</sp>
-				<sp who="#hektor">
-					<speaker>Ἕκτωρ</speaker>
-					<l real="--x---x---ox">ἦ πόλλ’ ἀγρώταις σκαιὰ πρόσκειται φρενί·</l>
-					<l real="--x---o---o-">καὶ γὰρ σὺ ποίμνας δεσπόταις τευχεσφόροις</l>
-					<l real="--o-x-o-x-o-">ἥκειν ἔοικας ἀγγελῶν ἵν’ οὐ πρέπει.</l>
-					<l real="--x-x-o-o-xo">οὐκ οἶσθα δῶμα τοὐμὸν ἢ θρόνους πατρός,</l>
-					<l n="270" real="--o---x-x-xx">οἷ χρῆν γεγωνεῖν σ’ εὐτυχοῦντα ποίμνια;</l>
-				</sp>
-				<sp who="#angelos">
-					<speaker>Ἄγγελος</speaker>
-					<l real="--o-o-o---o-">σκαιοὶ βοτῆρές ἐσμεν· οὐκ ἄλλως λέγω.</l>
-					<l real="--o---o-x-o-">ἀλλ’ οὐδὲν ἧσσον σοι φέρω κεδνοὺς λόγους.</l>
-				</sp>
-				<sp who="#hektor">
-					<speaker>Ἕκτωρ</speaker>
-					<l real="--o---o---xx">παῦσαι λέγων μοι τὰς προσαυλείους τύχας·</l>
-					<l real="x-o---o---oo">μάχας πρὸ χειρῶν καὶ δόρη βαστάζομεν.</l>
-				</sp>
-				<sp who="#angelos">
-					<speaker>Ἄγγελος</speaker>
-					<l n="275" real="--xx--x-o-xx">τοιαῦτα κἀγὼ σημανῶν ἐλήλυθα·</l>
-					<l real="x-x--xx-x-x-">ἀνὴρ γὰρ ἀλκῆς μυρίας στρατηλατῶν</l>
-					<l real="--x---x-o-o-">στείχει φίλος σοὶ σύμμαχός τε τῇδε γῇ.</l>
-				</sp>
-				<sp who="#hektor">
-					<speaker>Ἕκτωρ</speaker>
-					<l real="--x---o---oo">ποίας πατρῴας γῆς ἐρημώσας πέδον;</l>
-				</sp>
-				<sp who="#angelos">
-					<speaker>Ἄγγελος</speaker>
-					<l real="--x--xo-x-o-">Θρῄκης· πατρὸς δὲ Στρυμόνος κικλήσκεται.</l>
-				</sp>
-				<sp who="#hektor">
-					<speaker>Ἕκτωρ</speaker>
-					<l n="280" real="--x-o-x---ox">Ῥῆσον τιθέντ’ ἔλεξας ἐν Τροίᾳ πόδα;</l>
-				</sp>
-				<sp who="#angelos">
-					<speaker>Ἄγγελος</speaker>
-					<l real="x-o-o-o-o-xx">ἔγνως· λόγου δὲ δὶς τόσου μ’ ἐκούφισας.</l>
-				</sp>
-				<sp who="#hektor">
-					<speaker>Ἕκτωρ</speaker>
-					<l real="--ox--x-o-o-">καὶ πῶς πρὸς Ἴδης ὀργάδας πορεύεται,</l>
-					<l real="--x--oxx-x-x-">πλαγχθεὶς πλατείας πεδιάδος θ’ ἁμαξιτοῦ;</l>
-				</sp>
-				<milestone ed="p" n="284" unit="card"/>
-				<sp who="#angelos">
-					<speaker>Ἄγγελος</speaker>
-					<l real="--xx--x-o-xx">οὐκ οἶδ’ ἀκριβῶς· εἰκάσαι γε μὴν πάρα.</l>
-					<l n="285" real="--x-x-o-x-xo">νυκτὸς γὰρ οὔτι φαῦλον ἐμβαλεῖν στρατόν,</l>
-					<l real="x-x--oxxoox-oo">κλύοντα πλήρη πεδία πολεμίας χερός.</l>
-					<l real="o-x---xx--ox">φόβον δ’ ἀγρώσταις, οἳ κατ’ Ἰδαῖον λέπας</l>
-					<l real="--o---o-x-oo">οἰκοῦμεν αὐτόρριζον ἑστίαν χθονός,</l>
-					<l real="x-xx--o---o-">παρέσχε δρυμὸν νυκτὸς ἔνθηρον μολών.</l>
-					<l n="290" real="--x---x-o-xo">πολλῇ γὰρ ἠχῇ Θρῄκιος ῥέων στρατὸς</l>
-					<l real="--o---x-oxoo">ἔστειχε· θάμβει δ’ ἐκπλαγέντες ἵεμεν</l>
-					<l real="--ox--x---o-">ποίμνας πρὸς ἄκρας, μή τις Ἀργείων μόλῃ</l>
-					<l real="o-x---x---xx">λεηλατήσων καὶ σὰ πορθήσων σταθμά,</l>
-					<l real="--x---x---x-">πρὶν δὴ δῑ ὤτων γῆρυν οὐχ Ἑλληνικὴν</l>
-					<l n="295" real="o-x-x-o---o-">ἐδεξάμεσθα καὶ μετέστημεν φόβου.</l>
-					<l real="--x---o--xo-">στείχων δ’ ἄνακτος προυξερευνητὰς ὁδοῦ</l>
-					<l real="x-o-x-x--xxx">ἀνιστόρησα Θρῃκίοις προσφθέγμασι,</l>
-					<l real="x-x---x-x-oo">Τίς ὁ στρατηγὸς καὶ τίνος κεκλημένος</l>
-					<l real="--o-xxxx-x-xo">στείχει πρὸς ἄστυ Πριαμίδαισι σύμμαχος;</l>
-					<l n="300" real="--x-x-oxo-x-">
-						<milestone ed="P" unit="para"/>
+      </change>
+    </revisionDesc>
+    <change>
+      <date>2019-05-12</date>
+      <respStmt>
+        <name>Boris Orekhov</name>
+        <resp>ed.</resp>
+      </respStmt>
+      <item>converted to P.5 Dracor format</item>
+    </change>
+  </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="premiere" when="-0453">
+        <label>453 BCE</label>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q667750"/>
+  </standOff>
+  <text lang="greek">
+    <body>
+      <div1 type="choral">
+        <milestone ed="p" n="1" unit="card"/>
+        <div2 type="anapests">
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l real="-xo--x-oo-">Βᾶθι πρὸς εὐνὰς τὰς Ἑκτορέους.</l>
+            <l real="xx---xx-xx-">τίς ὑπασπιστῶν ἄγρυπνος βασιλέως,</l>
+            <l real="--oo-">ἢ τευχοφόρων;</l>
+            <l real="--oo--oxx-">δέξαιτο νέων κληδόνα μύθων,</l>
+            <l n="5" real="-xx----xx-">οἳ τετράμοιρον νυκτὸς φυλακὴν</l>
+            <l real="x-xx-ox--">πάσης στρατιᾶς προκάθηνται.</l>
+            <l real="--ox--xo-x">ὄρθου κεφαλὴν πῆχυν ἐρείσας,</l>
+            <l real="--ox---oxx">λῦσον βλεφάρων γοργωπὸν ἕδραν,</l>
+            <l real="-ox------">λεῖπε χαμεύνας φυλλοστρώτους,</l>
+            <l n="10" real="----xx--">Ἕκτορ· καιρὸς γὰρ ἀκοῦσαι.</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="xo-xx---xx-">τίς ὅδ’; ἦ φίλιος φθόγγος· τίς ἀνήρ;</l>
+            <l real="xo-xo-">τί τὸ σῆμα; θρόει·</l>
+            <l real="xox--x-oox">τίνες ἐκ νυκτῶν τὰς ἡμετέρας</l>
+            <l real="--x-oo--">κοίτας πλάθουσ’; ἐνέπειν χρή.</l>
+          </sp>
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l n="15" real="xx-xx-">φύλακες στρατιᾶς.</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l part="Y" real="xo-ox-">τί φέρῃ θορύβῳ;</l>
+          </sp>
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l real="--">θάρσει.</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l part="Y" real="--">θαρσῶ.</l>
+            <l real="--oox--">μῶν τις λόχος ἐκ νυκτῶν;</l>
+          </sp>
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l part="Y" real="--x">[οὐκ ἔστι.]</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="xxx">τί σὺ γὰρ</l>
+            <l real="xx-ox-x-xxx">φυλακὰς προλιπὼν κινεῖς στρατιάν,</l>
+            <l real="--xo---oxx">εἰ μή τιν’ ἔχων νυκτηγορίαν;</l>
+            <l n="20" real="--xo-ox---">οὐκ οἶσθα δορὸς πέλας Ἀργείου</l>
+            <l real="xxx--">νυχίαν ἡμᾶς</l>
+            <l real="--xx-xo-x">κοίταν πανόπλους κατέχοντας;</l>
+          </sp>
+          <milestone ed="p" n="23" unit="card"/>
+        </div2>
+        <div2 n="1" type="strophe">
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l real="x--ox-x-">ὁπλίζου χέρα· συμμάχων,</l>
+            <l real="---xo-x">Ἕκτορ, βᾶθι πρὸς εὐνάς,</l>
+            <l n="25" real="xxo-o--xxxo">ὄτρυνον ἔγχος αἴρειν, ἀφύπνισον.</l>
+            <l real="-ox-xo-ox-oo"> — πέμπε φίλους ἰέναι ποτὶ σὸν λόχον,</l>
+            <l real="-ox-xx---">ἁρμόσατε ψαλίοις ἵππους.</l>
+            <l real="x-ox-oxx"> — τίς εἶσ’ ἐπὶ Πανθοΐδαν,</l>
+            <l real="-o---xx-xo--">ἢ τὸν Εὐρώπας, Λυκίων ἀγὸν ἀνδρῶν;</l>
+            <l n="30" real="-xx-oo-"> — ποῦ σφαγίων ἔφοροι;</l>
+            <l real="-o---o--"> — ποῦ δὲ γυμνήτων μόναρχοι</l>
+            <l real="-oo-xx-">τοξοφόροι τε Φρυγῶν;</l>
+            <l real="-xoooox-x--"> — ζεύγνυτε κερόδετα τόξα νευραῖς.</l>
+            <milestone ed="p" n="34" unit="card"/>
+          </sp>
+        </div2>
+        <div2 type="anapests">
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="xo----xx--">τὰ μὲν ἀγγέλλεις δείματ’ ἀκούειν,</l>
+            <l n="35" real="xo-x---xx-">τὰ δὲ θαρσύνεις, κοὐδὲν καθαρῶς.</l>
+            <l real="--ox-x-oo-">ἀλλ’ ἦ Κρονίου Πανὸς τρομερᾷ</l>
+            <l real="-xxo-xx-ox-">μάστιγι φοβῇ; [φυλακὰς δὲ λιπὼν</l>
+            <l real="x-xx-xo-xo-">κινεῖς στρατιάν.] τί θροεῖς; τί σε φῶ</l>
+            <l real="oo----xx--">νέον ἀγγέλλειν; πολλὰ γὰρ εἰπὼν</l>
+            <l n="40" real="--x-xo-x">οὐδὲν τρανῶς ἀπέδειξας.</l>
+          </sp>
+          <milestone ed="p" n="41" unit="card"/>
+        </div2>
+        <div2 n="1" type="antistrophe">
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l real="x--xo-ox">πύρ’ αἴθει στρατὸς Ἀργόλας,</l>
+            <l real="---xx-x">Ἕκτορ, πᾶσαν ἀν’ ὄρφναν,</l>
+            <l real="x-o-ox---xx">διειπετῆ δὲ ναῶν πυρσοῖς σταθμά.</l>
+            <l real="-xx-ox-oo-xo">πᾶς δ’ Ἀγαμεμνονίαν προσέβα στρατὸς</l>
+            <l n="45" real="-xx-ox--x">ἐννύχιος θορύβῳ σκηνάν,</l>
+            <l real="o-xoxoo-">νέαν τιν’ ἐφιέμενοι</l>
+            <l real="-x---xo-oo--">βάξιν. οὐ γάρ πω πάρος ὧδ’ ἐφοβήθη</l>
+            <l real="-xo-xxx">ναυσιπόρος στρατιά.</l>
+            <l real="-x---o-o">σοὶ δ’, ὑποπτεύων τὸ μέλλον,</l>
+            <l n="50" real="-xo-oo-">ἤλυθον ἄγγελος, ὡς</l>
+            <l real="-ooooxx-x--">μήποτ’ ἐς ἐμέ τινα μέμψιν εἴπῃς.</l>
+          </sp>
+        </div2>
+      </div1>
+      <milestone ed="p" n="52" unit="card"/>
+      <div1 type="episode">
+        <sp who="#hektor">
+          <speaker>Ἕκτωρ</speaker>
+          <l real="--o---o---oo">ἐς καιρὸν ἥκεις, καίπερ ἀγγέλλων φόβον·</l>
+          <l real="--x---o-o-x-">ἅνδρες γὰρ ἐκ γῆς τῆσδε νυκτέρῳ πλάτῃ</l>
+          <l real="x-o-x-ox--x-">λαθόντες ὄμμα τοὐμὸν ἀρεῖσθαι φυγὴν</l>
+          <l n="55" real="--x---x---xx">μέλλουσι· σαίνει μ’ ἔννυχος φρυκτωρία.</l>
+          <l real="--o---x-o-xx">ὦ δαῖμον, ὅστις μ’ εὐτυχοῦντ’ ἐνόσφισας</l>
+          <l real="--o-x-o---xo">θοίνης λέοντα, πρὶν τὸν Ἀργείων στρατὸν</l>
+          <l real="--x-x-xx--ox">σύρδην ἅπαντα τῷδ’ ἀναλῶσαι δορί.</l>
+          <l real="--x---x-o-x-">εἰ γὰρ φαεννοὶ μὴ ξυνέσχον ἡλίου</l>
+          <l n="60" real="--o-x-o-x-ox">λαμπτῆρες, οὔτἂν ἔσχον εὐτυχοῦν δόρυ,</l>
+          <l real="--x---x---o-">πρὶν ναῦς πυρῶσαι καὶ διὰ σκηνῶν μολεῖν</l>
+          <l real="--x---ooxo-ox">κτείνων Ἀχαιοὺς τῇδε πολυφόνῳ χερί.</l>
+          <l real="x-o-oxoxo-ox">κἀγὼ μὲν ἦ πρόθυμος ἱέναι δόρυ</l>
+          <l real="--x---x-x-o-">ἐν νυκτὶ χρῆσθαί τ’ εὐτυχεῖ ῥύμῃ θεοῦ·</l>
+          <l n="65" real="--o-o-o-o-oo">ἀλλ’ οἱ σοφοί με καὶ τὸ θεῖον εἰδότες</l>
+          <l real="--o-x-o---xo">μάντεις ἔπεισαν ἡμέρας μεῖναι φάος</l>
+          <l real="x-x---o---x-">κἄπειτ’ Ἀχαιῶν μηδέν’ ἐν χέρσῳ λιπεῖν.</l>
+          <l real="--o-x-o-x-o-">οἳ δ’ οὐ μένουσι τῶν ἐμῶν θυοσκόων</l>
+          <l real="-xo--xo-o-o-">βουλάς· ἐν ὄρφνῃ δραπέτης μέγα σθένει.</l>
+          <l n="70" real="--x-x-x---x-">ἀλλ’ ὡς τάχιστα χρὴ παραγγέλλειν στρατῷ</l>
+          <l real="--o-x-x---x-">τεύχη πρόχειρα λαμβάνειν λῆξαί θ’ ὕπνου,</l>
+          <l real="--x---o---ox">ὡς ἄν τις αὐτῶν καὶ νεὼς θρῴσκων ἔπι</l>
+          <l real="--x--xx-x-o-">νῶτον χαραχθεὶς κλίμακας ῥάνῃ φόνῳ,</l>
+          <l real="--o-x-x-o-o-">οἳ δ’ ἐν βρόχοισι δέσμιοι λελημμένοι</l>
+          <l n="75" real="x-x-xxx-xxo-">Φρυγῶν ἀρούρας ἐκμάθωσι γαπονεῖν.</l>
+        </sp>
+        <sp who="#choros">
+          <speaker>Χορός</speaker>
+          <l real="--xx--x-x-oo">Ἕκτορ, ταχύνεις πρὶν μαθεῖν τὸ δρώμενον·</l>
+          <l real="--x---x---o-">ἅνδρες γὰρ εἰ φεύγουσιν οὐκ ἴσμεν τορῶς.</l>
+        </sp>
+        <sp who="#hektor">
+          <speaker>Ἕκτωρ</speaker>
+          <l real="--x--oxx---xo">τίς γὰρ πύρ’ αἴθειν πρόφασις Ἀργείων στρατόν;</l>
+        </sp>
+        <sp who="#choros">
+          <speaker>Χορός</speaker>
+          <l real="--x---x-o-ox">οὐκ οἶδ’· ὕποπτον δ’ ἐστὶ κάρτ’ ἐμῇ φρενί.</l>
+        </sp>
+        <sp who="#hektor">
+          <speaker>Ἕκτωρ</speaker>
+          <l n="80" real="--o---x---oo">πάντ’ ἂν φοβηθεὶς ἴσθι, δειμαίνων τόδε.</l>
+        </sp>
+        <sp who="#choros">
+          <speaker>Χορός</speaker>
+          <l real="--x--oox-o-o-">οὔπω πρὶν ἧψαν πολέμιοι τοσόνδε φῶς.</l>
+        </sp>
+        <sp who="#hektor">
+          <speaker>Ἕκτωρ</speaker>
+          <l real="--o--ooo-o-oo">οὐδ’ ὧδέ γ’ αἰσχρῶς ἔπεσον ἐν τροπῇ δορός.</l>
+        </sp>
+        <sp who="#choros">
+          <speaker>Χορός</speaker>
+          <l real="x-x---x-x-o-">σὺ ταῦτ’ ἔπραξας· καὶ τὰ λοιπὰ νῦν σκόπει.</l>
+        </sp>
+        <sp who="#hektor">
+          <speaker>Ἕκτωρ</speaker>
+          <l real="x-o---ox--ox">ἁπλοῦς ἐπ’ ἐχθροῖς μῦθος ὁπλίζειν χέρα.</l>
+        </sp>
+        <milestone ed="p" n="85" unit="card"/>
+        <sp who="#choros">
+          <speaker>Χορός</speaker>
+          <l n="85" real="--o-o--x---oo">καὶ μὴν ὅδ’ Αἰνέας καὶ μάλα σπουδῇ ποδὸς</l>
+          <l real="--o-x-o-x-x-">στείχει, νέον τι πρᾶγμ’ ἔχων φίλοις φράσαι.</l>
+        </sp>
+        <sp who="#aineias">
+          <speaker>Αἰνείας</speaker>
+          <l real="--x-x-o-x-xo">Ἕκτορ, τί χρῆμα νύκτεροι κατὰ στρατὸν</l>
+          <l real="--o--xxo---o-">τὰς σὰς πρὸς εὐνὰς φύλακες ἐλθόντες φόβῳ</l>
+          <l real="--o-x-ox--xo">νυκτηγοροῦσι καὶ κεκίνηται· στρατός;</l>
+        </sp>
+        <sp who="#hektor">
+          <speaker>Ἕκτωρ</speaker>
+          <l n="90" real="-oxx-o-o-o-oo">Αἰνέα, πύκαζε τεύχεσιν δέμας σέθεν.</l>
+        </sp>
+        <sp who="#aineias">
+          <speaker>Αἰνείας</speaker>
+          <l real="x-x--oox---o-">τί δ’ ἔστι; μῶν τις πολεμίων ἀγγέλλεται</l>
+          <l real="o-x-o-x-x-o-">δόλος κρυφαῖος ἑστάναι κατ’ εὐφρόνην;</l>
+        </sp>
+        <sp who="#hektor">
+          <speaker>Ἕκτωρ</speaker>
+          <l real="--x--xx---o-">φεύγουσιν ἅνδρες κἀπιβαίνουσιν νεῶν.</l>
+        </sp>
+        <sp who="#aineias">
+          <speaker>Αἰνείας</speaker>
+          <l real="x-x---x-x-xo">τί τοῦδ’ ἂν εἴποις ἀσφαλὲς τεκμήριον;</l>
+        </sp>
+        <sp who="#hektor">
+          <speaker>Ἕκτωρ</speaker>
+          <l n="95" real="--x---x-x-xo">αἴθουσι πᾶσαν νύκτα λαμπάδας πυρός·</l>
+          <l real="--o-x-o-o-xo">καί μοι δοκοῦσιν οὐ μενεῖν ἐς αὔριον,</l>
+          <l real="--o---o---o-">ἀλλ’ ἐκκέαντες πύρσ’ ἐπ’ εὐσέλμων νεῶν</l>
+          <l real="x-o---x---oo">φυγῇ πρὸς οἴκους τῆσδ’ ἀφορμήσειν χθονός.</l>
+        </sp>
+        <sp who="#aineias">
+          <speaker>Αἰνείας</speaker>
+          <l real="x-xx--xx--ox">σὺ δ’ ὡς τί δράσων πρὸς τάδ’ ὁπλίζῃ χέρας;</l>
+        </sp>
+        <sp who="#hektor">
+          <speaker>Ἕκτωρ</speaker>
+          <l n="100" real="--x--xx---o-">φεύγοντας αὐτοὺς κἀπιθρῴσκοντας νεῶν</l>
+          <l real="--x--xx-o-xx">λόγχῃ καθέξω κἀπικείσομαι βαρύς·</l>
+          <l real="--x---o-x-xo">αἰσχρὸν γὰρ ἡμῖν, καὶ πρὸς αἰσχύνῃ κακόν,</l>
+          <l real="o-x--oox-x-x-">θεοῦ διδόντος πολεμίους ἄνευ μάχης</l>
+          <l real="--o---xx--xx">φεύγειν ἐᾶσαι πολλὰ δράσαντας κακά.</l>
+        </sp>
+        <sp who="#aineias">
+          <speaker>Αἰνείας</speaker>
+          <l n="105" real="--x---o---ox">εἴθ’ ἦσθ’ ἀνὴρ εὔβουλος ὡς δρᾶσαι χερί.</l>
+          <l real="--x---o---o-">ἀλλ’ οὐ γὰρ αὑτὸς πάντ’ ἐπίστασθαι βροτῶν</l>
+          <l real="oxo---x---ox">πέφυκεν· ἄλλῳ δ’ ἄλλο πρόσκειται γέρας,</l>
+          <l real="o-x---o---x-">σὲ μὲν μάχεσθαι, τοὺς δὲ βουλεύειν καλῶς·</l>
+          <l real="--x---x---x-">ὅστις πυρὸς λαμπτῆρας ἐξήρθης κλύων</l>
+          <l n="110" real="o-x---x---x-">φλέγειν Ἀχαιούς, καὶ στρατὸν μέλλεις ἄγειν</l>
+          <l real="x-x---o-x-x-">τάφρους ὑπερβὰς νυκτὸς ἐν καταστάσει.</l>
+          <l real="--ox--o---xo">καίτοι περάσας κοῖλον αὐλώνων βάθος,</l>
+          <l real="--x--oox-x-oo">εἰ μὴ κυρήσεις πολεμίους ἀπὸ χθονὸς</l>
+          <l real="--x-x-o-x-ox">φεύγοντας, ἀλλὰ σὸν βλέποντας ἐς δόρυ,</l>
+          <l n="115" real="x-o-o-x-o-xx">νικώμενος μὲν οὔτι μὴ μόλῃς πάλιν·</l>
+          <l real="--ox-oox-o-xo">πῶς γὰρ περάσει σκόλοπας ἐν τροπῇ στρατός;</l>
+          <l real="--ox-xxx---x-">πῶς δ’ αὖ γεφύρας διαβαλοῦσ’ ἱππηλάται,</l>
+          <l real="--x---o-x-ox">ἢν ἆρα μὴ θραύσαντες ἀντύγων χνόας;</l>
+          <l real="x-ox--o---o-">νικῶν δ’ ἔφεδρον παῖδ’ ἔχεις τὸν Πηλέως,</l>
+          <l n="120" real="--ox--x-x-ox">ὅς σ’ οὐκ ἐάσει ναυσὶν ἐμβαλεῖν φλόγα,</l>
+          <l real="--x---o-x-x-">οὐδ’ ὧδ’ Ἀχαιούς, ὡς δοκεῖς, ἀναρπάσαι.</l>
+          <l real="--xx--o---ox">αἴθων γὰρ ἁνὴρ καὶ πεπύργωται χερί.</l>
+          <l real="--x-o-x-x-xx">ἀλλὰ στρατὸν μὲν ἥσυχον παρ’ ἀσπίδας</l>
+          <l real="--o-o-o-x-x-">εὕδειν ἐῶμεν ἐκ κόπων ἀρειφάτων,</l>
+          <l n="125" real="x-o-ooox-o-o-">κατάσκοπον δὲ πολεμίων, ὃς ἂν θέλῃ,</l>
+          <l real="--o---o---x-">πέμπειν δοκεῖ μοι· κἂν μὲν αἴρωνται φυγήν,</l>
+          <l real="--o-o-o---x-">στείχοντες ἐμπέσωμεν Ἀργείων στρατῷ·</l>
+          <l real="--o-x-x---xx">εἰ δ’ ἐς δόλον τιν’ ἥδ’ ἄγει φρυκτωρία,</l>
+          <l real="x-o---x-x-o-">μαθόντες ἐχθρῶν μηχανὰς κατασκόπου</l>
+          <l n="130" real="--o-x-o---x-">βουλευσόμεσθα· τήνδ’ ἔχω γνώμην, ἄναξ.</l>
+        </sp>
+        <milestone ed="p" n="131" unit="card"/>
+        <div2 n="1" type="strophe">
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l real="xoo-xooxoo-o-">τάδε δοκεῖ, τάδε μεταθέμενος νόει.</l>
+            <l real="xox-x-x--x-">σφαλερὰ δ’ οὐ φιλῶ στρατηγῶν κράτη.</l>
+            <l real="xxx-o-">τί γὰρ ἄμεινον ἢ</l>
+            <l real="xxx-o-x--o-">ταχυβάταν νεῶν κατόπταν μολεῖν</l>
+            <l n="135" real="oxoxoxxxx-">πέλας ὅ τί ποτ’ ἄρα δαΐοις</l>
+            <l real="xxx-x-x-x--o-">πυρὰ κατ’ ἀντίπρῳρα ναυστάθμων δαίεται;</l>
+            <milestone ed="p" n="137" unit="card"/>
+          </sp>
+        </div2>
+        <div2 type="iambic">
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="x-o---x-x-xo">νικᾶτ’, ἐπειδὴ πᾶσιν ἁνδάνει τάδε.</l>
+            <l real="--o-x-x-x-xo">στείχων δὲ κοίμα συμμάχους· τάχ’ ἂν στρατὸς</l>
+            <l real="x-x---o---xx">κινοῖτ’ ἀκούσας νυκτέρους ἐκκλησίας.</l>
+            <l n="140" real="o-o--oox-x-oo">ἐγὼ δὲ πέμψω πολεμίων κατάσκοπον.</l>
+            <l real="--x---x-x-ox">κἂν μέν τιν’ ἐχθρῶν μηχανὴν πυθώμεθα,</l>
+            <l real="x-x---x---oo">σὺ πάντ’ ἀκούσῃ καὶ παρὼν εἴσῃ λόγον·</l>
+            <l real="o-x---x---o-">ἐὰν δ’ ἀπαίρωσ’ ἐς φυγὴν ὁρμώμενοι,</l>
+            <l real="--o---o-xxo-">σάλπιγγος αὐδὴν προσδοκῶν καραδόκει,</l>
+            <l n="145" real="--o-x-x---o-">ὡς οὐ μενοῦντά μ’· ἀλλὰ προσμείξω νεῶν</l>
+            <l real="--x---o---x-">ὁλκοῖσι νυκτὸς τῆσδ’ ἐπ’ Ἀργείων στρατῷ.</l>
+          </sp>
+          <sp who="#aineias">
+            <speaker>Αἰνείας</speaker>
+            <l real="--x-x-x-x-o-">πέμφ’ ὡς τάχιστα· νῦν γὰρ ἀσφαλῶς φρονεῖς.</l>
+            <l real="--o---o-o-o-">σὺν σοὶ δ’ ἔμ’ ὄψῃ καρτεροῦνθ’, ὅταν δέῃ.</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="--x---x-x-o-">τίς δῆτα Τρώων οἳ πάρεισιν ἐν λόγῳ</l>
+            <l n="150" real="o-x---o---o-">θέλει κατόπτης ναῦς ἐπ’ Ἀργείων μολεῖν;</l>
+            <l real="x-o-o-o---o-">τίς ἂν γένοιτο τῆσδε γῆς εὐεργέτης;</l>
+            <l real="--x---o-x-o-">τίς φησιν; οὔτοι πάντ’ ἐγὼ δυνήσομαι</l>
+            <l real="o-x---x-x-o-">πόλει πατρῴᾳ συμμάχοις θ’ ὑπηρετεῖν.</l>
+          </sp>
+          <sp who="#dolon">
+            <speaker>Δόλων</speaker>
+            <l real="o-o---o-x-o-">ἐγὼ πρὸ γαίας τόνδε κίνδυνον θέλω</l>
+            <l n="155" real="--x---o---o-">ῥίψας κατόπτης ναῦς ἐπ’ Ἀργείων μολεῖν,</l>
+            <l real="--x--xx---xx">καὶ πάντ’ Ἀχαιῶν ἐκμαθὼν βουλεύματα</l>
+            <l real="--ox---x-x-oo">ἥξω· ἐπὶ τούτοις τόνδ’ ὑφίσταμαι πόνον.</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="o-x---x-x-ox">ἐπώνυμος μὲν κάρτα καὶ φιλόπτολις</l>
+            <l real="o-x-o-x-o-oo">Δόλων· πατρὸς δὲ καὶ πρὶν εὐκλεᾶ δόμον</l>
+            <l n="160" real="--o-o-x-o-oo">νῦν δὶς τόσως ἔθηκας εὐκλεέστερον.</l>
+          </sp>
+          <sp who="#dolon">
+            <speaker>Δόλων</speaker>
+            <l real="--o---o-x-xo">οὐκοῦν πονεῖν μὲν χρή, πονοῦντα δ’ ἄξιον</l>
+            <l real="--o---x---oo">μισθὸν φέρεσθαι. παντὶ γὰρ προσκείμενον</l>
+            <l real="--o---x---x-">κέρδος πρὸς ἔργῳ τὴν χάριν τίκτει διπλῆν.</l>
+          </sp>
+          <milestone ed="p" n="164" unit="card"/>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="--x-x-x---o-">ναί, καὶ δίκαια ταῦτα κοὐκ ἄλλως λέγω.</l>
+            <l n="165" real="--o---o-x-xo">τάξαι δὲ μισθόν, πλὴν ἐμῆς τυραννίδος.</l>
+          </sp>
+          <sp who="#dolon">
+            <speaker>Δόλων</speaker>
+            <l real="--o--oxo-x-xo">οὐ σῆς ἐρῶμεν πολιόχου τυραννίδος.</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="x-x--xxx---o-">σὺ δ’ ἀλλὰ γήμας Πριαμιδῶν γαμβρὸς γενοῦ.</l>
+          </sp>
+          <sp who="#dolon">
+            <speaker>Δόλων</speaker>
+            <l real="--o---o-x-o-">οὐδ’ ἐξ ἐμαυτοῦ μειζόνων γαμεῖν θέλω.</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="x-x-x-o---ox">χρυσὸς πάρεστιν, εἰ τόδ’ αἰτήσεις γέρας.</l>
+          </sp>
+          <sp who="#dolon">
+            <speaker>Δόλων</speaker>
+            <l n="170" real="--o---x-x-oo">ἀλλ’ ἔστ’ ἐν οἴκοις· οὐ βίου σπανίζομεν.</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="x-x---o-oxxo">τί δῆτα χρῄζεις ὧν κέκευθεν Ἴλιος;</l>
+          </sp>
+          <sp who="#dolon">
+            <speaker>Δόλων</speaker>
+            <l real="o-x---x-x-oo">ἑλὼν Ἀχαιοὺς δῶρά μοι ξυναίνεσον.</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="--x---x-x-o-">δώσω· σὺ δ’ αἴτει πλὴν στρατηλάτας νεῶν.</l>
+          </sp>
+          <sp who="#dolon">
+            <speaker>Δόλων</speaker>
+            <l real="--x--ooo---ox">κτεῖν’, οὔ σ’ ἀπαιτῶ Μενέλεω σχέσθαι χέρα.</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l n="175" real="--oxo--x---x-">οὐ μὴν τὸν Ἰλέως παῖδά μ’ ἐξαιτῇ λαβεῖν;</l>
+          </sp>
+          <sp who="#dolon">
+            <speaker>Δόλων</speaker>
+            <l real="x-o---o-x-o-">κακαὶ γεωργεῖν χεῖρες εὖ τεθραμμέναι.</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="x-x---x---o-">τίν’ οὖν Ἀχαιῶν ζῶντ’ ἀποινᾶσθαι θέλεις;</l>
+          </sp>
+          <sp who="#dolon">
+            <speaker>Δόλων</speaker>
+            <l real="--o-o-xxo-o-">καὶ πρόσθεν εἶπον· ἔστι χρυσὸς ἐν δόμοις.</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="--xx--o---x-">καὶ μὴν λαφύρων γ’ αὐτὸς αἱρήσῃ παρών.</l>
+          </sp>
+          <sp who="#dolon">
+            <speaker>Δόλων</speaker>
+            <l n="180" real="o-x-x-x-x-o-">θεοῖσιν αὐτὰ πασσάλευε πρὸς δόμοις.</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="x-x---o---ox">τί δῆτα μεῖζον τῶνδέ μ’ αἰτήσεις γέρας;</l>
+          </sp>
+          <sp who="#dolon">
+            <speaker>Δόλων</speaker>
+            <l real="--x---o-x-o-">ἵππους Ἀχιλλέως· χρὴ δ’ ἐπ’ ἀξίοις πονεῖν</l>
+            <l real="x-o---x-x-oo">ψυχὴν προβάλλοντ’ ἐν κύβοισι δαίμονος.</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="--o-x-o---o-">καὶ μὴν ἐρῶντί γ’ ἀντερᾷς ἵππων ἐμοί·</l>
+            <l n="185" real="--x-x-x-oxoo">ἐξ ἀφθίτων γὰρ ἄφθιτοι πεφυκότες</l>
+            <l real="--o-o-x-x-oo">τὸν Πηλέως φέρουσι θούριον γόνον·</l>
+            <l real="x-x---o--xx-">δίδωσι δ’ αὐτοὺς πωλοδαμνήσας ἄναξ</l>
+            <l real="--o---o-x-xo">Πηλεῖ Ποσειδῶν, ὡς λέγουσι, πόντιος.</l>
+            <l real="--ox--o---o-">ἀλλ’ οὔ σ’ ἐπάρας ψεύσομαι· δώσω δέ σοι,</l>
+            <l n="190" real="--o---x-o-oo">κάλλιστον οἴκοις κτῆμ’, Ἀχιλλέως ὄχον.</l>
+          </sp>
+          <sp who="#dolon">
+            <speaker>Δόλων</speaker>
+            <l real="--x---x---x-">αἰνῶ· λαβὼν δ’ ἄν φημι κάλλιστον Φρυγῶν</l>
+            <l real="--o---o---xx">δῶρον δέχεσθαι τῆς ἐμῆς εὐσπλαγχνίας.</l>
+            <l real="o-o--xx-x-x-">σὲ δ’ οὐ φθονεῖν χρή· μυρί’ ἔστιν ἄλλα σοι,</l>
+            <l real="o-x---x---oo">ἐφ’ οἷσι τέρψῃ τῆσδ’ ἀριστεύων χθονός.</l>
+          </sp>
+          <milestone ed="p" n="195" unit="card"/>
+        </div2>
+        <div2 type="antistrophe">
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l n="195" real="oxx-oxxoxo-o-">μέγας ἀγών, μεγάλα δ’ ἐπινοεῖς ἑλεῖν·</l>
+            <l real="xxx-o-x-xo-">μακάριός γε μὴν κυρήσας ἔσῃ.</l>
+            <l real="ooo-o-">πόνος ὅδ’ εὐκλεής·</l>
+            <l real="oxo-x-x--o-">μέγα δὲ κοιράνοισι γαμβρὸν πέλειν.</l>
+            <l real="xooooxo-xx">τὰ θεόθεν ἐπιδέτω Δίκα,</l>
+            <l n="200" real="xox-x-o-x--o-">τὰ δὲ παρ’ ἀνδράσιν τέλειά σοι φαίνεται.</l>
+          </sp>
+        </div2>
+        <div2 type="iambic">
+          <milestone ed="p" n="201" unit="card"/>
+          <sp who="#dolon">
+            <speaker>Δόλων</speaker>
+            <l real="--x---o-o-xo">στείχοιμ’ ἄν· ἐλθὼν &lt;δ’&gt; ἐς δόμους ἐφέστιος</l>
+            <l real="--o---o-x-o-">σκευῇ πρεπόντως σῶμ’ ἐμὸν καθάψομαι,</l>
+            <l real="x-o---o---ox">κἀκεῖθεν ἥσω ναῦς ἐπ’ Ἀργείων πόδα.</l>
+          </sp>
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l real="o-x---x---o-">ἐπεὶ τίν’ ἄλλην ἀντὶ τῆσδ’ ἕξεις στολήν;</l>
+          </sp>
+          <sp who="#dolon">
+            <speaker>Δόλων</speaker>
+            <l n="205" real="o-x---x-o-xx">πρέπουσαν ἔργῳ κλωπικοῖς τε βήμασι.</l>
+          </sp>
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l real="o-x---o-x-x-">σοφοῦ παρ’ ἀνδρὸς χρὴ σοφόν τι μανθάνειν·</l>
+            <l real="--x---o-x-x-">λέξον, τίς ἔσται τοῦδε σώματος σαγή;</l>
+          </sp>
+          <sp who="#dolon">
+            <speaker>Δόλων</speaker>
+            <l real="x-o-x-o-o-ox">λύκειον ἀμφὶ νῶτ’ ἐνάψομαι δορὰν</l>
+            <l real="--x-o-o---x-">καὶ χάσμα θηρὸς ἀμφ’ ἐμῷ θήσω κάρᾳ,</l>
+            <l n="210" real="x-o-x-x-x-ox">βάσιν τε χερσὶ προσθίαν καθαρμόσας</l>
+            <l real="--x--xx-x-o-">καὶ κῶλα κώλοις, τετράπουν μιμήσομαι</l>
+            <l real="x-o--oox-x-oo">λύκου κέλευθον πολεμίοις δυσεύρετον,</l>
+            <l real="x-o---o-x-xx">τάφροις πελάζων καὶ νεῶν προβλήμασιν.</l>
+            <l real="o-o---o---ox">ὅταν δ’ ἔρημον χῶρον ἐμβαίνω ποδί,</l>
+            <l n="215" real="xxo-x-o---oo">δίβαμος εἶμι· τῇδε σύγκειται δόλος.</l>
+          </sp>
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l real="--o---o-o-xx">ἀλλ’ εὖ σ’ ὁ Μαίας παῖς ἐκεῖσε καὶ πάλιν</l>
+            <l real="--o---o---x-">πέμψειεν Ἑρμῆς, ὅς γε φηλητῶν ἄναξ.</l>
+            <l real="o-o-o-x-o-o-">ἔχεις δὲ τοὔργον· εὐτυχεῖν μόνον σε δεῖ.</l>
+          </sp>
+          <sp who="#dolon">
+            <speaker>Δόλων</speaker>
+            <l real="--o-o-x-o-o-">σωθήσομαί γε καὶ κτανὼν Ὀδυσσέως</l>
+            <l n="220" real="--xx--o-o-xo">οἴσω κάρα σοι — σύμβολον δ’ ἔχων σαφὲς</l>
+            <l real="--o-x-o---o-">φήσεις Δόλωνα ναῦς ἐπ’ Ἀργείων μολεῖν — </l>
+            <l real="--xxo--x---ox">ἢ παῖδα Τυδέως· οὐδ’ ἀναιμάκτῳ χερὶ</l>
+            <l real="--o---x-o-ox">ἥξω πρὸς οἴκους πρὶν φάος μολεῖν χθόνα.</l>
+          </sp>
+        </div2>
+      </div1>
+      <milestone ed="p" n="224" unit="card"/>
+      <div1 type="choral">
+        <div2 n="1" type="strophe">
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l real="--o-xxo-xxx">Θυμβραῖε καὶ Δάλιε καὶ Λυκίας</l>
+            <l n="225" real="xo-x--">ναὸν ἐμβατεύων</l>
+            <l real="x-o-xxoxxoo--">Ἄπολλον, ὦ δία κεφαλά, μόλε τοξή‐</l>
+            <l real="-x--xxo">ρης, ἱκοῦ ἐννύχιος</l>
+            <l n="229" real="-o---xoxox--">καὶ γενοῦ σωτήριος ἀνέρι πομπᾶς</l>
+            <l n="230" real="xo---xo-xx-">ἁγεμὼν καὶ ξύλλαβε Δαρδανίδαις,</l>
+            <l real="--xo-oxx">ὦ παγκρατές, ὦ Τροΐας</l>
+            <l real="--x-x-x">τείχη παλαιὰ δείμας.</l>
+            <milestone ed="p" n="233" unit="card"/>
+          </sp>
+        </div2>
+        <div2 n="1" type="antistrophe">
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l real="o-o--xx-xx-">μόλοι δὲ ναυκλήρια, καὶ στρατιᾶς</l>
+            <l real="-x-x-x">Ἑλλάδος διόπτας</l>
+            <l n="235" real="x-o---ox-xox-">ἵκοιτο, καὶ κάμψειε πάλιν θυμέλας οἴ‐</l>
+            <l real="-xoxxxx">κων πατρὸς Ἰλιάδας.</l>
+            <l real="xx---oo-xx--">Φθιάδων δ’ ἵππων ποτ’ ἐπ’ ἄντυγα βαίη,</l>
+            <l real="-o---ox-ox-">δεσπότου πέρσαντος Ἀχαιὸν Ἄρη,</l>
+            <l n="240" real="--xo-xx-">τὰς πόντιος Αἰακίδᾳ</l>
+            <l real="--x-x--">Πηλεῖ δίδωσι δαίμων.</l>
+            <milestone ed="p" n="242" unit="card"/>
+          </sp>
+        </div2>
+        <div2 n="2" type="strophe">
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l n="243" real="o-o--oo-xxoo">ἐπεὶ πρό τ’ οἴκων πρό τε γᾶς ἔτλα μόνος</l>
+            <l real="-xx-xx-xx-">ναύσταθμα βὰς κατιδεῖν· ἄγαμαι</l>
+            <l n="245" real="-xo-xxxx">λήματος· ἦ σπανία &lt;τις&gt;</l>
+            <l real="-xx-ox-">τῶν ἀγαθῶν, ὅταν ᾖ</l>
+            <l real="xxxo-ox-">δυσάλιος ἐν πελάγει</l>
+            <l real="-x--">καὶ σαλεύῃ</l>
+            <l n="250" real="ox-xx-x-x-xo">πόλις. ἔστι Φρυγῶν τις ἔστιν ἄλκιμος·</l>
+            <l real="oxxxoo-">ἔνι δὲ θράσος ἐν αἰχ‐</l>
+            <l real="-oxx-oox">μᾷ· πόθι Μυσῶν ὃς ἐμὰν</l>
+            <l real="-xxxx--">συμμαχίαν ἀτίζει;</l>
+            <milestone ed="p" n="254" unit="card"/>
+          </sp>
+        </div2>
+        <div2 n="2" type="antistrophe">
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l real="x-x--oo-x-x-">τίν’ ἄνδρ’ Ἀχαιῶν ὁ πεδοστιβὴς σφαγεὺς</l>
+            <l n="255" real="-x--xx-xx-">οὐτάσει ἐν κλισίαις, τετράπουν</l>
+            <l real="-oo-ox--">μῖμον ἔχων ἐπιγαίου</l>
+            <l real="-oo-oox">θηρός; ἕλοι Μενέλαν,</l>
+            <l real="x-xx-oxo">κτανὼν δ’ Ἀγαμεμνόνιον</l>
+            <l real="-o--">κρᾶτ’ ἐνέγκοι</l>
+            <l n="260" real="oo-xo-o-o-oo">Ἑλένᾳ κακόγαμβρον ἐς χέρας γόον,</l>
+            <l real="ooxoxoox">ὃς ἐπὶ πόλιν, ὃς ἐπὶ</l>
+            <l real="-ox-xxo-">γᾶν Τροΐαν χιλιόναυν</l>
+            <l real="-xo-x-x">ἤλυθ’ ἔχων στρατείαν.</l>
+          </sp>
+        </div2>
+      </div1>
+      <milestone ed="p" n="264" unit="card"/>
+      <div1 type="episode">
+        <sp who="#angelos_poimen">
+          <speaker>Ἄγγελος Ποιμήν</speaker>
+          <l real="x-----o-x-oo">ἄναξ, τοιούτων δεσπόταισιν ἄγγελος</l>
+          <l n="265" real="--o-o-x-o-x-">εἴην τὸ λοιπὸν οἷά σοι φέρω μαθεῖν.</l>
+        </sp>
+        <sp who="#hektor">
+          <speaker>Ἕκτωρ</speaker>
+          <l real="--x---x---ox">ἦ πόλλ’ ἀγρώταις σκαιὰ πρόσκειται φρενί·</l>
+          <l real="--x---o---o-">καὶ γὰρ σὺ ποίμνας δεσπόταις τευχεσφόροις</l>
+          <l real="--o-x-o-x-o-">ἥκειν ἔοικας ἀγγελῶν ἵν’ οὐ πρέπει.</l>
+          <l real="--x-x-o-o-xo">οὐκ οἶσθα δῶμα τοὐμὸν ἢ θρόνους πατρός,</l>
+          <l n="270" real="--o---x-x-xx">οἷ χρῆν γεγωνεῖν σ’ εὐτυχοῦντα ποίμνια;</l>
+        </sp>
+        <sp who="#angelos">
+          <speaker>Ἄγγελος</speaker>
+          <l real="--o-o-o---o-">σκαιοὶ βοτῆρές ἐσμεν· οὐκ ἄλλως λέγω.</l>
+          <l real="--o---o-x-o-">ἀλλ’ οὐδὲν ἧσσον σοι φέρω κεδνοὺς λόγους.</l>
+        </sp>
+        <sp who="#hektor">
+          <speaker>Ἕκτωρ</speaker>
+          <l real="--o---o---xx">παῦσαι λέγων μοι τὰς προσαυλείους τύχας·</l>
+          <l real="x-o---o---oo">μάχας πρὸ χειρῶν καὶ δόρη βαστάζομεν.</l>
+        </sp>
+        <sp who="#angelos">
+          <speaker>Ἄγγελος</speaker>
+          <l n="275" real="--xx--x-o-xx">τοιαῦτα κἀγὼ σημανῶν ἐλήλυθα·</l>
+          <l real="x-x--xx-x-x-">ἀνὴρ γὰρ ἀλκῆς μυρίας στρατηλατῶν</l>
+          <l real="--x---x-o-o-">στείχει φίλος σοὶ σύμμαχός τε τῇδε γῇ.</l>
+        </sp>
+        <sp who="#hektor">
+          <speaker>Ἕκτωρ</speaker>
+          <l real="--x---o---oo">ποίας πατρῴας γῆς ἐρημώσας πέδον;</l>
+        </sp>
+        <sp who="#angelos">
+          <speaker>Ἄγγελος</speaker>
+          <l real="--x--xo-x-o-">Θρῄκης· πατρὸς δὲ Στρυμόνος κικλήσκεται.</l>
+        </sp>
+        <sp who="#hektor">
+          <speaker>Ἕκτωρ</speaker>
+          <l n="280" real="--x-o-x---ox">Ῥῆσον τιθέντ’ ἔλεξας ἐν Τροίᾳ πόδα;</l>
+        </sp>
+        <sp who="#angelos">
+          <speaker>Ἄγγελος</speaker>
+          <l real="x-o-o-o-o-xx">ἔγνως· λόγου δὲ δὶς τόσου μ’ ἐκούφισας.</l>
+        </sp>
+        <sp who="#hektor">
+          <speaker>Ἕκτωρ</speaker>
+          <l real="--ox--x-o-o-">καὶ πῶς πρὸς Ἴδης ὀργάδας πορεύεται,</l>
+          <l real="--x--oxx-x-x-">πλαγχθεὶς πλατείας πεδιάδος θ’ ἁμαξιτοῦ;</l>
+        </sp>
+        <milestone ed="p" n="284" unit="card"/>
+        <sp who="#angelos">
+          <speaker>Ἄγγελος</speaker>
+          <l real="--xx--x-o-xx">οὐκ οἶδ’ ἀκριβῶς· εἰκάσαι γε μὴν πάρα.</l>
+          <l n="285" real="--x-x-o-x-xo">νυκτὸς γὰρ οὔτι φαῦλον ἐμβαλεῖν στρατόν,</l>
+          <l real="x-x--oxxoox-oo">κλύοντα πλήρη πεδία πολεμίας χερός.</l>
+          <l real="o-x---xx--ox">φόβον δ’ ἀγρώσταις, οἳ κατ’ Ἰδαῖον λέπας</l>
+          <l real="--o---o-x-oo">οἰκοῦμεν αὐτόρριζον ἑστίαν χθονός,</l>
+          <l real="x-xx--o---o-">παρέσχε δρυμὸν νυκτὸς ἔνθηρον μολών.</l>
+          <l n="290" real="--x---x-o-xo">πολλῇ γὰρ ἠχῇ Θρῄκιος ῥέων στρατὸς</l>
+          <l real="--o---x-oxoo">ἔστειχε· θάμβει δ’ ἐκπλαγέντες ἵεμεν</l>
+          <l real="--ox--x---o-">ποίμνας πρὸς ἄκρας, μή τις Ἀργείων μόλῃ</l>
+          <l real="o-x---x---xx">λεηλατήσων καὶ σὰ πορθήσων σταθμά,</l>
+          <l real="--x---x---x-">πρὶν δὴ δῑ ὤτων γῆρυν οὐχ Ἑλληνικὴν</l>
+          <l n="295" real="o-x-x-o---o-">ἐδεξάμεσθα καὶ μετέστημεν φόβου.</l>
+          <l real="--x---o--xo-">στείχων δ’ ἄνακτος προυξερευνητὰς ὁδοῦ</l>
+          <l real="x-o-x-x--xxx">ἀνιστόρησα Θρῃκίοις προσφθέγμασι,</l>
+          <l real="x-x---x-x-oo">Τίς ὁ στρατηγὸς καὶ τίνος κεκλημένος</l>
+          <l real="--o-xxxx-x-xo">στείχει πρὸς ἄστυ Πριαμίδαισι σύμμαχος;</l>
+          <l n="300" real="--x-x-oxo-x-">
+            <milestone ed="P" unit="para"/>
 						καὶ πάντ’ ἀκούσας ὧν ἐφιέμην μαθεῖν,
 					</l>
-					<l real="--o-o-o-o-ox">ἔστην· ὁρῶ δὲ Ῥῆσον ὥστε δαίμονα</l>
-					<l real="--o---x-o-xx">ἑστῶτ’ ἐν ἵπποις Θρῃκίοις τ’ ὀχήμασι.</l>
-					<l real="x-x---o-x-oo">χρυσῆ δὲ πλάστιγξ αὐχένα ζυγηφόρον</l>
-					<l real="--x-oxoo---o-">πώλων ἔκλῃε χιόνος ἐξαυγεστέρων.</l>
-					<l n="305" real="--o--xo---x-">πέλτη δ’ ἐπ’ ὤμων χρυσοκολλήτοις τύποις</l>
-					<l real="o-o---o-x-o-">ἔλαμπε· Γοργὼν δ’ ὡς ἐπ’ αἰγίδος θεᾶς</l>
-					<l real="--o---x-x-oo">χαλκῆ μετώποις ἱππικοῖσι πρόσδετος</l>
-					<l real="--x---x-x-oo">πολλοῖσι σὺν κώδωσιν ἐκτύπει φόβον.</l>
-					<l real="x-x-o-x---o-">στρατοῦ δὲ πλῆθος οὐδ’ ἂν ἐν ψήφου λόγῳ</l>
-					<l n="310" real="--x---xxo-x-">θέσθαι δυναίμην, ὡς ἄπλατον ἦν ἰδεῖν,</l>
-					<l real="--o---x---o-">πολλοὶ μὲν ἱππῆς, πολλὰ πελταστῶν τέλη,</l>
-					<l real="--x---o-o-xo">πολλοὶ δ’ ἀτράκτων τοξόται, πολὺς δ’ ὄχλος</l>
-					<l real="--o---xxo-o-">γυμνὴς ὁμαρτῇ, Θρῃκίαν ἔχων στολήν.</l>
-					<l real="--x---x-x-x-">τοιόσδε Τροίᾳ σύμμαχος πάρεστ’ ἀνήρ,</l>
-					<l n="315" real="o-o---x-x-ox">ὃν οὔτε φεύγων οὔθ’ ὑποσταθεὶς δορὶ</l>
-					<l real="o-o---x-x-o-">ὁ Πηλέως παῖς ἐκφυγεῖν δυνήσεται.</l>
-				</sp>
-				<sp who="#choros">
-					<speaker>Χορός</speaker>
-					<l real="o-ox--x-x-oo">ὅταν πολίταις εὐσταθῶσι δαίμονες,</l>
-					<l real="--x---ox-xxx">ἕρπει κατάντης ξυμφορὰ πρὸς τἀγαθά.</l>
-				</sp>
-				<milestone ed="p" n="319" unit="card"/>
-				<sp who="#hektor">
-					<speaker>Ἕκτωρ</speaker>
-					<l real="--o---o-x-ox">πολλούς, ἐπειδὴ τοὐμὸν εὐτυχεῖ δόρυ</l>
-					<l n="320" real="--o---x---x-">καὶ Ζεὺς πρὸς ἡμῶν ἐστιν, εὑρήσω φίλους.</l>
-					<l real="--o--ooo-x-x-">ἀλλ’ οὐδὲν αὐτῶν δεόμεθ’, οἵτινες πάλαι</l>
-					<l real="--o-x-x---x-">μὴ ξυμπονοῦσιν, ἡνίκ’ ἐξώστης Ἄρης</l>
-					<l real="x-o---o-o-o-">ἔθραυε λαίφη τῆσδε γῆς μέγας πνέων.</l>
-					<l real="--o-o-o---xo">Ῥῆσος δ’ ἔδειξεν οἷος ἦν Τροίᾳ φίλος·</l>
-					<l n="325" real="--x---x-x-o-">ἥκει γὰρ ἐς δαῖτ’, οὐ παρὼν κυνηγέταις</l>
-					<l real="--x-x-o-x-ox">αἱροῦσι λείαν οὐδὲ συγκαμὼν δορί.</l>
-				</sp>
-				<sp who="#choros">
-					<speaker>Χορός</speaker>
-					<l real="--x--xx-o-x-">ὀρθῶς ἀτίζεις κἀπίμομφος εἶ φίλοις·</l>
-					<l real="o-o-o-x-o-ox">δέχου δὲ τοὺς θέλοντας ὠφελεῖν πόλιν.</l>
-				</sp>
-				<sp who="#hektor">
-					<speaker>Ἕκτωρ</speaker>
-					<l real="--o---oxx-x-">ἀρκοῦμεν οἱ σῴζοντες Ἴλιον πάλαι.</l>
-				</sp>
-				<sp who="#choros">
-					<speaker>Χορός</speaker>
-					<l n="330" real="o-x--oox---o-">πέποιθας ἤδη πολεμίους ᾑρηκέναι;</l>
-				</sp>
-				<sp who="#hektor">
-					<speaker>Ἕκτωρ</speaker>
-					<l real="o-x---x-o-o-">πέποιθα· δείξει τοὐπιὸν σέλας θεοῦ.</l>
-				</sp>
-				<sp who="#choros">
-					<speaker>Χορός</speaker>
-					<l real="oxo---x-o-oo">ὅρα τὸ μέλλον· πόλλ’ ἀναστρέφει θεός.</l>
-				</sp>
-				<sp who="#hektor">
-					<speaker>Ἕκτωρ</speaker>
-					<l real="x-x-x-o-o-o-">μισῶ φίλοισιν ὕστερον βοηδρομεῖν.</l>
-					<l n="336" real="o-o-o-o-x-o-">ὃ δ’ οὖν, ἐπείπερ ἦλθε, σύμμαχος μὲν οὔ,</l>
-					<l real="o-x-x-x-o-o-">ξένος δὲ πρὸς τράπεζαν ἡκέτω ξένων·</l>
-					<l real="x-x--xxx-x-oo">χάρις γὰρ αὐτῷ Πριαμιδῶν διώλετο.</l>
-				</sp>
-				<sp who="#choros">
-					<speaker>Χορός</speaker>
-					<l n="334" real="x-x---x-o-oo">ἄναξ, ἀπωθεῖν συμμάχους ἐπίφθονον.</l>
-				</sp>
-				<sp who="#angelos">
-					<speaker>Ἄγγελος</speaker>
-					<l n="335" real="o-o--oox---oo">φόβος γένοιτ’ ἂν πολεμίοις ὀφθεὶς μόνον.</l>
-				</sp>
-				<sp who="#hektor">
-					<speaker>Ἕκτωρ</speaker>
-					<l n="339" real="x-x---x-x-o-">σύ τ’ εὖ παραινεῖς καὶ σὺ καιρίως σκοπεῖς.</l>
-					<l n="340" real="xxo---o-o-o-">ὁ χρυσοτευχὴς δ’ οὕνεκ’ ἀγγέλου λόγων</l>
-					<l real="--x---o-x-ox">Ῥῆσος παρέστω τῇδε σύμμαχος χθονί.</l>
-				</sp>
-			</div1>
-			<milestone ed="p" n="342" unit="card"/>
-			<div1 type="choral">
-				<div2 n="1" type="strophe">
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l real="x--xoxxo">Ἀδράστεια μὲν ἁ Διὸς</l>
-						<l real="---ox-oo">παῖς εἴργοι στομάτων φθόνον·</l>
-						<l real="x---o--x-">φράσω γὰρ δὴ ὅσον μοι ψυχᾷ</l>
-						<l n="345" real="-xo-x--">προσφιλές ἐστιν εἰπεῖν.</l>
-						<l real="---ox--">ἥκεις, ὦ ποταμοῦ παῖ,</l>
-						<l real="--xx-xx-o-x">ἥκεις, ἐπλάθης Φιλίου πρὸς αὐλὰν</l>
-						<l real="--oo-xo-">ἀσπαστός, ἐπεί σε χρόνῳ</l>
-						<l real="xo-x-oo-xox">Πιερὶς μάτηρ ὅ τε καλλιγέφυ‐</l>
-						<l n="350" real="-ox-o--">ρος ποταμὸς πορεύει</l>
-						<milestone ed="p" n="351" unit="card"/>
-					</sp>
-				</div2>
-				<div2 n="1" type="antistrophe">
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l real="x--oo-o-">Στρυμών, ὅς ποτε τᾶς μελῳ‐</l>
-						<l real="---xx-x-">δοῦ Μούσας δῑ ἀκηράτων</l>
-						<l real="x--xo----">δινηθεὶς ὑδροειδὴς κόλπων</l>
-						<l real="xox-o-x">σὰν ἐφύτευσεν ἥβαν.</l>
-						<l n="355" real="x--ox-o">σύ μοι Ζεὺς ὁ φαναῖος</l>
-						<l real="--x--xx-x--">ἥκεις διφρεύων βαλιαῖσι πώλοις.</l>
-						<l real="--xx-xxx">νῦν, ὦ πατρὶς ὦ Φρυγία,</l>
-						<l real="-o---oo-oxo">ξὺν θεῷ νῦν σοι τὸν ἐλευθέριον</l>
-						<l real="-xx-x--">Ζῆνα πάρεστιν εἰπεῖν.</l>
-						<milestone ed="p" n="360" unit="card"/>
-					</sp>
-				</div2>
-				<div2 n="2" type="strophe">
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l n="360" real="-xo-xxx-xoxx">ἆρά ποτ’ αὖθις ἁ παλαιὰ Τροΐα</l>
-						<l real="-oo-xxo-">τοὺς προπότας παναμερεύ‐</l>
-						<l real="-xx-o--">σει θιάσους ἐρώτων</l>
-						<l real="--x-xx--xx-">ψαλμοῖσι καὶ κυλίκων οἰνοπλανή‐</l>
-						<l real="-xo-x-xx">τοις ὑποδεξίαις ἁμίλ‐</l>
-						<l n="365" real="-xx-ox--">λαις κατὰ πόντον Ἀτρειδᾶν</l>
-						<l real="-x-oo-">Σπάρταν οἰχομένων</l>
-						<l real="xxx-x--">Ἰλιάδος παρ’ ἀκτᾶς;</l>
-						<l real="-xo-o-">ὦ φίλος, εἴθε μοι</l>
-						<l real="-ox--oxx">σᾷ χερὶ καὶ σῷ δορὶ πρά‐</l>
-						<l n="369b" real="-xo-o--">ξας τάδ’ ἐς οἶκον ἔλθοις.</l>
-						<milestone ed="p" n="370" unit="card"/>
-					</sp>
-				</div2>
-				<div2 n="2" type="antistrophe">
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l n="370" real="-ox-x-xx-ox-">ἐλθέ, φάνηθι, τὰν ζάχρυσον προβαλοῦ</l>
-						<l real="-oxxx-xo">Πηλεΐδα κατ’ ὄμμα πέλ‐</l>
-						<l real="-xx-o--">ταν δοχμίαν πεδαίρων</l>
-						<l real="--x-xx--oox">σχιστὰν παρ’ ἄντυγα, πώλους ἐρεθί‐</l>
-						<l real="-xo-x-xx">ζων δίβολόν τ’ ἄκοντα πάλ‐</l>
-						<l n="375" real="-ox-xx-x">λων. σὲ γὰρ οὔτις ὑποστὰς</l>
-						<l real="---oo-">Ἀργείας ποτ’ ἐν Ἥ‐</l>
-						<l real="-xo-o--">ρας δαπέδοις χορεύσει·</l>
-						<l n="377b" real="-xxxo-">ἀλλά νιν ἅδε γᾶ</l>
-						<l real="-xo--xo-">καπφθίμενον Θρῃκὶ μόρῳ</l>
-						<l n="378b" real="-xo-o--">φίλτατον ἄχθος οἴσει.</l>
-					</sp>
-				</div2>
-			</div1>
-			<milestone ed="p" n="379" unit="card"/>
-			<div1 type="episode">
-				<div2 type="anapests">
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l real="x-x-ox-xx-">ἰὼ ἰώ, μέγας ὦ βασιλεῦ.</l>
-						<l n="380" real="xo---">καλόν, ὦ Θρῄκη,</l>
-						<l real="-ox--ox-ox-">σκύμνον ἔθρεψας πολίαρχον ἰδεῖν.</l>
-						<l real="xxxoo--xo--">ἴδε χρυσόδετον σώματος ἀλκήν,</l>
-						<l real="xo-----xo-">κλύε καὶ κόμπους κωδωνοκρότους</l>
-						<l real="xx-x-ox-x">παρὰ πορπάκων κελαδοῦντας.</l>
-						<l n="385" real="oo--xoo-ox-">θεός, ὦ Τροία, θεός, αὐτὸς Ἄρης</l>
-						<l real="-xox--ox--">ὁ Στρυμόνιος πῶλος ἀοιδοῦ</l>
-						<l real="----xx-o">Μούσης ἥκων καταπνεῖ σε.</l>
-					</sp>
-					<milestone ed="p" n="388" unit="card"/>
-				</div2>
-				<div2 type="iambics">
-					<sp who="#resos">
-						<speaker>Ῥῆσος</speaker>
-						<l real="--o---x-o-o-">χαῖρ’, ἐσθλὸς ἐσθλοῦ παῖς, τύραννε τῆσδε γῆς,</l>
-						<l real="--x---o-o-o-">Ἕκτορ· παλαιᾷ σ’ ἡμέρᾳ προσεννέπω.</l>
-						<l n="390" real="--o-x-x-o-oo">χαίρω δέ σ’ εὐτυχοῦντα καὶ προσήμενον</l>
-						<l real="--x---x---o-">πύργοισιν ἐχθρῶν· συγκατασκάψων δ’ ἐγὼ</l>
-						<l real="--x-x-o---x-">τείχη πάρειμι καὶ νεῶν πρήσων σκάφη.</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="--o---o---x-">παῖ τῆς μελῳδοῦ μητέρος Μουσῶν μιᾶς</l>
-						<l real="--oox-xo-x-o-">Θρῃκός τε ποταμοῦ Στρυμόνος, φιλῶ λέγειν</l>
-						<l n="395" real="x-o---x-oxx-">τἀληθὲς αἰεὶ κοὐ διπλοῦς πέφυκ’ ἀνήρ.</l>
-						<l real="x-x---o---ox">πάλαι πάλαι χρῆν τῇδε συγκάμνειν χθονὶ</l>
-						<l real="--x---x---xo">ἐλθόντα, καὶ μὴ τοὐπί σ’ Ἀργείων ὕπο</l>
-						<l real="-xo--oox-o-ox">Τροίαν ἐᾶσαι πολεμίῳ πεσεῖν δορί.</l>
-						<l real="--x---x-o-x-">οὐ γάρ τι λέξεις ὡς ἄκλητος ὢν φίλοις</l>
-						<l n="400" real="--o--xx-o-x-">οὐκ ἦλθες οὐδ’ ἤμυνας οὐδ’ ἐπεστράφης.</l>
-						<l real="--o---o-xxx-">τίς γάρ σε κῆρυξ ἢ γερουσία Φρυγῶν</l>
-						<l real="--xx--o---o-">ἐλθοῦσ’ ἀμύνειν οὐκ ἐπέσκηψεν πόλει;</l>
-						<l real="--o---o-o-xo">ποῖον δὲ δώρων κόσμον οὐκ ἐπέμψαμεν;</l>
-						<l real="x-o---x-o-x-">σὺ δ’ ἐγγενὴς ὢν βάρβαρός τε βαρβάρους</l>
-						<l n="405" real="--x---x-o-oo">Ἕλλησιν ἡμᾶς προύπιες τὸ σὸν μέρος.</l>
-						<l real="--ox--x-x-ox">καίτοι σε μικρᾶς ἐκ τυραννίδος μέγαν</l>
-						<l real="--x-x-o-o-ox">Θρῃκῶν ἄνακτα τῇδ’ ἔθηκ’ ἐγὼ χερί,</l>
-						<l real="o-x---o-o-o-">ὅτ’ ἀμφὶ Πάγγαιόν τε Παιόνων τε γῆν</l>
-						<l real="--x---o-x-ox">Θρῃκῶν ἀρίστοις ἐμπεσὼν κατὰ στόμα</l>
-						<l n="410" real="--x---o---o-">ἔρρηξα πέλτην, σοὶ δὲ δουλώσας λεὼν</l>
-						<l real="x-o-x-x---xx">παρέσχον· ὧν σὺ λακτίσας πολλὴν χάριν,</l>
-						<l real="x-o---o-o-o-">φίλων νοσούντων ὕστερος βοηδρομεῖς.</l>
-						<l real="--o---o-oxoo">οἱ δ’ οὐδὲν ἡμῖν ἐν γένει πεφυκότες,</l>
-						<l real="x-x-o-o---x-">πάλαι παρόντες, οἳ μὲν ἐν χωστοῖς τάφοις</l>
-						<l n="415" real="--o---x-xxo-">κεῖνται πεσόντες, πίστις οὐ σμικρὰ πόλει,</l>
-						<l real="--x-x-x---o-">οἳ δ’ ἔν θ’ ὅπλοισι καὶ παρ’ ἱππείοις ὄχοις</l>
-						<l real="xxx---x-o-o-">ψυχρὰν ἄησιν δίψιόν τε πῦρ θεοῦ</l>
-						<l real="o-x-o-o---x-">μένουσι καρτεροῦντες, οὐκ ἐν δεμνίοις</l>
-						<l real="x-x-x-x-x-o-">πυκνὴν ἄμυστιν ὡς σὺ δεξιούμενοι.</l>
-						<l n="420" real="--x---o-o-oo">ταῦθ’, ὡς ἂν εἰδῇς Ἕκτορ’ ὄντ’ ἐλεύθερον,</l>
-						<l real="--o---o-x-xo">καὶ μέμφομαί σοι καὶ λέγω κατ’ ὄμμα σόν.</l>
-					</sp>
-					<milestone ed="p" n="422" unit="card"/>
-					<sp who="#resos">
-						<speaker>Ῥῆσος</speaker>
-						<l real="--o-x-o---o-">τοιοῦτός εἰμι καὐτός, εὐθεῖαν λόγων</l>
-						<l real="--o---x-oxx-">τέμνων κέλευθον, κοὐ διπλοῦς πέφυκ’ ἀνήρ.</l>
-						<l real="o-o-o-x-x-oo">ἐγὼ δὲ μεῖζον ἢ σὺ τῆσδ’ ἀπὼν χθονὸς</l>
-						<l n="425" real="x-o---o-o-o-">λύπῃ πρὸς ἧπαρ δυσφορῶν ἐτειρόμην·</l>
-						<l real="--x---x-x-o-">ἀλλ’ ἀγχιτέρμων γαῖά μοι, Σκύθης λεώς,</l>
-						<l real="--x---oxx-o-">μέλλοντι νόστον τὸν πρὸς Ἴλιον περᾶν</l>
-						<l real="x-oooo-o-xxo-">ξυνῆψε πόλεμον· Εὐξένου δ’ ἀφικόμην</l>
-						<l real="--o---x---xo">πόντου πρὸς ἀκτάς, Θρῇκα πορθμεύσων στρατόν.</l>
-						<l n="430" real="--x--oxo---x-">ἔνθ’ αἱματηρὸς πέλανος ἐς γαῖαν Σκύθης</l>
-						<l real="--o---o-x-oo">ἠντλεῖτο λόγχῃ Θρῄξ τε συμμιγὴς φόνος.</l>
-						<l real="-xo-x-o-oxoo">τοιάδε τοί μ’ ἀπεῖργε συμφορὰ πέδον</l>
-						<l real="-xx---x-o-o-">Τροίας ἱκέσθαι σύμμαχόν τέ σοι μολεῖν.</l>
-						<l real="o-o-x-o---xx">ἐπεὶ δ’ ἔπερσα, τῶνδ’ ὁμηρεύσας τέκνα</l>
-						<l n="435" real="--o---o-o-o-">τάξας &lt;τ’&gt; ἔτειον δασμὸν ἐς δόμους φέρειν,</l>
-						<l real="--ox--x-x-ox">ἥκω περάσας ναυσὶ πόντιον στόμα,</l>
-						<l real="x-x---o-o-xx">τὰ δ’ ἄλλα πεζὸς γῆς περῶν ὁρίσματα — </l>
-						<l real="--x--xoxx-xx">οὐχ ὡς σὺ κομπεῖς τὰς ἐμὰς ἀμύστιδας,</l>
-						<l real="--xx--x---oo">οὐδ’ ἐν ζαχρύσοις δώμασιν κοιμώμενος,</l>
-						<l n="440" real="--x---x-x-xx">ἀλλ’ οἷα πόντον Θρῄκιον φυσήματα</l>
-						<l real="--o-x-o-o-x-">κρυσταλλόπηκτα Παιόνας τ’ ἐπεζάρει,</l>
-						<l real="--xxo-x--xxx">ξὺν τοῖσδ’ ἄυπνος οἶδα τλὰς πορπάμασιν.</l>
-						<l real="--o-o-o---o-">ἀλλ’ ὕστερος μὲν ἦλθον, ἐν καιρῷ δ’ ὅμως·</l>
-						<l real="x-x--oxo---oo">σὺ μὲν γὰρ ἤδη δέκατον αἰχμάζεις ἔτος</l>
-						<l n="445" real="--o---o---ox">κοὐδὲν περαίνεις, ἡμέραν δ’ ἐξ ἡμέρας</l>
-						<l real="--x---o---x-">πίπτεις κυβεύων τὸν πρὸς Ἀργείους Ἄρη·</l>
-						<l real="o-o-o-x-x-o-">ἐμοὶ δὲ φῶς ἓν ἡλίου καταρκέσει</l>
-						<l real="--x---x-o-o-">πέρσαντι πύργους ναυστάθμοις ἐπεσπεσεῖν</l>
-						<l real="--x--xo-xxx-">κτεῖναί τ’ Ἀχαιούς· θατέρᾳ δ’ ἀπ’ Ἰλίου</l>
-						<l n="450" real="o-o-x-o---o-">πρὸς οἶκον εἶμι, συντεμὼν τοὺς σοὺς πόνους,</l>
-						<l real="x-o-x-xx--ox">ὑμῶν δὲ μή τις ἀσπίδ’ ἄρηται χερί·</l>
-						<l real="o-x---o---ox">ἐγὼ γὰρ ἕξω τοὺς μέγ’ αὐχοῦντας δορὶ</l>
-						<l real="-xx---o-o-o-">πέρσας Ἀχαιούς, καίπερ ὕστερος μολών.</l>
-					</sp>
-					<milestone ed="p" n="454" unit="card"/>
-				</div2>
-				<div2 n="1" type="strophe">
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l real="x-x-">ἰὼ ἰώ.</l>
-						<l n="455" real="xxo-x-xoo-oo">φίλα θροεῖς, φίλος Διόθεν εἶ· μόνον</l>
-						<l real="ooxxoxxo">φθόνον ἄμαχον ὕπατος</l>
-						<l real="-o--x-o-x--">Ζεὺς θέλοι ἀμφὶ σοῖς λόγοισιν εἴργειν.</l>
-						<l n="459" real="ooxxo-o-ox">τὸ δὲ νάιον Ἀργόθεν δόρυ</l>
-						<l n="460" real="-x-x-o-">οὔτε πρίν τιν’ οὔτε νῦν</l>
-						<l real="--oo-oo-----">ἀνδρῶν ἐπόρευσε σέθεν κρείσσω. πῶς μοι</l>
-						<l real="xx-oo-o-x-o">Ἀχιλεὺς τὸ σὸν ἔγχος ἂν δύναιτο,</l>
-						<l real="--xxo--">πῶς δ’ Αἴας ὑπομεῖναι;</l>
-						<l real="-xo-o-x-x-x-">εἰ γὰρ ἐγὼ τόδ’ ἦμαρ εἰσίδοιμ’, ἄναξ,</l>
-						<l n="465" real="o-oxo-">ὅτῳ πολυφόνου</l>
-						<l real="-ox-x-o--">χειρὸς † ἀποινάσαιο † λόγχᾳ.</l>
-					</sp>
-				</div2>
-				<div2 type="iambic">
-					<milestone ed="p" n="467" unit="card"/>
-					<sp who="#resos">
-						<speaker>Ῥῆσος</speaker>
-						<l real="--x---x-x-xx">τοιαῦτα μέν σοι τῆς μακρᾶς ἀπουσίας</l>
-						<l real="--x---x---o-">πρᾶξαι παρέξω — σὺν δ’ Ἀδραστείᾳ λέγω — </l>
-						<l real="o-x---o-o-ox">ἐπειδἂν ἐχθρῶν τήνδ’ ἐλευθέραν πόλιν</l>
-						<l n="470" real="--o-xxoxx-o-">θῶμεν θεοῖσί τ’ ἀκροθίνῑ ἐξέλῃς,</l>
-						<l real="--x---o---o-">ξὺν σοὶ στρατεύειν γῆν ἐπ’ Ἀργείων θέλω</l>
-						<l real="--x---x---ox">καὶ πᾶσαν ἐλθὼν Ἑλλάδ’ ἐκπέρσαι δορί,</l>
-						<l real="--x-x-o---x-">ὡς ἂν μάθωσιν ἐν μέρει πάσχειν κακῶς.</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="--x---x---x-">εἰ τοῦ παρόντος τοῦδ’ ἀπαλλαχθεὶς κακοῦ</l>
-						<l n="475" real="o-o---x-o-x-">πόλιν νεμοίμην ὡς τὸ πρίν ποτ’ ἀσφαλῆ,</l>
-						<l real="--x--o-x---xx">ἦ κάρτα πολλὴν θεοῖς ἂν εἰδείην χάριν.</l>
-						<l real="x-x---o-o-xo">τὰ δ’ ἀμφί τ’ Ἄργος καὶ νομὸν τὸν Ἑλλάδος</l>
-						<l real="--o---x-o-ox">οὐχ ὧδε πορθεῖν ῥᾴδῑ, ὡς λέγεις, δορί.</l>
-					</sp>
-					<sp who="#resos">
-						<speaker>Ῥῆσος</speaker>
-						<l real="--x-o-xx---o-">οὐ τούσδ’ ἀριστέας φασὶν Ἑλλήνων μολεῖν;</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l n="480" real="--o-x-x-o-oo">κοὐ μεμφόμεσθά γ’, ἀλλ’ ἄδην ἐλαύνομεν.</l>
-					</sp>
-					<sp who="#resos">
-						<speaker>Ῥῆσος</speaker>
-						<l real="--x---o---ox">οὐκ οὖν κτανόντες τούσδε πᾶν εἰργάσμεθα;</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="--x---x-o-o-">μή νυν τὰ πόρρω τἀγγύθεν μεθεὶς σκόπει.</l>
-					</sp>
-					<sp who="#resos">
-						<speaker>Ῥῆσος</speaker>
-						<l real="--o-o-x---o-">ἀρκεῖν ἔοικέ σοι παθεῖν, δρᾶσαι δὲ μή.</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="--x---x-x-xo">πολλῆς γὰρ ἄρχω κἀνθάδ’ ὢν τυραννίδος.</l>
-						<l n="485" real="--o-o-o-x-ox">ἀλλ’ εἴτε λαιὸν εἴτε δεξιὸν κέρας</l>
-						<l real="--o-x-x-x-x-">εἴτ’ ἐν μέσοισι συμμάχοις πάρεστί σοι</l>
-						<l real="--o---x---xo">πέλτην ἐρεῖσαι καὶ καταστῆσαι στρατόν.</l>
-					</sp>
-					<milestone ed="p" n="488" unit="card"/>
-					<sp who="#resos">
-						<speaker>Ῥῆσος</speaker>
-						<l real="o-x--oox---o-">μόνος μάχεσθαι πολεμίοις, Ἕκτορ, θέλω.</l>
-						<l real="--o---x---o-">εἰ δ’ αἰσχρὸν ἡγῇ μὴ συνεμπρῆσαι νεῶν</l>
-						<l n="490" real="--o---x-o-oo">πρύμνας, πονήσας τὸν πάρος πολὺν χρόνον,</l>
-						<l real="--x---x-x-ox">τάξον μ’ Ἀχιλλέως καὶ στρατοῦ κατὰ στόμα.</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="--o---o---ox">οὐκ ἔστ’ ἐκείνῳ θοῦρον ἐντάξαι δόρυ.</l>
-					</sp>
-					<sp who="#resos">
-						<speaker>Ῥῆσος</speaker>
-						<l real="--o---x-oxxo">καὶ μὴν λόγος γ’ ἦν ὡς ἔπλευσ’ ἐπ’ Ἴλιον.</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="x-o-x-x-x-x-">ἔπλευσε καὶ πάρεστιν· ἀλλὰ μηνίων</l>
-						<l n="495" real="x-x-x-x-o-ox">στρατηλάταισιν οὐ συναίρεται δόρυ.</l>
-					</sp>
-					<sp who="#resos">
-						<speaker>Ῥῆσος</speaker>
-						<l real="--o-o-o---x-">τίς δὴ μετ’ αὐτὸν ἄλλος εὐδοξεῖ στρατοῦ;</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="-xo-o-o---o-">Αἴας ἐμοὶ μὲν οὐδὲν ἡσσᾶσθαι δοκεῖ</l>
-						<l real="-xo---x-x-xo">χὡ Τυδέως παῖς· ἔστι δ’ αἱμυλώτατον</l>
-						<l real="o-o---x---xx">κρότημ’ Ὀδυσσεύς, λῆμά τ’ ἀρκούντως θρασὺς</l>
-						<l n="500" real="--x---x-xxxx">καὶ πλεῖστα χώραν τήνδ’ ἀνὴρ καθυβρίσας·</l>
-						<l real="o-xx--o-x-o-">ὃς εἰς Ἀθάνας σηκὸν ἔννυχος μολὼν</l>
-						<l real="-xx-x-o---o-">κλέψας ἄγαλμα ναῦς ἐπ’ Ἀργείων φέρει.</l>
-						<l real="--x---x-o-o-">ἤδη δ’ ἀγύρτης πτωχικὴν ἔχων στολὴν</l>
-						<l real="o-o---x---xx">ἐσῆλθε πύργους, πολλὰ δ’ Ἀργείοις κακὰ</l>
-						<l n="505" real="--o--xx-x-oo">ἠρᾶτο, πεμφθεὶς Ἰλίου κατάσκοπος·</l>
-						<l real="x-x---x-x-x-">κτανὼν δὲ φρουροὺς καὶ παραστάτας πυλῶν</l>
-						<l real="--o---o---o-">ἐξῆλθεν· αἰεὶ δ’ ἐν λόχοις εὑρίσκεται</l>
-						<l real="--o-x-o-o-ox">Θυμβραῖον ἀμφὶ βωμὸν ἄστεως πέλας</l>
-						<l real="--x-o-o-x-oo">θάσσων· κακῷ δὲ μερμέρῳ παλαίομεν.</l>
-					</sp>
-					<sp who="#resos">
-						<speaker>Ῥῆσος</speaker>
-						<l n="510" real="--x--xo-x-x-">οὐδεὶς ἀνὴρ εὔψυχος ἀξιοῖ λάθρᾳ</l>
-						<l real="--o-o-x-x-ox">κτεῖναι τὸν ἐχθρόν, ἀλλ’ ἰὼν κατὰ στόμα.</l>
-						<l real="--o---x-xxxx">τοῦτον δ’ ὃν ἵζειν φὴς σὺ κλωπικὰς ἕδρας</l>
-						<l real="--x---x-x-o-">καὶ μηχανᾶσθαι, ζῶντα συλλαβὼν ἐγὼ</l>
-						<l real="x-o-o-x---xx">πυλῶν ἐπ’ ἐξόδοισιν ἀμπείρας ῥάχιν</l>
-						<l n="515" real="--o---x-x-xo">στήσω πετεινοῖς γυψὶ θοινατήριον.</l>
-						<l real="--x-x-o-x-ox">λῃστὴν γὰρ ὄντα καὶ θεῶν ἀνάκτορα</l>
-						<l real="x-x---o-x-o-">συλῶντα δεῖ νιν τῷδε κατθανεῖν μόρῳ.</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="--x---o-x-o-">νῦν μὲν καταυλίσθητε· καὶ γὰρ εὐφρόνη.</l>
-						<l real="--o---o-x-xo">δείξω δ’ ἐγώ σοι χῶρον, ἔνθα χρὴ στρατὸν</l>
-						<l n="520" real="--x---oxo-xx">τὸν σὸν νυχεῦσαι τοῦ τεταγμένου δίχα.</l>
-						<l real="--x---o-x-o-">ξύνθημα δ’ ἡμῖν Φοῖβος, ἤν τι καὶ δέῃ·</l>
-						<l real="--x---x---x-">μέμνησ’ ἀκούσας, Θρῃκί τ’ ἄγγειλον στρατῷ.</l>
-						<l real="x-o---o-x-o-">ὑμᾶς δὲ βάντας χρὴ προταινὶ τάξεων</l>
-						<l real="--o-x-o-x-oo">φρουρεῖν ἐγερτὶ καὶ νεῶν κατάσκοπον</l>
-						<l n="525" real="--o-x-x-o-x-">δέχθαι Δόλωνα· καὶ γάρ, εἴπερ ἐστὶ σῶς,</l>
-						<l real="--o--xoo-x-x-">ἤδη πελάζει στρατοπέδοισι Τρωικοῖς.</l>
-					</sp>
-				</div2>
-			</div1>
-			<milestone ed="p" n="527" unit="card"/>
-			<div1 type="choral">
-				<div2 n="1" type="strophe">
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l real="xoxxxxxx--">τίνος ἁ φυλακά; τίς ἀμείβει</l>
-						<l real="xo--x">τὰν ἐμάν; πρῶτα</l>
-						<l real="xo---x--xo-">δύεται σημεῖα καὶ ἑπτάποροι</l>
-						<l n="530" real="-xo-ox-ox-oo-x-o--">Πλειάδες αἰθέριαι· μέσα δ’ αἰετὸς οὐρανοῦ ποτᾶται.</l>
-						<l n="532" real="x-ox-oo--"> — ἔγρεσθε, τί μέλλετε; κοιτᾶν</l>
-						<l real="x-x-xxx">ἔγρεσθε πρὸς φυλακάν.</l>
-						<l real="--oo-xo-x">οὐ λεύσσετε μηνάδος αἴγλαν;</l>
-						<l n="535" real="x--oxx-"> — ἀὼς δὴ πέλας, ἀὼς</l>
-						<l real="xo---xo-">γίγνεται, καί τις προδρόμων</l>
-						<l real="oo-x--">ὅδε γ’ ἐστὶν ἀστήρ.</l>
-						<l real="xo-----xx-"> — τίς ἐκηρύχθη πρώτην φυλακήν;</l>
-						<l real="-oo--xxo-o"> — Μυγδόνος υἱόν φασι Κόροιβον.</l>
-						<l n="540" real="-xo--"> — τίς γὰρ ἐπ’ αὐτῷ;</l>
-						<l part="Y" real="xx---"> — Κίλικας Παίων</l>
-						<l real="xo---x---">στρατὸς ἤγειρεν, Μυσοὶ δ’ ἡμᾶς.</l>
-						<l n="543" real="--xx---xx-"> — οὐκ οὖν Λυκίους πέμπτην φυλακὴν</l>
-						<l real="-xo--">βάντας ἐγείρειν</l>
-						<l n="545" real="----xx-x">καιρὸς κλήρου κατὰ μοῖραν;</l>
-						<milestone ed="p" n="546" unit="card"/>
-					</sp>
-				</div2>
-				<div2 n="1" type="antistrophe">
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l n="547" real="--xx-xo-o">καὶ μὴν ἀΐω· Σιμόεντος</l>
-						<l real="-ox-x">ἡμένα κοίτας</l>
-						<l real="-xx--ox-ox-">φοινίας ὑμνεῖ πολυχορδοτάτᾳ</l>
-						<l n="550" real="-xx-oo-oo-ox-o-o-x">γήρυϊ παιδολέτωρ μελοποιὸν ἀηδονὶς μέριμναν.</l>
-						<l real="--oo-xxxx"> — ἤδη δὲ νέμουσι κατ’ Ἴδαν</l>
-						<l real="-xx-xo-">ποίμνια· νυκτιβρόμου</l>
-						<l real="x-ox-xx--">σύριγγος ἰὰν κατακούω.</l>
-						<l real="---xoxx"> — θέλγει δ’ ὄμματος ἕδραν</l>
-						<l n="555" real="xox--xox">ὕπνος· ἅδιστος γὰρ ἔβα</l>
-						<l real="ox-ox-">βλεφάροις πρὸς ἀοῦς.</l>
-						<l real="xo-x-oo-x-"> — τί ποτ’ οὐ πλάθει σκοπός, ὃν ναῶν</l>
-						<l real="---xox-x">Ἕκτωρ ὤτρυνε κατόπταν;</l>
-						<l real="--ox-xx-x"> — ταρβῶ· χρόνιος γὰρ ἄπεστιν.</l>
-						<l n="560" real="----oo--x"> — ἀλλ’ ἦ κρυπτὸν λόχον ἐσπαίσας</l>
-						<l real="xo-o">διόλωλε;</l>
-						<l part="Y" real="x-oo--"> — τάχ’ ἄν. φοβερόν μοι.</l>
-						<l real="--xx---xx-"> — αὐδῶ Λυκίους πέμπτην φυλακὴν</l>
-						<l real="-xo--">βάντας ἐγείρειν</l>
-						<l real="----xx-x">ἡμᾶς κλήρου κατὰ μοῖραν.</l>
-					</sp>
-				</div2>
-			</div1>
-			<milestone ed="p" n="565" unit="card"/>
-			<div1 type="episode">
-				<sp who="#odysseus">
-					<speaker>Ὀδυσσεύς</speaker>
-					<l n="565" real="xo-o---x-o-oo">Διόμηδες, οὐκ ἤκουσας — ἢ κενὸς ψόφος</l>
-					<l real="--x---o-x-xo">στάζει δῑ ὤτων; — τευχέων τινὰ κτύπον;</l>
-				</sp>
-				<sp who="#diomedes">
-					<speaker>Διομήδης</speaker>
-					<l real="--x-x-x---x-">οὔκ, ἀλλὰ δεσμὰ πωλικῶν ἐξ ἀντύγων</l>
-					<l real="--x--xo-x-o-">κλάζει σιδήρου· κἀμέ τοι, πρὶν ᾐσθόμην</l>
-					<l real="--xxo-x-oxoo">δεσμῶν ἀραγμὸν ἱππικῶν, ἔδυ φόβος.</l>
-				</sp>
-				<sp who="#odysseus">
-					<speaker>Ὀδυσσεύς</speaker>
-					<l n="570" real="oxx---x-x-x-">ὅρα κατ’ ὄρφνην μὴ φύλαξιν ἐντύχῃς.</l>
-				</sp>
-				<sp who="#diomedes">
-					<speaker>Διομήδης</speaker>
-					<l real="x-o---o-x-ox">φυλάξομαί τοι κἀν σκότῳ τιθεὶς πόδα.</l>
-				</sp>
-				<sp who="#odysseus">
-					<speaker>Ὀδυσσεύς</speaker>
-					<l real="--o---x---x-">ἢν δ’ οὖν ἐγείρῃς, οἶσθα σύνθημα στρατοῦ;</l>
-				</sp>
-				<sp who="#diomedes">
-					<speaker>Διομήδης</speaker>
-					<l real="--o-o-x-o-x-">&lt;20Φοῖβον&gt;20 Δόλωνος οἶδα σύμβολον κλύων.</l>
-				</sp>
-				<sp who="#odysseus">
-					<speaker>Ὀδυσσεύς</speaker>
-					<l real="ox">ἔα·</l>
-					<l real="-xo---ooox-o-">εὐνὰς ἐρήμους τάσδε πολεμίων ὁρῶ.</l>
-				</sp>
-				<sp who="#diomedes">
-					<speaker>Διομήδης</speaker>
-					<l n="575" real="--o-o-x-o-oo">καὶ μὴν Δόλων γε τάσδ’ ἔφραζεν Ἕκτορος</l>
-					<l real="-xo-o-o---oo">κοίτας, ἐφ’ ᾧπερ ἔγχος εἵλκυσται τόδε.</l>
-				</sp>
-				<sp who="#odysseus">
-					<speaker>Ὀδυσσεύς</speaker>
-					<l real="x-x---o-o-o-">τί δῆτ’ ἂν εἴη; μῶν λόχος βέβηκέ ποι;</l>
-				</sp>
-				<sp who="#diomedes">
-					<speaker>Διομήδης</speaker>
-					<l real="x-o---x---xx">ἴσως ἐφ’ ἡμῖν μηχανὴν στήσων τινά.</l>
-				</sp>
-				<sp who="#odysseus">
-					<speaker>Ὀδυσσεύς</speaker>
-					<l real="x-x---o-x-xx">θρασὺς γὰρ Ἕκτωρ νῦν, ἐπεὶ κρατεῖ, θρασύς.</l>
-				</sp>
-				<sp who="#diomedes">
-					<speaker>Διομήδης</speaker>
-					<l n="580" real="x-o---o-x-oo">τί δῆτ’, Ὀδυσσεῦ, δρῶμεν; οὐ γὰρ ηὕρομεν</l>
-					<l real="o-o---x---oo">τὸν ἄνδρ’ ἐν εὐναῖς, ἐλπίδων δ’ ἡμάρτομεν.</l>
-				</sp>
-				<sp who="#odysseus">
-					<speaker>Ὀδυσσεύς</speaker>
-					<l real="--o-x-x-x-ox">στείχωμεν ὡς τάχιστα ναυστάθμων πέλας.</l>
-					<l real="--x-o-x-x-o-">σῴζει γὰρ αὐτὸν ὅστις εὐτυχῆ θεῶν</l>
-					<l real="x-x---x-o-x-">τίθησιν· ἡμῖν δ’ οὐ βιαστέον τύχην.</l>
-				</sp>
-				<sp who="#diomedes">
-					<speaker>Διομήδης</speaker>
-					<l n="585" real="--o-ox-o---x-">οὐκ οὖν ἐπ’ Αἰνέαν ἢ τὸν ἔχθιστον Φρυγῶν</l>
-					<l real="x-o-x-xxo-x-">Πάριν μολόντε χρὴ καρατομεῖν ξίφει;</l>
-				</sp>
-				<sp who="#odysseus">
-					<speaker>Ὀδυσσεύς</speaker>
-					<l real="--o--oox-x-xo">πῶς οὖν ἐν ὄρφνῃ πολεμίων ἀνὰ στρατὸν</l>
-					<l real="--x---x-x-x-">ζητῶν δυνήσῃ τούσδ’ ἀκινδύνως κτανεῖν;</l>
-				</sp>
-				<sp who="#diomedes">
-					<speaker>Διομήδης</speaker>
-					<l real="--o---o---o-">αἰσχρόν γε μέντοι ναῦς ἐπ’ Ἀργείων μολεῖν</l>
-					<l n="590" real="x-o--oox-o-oo">δράσαντε μηδὲν πολεμίους νεώτερον.</l>
-				</sp>
-				<sp who="#odysseus">
-					<speaker>Ὀδυσσεύς</speaker>
-					<l real="--xxx-x-o-x-">πῶς δ’ οὐ δέδρακας; οὐ κτανόντε ναυστάθμων</l>
-					<l real="x-o-o-x-o-xo">κατάσκοπον Δόλωνα σῴζομεν τάδε</l>
-					<l real="x-x--xoo---o-">σκυλεύματ’; ἢ πᾶν στρατόπεδον πέρσειν δοκεῖς;</l>
-				</sp>
-				<sp who="#diomedes">
-					<speaker>Διομήδης</speaker>
-					<l real="--x---o---x-">πείθεις, πάλιν στείχωμεν· εὖ δ’ εἴη τυχεῖν.</l>
-				</sp>
-				<milestone ed="p" n="595" unit="card"/>
-				<sp who="#athena">
-					<speaker>Ἀθήνα</speaker>
-					<l n="595" real="--x---x---o-">ποῖ δὴ λιπόντες Τρωικῶν ἐκ τάξεων</l>
-					<l real="--ox--x-o-o-">χωρεῖτε, λύπῃ καρδίαν δεδηγμένοι,</l>
-					<l real="--x---o-x-oo">εἰ μὴ κτανεῖν σφῷν Ἕκτορ’ ἢ Πάριν θεὸς</l>
-					<l real="x-x-x-o-o-xo">δίδωσιν; ἄνδρα δ’ οὐ πέπυσθε σύμμαχον</l>
-					<l real="--o-x-o---o-">Τροίᾳ μολόντα Ῥῆσον οὐ φαύλῳ τρόπῳ.</l>
-					<l n="600" real="o-x---x-o-xo">ὃς εἰ διοίσει νύκτα τήνδ’ ἐς αὔριον,</l>
-					<l real="--x---x---ox">οὔτε σφ’ Ἀχιλλεὺς οὔτ’ ἂν Αἴαντος δόρυ</l>
-					<l real="--x---x---o-">μὴ πάντα πέρσαι ναύσταθμ’ Ἀργείων σχέθοι,</l>
-					<l real="--x---x-x-o-">τείχη κατασκάψαντα καὶ πυλῶν ἔσω</l>
-					<l real="--x-x-o---oo">λόγχῃ πλατεῖαν ἐσδρομὴν ποιούμενον.</l>
-					<l n="605" real="--x---o---oo">τοῦτον κατακτὰς πάντ’ ἔχεις. τὰς δ’ Ἕκτορος</l>
-					<l real="-xox--xxo-xx">εὐνὰς ἔασον καὶ καρατόμους σφαγάς·</l>
-					<l real="--x--xxo---oo">ἔσται γὰρ αὐτῷ θάνατος ἐξ ἄλλης χερός.</l>
-				</sp>
-				<sp who="#odysseus">
-					<speaker>Ὀδυσσεύς</speaker>
-					<l real="--xx-xx-x-o-">δέσποιν’ Ἀθάνα, φθέγματος γὰρ ᾐσθόμην</l>
-					<l real="--x---x-o-xx">τοῦ σοῦ συνήθη γῆρυν· ἐν πόνοισι γὰρ</l>
-					<l n="610" real="x-xx--o-x-oo">παροῦσ’ ἀμύνεις τοῖς ἐμοῖς ἀεί ποτε·</l>
-					<l real="o-x---x---xo">τὸν ἄνδρα δ’ ἡμῖν, ποῦ κατηύνασται, φράσον·</l>
-					<l real="o-o---x-x-xo">πόθεν τέτακται βαρβάρου στρατεύματος;</l>
-				</sp>
-				<sp who="#athena">
-					<speaker>Ἀθήνα</speaker>
-					<l real="o-x---x---x-">ὅδ’ ἐγγὺς ἧσται κοὐ συνήθροισται στρατῷ,</l>
-					<l real="--o---o-x-xo">ἀλλ’ ἐκτὸς αὐτὸν τάξεων κατηύνασεν</l>
-					<l n="615" real="--o---x---xo">Ἕκτωρ, ἕως ἂν νὺξ ἀμείψηται φάος.</l>
-					<l real="o-o---x---x-">πέλας δὲ πῶλοι Θρῃκίων ἐξ ἁρμάτων</l>
-					<l real="--o--xxo-o-o-">λευκαὶ δέδενται, διαπρεπεῖς ἐν εὐφρόνῃ·</l>
-					<l real="--x-ooxx-x-oo">στίλβουσι δ’ ὥστε ποταμίου κύκνου πτερόν.</l>
-					<l real="--x---o-o-oo">ταύτας, κτανόντες δεσπότην, κομίζετε,</l>
-					<l n="620" real="--o---o-x-o-">κάλλιστον οἴκοις σκῦλον· οὐ γὰρ ἔσθ’ ὅπου</l>
-					<l real="--o---o-o-xo">τοιόνδ’ ὄχημα χθὼν κέκευθε πωλικόν.</l>
-				</sp>
-				<sp who="#odysseus">
-					<speaker>Ὀδυσσεύς</speaker>
-					<l real="xo-o---x-x-o-">Διόμηδες, ἢ σὺ κτεῖνε Θρῄκιον λεών,</l>
-					<l real="--x-o-x---o-">ἢ ’μοὶ πάρες γε, σοὶ δὲ χρὴ πώλους μέλειν.</l>
-				</sp>
-				<sp who="#diomedes">
-					<speaker>Διομήδης</speaker>
-					<l real="o-o---o---ox">ἐγὼ φονεύσω, πωλοδαμνήσεις δὲ σύ·</l>
-					<l n="625" real="x-x-x-x-o-oo">τρίβων γὰρ εἶ τὰ κομψὰ καὶ νοεῖν σοφός.</l>
-					<l real="--x---x-x-o-">χρὴ δ’ ἄνδρα τάσσειν οὗ μάλιστ’ ἂν ὠφελοῖ.</l>
-				</sp>
-				<sp who="#athena">
-					<speaker>Ἀθήνα</speaker>
-					<l real="--x---x---o-">καὶ μὴν καθ’ ἡμᾶς τόνδ’ Ἀλέξανδρον βλέπω</l>
-					<l real="--xxx--x-o-oo">στείχοντα, φυλάκων ἔκ τινος πεπυσμένον</l>
-					<l real="-xx--oox---o-">δόξας ἀσήμους πολεμίων μεμβλωκότων.</l>
-				</sp>
-				<sp who="#diomedes">
-					<speaker>Διομήδης</speaker>
-					<l n="630" real="ooxx---o-o-o-">πότερα σὺν ἄλλοις ἢ μόνος πορεύεται;</l>
-				</sp>
-				<sp who="#athena">
-					<speaker>Ἀθήνα</speaker>
-					<l real="o-o---o-o-oo">μόνος· πρὸς εὐνὰς δ’, ὡς ἔοικεν, Ἕκτορος</l>
-					<l real="--x---x---x-">χωρεῖ, κατόπτας σημανῶν ἥκειν στρατοῦ.</l>
-				</sp>
-				<sp who="#diomedes">
-					<speaker>Διομήδης</speaker>
-					<l real="--x---o-x-x-">οὐκ οὖν ὑπάρχειν τόνδε κατθανόντα χρή;</l>
-				</sp>
-				<sp who="#athena">
-					<speaker>Ἀθήνα</speaker>
-					<l real="--x-o-x-o-oo">οὐκ ἂν δύναιο τοῦ πεπρωμένου πλέον.</l>
-					<l n="635" real="--x---o-o-x-">τοῦτον δὲ πρὸς σῆς χειρὸς οὐ θέμις θανεῖν.</l>
-					<l real="--o---x-o-xx">ἀλλ’ ᾧπερ ἥκεις μορσίμους φέρων σφαγάς,</l>
-					<l real="xxo-o-o-x-xx">τάχυν’· ἐγὼ δέ, τῷδε σύμμαχος Κύπρις</l>
-					<l real="o-x-o-o-x-x-">δοκοῦσ’ ἀρωγὸς ἐν πόνοις παραστατεῖν,</l>
-					<l real="x-o-x-o-x-o-">σαθροῖς λόγοισιν ἐχθρὸν ἄνδρ’ ἀμείψομαι.</l>
-					<l n="640" real="--o-o-o-x-x-">καὶ ταῦτ’ ἐγὼ μὲν εἶπον· ὃν δὲ χρὴ παθεῖν,</l>
-					<l real="--o---o-x-o-">οὐκ οἶδεν οὐδ’ ἤκουσεν ἐγγὺς ὢν λόγου.</l>
-				</sp>
-				<milestone ed="p" n="642" unit="card"/>
-				<sp who="#alexandros">
-					<speaker>Ἀλέξανδρος</speaker>
-					<l real="o-x---xx--o-">σὲ τὸν στρατηγὸν καὶ κασίγνητον λέγω,</l>
-					<l real="--x---o---x-">Ἕκτορ, καθεύδεις; οὐκ ἐγείρεσθαί σε χρῆν;</l>
-					<l real="--x---o-x-xx">ἐχθρῶν τις ἡμῖν χρίμπτεται στρατεύματι,</l>
-					<l n="645" real="--o-o-x-o-xo">ἢ κλῶπες ἄνδρες ἢ κατάσκοποί τινες.</l>
-				</sp>
-				<sp who="#athena">
-					<speaker>Ἀθήνα</speaker>
-					<l real="--x---x-o-xx">θάρσει· φυλάσσει σ’ ἥδε πρευμενὴς Κύπρις.</l>
-					<l real="o-o--ooo---o-">μέλει δ’ ὁ σός μοι πόλεμος, οὐδ’ ἀμνημονῶ</l>
-					<l real="x-o---x-x-oo">τιμῆς, ἐπαινῶ δ’ εὖ παθοῦσα πρὸς σέθεν.</l>
-					<l real="--o-x-x-x-x-">καὶ νῦν ἐπ’ εὐτυχοῦντι Τρωικῷ στρατῷ</l>
-					<l n="650" real="--o---x-o-xo">ἥκω πορεύουσ’ ἄνδρα σοι μέγαν φίλον,</l>
-					<l real="--o---x-x-o-">τῆς ὑμνοποιοῦ παῖδα Θρῄκιον θεᾶς</l>
-					<l real="--x--xo-x-o-">Μούσης· πατρὸς δὲ Στρυμόνος κικλήσκεται.</l>
-				</sp>
-				<sp who="#alexandros">
-					<speaker>Ἀλέξανδρος</speaker>
-					<l real="--o-o-x-x-o-">αἰεί ποτ’ εὖ φρονοῦσα τυγχάνεις πόλει</l>
-					<l real="x-o---x---xo">κἀμοί, μέγιστον δ’ ἐν βίῳ κειμήλιον</l>
-					<l n="655" real="x-o-x-x---o-">κρίνας σέ φημι τῇδε προσθέσθαι πόλει.</l>
-					<l real="--x-x-o---ox">ἥκω δ’ ἀκούσας οὐ τορῶς — φήμη δέ τις</l>
-					<l real="x-x---o-x-o-">φύλαξιν ἐμπέπτωκεν — ὡς κατάσκοποι</l>
-					<l real="--x---o-x-o-">ἥκουσ’ Ἀχαιῶν. χὣ μὲν οὐκ ἰδὼν λέγει,</l>
-					<l real="o-x-o-x-o-x-">ὃ δ’ εἰσιδὼν μολόντας οὐκ ἔχει φράσαι·</l>
-					<l n="660" real="--o-x-x-o-oo">ὧν οὕνεκ’ εὐνὰς ἤλυθον πρὸς Ἕκτορος.</l>
-				</sp>
-				<sp who="#athena">
-					<speaker>Ἀθήνα</speaker>
-					<l real="--o---o-x-oo">μηδὲν φοβηθῇς· οὐδὲν ἐν στρατῷ νέον·</l>
-					<l real="--x---x---xo">Ἕκτωρ δὲ φροῦδος Θρῇκα κοιμήσων στρατόν.</l>
-				</sp>
-				<sp who="#alexandros">
-					<speaker>Ἀλέξανδρος</speaker>
-					<l real="x-o---o---o-">σύ τοί με πείθεις, σοῖς δὲ πιστεύων λόγοις</l>
-					<l real="--x---o-o-o-">τάξιν φυλάξων εἶμ’ ἐλεύθερος φόβου.</l>
-				</sp>
-				<sp who="#athena">
-					<speaker>Ἀθήνα</speaker>
-					<l n="665" real="--o---o-o-xx">χώρει· μέλειν γὰρ πάντ’ ἐμοὶ δόκει τὰ σά,</l>
-					<l real="--x---x-o-o-">ὥστ’ εὐτυχοῦντας συμμάχους ἐμοὺς ὁρᾶν.</l>
-					<l real="--o-x-o-oxxx">γνώσῃ δὲ καὶ σὺ τὴν ἐμὴν προθυμίαν.</l>
-					<l real="x-xx--xx--o-">ὑμᾶς δ’ ἀυτῶ τοὺς ἄγαν ἐρρωμένους,</l>
-					<l real="x-x---x-x-x-">Λαερτίου παῖ, θηκτὰ κοιμίσαι ξίφη.</l>
-					<l n="670" real="--x---x-x-x-">κεῖται γὰρ ἡμῖν Θρῄκιος στρατηλάτης,</l>
-					<l real="--o--oox---o-">ἵπποι τ’ ἔχονται, πολέμιοι δ’ ᾐσθημένοι</l>
-					<l real="--ox--o-x-x-">χωροῦσ’ ἐφ’ ὑμᾶς· ἀλλ’ ὅσον τάχιστα χρὴ</l>
-					<l real="--o---x-x-oo">φεύγειν πρὸς ὁλκοὺς ναυστάθμων. τί μέλλετε</l>
-					<l real="--x--oox---xo">σκηπτοῦ ’πιόντος πολεμίων σῷσαι βίον;</l>
-				</sp>
-				<milestone ed="p" n="675" unit="card"/>
-				<div2 type="lyric">
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l n="675" real="oxox">ἔα ἔα·</l>
-						<l real="xoxoxoxo">βάλε βάλε βάλε βάλε.</l>
-						<l real="oooo">θένε θένε.</l>
-						<l real="xx--oo-o--"> — τίς ἁνήρ; λεύσσετε· τοῦτον αὐδῶ.</l>
-						<l real="-o-x-x---ox--xo"> — κλῶπες οἵτινες κατ’ ὄρφνην τόνδε κινοῦσι στρατόν.</l>
-						<l n="680" real="-o-o-"> — δεῦρο δεῦρο πᾶς.</l>
-						<l real="-o--o-x"> — τούσδ’ ἔχω, τούσδ’ ἔμαρψα.</l>
-						<l real="xoo-ooo-oxo-"> — τίς ὁ λόχος; πόθεν ἔβας; ποδαπὸς εἶ;</l>
-					</sp>
-					<milestone ed="p" n="683" unit="card"/>
-				</div2>
-				<div2 type="trochees">
-					<sp who="#odysseus">
-						<speaker>Ὀδυσσεύς</speaker>
-						<l real="-x--o-x---o-x-x-">οὔ σε χρὴ εἰδέναι· θανῇ γὰρ σήμερον δράσας κακῶς.</l>
-					</sp>
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l real="-o---x---x---o-">οὐκ ἐρεῖς ξύνθημα, λόγχην πρὶν διὰ στέρνων μολεῖν;</l>
-					</sp>
-					<sp who="#odysseus">
-						<speaker>Ὀδυσσεύς</speaker>
-						<l n="685" real="----">ἵστω. θάρσει.</l>
-					</sp>
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l part="Y" real="oxxx-o-">πέλας ἴθι. παῖε πᾶς.</l>
-					</sp>
-					<sp who="#odysseus">
-						<speaker>Ὀδυσσεύς</speaker>
-						<l real="-x---x-x">ἦ σὺ δὴ Ῥῆσον κατέκτας;</l>
-					</sp>
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l part="Y" real="-x-o-xo">ἀλλὰ τὸν κτενοῦντα σὲ . . .</l>
-					</sp>
-					<sp who="#odysseus">
-						<speaker>Ὀδυσσεύς</speaker>
-						<l real="-o-x">ἴσχε πᾶς τις.</l>
-					</sp>
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l part="Y" real="-o-">οὐ μὲν οὖν.</l>
-					</sp>
-					<sp who="#odysseus">
-						<speaker>Ὀδυσσεύς</speaker>
-						<l part="Y" real="-xxo-x-o-">ἆ· φίλιον ἄνδρα μὴ θένῃς.</l>
-					</sp>
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l real="-x-o-x">καὶ τί δὴ τὸ σῆμα;</l>
-					</sp>
-					<sp who="#odysseus">
-						<speaker>Ὀδυσσεύς</speaker>
-						<l part="Y" real="-o">Φοῖβος.</l>
-					</sp>
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l part="Y" real="oxo-o-ox">ἔμαθον· ἴσχε πᾶς δόρυ.</l>
-						<l real="-o-o-x-o">οἶσθ’ ὅποι βεβᾶσιν ἅνδρες;</l>
-					</sp>
-					<sp who="#odysseus">
-						<speaker>Ὀδυσσεύς</speaker>
-						<l part="Y" real="-o-x-oo">τῇδέ πῃ κατείδομεν.</l>
-					</sp>
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l n="690" real="---xxo--">ἕρπω πᾶς κατ’ ἴχνος αὐτῶν.</l>
-						<l part="Y" real="-o-o-oo">ἢ βοὴν ἐγερτέον;</l>
-						<l real="-x-x-x---ox--o-">ἀλλὰ συμμάχους ταράσσειν δεινὸν ἐκ νυκτῶν φόβῳ.</l>
-					</sp>
-				</div2>
-			</div1>
-			<milestone ed="p" n="692" unit="card"/>
-			<div1 type="choral">
-				<div2 n="1" type="strophe">
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l real="x--ox">τίς ἀνδρῶν ὁ βάς;</l>
-						<l real="xooxxxo-o-">τίς ὁ μέγα θρασὺς ἐπεύξεται</l>
-						<l real="oxx-ox">χέρα φυγὼν ἐμάν;</l>
-						<l n="695" real="o--x--">πόθεν νιν κυρήσω;</l>
-						<l real="xxo-x-">τίνι προσεικάσω,</l>
-						<l real="--x---x---ox">ὅστις δῑ ὄρφνης ἦλθ’ ἀδειμάντῳ ποδὶ</l>
-						<l real="xxo---xx-xx">διά τε τάξεων καὶ φυλάκων ἕδρας;</l>
-						<l real="-xo-">Θεσσαλὸς ἢ</l>
-						<l n="700" real="xxx-x-ooo-ox">παραλίαν Λοκρῶν νεμόμενος πόλιν;</l>
-						<l real="--x--oxx---xo">ἢ νησιώτην σποράδα κέκτηται βίον;</l>
-						<l real="x-o---xx">τίς ἦν; πόθεν; ποίας πάτρας;</l>
-						<l real="---o-oxx-o-">ποῖον δ’ εὔχεται τὸν ὕπατον θεῶν;</l>
-						<l real="--o---o-x-oo"> — ἆρ’ ἔστ’ Ὀδυσσέως τοὔργον ἢ τίνος τόδε;</l>
-						<l n="705" real="--x-x-x---x-">εἰ τοῖς πάροιθε χρὴ τεκμαίρεσθαι· τί μήν;</l>
-						<l real="o--"> — δοκεῖς γάρ;</l>
-						<l part="Y" real="x--"> — τί μὴν οὔ;</l>
-						<l real="x--o--"> — θρασὺς γοῦν ἐς ἡμᾶς.</l>
-						<l real="o--"> — τίν’ ἀλκήν; τίν’ αἰνεῖς;</l>
-						<l part="Y" real="x--x--"> — Ὀδυσσῆ.</l>
-						<l real="--o---o-x-ox"> — μὴ κλωπὸς αἴνει φωτὸς αἱμύλον δόρυ.</l>
-						<milestone ed="p" n="710" unit="card"/>
-					</sp>
-				</div2>
-				<div2 n="1" type="antistrophe">
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l n="710" real="ox-xo">ἔβα καὶ πάρος</l>
-						<l real="xxoxxxo-o-">κατὰ πόλιν, ὕπαφρον ὄμμ’ ἔχων,</l>
-						<l real="xox-o-">ῥακοδύτῳ στολᾷ</l>
-						<l real="x--x--">πυκασθείς, ξιφήρης</l>
-						<l real="xxo-x-">κρύφιος ἐν πέπλοις.</l>
-						<l n="715" real="x-o---x---xx">βίον δ’ ἐπαιτῶν εἷρπ’ ἀγύρτης τις λάτρις,</l>
-						<l real="xxx-xxoxx-o-">ψαφαρόχρουν κάρα πολυπινές τ’ ἔχων·</l>
-						<l real="-xox">πολλὰ δὲ τὰν</l>
-						<l real="xxx-xxx--x-">βασιλίδ’ ἑστίαν Ἀτρειδᾶν κακῶς</l>
-						<l real="o-o-o-o-x-x-">ἔβαζε δῆθεν ἐχθρὸς ὢν στρατηλάταις.</l>
-						<l n="720" real="o-o-o-x-">ὄλοιτ’ ὄλοιτο πανδίκως,</l>
-						<l real="xox-x-oox-x-">πρὶν ἐπὶ γᾶν Φρυγῶν ποδὸς ἴχνος βαλεῖν.</l>
-						<l real="--o---o-o-o-"> — εἴτ’ οὖν Ὀδυσσέως εἴτε μή, φόβος μ’ ἔχει·</l>
-						<l real="--x---x-x-o-">Ἕκτωρ γὰρ ἡμῖν τοῖς φύλαξι μέμψεται.</l>
-						<l real="x--"> — τί λάσκων;</l>
-						<l part="Y" real="x--"> — δυσοίζων.</l>
-						<l n="725" real="x--x--"> — τί δρᾶσαι; τί ταρβεῖς;</l>
-						<l real="x--o--"> — καθ’ ἡμᾶς περᾶσαι . . .</l>
-						<l part="Y" real="x--"> — τίν’ ἀνδρῶν;</l>
-						<l real="--o-o-o-x-xo"> — οἳ τῆσδε νυκτὸς ἦλθον ἐς Φρυγῶν στρατόν.</l>
-					</sp>
-				</div2>
-			</div1>
-			<milestone ed="p" n="728" unit="card"/>
-			<div1 type="episode">
-				<div2 type="lyric">
-					<sp who="#heniochos">
-						<speaker>Ἡνίοχος</speaker>
-						<l real="x-x--o-xxx-x--">ἰὼ, ἰώ, δαίμονος τύχα βαρεῖα. φεῦ φεῦ.</l>
-					</sp>
-				</div2>
-				<div2 type="trochees">
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l real="oxox">ἔα, ἔα·</l>
-						<l n="730" real="-x-x-x-x-o-x-o-">σῖγα πᾶς ὕφιζ’· ἴσως γὰρ ἐς βόλον τις ἔρχεται.</l>
-					</sp>
-					<sp who="#heniochos">
-						<speaker>Ἡνίοχος</speaker>
-						<l real="x-x-">ἰὼ ἰώ,</l>
-						<l real="-oxx-x--">συμφορὰ βαρεῖα Θρῃκῶν.</l>
-					</sp>
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l part="Y" real="-x-x-o-">συμμάχων τις ὁ στένων.</l>
-					</sp>
-					<milestone ed="p" n="733" unit="card"/>
-				</div2>
-				<div2 type="lyric">
-					<sp who="#heniochos">
-						<speaker>Ἡνίοχος</speaker>
-						<l n="733" real="x-x-">ἰὼ ἰώ,</l>
-						<l real="--oo-xx---">δύστηνος ἐγώ· σύ τ’, ἄναξ Θρῃκῶν,</l>
-						<l real="-xox--xox-">ὦ στυγνοτάτην Τροίαν ἐσιδών,</l>
-						<l n="735" real="--ox-oo-o">οἷόν σε βίου τέλος εἷλεν.</l>
-					</sp>
-					<milestone ed="p" n="736" unit="card"/>
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l real="x-o---x-x-o-">τίς εἶ ποτ’ ἀνδρῶν συμμάχων; κατ’ εὐφρόνην</l>
-						<l real="--o---ox--o-">ἀμβλῶπες αὐγαὶ κοὔ σε γιγνώσκω τορῶς.</l>
-					</sp>
-					<milestone ed="p" n="738" unit="card"/>
-				</div2>
-				<div2 type="lyric">
-					<sp who="#heniochos">
-						<speaker>Ἡνίοχος</speaker>
-						<l real="-xx---x---">ποῦ τιν’ ἀνάκτων Τρωικῶν εὕρω;</l>
-						<l real="----">ποῦ δῆθ’ Ἕκτωρ</l>
-						<l n="740" real="ox-xx--ox--">τὸν ὑπασπίδιον κοῖτον ἰαύει;</l>
-						<l real="xx---xo-xx-">τίνι σημήνω διόπων στρατιᾶς</l>
-						<l real="-xo-xo-xx--">οἷα πεπόνθαμεν, οἷά τις ἡμᾶς</l>
-						<l real="xxxx---xoo">δράσας ἀφανῆ φροῦδος, φανερὸν</l>
-						<l real="----ox-x">Θρῃξὶν πένθος τολυπεύσας;</l>
-					</sp>
-					<milestone ed="p" n="745" unit="card"/>
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l n="745" real="x-x-x-x-x-xx">κακὸν κυρεῖν τι Θρῃκίῳ στρατεύματι</l>
-						<l real="o-o-x-ox--x-">ἔοικεν, οἷα τοῦδε γιγνώσκω κλύων.</l>
-					</sp>
-					<milestone ed="p" n="747" unit="card"/>
-					<sp who="#heniochos">
-						<speaker>Ἡνίοχος</speaker>
-						<l real="--xxx--ox-">ἔρρει στρατιά, πέπτωκεν ἄναξ</l>
-						<l real="ox---">δολίῳ πληγῇ.</l>
-						<l real="----">ἆ ἆ ἆ ἆ,</l>
-						<l n="750" real="-xox---ox-">οἵα μ’ ὀδύνη τείρει φονίου</l>
-						<l real="-xo---xo--">τραύματος εἴσω. πῶς ἂν ὀλοίμην;</l>
-						<l real="--xo---ox-">χρῆν γάρ μ’ ἀκλεῶς Ῥῆσόν τε θανεῖν,</l>
-						<l real="----ox-o">Τροίᾳ κέλσαντ’ ἐπίκουρον;</l>
-					</sp>
-					<milestone ed="p" n="754" unit="card"/>
-				</div2>
-				<div2 type="iambic">
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l real="x-o-x-x---xx">τάδ’ οὐκ ἐν αἰνιγμοῖσι σημαίνει κακά·</l>
-						<l n="755" real="x-x---x-o-ox">σαφῶς γὰρ αὐδᾷ συμμάχους ὀλωλότας.</l>
-					</sp>
-					<sp n="Ἡνίοχος" who="#heniochos">
-						<speaker>Ἡνίοχος</speaker>
-						<l real="x-x--xx-x-xo">κακῶς πέπρακται κἀπὶ τοῖς κακοῖσι πρὸς</l>
-						<l real="--x---o-x-oo">αἴσχιστα· καίτοι δὶς τόσον κακὸν τόδε·</l>
-						<l real="x-x-o-o-x-o-">θανεῖν γὰρ εὐκλεῶς μέν, εἰ θανεῖν χρεών,</l>
-						<l real="x-o---x-x-x-">λυπρὸν μὲν οἶμαι τῷ θανόντι — πῶς γὰρ οὔ; — </l>
-						<l n="760" real="--x---o---xx">τοῖς ζῶσι δ’ ὄγκος καὶ δόμων εὐδοξία.</l>
-						<l real="--x--xo-o-xo">ἡμεῖς δ’ ἀβούλως κἀκλεῶς ὀλώλαμεν.</l>
-						<l real="o-x---x-o-x-">ἐπεὶ γὰρ ἡμᾶς ηὔνασ’ Ἑκτόρεια χείρ,</l>
-						<l real="--x-x-o-o-x-">ξύνθημα λέξας, ηὕδομεν πεδοστιβεῖ</l>
-						<l real="o-x-o-x---xo">κόπῳ δαμέντες, οὐδ’ ἐφρουρεῖτο στρατὸς</l>
-						<l n="765" real="xx-x-o-x---ox">φυλακαῖσι νυκτέροισιν, οὐδ’ ἐν τάξεσιν</l>
-						<l real="o-o---x-o-x-">ἔκειτο τεύχη, πλῆκτρά τ’ οὐκ ἐπὶ ζυγοῖς</l>
-						<l real="--x---x-o-oo">ἵππων καθήρμοσθ’, ὡς ἄναξ ἐπεύθετο</l>
-						<l real="x-xx-xx---o-">κρατοῦντας ὑμᾶς κἀφεδρεύοντας νεῶν</l>
-						<l real="--x---o---oo">πρύμναισι· φαύλως δ’ ηὕδομεν πεπτωκότες.</l>
-						<l n="770" real="x-o---x--xx-">κἀγὼ μελούσῃ καρδίᾳ λήξας ὕπνου</l>
-						<l real="--x---o-o-x-">πώλοισι χόρτον, προσδοκῶν ἑωθινὴν</l>
-						<l real="--o---o-x-ox">ζεύξειν ἐς ἀλκήν, ἀφθόνῳ μετρῶ χερί.</l>
-						<l real="--o-ooxo---xo">λεύσσω δὲ φῶτε περιπολοῦνθ’ ἡμῶν στρατὸν</l>
-						<l real="x-x---ox--o-">πυκνῆς δῑ ὄρφνης· ὡς δ’ ἐκινήθην ἐγώ,</l>
-						<l n="775" real="--x-oxo---xx">ἐπτηξάτην τε κἀνεχωρείτην πάλιν·</l>
-						<l real="-xx---o---x-">ἤπυσα δ’ αὐτοῖς μὴ πελάζεσθαι στρατῷ,</l>
-						<l real="--o---x-x-xx">κλῶπας δοκήσας συμμάχων πλάθειν τινάς.</l>
-						<l real="--o---o-x-ox">οἳ δ’ οὐδέν· οὐ μὴν οὐδ’ ἐγὼ τὰ πλείονα.</l>
-						<l real="--x---x---xx">ηὗδον δ’ ἀπελθὼν αὖθις ἐς κοίτην πάλιν.</l>
-						<milestone ed="p" n="780" unit="card"/>
-						<l n="780" real="--xx--x-x-x-">
-							<milestone ed="P" unit="para"/>
+          <l real="--o-o-o-o-ox">ἔστην· ὁρῶ δὲ Ῥῆσον ὥστε δαίμονα</l>
+          <l real="--o---x-o-xx">ἑστῶτ’ ἐν ἵπποις Θρῃκίοις τ’ ὀχήμασι.</l>
+          <l real="x-x---o-x-oo">χρυσῆ δὲ πλάστιγξ αὐχένα ζυγηφόρον</l>
+          <l real="--x-oxoo---o-">πώλων ἔκλῃε χιόνος ἐξαυγεστέρων.</l>
+          <l n="305" real="--o--xo---x-">πέλτη δ’ ἐπ’ ὤμων χρυσοκολλήτοις τύποις</l>
+          <l real="o-o---o-x-o-">ἔλαμπε· Γοργὼν δ’ ὡς ἐπ’ αἰγίδος θεᾶς</l>
+          <l real="--o---x-x-oo">χαλκῆ μετώποις ἱππικοῖσι πρόσδετος</l>
+          <l real="--x---x-x-oo">πολλοῖσι σὺν κώδωσιν ἐκτύπει φόβον.</l>
+          <l real="x-x-o-x---o-">στρατοῦ δὲ πλῆθος οὐδ’ ἂν ἐν ψήφου λόγῳ</l>
+          <l n="310" real="--x---xxo-x-">θέσθαι δυναίμην, ὡς ἄπλατον ἦν ἰδεῖν,</l>
+          <l real="--o---x---o-">πολλοὶ μὲν ἱππῆς, πολλὰ πελταστῶν τέλη,</l>
+          <l real="--x---o-o-xo">πολλοὶ δ’ ἀτράκτων τοξόται, πολὺς δ’ ὄχλος</l>
+          <l real="--o---xxo-o-">γυμνὴς ὁμαρτῇ, Θρῃκίαν ἔχων στολήν.</l>
+          <l real="--x---x-x-x-">τοιόσδε Τροίᾳ σύμμαχος πάρεστ’ ἀνήρ,</l>
+          <l n="315" real="o-o---x-x-ox">ὃν οὔτε φεύγων οὔθ’ ὑποσταθεὶς δορὶ</l>
+          <l real="o-o---x-x-o-">ὁ Πηλέως παῖς ἐκφυγεῖν δυνήσεται.</l>
+        </sp>
+        <sp who="#choros">
+          <speaker>Χορός</speaker>
+          <l real="o-ox--x-x-oo">ὅταν πολίταις εὐσταθῶσι δαίμονες,</l>
+          <l real="--x---ox-xxx">ἕρπει κατάντης ξυμφορὰ πρὸς τἀγαθά.</l>
+        </sp>
+        <milestone ed="p" n="319" unit="card"/>
+        <sp who="#hektor">
+          <speaker>Ἕκτωρ</speaker>
+          <l real="--o---o-x-ox">πολλούς, ἐπειδὴ τοὐμὸν εὐτυχεῖ δόρυ</l>
+          <l n="320" real="--o---x---x-">καὶ Ζεὺς πρὸς ἡμῶν ἐστιν, εὑρήσω φίλους.</l>
+          <l real="--o--ooo-x-x-">ἀλλ’ οὐδὲν αὐτῶν δεόμεθ’, οἵτινες πάλαι</l>
+          <l real="--o-x-x---x-">μὴ ξυμπονοῦσιν, ἡνίκ’ ἐξώστης Ἄρης</l>
+          <l real="x-o---o-o-o-">ἔθραυε λαίφη τῆσδε γῆς μέγας πνέων.</l>
+          <l real="--o-o-o---xo">Ῥῆσος δ’ ἔδειξεν οἷος ἦν Τροίᾳ φίλος·</l>
+          <l n="325" real="--x---x-x-o-">ἥκει γὰρ ἐς δαῖτ’, οὐ παρὼν κυνηγέταις</l>
+          <l real="--x-x-o-x-ox">αἱροῦσι λείαν οὐδὲ συγκαμὼν δορί.</l>
+        </sp>
+        <sp who="#choros">
+          <speaker>Χορός</speaker>
+          <l real="--x--xx-o-x-">ὀρθῶς ἀτίζεις κἀπίμομφος εἶ φίλοις·</l>
+          <l real="o-o-o-x-o-ox">δέχου δὲ τοὺς θέλοντας ὠφελεῖν πόλιν.</l>
+        </sp>
+        <sp who="#hektor">
+          <speaker>Ἕκτωρ</speaker>
+          <l real="--o---oxx-x-">ἀρκοῦμεν οἱ σῴζοντες Ἴλιον πάλαι.</l>
+        </sp>
+        <sp who="#choros">
+          <speaker>Χορός</speaker>
+          <l n="330" real="o-x--oox---o-">πέποιθας ἤδη πολεμίους ᾑρηκέναι;</l>
+        </sp>
+        <sp who="#hektor">
+          <speaker>Ἕκτωρ</speaker>
+          <l real="o-x---x-o-o-">πέποιθα· δείξει τοὐπιὸν σέλας θεοῦ.</l>
+        </sp>
+        <sp who="#choros">
+          <speaker>Χορός</speaker>
+          <l real="oxo---x-o-oo">ὅρα τὸ μέλλον· πόλλ’ ἀναστρέφει θεός.</l>
+        </sp>
+        <sp who="#hektor">
+          <speaker>Ἕκτωρ</speaker>
+          <l real="x-x-x-o-o-o-">μισῶ φίλοισιν ὕστερον βοηδρομεῖν.</l>
+          <l n="336" real="o-o-o-o-x-o-">ὃ δ’ οὖν, ἐπείπερ ἦλθε, σύμμαχος μὲν οὔ,</l>
+          <l real="o-x-x-x-o-o-">ξένος δὲ πρὸς τράπεζαν ἡκέτω ξένων·</l>
+          <l real="x-x--xxx-x-oo">χάρις γὰρ αὐτῷ Πριαμιδῶν διώλετο.</l>
+        </sp>
+        <sp who="#choros">
+          <speaker>Χορός</speaker>
+          <l n="334" real="x-x---x-o-oo">ἄναξ, ἀπωθεῖν συμμάχους ἐπίφθονον.</l>
+        </sp>
+        <sp who="#angelos">
+          <speaker>Ἄγγελος</speaker>
+          <l n="335" real="o-o--oox---oo">φόβος γένοιτ’ ἂν πολεμίοις ὀφθεὶς μόνον.</l>
+        </sp>
+        <sp who="#hektor">
+          <speaker>Ἕκτωρ</speaker>
+          <l n="339" real="x-x---x-x-o-">σύ τ’ εὖ παραινεῖς καὶ σὺ καιρίως σκοπεῖς.</l>
+          <l n="340" real="xxo---o-o-o-">ὁ χρυσοτευχὴς δ’ οὕνεκ’ ἀγγέλου λόγων</l>
+          <l real="--x---o-x-ox">Ῥῆσος παρέστω τῇδε σύμμαχος χθονί.</l>
+        </sp>
+      </div1>
+      <milestone ed="p" n="342" unit="card"/>
+      <div1 type="choral">
+        <div2 n="1" type="strophe">
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l real="x--xoxxo">Ἀδράστεια μὲν ἁ Διὸς</l>
+            <l real="---ox-oo">παῖς εἴργοι στομάτων φθόνον·</l>
+            <l real="x---o--x-">φράσω γὰρ δὴ ὅσον μοι ψυχᾷ</l>
+            <l n="345" real="-xo-x--">προσφιλές ἐστιν εἰπεῖν.</l>
+            <l real="---ox--">ἥκεις, ὦ ποταμοῦ παῖ,</l>
+            <l real="--xx-xx-o-x">ἥκεις, ἐπλάθης Φιλίου πρὸς αὐλὰν</l>
+            <l real="--oo-xo-">ἀσπαστός, ἐπεί σε χρόνῳ</l>
+            <l real="xo-x-oo-xox">Πιερὶς μάτηρ ὅ τε καλλιγέφυ‐</l>
+            <l n="350" real="-ox-o--">ρος ποταμὸς πορεύει</l>
+            <milestone ed="p" n="351" unit="card"/>
+          </sp>
+        </div2>
+        <div2 n="1" type="antistrophe">
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l real="x--oo-o-">Στρυμών, ὅς ποτε τᾶς μελῳ‐</l>
+            <l real="---xx-x-">δοῦ Μούσας δῑ ἀκηράτων</l>
+            <l real="x--xo----">δινηθεὶς ὑδροειδὴς κόλπων</l>
+            <l real="xox-o-x">σὰν ἐφύτευσεν ἥβαν.</l>
+            <l n="355" real="x--ox-o">σύ μοι Ζεὺς ὁ φαναῖος</l>
+            <l real="--x--xx-x--">ἥκεις διφρεύων βαλιαῖσι πώλοις.</l>
+            <l real="--xx-xxx">νῦν, ὦ πατρὶς ὦ Φρυγία,</l>
+            <l real="-o---oo-oxo">ξὺν θεῷ νῦν σοι τὸν ἐλευθέριον</l>
+            <l real="-xx-x--">Ζῆνα πάρεστιν εἰπεῖν.</l>
+            <milestone ed="p" n="360" unit="card"/>
+          </sp>
+        </div2>
+        <div2 n="2" type="strophe">
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l n="360" real="-xo-xxx-xoxx">ἆρά ποτ’ αὖθις ἁ παλαιὰ Τροΐα</l>
+            <l real="-oo-xxo-">τοὺς προπότας παναμερεύ‐</l>
+            <l real="-xx-o--">σει θιάσους ἐρώτων</l>
+            <l real="--x-xx--xx-">ψαλμοῖσι καὶ κυλίκων οἰνοπλανή‐</l>
+            <l real="-xo-x-xx">τοις ὑποδεξίαις ἁμίλ‐</l>
+            <l n="365" real="-xx-ox--">λαις κατὰ πόντον Ἀτρειδᾶν</l>
+            <l real="-x-oo-">Σπάρταν οἰχομένων</l>
+            <l real="xxx-x--">Ἰλιάδος παρ’ ἀκτᾶς;</l>
+            <l real="-xo-o-">ὦ φίλος, εἴθε μοι</l>
+            <l real="-ox--oxx">σᾷ χερὶ καὶ σῷ δορὶ πρά‐</l>
+            <l n="369b" real="-xo-o--">ξας τάδ’ ἐς οἶκον ἔλθοις.</l>
+            <milestone ed="p" n="370" unit="card"/>
+          </sp>
+        </div2>
+        <div2 n="2" type="antistrophe">
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l n="370" real="-ox-x-xx-ox-">ἐλθέ, φάνηθι, τὰν ζάχρυσον προβαλοῦ</l>
+            <l real="-oxxx-xo">Πηλεΐδα κατ’ ὄμμα πέλ‐</l>
+            <l real="-xx-o--">ταν δοχμίαν πεδαίρων</l>
+            <l real="--x-xx--oox">σχιστὰν παρ’ ἄντυγα, πώλους ἐρεθί‐</l>
+            <l real="-xo-x-xx">ζων δίβολόν τ’ ἄκοντα πάλ‐</l>
+            <l n="375" real="-ox-xx-x">λων. σὲ γὰρ οὔτις ὑποστὰς</l>
+            <l real="---oo-">Ἀργείας ποτ’ ἐν Ἥ‐</l>
+            <l real="-xo-o--">ρας δαπέδοις χορεύσει·</l>
+            <l n="377b" real="-xxxo-">ἀλλά νιν ἅδε γᾶ</l>
+            <l real="-xo--xo-">καπφθίμενον Θρῃκὶ μόρῳ</l>
+            <l n="378b" real="-xo-o--">φίλτατον ἄχθος οἴσει.</l>
+          </sp>
+        </div2>
+      </div1>
+      <milestone ed="p" n="379" unit="card"/>
+      <div1 type="episode">
+        <div2 type="anapests">
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l real="x-x-ox-xx-">ἰὼ ἰώ, μέγας ὦ βασιλεῦ.</l>
+            <l n="380" real="xo---">καλόν, ὦ Θρῄκη,</l>
+            <l real="-ox--ox-ox-">σκύμνον ἔθρεψας πολίαρχον ἰδεῖν.</l>
+            <l real="xxxoo--xo--">ἴδε χρυσόδετον σώματος ἀλκήν,</l>
+            <l real="xo-----xo-">κλύε καὶ κόμπους κωδωνοκρότους</l>
+            <l real="xx-x-ox-x">παρὰ πορπάκων κελαδοῦντας.</l>
+            <l n="385" real="oo--xoo-ox-">θεός, ὦ Τροία, θεός, αὐτὸς Ἄρης</l>
+            <l real="-xox--ox--">ὁ Στρυμόνιος πῶλος ἀοιδοῦ</l>
+            <l real="----xx-o">Μούσης ἥκων καταπνεῖ σε.</l>
+          </sp>
+          <milestone ed="p" n="388" unit="card"/>
+        </div2>
+        <div2 type="iambics">
+          <sp who="#resos">
+            <speaker>Ῥῆσος</speaker>
+            <l real="--o---x-o-o-">χαῖρ’, ἐσθλὸς ἐσθλοῦ παῖς, τύραννε τῆσδε γῆς,</l>
+            <l real="--x---o-o-o-">Ἕκτορ· παλαιᾷ σ’ ἡμέρᾳ προσεννέπω.</l>
+            <l n="390" real="--o-x-x-o-oo">χαίρω δέ σ’ εὐτυχοῦντα καὶ προσήμενον</l>
+            <l real="--x---x---o-">πύργοισιν ἐχθρῶν· συγκατασκάψων δ’ ἐγὼ</l>
+            <l real="--x-x-o---x-">τείχη πάρειμι καὶ νεῶν πρήσων σκάφη.</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="--o---o---x-">παῖ τῆς μελῳδοῦ μητέρος Μουσῶν μιᾶς</l>
+            <l real="--oox-xo-x-o-">Θρῃκός τε ποταμοῦ Στρυμόνος, φιλῶ λέγειν</l>
+            <l n="395" real="x-o---x-oxx-">τἀληθὲς αἰεὶ κοὐ διπλοῦς πέφυκ’ ἀνήρ.</l>
+            <l real="x-x---o---ox">πάλαι πάλαι χρῆν τῇδε συγκάμνειν χθονὶ</l>
+            <l real="--x---x---xo">ἐλθόντα, καὶ μὴ τοὐπί σ’ Ἀργείων ὕπο</l>
+            <l real="-xo--oox-o-ox">Τροίαν ἐᾶσαι πολεμίῳ πεσεῖν δορί.</l>
+            <l real="--x---x-o-x-">οὐ γάρ τι λέξεις ὡς ἄκλητος ὢν φίλοις</l>
+            <l n="400" real="--o--xx-o-x-">οὐκ ἦλθες οὐδ’ ἤμυνας οὐδ’ ἐπεστράφης.</l>
+            <l real="--o---o-xxx-">τίς γάρ σε κῆρυξ ἢ γερουσία Φρυγῶν</l>
+            <l real="--xx--o---o-">ἐλθοῦσ’ ἀμύνειν οὐκ ἐπέσκηψεν πόλει;</l>
+            <l real="--o---o-o-xo">ποῖον δὲ δώρων κόσμον οὐκ ἐπέμψαμεν;</l>
+            <l real="x-o---x-o-x-">σὺ δ’ ἐγγενὴς ὢν βάρβαρός τε βαρβάρους</l>
+            <l n="405" real="--x---x-o-oo">Ἕλλησιν ἡμᾶς προύπιες τὸ σὸν μέρος.</l>
+            <l real="--ox--x-x-ox">καίτοι σε μικρᾶς ἐκ τυραννίδος μέγαν</l>
+            <l real="--x-x-o-o-ox">Θρῃκῶν ἄνακτα τῇδ’ ἔθηκ’ ἐγὼ χερί,</l>
+            <l real="o-x---o-o-o-">ὅτ’ ἀμφὶ Πάγγαιόν τε Παιόνων τε γῆν</l>
+            <l real="--x---o-x-ox">Θρῃκῶν ἀρίστοις ἐμπεσὼν κατὰ στόμα</l>
+            <l n="410" real="--x---o---o-">ἔρρηξα πέλτην, σοὶ δὲ δουλώσας λεὼν</l>
+            <l real="x-o-x-x---xx">παρέσχον· ὧν σὺ λακτίσας πολλὴν χάριν,</l>
+            <l real="x-o---o-o-o-">φίλων νοσούντων ὕστερος βοηδρομεῖς.</l>
+            <l real="--o---o-oxoo">οἱ δ’ οὐδὲν ἡμῖν ἐν γένει πεφυκότες,</l>
+            <l real="x-x-o-o---x-">πάλαι παρόντες, οἳ μὲν ἐν χωστοῖς τάφοις</l>
+            <l n="415" real="--o---x-xxo-">κεῖνται πεσόντες, πίστις οὐ σμικρὰ πόλει,</l>
+            <l real="--x-x-x---o-">οἳ δ’ ἔν θ’ ὅπλοισι καὶ παρ’ ἱππείοις ὄχοις</l>
+            <l real="xxx---x-o-o-">ψυχρὰν ἄησιν δίψιόν τε πῦρ θεοῦ</l>
+            <l real="o-x-o-o---x-">μένουσι καρτεροῦντες, οὐκ ἐν δεμνίοις</l>
+            <l real="x-x-x-x-x-o-">πυκνὴν ἄμυστιν ὡς σὺ δεξιούμενοι.</l>
+            <l n="420" real="--x---o-o-oo">ταῦθ’, ὡς ἂν εἰδῇς Ἕκτορ’ ὄντ’ ἐλεύθερον,</l>
+            <l real="--o---o-x-xo">καὶ μέμφομαί σοι καὶ λέγω κατ’ ὄμμα σόν.</l>
+          </sp>
+          <milestone ed="p" n="422" unit="card"/>
+          <sp who="#resos">
+            <speaker>Ῥῆσος</speaker>
+            <l real="--o-x-o---o-">τοιοῦτός εἰμι καὐτός, εὐθεῖαν λόγων</l>
+            <l real="--o---x-oxx-">τέμνων κέλευθον, κοὐ διπλοῦς πέφυκ’ ἀνήρ.</l>
+            <l real="o-o-o-x-x-oo">ἐγὼ δὲ μεῖζον ἢ σὺ τῆσδ’ ἀπὼν χθονὸς</l>
+            <l n="425" real="x-o---o-o-o-">λύπῃ πρὸς ἧπαρ δυσφορῶν ἐτειρόμην·</l>
+            <l real="--x---x-x-o-">ἀλλ’ ἀγχιτέρμων γαῖά μοι, Σκύθης λεώς,</l>
+            <l real="--x---oxx-o-">μέλλοντι νόστον τὸν πρὸς Ἴλιον περᾶν</l>
+            <l real="x-oooo-o-xxo-">ξυνῆψε πόλεμον· Εὐξένου δ’ ἀφικόμην</l>
+            <l real="--o---x---xo">πόντου πρὸς ἀκτάς, Θρῇκα πορθμεύσων στρατόν.</l>
+            <l n="430" real="--x--oxo---x-">ἔνθ’ αἱματηρὸς πέλανος ἐς γαῖαν Σκύθης</l>
+            <l real="--o---o-x-oo">ἠντλεῖτο λόγχῃ Θρῄξ τε συμμιγὴς φόνος.</l>
+            <l real="-xo-x-o-oxoo">τοιάδε τοί μ’ ἀπεῖργε συμφορὰ πέδον</l>
+            <l real="-xx---x-o-o-">Τροίας ἱκέσθαι σύμμαχόν τέ σοι μολεῖν.</l>
+            <l real="o-o-x-o---xx">ἐπεὶ δ’ ἔπερσα, τῶνδ’ ὁμηρεύσας τέκνα</l>
+            <l n="435" real="--o---o-o-o-">τάξας &lt;τ’&gt; ἔτειον δασμὸν ἐς δόμους φέρειν,</l>
+            <l real="--ox--x-x-ox">ἥκω περάσας ναυσὶ πόντιον στόμα,</l>
+            <l real="x-x---o-o-xx">τὰ δ’ ἄλλα πεζὸς γῆς περῶν ὁρίσματα — </l>
+            <l real="--x--xoxx-xx">οὐχ ὡς σὺ κομπεῖς τὰς ἐμὰς ἀμύστιδας,</l>
+            <l real="--xx--x---oo">οὐδ’ ἐν ζαχρύσοις δώμασιν κοιμώμενος,</l>
+            <l n="440" real="--x---x-x-xx">ἀλλ’ οἷα πόντον Θρῄκιον φυσήματα</l>
+            <l real="--o-x-o-o-x-">κρυσταλλόπηκτα Παιόνας τ’ ἐπεζάρει,</l>
+            <l real="--xxo-x--xxx">ξὺν τοῖσδ’ ἄυπνος οἶδα τλὰς πορπάμασιν.</l>
+            <l real="--o-o-o---o-">ἀλλ’ ὕστερος μὲν ἦλθον, ἐν καιρῷ δ’ ὅμως·</l>
+            <l real="x-x--oxo---oo">σὺ μὲν γὰρ ἤδη δέκατον αἰχμάζεις ἔτος</l>
+            <l n="445" real="--o---o---ox">κοὐδὲν περαίνεις, ἡμέραν δ’ ἐξ ἡμέρας</l>
+            <l real="--x---o---x-">πίπτεις κυβεύων τὸν πρὸς Ἀργείους Ἄρη·</l>
+            <l real="o-o-o-x-x-o-">ἐμοὶ δὲ φῶς ἓν ἡλίου καταρκέσει</l>
+            <l real="--x---x-o-o-">πέρσαντι πύργους ναυστάθμοις ἐπεσπεσεῖν</l>
+            <l real="--x--xo-xxx-">κτεῖναί τ’ Ἀχαιούς· θατέρᾳ δ’ ἀπ’ Ἰλίου</l>
+            <l n="450" real="o-o-x-o---o-">πρὸς οἶκον εἶμι, συντεμὼν τοὺς σοὺς πόνους,</l>
+            <l real="x-o-x-xx--ox">ὑμῶν δὲ μή τις ἀσπίδ’ ἄρηται χερί·</l>
+            <l real="o-x---o---ox">ἐγὼ γὰρ ἕξω τοὺς μέγ’ αὐχοῦντας δορὶ</l>
+            <l real="-xx---o-o-o-">πέρσας Ἀχαιούς, καίπερ ὕστερος μολών.</l>
+          </sp>
+          <milestone ed="p" n="454" unit="card"/>
+        </div2>
+        <div2 n="1" type="strophe">
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l real="x-x-">ἰὼ ἰώ.</l>
+            <l n="455" real="xxo-x-xoo-oo">φίλα θροεῖς, φίλος Διόθεν εἶ· μόνον</l>
+            <l real="ooxxoxxo">φθόνον ἄμαχον ὕπατος</l>
+            <l real="-o--x-o-x--">Ζεὺς θέλοι ἀμφὶ σοῖς λόγοισιν εἴργειν.</l>
+            <l n="459" real="ooxxo-o-ox">τὸ δὲ νάιον Ἀργόθεν δόρυ</l>
+            <l n="460" real="-x-x-o-">οὔτε πρίν τιν’ οὔτε νῦν</l>
+            <l real="--oo-oo-----">ἀνδρῶν ἐπόρευσε σέθεν κρείσσω. πῶς μοι</l>
+            <l real="xx-oo-o-x-o">Ἀχιλεὺς τὸ σὸν ἔγχος ἂν δύναιτο,</l>
+            <l real="--xxo--">πῶς δ’ Αἴας ὑπομεῖναι;</l>
+            <l real="-xo-o-x-x-x-">εἰ γὰρ ἐγὼ τόδ’ ἦμαρ εἰσίδοιμ’, ἄναξ,</l>
+            <l n="465" real="o-oxo-">ὅτῳ πολυφόνου</l>
+            <l real="-ox-x-o--">χειρὸς † ἀποινάσαιο † λόγχᾳ.</l>
+          </sp>
+        </div2>
+        <div2 type="iambic">
+          <milestone ed="p" n="467" unit="card"/>
+          <sp who="#resos">
+            <speaker>Ῥῆσος</speaker>
+            <l real="--x---x-x-xx">τοιαῦτα μέν σοι τῆς μακρᾶς ἀπουσίας</l>
+            <l real="--x---x---o-">πρᾶξαι παρέξω — σὺν δ’ Ἀδραστείᾳ λέγω — </l>
+            <l real="o-x---o-o-ox">ἐπειδἂν ἐχθρῶν τήνδ’ ἐλευθέραν πόλιν</l>
+            <l n="470" real="--o-xxoxx-o-">θῶμεν θεοῖσί τ’ ἀκροθίνῑ ἐξέλῃς,</l>
+            <l real="--x---o---o-">ξὺν σοὶ στρατεύειν γῆν ἐπ’ Ἀργείων θέλω</l>
+            <l real="--x---x---ox">καὶ πᾶσαν ἐλθὼν Ἑλλάδ’ ἐκπέρσαι δορί,</l>
+            <l real="--x-x-o---x-">ὡς ἂν μάθωσιν ἐν μέρει πάσχειν κακῶς.</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="--x---x---x-">εἰ τοῦ παρόντος τοῦδ’ ἀπαλλαχθεὶς κακοῦ</l>
+            <l n="475" real="o-o---x-o-x-">πόλιν νεμοίμην ὡς τὸ πρίν ποτ’ ἀσφαλῆ,</l>
+            <l real="--x--o-x---xx">ἦ κάρτα πολλὴν θεοῖς ἂν εἰδείην χάριν.</l>
+            <l real="x-x---o-o-xo">τὰ δ’ ἀμφί τ’ Ἄργος καὶ νομὸν τὸν Ἑλλάδος</l>
+            <l real="--o---x-o-ox">οὐχ ὧδε πορθεῖν ῥᾴδῑ, ὡς λέγεις, δορί.</l>
+          </sp>
+          <sp who="#resos">
+            <speaker>Ῥῆσος</speaker>
+            <l real="--x-o-xx---o-">οὐ τούσδ’ ἀριστέας φασὶν Ἑλλήνων μολεῖν;</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l n="480" real="--o-x-x-o-oo">κοὐ μεμφόμεσθά γ’, ἀλλ’ ἄδην ἐλαύνομεν.</l>
+          </sp>
+          <sp who="#resos">
+            <speaker>Ῥῆσος</speaker>
+            <l real="--x---o---ox">οὐκ οὖν κτανόντες τούσδε πᾶν εἰργάσμεθα;</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="--x---x-o-o-">μή νυν τὰ πόρρω τἀγγύθεν μεθεὶς σκόπει.</l>
+          </sp>
+          <sp who="#resos">
+            <speaker>Ῥῆσος</speaker>
+            <l real="--o-o-x---o-">ἀρκεῖν ἔοικέ σοι παθεῖν, δρᾶσαι δὲ μή.</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="--x---x-x-xo">πολλῆς γὰρ ἄρχω κἀνθάδ’ ὢν τυραννίδος.</l>
+            <l n="485" real="--o-o-o-x-ox">ἀλλ’ εἴτε λαιὸν εἴτε δεξιὸν κέρας</l>
+            <l real="--o-x-x-x-x-">εἴτ’ ἐν μέσοισι συμμάχοις πάρεστί σοι</l>
+            <l real="--o---x---xo">πέλτην ἐρεῖσαι καὶ καταστῆσαι στρατόν.</l>
+          </sp>
+          <milestone ed="p" n="488" unit="card"/>
+          <sp who="#resos">
+            <speaker>Ῥῆσος</speaker>
+            <l real="o-x--oox---o-">μόνος μάχεσθαι πολεμίοις, Ἕκτορ, θέλω.</l>
+            <l real="--o---x---o-">εἰ δ’ αἰσχρὸν ἡγῇ μὴ συνεμπρῆσαι νεῶν</l>
+            <l n="490" real="--o---x-o-oo">πρύμνας, πονήσας τὸν πάρος πολὺν χρόνον,</l>
+            <l real="--x---x-x-ox">τάξον μ’ Ἀχιλλέως καὶ στρατοῦ κατὰ στόμα.</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="--o---o---ox">οὐκ ἔστ’ ἐκείνῳ θοῦρον ἐντάξαι δόρυ.</l>
+          </sp>
+          <sp who="#resos">
+            <speaker>Ῥῆσος</speaker>
+            <l real="--o---x-oxxo">καὶ μὴν λόγος γ’ ἦν ὡς ἔπλευσ’ ἐπ’ Ἴλιον.</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="x-o-x-x-x-x-">ἔπλευσε καὶ πάρεστιν· ἀλλὰ μηνίων</l>
+            <l n="495" real="x-x-x-x-o-ox">στρατηλάταισιν οὐ συναίρεται δόρυ.</l>
+          </sp>
+          <sp who="#resos">
+            <speaker>Ῥῆσος</speaker>
+            <l real="--o-o-o---x-">τίς δὴ μετ’ αὐτὸν ἄλλος εὐδοξεῖ στρατοῦ;</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="-xo-o-o---o-">Αἴας ἐμοὶ μὲν οὐδὲν ἡσσᾶσθαι δοκεῖ</l>
+            <l real="-xo---x-x-xo">χὡ Τυδέως παῖς· ἔστι δ’ αἱμυλώτατον</l>
+            <l real="o-o---x---xx">κρότημ’ Ὀδυσσεύς, λῆμά τ’ ἀρκούντως θρασὺς</l>
+            <l n="500" real="--x---x-xxxx">καὶ πλεῖστα χώραν τήνδ’ ἀνὴρ καθυβρίσας·</l>
+            <l real="o-xx--o-x-o-">ὃς εἰς Ἀθάνας σηκὸν ἔννυχος μολὼν</l>
+            <l real="-xx-x-o---o-">κλέψας ἄγαλμα ναῦς ἐπ’ Ἀργείων φέρει.</l>
+            <l real="--x---x-o-o-">ἤδη δ’ ἀγύρτης πτωχικὴν ἔχων στολὴν</l>
+            <l real="o-o---x---xx">ἐσῆλθε πύργους, πολλὰ δ’ Ἀργείοις κακὰ</l>
+            <l n="505" real="--o--xx-x-oo">ἠρᾶτο, πεμφθεὶς Ἰλίου κατάσκοπος·</l>
+            <l real="x-x---x-x-x-">κτανὼν δὲ φρουροὺς καὶ παραστάτας πυλῶν</l>
+            <l real="--o---o---o-">ἐξῆλθεν· αἰεὶ δ’ ἐν λόχοις εὑρίσκεται</l>
+            <l real="--o-x-o-o-ox">Θυμβραῖον ἀμφὶ βωμὸν ἄστεως πέλας</l>
+            <l real="--x-o-o-x-oo">θάσσων· κακῷ δὲ μερμέρῳ παλαίομεν.</l>
+          </sp>
+          <sp who="#resos">
+            <speaker>Ῥῆσος</speaker>
+            <l n="510" real="--x--xo-x-x-">οὐδεὶς ἀνὴρ εὔψυχος ἀξιοῖ λάθρᾳ</l>
+            <l real="--o-o-x-x-ox">κτεῖναι τὸν ἐχθρόν, ἀλλ’ ἰὼν κατὰ στόμα.</l>
+            <l real="--o---x-xxxx">τοῦτον δ’ ὃν ἵζειν φὴς σὺ κλωπικὰς ἕδρας</l>
+            <l real="--x---x-x-o-">καὶ μηχανᾶσθαι, ζῶντα συλλαβὼν ἐγὼ</l>
+            <l real="x-o-o-x---xx">πυλῶν ἐπ’ ἐξόδοισιν ἀμπείρας ῥάχιν</l>
+            <l n="515" real="--o---x-x-xo">στήσω πετεινοῖς γυψὶ θοινατήριον.</l>
+            <l real="--x-x-o-x-ox">λῃστὴν γὰρ ὄντα καὶ θεῶν ἀνάκτορα</l>
+            <l real="x-x---o-x-o-">συλῶντα δεῖ νιν τῷδε κατθανεῖν μόρῳ.</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="--x---o-x-o-">νῦν μὲν καταυλίσθητε· καὶ γὰρ εὐφρόνη.</l>
+            <l real="--o---o-x-xo">δείξω δ’ ἐγώ σοι χῶρον, ἔνθα χρὴ στρατὸν</l>
+            <l n="520" real="--x---oxo-xx">τὸν σὸν νυχεῦσαι τοῦ τεταγμένου δίχα.</l>
+            <l real="--x---o-x-o-">ξύνθημα δ’ ἡμῖν Φοῖβος, ἤν τι καὶ δέῃ·</l>
+            <l real="--x---x---x-">μέμνησ’ ἀκούσας, Θρῃκί τ’ ἄγγειλον στρατῷ.</l>
+            <l real="x-o---o-x-o-">ὑμᾶς δὲ βάντας χρὴ προταινὶ τάξεων</l>
+            <l real="--o-x-o-x-oo">φρουρεῖν ἐγερτὶ καὶ νεῶν κατάσκοπον</l>
+            <l n="525" real="--o-x-x-o-x-">δέχθαι Δόλωνα· καὶ γάρ, εἴπερ ἐστὶ σῶς,</l>
+            <l real="--o--xoo-x-x-">ἤδη πελάζει στρατοπέδοισι Τρωικοῖς.</l>
+          </sp>
+        </div2>
+      </div1>
+      <milestone ed="p" n="527" unit="card"/>
+      <div1 type="choral">
+        <div2 n="1" type="strophe">
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l real="xoxxxxxx--">τίνος ἁ φυλακά; τίς ἀμείβει</l>
+            <l real="xo--x">τὰν ἐμάν; πρῶτα</l>
+            <l real="xo---x--xo-">δύεται σημεῖα καὶ ἑπτάποροι</l>
+            <l n="530" real="-xo-ox-ox-oo-x-o--">Πλειάδες αἰθέριαι· μέσα δ’ αἰετὸς οὐρανοῦ ποτᾶται.</l>
+            <l n="532" real="x-ox-oo--"> — ἔγρεσθε, τί μέλλετε; κοιτᾶν</l>
+            <l real="x-x-xxx">ἔγρεσθε πρὸς φυλακάν.</l>
+            <l real="--oo-xo-x">οὐ λεύσσετε μηνάδος αἴγλαν;</l>
+            <l n="535" real="x--oxx-"> — ἀὼς δὴ πέλας, ἀὼς</l>
+            <l real="xo---xo-">γίγνεται, καί τις προδρόμων</l>
+            <l real="oo-x--">ὅδε γ’ ἐστὶν ἀστήρ.</l>
+            <l real="xo-----xx-"> — τίς ἐκηρύχθη πρώτην φυλακήν;</l>
+            <l real="-oo--xxo-o"> — Μυγδόνος υἱόν φασι Κόροιβον.</l>
+            <l n="540" real="-xo--"> — τίς γὰρ ἐπ’ αὐτῷ;</l>
+            <l part="Y" real="xx---"> — Κίλικας Παίων</l>
+            <l real="xo---x---">στρατὸς ἤγειρεν, Μυσοὶ δ’ ἡμᾶς.</l>
+            <l n="543" real="--xx---xx-"> — οὐκ οὖν Λυκίους πέμπτην φυλακὴν</l>
+            <l real="-xo--">βάντας ἐγείρειν</l>
+            <l n="545" real="----xx-x">καιρὸς κλήρου κατὰ μοῖραν;</l>
+            <milestone ed="p" n="546" unit="card"/>
+          </sp>
+        </div2>
+        <div2 n="1" type="antistrophe">
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l n="547" real="--xx-xo-o">καὶ μὴν ἀΐω· Σιμόεντος</l>
+            <l real="-ox-x">ἡμένα κοίτας</l>
+            <l real="-xx--ox-ox-">φοινίας ὑμνεῖ πολυχορδοτάτᾳ</l>
+            <l n="550" real="-xx-oo-oo-ox-o-o-x">γήρυϊ παιδολέτωρ μελοποιὸν ἀηδονὶς μέριμναν.</l>
+            <l real="--oo-xxxx"> — ἤδη δὲ νέμουσι κατ’ Ἴδαν</l>
+            <l real="-xx-xo-">ποίμνια· νυκτιβρόμου</l>
+            <l real="x-ox-xx--">σύριγγος ἰὰν κατακούω.</l>
+            <l real="---xoxx"> — θέλγει δ’ ὄμματος ἕδραν</l>
+            <l n="555" real="xox--xox">ὕπνος· ἅδιστος γὰρ ἔβα</l>
+            <l real="ox-ox-">βλεφάροις πρὸς ἀοῦς.</l>
+            <l real="xo-x-oo-x-"> — τί ποτ’ οὐ πλάθει σκοπός, ὃν ναῶν</l>
+            <l real="---xox-x">Ἕκτωρ ὤτρυνε κατόπταν;</l>
+            <l real="--ox-xx-x"> — ταρβῶ· χρόνιος γὰρ ἄπεστιν.</l>
+            <l n="560" real="----oo--x"> — ἀλλ’ ἦ κρυπτὸν λόχον ἐσπαίσας</l>
+            <l real="xo-o">διόλωλε;</l>
+            <l part="Y" real="x-oo--"> — τάχ’ ἄν. φοβερόν μοι.</l>
+            <l real="--xx---xx-"> — αὐδῶ Λυκίους πέμπτην φυλακὴν</l>
+            <l real="-xo--">βάντας ἐγείρειν</l>
+            <l real="----xx-x">ἡμᾶς κλήρου κατὰ μοῖραν.</l>
+          </sp>
+        </div2>
+      </div1>
+      <milestone ed="p" n="565" unit="card"/>
+      <div1 type="episode">
+        <sp who="#odysseus">
+          <speaker>Ὀδυσσεύς</speaker>
+          <l n="565" real="xo-o---x-o-oo">Διόμηδες, οὐκ ἤκουσας — ἢ κενὸς ψόφος</l>
+          <l real="--x---o-x-xo">στάζει δῑ ὤτων; — τευχέων τινὰ κτύπον;</l>
+        </sp>
+        <sp who="#diomedes">
+          <speaker>Διομήδης</speaker>
+          <l real="--x-x-x---x-">οὔκ, ἀλλὰ δεσμὰ πωλικῶν ἐξ ἀντύγων</l>
+          <l real="--x--xo-x-o-">κλάζει σιδήρου· κἀμέ τοι, πρὶν ᾐσθόμην</l>
+          <l real="--xxo-x-oxoo">δεσμῶν ἀραγμὸν ἱππικῶν, ἔδυ φόβος.</l>
+        </sp>
+        <sp who="#odysseus">
+          <speaker>Ὀδυσσεύς</speaker>
+          <l n="570" real="oxx---x-x-x-">ὅρα κατ’ ὄρφνην μὴ φύλαξιν ἐντύχῃς.</l>
+        </sp>
+        <sp who="#diomedes">
+          <speaker>Διομήδης</speaker>
+          <l real="x-o---o-x-ox">φυλάξομαί τοι κἀν σκότῳ τιθεὶς πόδα.</l>
+        </sp>
+        <sp who="#odysseus">
+          <speaker>Ὀδυσσεύς</speaker>
+          <l real="--o---x---x-">ἢν δ’ οὖν ἐγείρῃς, οἶσθα σύνθημα στρατοῦ;</l>
+        </sp>
+        <sp who="#diomedes">
+          <speaker>Διομήδης</speaker>
+          <l real="--o-o-x-o-x-">&lt;20Φοῖβον&gt;20 Δόλωνος οἶδα σύμβολον κλύων.</l>
+        </sp>
+        <sp who="#odysseus">
+          <speaker>Ὀδυσσεύς</speaker>
+          <l real="ox">ἔα·</l>
+          <l real="-xo---ooox-o-">εὐνὰς ἐρήμους τάσδε πολεμίων ὁρῶ.</l>
+        </sp>
+        <sp who="#diomedes">
+          <speaker>Διομήδης</speaker>
+          <l n="575" real="--o-o-x-o-oo">καὶ μὴν Δόλων γε τάσδ’ ἔφραζεν Ἕκτορος</l>
+          <l real="-xo-o-o---oo">κοίτας, ἐφ’ ᾧπερ ἔγχος εἵλκυσται τόδε.</l>
+        </sp>
+        <sp who="#odysseus">
+          <speaker>Ὀδυσσεύς</speaker>
+          <l real="x-x---o-o-o-">τί δῆτ’ ἂν εἴη; μῶν λόχος βέβηκέ ποι;</l>
+        </sp>
+        <sp who="#diomedes">
+          <speaker>Διομήδης</speaker>
+          <l real="x-o---x---xx">ἴσως ἐφ’ ἡμῖν μηχανὴν στήσων τινά.</l>
+        </sp>
+        <sp who="#odysseus">
+          <speaker>Ὀδυσσεύς</speaker>
+          <l real="x-x---o-x-xx">θρασὺς γὰρ Ἕκτωρ νῦν, ἐπεὶ κρατεῖ, θρασύς.</l>
+        </sp>
+        <sp who="#diomedes">
+          <speaker>Διομήδης</speaker>
+          <l n="580" real="x-o---o-x-oo">τί δῆτ’, Ὀδυσσεῦ, δρῶμεν; οὐ γὰρ ηὕρομεν</l>
+          <l real="o-o---x---oo">τὸν ἄνδρ’ ἐν εὐναῖς, ἐλπίδων δ’ ἡμάρτομεν.</l>
+        </sp>
+        <sp who="#odysseus">
+          <speaker>Ὀδυσσεύς</speaker>
+          <l real="--o-x-x-x-ox">στείχωμεν ὡς τάχιστα ναυστάθμων πέλας.</l>
+          <l real="--x-o-x-x-o-">σῴζει γὰρ αὐτὸν ὅστις εὐτυχῆ θεῶν</l>
+          <l real="x-x---x-o-x-">τίθησιν· ἡμῖν δ’ οὐ βιαστέον τύχην.</l>
+        </sp>
+        <sp who="#diomedes">
+          <speaker>Διομήδης</speaker>
+          <l n="585" real="--o-ox-o---x-">οὐκ οὖν ἐπ’ Αἰνέαν ἢ τὸν ἔχθιστον Φρυγῶν</l>
+          <l real="x-o-x-xxo-x-">Πάριν μολόντε χρὴ καρατομεῖν ξίφει;</l>
+        </sp>
+        <sp who="#odysseus">
+          <speaker>Ὀδυσσεύς</speaker>
+          <l real="--o--oox-x-xo">πῶς οὖν ἐν ὄρφνῃ πολεμίων ἀνὰ στρατὸν</l>
+          <l real="--x---x-x-x-">ζητῶν δυνήσῃ τούσδ’ ἀκινδύνως κτανεῖν;</l>
+        </sp>
+        <sp who="#diomedes">
+          <speaker>Διομήδης</speaker>
+          <l real="--o---o---o-">αἰσχρόν γε μέντοι ναῦς ἐπ’ Ἀργείων μολεῖν</l>
+          <l n="590" real="x-o--oox-o-oo">δράσαντε μηδὲν πολεμίους νεώτερον.</l>
+        </sp>
+        <sp who="#odysseus">
+          <speaker>Ὀδυσσεύς</speaker>
+          <l real="--xxx-x-o-x-">πῶς δ’ οὐ δέδρακας; οὐ κτανόντε ναυστάθμων</l>
+          <l real="x-o-o-x-o-xo">κατάσκοπον Δόλωνα σῴζομεν τάδε</l>
+          <l real="x-x--xoo---o-">σκυλεύματ’; ἢ πᾶν στρατόπεδον πέρσειν δοκεῖς;</l>
+        </sp>
+        <sp who="#diomedes">
+          <speaker>Διομήδης</speaker>
+          <l real="--x---o---x-">πείθεις, πάλιν στείχωμεν· εὖ δ’ εἴη τυχεῖν.</l>
+        </sp>
+        <milestone ed="p" n="595" unit="card"/>
+        <sp who="#athena">
+          <speaker>Ἀθήνα</speaker>
+          <l n="595" real="--x---x---o-">ποῖ δὴ λιπόντες Τρωικῶν ἐκ τάξεων</l>
+          <l real="--ox--x-o-o-">χωρεῖτε, λύπῃ καρδίαν δεδηγμένοι,</l>
+          <l real="--x---o-x-oo">εἰ μὴ κτανεῖν σφῷν Ἕκτορ’ ἢ Πάριν θεὸς</l>
+          <l real="x-x-x-o-o-xo">δίδωσιν; ἄνδρα δ’ οὐ πέπυσθε σύμμαχον</l>
+          <l real="--o-x-o---o-">Τροίᾳ μολόντα Ῥῆσον οὐ φαύλῳ τρόπῳ.</l>
+          <l n="600" real="o-x---x-o-xo">ὃς εἰ διοίσει νύκτα τήνδ’ ἐς αὔριον,</l>
+          <l real="--x---x---ox">οὔτε σφ’ Ἀχιλλεὺς οὔτ’ ἂν Αἴαντος δόρυ</l>
+          <l real="--x---x---o-">μὴ πάντα πέρσαι ναύσταθμ’ Ἀργείων σχέθοι,</l>
+          <l real="--x---x-x-o-">τείχη κατασκάψαντα καὶ πυλῶν ἔσω</l>
+          <l real="--x-x-o---oo">λόγχῃ πλατεῖαν ἐσδρομὴν ποιούμενον.</l>
+          <l n="605" real="--x---o---oo">τοῦτον κατακτὰς πάντ’ ἔχεις. τὰς δ’ Ἕκτορος</l>
+          <l real="-xox--xxo-xx">εὐνὰς ἔασον καὶ καρατόμους σφαγάς·</l>
+          <l real="--x--xxo---oo">ἔσται γὰρ αὐτῷ θάνατος ἐξ ἄλλης χερός.</l>
+        </sp>
+        <sp who="#odysseus">
+          <speaker>Ὀδυσσεύς</speaker>
+          <l real="--xx-xx-x-o-">δέσποιν’ Ἀθάνα, φθέγματος γὰρ ᾐσθόμην</l>
+          <l real="--x---x-o-xx">τοῦ σοῦ συνήθη γῆρυν· ἐν πόνοισι γὰρ</l>
+          <l n="610" real="x-xx--o-x-oo">παροῦσ’ ἀμύνεις τοῖς ἐμοῖς ἀεί ποτε·</l>
+          <l real="o-x---x---xo">τὸν ἄνδρα δ’ ἡμῖν, ποῦ κατηύνασται, φράσον·</l>
+          <l real="o-o---x-x-xo">πόθεν τέτακται βαρβάρου στρατεύματος;</l>
+        </sp>
+        <sp who="#athena">
+          <speaker>Ἀθήνα</speaker>
+          <l real="o-x---x---x-">ὅδ’ ἐγγὺς ἧσται κοὐ συνήθροισται στρατῷ,</l>
+          <l real="--o---o-x-xo">ἀλλ’ ἐκτὸς αὐτὸν τάξεων κατηύνασεν</l>
+          <l n="615" real="--o---x---xo">Ἕκτωρ, ἕως ἂν νὺξ ἀμείψηται φάος.</l>
+          <l real="o-o---x---x-">πέλας δὲ πῶλοι Θρῃκίων ἐξ ἁρμάτων</l>
+          <l real="--o--xxo-o-o-">λευκαὶ δέδενται, διαπρεπεῖς ἐν εὐφρόνῃ·</l>
+          <l real="--x-ooxx-x-oo">στίλβουσι δ’ ὥστε ποταμίου κύκνου πτερόν.</l>
+          <l real="--x---o-o-oo">ταύτας, κτανόντες δεσπότην, κομίζετε,</l>
+          <l n="620" real="--o---o-x-o-">κάλλιστον οἴκοις σκῦλον· οὐ γὰρ ἔσθ’ ὅπου</l>
+          <l real="--o---o-o-xo">τοιόνδ’ ὄχημα χθὼν κέκευθε πωλικόν.</l>
+        </sp>
+        <sp who="#odysseus">
+          <speaker>Ὀδυσσεύς</speaker>
+          <l real="xo-o---x-x-o-">Διόμηδες, ἢ σὺ κτεῖνε Θρῄκιον λεών,</l>
+          <l real="--x-o-x---o-">ἢ ’μοὶ πάρες γε, σοὶ δὲ χρὴ πώλους μέλειν.</l>
+        </sp>
+        <sp who="#diomedes">
+          <speaker>Διομήδης</speaker>
+          <l real="o-o---o---ox">ἐγὼ φονεύσω, πωλοδαμνήσεις δὲ σύ·</l>
+          <l n="625" real="x-x-x-x-o-oo">τρίβων γὰρ εἶ τὰ κομψὰ καὶ νοεῖν σοφός.</l>
+          <l real="--x---x-x-o-">χρὴ δ’ ἄνδρα τάσσειν οὗ μάλιστ’ ἂν ὠφελοῖ.</l>
+        </sp>
+        <sp who="#athena">
+          <speaker>Ἀθήνα</speaker>
+          <l real="--x---x---o-">καὶ μὴν καθ’ ἡμᾶς τόνδ’ Ἀλέξανδρον βλέπω</l>
+          <l real="--xxx--x-o-oo">στείχοντα, φυλάκων ἔκ τινος πεπυσμένον</l>
+          <l real="-xx--oox---o-">δόξας ἀσήμους πολεμίων μεμβλωκότων.</l>
+        </sp>
+        <sp who="#diomedes">
+          <speaker>Διομήδης</speaker>
+          <l n="630" real="ooxx---o-o-o-">πότερα σὺν ἄλλοις ἢ μόνος πορεύεται;</l>
+        </sp>
+        <sp who="#athena">
+          <speaker>Ἀθήνα</speaker>
+          <l real="o-o---o-o-oo">μόνος· πρὸς εὐνὰς δ’, ὡς ἔοικεν, Ἕκτορος</l>
+          <l real="--x---x---x-">χωρεῖ, κατόπτας σημανῶν ἥκειν στρατοῦ.</l>
+        </sp>
+        <sp who="#diomedes">
+          <speaker>Διομήδης</speaker>
+          <l real="--x---o-x-x-">οὐκ οὖν ὑπάρχειν τόνδε κατθανόντα χρή;</l>
+        </sp>
+        <sp who="#athena">
+          <speaker>Ἀθήνα</speaker>
+          <l real="--x-o-x-o-oo">οὐκ ἂν δύναιο τοῦ πεπρωμένου πλέον.</l>
+          <l n="635" real="--x---o-o-x-">τοῦτον δὲ πρὸς σῆς χειρὸς οὐ θέμις θανεῖν.</l>
+          <l real="--o---x-o-xx">ἀλλ’ ᾧπερ ἥκεις μορσίμους φέρων σφαγάς,</l>
+          <l real="xxo-o-o-x-xx">τάχυν’· ἐγὼ δέ, τῷδε σύμμαχος Κύπρις</l>
+          <l real="o-x-o-o-x-x-">δοκοῦσ’ ἀρωγὸς ἐν πόνοις παραστατεῖν,</l>
+          <l real="x-o-x-o-x-o-">σαθροῖς λόγοισιν ἐχθρὸν ἄνδρ’ ἀμείψομαι.</l>
+          <l n="640" real="--o-o-o-x-x-">καὶ ταῦτ’ ἐγὼ μὲν εἶπον· ὃν δὲ χρὴ παθεῖν,</l>
+          <l real="--o---o-x-o-">οὐκ οἶδεν οὐδ’ ἤκουσεν ἐγγὺς ὢν λόγου.</l>
+        </sp>
+        <milestone ed="p" n="642" unit="card"/>
+        <sp who="#alexandros">
+          <speaker>Ἀλέξανδρος</speaker>
+          <l real="o-x---xx--o-">σὲ τὸν στρατηγὸν καὶ κασίγνητον λέγω,</l>
+          <l real="--x---o---x-">Ἕκτορ, καθεύδεις; οὐκ ἐγείρεσθαί σε χρῆν;</l>
+          <l real="--x---o-x-xx">ἐχθρῶν τις ἡμῖν χρίμπτεται στρατεύματι,</l>
+          <l n="645" real="--o-o-x-o-xo">ἢ κλῶπες ἄνδρες ἢ κατάσκοποί τινες.</l>
+        </sp>
+        <sp who="#athena">
+          <speaker>Ἀθήνα</speaker>
+          <l real="--x---x-o-xx">θάρσει· φυλάσσει σ’ ἥδε πρευμενὴς Κύπρις.</l>
+          <l real="o-o--ooo---o-">μέλει δ’ ὁ σός μοι πόλεμος, οὐδ’ ἀμνημονῶ</l>
+          <l real="x-o---x-x-oo">τιμῆς, ἐπαινῶ δ’ εὖ παθοῦσα πρὸς σέθεν.</l>
+          <l real="--o-x-x-x-x-">καὶ νῦν ἐπ’ εὐτυχοῦντι Τρωικῷ στρατῷ</l>
+          <l n="650" real="--o---x-o-xo">ἥκω πορεύουσ’ ἄνδρα σοι μέγαν φίλον,</l>
+          <l real="--o---x-x-o-">τῆς ὑμνοποιοῦ παῖδα Θρῄκιον θεᾶς</l>
+          <l real="--x--xo-x-o-">Μούσης· πατρὸς δὲ Στρυμόνος κικλήσκεται.</l>
+        </sp>
+        <sp who="#alexandros">
+          <speaker>Ἀλέξανδρος</speaker>
+          <l real="--o-o-x-x-o-">αἰεί ποτ’ εὖ φρονοῦσα τυγχάνεις πόλει</l>
+          <l real="x-o---x---xo">κἀμοί, μέγιστον δ’ ἐν βίῳ κειμήλιον</l>
+          <l n="655" real="x-o-x-x---o-">κρίνας σέ φημι τῇδε προσθέσθαι πόλει.</l>
+          <l real="--x-x-o---ox">ἥκω δ’ ἀκούσας οὐ τορῶς — φήμη δέ τις</l>
+          <l real="x-x---o-x-o-">φύλαξιν ἐμπέπτωκεν — ὡς κατάσκοποι</l>
+          <l real="--x---o-x-o-">ἥκουσ’ Ἀχαιῶν. χὣ μὲν οὐκ ἰδὼν λέγει,</l>
+          <l real="o-x-o-x-o-x-">ὃ δ’ εἰσιδὼν μολόντας οὐκ ἔχει φράσαι·</l>
+          <l n="660" real="--o-x-x-o-oo">ὧν οὕνεκ’ εὐνὰς ἤλυθον πρὸς Ἕκτορος.</l>
+        </sp>
+        <sp who="#athena">
+          <speaker>Ἀθήνα</speaker>
+          <l real="--o---o-x-oo">μηδὲν φοβηθῇς· οὐδὲν ἐν στρατῷ νέον·</l>
+          <l real="--x---x---xo">Ἕκτωρ δὲ φροῦδος Θρῇκα κοιμήσων στρατόν.</l>
+        </sp>
+        <sp who="#alexandros">
+          <speaker>Ἀλέξανδρος</speaker>
+          <l real="x-o---o---o-">σύ τοί με πείθεις, σοῖς δὲ πιστεύων λόγοις</l>
+          <l real="--x---o-o-o-">τάξιν φυλάξων εἶμ’ ἐλεύθερος φόβου.</l>
+        </sp>
+        <sp who="#athena">
+          <speaker>Ἀθήνα</speaker>
+          <l n="665" real="--o---o-o-xx">χώρει· μέλειν γὰρ πάντ’ ἐμοὶ δόκει τὰ σά,</l>
+          <l real="--x---x-o-o-">ὥστ’ εὐτυχοῦντας συμμάχους ἐμοὺς ὁρᾶν.</l>
+          <l real="--o-x-o-oxxx">γνώσῃ δὲ καὶ σὺ τὴν ἐμὴν προθυμίαν.</l>
+          <l real="x-xx--xx--o-">ὑμᾶς δ’ ἀυτῶ τοὺς ἄγαν ἐρρωμένους,</l>
+          <l real="x-x---x-x-x-">Λαερτίου παῖ, θηκτὰ κοιμίσαι ξίφη.</l>
+          <l n="670" real="--x---x-x-x-">κεῖται γὰρ ἡμῖν Θρῄκιος στρατηλάτης,</l>
+          <l real="--o--oox---o-">ἵπποι τ’ ἔχονται, πολέμιοι δ’ ᾐσθημένοι</l>
+          <l real="--ox--o-x-x-">χωροῦσ’ ἐφ’ ὑμᾶς· ἀλλ’ ὅσον τάχιστα χρὴ</l>
+          <l real="--o---x-x-oo">φεύγειν πρὸς ὁλκοὺς ναυστάθμων. τί μέλλετε</l>
+          <l real="--x--oox---xo">σκηπτοῦ ’πιόντος πολεμίων σῷσαι βίον;</l>
+        </sp>
+        <milestone ed="p" n="675" unit="card"/>
+        <div2 type="lyric">
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l n="675" real="oxox">ἔα ἔα·</l>
+            <l real="xoxoxoxo">βάλε βάλε βάλε βάλε.</l>
+            <l real="oooo">θένε θένε.</l>
+            <l real="xx--oo-o--"> — τίς ἁνήρ; λεύσσετε· τοῦτον αὐδῶ.</l>
+            <l real="-o-x-x---ox--xo"> — κλῶπες οἵτινες κατ’ ὄρφνην τόνδε κινοῦσι στρατόν.</l>
+            <l n="680" real="-o-o-"> — δεῦρο δεῦρο πᾶς.</l>
+            <l real="-o--o-x"> — τούσδ’ ἔχω, τούσδ’ ἔμαρψα.</l>
+            <l real="xoo-ooo-oxo-"> — τίς ὁ λόχος; πόθεν ἔβας; ποδαπὸς εἶ;</l>
+          </sp>
+          <milestone ed="p" n="683" unit="card"/>
+        </div2>
+        <div2 type="trochees">
+          <sp who="#odysseus">
+            <speaker>Ὀδυσσεύς</speaker>
+            <l real="-x--o-x---o-x-x-">οὔ σε χρὴ εἰδέναι· θανῇ γὰρ σήμερον δράσας κακῶς.</l>
+          </sp>
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l real="-o---x---x---o-">οὐκ ἐρεῖς ξύνθημα, λόγχην πρὶν διὰ στέρνων μολεῖν;</l>
+          </sp>
+          <sp who="#odysseus">
+            <speaker>Ὀδυσσεύς</speaker>
+            <l n="685" real="----">ἵστω. θάρσει.</l>
+          </sp>
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l part="Y" real="oxxx-o-">πέλας ἴθι. παῖε πᾶς.</l>
+          </sp>
+          <sp who="#odysseus">
+            <speaker>Ὀδυσσεύς</speaker>
+            <l real="-x---x-x">ἦ σὺ δὴ Ῥῆσον κατέκτας;</l>
+          </sp>
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l part="Y" real="-x-o-xo">ἀλλὰ τὸν κτενοῦντα σὲ . . .</l>
+          </sp>
+          <sp who="#odysseus">
+            <speaker>Ὀδυσσεύς</speaker>
+            <l real="-o-x">ἴσχε πᾶς τις.</l>
+          </sp>
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l part="Y" real="-o-">οὐ μὲν οὖν.</l>
+          </sp>
+          <sp who="#odysseus">
+            <speaker>Ὀδυσσεύς</speaker>
+            <l part="Y" real="-xxo-x-o-">ἆ· φίλιον ἄνδρα μὴ θένῃς.</l>
+          </sp>
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l real="-x-o-x">καὶ τί δὴ τὸ σῆμα;</l>
+          </sp>
+          <sp who="#odysseus">
+            <speaker>Ὀδυσσεύς</speaker>
+            <l part="Y" real="-o">Φοῖβος.</l>
+          </sp>
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l part="Y" real="oxo-o-ox">ἔμαθον· ἴσχε πᾶς δόρυ.</l>
+            <l real="-o-o-x-o">οἶσθ’ ὅποι βεβᾶσιν ἅνδρες;</l>
+          </sp>
+          <sp who="#odysseus">
+            <speaker>Ὀδυσσεύς</speaker>
+            <l part="Y" real="-o-x-oo">τῇδέ πῃ κατείδομεν.</l>
+          </sp>
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l n="690" real="---xxo--">ἕρπω πᾶς κατ’ ἴχνος αὐτῶν.</l>
+            <l part="Y" real="-o-o-oo">ἢ βοὴν ἐγερτέον;</l>
+            <l real="-x-x-x---ox--o-">ἀλλὰ συμμάχους ταράσσειν δεινὸν ἐκ νυκτῶν φόβῳ.</l>
+          </sp>
+        </div2>
+      </div1>
+      <milestone ed="p" n="692" unit="card"/>
+      <div1 type="choral">
+        <div2 n="1" type="strophe">
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l real="x--ox">τίς ἀνδρῶν ὁ βάς;</l>
+            <l real="xooxxxo-o-">τίς ὁ μέγα θρασὺς ἐπεύξεται</l>
+            <l real="oxx-ox">χέρα φυγὼν ἐμάν;</l>
+            <l n="695" real="o--x--">πόθεν νιν κυρήσω;</l>
+            <l real="xxo-x-">τίνι προσεικάσω,</l>
+            <l real="--x---x---ox">ὅστις δῑ ὄρφνης ἦλθ’ ἀδειμάντῳ ποδὶ</l>
+            <l real="xxo---xx-xx">διά τε τάξεων καὶ φυλάκων ἕδρας;</l>
+            <l real="-xo-">Θεσσαλὸς ἢ</l>
+            <l n="700" real="xxx-x-ooo-ox">παραλίαν Λοκρῶν νεμόμενος πόλιν;</l>
+            <l real="--x--oxx---xo">ἢ νησιώτην σποράδα κέκτηται βίον;</l>
+            <l real="x-o---xx">τίς ἦν; πόθεν; ποίας πάτρας;</l>
+            <l real="---o-oxx-o-">ποῖον δ’ εὔχεται τὸν ὕπατον θεῶν;</l>
+            <l real="--o---o-x-oo"> — ἆρ’ ἔστ’ Ὀδυσσέως τοὔργον ἢ τίνος τόδε;</l>
+            <l n="705" real="--x-x-x---x-">εἰ τοῖς πάροιθε χρὴ τεκμαίρεσθαι· τί μήν;</l>
+            <l real="o--"> — δοκεῖς γάρ;</l>
+            <l part="Y" real="x--"> — τί μὴν οὔ;</l>
+            <l real="x--o--"> — θρασὺς γοῦν ἐς ἡμᾶς.</l>
+            <l real="o--"> — τίν’ ἀλκήν; τίν’ αἰνεῖς;</l>
+            <l part="Y" real="x--x--"> — Ὀδυσσῆ.</l>
+            <l real="--o---o-x-ox"> — μὴ κλωπὸς αἴνει φωτὸς αἱμύλον δόρυ.</l>
+            <milestone ed="p" n="710" unit="card"/>
+          </sp>
+        </div2>
+        <div2 n="1" type="antistrophe">
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l n="710" real="ox-xo">ἔβα καὶ πάρος</l>
+            <l real="xxoxxxo-o-">κατὰ πόλιν, ὕπαφρον ὄμμ’ ἔχων,</l>
+            <l real="xox-o-">ῥακοδύτῳ στολᾷ</l>
+            <l real="x--x--">πυκασθείς, ξιφήρης</l>
+            <l real="xxo-x-">κρύφιος ἐν πέπλοις.</l>
+            <l n="715" real="x-o---x---xx">βίον δ’ ἐπαιτῶν εἷρπ’ ἀγύρτης τις λάτρις,</l>
+            <l real="xxx-xxoxx-o-">ψαφαρόχρουν κάρα πολυπινές τ’ ἔχων·</l>
+            <l real="-xox">πολλὰ δὲ τὰν</l>
+            <l real="xxx-xxx--x-">βασιλίδ’ ἑστίαν Ἀτρειδᾶν κακῶς</l>
+            <l real="o-o-o-o-x-x-">ἔβαζε δῆθεν ἐχθρὸς ὢν στρατηλάταις.</l>
+            <l n="720" real="o-o-o-x-">ὄλοιτ’ ὄλοιτο πανδίκως,</l>
+            <l real="xox-x-oox-x-">πρὶν ἐπὶ γᾶν Φρυγῶν ποδὸς ἴχνος βαλεῖν.</l>
+            <l real="--o---o-o-o-"> — εἴτ’ οὖν Ὀδυσσέως εἴτε μή, φόβος μ’ ἔχει·</l>
+            <l real="--x---x-x-o-">Ἕκτωρ γὰρ ἡμῖν τοῖς φύλαξι μέμψεται.</l>
+            <l real="x--"> — τί λάσκων;</l>
+            <l part="Y" real="x--"> — δυσοίζων.</l>
+            <l n="725" real="x--x--"> — τί δρᾶσαι; τί ταρβεῖς;</l>
+            <l real="x--o--"> — καθ’ ἡμᾶς περᾶσαι . . .</l>
+            <l part="Y" real="x--"> — τίν’ ἀνδρῶν;</l>
+            <l real="--o-o-o-x-xo"> — οἳ τῆσδε νυκτὸς ἦλθον ἐς Φρυγῶν στρατόν.</l>
+          </sp>
+        </div2>
+      </div1>
+      <milestone ed="p" n="728" unit="card"/>
+      <div1 type="episode">
+        <div2 type="lyric">
+          <sp who="#heniochos">
+            <speaker>Ἡνίοχος</speaker>
+            <l real="x-x--o-xxx-x--">ἰὼ, ἰώ, δαίμονος τύχα βαρεῖα. φεῦ φεῦ.</l>
+          </sp>
+        </div2>
+        <div2 type="trochees">
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l real="oxox">ἔα, ἔα·</l>
+            <l n="730" real="-x-x-x-x-o-x-o-">σῖγα πᾶς ὕφιζ’· ἴσως γὰρ ἐς βόλον τις ἔρχεται.</l>
+          </sp>
+          <sp who="#heniochos">
+            <speaker>Ἡνίοχος</speaker>
+            <l real="x-x-">ἰὼ ἰώ,</l>
+            <l real="-oxx-x--">συμφορὰ βαρεῖα Θρῃκῶν.</l>
+          </sp>
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l part="Y" real="-x-x-o-">συμμάχων τις ὁ στένων.</l>
+          </sp>
+          <milestone ed="p" n="733" unit="card"/>
+        </div2>
+        <div2 type="lyric">
+          <sp who="#heniochos">
+            <speaker>Ἡνίοχος</speaker>
+            <l n="733" real="x-x-">ἰὼ ἰώ,</l>
+            <l real="--oo-xx---">δύστηνος ἐγώ· σύ τ’, ἄναξ Θρῃκῶν,</l>
+            <l real="-xox--xox-">ὦ στυγνοτάτην Τροίαν ἐσιδών,</l>
+            <l n="735" real="--ox-oo-o">οἷόν σε βίου τέλος εἷλεν.</l>
+          </sp>
+          <milestone ed="p" n="736" unit="card"/>
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l real="x-o---x-x-o-">τίς εἶ ποτ’ ἀνδρῶν συμμάχων; κατ’ εὐφρόνην</l>
+            <l real="--o---ox--o-">ἀμβλῶπες αὐγαὶ κοὔ σε γιγνώσκω τορῶς.</l>
+          </sp>
+          <milestone ed="p" n="738" unit="card"/>
+        </div2>
+        <div2 type="lyric">
+          <sp who="#heniochos">
+            <speaker>Ἡνίοχος</speaker>
+            <l real="-xx---x---">ποῦ τιν’ ἀνάκτων Τρωικῶν εὕρω;</l>
+            <l real="----">ποῦ δῆθ’ Ἕκτωρ</l>
+            <l n="740" real="ox-xx--ox--">τὸν ὑπασπίδιον κοῖτον ἰαύει;</l>
+            <l real="xx---xo-xx-">τίνι σημήνω διόπων στρατιᾶς</l>
+            <l real="-xo-xo-xx--">οἷα πεπόνθαμεν, οἷά τις ἡμᾶς</l>
+            <l real="xxxx---xoo">δράσας ἀφανῆ φροῦδος, φανερὸν</l>
+            <l real="----ox-x">Θρῃξὶν πένθος τολυπεύσας;</l>
+          </sp>
+          <milestone ed="p" n="745" unit="card"/>
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l n="745" real="x-x-x-x-x-xx">κακὸν κυρεῖν τι Θρῃκίῳ στρατεύματι</l>
+            <l real="o-o-x-ox--x-">ἔοικεν, οἷα τοῦδε γιγνώσκω κλύων.</l>
+          </sp>
+          <milestone ed="p" n="747" unit="card"/>
+          <sp who="#heniochos">
+            <speaker>Ἡνίοχος</speaker>
+            <l real="--xxx--ox-">ἔρρει στρατιά, πέπτωκεν ἄναξ</l>
+            <l real="ox---">δολίῳ πληγῇ.</l>
+            <l real="----">ἆ ἆ ἆ ἆ,</l>
+            <l n="750" real="-xox---ox-">οἵα μ’ ὀδύνη τείρει φονίου</l>
+            <l real="-xo---xo--">τραύματος εἴσω. πῶς ἂν ὀλοίμην;</l>
+            <l real="--xo---ox-">χρῆν γάρ μ’ ἀκλεῶς Ῥῆσόν τε θανεῖν,</l>
+            <l real="----ox-o">Τροίᾳ κέλσαντ’ ἐπίκουρον;</l>
+          </sp>
+          <milestone ed="p" n="754" unit="card"/>
+        </div2>
+        <div2 type="iambic">
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l real="x-o-x-x---xx">τάδ’ οὐκ ἐν αἰνιγμοῖσι σημαίνει κακά·</l>
+            <l n="755" real="x-x---x-o-ox">σαφῶς γὰρ αὐδᾷ συμμάχους ὀλωλότας.</l>
+          </sp>
+          <sp n="Ἡνίοχος" who="#heniochos">
+            <speaker>Ἡνίοχος</speaker>
+            <l real="x-x--xx-x-xo">κακῶς πέπρακται κἀπὶ τοῖς κακοῖσι πρὸς</l>
+            <l real="--x---o-x-oo">αἴσχιστα· καίτοι δὶς τόσον κακὸν τόδε·</l>
+            <l real="x-x-o-o-x-o-">θανεῖν γὰρ εὐκλεῶς μέν, εἰ θανεῖν χρεών,</l>
+            <l real="x-o---x-x-x-">λυπρὸν μὲν οἶμαι τῷ θανόντι — πῶς γὰρ οὔ; — </l>
+            <l n="760" real="--x---o---xx">τοῖς ζῶσι δ’ ὄγκος καὶ δόμων εὐδοξία.</l>
+            <l real="--x--xo-o-xo">ἡμεῖς δ’ ἀβούλως κἀκλεῶς ὀλώλαμεν.</l>
+            <l real="o-x---x-o-x-">ἐπεὶ γὰρ ἡμᾶς ηὔνασ’ Ἑκτόρεια χείρ,</l>
+            <l real="--x-x-o-o-x-">ξύνθημα λέξας, ηὕδομεν πεδοστιβεῖ</l>
+            <l real="o-x-o-x---xo">κόπῳ δαμέντες, οὐδ’ ἐφρουρεῖτο στρατὸς</l>
+            <l n="765" real="xx-x-o-x---ox">φυλακαῖσι νυκτέροισιν, οὐδ’ ἐν τάξεσιν</l>
+            <l real="o-o---x-o-x-">ἔκειτο τεύχη, πλῆκτρά τ’ οὐκ ἐπὶ ζυγοῖς</l>
+            <l real="--x---x-o-oo">ἵππων καθήρμοσθ’, ὡς ἄναξ ἐπεύθετο</l>
+            <l real="x-xx-xx---o-">κρατοῦντας ὑμᾶς κἀφεδρεύοντας νεῶν</l>
+            <l real="--x---o---oo">πρύμναισι· φαύλως δ’ ηὕδομεν πεπτωκότες.</l>
+            <l n="770" real="x-o---x--xx-">κἀγὼ μελούσῃ καρδίᾳ λήξας ὕπνου</l>
+            <l real="--x---o-o-x-">πώλοισι χόρτον, προσδοκῶν ἑωθινὴν</l>
+            <l real="--o---o-x-ox">ζεύξειν ἐς ἀλκήν, ἀφθόνῳ μετρῶ χερί.</l>
+            <l real="--o-ooxo---xo">λεύσσω δὲ φῶτε περιπολοῦνθ’ ἡμῶν στρατὸν</l>
+            <l real="x-x---ox--o-">πυκνῆς δῑ ὄρφνης· ὡς δ’ ἐκινήθην ἐγώ,</l>
+            <l n="775" real="--x-oxo---xx">ἐπτηξάτην τε κἀνεχωρείτην πάλιν·</l>
+            <l real="-xx---o---x-">ἤπυσα δ’ αὐτοῖς μὴ πελάζεσθαι στρατῷ,</l>
+            <l real="--o---x-x-xx">κλῶπας δοκήσας συμμάχων πλάθειν τινάς.</l>
+            <l real="--o---o-x-ox">οἳ δ’ οὐδέν· οὐ μὴν οὐδ’ ἐγὼ τὰ πλείονα.</l>
+            <l real="--x---x---xx">ηὗδον δ’ ἀπελθὼν αὖθις ἐς κοίτην πάλιν.</l>
+            <milestone ed="p" n="780" unit="card"/>
+            <l n="780" real="--xx--x-x-x-">
+              <milestone ed="P" unit="para"/>
 							καί μοι καθ’ ὕπνον δόξα τις παρίσταται·
 						</l>
-						<l real="--xxx-xxx-x-">ἵππους γὰρ ἃς ἔθρεψα κἀδιφρηλάτουν</l>
-						<l real="--x---o-o-o-">Ῥήσῳ παρεστώς, εἶδον, ὡς ὄναρ δοκῶν,</l>
-						<l real="x-o-o-xx--xx">λύκους ἐπεμβεβῶτας ἑδραίαν ῥάχιν·</l>
-						<l real="--o---x-x-xx">θείνοντε δ’ οὐρᾷ πωλικῆς ῥινοῦ τρίχα</l>
-						<l n="785" real="--o---o---x-">ἤλαυνον, αἳ δ’ ἔρρεγκον ἐξ ἀντηρίδων</l>
-						<l real="x-o--xo---o-">θυμὸν πνέουσαι κἀνεχαίτιζον φόβῳ.</l>
-						<l real="o-xx--x-o-o-">ἐγὼ δ’ ἀμύνων θῆρας ἐξεγείρομαι</l>
-						<l real="--x-x-x--xoo">πώλοισιν· ἔννυχος γὰρ ἐξώρμα φόβος.</l>
-						<l real="x-ox--x---x-">κλύω δ’ ἐπάρας κρᾶτα μυχθισμὸν νεκρῶν.</l>
-						<l n="790" real="--x---o-x-x-">θερμὸς δὲ κρουνὸς δεσπότου πάρα σφαγαῖς</l>
-						<l real="--o---o-x-o-">βάλλει με δυσθνῄσκοντος αἵματος νέου.</l>
-						<l real="--x---x-o-oo">ὀρθὸς δ’ ἀνᾴσσω χειρὶ σὺν κενῇ δορός.</l>
-						<l real="--o---x---oo">καί μ’ ἔγχος αὐγάζοντα καὶ θηρώμενον</l>
-						<l real="--x---x---x-">παίει παραστὰς νεῖραν ἐς πλευρὰν ξίφει</l>
-						<l n="795" real="x-x---x-x-o-">ἀνὴρ ἀκμάζων· φασγάνου γὰρ ᾐσθόμην</l>
-						<l real="--x-xxox-x-x-">πληγῆς, βαθεῖαν ἄλοκα τραύματος λαβών.</l>
-						<l real="--x---o-x-xo">πίπτω δὲ πρηνής· οἳ δ’ ὄχημα πωλικὸν</l>
-						<l real="x-o--xo-x-ox">λαβόντες ἵππων ἵεσαν φυγῇ πόδα.</l>
-						<l real="--">ἆ ἆ.</l>
-						<l real="ox-o---o---xx">ὀδύνη με τείρει, κοὐκέτ’ ὀρθοῦμαι τάλας.</l>
-						<l n="800" real="--o-o-o-o-o-">καὶ ξυμφορὰν μὲν οἶδ’ ὁρῶν, τρόπῳ δ’ ὅτῳ</l>
-						<l real="x-x-x-o-o-x-">τεθνᾶσιν οἱ θανόντες οὐκ ἔχω φράσαι,</l>
-						<l real="--o---o-x-o-">οὐδ’ ἐξ ὁποίας χειρός. εἰκάσαι δέ μοι</l>
-						<l real="x-xxx-x-o-o-">πάρεστι λυπρὰ πρὸς φίλων πεπονθέναι.</l>
-					</sp>
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l real="-xox---x-xxoo">ἡνίοχε Θρῃκὸς τοῦ κακῶς πεπραγότος,</l>
-						<l n="805" real="--x--oox-x-xo">μηδὲν δυσοίζου· πολέμιοι ’)/δρασαν τάδε.</l>
-						 
-						<!-- prodelision, accent &amp; breathing left behind -->
-						<l real="--o---o-o-oo">Ἕκτωρ δὲ καὐτὸς συμφορᾶς πεπυσμένος</l>
-						<l real="--x---o-o-x-">χωρεῖ· συναλγεῖ δ’, ὡς ἔοικε, σοῖς κακοῖς.</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="--o-x-x---o-">πῶς, ὦ μέγιστα πήματ’ ἐξειργασμένοι,</l>
-						<l real="o-ox-oox-x-o-">μολόντες ὑμᾶς πολεμίων κατάσκοποι</l>
-						<l n="810" real="--x---x-x-xo">λήθουσιν αἰσχρῶς, καὶ κατεσφάγη στρατός,</l>
-						<l real="--x--xoo-x-xo">κοὔτ’ εἰσιόντας στρατόπεδ’ ἐξαπώσατε</l>
-						<l real="--x---o---x-">οὔτ’ ἐξιόντας; τῶνδε τίς τείσει δίκην</l>
-						<l real="--o--xxx---x-">πλὴν σοῦ; σὲ γὰρ δὴ φύλακά φημ’ εἶναι στρατοῦ.</l>
-						<l real="--x---x-x-x-">φροῦδοι δ’ ἄπληκτοι, τῇ Φρυγῶν κακανδρίᾳ</l>
-						<l real="--o---x-x-o-">πόλλ’ ἐγγελῶντες τῷ στρατηλάτῃ τ’ ἐμοί.</l>
-						<l real="--o---o-o-x-">εὖ νυν τόδ’ ἴστε — Ζεὺς ὀμώμοται πατήρ — </l>
-						<l real="--xxx-xx--oo">ἤτοι μάραγνά γ’ ἢ καρανιστὴς μόρος</l>
-						<l real="o-x-x-x-o-ox">μένει σε δρῶντα τοιάδ’, ἢ τὸν Ἕκτορα</l>
-						<l real="o-o---x-o-oo">τὸ μηδὲν εἶναι καὶ κακὸν νομίζετε.</l>
-					</sp>
-					<milestone ed="p" n="820" unit="card"/>
-				</div2>
-				<div2 n="1" type="antistrophe">
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l n="820" real="x-x-">ἰὼ ἰώ,</l>
-						<l real="oxo-oxo-oxo-xo">μετὰ σέ, ναί, μετὰ σέ, ὦ πολίοχον κράτος,</l>
-						<l real="oxooooo-">τότ’ ἄρ’ ἔμολον, ὅτε σοι</l>
-						<l n="824" real="-oo-o-x-x--">ἄγγελος ἦλθον ἀμφὶ ναῦς πύρ’ αἴθειν·</l>
-						<l n="825" real="o-xxo-o-o-">ἐπεὶ ἄγρυπνον ὄμμ’ ἐν εὐφρόνῃ</l>
-						<l real="-o-x-x-">οὔτ’ ἐκοίμισ’ οὔτ’ ἔβριξ’,</l>
-						<l real="--xo-xx-----">οὐ τὰς Σιμοεντιάδας πηγάς· μή μοι</l>
-						<l real="oo-xx-x-x-x">κότον, ὦ ἄνα, θῇς· ἀναίτιος γὰρ</l>
-						<l real="o-o--">. . . ἔγωγε πάντων.</l>
-						<l n="830" real="-xo-xx-o-o-oo">εἰ δὲ χρόνῳ παράκαιρον ἔργον ἢ λόγον</l>
-						<l real="x-xxo-">πύθῃ, κατά με γᾶς</l>
-						<l real="-xo-o-x---">ζῶντα πόρευσον· οὐ παραιτοῦμαι.</l>
-						<milestone ed="p" n="833" unit="card"/>
-					</sp>
-					<sp who="#heniochos">
-						<speaker>Ἡνίοχος</speaker>
-						<l real="x-x---x-o-x-">τί τοῖσδ’ ἀπειλεῖς βάρβαρός τε βαρβάρου</l>
-						<l real="--x---o-o-o-">γνώμην ὑφαιρῇ τὴν ἐμήν, πλέκων λόγους;</l>
-						<l n="835" real="x-xxx-o---ox">σὺ ταῦτ’ ἔδρασας· οὐδέν’ ἂν δεξαίμεθα</l>
-						<l real="--x-o-x-x-o-">οὔθ’ οἱ θανόντες οὔτ’ ἂν οἱ τετρωμένοι</l>
-						<l real="--x-o-o-o-o-">ἄλλον· μακροῦ γε δεῖ σε καὶ σοφοῦ λόγου,</l>
-						<l real="o-o---x-x-x-">ὅτῳ με πείσεις μὴ φίλους κατακτανεῖν,</l>
-						<l real="--o---oxx-x-">ἵππων ἐρασθείς, ὧν ἕκατι συμμάχους</l>
-						<l n="840" real="--o---o---o-">τοὺς σοὺς φονεύεις, πόλλ’ ἐπισκήπτων μολεῖν.</l>
-						<l real="--x-x-o-o-xx">ἦλθον, τεθνᾶσιν· εὐπρεπέστερον Πάρις</l>
-						<l real="ox-x-x-x-x-x-">ξενίαν κατῄσχυν’ ἢ σὺ συμμάχους κτανών.</l>
-						<l real="--x---x---o-">μὴ γάρ τι λέξῃς ὥς τις Ἀργείων μολὼν</l>
-						<l real="x-o---x-x-o-">διώλεσ’ ἡμᾶς· τίς δ’ ὑπερβαλὼν λόχους</l>
-						<l n="845" real="--o---o-o-x-">Τρώων ἐφ’ ἡμᾶς ἦλθεν, ὥστε καὶ λαθεῖν;</l>
-						<l real="x-o---o-x-xo">σὺ πρόσθεν ἡμῶν ἧσο καὶ Φρυγῶν στρατός.</l>
-						<l real="x-x---x-o-x-">τίς οὖν τέτρωται, τίς τέθνηκε συμμάχων</l>
-						<l real="--o---xoox-o-">τῶν σῶν, μολόντων ὧν σὺ πολεμίων λέγεις;</l>
-						<l real="--o-x-o-o-o-">ἡμεῖς δ’ ἑκὰς τετρώμεθ’, οἳ δὲ μειζόνως</l>
-						<l n="850" real="x-o-o-x-x-xo">παθόντες οὐχ ὁρῶσιν ἡλίου φάος.</l>
-						<l real="x-x---o-x-ox">ἁπλῶς δ’ Ἀχαιῶν οὐδέν’ αἰτιώμεθα.</l>
-						<l real="--x--oox-x-o-">τίς δ’ ἂν χαμεύνας πολεμίων κατ’ εὐφρόνην</l>
-						<l real="--o---o---o-">Ῥήσου μολὼν ἐξηῦρεν, εἰ μή τις θεῶν</l>
-						<l real="x-o-x-x-xxoo">ἔφραζε τοῖς κτανοῦσιν; οὐδ’ ἀφιγμένον</l>
-						<l n="855" real="o-x-x-x-x-xo">τὸ πάμπαν ᾖσαν· ἀλλὰ μηχανᾷ τάδε.</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="o-o---x-x-ox">χρόνον μὲν ἤδη συμμάχοισι χρώμεθα</l>
-						<l real="o-o---x-x-o-">ὅσονπερ ἐν γῇ τῇδ’ Ἀχαιικὸς λεώς,</l>
-						<l real="--o---x-o-x-">κοὐδὲν πρὸς αὐτῶν οἶδα πλημμελὲς κλύων·</l>
-						<l real="--x---x-o-o-">ἐν σοὶ δ’ ἂν ἀρχοίμεσθα. μή μ’ ἔρως ἕλοι</l>
-						<l n="860" real="--o---x---x-">τοιοῦτος ἵππων ὥστ’ ἀποκτείνειν φίλους.</l>
-						<l real="--o---x-o-oo">καὶ ταῦτ’ Ὀδυσσεύς· τίς γὰρ ἄλλος ἄν ποτε</l>
-						<l real="xxo---o---x-">ἔδρασεν ἢ ’βούλευσεν Ἀργείων ἀνήρ;</l>
-						<l real="o-x---x---ox">δέδοικα δ’ αὐτὸν καί τί μου θράσσει φρένας,</l>
-						<l real="--o-x-x-x-x-">μὴ καὶ Δόλωνα συντυχὼν κατακτάνῃ·</l>
-						<l n="865" real="o-x---o---o-">χρόνον γὰρ ἤδη φροῦδος ὢν οὐ φαίνεται.</l>
-					</sp>
-					<sp who="#heniochos">
-						<speaker>Ἡνίοχος</speaker>
-						<l real="--x---o-o-ox">οὐκ οἶδα τοὺς σοὺς οὓς λέγεις Ὀδυσσέας·</l>
-						<l real="--x---o-x-ox">ἡμεῖς δ’ ὑπ’ ἐχθρῶν οὐδενὸς πεπλήγμεθα.</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="x-o-o-o---o-">σὺ δ’ οὖν νόμιζε ταῦτ’, ἐπείπερ σοι δοκεῖ.</l>
-					</sp>
-					<sp who="#heniochos">
-						<speaker>Ἡνίοχος</speaker>
-						<l real="--xx--x-x-x-">ὦ γαῖα πατρίς, πῶς ἂν ἐνθάνοιμί σοι;</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l n="870" real="--x---x-o-xo">μὴ θνῇσχ’· ἅλις γὰρ τῶν τεθνηκότων ὄχλος.</l>
-					</sp>
-					<sp who="#heniochos">
-						<speaker>Ἡνίοχος</speaker>
-						<l real="--x---o-o-oo">ποῖ δὴ τράπωμαι δεσποτῶν μονούμενος;</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="--o---o-xxo-">οἶκός σε κεύθων οὑμὸς ἐξιάσεται.</l>
-					</sp>
-					<sp who="#heniochos">
-						<speaker>Ἡνίοχος</speaker>
-						<l real="--o---x---oo">καὶ πῶς με κηδεύσουσιν αὐθεντῶν χέρες;</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="o-o---o---o-">ὅδ’ αὖ τὸν αὐτὸν μῦθον οὐ λήξει λέγων.</l>
-					</sp>
-					<sp who="#heniochos">
-						<speaker>Ἡνίοχος</speaker>
-						<l n="875" real="o-xxx-x-o-o-">ὄλοιθ’ ὁ δράσας. οὐ γὰρ ἐς σὲ τείνεται</l>
-						<l real="--x---x-o-x-">γλῶσσ’, ὡς σὺ κομπεῖς· ἡ Δίκη δ’ ἐπίσταται.</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="--x---o-o-o-">λάζυσθ’· ἄγοντες &lt;δ’&gt; αὐτὸν ἐς δόμους ἐμούς,</l>
-						<l real="--o---x--xoo">οὕτως ὅπως ἂν μὴ ’γκαλῇ πορσύνετε·</l>
-						<l real="x-x---x---o-">ὑμᾶς δ’ ἰόντας τοῖσιν ἐν τείχει χρεὼν</l>
-						<l n="880" real="xx-o-o-x---x-">Πριάμῳ τε καὶ γέρουσι σημῆναι νεκροὺς</l>
-						<l real="--o--o-o-o-ox">θάπτειν κελεύθου λεωφόρου πρὸς ἐκτροπάς.</l>
-					</sp>
-					<milestone ed="p" n="882" unit="card"/>
-				</div2>
-				<div2 type="anapests">
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l real="xo-xxx--ox-">τί ποτ’ εὐτυχίας ἐκ τῆς μεγάλης</l>
-						<l real="-xxx-xx---">Τροίαν ἀνάγει πάλιν ἐς πένθη</l>
-						<l real="----xx--">δαίμων ἄλλος, τί φυτεύων;</l>
-						<l n="885" real="oxox--">ἔα ἔα. [ὦ ὦ.]</l>
-						<l real="xx-ox---xx-">τίς ὑπὲρ κεφαλῆς θεός, ὦ βασιλεῦ,</l>
-						<l real="-ox--xo---">τὸν νεόκμητον νεκρὸν ἐν χειροῖν</l>
-						<l real="ox---">φοράδην πέμπει;</l>
-						<l real="----oo-x">ταρβῶ, λεύσσων τόδε, πῆμα.</l>
-					</sp>
-					<milestone ed="p" n="890" unit="card"/>
-					<sp who="#mousa">
-						<speaker>Μοῦσα</speaker>
-						<l n="890" real="o-x-x-o-x-o-">ὁρᾶν πάρεστι, Τρῶες· ἡ γὰρ ἐν σοφοῖς</l>
-						<l real="xxo-x-x-o-xx">τιμὰς ἔχουσα Μοῦσα συγγόνων μία</l>
-						<l real="x-x-x-o---xo">πάρειμι, παῖδα τόνδ’ ὁρῶσ’ οἰκτρῶς φίλον</l>
-						<l real="x-x---o---o-">θανόνθ’ ὑπ’ ἐχθρῶν· ὅν ποθ’ ὁ κτείνας χρόνῳ</l>
-						<l real="oxoo---x---x-">δόλιος Ὀδυσσεὺς ἀξίαν τείσει δίκην.</l>
-					</sp>
-					<milestone ed="p" n="895" unit="card"/>
-				</div2>
-				<div2 n="1" type="strophe">
-					<sp who="#mousa">
-						<speaker>Μοῦσα</speaker>
-						<l n="895" real="xxo--xo-">ἰαλέμῳ αὐθιγενεῖ,</l>
-						<l real="x-ooxo--">τέκνον, σ’ ὀλοφύρομαι, ὦ</l>
-						<l real="xo-o-x">ματρὸς ἄλγος, οἵαν</l>
-						<l real="o-xo-ox-x">ἔκελσας ὁδὸν ποτὶ Τροίαν·</l>
-						<l real="---ox-oox">ἦ δυσδαίμονα καὶ μελέαν,</l>
-						<l n="900" real="xo-ooxo-o--">ἀπομεμφομένας ἐμοῦ πορευθείς,</l>
-						<l real="xo-oo-x-x--">ἀπὸ δ’ ἀντομένου πατρὸς βιαίως.</l>
-						<l real="--o-oo-xxx">ὤμοι ἐγὼ σέθεν, ὦ φιλία</l>
-						<l real="xxxoxxxo--">φιλία κεφαλά, τέκνον, ὤμοι.</l>
-						<milestone ed="p" n="904" unit="card"/>
-					</sp>
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l real="o-o---o---xx">ὅσον προσήκει μὴ γένους κοινωνίαν</l>
-						<l n="905" real="o-xx--o-x-oo">ἔχοντι λύπῃ τὸν σὸν οἰκτίρω γόνον.</l>
-					</sp>
-					<milestone ed="p" n="906" unit="card"/>
-				</div2>
-				<div2 n="1" type="antistrophe">
-					<sp who="#mousa">
-						<speaker>Μοῦσα</speaker>
-						<l real="o-oo-oxx">ὄλοιτο μὲν Οἰνεΐδας,</l>
-						<l real="o-oo-xxx">ὄλοιτο δὲ Λαρτιάδας,</l>
-						<l real="-x-x-x">ὅς μ’ ἄπαιδα γέννας</l>
-						<l real="o-ox-oo-o">ἔθηκεν ἀριστοτόκοιο·</l>
-						<l n="910" real="x-xxx-xoo">ἅ θ’ Ἕλλανα λιποῦσα δόμον</l>
-						<l real="xx-oo-x-xx-">Φρυγίων λεχέων ἔπλευσε πλαθεῖσ’</l>
-						<l real="xxx--oo-oxx-x">† ὑπ’ Ἰλίῳ † ὤλεσε μὲν σ’ ἕκατι Τροίας,</l>
-						<l real="-xoxxx-oo-">φίλτατε, μυριάδας τε πόλεις</l>
-						<l real="--xx-oo-o">ἀνδρῶν ἀγαθῶν ἐκένωσεν.</l>
-						<milestone ed="p" n="915" unit="card"/>
-					</sp>
-					<sp who="#mousa">
-						<speaker>Μοῦσα</speaker>
-						<l n="915" real="--x---x-xx-o-">ἦ πολλὰ μὲν ζῶν, πολλὰ δ’ εἰς Ἅιδου μολών,</l>
-						<l real="x-o---o---oo">Φιλάμμονος παῖ, τῆς ἐμῆς ἥψω φρενός·</l>
-						<l real="x-x---o---ox">ὕβρις γάρ, ἥ σ’ ἔσφηλε, καὶ Μουσῶν ἔρις</l>
-						<l real="o-o-o-o---oo">τεκεῖν μ’ ἔθηκε τόνδε δύστηνον γόνον.</l>
-						<l real="o-x--oxx-xxox">περῶσα γὰρ δὴ ποταμίους διὰ ῥοὰς</l>
-						<l n="920" real="--xx-xo-x-x-">λέκτροις ἐπλάθην Στρυμόνος φυταλμίοις,</l>
-						<l real="o-o--xo-o-ox">ὅτ’ ἤλθομεν γῆς χρυσόβωλον ἐς λέπας</l>
-						<l real="--o-x-x---o-">Πάγγαιον ὀργάνοισιν ἐξησκημέναι</l>
-						<l real="--o---o-o-xx">Μοῦσαι μεγίστην εἰς ἔριν μελῳδίας</l>
-						<l real="--o---x-x-xo">κείνῳ σοφιστῇ Θρῃκί, κἀκτυφλώσαμεν</l>
-						<l n="925" real="xxxo---o-x-x-">Θάμυριν, ὃς ἡμῶν πόλλ’ ἐδέννασεν τέχνην.</l>
-						<l real="x-o---o---o-">
-							<milestone ed="P" unit="para"/>
+            <l real="--xxx-xxx-x-">ἵππους γὰρ ἃς ἔθρεψα κἀδιφρηλάτουν</l>
+            <l real="--x---o-o-o-">Ῥήσῳ παρεστώς, εἶδον, ὡς ὄναρ δοκῶν,</l>
+            <l real="x-o-o-xx--xx">λύκους ἐπεμβεβῶτας ἑδραίαν ῥάχιν·</l>
+            <l real="--o---x-x-xx">θείνοντε δ’ οὐρᾷ πωλικῆς ῥινοῦ τρίχα</l>
+            <l n="785" real="--o---o---x-">ἤλαυνον, αἳ δ’ ἔρρεγκον ἐξ ἀντηρίδων</l>
+            <l real="x-o--xo---o-">θυμὸν πνέουσαι κἀνεχαίτιζον φόβῳ.</l>
+            <l real="o-xx--x-o-o-">ἐγὼ δ’ ἀμύνων θῆρας ἐξεγείρομαι</l>
+            <l real="--x-x-x--xoo">πώλοισιν· ἔννυχος γὰρ ἐξώρμα φόβος.</l>
+            <l real="x-ox--x---x-">κλύω δ’ ἐπάρας κρᾶτα μυχθισμὸν νεκρῶν.</l>
+            <l n="790" real="--x---o-x-x-">θερμὸς δὲ κρουνὸς δεσπότου πάρα σφαγαῖς</l>
+            <l real="--o---o-x-o-">βάλλει με δυσθνῄσκοντος αἵματος νέου.</l>
+            <l real="--x---x-o-oo">ὀρθὸς δ’ ἀνᾴσσω χειρὶ σὺν κενῇ δορός.</l>
+            <l real="--o---x---oo">καί μ’ ἔγχος αὐγάζοντα καὶ θηρώμενον</l>
+            <l real="--x---x---x-">παίει παραστὰς νεῖραν ἐς πλευρὰν ξίφει</l>
+            <l n="795" real="x-x---x-x-o-">ἀνὴρ ἀκμάζων· φασγάνου γὰρ ᾐσθόμην</l>
+            <l real="--x-xxox-x-x-">πληγῆς, βαθεῖαν ἄλοκα τραύματος λαβών.</l>
+            <l real="--x---o-x-xo">πίπτω δὲ πρηνής· οἳ δ’ ὄχημα πωλικὸν</l>
+            <l real="x-o--xo-x-ox">λαβόντες ἵππων ἵεσαν φυγῇ πόδα.</l>
+            <l real="--">ἆ ἆ.</l>
+            <l real="ox-o---o---xx">ὀδύνη με τείρει, κοὐκέτ’ ὀρθοῦμαι τάλας.</l>
+            <l n="800" real="--o-o-o-o-o-">καὶ ξυμφορὰν μὲν οἶδ’ ὁρῶν, τρόπῳ δ’ ὅτῳ</l>
+            <l real="x-x-x-o-o-x-">τεθνᾶσιν οἱ θανόντες οὐκ ἔχω φράσαι,</l>
+            <l real="--o---o-x-o-">οὐδ’ ἐξ ὁποίας χειρός. εἰκάσαι δέ μοι</l>
+            <l real="x-xxx-x-o-o-">πάρεστι λυπρὰ πρὸς φίλων πεπονθέναι.</l>
+          </sp>
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l real="-xox---x-xxoo">ἡνίοχε Θρῃκὸς τοῦ κακῶς πεπραγότος,</l>
+            <l n="805" real="--x--oox-x-xo">μηδὲν δυσοίζου· πολέμιοι ’)/δρασαν τάδε.</l>
+<!-- prodelision, accent &amp; breathing left behind -->
+            <l real="--o---o-o-oo">Ἕκτωρ δὲ καὐτὸς συμφορᾶς πεπυσμένος</l>
+            <l real="--x---o-o-x-">χωρεῖ· συναλγεῖ δ’, ὡς ἔοικε, σοῖς κακοῖς.</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="--o-x-x---o-">πῶς, ὦ μέγιστα πήματ’ ἐξειργασμένοι,</l>
+            <l real="o-ox-oox-x-o-">μολόντες ὑμᾶς πολεμίων κατάσκοποι</l>
+            <l n="810" real="--x---x-x-xo">λήθουσιν αἰσχρῶς, καὶ κατεσφάγη στρατός,</l>
+            <l real="--x--xoo-x-xo">κοὔτ’ εἰσιόντας στρατόπεδ’ ἐξαπώσατε</l>
+            <l real="--x---o---x-">οὔτ’ ἐξιόντας; τῶνδε τίς τείσει δίκην</l>
+            <l real="--o--xxx---x-">πλὴν σοῦ; σὲ γὰρ δὴ φύλακά φημ’ εἶναι στρατοῦ.</l>
+            <l real="--x---x-x-x-">φροῦδοι δ’ ἄπληκτοι, τῇ Φρυγῶν κακανδρίᾳ</l>
+            <l real="--o---x-x-o-">πόλλ’ ἐγγελῶντες τῷ στρατηλάτῃ τ’ ἐμοί.</l>
+            <l real="--o---o-o-x-">εὖ νυν τόδ’ ἴστε — Ζεὺς ὀμώμοται πατήρ — </l>
+            <l real="--xxx-xx--oo">ἤτοι μάραγνά γ’ ἢ καρανιστὴς μόρος</l>
+            <l real="o-x-x-x-o-ox">μένει σε δρῶντα τοιάδ’, ἢ τὸν Ἕκτορα</l>
+            <l real="o-o---x-o-oo">τὸ μηδὲν εἶναι καὶ κακὸν νομίζετε.</l>
+          </sp>
+          <milestone ed="p" n="820" unit="card"/>
+        </div2>
+        <div2 n="1" type="antistrophe">
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l n="820" real="x-x-">ἰὼ ἰώ,</l>
+            <l real="oxo-oxo-oxo-xo">μετὰ σέ, ναί, μετὰ σέ, ὦ πολίοχον κράτος,</l>
+            <l real="oxooooo-">τότ’ ἄρ’ ἔμολον, ὅτε σοι</l>
+            <l n="824" real="-oo-o-x-x--">ἄγγελος ἦλθον ἀμφὶ ναῦς πύρ’ αἴθειν·</l>
+            <l n="825" real="o-xxo-o-o-">ἐπεὶ ἄγρυπνον ὄμμ’ ἐν εὐφρόνῃ</l>
+            <l real="-o-x-x-">οὔτ’ ἐκοίμισ’ οὔτ’ ἔβριξ’,</l>
+            <l real="--xo-xx-----">οὐ τὰς Σιμοεντιάδας πηγάς· μή μοι</l>
+            <l real="oo-xx-x-x-x">κότον, ὦ ἄνα, θῇς· ἀναίτιος γὰρ</l>
+            <l real="o-o--">. . . ἔγωγε πάντων.</l>
+            <l n="830" real="-xo-xx-o-o-oo">εἰ δὲ χρόνῳ παράκαιρον ἔργον ἢ λόγον</l>
+            <l real="x-xxo-">πύθῃ, κατά με γᾶς</l>
+            <l real="-xo-o-x---">ζῶντα πόρευσον· οὐ παραιτοῦμαι.</l>
+            <milestone ed="p" n="833" unit="card"/>
+          </sp>
+          <sp who="#heniochos">
+            <speaker>Ἡνίοχος</speaker>
+            <l real="x-x---x-o-x-">τί τοῖσδ’ ἀπειλεῖς βάρβαρός τε βαρβάρου</l>
+            <l real="--x---o-o-o-">γνώμην ὑφαιρῇ τὴν ἐμήν, πλέκων λόγους;</l>
+            <l n="835" real="x-xxx-o---ox">σὺ ταῦτ’ ἔδρασας· οὐδέν’ ἂν δεξαίμεθα</l>
+            <l real="--x-o-x-x-o-">οὔθ’ οἱ θανόντες οὔτ’ ἂν οἱ τετρωμένοι</l>
+            <l real="--x-o-o-o-o-">ἄλλον· μακροῦ γε δεῖ σε καὶ σοφοῦ λόγου,</l>
+            <l real="o-o---x-x-x-">ὅτῳ με πείσεις μὴ φίλους κατακτανεῖν,</l>
+            <l real="--o---oxx-x-">ἵππων ἐρασθείς, ὧν ἕκατι συμμάχους</l>
+            <l n="840" real="--o---o---o-">τοὺς σοὺς φονεύεις, πόλλ’ ἐπισκήπτων μολεῖν.</l>
+            <l real="--x-x-o-o-xx">ἦλθον, τεθνᾶσιν· εὐπρεπέστερον Πάρις</l>
+            <l real="ox-x-x-x-x-x-">ξενίαν κατῄσχυν’ ἢ σὺ συμμάχους κτανών.</l>
+            <l real="--x---x---o-">μὴ γάρ τι λέξῃς ὥς τις Ἀργείων μολὼν</l>
+            <l real="x-o---x-x-o-">διώλεσ’ ἡμᾶς· τίς δ’ ὑπερβαλὼν λόχους</l>
+            <l n="845" real="--o---o-o-x-">Τρώων ἐφ’ ἡμᾶς ἦλθεν, ὥστε καὶ λαθεῖν;</l>
+            <l real="x-o---o-x-xo">σὺ πρόσθεν ἡμῶν ἧσο καὶ Φρυγῶν στρατός.</l>
+            <l real="x-x---x-o-x-">τίς οὖν τέτρωται, τίς τέθνηκε συμμάχων</l>
+            <l real="--o---xoox-o-">τῶν σῶν, μολόντων ὧν σὺ πολεμίων λέγεις;</l>
+            <l real="--o-x-o-o-o-">ἡμεῖς δ’ ἑκὰς τετρώμεθ’, οἳ δὲ μειζόνως</l>
+            <l n="850" real="x-o-o-x-x-xo">παθόντες οὐχ ὁρῶσιν ἡλίου φάος.</l>
+            <l real="x-x---o-x-ox">ἁπλῶς δ’ Ἀχαιῶν οὐδέν’ αἰτιώμεθα.</l>
+            <l real="--x--oox-x-o-">τίς δ’ ἂν χαμεύνας πολεμίων κατ’ εὐφρόνην</l>
+            <l real="--o---o---o-">Ῥήσου μολὼν ἐξηῦρεν, εἰ μή τις θεῶν</l>
+            <l real="x-o-x-x-xxoo">ἔφραζε τοῖς κτανοῦσιν; οὐδ’ ἀφιγμένον</l>
+            <l n="855" real="o-x-x-x-x-xo">τὸ πάμπαν ᾖσαν· ἀλλὰ μηχανᾷ τάδε.</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="o-o---x-x-ox">χρόνον μὲν ἤδη συμμάχοισι χρώμεθα</l>
+            <l real="o-o---x-x-o-">ὅσονπερ ἐν γῇ τῇδ’ Ἀχαιικὸς λεώς,</l>
+            <l real="--o---x-o-x-">κοὐδὲν πρὸς αὐτῶν οἶδα πλημμελὲς κλύων·</l>
+            <l real="--x---x-o-o-">ἐν σοὶ δ’ ἂν ἀρχοίμεσθα. μή μ’ ἔρως ἕλοι</l>
+            <l n="860" real="--o---x---x-">τοιοῦτος ἵππων ὥστ’ ἀποκτείνειν φίλους.</l>
+            <l real="--o---x-o-oo">καὶ ταῦτ’ Ὀδυσσεύς· τίς γὰρ ἄλλος ἄν ποτε</l>
+            <l real="xxo---o---x-">ἔδρασεν ἢ ’βούλευσεν Ἀργείων ἀνήρ;</l>
+            <l real="o-x---x---ox">δέδοικα δ’ αὐτὸν καί τί μου θράσσει φρένας,</l>
+            <l real="--o-x-x-x-x-">μὴ καὶ Δόλωνα συντυχὼν κατακτάνῃ·</l>
+            <l n="865" real="o-x---o---o-">χρόνον γὰρ ἤδη φροῦδος ὢν οὐ φαίνεται.</l>
+          </sp>
+          <sp who="#heniochos">
+            <speaker>Ἡνίοχος</speaker>
+            <l real="--x---o-o-ox">οὐκ οἶδα τοὺς σοὺς οὓς λέγεις Ὀδυσσέας·</l>
+            <l real="--x---o-x-ox">ἡμεῖς δ’ ὑπ’ ἐχθρῶν οὐδενὸς πεπλήγμεθα.</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="x-o-o-o---o-">σὺ δ’ οὖν νόμιζε ταῦτ’, ἐπείπερ σοι δοκεῖ.</l>
+          </sp>
+          <sp who="#heniochos">
+            <speaker>Ἡνίοχος</speaker>
+            <l real="--xx--x-x-x-">ὦ γαῖα πατρίς, πῶς ἂν ἐνθάνοιμί σοι;</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l n="870" real="--x---x-o-xo">μὴ θνῇσχ’· ἅλις γὰρ τῶν τεθνηκότων ὄχλος.</l>
+          </sp>
+          <sp who="#heniochos">
+            <speaker>Ἡνίοχος</speaker>
+            <l real="--x---o-o-oo">ποῖ δὴ τράπωμαι δεσποτῶν μονούμενος;</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="--o---o-xxo-">οἶκός σε κεύθων οὑμὸς ἐξιάσεται.</l>
+          </sp>
+          <sp who="#heniochos">
+            <speaker>Ἡνίοχος</speaker>
+            <l real="--o---x---oo">καὶ πῶς με κηδεύσουσιν αὐθεντῶν χέρες;</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="o-o---o---o-">ὅδ’ αὖ τὸν αὐτὸν μῦθον οὐ λήξει λέγων.</l>
+          </sp>
+          <sp who="#heniochos">
+            <speaker>Ἡνίοχος</speaker>
+            <l n="875" real="o-xxx-x-o-o-">ὄλοιθ’ ὁ δράσας. οὐ γὰρ ἐς σὲ τείνεται</l>
+            <l real="--x---x-o-x-">γλῶσσ’, ὡς σὺ κομπεῖς· ἡ Δίκη δ’ ἐπίσταται.</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="--x---o-o-o-">λάζυσθ’· ἄγοντες &lt;δ’&gt; αὐτὸν ἐς δόμους ἐμούς,</l>
+            <l real="--o---x--xoo">οὕτως ὅπως ἂν μὴ ’γκαλῇ πορσύνετε·</l>
+            <l real="x-x---x---o-">ὑμᾶς δ’ ἰόντας τοῖσιν ἐν τείχει χρεὼν</l>
+            <l n="880" real="xx-o-o-x---x-">Πριάμῳ τε καὶ γέρουσι σημῆναι νεκροὺς</l>
+            <l real="--o--o-o-o-ox">θάπτειν κελεύθου λεωφόρου πρὸς ἐκτροπάς.</l>
+          </sp>
+          <milestone ed="p" n="882" unit="card"/>
+        </div2>
+        <div2 type="anapests">
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l real="xo-xxx--ox-">τί ποτ’ εὐτυχίας ἐκ τῆς μεγάλης</l>
+            <l real="-xxx-xx---">Τροίαν ἀνάγει πάλιν ἐς πένθη</l>
+            <l real="----xx--">δαίμων ἄλλος, τί φυτεύων;</l>
+            <l n="885" real="oxox--">ἔα ἔα. [ὦ ὦ.]</l>
+            <l real="xx-ox---xx-">τίς ὑπὲρ κεφαλῆς θεός, ὦ βασιλεῦ,</l>
+            <l real="-ox--xo---">τὸν νεόκμητον νεκρὸν ἐν χειροῖν</l>
+            <l real="ox---">φοράδην πέμπει;</l>
+            <l real="----oo-x">ταρβῶ, λεύσσων τόδε, πῆμα.</l>
+          </sp>
+          <milestone ed="p" n="890" unit="card"/>
+          <sp who="#mousa">
+            <speaker>Μοῦσα</speaker>
+            <l n="890" real="o-x-x-o-x-o-">ὁρᾶν πάρεστι, Τρῶες· ἡ γὰρ ἐν σοφοῖς</l>
+            <l real="xxo-x-x-o-xx">τιμὰς ἔχουσα Μοῦσα συγγόνων μία</l>
+            <l real="x-x-x-o---xo">πάρειμι, παῖδα τόνδ’ ὁρῶσ’ οἰκτρῶς φίλον</l>
+            <l real="x-x---o---o-">θανόνθ’ ὑπ’ ἐχθρῶν· ὅν ποθ’ ὁ κτείνας χρόνῳ</l>
+            <l real="oxoo---x---x-">δόλιος Ὀδυσσεὺς ἀξίαν τείσει δίκην.</l>
+          </sp>
+          <milestone ed="p" n="895" unit="card"/>
+        </div2>
+        <div2 n="1" type="strophe">
+          <sp who="#mousa">
+            <speaker>Μοῦσα</speaker>
+            <l n="895" real="xxo--xo-">ἰαλέμῳ αὐθιγενεῖ,</l>
+            <l real="x-ooxo--">τέκνον, σ’ ὀλοφύρομαι, ὦ</l>
+            <l real="xo-o-x">ματρὸς ἄλγος, οἵαν</l>
+            <l real="o-xo-ox-x">ἔκελσας ὁδὸν ποτὶ Τροίαν·</l>
+            <l real="---ox-oox">ἦ δυσδαίμονα καὶ μελέαν,</l>
+            <l n="900" real="xo-ooxo-o--">ἀπομεμφομένας ἐμοῦ πορευθείς,</l>
+            <l real="xo-oo-x-x--">ἀπὸ δ’ ἀντομένου πατρὸς βιαίως.</l>
+            <l real="--o-oo-xxx">ὤμοι ἐγὼ σέθεν, ὦ φιλία</l>
+            <l real="xxxoxxxo--">φιλία κεφαλά, τέκνον, ὤμοι.</l>
+            <milestone ed="p" n="904" unit="card"/>
+          </sp>
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l real="o-o---o---xx">ὅσον προσήκει μὴ γένους κοινωνίαν</l>
+            <l n="905" real="o-xx--o-x-oo">ἔχοντι λύπῃ τὸν σὸν οἰκτίρω γόνον.</l>
+          </sp>
+          <milestone ed="p" n="906" unit="card"/>
+        </div2>
+        <div2 n="1" type="antistrophe">
+          <sp who="#mousa">
+            <speaker>Μοῦσα</speaker>
+            <l real="o-oo-oxx">ὄλοιτο μὲν Οἰνεΐδας,</l>
+            <l real="o-oo-xxx">ὄλοιτο δὲ Λαρτιάδας,</l>
+            <l real="-x-x-x">ὅς μ’ ἄπαιδα γέννας</l>
+            <l real="o-ox-oo-o">ἔθηκεν ἀριστοτόκοιο·</l>
+            <l n="910" real="x-xxx-xoo">ἅ θ’ Ἕλλανα λιποῦσα δόμον</l>
+            <l real="xx-oo-x-xx-">Φρυγίων λεχέων ἔπλευσε πλαθεῖσ’</l>
+            <l real="xxx--oo-oxx-x">† ὑπ’ Ἰλίῳ † ὤλεσε μὲν σ’ ἕκατι Τροίας,</l>
+            <l real="-xoxxx-oo-">φίλτατε, μυριάδας τε πόλεις</l>
+            <l real="--xx-oo-o">ἀνδρῶν ἀγαθῶν ἐκένωσεν.</l>
+            <milestone ed="p" n="915" unit="card"/>
+          </sp>
+          <sp who="#mousa">
+            <speaker>Μοῦσα</speaker>
+            <l n="915" real="--x---x-xx-o-">ἦ πολλὰ μὲν ζῶν, πολλὰ δ’ εἰς Ἅιδου μολών,</l>
+            <l real="x-o---o---oo">Φιλάμμονος παῖ, τῆς ἐμῆς ἥψω φρενός·</l>
+            <l real="x-x---o---ox">ὕβρις γάρ, ἥ σ’ ἔσφηλε, καὶ Μουσῶν ἔρις</l>
+            <l real="o-o-o-o---oo">τεκεῖν μ’ ἔθηκε τόνδε δύστηνον γόνον.</l>
+            <l real="o-x--oxx-xxox">περῶσα γὰρ δὴ ποταμίους διὰ ῥοὰς</l>
+            <l n="920" real="--xx-xo-x-x-">λέκτροις ἐπλάθην Στρυμόνος φυταλμίοις,</l>
+            <l real="o-o--xo-o-ox">ὅτ’ ἤλθομεν γῆς χρυσόβωλον ἐς λέπας</l>
+            <l real="--o-x-x---o-">Πάγγαιον ὀργάνοισιν ἐξησκημέναι</l>
+            <l real="--o---o-o-xx">Μοῦσαι μεγίστην εἰς ἔριν μελῳδίας</l>
+            <l real="--o---x-x-xo">κείνῳ σοφιστῇ Θρῃκί, κἀκτυφλώσαμεν</l>
+            <l n="925" real="xxxo---o-x-x-">Θάμυριν, ὃς ἡμῶν πόλλ’ ἐδέννασεν τέχνην.</l>
+            <l real="x-o---o---o-">
+              <milestone ed="P" unit="para"/>
 							κἀπεὶ σὲ τίκτω, συγγόνους αἰδουμένη
 						</l>
-						<l real="--o-x-o-x-xo">καὶ παρθενείαν, ἧκ’ ἐς εὐύδρου πατρὸς</l>
-						<l real="x-o-o-o-o-ox">δίνας· τρέφειν δέ σ’ οὐ βρότειον ἐς χέρα</l>
-						<l real="x-x-x-x---o-">Στρυμὼν δίδωσιν, ἀλλὰ πηγαίαις κόραις.</l>
-						<l n="930" real="--x---x-o-xo">ἔνθ’ ἐκτραφεὶς κάλλιστα Παρθένων ὕπο,</l>
-						<l real="--x---o---xo">Θρῄκης ἀνάσσων πρῶτος ἦσθ’ ἀνδρῶν, τέκνον.</l>
-						<l real="--x--xx-x-x-">καί σ’ ἀμφὶ γῆν μὲν πατρίαν φιλαιμάτους</l>
-						<l real="--o---o---x-">ἀλκὰς κορύσσοντ’ οὐκ ἐδείμαινον θανεῖν·</l>
-						<l real="--x---x---oo">Τροίας δ’ ἀπηύδων ἄστυ μὴ κέλσαι ποτε,</l>
-						<l n="935" real="--x--xo-x-oo">εἰδυῖα τὸν σὸν πότμον· ἀλλά σ’ Ἕκτορος</l>
-						<l real="--x-oxx-o-x-">πρεσβεύμαθ’ αἵ τε μυρίαι γερουσίαι</l>
-						<l real="o-x--xx---x-">ἔπεισαν ἐλθεῖν κἀπικουρῆσαι φίλοις.</l>
-						<l real="--xxx-o-xxo-">
-							<milestone ed="P" unit="para"/>
+            <l real="--o-x-o-x-xo">καὶ παρθενείαν, ἧκ’ ἐς εὐύδρου πατρὸς</l>
+            <l real="x-o-o-o-o-ox">δίνας· τρέφειν δέ σ’ οὐ βρότειον ἐς χέρα</l>
+            <l real="x-x-x-x---o-">Στρυμὼν δίδωσιν, ἀλλὰ πηγαίαις κόραις.</l>
+            <l n="930" real="--x---x-o-xo">ἔνθ’ ἐκτραφεὶς κάλλιστα Παρθένων ὕπο,</l>
+            <l real="--x---o---xo">Θρῄκης ἀνάσσων πρῶτος ἦσθ’ ἀνδρῶν, τέκνον.</l>
+            <l real="--x--xx-x-x-">καί σ’ ἀμφὶ γῆν μὲν πατρίαν φιλαιμάτους</l>
+            <l real="--o---o---x-">ἀλκὰς κορύσσοντ’ οὐκ ἐδείμαινον θανεῖν·</l>
+            <l real="--x---x---oo">Τροίας δ’ ἀπηύδων ἄστυ μὴ κέλσαι ποτε,</l>
+            <l n="935" real="--x--xo-x-oo">εἰδυῖα τὸν σὸν πότμον· ἀλλά σ’ Ἕκτορος</l>
+            <l real="--x-oxx-o-x-">πρεσβεύμαθ’ αἵ τε μυρίαι γερουσίαι</l>
+            <l real="o-x--xx---x-">ἔπεισαν ἐλθεῖν κἀπικουρῆσαι φίλοις.</l>
+            <l real="--xxx-o-xxo-">
+              <milestone ed="P" unit="para"/>
 							καὶ τοῦδ’, Ἀθάνα, παντὸς αἰτία μόρου,
 						</l>
-						<l real="--o---oxo-oo"> — οὐδὲν δ’ Ὀδυσσεὺς οὐδ’ ὁ Τυδέως τόκος</l>
-						<l n="940" real="xxxx--o-o-o-">ἔδρασε δράσας — μὴ δόκει λεληθέναι.</l>
-						<l real="--o---o---oo">καίτοι πόλιν σὴν σύγγονοι πρεσβεύομεν</l>
-						<l real="--x-xxx-o-ox">Μοῦσαι μάλιστα κἀπιχρώμεθα χθονί,</l>
-						<l real="--x-o-x---xx">μυστηρίων τε τῶν ἀπορρήτων φανὰς</l>
-						<l real="o-o---x-x-x-">ἔδειξεν Ὀρφεύς, αὐτανέψιος νεκροῦ</l>
-						<l n="945" real="--x---x---oo">τοῦδ’ ὃν κατακτείνεις σύ· Μουσαῖόν τε, σὸν</l>
-						<l real="--ox-xx-o-ox">σεμνὸν πολίτην κἀπὶ πλεῖστον ἄνδρ’ ἕνα</l>
-						<l real="--x---o---xo">ἐλθόντα, Φοῖβος σύγγονοί τ’ ἠσκήσαμεν.</l>
-						<l real="--o---o-o-x-">καὶ τῶνδε μισθὸν παῖδ’ ἔχουσ’ ἐν ἀγκάλαις</l>
-						<l real="--o---o-o-o-">θρηνῶ· σοφιστὴν δ’ ἄλλον οὐκ ἐπάξομαι.</l>
-					</sp>
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l n="950" real="x-x---x-o-x-">μάτην ἄρ’ ἡμᾶς Θρῄκιος τροχηλάτης</l>
-						<l real="o-x---o---oo">ἐδέννασ’, Ἕκτορ, τῷδε βουλεῦσαι φόνον.</l>
-					</sp>
-					<milestone ed="p" n="952" unit="card"/>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="--x---o-o-x-">ᾔδη τάδ’· οὐδὲν μάντεων ἔδει φράσαι</l>
-						<l real="o-o-x-x-o-ox">Ὀδυσσέως τέχναισι τόνδ’ ὀλωλότα.</l>
-						<l real="o-o-oxo---xo">ἐγὼ δὲ γῆς ἔφεδρον Ἑλλήνων στρατὸν</l>
-						<l n="955" real="--x-o-o---x-">λεύσσων, τί μὴν ἔμελλον οὐ πέμψειν φίλοις</l>
-						<l real="-xx--xx---ox">κήρυκας, ἐλθεῖν κἀπικουρῆσαι χθονί;</l>
-						<l real="o-o---o-o-o-">ἔπεμψ’· ὀφείλων δ’ ἦλθε συμπονεῖν ἐμοί.</l>
-						<l real="--x-x-x-x-o-">οὐ μὴν θανόντι γ’ οὐδαμῶς συνήδομαι.</l>
-						<l real="--o---o---xo">καὶ νῦν ἕτοιμος τῷδε καὶ τεῦξαι τάφον</l>
-						<l n="960" real="--x--xx-x-x-">καὶ ξυμπυρῶσαι μυρίων πέπλων χλιδήν·</l>
-						<l real="x-x---x-x-o-">φίλος γὰρ ἐλθὼν δυστυχῶς ἀπέρχεται.</l>
-					</sp>
-					<sp who="#mousa">
-						<speaker>Μοῦσα</speaker>
-						<l real="--x-x-o-x-oo">οὐκ εἶσι γαίας ἐς μελάγχιμον πέδον·</l>
-						<l real="o-o---o---o-">τοσόνδε Νύμφην τὴν ἔνερθ’ αἰτήσομαι,</l>
-						<l real="--o---x---o-">τῆς καρποποιοῦ παῖδα Δήμητρος θεᾶς,</l>
-						<l n="965" real="x-x---o-o-o-">ψυχὴν ἀνεῖναι τοῦδ’· ὀφειλέτις δέ μοι</l>
-						<l real="--o-x-x---x-">τοὺς Ὀρφέως τιμῶσα φαίνεσθαι φίλους.</l>
-						<l real="x-o-x-o---xo">κἀμοὶ μὲν ὡς θανών τε κοὐ λεύσσων φάος</l>
-						<l real="--o-o-x---oo">ἔσται τὸ λοιπόν· οὐ γὰρ ἐς ταὐτόν ποτε</l>
-						<l real="--x-o-o-o-ox">οὔτ’ εἶσιν οὔτε μητρὸς ὄψεται δέμας·</l>
-						<l n="970" real="--o---x-x-oo">κρυπτὸς δ’ ἐν ἄντροις τῆς ὑπαργύρου χθονὸς</l>
-						<l real="--o---o-o-xo">ἀνθρωποδαίμων κείσεται βλέπων φάος,</l>
-						<l real="--o---o---xx">Βάκχου προφήτης ὥστε Παγγαίου πέτραν</l>
-						<l real="--o---x-o-oo">ᾤκησε, σεμνὸς τοῖσιν εἰδόσιν θεός.</l>
-						<l real="--o---x-x-o-">ῥᾷον δὲ πένθος τῆς θαλασσίας θεοῦ</l>
-						<l n="975" real="--x---o---o-">οἴσω· θανεῖν γὰρ καὶ τὸν ἐκ κείνης χρεών.</l>
-						<l real="--x---x-o--oo">θρήνοις δ’ ἀδελφαὶ πρῶτα μὲν σὲ ὑμνήσομεν,</l>
-						<l real="o-x-oxoxo---oo">ἔπειτ’ Ἀχιλλέα Θέτιδος ἐν πένθει ποτέ.</l>
-						<l real="-xo---x-x-xo">οὐ ῥύσεταί νιν Παλλάς, ἥ σ’ ἀπέκτανεν·</l>
-						<l real="--xxx-x---oo">τοῖον φαρέτρα Λοξίου σῴζει βέλος.</l>
-						<l n="980" real="--o---o-o-o-">ὦ παιδοποιοὶ συμφοραί, πόνοι βροτῶν·</l>
-						<l real="--xx--x-o-o-">ὡς ὅστις ὑμᾶς μὴ κακῶς λογίζεται,</l>
-						<l real="x-x---o---xx">ἄπαις διοίσει κοὐ τεκὼν θάψει τέκνα.</l>
-					</sp>
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l real="--o---x---o-">οὗτος μὲν ἤδη μητρὶ κηδεύειν μέλει·</l>
-						<l real="x-x---o-o-o-">σὺ δ’ εἴ τι πράσσειν τῶν προκειμένων θέλεις,</l>
-						<l n="985" real="--x-x-x-o-oo">Ἕκτορ, πάρεστι· φῶς γὰρ ἡμέρας τόδε.</l>
-					</sp>
-					<sp who="#hektor">
-						<speaker>Ἕκτωρ</speaker>
-						<l real="--o-x-x---xo">χωρεῖτε, συμμάχους δ’ ὁπλίζεσθαι τάχος</l>
-						<l real="x-x---o-x-x-">ἄνωχθε πληροῦν τ’ αὐχένας ξυνωρίδων.</l>
-						<l real="x-o---o---x-">πανοὺς δ’ ἔχοντας χρὴ μένειν Τυρσηνικῆς</l>
-						<l real="--o---x-x-xo">σάλπιγγος αὐδήν· ὡς ὑπερβαλὼν στρατὸν</l>
-						<l n="990" real="--x---x-o-x-">τείχη τ’ Ἀχαιῶν ναυσὶν αἶθον ἐμβαλεῖν</l>
-						<l real="o-x-x-oxo-ox">πέποιθα Τρωσί θ’ ἡμέραν ἐλευθέραν</l>
-						<l real="--x---x-x-o-">ἀκτῖνα τὴν στείχουσαν ἡλίου φέρειν.</l>
-					</sp>
-					<milestone ed="p" n="993" unit="card"/>
-				</div2>
-				<div2 type="anapests">
-					<sp who="#choros">
-						<speaker>Χορός</speaker>
-						<l real="--xx---ox-">πείθου βασιλεῖ· στείχωμεν ὅπλοις</l>
-						<l real="--xo---xx-">κοσμησάμενοι καὶ ξυμμαχίᾳ</l>
-						<l n="995" real="xx---xx-x-">τάδε φράζωμεν· τάχα δ’ ἂν νίκην</l>
-						<l real="----oo--">δοίη δαίμων ὁ μεθ’ ἡμῶν.</l>
-					</sp>
-				</div2>
-			</div1>
-		</body>
-	</text>
+            <l real="--o---oxo-oo"> — οὐδὲν δ’ Ὀδυσσεὺς οὐδ’ ὁ Τυδέως τόκος</l>
+            <l n="940" real="xxxx--o-o-o-">ἔδρασε δράσας — μὴ δόκει λεληθέναι.</l>
+            <l real="--o---o---oo">καίτοι πόλιν σὴν σύγγονοι πρεσβεύομεν</l>
+            <l real="--x-xxx-o-ox">Μοῦσαι μάλιστα κἀπιχρώμεθα χθονί,</l>
+            <l real="--x-o-x---xx">μυστηρίων τε τῶν ἀπορρήτων φανὰς</l>
+            <l real="o-o---x-x-x-">ἔδειξεν Ὀρφεύς, αὐτανέψιος νεκροῦ</l>
+            <l n="945" real="--x---x---oo">τοῦδ’ ὃν κατακτείνεις σύ· Μουσαῖόν τε, σὸν</l>
+            <l real="--ox-xx-o-ox">σεμνὸν πολίτην κἀπὶ πλεῖστον ἄνδρ’ ἕνα</l>
+            <l real="--x---o---xo">ἐλθόντα, Φοῖβος σύγγονοί τ’ ἠσκήσαμεν.</l>
+            <l real="--o---o-o-x-">καὶ τῶνδε μισθὸν παῖδ’ ἔχουσ’ ἐν ἀγκάλαις</l>
+            <l real="--o---o-o-o-">θρηνῶ· σοφιστὴν δ’ ἄλλον οὐκ ἐπάξομαι.</l>
+          </sp>
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l n="950" real="x-x---x-o-x-">μάτην ἄρ’ ἡμᾶς Θρῄκιος τροχηλάτης</l>
+            <l real="o-x---o---oo">ἐδέννασ’, Ἕκτορ, τῷδε βουλεῦσαι φόνον.</l>
+          </sp>
+          <milestone ed="p" n="952" unit="card"/>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="--x---o-o-x-">ᾔδη τάδ’· οὐδὲν μάντεων ἔδει φράσαι</l>
+            <l real="o-o-x-x-o-ox">Ὀδυσσέως τέχναισι τόνδ’ ὀλωλότα.</l>
+            <l real="o-o-oxo---xo">ἐγὼ δὲ γῆς ἔφεδρον Ἑλλήνων στρατὸν</l>
+            <l n="955" real="--x-o-o---x-">λεύσσων, τί μὴν ἔμελλον οὐ πέμψειν φίλοις</l>
+            <l real="-xx--xx---ox">κήρυκας, ἐλθεῖν κἀπικουρῆσαι χθονί;</l>
+            <l real="o-o---o-o-o-">ἔπεμψ’· ὀφείλων δ’ ἦλθε συμπονεῖν ἐμοί.</l>
+            <l real="--x-x-x-x-o-">οὐ μὴν θανόντι γ’ οὐδαμῶς συνήδομαι.</l>
+            <l real="--o---o---xo">καὶ νῦν ἕτοιμος τῷδε καὶ τεῦξαι τάφον</l>
+            <l n="960" real="--x--xx-x-x-">καὶ ξυμπυρῶσαι μυρίων πέπλων χλιδήν·</l>
+            <l real="x-x---x-x-o-">φίλος γὰρ ἐλθὼν δυστυχῶς ἀπέρχεται.</l>
+          </sp>
+          <sp who="#mousa">
+            <speaker>Μοῦσα</speaker>
+            <l real="--x-x-o-x-oo">οὐκ εἶσι γαίας ἐς μελάγχιμον πέδον·</l>
+            <l real="o-o---o---o-">τοσόνδε Νύμφην τὴν ἔνερθ’ αἰτήσομαι,</l>
+            <l real="--o---x---o-">τῆς καρποποιοῦ παῖδα Δήμητρος θεᾶς,</l>
+            <l n="965" real="x-x---o-o-o-">ψυχὴν ἀνεῖναι τοῦδ’· ὀφειλέτις δέ μοι</l>
+            <l real="--o-x-x---x-">τοὺς Ὀρφέως τιμῶσα φαίνεσθαι φίλους.</l>
+            <l real="x-o-x-o---xo">κἀμοὶ μὲν ὡς θανών τε κοὐ λεύσσων φάος</l>
+            <l real="--o-o-x---oo">ἔσται τὸ λοιπόν· οὐ γὰρ ἐς ταὐτόν ποτε</l>
+            <l real="--x-o-o-o-ox">οὔτ’ εἶσιν οὔτε μητρὸς ὄψεται δέμας·</l>
+            <l n="970" real="--o---x-x-oo">κρυπτὸς δ’ ἐν ἄντροις τῆς ὑπαργύρου χθονὸς</l>
+            <l real="--o---o-o-xo">ἀνθρωποδαίμων κείσεται βλέπων φάος,</l>
+            <l real="--o---o---xx">Βάκχου προφήτης ὥστε Παγγαίου πέτραν</l>
+            <l real="--o---x-o-oo">ᾤκησε, σεμνὸς τοῖσιν εἰδόσιν θεός.</l>
+            <l real="--o---x-x-o-">ῥᾷον δὲ πένθος τῆς θαλασσίας θεοῦ</l>
+            <l n="975" real="--x---o---o-">οἴσω· θανεῖν γὰρ καὶ τὸν ἐκ κείνης χρεών.</l>
+            <l real="--x---x-o--oo">θρήνοις δ’ ἀδελφαὶ πρῶτα μὲν σὲ ὑμνήσομεν,</l>
+            <l real="o-x-oxoxo---oo">ἔπειτ’ Ἀχιλλέα Θέτιδος ἐν πένθει ποτέ.</l>
+            <l real="-xo---x-x-xo">οὐ ῥύσεταί νιν Παλλάς, ἥ σ’ ἀπέκτανεν·</l>
+            <l real="--xxx-x---oo">τοῖον φαρέτρα Λοξίου σῴζει βέλος.</l>
+            <l n="980" real="--o---o-o-o-">ὦ παιδοποιοὶ συμφοραί, πόνοι βροτῶν·</l>
+            <l real="--xx--x-o-o-">ὡς ὅστις ὑμᾶς μὴ κακῶς λογίζεται,</l>
+            <l real="x-x---o---xx">ἄπαις διοίσει κοὐ τεκὼν θάψει τέκνα.</l>
+          </sp>
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l real="--o---x---o-">οὗτος μὲν ἤδη μητρὶ κηδεύειν μέλει·</l>
+            <l real="x-x---o-o-o-">σὺ δ’ εἴ τι πράσσειν τῶν προκειμένων θέλεις,</l>
+            <l n="985" real="--x-x-x-o-oo">Ἕκτορ, πάρεστι· φῶς γὰρ ἡμέρας τόδε.</l>
+          </sp>
+          <sp who="#hektor">
+            <speaker>Ἕκτωρ</speaker>
+            <l real="--o-x-x---xo">χωρεῖτε, συμμάχους δ’ ὁπλίζεσθαι τάχος</l>
+            <l real="x-x---o-x-x-">ἄνωχθε πληροῦν τ’ αὐχένας ξυνωρίδων.</l>
+            <l real="x-o---o---x-">πανοὺς δ’ ἔχοντας χρὴ μένειν Τυρσηνικῆς</l>
+            <l real="--o---x-x-xo">σάλπιγγος αὐδήν· ὡς ὑπερβαλὼν στρατὸν</l>
+            <l n="990" real="--x---x-o-x-">τείχη τ’ Ἀχαιῶν ναυσὶν αἶθον ἐμβαλεῖν</l>
+            <l real="o-x-x-oxo-ox">πέποιθα Τρωσί θ’ ἡμέραν ἐλευθέραν</l>
+            <l real="--x---x-x-o-">ἀκτῖνα τὴν στείχουσαν ἡλίου φέρειν.</l>
+          </sp>
+          <milestone ed="p" n="993" unit="card"/>
+        </div2>
+        <div2 type="anapests">
+          <sp who="#choros">
+            <speaker>Χορός</speaker>
+            <l real="--xx---ox-">πείθου βασιλεῖ· στείχωμεν ὅπλοις</l>
+            <l real="--xo---xx-">κοσμησάμενοι καὶ ξυμμαχίᾳ</l>
+            <l n="995" real="xx---xx-x-">τάδε φράζωμεν· τάχα δ’ ἂν νίκην</l>
+            <l real="----oo--">δοίη δαίμων ὁ μεθ’ ἡμῶν.</l>
+          </sp>
+        </div2>
+      </div1>
+    </body>
+  </text>
 </TEI>

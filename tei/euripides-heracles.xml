@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ell">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="greek000013" xml:lang="ell">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,7 +13,6 @@
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="dracor" xml:base="https://dracor.org/id/">greek000013</idno>
         <availability>
           <licence>
             <ab>CC BY-SA 3.0 US</ab>
@@ -169,7 +168,9 @@ convert to P3
         <label>416 BCE</label>
       </event>
     </listEvent>
-    <link type="wikidata" target="http://www.wikidata.org/entity/Q1233835"/>
+    <listRelation>
+      <relation name="wikidata" active="https://dracor.org/entity/greek000013" passive="http://www.wikidata.org/entity/Q1233835"/>
+    </listRelation>
   </standOff>
   <text lang="greek">
     <body>

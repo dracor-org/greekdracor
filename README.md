@@ -27,9 +27,9 @@ Thanks to Dmitry S. Krylov for the metric markup (June 2020).
 * Euripidis Fabulae. Recognovit brevique adnotatione critica instruxit Gilbertus Murray.
   * [Tomus I. Oxford: Clarendon Press 1902.](https://archive.org/details/euripidisfabu01euri)
     * <s>Cyclops.</s> <s>Alcestis.</s> <s>Medea.</s> <s>Heraclidae.</s> <s>Hippolytus.</s> <s>Andromacha.</s> Hecuba.
-  * [Tomus II. Oxford: Clarendon Press 1904.](https://archive.org/details/euripidisfabul02euri)
+  * [Tomus II. Oxford: Clarendon Press 1913.](https://archive.org/details/euripidisfabul02euri) (Third edition?)
     * Supplices. Hercules. Ion. Troiades. Electra. Iphigenia Taurica.
-  * [Tomus III. Oxford: Clarendon Press 1909.](https://archive.org/details/euripidisfabulae03euriuoft)
+  * [Tomus III. Oxford: Clarendon Press 1913.](https://archive.org/details/euripidisfabulae03euriuoft) (Second edition?)
     * Helena. Phoenissae. Orestes. Bacchae. Iphigenia Aulidensis. Rhesus.
 
 * Aristophanis Comoediae. Recognoverunt brevique adnotatione critica instruxerunt F. W. Hall et W. M. Geldart.

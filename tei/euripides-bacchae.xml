@@ -22,28 +22,26 @@
       </publicationStmt>
       <extent>About 100Kb</extent>
       <sourceDesc>
-        <biblStruct>
+        <bibl type="digitalSource">
+          <name>Perseus Digital Library</name>
+          <idno type="URL">http://www.perseus.tufts.edu/hopper/opensource/download</idno>
+          <availability status="free">
+            <licence>
+              <ab>CC BY-SA 3.0 US</ab>
+              <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
+            </licence>
+          </availability>
           <bibl type="originalSource">
-            <author key="wikidata:Q48305">Euripides</author>
-            <title>Euripidis Fabulae, ed. Gilbert Murray, vol. 3</title>
-            <imprint>
-              <pubPlace>Oxford</pubPlace>
-              <publisher>Clarendon Press, Oxford</publisher>
-              <date>1913</date>
-            </imprint>
+            <author>Euripides</author>: <title level="a">Bacchae</title>.
+            In: <title level="s">Euripidis Fabulae</title>.
+            Recognovit brevique adnotatione critica instruxit <editor>Gilbertus Murray</editor>.
+            Tomus <biblScope unit="volume">III</biblScope>.
+            <pubPlace>Oxford</pubPlace>:
+            <publisher>Clarendon Press</publisher>
+            <date>1913</date>.
           </bibl>
-        </biblStruct>
+        </bibl>
       </sourceDesc>
-      <bibl type="digitalSource">
-        <name>Perseus Digital Library (http://www.perseus.tufts.edu)</name>
-        <idno type="URL">http://www.perseus.tufts.edu/hopper/opensource/download</idno>
-        <availability status="free">
-          <licence>
-            <ab>CC BY-SA 3.0 US</ab>
-            <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
-          </licence>
-        </availability>
-      </bibl>
     </fileDesc>
     <metDecl pattern="[-ox]+">
       <metSym value="o">short syllable</metSym>

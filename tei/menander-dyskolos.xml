@@ -1,0 +1,2600 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="greek000040" xml:lang="ell">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title n="Dysk." type="work">Dyskolos</title>
+        <author>
+          <persName>Menander</persName>
+          <idno type="wikidata">Q118992</idno>
+        </author>
+        <principal>Julia Jennifer Beine, Frank Fischer</principal>
+        <respStmt>
+          <resp>Prepared under the supervision of</resp>
+          <persName>Julia Jennifer Beine</persName>
+          <persName>Frank Fischer</persName>
+          <resp>Prepared by</resp>
+          <persName>Clara Freymuth</persName>
+          <persName>Nils Koenen</persName>
+          <persName>Laura Lungershausen</persName>
+          <persName>Philipp Reichert</persName>
+          <resp>Assisted by</resp>
+          <persName>Philipp Reichert</persName>
+          <persName>Anna Wheeler</persName>
+        </respStmt>
+        <funder>
+          <orgName>Ruhr-University Bochum</orgName>
+          <name>Forschendes Lernen</name>
+          <ref target="https://uni.ruhr-uni-bochum.de/de/forschendes-lernen-0">Funding Line</ref>
+          <name>Digitales Lernen in der Philologie</name>
+          <ref target="https://www.dekphil.ruhr-uni-bochum.de/dekphil/digitalelehre/digiphil.html.de">Funding Line</ref>
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Ruhr-University Bochum, Department of Classical Philology</authority>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="dracor" xml:base="https://dracor.org/id/">greek000040</idno>
+        <availability>
+          <licence>
+            <ab>CC BY-SA 3.0</ab>
+            <ref target="https://creativecommons.org/licenses/by-sa/3.0/">Licence</ref>
+          </licence>
+          <p>Copyright of the manuscripts (c) Fondation Martin Bodmer. Thanks to the Fondation
+            Martin Bodmer for the authorization of this digitization. Cf. <title>Menander: Le
+              dyscolos. Publié par Victor Martin. Cologny-Genève: Bibliotheca Bodmeriana 1958
+              (Bibliothèque Bodmer. Papyrus Bodmer 4)</title>.</p>
+          <p>Copyright of the critical edition (c) Oxford University Press. Cf. <title>Menandri
+              reliquiae selectae. ed. F. H. Sandbach. Revised edition. Oxford: OUP 1990, pp. 43–91
+              (= Oxford Classical Texts).</title></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Wikisource</name>
+          <idno type="URL">https://el.wikisource.org/wiki/Δύσκολος</idno>
+          <availability status="free">
+            <licence>
+              <ab>CC BY-SA 3.0</ab>
+              <ref target="https://creativecommons.org/licenses/by-sa/3.0/">Licence</ref>
+            </licence>
+          </availability>
+          <bibl type="originalSource">
+            <title level="s">Menandri reliquiae selectae</title>. ed. <editor>F. H. Sandbach</editor>.
+              Revised edition. <pubPlace>Oxford</pubPlace>: <publisher>OUP</publisher> <date>1990</date>,
+              pp. <biblScope unit="page" from="43" to="91">43–91</biblScope> (= Oxford Classical Texts).
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="pan" sex="MALE" role="deus prologus">
+            <persName>Πάν (Pan)</persName>
+          </person>
+          <person xml:id="chaireas" sex="MALE" role="parasitus">
+            <persName>Χαιρέας (Chaireas)</persName>
+          </person>
+          <person xml:id="sostratos" sex="MALE" role="adulescens">
+            <persName>Σώστρατος (Sostratos)</persName>
+          </person>
+          <person xml:id="pyrrhias" sex="MALE" role="servus">
+            <persName>Πυρρίας (Pyrrhias)</persName>
+          </person>
+          <person xml:id="knemon" sex="MALE" role="senex">
+            <persName>Κνήμων (Knemon)</persName>
+          </person>
+          <person xml:id="kore" sex="FEMALE" role="virgo">
+            <persName>παρθένος / κόρη (Girl)</persName>
+          </person>
+          <person xml:id="daos" sex="MALE" role="servus">
+            <persName>Δᾶος (Daos)</persName>
+          </person>
+          <person xml:id="gorgias" sex="MALE" role="adulescens">
+            <persName>Γοργίας (Gorgias)</persName>
+          </person>
+          <person xml:id="sikon" sex="MALE" role="cocus">
+            <persName>Σίκων (Sikon)</persName>
+          </person>
+          <person xml:id="getas" sex="MALE" role="servus">
+            <persName>Γέτας (Getas)</persName>
+          </person>
+          <person xml:id="meter" sex="FEMALE" role="matrona">
+            <persName>μήτηρ (Mother)</persName>
+          </person>
+          <person xml:id="simiche" sex="FEMALE" role="anus ancilla">
+            <persName>Σιμίχη (Simiche)</persName>
+          </person>
+          <person xml:id="kallippides" sex="MALE" role="senex">
+            <persName>Καλλιππίδης (Kallippides)</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term type="genreTitle">Comedy</term>
+        </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="premiere" when="-0316">
+        <label>316 BCE</label>
+      </event>
+    </listEvent>
+    <listRelation>
+      <relation name="wikidata" active="https://dracor.org/entity/greek000040" passive="http://www.wikidata.org/entity/Q1248766"/>
+    </listRelation>
+  </standOff>
+  <text>
+    <body>
+      <div n="1" type="act">
+        <head>I</head>
+        <sp who="#pan">
+          <speaker>(ΠAN)</speaker>
+          <l>Τῆς Ἀττικῆς νομίζετ’ εἶναι τὸν τόπον,</l>
+          <l>Φυλήν, τὸ νυμφαῖον δ’ ὅθεν προέρχομαι</l>
+          <l>Φυλασίων καὶ τῶν δυναμένων τὰς πέτρας</l>
+          <l>ἐνθάδε γεωργεῖν, ἱερὸν ἐπιφανὲς πάνυ.</l>
+          <l n="5">Τὸν ἀγρὸν δὲ τὸν ἐπὶ δεξί’ οἰκεῖ τουτονὶ</l>
+          <l>Κνήμων, ἀπάνθρωπός τις ἄνθρωπος σφόδρα</l>
+          <l>καὶ δύσκολος πρὸς ἅπαντας, οὐ χαίρων τ’ ὄχλωι –</l>
+          <l>" ὄχλωι " λέγω ; Ζῶν οὗτος ἐπιεικῶς χρόνον</l>
+          <l>πολὺν λελάληκεν ἡδέως ἐν τῶι βίωι</l>
+          <l n="10">οὐδεν&lt;ί&gt;, προσηγόρευκε πρότερος δ’ οὐδένα,</l>
+          <l>πλὴν ἐξ ἀνάγκης γειτνιῶν παριών τ’ ἐμὲ</l>
+          <l>τὸν Πᾶνα· καὶ τοῦτ’ εὐθὺς αὐτῶι μεταμέλει,</l>
+          <l>εὖ οἶδ’. Ὅμως οὖν, τῶι τρόπωι τοιοῦτος ὤν,</l>
+          <l>χήραν γυναῖκ’ ἔγημε, τετελευτηκότος</l>
+          <l n="15">αὐτῆι νεωστὶ τοῦ λαβόντος τὸ πρότερον</l>
+          <l>ὑοῦ τε καταλελειμμένου μικροῦ τότε.</l>
+          <l>Ταύτηι ζυγομαχῶν οὐ μόνον τὰς ἡμέρας</l>
+          <l>ἐπιλαμβάνων δὲ καὶ τὸ πολὺ νυκτὸς μέρος</l>
+          <l>ἔζη κακῶς. Θυγάτριον αὐτῶι γίνεται·</l>
+          <l n="20">ἔτι μᾶλλον. Ὡς δ’ ἦν τὸ κακὸν οἷον οὐθὲν ἂν</l>
+          <l>ἕτερον γένοιθ’, ὁ βίος τ’ ἐπίπονος καὶ πικρός,</l>
+          <l>ἀπῆλθε πρὸς τὸν ὑὸν ἡ γυνὴ πάλιν</l>
+          <l>τὸν πρότερον αὐτῆι γενόμενον. Χωρίδιον</l>
+          <l>τούτωι δ’ ὑπάρχον ἦν τι μικρὸν ἐνθαδὶ</l>
+          <l n="25">ἐν γειτόνων, οὗ διατρέφει νυνὶ κακῶς</l>
+          <l>τὴν μητέρ’, αὑτόν, πιστὸν οἰκέτην θ’ ἕνα</l>
+          <l>πατρῶιον. Ἤδη δ’ ἐστὶ μειρακύλλιον</l>
+          <l>ὁ παῖς ὑπὲρ τὴν ἡλικίαν τὸν νοῦν ἔχων·</l>
+          <l>προάγει γὰρ ἡ τῶν πραγμάτων ἐμπειρία.</l>
+          <l n="30"> Ὁ γέρων δ’ ἔχων τὴν θυγατέρ’ αὐτὸς ζῆι μόνος</l>
+          <l>καὶ γραῦν θεράπαιναν, ξυλοφορῶν σκάπτων τ’, ἀεὶ</l>
+          <l>πονῶν, ἀπὸ τούτων ἀρξάμενος τῶν γειτόνων</l>
+          <l>καὶ τῆς γυναικὸς μέχρι Χολαργέων κάτω</l>
+          <l>μισῶν ἐφεξῆς πάντας. Ἡ δὲ παρθένος</l>
+          <l n="35">γέγονεν ὁμοία τῆι τροφῆι τις, οὐδὲ ἓν</l>
+          <l>εἰδυῖα φλαῦρον. Τὰς δὲ συντρόφους ἐμοὶ</l>
+          <l>Νύμφας κολακεύουσ’ ἐπιμελῶς τιμῶσά τε</l>
+          <l>πέπεικεν αὐτῆς ἐπιμέλειαν σχεῖν τινα</l>
+          <l>ἡμᾶς· νεανίσκον τε καὶ μάλ’ εὐπόρου</l>
+          <l n="40">πατρὸς γεωργοῦντος ταλάντων κτήματα</l>
+          <l>ἐνταῦθα πολλῶν, ἀστικὸν τῆι διατριβῆι,</l>
+          <l>ἥκο]ν~τ’ ἐπὶ θήραν μετὰ κυνηγέτου τινὸς</l>
+          <l>]υ κατὰ τύχην παραβαλόντ’ εἰς τὸν τόπον</l>
+          <l>]. Ἔχειν πως ἐνθεαστικῶς ποῶ.</l>
+          <l n="45">Ταῦτ’ ἐστὶ τὰ κεφάλαια, τὰ καθ’ ἕκαστα δὲ</l>
+          <l>ὄψεσθ]’ ἐὰν βούλησθε–βουλήθητε δέ.</l>
+          <l>Καὶ γὰ]ρ προσιόνθ’ ὁρᾶν δοκῶ μοι τουτονὶ</l>
+          <l>τὸν ἐρῶντα τόν τε συγκ~[……]ν~ ἅμα,</l>
+          <l>αὑτοῖς ὑπὲρ τούτων τι σ[υγκοινουμ]ένους.</l>
+        </sp>
+        <sp who="#chaireas">
+          <speaker>ΧΑΙΡEAΣ</speaker>
+          <l n="50">Τί φήις ; Ἰδὼν ἐνθένδε παῖδ’ ἐλευθέραν</l>
+          <l>τὰς πλησίον Νύμφας στεφανοῦσαν, Σώστρατε,</l>
+          <l part="I"> ἐρῶν ἀπῆλθες εὐθύς ;</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>ΣΩΣΤΡΑΤΟΣ</speaker>
+          <l part="M">Εὐθύς.</l>
+        </sp>
+        <sp who="#chaireas">
+          <speaker><supplied>Χαι.</supplied></speaker>
+          <l part="F">Ὡς ταχύ.</l>
+          <l>Ἦ τοῦτ’ ἐβεβούλευσ’ ἐξιών, ἐρᾶν τινος ;</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l>Σκώπτεις· ἐγὼ δὲ, Χαιρέα, κακῶς ἔχω.</l>
+        </sp>
+        <sp who="#chaireas">
+          <speaker>(Χαι.)</speaker>
+          <l n="55" part="I">Ἀλλ’ οὐκ ἀπιστῶ.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="F">Διόπερ ἥκω παραλαβὼν</l>
+          <l>σὲ πρὸς τὸ πρᾶγμα, καὶ φίλον καὶ πρακτικὸν</l>
+          <l part="I">κρίνας μάλιστα.</l>
+        </sp>
+        <sp who="#chaireas">
+          <speaker>(Χαι.)</speaker>
+          <l part="F">Πρὸς τὰ τοιαῦτα, Σώστρατε,</l>
+          <l>οὕτως ἔχω· παραλαμβάνει τις τῶν φίλων</l>
+          <l>ἐρῶν ἑταίρας· εὐθὺς ἁρπάσας φέρω,</l>
+          <l n="60">μεθύω, κατακάω, λόγον ὅλως οὐκ ἀνέχομαι·</l>
+          <l>πρὶν ἐξετάσαι γὰρ ἥτις ἐστί, δεῖ τυχεῖν.</l>
+          <l>Τὸ μὲν βραδύνειν γὰρ τὸν ἔρωτ’ αὔξει πολύ,</l>
+          <l>ἐν τῶι ταχέως δ’ ἔνεστι παύσασθαι ταχύ.</l>
+          <l>γάμον λέγει τις καὶ κόρην ἐλευθέραν·</l>
+          <l n="65">ἕτερος τίς εἰμ’ ἐνταῦθα· πυνθάνομαι γένος,</l>
+          <l>βίον, τρόπους. Εἰς πάντα τὸν λοιπὸν χρόνον</l>
+          <l>μνείαν γὰρ ἤδη τῶι φίλωι καταλείπομαι</l>
+          <l part="I">ὡς ἂν διοικήσω περὶ ταῦτα.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="F">Καὶ μάλ’ εὖ</l>
+          <l part="I">(οὐ πάνυ δ’ ἀρεσκόντως ἐμοί).</l>
+        </sp>
+        <sp who="#chaireas">
+          <speaker>(Χαι.)</speaker>
+          <l part="F">Καὶ νῦν γε δεῖ</l>
+          <l n="70" part="I">ταῦτα διακοῦσαι πρῶτον ἡμᾶς.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="F">ὄρθριον</l>
+          <l>τὸν Πυρρίαν τὸν συγκυνηγὸν οἴκοθεν</l>
+          <l part="I"> ἐγὼ πέπομφα–</l>
+        </sp>
+        <sp who="#chaireas">
+          <speaker>(Χαι.)</speaker>
+          <l part="M">Πρὸς τίνα ;</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="F">αὐτῶι τῶι πατρὶ</l>
+          <l>ἐντευξόμενον τῆς παιδὸς ἢ τῶι κυρίωι</l>
+          <l part="I">τῆς οἰκίας ὅστις ποτ’ ἐστίν.</l>
+        </sp>
+        <sp who="#chaireas">
+          <speaker>(Χαι.)</speaker>
+          <l part="F">Ἡράκλεις,</l>
+          <l n="75" part="I">οἷον λέγεις.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="F">ἥμαρτον· οὐ γὰρ οἰκέτηι</l>
+          <l>ἥρμοττ’ ἴσως τὸ τοιοῦτ&lt;ό γ’&gt;. ἀλλ’ οὐ ῥάιδιον</l>
+          <l>ἐρῶντα συνιδεῖν ἐστι τί ποτε συμφέρει·</l>
+          <l>καὶ τὴν διατριβὴν ἥτις ἔστ’ αὐτοῦ πάλαι</l>
+          <l>τεθαύμακ’· εἰρήκειν γὰρ εὐθὺς οἴκαδε</l>
+          <l n="80"> αὐτῶι παρεῖναι πυθομένωι τἀνταῦθά μοι.</l>
+        </sp>
+        <sp who="#pyrrhias">
+          <speaker>Πυρριας</speaker>
+          <l>πάρες, φυλάττου, πᾶς ἄπελθ’ ἐκ τοῦ μέσου·</l>
+          <l part="I">μαίνεθ’ ὁ διώκων, μαίνεται.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="F">τί τοῦτο, παῖ ;</l>
+        </sp>
+        <sp who="#pyrrhias">
+          <speaker>(Πυ.)</speaker>
+          <l part="I">φεύγετε.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="M">τί ἐστι ;</l>
+        </sp>
+        <sp who="#pyrrhias">
+          <speaker>(Πυ.)</speaker>
+          <l part="F"> Βάλλομαι βώλοις, λίθοις·</l>
+          <l part="I"> ἀπόλωλα.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="M">Βάλλει ; ποῖ, κακόδαιμον ;</l>
+        </sp>
+        <sp who="#pyrrhias">
+          <speaker>(Πυ.)</speaker>
+          <l part="F"> οὐκέτι</l>
+          <l n="85" part="I">ἴσως διώκει ;</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="M">μὰ Δία.</l>
+        </sp>
+        <sp who="#pyrrhias">
+          <speaker>(Πυ.)</speaker>
+          <l part="M">ἐγὼ δ’ ὤιμην.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="F">τί δαὶ</l>
+          <l part="I">λέγεις ;</l>
+        </sp>
+        <sp who="#pyrrhias">
+          <speaker>(Πυ.)</speaker>
+          <l part="M">ἀπαλλαγῶμεν, ἱκετεύω σε.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="F">ποῖ ;</l>
+        </sp>
+        <sp who="#pyrrhias">
+          <speaker>(Πυ.)</speaker>
+          <l>ἀπὸ τῆς θύρας ἐντεῦθεν ὡς πορρωτάτω.</l>
+          <l>Ὀδύνης γὰρ ὑὸς ἦ&lt;ν&gt;· κακοδαιμ&lt;ον&gt;ῶν τις ἢ</l>
+          <l>μελαγχολῶν ἅνθρωπος οἰκῶ[ν ἐνθαδ]ὶ</l>
+          <l n="90"> τὴν οἰκίαν πρὸς ὅν μ’ ἔπεμπ~[ες</l>
+          <l>μεγάλου κακοῦ· τοὺς δακτύλους [κατέαξα γὰρ</l>
+          <l>σχεδόν τι προσπταίων ἅπα[ντας</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker><supplied>?Σω.</supplied></speaker>
+          <l part="I"> ἐλθών ;</l>
+        </sp>
+        <sp who="#pyrrhias">
+          <speaker>&lt; Πυ.&gt;</speaker>
+          <l part="F">τί ; πεπαρώινηκε. δεῦ[ρο</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker><supplied>?Σω.</supplied></speaker>
+          <l part="I">εὔδηλός ἐστι.</l>
+        </sp>
+        <sp who="#pyrrhias">
+          <speaker>(Πυ.)</speaker>
+          <l part="F">νὴ Δί’, ἐξώλ[ης ἄρα,</l>
+          <l n="95">Σώστρατ’, ἀπολο[ίμην· ἔχε] δέ πως φυλακτικῶς.</l>
+          <l>ἀλλ’ οὐ δύναμαι λ[έγειν, προ]σέστηκεν δέ μοι</l>
+          <l>τὸ πνεῦμα. κόψας τὴν θύραν τῆς οἰκίας</l>
+          <l>τὸν κύριον ζητεῖν ἔφην· προῆλθέ μοι</l>
+          <l>γραῦς τις κακοδαίμων, αὐτόθεν δ’ οὗ νῦν λέγων</l>
+          <l n="100"> ἕστηκ’ ἔδειξεν αὐτὸν ἐπὶ τοῦ λοφιδίου</l>
+          <l>ἐκεῖ περιφθειρόμενον ἀχράδας, ἦ πολὺν</l>
+          <l part="I">κύφων’ ἑαυτῶι συλλέγοντα.</l>
+        </sp>
+        <sp who="#chaireas">
+          <speaker>Χαι.</speaker>
+          <l part="F">ὡς ὀργίλως.</l>
+          <l part="I"> τί, ὦ μακάριε ;</l>
+        </sp>
+        <sp who="#pyrrhias">
+          <speaker>&lt;Πυ.&gt;</speaker>
+          <l part="F">ἐγὼ μὲν εἰς τὸ χωρίον</l>
+          <l>ἐμβὰς ἐπορευόμην πρὸς αὐτὸν καὶ πάνυ</l>
+          <l n="105">πόρρωθεν, εἶναί τις φιλάνθρωπος σφόδρα</l>
+          <l>ἐπιδέξιός τε βουλόμενος προσεῖπα καὶ</l>
+          <l>" ἥκω τι " φημί " πρός σε, πάτερ, ἰδεῖν τί σε</l>
+          <l>σπεύδων ὑπὲρ σοῦ πρᾶγμ’ "· &lt;ὁ δ’&gt; εὐθύς, " ἀνόσιε</l>
+          <l>ἄνθρωπέ, " φησιν, " εἰς τὸ χωρίον δέ μου</l>
+          <l n="110"> ἥκεις &lt;σύ ;&gt; τί μαθών ; " βῶλον αἴρεταί τινα·</l>
+          <l>ταύτην ἀφίησ’ εἰς τὸ πρόσωπον αὐτό μου.</l>
+        </sp>
+        <sp who="#chaireas">
+          <speaker>Χαι.</speaker>
+          <l part="I"> ἐς κόρακας.</l>
+        </sp>
+        <sp who="#pyrrhias">
+          <speaker>(Πυ.)</speaker>
+          <l part="F">ἐν ὅσωι δ’ « ἀλλά σ’ ὁ Ποσειδῶν– » λέγων</l>
+          <l>κατέμυσα, χάρακα λαμβάνει πάλιν τινά·</l>
+          <l>ἐκάθαιρέ μ’ αύτῆι « σοὶ δὲ κἀμοὶ πρᾶγμα τί</l>
+          <l n="115">ἐστιν ; » λέγων, « τὴν δημοσίαν οὐκ οἶσθ’ ὁδόν ; »</l>
+          <l part="I">ὀξύτατον ἀναβοῶν τι.</l>
+        </sp>
+        <sp who="#chaireas">
+          <speaker>Χαι.</speaker>
+          <l part="F"> μαινόμενον λέγεις</l>
+          <l part="I">τελέως γεωργόν.</l>
+        </sp>
+        <sp who="#pyrrhias">
+          <speaker>(Πυ.)</speaker>
+          <l part="F">τὸ δὲ πέρας· φεύγοντα γὰρ</l>
+          <l>δεδίωχ’ ἴσως με στάδια πέντε καὶ δέκα,</l>
+          <l>περὶ τὸν λόφον πρώτιστον, εἶθ’ οὕτω κάτω</l>
+          <l n="120"> εἰς τὸ δασὺ τοῦτο, σφενδονῶν βώλοις, λίθοις,</l>
+          <l>ταῖς ἀχράσιν ὡς οὐκ εἶχεν οὐδὲν ἄλλ’ ἔτι.</l>
+          <l>ἀνήμερόν τι πρᾶγμα τελέως, ἀνόσιος</l>
+          <l part="I">γέρων. ἱκετεύω σ’, ἄπιτε.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="F">δειλίαν λέγεις.</l>
+        </sp>
+        <sp who="#pyrrhias">
+          <speaker>(Πυ.)</speaker>
+          <l>οὐκ ἴστε τὸ κακὸν οἷόν ἐστι. κατέδεται</l>
+          <l n="125" part="I">ἡμᾶς.</l>
+        </sp>
+        <sp who="#chaireas">
+          <speaker>Χαι.</speaker>
+          <l part="F">τυχὸν ἴσως &lt;ὅδ’&gt; ὀδυνώμενός τι νῦν</l>
+          <l>τετύχηκε· διόπερ ἀναβαλέσθαι μοι δοκεῖ</l>
+          <l>αὐτῶι προσελθεῖν, Σώστρατ’· εὖ τοῦτ’ ἴσθ’ ὅτι</l>
+          <l>πρὸς πάντα πράγματ’ ἐστὶ πρακτικώτερον</l>
+          <l part="I">εὐκαιρία.</l>
+        </sp>
+        <sp who="#pyrrhias">
+          <speaker>Πυ.</speaker>
+          <l part="M">νοῦν ἔχετε.</l>
+        </sp>
+        <sp who="#chaireas">
+          <speaker>(Χαι.)</speaker>
+          <l part="F">ὑπέρπικρον δέ τι</l>
+          <l n="130"> ἐστὶν πένης γεωργός, οὐχ οὗτος μόνος,</l>
+          <l>σχεδὸν δ’ ἅπαντες. ἀλλ’ ἕωθεν αὔριον</l>
+          <l>ἐγὼ πρόσειμ’ αὐτῶι μόνος, τὴν οἰκίαν</l>
+          <l>ἐπείπερ οἶδα. νῦν δ’ ἀπελθὼν οἴκαδε</l>
+          <l>καὶ σὺ διάτριβε· τοῦτο δ’ ἕξει κατὰ τρόπον.</l>
+        </sp>
+        <sp who="#pyrrhias">
+          <speaker>(Πυ.)</speaker>
+          <l n="135" part="I">πράττωμεν οὕτως.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l part="F">πρόφασιν οὗτος ἄσμενος</l>
+          <l>εἴληφεν· εὐθὺς φανερὸς ἦν οὐχ ἡδέως</l>
+          <l>μετ’ ἐμοῦ βαδίζων οὐδὲ δοκιμάζων πάνυ</l>
+          <l>τὴν ἐπιβολ]ὴν τὴν τοῦ γάμου. κακὸν δὲ σὲ</l>
+          <l>κακῶς ἅπ]αντες ἀπολέσειαν οἱ θεοί,</l>
+          <l n="140" part="I"> μαστιγία.]</l>
+        </sp>
+        <sp who="#pyrrhias">
+          <speaker><supplied>Πυ.</supplied></speaker>
+          <l part="F">τί δ’] ἠδίκηκα, Σώστρατε ;</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l>κακῶς ἐπό]εις τὸ χωρίον τι δηλαδή.</l>
+        </sp>
+        <sp who="#pyrrhias">
+          <speaker><supplied>Πυ.</supplied></speaker>
+          <l part="I">οὐ μὰ Δί’] ἔκλεπτον.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="F">ἀλλ’ ἐμαστίγου σέ τις</l>
+          <l part="I">οὐδὲν ἀδικοῦντα ;</l>
+        </sp>
+        <sp who="#pyrrhias">
+          <speaker>(Πυ.)</speaker>
+          <l part="F">καὶ πάρεστί γ’ οὑτοσί</l>
+          <l>αὐτὸς–ὑπάγω, βέλτιστε. σὺ δὲ τούτωι λάλει.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l n="145">οὐκ ἂν δυναίμην· ἀπίθανός τις εἴμ’ ἀεὶ</l>
+          <l>ἐν τῶι λαλεῖν. ποῖον λέγει[ ]νι ;</l>
+          <l>οὐ πάνυ φιλάνθρωπον β[λέπειν μ]οι φαίνεται,</l>
+          <l>μὰ τὸν Δί’· ὡς δ’ ἐσπούδακ’. ἐ[πανάξ]ω βραχὺ</l>
+          <l>ἀπὸ τῆς θύρας. βέλτιον. ἀλλὰ κ~[αὶ β]οᾶι</l>
+          <l n="150"> μόνος βαδίζων. οὐχ ὑγιαίνειν μοι δοκεῖ.</l>
+          <l>δέδοικα μέντοι, μὰ τὸν Ἀπόλλω καὶ θεούς,</l>
+          <l>αὐτόν. τί γὰρ ἄν τις μὴ οὐχὶ τἀληθῆ λέγοι ;</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>Κνημων</speaker>
+          <l>εἶτ’ οὐ μακάριος ἦν ὁ Περσεὺς κατὰ δύο</l>
+          <l>τρόπους ἐκεῖνος, ὅτι πετηνὸς ἐγένετο</l>
+          <l n="155">κοὐδενὶ συνήντα τῶν βαδιζόντων χαμαί,</l>
+          <l>εἶθ’ ὅτι τοιοῦτο κτῆμ’ ἐκέκτηθ’ ὧι λίθους</l>
+          <l>ἅπαντας ἐπόει τοὺς ἐνοχλοῦντας ; ὅπερ ἐμοὶ</l>
+          <l>νυνὶ γένοιτ’· οὐδὲν γὰρ ἀφθονώτερον</l>
+          <l>λιθίνων γένοιτ’ &lt;ἂν&gt; ἀνδριάντων πανταχοῦ.</l>
+          <l n="160"> νῦν δ’ οὐ βιωτόν ἐστι, μὰ τὸν Ἀσκληπιόν.</l>
+          <l>λαλοῦσ’ ἐπεμβαίνοντες εἰς τὸ χωρίον</l>
+          <l>ἤδη· παρ’ αὐτὴν τὴν ὁδὸν γάρ, νὴ Δία,</l>
+          <l>εἴωθα διατρίβειν· ὃς οὐδ’ ἐργάζομαι</l>
+          <l>τοῦτο τὸ μέρος &lt;τοῦ&gt; χωρίου, πέφευγα δὲ</l>
+          <l n="165">διὰ τοὺς παριόντας. ἀλλ’ ἐπὶ τοὺς λόφους ἄνω</l>
+          <l>ἤδη διώκουσ’. ὢ πολυπληθείας ὄχλου.</l>
+          <l>οἴμοι, πάλιν τις οὑτοσὶ πρὸς ταῖς θύραις</l>
+          <l part="I">ἕστηκεν ἡμῶν.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l part="F">ἆρα τυπτήσει γέ με ;</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>Κν.</speaker>
+          <l>ἐρημίας οὐκ ἔστιν οὐδαμοῦ τυχεῖν,</l>
+          <l n="170"> οὐδ’ ἂν ἀπάγξασθαί τις ἐπιθυμῶν τύχηι.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l>ἐμοὶ χαλεπαίνει&lt;ς&gt; ; περιμένω, πάτερ, τινὰ</l>
+          <l part="I">ἐνταῦθα· συνεθέμην γάρ.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>(Κν.)</speaker>
+          <l part="F">οὐκ ἐγὼ ‘λεγον ;</l>
+          <l>τουτὶ στοὰν νενομίκατ’ ἢ τὸ τοῦ Λεώ ;</l>
+          <l>πρὸς τὰς ἐμὰς θύρας, ἐὰν ἰδεῖν τινα</l>
+          <l n="175">βούλησθε, συντάττεσθ’ ἀπαντᾶν· παντελῶς,</l>
+          <l>καὶ θῶκον οἰκοδομήσατ’, ἂν ἔχητε νοῦν,</l>
+          <l>μᾶλλον δὲ καὶ συνέδριον. ὢ τάλας ἐγώ,</l>
+          <l>ἐπηρεασμὸς τὸ κακὸν εἶναί μοι δοκεῖ.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l>οὐ τοῦ τυχόντος, ὡς ἐμοὶ δοκεῖ, πόνου</l>
+          <l n="180"> τουτὶ τὸ πρᾶγμά &lt;γ’&gt; ἀλλὰ συντονωτέρου.</l>
+          <l>πρόδηλόν ἐστιν. ἆρ’ ἐγὼ πορεύσομαι</l>
+          <l>ἐπὶ τὸν Γέταν τὸν τοῦ πατρός ; νὴ τοὺς θεοὺς</l>
+          <l>ἔγωγ’· ἔχει &lt;τι&gt; διάπυρον καὶ πραγμάτων</l>
+          <l>ἔμπειρός ἐστιν παντοδαπῶν· τὸ δύσκολον</l>
+          <l n="185">τὸ τοῦδ’ ἐκεῖνος &lt; &gt; ἀπώσετ’, οἶδ’ ἐγώ.</l>
+          <l>τὸ μὲν χρόνον γὰρ ἐμποεῖν τῶι πράγματι</l>
+          <l>ἀποδοκιμάζω. πόλλ’ ἐν ἡμέραι μιᾶι</l>
+          <l>γένοιτ’ ἄν. ἀλλὰ τὴν θύραν πέπληχέ τις.</l>
+        </sp>
+        <sp who="#kore">
+          <speaker>Κορη</speaker>
+          <l>οἴμοι τάλαινα τῶν ἐμῶν ἐγὼ κακῶν·</l>
+          <l n="190"> τί νῦν ποήσω ; τὸν κάδον γὰρ ἡ τροφὸς</l>
+          <l part="I">ἱμῶσ’ ἀφῆκεν εἰς τὸ φρέαρ.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l part="F">ὦ Ζεῦ πάτερ,</l>
+          <l>καὶ Φοῖβε Παιάν, ὦ Διοσκόρω φίλω,</l>
+          <l part="I">κάλλους ἀμάχου.</l>
+        </sp>
+        <sp who="#kore">
+          <speaker>Κορη</speaker>
+          <l part="F">θερμὸν &lt;δ’&gt; ὕδωρ πρ[οσέταξέ μοι</l>
+          <l part="I">ποιεῖν ὁ πάππας ἐξιών.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l part="F">ἄνδρε[ς, τέρας.</l>
+        </sp>
+        <sp who="#kore">
+          <speaker>(Kο.)</speaker>
+          <l n="195">ἐὰν δὲ τοῦτ’ αἴσθητ’, ἀπολεῖ κακ[</l>
+          <l>παίων ἐκείνην. οὐ σχολὴ ματ[</l>
+          <l>ὦ φίλταται Νύμφαι, παρ’ ὑμῶν λη[πτέον.</l>
+          <l>αἰσχύνομαι μέν, εἴ τινες θύουσ’ ἄ[ρα</l>
+          <l part="I">ἔνδον, ἐνοχλεῖν–</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="F"> ἀλλ’ ἂν ἐμοὶ δ[ῶις, αὐτίκα</l>
+          <l n="200"> βάψας ἐγώ σοι τ[ὴν ὑδρίαν ἥ]ξω φέρων.</l>
+        </sp>
+        <sp who="#kore">
+          <speaker>(Kο.)</speaker>
+          <l part="I">ναὶ πρὸς θεῶν, ἅ[νυσον δέ.]</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="F">ἐλευθερίως γέ πως</l>
+          <l>ἄγροικός ἐστιν. ὦ πολυτίμητοι θεοί,</l>
+          <l part="I">τίς ἂν ἐμὲ σώσαι δ~[αιμό]νων ;</l>
+        </sp>
+        <sp who="#kore">
+          <speaker>(Kο.)</speaker>
+          <l part="F">τάλαιν’ ἐγώ,</l>
+          <l>τίς ἐψόφηκεν ; ἆρ’ ὁ πάππας ἔρχεται ;</l>
+          <l n="205">ἔπειτα πληγὰς λήψομ’ ἄν με καταλάβηι</l>
+          <l part="I">ἔξω.</l>
+        </sp>
+        <sp who="#daos">
+          <speaker>Δαος</speaker>
+          <l>διατρίβω σοι διακονῶν πάλαι</l>
+          <l>ἐνταῦθ’, ὁ δὲ σκάπτει μόνος. πορευτέον</l>
+          <l>πρὸς ἐκεῖνόν ἐστιν. ὦ κάκιστ’ ἀπολουμένη</l>
+          <l>Πενία, τί σ’ ἡμεῖς τηλικοῦτ’ ἐφεύρομεν ;</l>
+          <l n="210"> τί τοσοῦτον ἡμῖν ἐνδελεχῶς οὕτω χρόνον</l>
+          <l part="I">ἔνδον κάθησαι καὶ συνοικεῖς ;</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="F">λάμβανε</l>
+          <l part="I">τηνδί.</l>
+        </sp>
+        <sp who="#kore">
+          <speaker>(Kο.)</speaker>
+          <l part="M">φέρε δεῦρο.</l>
+        </sp>
+        <sp who="#daos">
+          <speaker>Δα.</speaker>
+          <l part="F">τί ποτε βούλεθ’ οὑτοσὶ</l>
+          <l part="I">ἅνθρωπος ;</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="F">ἔρρωσ’, ἐπιμελοῦ τε τοῦ πατρός.</l>
+          <l>οἴμοι, κακοδαίμων. παῦε θρηνῶν, Σώστρατε·</l>
+          <l n="215" part="I">ἔσται κατὰ τρόπον.</l>
+        </sp>
+        <sp who="#daos">
+          <speaker>(Δα.)</speaker>
+          <l part="M">κατὰ τρόπον τί ;</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="F">μὴ φοβοῦ,</l>
+          <l>ἀλλ’ ὅπερ ἔμελλες ἄρτι τὸν Γέταν λαβὼν</l>
+          <l>ἐπάνηκ’, ἐκείνωι πᾶν τὸ πρᾶγμ’ εἰπὼν σαφῶς.</l>
+        </sp>
+        <sp who="#daos">
+          <speaker>Δα.</speaker>
+          <l>τουτὶ τὸ κακὸν τί ποτ’ ἐστίν ; ὡς οὔ μοι πάνυ</l>
+          <l>τὸ πρᾶγμ’ ἀρέσκει. μειράκιον διακονεῖ</l>
+          <l n="220"> κόρηι· πονηρόν. ἀλλά σ’, ὦ Κνήμων, κακὸν</l>
+          <l>κακῶς ἅπαντες ἀπολέσειαν οἱ θεοί.</l>
+          <l>ἄκακον κόρην μόνην ἀφεὶς ἐν ἐρημίαι</l>
+          <l>ἐᾶις, φυλακὴν οὐδεμίαν ὡς προσῆκον ἦν</l>
+          <l>ποιούμενος. τουτὶ καταμανθάνων ἴσως</l>
+          <l n="225">οὗτος προσερρύη, νομίζων ὡσπερεὶ</l>
+          <l>ἕρμαιον. οὐ μὴν ἀλλὰ &lt;τ&gt;ἀδελφῶι γε δεῖ</l>
+          <l>αὐτῆς φράσαι με τὴν ταχίστην ταῦθ’, ἵνα</l>
+          <l>ἐν ἐπιμελείαι τῆς κόρης γενώμεθα.</l>
+          <l>ἤδη δὲ τοῦτ’ ἐλθὼν ποήσειν μοι δοκῶ.</l>
+          <l n="230"> καὶ γὰρ προσιόντας τούσδε Πανιστάς τινας</l>
+          <l>εἰς τὸν τόπον δεῦρ’ ὑποβεβρεγμένους ὁρῶ,</l>
+          <l>οἷς μὴ ‘νοχλεῖν εὔκαιρον εἶναί μοι δοκεῖ.</l>
+        </sp>
+        <stage>Χορου</stage>
+      </div>
+      <div n="2" type="act">
+        <head>II</head>
+        <sp who="#gorgias">
+          <speaker>Gorgias</speaker>
+          <l>οὕτω παρέργως δ’, εἰπέ μοι, τῶι πράγματι</l>
+          <l part="I">φαύλως τ’ ἐχρήσω ;</l>
+        </sp>
+        <sp who="#daos">
+          <speaker>Δα.  </speaker>
+          <l part="M">πῶς ;</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l part="F">ἔδει σε, νὴ Δία,</l>
+          <l n="235">τὸν τῆι κόρηι προσιόντα, &lt;Δᾶ’&gt;, ὅστις ποτ’ ἦν,</l>
+          <l>ἰδεῖν τότ’ εὐθύς, τοῦτο τοῦ λοιποῦ χρόνου</l>
+          <l>εἰπεῖν θ’ ὅπως μηδείς ποτ’ αὐτὸν ὄψεται</l>
+          <l>ποιοῦντα· νυνὶ δ’ ὥσπερ ἀλλοτρίου τινὸς</l>
+          <l>πράγματος ἀπέστης. οὐκ ἔνεστ’ ἴσως φυγεῖν</l>
+          <l n="240">οἰκειότητα, Δᾶ’. ἀδελφῆς ἔτι μέλει</l>
+          <l>ἐμῆ[ς]. ὁ πατὴρ ἀλλότριος εἶναι βούλεται</l>
+          <l>αὐτῆς πρὸς ἡμᾶς· μὴ τὸ τούτου δύσκολον</l>
+          <l>μιμώμεθ’ ἡμεῖς· ἂν γὰρ αἰσχύνηι τινὶ</l>
+          <l>αὕτη] περιπέσηι, τοῦτο κἀμοὶ γίνεται</l>
+          <l n="245">ὄνειδο]ς. ὁ γὰρ ἔξωθεν οὐ τὸν αἴτιον</l>
+          <l>ὅστις] πότ’ ἐστιν οἶδεν, ἀλλὰ τὸ γεγονός.</l>
+          <l part="I">]ν~.</l>
+        </sp>
+        <sp who="#daos">
+          <speaker>(Δα.)</speaker>
+          <l part="F">ὦ τᾶν, τὸν γέροντα, Γοργία,</l>
+          <l>δέδοικ’· ἐ]ὰν γὰρ τῆι θύραι προσιόντα με</l>
+          <l part="I">λάβηι, κρ]εμᾶι παραχρῆμα.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>Γο.</speaker>
+          <l part="F">δυσχρήστως γέ πως</l>
+          <l n="250">[ ζυ]γομαχῶν τοῦτον οὔθ’ ὅτωι τρόπωι</l>
+          <l>ἀναγκάσαι τις εἰς τὸ βέλτι[ον ......]ν</l>
+          <l>οὔτ’ ἂν μεταπείσαι νουθετῶν ο[.......]ς</l>
+          <l>ἀλλ’ ἐμποδὼν τῶι μὲν βιάσασθαι τὸν νόμον</l>
+          <l>ἔχει μεθ’ αὑτοῦ, τῶι δὲ πεῖσαι τὸν τρόπον.</l>
+        </sp>
+        <sp who="#daos">
+          <speaker>Δα.</speaker>
+          <l n="255">μικρὸν δ’ ἐπίσχες· οὐ μάτην γὰρ ἥκομεν,</l>
+          <l>ἀλλ’ ὥσπερ εἶπον ἔρχετ’ ἀνακάμψας πάλιν.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>Γο.</speaker>
+          <l>ὁ τὴν χλανίδ’ ἔχων ; οὗτος ἐστὶν ὃν λέγεις ;</l>
+        </sp>
+        <sp who="#daos">
+          <speaker>(Δα.)</speaker>
+          <l part="I">οὗτος.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l part="F">κακοῦργος εὐθὺς ἀπὸ τοῦ βλέμματος.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l>τὸν μὲν Γέταν οὐκ ἔνδον ὄντα κατέλαβον,</l>
+          <l n="260">μέλλουσα δ’ ἡ μήτηρ θεῶι θύειν τινί–</l>
+          <l>οὐκ οἶδ’ ὅτωι–ποιεῖ δὲ τοῦθ’ ὁσημέραι,</l>
+          <l>περιέρχεται θύουσα τὸν δῆμον κύκλωι</l>
+          <l>ἅπαντ’–ἀπέσταλκ’ αὐτὸν αὐτόθεν τινὰ</l>
+          <l>μισθωσόμενον μάγειρον. ἐρρῶσθαι δὲ τῆι</l>
+          <l n="265">θυσίαι φράσας ἥκω πάλιν πρὸς τἀνθάδε.</l>
+          <l>καί μοι δοκῶ τοὺς περιπάτους τούτους ἀφεὶς</l>
+          <l>αὐτὸς διαλέξεσθ’ ὑπὲρ ἐμαυτοῦ. τὴν θύραν</l>
+          <l>κόψω δ’, ἵν’ ἦι μοι μηδὲ βουλεύσασθ’ ἔτι.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>Γο.</speaker>
+          <l>μειράκιον, ἐθελήσαις ἂν ὑπομεῖναι λόγον</l>
+          <l n="270" part="I">σπουδαιότερόν μου ;</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="F">καὶ μάλ’ ἡδέως· λέγε.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l>εἶναι νομίζω πᾶσιν ἀνθρώποις ἐγὼ</l>
+          <l>τοῖς τ’ εὐτυχοῦσιν τοῖς τε πράττουσιν κακῶς</l>
+          <l>πέρας τι τούτου καὶ μεταλλαγήν τινα,</l>
+          <l>καὶ τῶι μὲν εὐτυχοῦντι μέχρι τούτου μένειν</l>
+          <l n="275">τὰ πράγματ’ εὐθενοῦντ’ ἀεὶ τὰ τοῦ βίου</l>
+          <l>ὅσον ἂν χρόνον φέρειν δύνηται τὴν τύχην</l>
+          <l>μηδὲν ποήσας ἄδικον· εἰς δὲ τοῦθ’ ὅταν</l>
+          <l>ἔλθηι προαχθεὶς τοῖς ἀγαθοῖς, ἐνταῦθά που</l>
+          <l>τὴν μεταβολὴν τὴν εἰς τὸ χεῖρον λαμβάνει·</l>
+          <l n="280">τοῖς δ’ ἐνδεῶς πράττουσιν, ἂν μηδὲν κακὸν</l>
+          <l>ποιῶσιν ἀποροῦντες, φέρωσιν δ’ εὐγενῶς</l>
+          <l>τὸν δαίμον’, εἰς πίστιν ποτ’ ἐλθόντας χρόνωι,</l>
+          <l>βελτίον’ εἶναι μερίδα προσδοκᾶν τινα.</l>
+          <l>τί οὖν λέγω ; μήτ’ αὐτός, εἰ σφόδρ’ εὐπορεῖς,</l>
+          <l n="265">πίστευε τούτωι, μήτε τῶν πτωχῶν πάλιν</l>
+          <l>ἡμῶν καταφρόνει· τοῦ διευτυχεῖν δ’ ἀεὶ</l>
+          <l>πάρεχε σεαυτὸν τοῖς ὁρῶσιν ἄξιον.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l>ἄτοπον δέ σοι τι φαίνομαι νυνὶ ποεῖν ;</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l>ἔργον δοκεῖς μοι φαῦλον ἐζηλωκέναι,</l>
+          <l n="290">πείσειν νομίζων ἐξαμαρτεῖν παρθένον</l>
+          <l>ἐλευθέραν, ἢ καιρὸν ἐπιτηρῶν τινα</l>
+          <l>κατεργάσασθαι πρᾶγμα θανάτων ἄξιον</l>
+          <l part="I">πολλῶν.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="M">Ἄπολλον.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l part="F">οὐ δίκαιόν ἐστι γοῦν</l>
+          <l>τὴν σὴν σχολὴν τοῖς ἀσχολουμένοις κακὸν</l>
+          <l n="295">ἡμῖν γενέσθαι. τῶν δ’ ἁπάντων ἴσθ’ ὅτι</l>
+          <l>πτωχὸς ἀδικηθείς ἐστι δυσκολώτατο[ν.</l>
+          <l>πρῶτον μέν ἐστ’ ἐλεινός, εἶτα λαμβάνει</l>
+          <l>οὐκ εἰς ἀδικίαν ὅσα πέπονθ’, ἀλλ’ εἰς [ὕβριν.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l>μειράκιον, οὕτως εὐτυχοίης, βραχ[ύ τι μου</l>
+          <l n="300" part="I">ἄκουσον–</l>
+        </sp>
+        <sp who="#daos">
+          <speaker>(Δα.)</speaker>
+          <l part="F"> εὖ γε, δέσποθ’, οὕτω πολλά [μοι</l>
+          <l part="I">ἀγαθὰ γένοιτο.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="F">–καὶ σύ γ’, ὁ λαλῶν πρ[ὶν μαθεῖν.</l>
+          <l>κόρην τιν’ εἶδο[ν ἐνθαδὶ· τ]αύτης ἐρῶ.</l>
+          <l>εἰ τοῦτ’ ἀδίκημ’ ε~[ἴρηκ]α~ς, ἠδίκηκ’ ἴσως.</l>
+          <l>τί γὰρ ἄν τις εἴποι ; π[λὴν π]ορεύομ’ ἐνθάδε</l>
+          <l n="305">οὐχὶ πρὸς ἐκείνην, βούλομαι δ’ αὐτῆς ἰδεῖν</l>
+          <l>τὸν πατέρ’. ἐγὼ γάρ, ὢν ἐλεύθερος, βίον</l>
+          <l>ἱκανὸν ἔχων, ἕτοιμός εἰμι λαμβάνειν</l>
+          <l>αὐτὴν ἄπροικον, πίστιν ἐπιθεὶς διατελεῖν</l>
+          <l>στέργων. ἐπὶ κακῶι δ’ εἰ προσελήλυθ’ ἐνθάδε</l>
+          <l n="310">ἢ βουλόμενος ὑμῶν &lt;τι&gt; κακοτεχνεῖν λάθραι,</l>
+          <l>οὗτός μ’ ὁ Πάν, μειράκιον, αἱ Νύμφαι θ’ ἅμα</l>
+          <l>ἀπόπληκτον αὐτοῦ πλησίον τῆς οἰκίας</l>
+          <l>ἤδη ποήσειαν. τετάραγμ’, &lt;εὖ&gt; ἴσθ’ ὅτι,</l>
+          <l>οὐδὲ μετρίως, εἴ σοι τοιοῦτος φαίνομαι.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>Γο.</speaker>
+          <l n="315">ἀpλλ’ εἴ τι κἀγὼ τοῦ δέοντος σφοδρότερον</l>
+          <l>εἴρηκα, μηδὲν τοῦτο λυπείτω σ’ ἔτι.</l>
+          <l>ἅμα γὰρ μεταπείθεις ταῦτα καὶ φίλον μ’ ἔχεις.</l>
+          <l>οὐκ ἀλλότριος δ’ ὤν, ἀλλ’ ἀδελφὸς τῆς κόρης</l>
+          <l>ὁμομήτριος, βέλτιστε, ταῦτά σοι λέγω.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l n="320">καὶ χρήσιμός γ’ εἶ, νὴ Δί’, εἰς τὰ λοιπά μοι.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l part="I">τί χρήσιμος ;</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="F">  γεννικὸν ὁρῶ σε τῶι τρόπωι.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l>οὐ πρόφασιν εἰπὼν βούλομ’ ἀποπέμψαι κενήν,</l>
+          <l>τὰ δ’ ὄντα πράγματ’ ἐμφανίσαι. ταύτηι πατήρ</l>
+          <l>ἐσθ’ οἷος οὐδεὶς γέγονεν οὔτε τῶν πάλαι</l>
+          <l n="325" part="I">ἄνθρωπος οὔτε τῶν καθ’ ἡμᾶς.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="F">ὁ χαλεπός·</l>
+          <l part="I">σχεδὸν οἶδα.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l part="F">ὑπερβολή τις ἐστὶν τοῦ κακοῦ.</l>
+          <l>τούτωι ταλάντων ἔστ’ ἴσως τουτὶ δυεῖν</l>
+          <l>τὸ κτῆμα. τοῦτ’ αὐτὸς γεωργῶν διατελεῖ</l>
+          <l>μόνος, συνεργὸν δ’ οὐδέν’ ἀνθρώπων ἔχων,</l>
+          <l n="330">οὐκ οἰκέτην οἰκεῖον, οὐκ ἐκ τοῦ τόπου</l>
+          <l>μισθωτόν, οὐχὶ γείτον’, ἀλλ’ αὐτὸς μόνος.</l>
+          <l>ἥδιστόν ἐστ’ αὐτῶι γὰρ ἀνθρώπων ὁρᾶν</l>
+          <l>οὐδένα. μεθ’ αὑτοῦ τὴν κόρην ἐργάζεται</l>
+          <l>ἔχων τὰ πολλά· προσλαλεῖ ταύτηι μόνηι,</l>
+          <l n="335">ἑτέρωι δὲ τοῦτ’ οὐκ ἂν ποήσαι ῥαιδίως.</l>
+          <l>τότε φησὶν ἐκδώσειν ἐκείνην, ἡνίκ’ ἂν</l>
+          <l part="I">ὁμότροπον αὑτῶι νυμφίον λάβηι.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="F">λέγεις</l>
+          <l part="I">οὐδέποτε.</l>
+
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l part="F">μὴ δὴ πράγματ’, ὦ βέλτιστ’, ἔχε·</l>
+          <l>μάτην γὰρ ἕξεις. τοὺς δ’ ἀναγκαίους ἔα</l>
+          <l n="340">ἡμᾶς φέρειν ταῦθ’, οἷς δίδωσιν ἡ τύχη.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l>πρὸς τῶν θεῶν οὐπώποτ’ ἠράσθης τινός,</l>
+          <l part="I">μειράκιον ;</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l part="M">  οὐδ’ ἔξεστί μοι, βέλτιστε.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="F">πῶς ;</l>
+          <l part="I">τίς ἔσθ’ ὁ κωλύων ;</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l part="F">ὁ τῶν ὄντων κακῶν</l>
+          <l>λογισμός, ἀνάπαυσιν διδοὺς οὐδ’ ἡντινοῦν.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l n="345">οὔ μοι δοκεῖς· ἀπειρότερον γοῦν διαλέγει</l>
+          <l>περὶ ταῦτ’· ἀποστῆναι κελεύεις μ’. οὐκέτι</l>
+          <l part="I">τοῦτ’ ἐσ]τὶν ἐπ’ ἐμοί, τῶι θεῶι δέ.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l part="F">τοιγαροῦν</l>
+          <l>οὐδὲ]ν ἀδικεῖς ἡμᾶς, μάτην δὲ κακοπαθεῖς.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="I">οὐκ, εἰ λά]βοιμι τὴν κόρην.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l part="F">  οὐκ ἂν λάβοις.</l>
+          <l n="350">[ ]υνα <sic>συν&lt;α&gt;κολουθήσας ἐμοὶ</sic></l>
+          <l><sic>]παρατης </sic>· πλησίον γὰρ τὴν νάπην</l>
+          <l part="I">ἐργάζε]θ~’ ἡμῶν.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="M">πῶς ;</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l part="F">λόγον τιν’ ἐμβαλῶ</l>
+          <l>περὶ τοῦ] γάμου &lt;τοῦ&gt; τῆς κόρης· τὸ τοιοῦτο γὰρ</l>
+          <l>ἴδοιμι κἂ]ν αὐτὸς γενόμενον ἄσμενος.</l>
+          <l n="355">εὐθὺς μαχεῖται πᾶσι, λοιδορούμενος</l>
+          <l>εἰς τοὺς βίους οὓς ζῶσι· σὲ δ’ [ἄγοντ’ ἂν] ἴδηι</l>
+          <l>σχολὴν τρυφῶντά τ’, οὐδ’ ὁρῶν γ’ ἀνέξεται.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l part="I">νῦν ἔστ’ ἐκεῖ ;</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l part="F">  μὰ Δί’, ἀλλὰ μ[ικρ]ὸν ὕστερον</l>
+          <l part="I">ἔξεισιν ἣν εἴωθεν.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="F">ὦ τᾶν, τὴν κόρην</l>
+          <l n="360" part="I">ἄγων μεθ’ αὑτοῦ, φήις ;</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l part="F">ὅπως ἂν τοῦτό γε</l>
+          <l part="I">τύχηι.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="F">  Βαδίζειν &lt;εἰμ’&gt; ἕτοιμος οἷ λέγεις.</l>
+          <l part="I">ἀλλ’, ἀντιβολῶ, συναγώνισαί μοι.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l part="F">τίνα τρόπον ;</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="I">ὅντινα τρόπον ; προάγωμεν οἷ λέγεις.</l>
+        </sp>
+        <sp who="#daos">
+          <speaker>(Δα.</speaker>
+          <l part="F">τί οὖν ;</l>
+          <l>ἐργαζομένοις ἡμῖν παρεστήξεις ἔχων</l>
+          <l n="365" part="I">χλανίδα ;</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="M">τί δὴ γὰρ οὐχί ;</l>
+        </sp>
+        <sp who="#daos">
+          <speaker>Δα.</speaker>
+          <l part="F">ταῖς βώλοις βαλεῖ</l>
+          <l>εὐθύς σ’, ἀποκαλεῖ τ’ ὄλεθρον ἀργόν. ἀλλὰ δεῖ</l>
+          <l>σκάπτειν μεθ’ ἡμῶν σ’· εἰ τύχοι γάρ, τοῦτ’ ἰδὼν</l>
+          <l>ἴσως ἂν ὑπομείνειε καὶ παρὰ σοῦ τινα</l>
+          <l>λόγον, νομίσας αὐτουργὸν εἶναι τῶι βίωι</l>
+          <l part="I">370 πένητα.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="F">ἕτοιμος πάντα πειθαρχεῖν. ἄγε.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>Γο.</speaker>
+          <l part="I">τί κακοπαθεῖν σαυτὸν βιάζηι ;</l>
+        </sp>
+        <sp who="#daos">
+          <speaker>Δα.</speaker>
+          <l part="F">Βούλομαι</l>
+          <l>ὡς πλεῖστον ἡμᾶς ἐργάσασθαι τήμερον</l>
+          <l>τοῦτόν τε τὴν ὀσφῦν ἀπορρήξανθ’ ἅμα</l>
+          <l>παύσασθ’ ἐνοχλοῦνθ’ ἡμῖν προσιόντα τ’ ἐνθάδε.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l n="375" part="I">ἔκφερε δίκελλαν.</l>
+        </sp>
+        <sp who="#daos">
+          <speaker>(Δα.)</speaker>
+          <l part="F">τὴν παρ’ ἐμοῦ λαϐὼν ἴθι.</l>
+          <l>τὴν αἱμασιὰν ἐποικοδομήσω γὰρ τέως</l>
+          <l part="I">ἐγώ. ποητέον δὲ καὶ τοῦτ’ ἐστί.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="F">δός.</l>
+          <l part="I">ἀπέσωσας.</l>
+        </sp>
+        <sp who="#daos">
+          <speaker>&lt;Δα.&gt;</speaker>
+          <l part="F">ὑπάγω, τρόφιμ’· ἐκεῖ διώκετε.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l>οὕτως ἔχω· παραποθανεῖν ἤδη με δεῖ</l>
+          <l n="380" part="I">ἢ ζῆν ἔχοντα τὴν κόρην.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l part="F">εἴπερ λέγεις</l>
+          <l part="I">ἃ φρονεῖς, ἐπιτύχοις.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Sostratos</speaker>
+          <l part="F">ὦ πολυτίμητοι θεοί,</l>
+          <l>οἷς ἀποτρέπεις νυνὶ γὰρ ὡς οἴει με σύ,</l>
+          <l>τούτοις παρώξυμμ’ εἰς τὸ πρᾶγμα διπλασίως.</l>
+          <l>εἰ μὴ γὰρ ἐν γυναιξίν ἐστιν ἡ κόρη</l>
+          <l n="385">τεθραμμένη μηδ’ οἶδε τῶν ἐν τῶι βίωι</l>
+          <l>τούτων κακῶν μηδὲν ὑπὸ τηθίδος τινὸς</l>
+          <l>δειδισαμένη μαίας τ’, ἐλευθερίως δέ πως</l>
+          <l>μετὰ πατρὸς ἀγρίου μισοπονήρου τῶι τρόπωι,</l>
+          <l>πῶς οὐκ ἐπιτυχεῖν ἐστι ταύτης μακάριον ;</l>
+          <l n="390">ἀλλ’ ἡ δίκελλ’ ἄγει τάλαντα τέτταρα</l>
+          <l>αὕτη· προαπολεῖ μ’. οὐ μαλακιστέον δ’ ὅμως,</l>
+          <l>ἐπείπερ ἦργμαι καταπονεῖν τὸ πρᾶγμ’ ἅπαξ.</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>Σικων</speaker>
+          <l>τουτὶ τὸ πρόβατόν ἐστιν οὐ τὸ τυχὸν καλόν.</l>
+          <l>ἄπαγ’ εἰς τὸ βάραθρον. ἂν μὲν αἰρόμενος φέρω</l>
+          <l n="395">μετέωρον, ἔχεται τῶι στόματι θαλλοῦ, κράδης</l>
+          <l>κατεσθίει τὰ θρῖ’, ἀποσπᾶι δ’ εἰς βίαν.</l>
+          <l>ἐὰν δ’ ἀφῆι χαμαί τις, οὐ προέρχεται.</l>
+          <l>τοὐναντίον δὴ γέγονε· κατακέκομμ’ ἐγὼ</l>
+          <l>ὁ μάγειρος ὑπὸ τούτου νεωλκῶν τὴν ὁδόν.</l>
+          <l n="400">ἀλλ’ ἐστὶν εὐτυχῶς τὸ νυμφαῖον τοδ[ὶ</l>
+          <l>οὗ θύσομεν. τὸν Πᾶνα χαίρειν. παῖ Γέτα,</l>
+          <l part="I">τοσοῦτ’ ἀπολείπηι ;</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>(Γετας)</speaker>
+          <l part="F">τεττάρων γὰρ φορτίον</l>
+          <l>ὄνων συνέδησαν αἱ κάκιστ’ ἀπολούμεναι</l>
+          <l part="I">φέρειν γυναῖκές μοι.</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>(Σι.)</speaker>
+          <l part="F">πολύς τις ἔρχεται</l>
+          <l n="405">ὄχλος ὡς ἔοικε. στρώματ’ ἀδιήγηθ’ ὅσα</l>
+          <l part="I">φέρεις.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>(Γε.)</speaker>
+          <l part="M">τί δ’ ἐγ[ω...]</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker><supplied>Σι.</supplied></speaker>
+          <l part="M"><sic>ἔρεισον ταῦτα δεῦρο.</sic></l>
+        </sp>
+        <sp who="#getas">
+          <speaker> &lt;Γε.&gt;</speaker>
+          <l part="F">ἰδού.</l>
+          <l>ἐὰν ἴδηι γὰρ ἐνύπνιον τὸν Πᾶνα τὸν</l>
+          <l>Παιανιοῖ, τούτωι βαδιούμεθ’, οἶδ’ ὅτι,</l>
+          <l part="I">θύσοντες εὐθύς.</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>(Σι.)</speaker>
+          <l part="F">τίς δ’ ἑόρακεν ἐνύπνιον ;</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>(Γε.)</speaker>
+          <l n="410" part="I">ἄνθρωπε, μή με κόπτε.</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>(Σι.)</speaker>
+          <l part="F">ὅμως εἶπον, Γέτα.</l>
+          <l part="I">τίς εἶδεν ;</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>(Γε.)</speaker>
+          <l part="M">ἡ κεκτημένη.</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>(Σι.)</speaker>
+          <l part="F">τί πρὸς θεῶν ;</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>(Γε.)</speaker>
+          <l part="I">ἀπολεῖς. ἐδόκει τὸν Πᾶνα–</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>(Σι.)</speaker>
+          <l part="F">τουτονὶ λέγεις ;</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>(Γε.)</speaker>
+          <l part="I">τοῦτον.</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>(Σι.)</speaker>
+          <l part="M">τί ποιεῖν ;</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>(Γε.)</speaker>
+          <l part="F">τῶι τροφίμωι τῶι Σωστράτωι–</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>(Σι.)</speaker>
+          <l part="I">κομψῶι νεανίσκωι γε.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>(Γε.)</speaker>
+          <l part="F">περικρούειν πέδας.</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>(Σι.)</speaker>
+          <l n="415" part="I">Ἄπολλον.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>(Γε.)</speaker>
+          <l part="F">εἶτα δόντα διφθέραν τε καὶ</l>
+          <l>δίκελλαν &lt;ἐν&gt; τοῦ πλησίον τῶι χωρίωι</l>
+          <l part="I">σκάπτειν κελεύειν.</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>(Σι.)</speaker>
+          <l part="M">ἄτοπον.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>(Γε.)</speaker>
+          <l part="F">ἀλλὰ θύομεν</l>
+          <l>διὰ τοῦθ’, ἵν’ εἰς βέλτιον ἀποβῆι τὸ φοβερόν.</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>Σι.</speaker>
+          <l>μεμάθηκα. πάλιν αἴρου δὲ ταυτὶ καὶ φέρε</l>
+          <l n="420">εἴσω. ποῶμεν στιβάδας ἔνδον εὐτρεπεῖς</l>
+          <l>καὶ τἆλλ’ ἕτοιμα. μηδὲν ἐπικωλυέτω</l>
+          <l>θύειν γ’ ἐπὰν ἔλθωσιν. ἀλλ’ ἀγαθῆι τύχηι.</l>
+          <l>καὶ τὰς ὀφρῦς ἄνες ποτ’, ὦ τρισάθλιε·</l>
+          <l>ἐγώ σε χορτάσω κατὰ τρόπον τήμερον.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>Γε.</speaker>
+          <l n="425">ἐπαινέτης σοῦ τ’ εἰμι καὶ τῆς &lt;σῆς&gt; τέχνης</l>
+          <l>ἔγωγ’ ἀεί ποτ’–οὐχὶ πιστεύω δ’ ὅμως.</l>
+        </sp>
+        <stage>Χορου</stage>
+      </div>
+      <div n="3" type="act">
+        <head>III</head>
+        <sp who="#knemon">
+          <speaker>Κν.</speaker>
+          <l>γραῦ, τὴν θύραν κλείσασ’ ἄνοιγε μηδενί,</l>
+          <l>ἕως ἂν ἔλθω δεῦρ’ ἐγὼ πάλιν· σκότους</l>
+          <l>ἔσται δὲ τοῦτο παντελῶς, ὡς οἴομαι.</l>
+        </sp>
+        <sp who="#meter">
+          <speaker>Μητηρ</speaker>
+          <l n="430">Πλαγγών, πορεύου θᾶττον· ἤδη τεθυκέναι</l>
+          <l part="I">ἡμᾶς ἔδει.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>Κν.</speaker>
+          <l part="F">τουτὶ τὸ κακὸν τί βούλεται ;</l>
+          <l part="I">ὄχλος τις. ἄπαγ’ ἐς κόρακας.</l>
+        </sp>
+        <sp who="#meter">
+          <speaker>(Μη.)</speaker>
+          <l part="F">αὔλει, Παρθενί,</l>
+          <l>Πανός· σιωπῆι, φασί, τούτωι τῶι θεῶι</l>
+          <l part="I">οὐ δεῖ προσιέναι.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>(Γε.)</speaker>
+          <l part="F">νὴ Δί’ ἀπεσώθητέ γε.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>&lt;Κν.&gt;</speaker>
+          <l n="435" part="I">ὦ Ἡράκλεις, ἀηδίας.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>&lt; Γε.&gt;</speaker>
+          <l part="F">καθήμεθα</l>
+          <l part="I">χρόνον τοσοῦτον περιμένοντες.</l>
+        </sp>
+        <sp who="#meter">
+          <speaker>(Μη.)</speaker>
+          <l part="F">εὐτρεπῆ</l>
+          <l part="I">ἅπαντα δ’ ἡμῖν ἐστι ;</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>(Γε.)</speaker>
+          <l part="F">ναὶ μὰ τὸν Δία.</l>
+        </sp>
+        <sp who="#meter">
+          <speaker>&lt; Μη.&gt;</speaker>
+          <l>τὸ γοῦν πρόβατον–μικροῦ τέθνηκε γάρ, τάλαν–</l>
+          <l>οὐ περιμένει τὴν σὴν σχολήν. ἀλλ’ εἴσιτε·</l>
+          <l n="440">κανᾶ πρόχειρα, χέρνιβας, θυλήματα</l>
+          <l part="I">ποιεῖτε.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>&lt;Γε.&gt;</speaker>
+          <l part="F">ποῖ κέχηνας, ἐμβρόντητε σύ ;</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>Κν.</speaker>
+          <l>κακοὶ κακῶς ἀπόλοισθε. ποιοῦσίν γε με</l>
+          <l>ἀργόν· καταλιπεῖν γὰρ μόνην τὴν οἰκίαν</l>
+          <l>οὐκ ἂν δυναίμην. αἱ δὲ Νύμφαι μοι κακὸν</l>
+          <l n="445">ἀεὶ παροικοῦσ’, ὥστε μοι δοκῶ πάλιν</l>
+          <l>μετοικοδομήσειν καταβαλὼν τὴν οἰκίαν</l>
+          <l>ἐντεῦθεν. ὡς θύουσι δ’ οἱ τοιχωρύχοι·</l>
+          <l>κοίτας φέρονται, σταμνί’, οὐχὶ τῶν θεῶν</l>
+          <l>ἕνεκ’ ἀλλ’ ἑαυτῶν. ὁ λιβανωτὸς εὐσεβὲς</l>
+          <l n="450">καὶ τὸ πόπανον· τοῦτ’ ἔλαβεν ὁ θεὸς ἐπὶ τὸ πῦρ</l>
+          <l>ἅπαν ἐπιτεθέν. οἱ δὲ τὴν ὀσφῦν ἄκραν</l>
+          <l>καὶ τὴν χολήν, ὅτι ἔστ’ ἄβρωτα, τοῖς θεοῖς</l>
+          <l>ἐπιθέντες αὐτοὶ τἆλλα καταπίνουσι. γραῦ,</l>
+          <l>ἄνοιγε θᾶττον τὴν θύραν. [ποητέ]ον</l>
+          <l n="455">ἐστὶν γὰρ ἡμῖν τἄνδον ὡς ἐμοὶ δοκεῖ.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>(Γε.)</speaker>
+          <l>τὸ λεβήτιον, φήις, ἐπιλέλη[σθ]ε ; παντελῶς</l>
+          <l>ἀποκραιπαλᾶτε. καὶ τί νῦν ποιήσομεν ;</l>
+          <l>ἐνοχλητέον τοῖς γειτνιῶσι τῶι θεῶι</l>
+          <l>ἐσθ’ ὡς ἔοικε. παιδίον. μὰ τοὺς θεοὺς</l>
+          <l n="460">θεραπαινίδια γὰρ ἀθλιώτερ’ οὐδαμοῦ</l>
+          <l>οἶμαι τρέφεσθαι. παῖδες. οὐδὲν ἄλλο πλὴν</l>
+          <l>κινητιᾶν ἐπίσταται–παῖδες καλοί–</l>
+          <l>καὶ διαβαλεῖν ἐὰν ἴδηι τις. παιδίον.</l>
+          <l>τουτὶ τὸ κακὸν &lt;τί&gt; ἐστί ; παῖδες. οὐδὲ εἷς</l>
+          <l n="465">ἐστ’ ἔνδον. ἠήν. προστρέχειν τις φαίνεται.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>Κν.</speaker>
+          <l>τί τῆς θύρας ἅπτει, τρισάθλι’, εἰπέ μοι,</l>
+          <l part="I">ἄνθρωπε ;</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>&lt; Γε.&gt;</speaker>
+          <l part="M">μὴ δάκηις.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>(Κν.)</speaker>
+          <l part="F">ἐγώ σε νὴ Δία,</l>
+          <l part="I">καὶ κατέδομαί γε ζῶντα.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>(Γε.)</speaker>
+          <l part="F">μή, πρὸς &lt;τῶν&gt; θεῶν.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>(Κν.)</speaker>
+          <l>ἐμοὶ γάρ ἐστι συμβόλαιον, ἀνόσιε,</l>
+          <l n="470" part="I">καὶ σοί τι ;</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>(Γε.)</speaker>
+          <l part="F">συμβόλαιον οὐδέν· τοιγαροῦν</l>
+          <l>προσελήλυθ’ οὐ χρέος σ’ ἀπαιτῶν οὐδ’ ἔχων</l>
+          <l>κλητῆρας, ἀλλ’ αἰτησόμενος λεβήτιον.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>(Κν.)</speaker>
+          <l part="I">λεβήτιον ;</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>(Γε.)</speaker>
+          <l part="M">λεβήτιον.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>&lt; Κν.&gt;</speaker>
+          <l part="F">μαστιγία,</l>
+          <l>θύειν με βοῦς οἴει ποεῖν τε ταὔθ’ ἅπερ</l>
+          <l n="475" part="I">ὑμεῖς ποεῖτε ;</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>(Γε.)</speaker>
+          <l part="F">οὐδὲ κοχλίαν ἔγωγέ σε.</l>
+          <l>ἀλλ’ εὐτύχει, βέλτιστε. κόψαι τὴν θύραν</l>
+          <l>ἐκέλευσαν αἱ γυναῖκες αἰτῆσαί τε με.</l>
+          <l>ἐπόησα τοῦτ’· οὐκ ἔστι· πάλιν ἀπαγγελῶ</l>
+          <l>ἐλθὼν ἐκείναις. ὦ πολυτίμητοι θεοί,</l>
+          <l n="480">ἔχις πολιὸς ἅνθρωπός ἐστιν οὑτοσί.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>(Κν.)</speaker>
+          <l>ἀνδροφόνα θηρί’· εὐθὺς ὥσπερ πρὸς φίλον</l>
+          <l>κόπτουσιν. ἂν ἡμῶν προσιόντα τῆι θύραι</l>
+          <l>λάβω τιν’, ἂν μὴ πᾶσι τοῖς ἐν τῶι τόπωι</l>
+          <l>παράδειγμα ποιήσω, νομίζεθ’ ἕνα τινὰ</l>
+          <l n="485">ὁρᾶν με τῶν πολλῶν. ὁ νῦν οὐκ οἶδ’ ὅπως</l>
+          <l>διευτύχηκεν οὗτος, ὅστις ἦν ποτε.</l>
+        </sp>
+        <sp who="#simiche">
+          <speaker>Σι.</speaker>
+          <l>κάκιστ’ ἀπόλοι’· ἐλοιδορεῖτό σοι ; τυχὸν</l>
+          <l>ἤιτεις, σκατοφάγ’· ὡς οὐκ ἐπίστανταί τινες</l>
+          <l>ποιεῖν τὸ τοιοῦθ’· εὕρηκ’ ἐγὼ τούτου τέχνην·</l>
+          <l n="490">διακονῶ γὰρ μυρίοις ἐν τῆι πόλει</l>
+          <l>τούτων τ’ ἐνοχλῶ τοῖς γείτοσιν καὶ λαμβάνω</l>
+          <l>σκεύη παρὰ πάντων. δεῖ γὰρ εἶναι κολακικὸν</l>
+          <l>τὸν δεόμενόν του. πρεσβύτερός τις τῆι θύραι</l>
+          <l>ὑπακήκο’· εὐθὺς πατέρα καὶ πάππα[ν λέγω.</l>
+          <l n="495">γραῦς· μητέρ’. ἂν τῶν διὰ μέσου τ[ις ἦι γυνή,</l>
+          <l>ἐκάλεσ’ ἱερέαν. ἂν θεράπων[</l>
+          <l>βέλτιστον. ὑμεῖς δὲ κρεμαν.[</l>
+          <l>ὢ τῆς ἀμαθίας. παιδίον παῖ[</l>
+          <l>ἐγώ. πρόελθε, πατρίδιον· σὲ β[ούλομαι.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>Κν.</speaker>
+          <l n="500" part="I">πάλιν αὖ σύ ;</l>
+        </sp>
+        <sp who="#simiche">
+          <speaker>(Σι.)</speaker>
+          <l part="M">π~[αῖ, τί το]ῦτ’ ;</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>(Κν.)</speaker>
+          <l part="F">ἐρεθίζεις μ’ ὡσπερεὶ</l>
+          <l>ἐπίτηδες, οὐκ εἴρηκά σοι πρὸς τὴν θύραν</l>
+          <l part="I">μὴ προσιέναι ; τὸν ἱμάντα δός, γραῦ.</l>
+        </sp>
+        <sp who="#simiche">
+          <speaker>(Σι.)</speaker>
+          <l part="F">μηδαμῶς,</l>
+          <l part="I">ἀλλ’ ἄφες.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>(Κν.)</speaker>
+          <l part="M">ἄφες ;</l>
+        </sp>
+        <sp who="#simiche">
+          <speaker>&lt; Σι.&gt;</speaker>
+          <l part="F">Βέλτιστε, ναὶ πρὸς &lt;τῶν&gt; θεῶν.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>(Κν.)</speaker>
+          <l part="I">ἧκε πάλιν.</l>
+        </sp>
+        <sp who="#simiche">
+          <speaker>(Σι.)</speaker>
+          <l part="M">ὁ Ποσειδῶν σε–</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>(Κν.)</speaker>
+          <l part="F">καὶ λαλεῖς ἔτι ;</l>
+        </sp>
+        <sp who="#simiche">
+          <speaker>(Σι.)</speaker>
+          <l n="505" part="I">αἰτούμενος χυτρόγαυλον ἦλθον.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>(Κν.)</speaker>
+          <l part="F">οὐκ ἔχω</l>
+          <l>οὔτε χυτρόγαυλον οὔτε πέλεκυν οὔθ’ ἅλας</l>
+          <l>οὔτ’ ὄξος οὔτ’ ἄλλ’ οὐδέν, ἀλλ’ εἴρηχ’ ἁπλῶς</l>
+          <l>μὴ προσιέναι μοι πᾶσι τοῖς ἐν τῶι τόπωι.</l>
+        </sp>
+        <sp who="#simiche">
+          <speaker>(Σι.)</speaker>
+          <l part="I">ἐμοὶ μὲν οὐκ εἴρηκας.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>(Κν.)</speaker>
+          <l part="F">ἀλλὰ νῦν λέγω.</l>
+        </sp>
+        <sp who="#simiche">
+          <speaker>(Σι.)</speaker>
+          <l n="510">νὴ σὺν κακῶι γ’. οὐδ’ ὁπόθεν ἄν τις, εἰπέ μοι,</l>
+          <l part="I">ἐλθὼν λάβοι φράσαις ἄν ;</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>(Κν.)</speaker>
+          <l part="F">οὐκ ἐγὼ ‘λεγον ;</l>
+          <l part="I">ἔτι μοι λαλήσεις ;</l>
+        </sp>
+        <sp who="#simiche">
+          <speaker>(Σι.)</speaker>
+          <l part="M">χαῖρε πολλά.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>(Κν.)</speaker>
+          <l part="F">οὐ βούλομαι</l>
+          <l part="I">χαίρειν παρ’ ὑμῶν οὐδενός.</l>
+        </sp>
+        <sp who="#simiche">
+          <speaker>(Σι.)</speaker>
+          <l part="F">μὴ χαῖρε δή.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>(Κν.)</speaker>
+          <l part="I">ὢ τῶν ἀνηκέστων κακῶν.</l>
+        </sp>
+        <sp who="#simiche">
+          <speaker>(Σι.)</speaker>
+          <l part="F">καλῶς γέ με</l>
+          <l n="515">βεβωλοκόπηκεν. οἷόν ἐστ’ ἐπιδεξίως</l>
+          <l>αἰτεῖν· διαφέρει νὴ Δί’. ἐφ’ ἑτέραν θύραν</l>
+          <l>ἔλθηι τις ; ἀλλ’ εἰ σφαιρομαχοῦσ’ ἐν τῶι τόπωι</l>
+          <l>οὕτως ἑτοίμως, χαλεπόν. ἆρά γ’ ἐστί μοι</l>
+          <l>κράτιστον ὀπτᾶν τὰ κρέα πάντα ; φαίνεται.</l>
+          <l n="520">ἔστιν δέ μοι λοπάς τις. ἐρρῶσθαι λέγω</l>
+          <l>Φυλασίοις. τοῖς οὖσι τούτοις χρήσομαι.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l>ὅστις ἀπορεῖ κακῶν, ἐπὶ Φυλὴν ἐλθέτω</l>
+          <l>κυνηγέτης. ὢ τρισκακοδαίμων, ὡς ἔχω</l>
+          <l>ὀσφῦν, μετάφρενον, τὸν τράχηλον, ἑνὶ λόγωι</l>
+          <l n="525">ὅλον τὸ σῶμ’· εὐθὺς γὰρ ἐμπεσὼν πολύς,</l>
+          <l>νεανίας ἐγώ τις, ἐξαίρων ἄνω</l>
+          <l>σφόδρα τὴν δίκελλαν, ὡς ἂν ἐργάτης, βαθὺ</l>
+          <l>ἔπαιον. ἐπεκείμην φιλοπόνως, οὐ πολὺν</l>
+          <l>χρόνον. εἶτα καὶ μετεστρεφόμην τι, πηνίκα</l>
+          <l n="530">ὁ γέρων πρόσεισι τὴν κόρην ἄγων ἅμα</l>
+          <l>σκοπούμενος. καὶ νὴ Δί’ ἐλαβόμην τότε</l>
+          <l>τῆς ὀσφύος, λάθραι τὸ πρῶτον· ὡς μακρὸν</l>
+          <l>ἦν παντελῶς δὲ τοῦτο, λορδοῦν ἠρχόμην,</l>
+          <l>ἀπεξυλούμην ἀτρέμα δ’. οὐδεὶς ἤρχετο.</l>
+          <l n="535">ὁ δ’ ἥλιος κατέκα’, ἑώρα τ’ ἐμβλέπων</l>
+          <l>ὁ Γοργίας ὥσπερ τὰ κηλώνειά με</l>
+          <l>μόλις ἀνακύπτοντ’ εἶθ’ ὅλωι τῶι σώματι</l>
+          <l>πάλιν κατακύπτοντ’. " οὐ δοκεῖ μοι νῦν », ἔφη,</l>
+          <l>" ἥξειν ἐκεῖνος, μειράκιον. » " τί οὖν, » ἐγὼ</l>
+          <l n="540">εὐθύς, " ποῶμεν ; αὔριον τηρήσομεν</l>
+          <l>αὐτόν, τὸ δὲ νῦν ἐῶμεν ; » ὅ τε Δᾶος παρῆν</l>
+          <l>ἐπὶ τὴν σκαπάνην διάδοχος. ἡ πρώτη μὲν οὖν</l>
+          <l>ἔφο]δος τοιαύτη γέγονεν. ἥκω δ’ ἐνθάδε,</l>
+          <l>διὰ τί μὲν οὐκ ἔχω λέγειν μὰ τοὺς θεούς,</l>
+          <l n="545">ἕλκ]ει δέ μ’ αὐτόματον τὸ πρᾶγμ’ εἰς τὸν τόπον.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker><supplied>Γε.</supplied></speaker>
+          <l>τί τὸ κακόν ; οἴει χεῖρας ἑξήκοντά με,</l>
+          <l>ἄνθρωπ’, ἔχειν ; τοὺς ἄνθρακάς σοι ζωπυρῶ</l>
+          <l>]μαι, φέρω πλύνω κατατέμνω σπλάγχν’ ἅμα</l>
+          <l>μάττω περιφέρω τα.[........ ο]υτονί,</l>
+          <l n="550">ὑπὸ τοῦ καπνοῦ τυφλὸς [......]ς τούτοις ὅλος.</l>
+          <l part="I">ἄγειν δοκῶ μοι τὴν ἑορτήν.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l part="F">παῖ Γέτα.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>Γε.</speaker>
+          <l part="I">ἐμὲ τίς ;</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="M">ἐγώ.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>(Γε.)</speaker>
+          <l part="M">σὺ δ’ εἶ τίς ;</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="M">οὐχ ὁρᾶις ;</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>(Γε.)</speaker>
+          <l part="F">ὁρῶ·</l>
+          <l part="I">τρόφιμος.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="M">τί ποιεῖτ’ ἐνθάδ’, εἰπέ μοι ;</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>(Γε.)</speaker>
+          <l part="F">τί γάρ ;</l>
+          <l>τεθύκαμεν ἄρτι καὶ παρασκευάζομεν</l>
+          <l n="555" part="I">ἄριστον ὑμῖν.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="M">ἐνθάδ’ ἡ μήτηρ ;</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>(Γε.)</speaker>
+          <l part="F">πάλαι.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="I">ὁ πατὴρ δέ ;</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>(Γε.)</speaker>
+          <l part="F">προσδοκῶμεν. ἀλλὰ πάραγε σύ.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l>μικρὸν διαδραμών &lt;γ’&gt;. ἐνθαδὶ τρόπον τινὰ</l>
+          <l>γέγον’ οὐκ ἄκαιρος ἡ θυσία· παραλήψομαι</l>
+          <l>τὸ μειράκιον τουτὶ γάρ, ἐλθὼν ὡς ἔχω,</l>
+          <l n="560">καὶ τὸν θεράποντ’ αὐτοῦ· κεκοινωνηκότες</l>
+          <l>ἱερῶν γὰρ εἰς τὰ λοιπὰ χρησιμώτεροι</l>
+          <l>ἡμῖν ἔσονται σύμμαχοι πρὸς τὸν γάμον.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>(Γε.)</speaker>
+          <l>τί φήις ; ἐπ’ ἄριστόν τινας παραλαμβάνειν</l>
+          <l>μέλλεις πορευθείς ; ἕνεκ’ ἐμοῦ τρισχίλιοι</l>
+          <l n="565">γένοισθ’· ἐγὼ μὲν γὰρ πάλαι τοῦτ’ οἶδ’, ὅτι</l>
+          <l>οὐ γεύσομ’ οὐδενός· πόθεν γάρ ; συνάγετε</l>
+          <l>πάντας. καλὸν γὰρ τεθύκαθ’ ἱερεῖον, πάνυ</l>
+          <l>ἄξιον ἰδεῖν. ἀλλὰ &lt;τὰ&gt; γύναια ταῦτά μοι</l>
+          <l>(ἔχει γὰρ ἀστείως) μεταδοίη γ’ ἄν τινος ;</l>
+          <l n="570" part="I">οὐδ’ ἄν, μὰ τὴν Δήμητρ’, ἁλὸς πικροῦ.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="F">καλῶς</l>
+          <l>ἔσται, Γέτα, τὸ τήμερον–μαντεύσομαι</l>
+          <l>τοῦτ’ αὐτός, ὦ Πάν· ἀλλὰ μὴν προσεύχομαι</l>
+          <l>ἀεὶ παριών σοι–καὶ φιλανθρωπεύσομαι.</l>
+        </sp>
+        <sp who="#simiche">
+          <speaker>Σιμιχη</speaker>
+          <l>ὢ δυστυχής, ὢ δυστυχής, ὢ δυστυχής.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>(Γε.)</speaker>
+          <l n="575">ἄπαγ’ εἰς τὸ βάραθρον· τοῦ γέροντός τις γυνὴ</l>
+          <l part="I">προελήλυθεν.</l>
+        </sp>
+        <sp who="#simiche">
+          <speaker>(Σιμ.)</speaker>
+          <l part="F">τί πείσομαι ; τὸν γὰρ κάδον</l>
+          <l>ἐκ τοῦ φρέατος βουλομένη τοῦ δεσπότου,</l>
+          <l>εἴ πως δυναίμην, ἐξελεῖν αὐτὴ λάθραι,</l>
+          <l>ἀνῆψα τὴν δίκελλαν ἀσθενεῖ τινι</l>
+          <l n="580">καλωιδίωι σαπρῶι διερράγη τέ μοι</l>
+          <l part="I">τοῦτ’ εὐθύς.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>(Γε.)</speaker>
+          <l part="M">ὀρθῶς.</l>
+        </sp>
+        <sp who="#simiche">
+          <speaker>(Σιμ.)</speaker>
+          <l part="F"> ἐνσέσεικα θ’ ἁθλία</l>
+          <l>καὶ τὴν δίκελλαν εἰς τὸ φρέαρ μετὰ τοῦ κάδου.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>(Γε.)</speaker>
+          <l>ῥῖψαι τὸ λοιπόν σοι σεαυτήν ἐστ’ ἔτι.</l>
+        </sp>
+        <sp who="#simiche">
+          <speaker>(Σιμ.)</speaker>
+          <l>ὁ δ’, ἀπὸ τύχης κόπρον τιν’ ἔνδον κειμένην</l>
+          <l n="585">μέλλων μεταφέρειν, περιτρέχων ταύτην πάλαι</l>
+          <l>ζητεῖ βοᾶι τε–καὶ ψοφεῖ γε τὴν θύραν.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>Γε.</speaker>
+          <l>φεῦγ’ ὦ πονηρά, φεῦγ’. ἀποκτενεῖ σε, γραῦ.</l>
+          <l part="I">μᾶλλον δ’ ἀμύνου.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>Κν.</speaker>
+          <l part="F">ποῦ ‘στιν ἡ τοιχωρύχος ;</l>
+        </sp>
+        <sp who="#simiche">
+          <speaker>(Σιμ.)</speaker>
+          <l part="I">ἄκουσα, δέσποτ’, ἐνέβαλον.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>(Κν.)</speaker>
+          <l part="F">Βάδιζε δὴ</l>
+          <l n="590" part="I">εἴσω.</l>
+        </sp>
+        <sp who="#simiche">
+          <speaker>(Σιμ.)</speaker>
+          <l part="M">τί ποιεῖν δ’, εἰπέ μοι, μέλλεις ;</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>(Κν.)</speaker>
+          <l part="F">ἐγώ ;</l>
+          <l part="I">δήσας καθιμήσω σε.</l>
+        </sp>
+        <sp who="#simiche">
+          <speaker>(Σιμ.)</speaker>
+          <l part="F">μὴ δῆτ’, ὦ τάλαν.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>(Κν.)</speaker>
+          <l>ταὐτῶι γε τούτωι σχοινίωι, νὴ τοὺς θεούς.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>&lt; Γε.&gt;</speaker>
+          <l>κράτιστον, εἴπερ ἐστὶ παντελῶς σαπρόν.</l>
+        </sp>
+        <sp who="#simiche">
+          <speaker>(Σιμ.)</speaker>
+          <l>τὸν Δᾶον ἐκ τῶν γειτόνων ἐγὼ καλῶ ;</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>(Κν.)</speaker>
+          <l>Δᾶον καλεῖς, ἀνόσι’, ἀνηιρηκυῖά [με ;</l>
+          <l>οὔ σοι λέγω ; θᾶττον βάδιζ’ εἴσω. [τάλας</l>
+          <l>ἐγώ, τάλας τῆς νῦν ἐρημίας [</l>
+          <l>ὡς οὐδὲ εἷς. καταβήσομ’ εἰ[ς τὸ φρέαρ· τί γὰρ</l>
+          <l part="I">ἔτ’ ἐστιν ἄλλο ;</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>(Γε.)</speaker>
+          <l part="F">ἡμεῖς ποριοῦ[μεν ἁρπάγην</l>
+          <l n="600" part="I">καὶ σχοινίον.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>(Κν.)</speaker>
+          <l part="F">κακὸν κάκ[ιστά σ’ οἱ θεοὶ</l>
+          <l>ἅπαντες ἀπολέσειαν εἴ τι μ[οι λαλεῖς.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>(Γε.)</speaker>
+          <l>καὶ μάλα δικ[αίως. εἰσ]πεπήδηκεν πάλιν.</l>
+          <l>ὢ τρισκακοδα[ίμων οὗ]τος· οἷον ζῆι βίον.</l>
+          <l>τοῦτ’ ἐστὶν εἰλικρ[ινὴς] γεωργὸς Ἀττικός·</l>
+          <l n="605">πέτραις μαχόμενος θύμα φερούσαις καὶ σφάκον</l>
+          <l>ὀδύνας ἐπισπᾶτ’ οὐδὲν ἀγαθὸν λαμβάνων.</l>
+          <l>ἀλλ’ ὁ τρόφιμος γὰρ οὑτοσὶ προσέρχεται</l>
+          <l>ἄγων μεθ’ αὑτοῦ τοὺς ἐπικλήτους· ἐργάται</l>
+          <l>ἐκ τοῦ τόπου τινές εἰσιν. ὢ τῆς ἀτοπίας.</l>
+          <l n="610"> οὗτος τί τούτους δεῦρ’ ἄγει νῦν ; ἢ πόθεν</l>
+          <l part="I">γεγονὼς συνήθης ;</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l part="F">οὐκ ἂν ἐπιτρέψαιμί σοι</l>
+          <l>ἄλλως ποῆσαι. πάντ’ ἔχομεν. ὦ Ἡράκλεις,</l>
+          <l>τουτὶ δ’ ἀπαρνεῖταί τις ἀνθρώπων ὅλως,</l>
+          <l>ἐλθεῖν ἐπ’ ἄριστον συνήθους τεθυκότος ;</l>
+          <l n="615">εἰμὶ γάρ, ἀκριβῶς ἴσθι, σοὶ πάλαι φίλος</l>
+          <l>πρὶν ἰδεῖν. λαβὼν ταῦτ’ εἰσένεγκε Δᾶε σύ,</l>
+          <l part="I">εἶθ’ ἧκε.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>Γο.</speaker>
+          <l part="F">μηδαμῶς μόνην τὴν μητέρα</l>
+          <l>οἴκοι καταλείπων ἀλλ’ ἐκείνης ἐπιμελοῦ</l>
+          <l>ὧν ἂν δέηται· ταχὺ δὲ κἀγὼ παρέσομαι.</l>
+        </sp>
+        <stage>Χορου</stage>
+      </div>
+      <div n="4" type="act">
+        <head>IV</head>
+        <sp who="#simiche">
+          <speaker>Σιμ.</speaker>
+          <l n="620">τίς ἂν βοηθήσειεν ; ὢ τάλαιν’ ἐγώ.</l>
+          <l part="I">τίς ἂν βοηθήσειεν ;</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>Σικ.</speaker>
+          <l part="F">Ἡράκλεις ἄναξ,</l>
+          <l>ἐάσαθ’ ἡμᾶς πρὸς θεῶν καὶ δαιμόνων</l>
+          <l>σπονδὰς ποῆσαι. λοιδορεῖσθε, τύπτετε·</l>
+          <l>οἰμώζετ’· ὢ τῆς οἰκίας τῆς ἐκτόπου.</l>
+        </sp>
+        <sp who="#simiche">
+          <speaker>(Σιμ.)</speaker>
+          <l n="625" part="I">ὁ δεσπότης ἐν τῶι φρέατι.</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>Σικ.</speaker>
+          <l part="M">πῶς ;</l>
+        </sp>
+        <sp who="#simiche">
+          <speaker>(Σιμ.)</speaker>
+          <l part="F">ὅπως ;</l>
+          <l>ἵνα τὴν δίκελλαν ἐξέλοι καὶ τὸν κάδον,</l>
+          <l>κατέβαινε, κἆιτ’ ὤλισθ’ ἄνωθεν, ὥστε καὶ</l>
+          <l part="I">πέπτωκεν.</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>(Σικ.)</speaker>
+          <l part="F">οὐ γὰρ ὁ χαλεπὸς γέρων σφόδρα</l>
+          <l>οὗτος ; καλά γ’ ἐπόησε νὴ τὸν Οὐρανόν.</l>
+          <l n="630" part="I">ὦ φιλτάτη γραῦ, νῦν σὸν ἔργον ἐστί.</l>
+        </sp>
+        <sp who="#simiche">
+          <speaker>(Σιμ.)</speaker>
+          <l part="F">πῶς ;</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>(Σικ.)</speaker>
+          <l>ὅλμον τιν’ ἢ λίθον τιν’ ἢ τοιοῦτό τι</l>
+          <l part="I">ἄνωθεν ἔνσεισον λαβοῦσα.</l>
+        </sp>
+        <sp who="#simiche">
+          <speaker>(Σιμ.)</speaker>
+          <l part="F">φίλτατε</l>
+          <l part="I">κατάβα.</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>(Σικ.)</speaker>
+          <l part="F">Πόσειδον, ἵνα τὸ τοῦ λόγου πάθω,</l>
+          <l>ἐν τῶι φρέατι κυνὶ μάχωμαι ; μηδαμῶς.</l>
+        </sp>
+        <sp who="#simiche">
+          <speaker>(Σιμ.)</speaker>
+          <l n="635" part="I">ὦ Γοργία, ποῦ γῆς ποτ’ εἶ ;</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l part="F">ποῦ γῆς ἐγώ ;</l>
+          <l part="I">τί ἐστί, Σιμίχη ;</l>
+        </sp>
+        <sp who="#simiche">
+          <speaker>(Σιμ.)</speaker>
+          <l part="F">τί γάρ ; πάλιν λέγω·</l>
+          <l part="I">ὁ δεσπότης ἐν τῶι φρέατι.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>Γο.</speaker>
+          <l part="F">Σώστρατε,</l>
+          <l>ἔξελθε δεῦρ’· ἡγοῦ, βάδιζ’ εἴσω ταχύ.</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>Σικ.</speaker>
+          <l>εἰσὶν θεοί, μὰ τὸν Διόνυσον. οὐ δίδως</l>
+          <l n="640">λεβήτιον θύουσιν, ἱερόσυλε σύ,</l>
+          <l>ἀλλὰ φθονεῖς· ἔκπιθι τὸ φρέαρ εἰσπεσών,</l>
+          <l>ἵνα μηδ’ ὕδατος ἔχηις μεταδοῦναι μηδενί.</l>
+          <l>νυνὶ μὲν αἱ Νύμφαι τετιμωρημέναι</l>
+          <l>εἴσ’ αὐτὸν ὑπὲρ ἐμοῦ δικαίως· οὐδὲ εἷς</l>
+          <l n="645">μάγειρον ἀδικήσας ἀθῶιος διέφυγεν.</l>
+          <l>ἱεροπρεπής πως ἐστὶν ἡμῶν ἡ τέχνη.</l>
+          <l>]ς τραπεζοποιὸν ὅ τι βούλει πόει.</l>
+          <l>ἀλλ’ ἆ]ρα μὴ τέθνηκεν ; πάππαν φίλτατον</l>
+          <l>κλάο]υ~σ’ ἀποιμώζει τις. οὐδὲν τοῦτό γε</l>
+          <gap>
+            <note>(desunt uersus fere iv)</note>
+          </gap>
+          <l>δηλονότι καθ[</l>
+          <l>οὕτως ἀνιμης[</l>
+          <l>τὴν ὄψιν αὐτοῦ τ~ι~ν~[</l>
+          <l>οἴεσθ’ ἔσεσθαι, πρὸς θεῶν, βεβ[αμ]μένου,</l>
+          <l>τρέμοντος ; ἀστείαν. ἐγὼ μὲν ἡδέως</l>
+          <l>ἴδοιμ’ ἄν, ἄνδρες, νὴ τὸν Ἀπόλλω τουτονί.</l>
+          <l n="660">ὑμεῖς δ’ ὑπὲρ τούτων, γυναῖκες, σπένδετε·</l>
+          <l>εὔχεσθε τὸν γέροντα σωθῆναι–κακῶς,</l>
+          <l>ἀνάπηρον ὄντα, χωλόν· οὕτω γίνεται</l>
+          <l>ἀλυπότατος γὰρ τῶιδε γείτων τῶι θεῶι</l>
+          <l>καὶ τοῖς ἀεὶ θύουσιν. ἐπιμελὲς δέ μοι</l>
+          <l n="665">τοῦτ’ ἐστίν, ἄν τις ἆρα μισθώσητ’ ἐμέ.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l>ἄνδρες, μὰ τὴν Δήμητρα, μὰ τὸν Ἀσκληπιόν,</l>
+          <l>μὰ τοὺς θεούς, οὐπώποτ’ ἐν τὠμῶι βίωι</l>
+          <l>εὐκαιρότερον ἄνθρωπον ἀποπεπνιγμένον</l>
+          <l>ἑόρακα μικροῦ. τῆς γλυκείας διατριβῆς·</l>
+          <l n="670">ὁ Γοργίας γάρ, ὡς τάχιστ’ εἰσήλθομεν,</l>
+          <l>εὐθὺς κατεπήδησ’ εἰς τὸ φρέαρ, ἐγὼ δὲ καὶ</l>
+          <l>ἡ παῖς ἄνωθεν οὐδὲν ἐποοῦμεν· τί γὰρ</l>
+          <l>ἐμέλλομεν ; πλὴν ἡ μὲν αὑτῆς τὰς τρίχας</l>
+          <l>ἔτιλλ’, ἔκλα’, ἔτυπτε τὸ στῆθος σφόδρα,</l>
+          <l n="675">ἐγὼ δ’ ὁ χρυσοῦς, ὡσπερεὶ νὴ τοὺς θεοὺς</l>
+          <l>τροφὸς παρεστώς, ἐδεόμην γε μὴ ποεῖν</l>
+          <l>τοῦθ’, ἱκέτευον, ἐμβλέπων ἀγάλματι</l>
+          <l>οὐ τῶι τυχόντι. τοῦ δὲ πεπληγμένου κάτω</l>
+          <l>ἔμελεν ἔλαττον ἤ τινός μοι, πλὴν ἀεὶ</l>
+          <l n="680">ἕλκειν ἐκεῖνον· τοῦτ’ ἐνώχλει μοι σφόδρα.</l>
+          <l>μικροῦ γε νὴ Δί’ αὐτὸν εἰσαπολώλεκα·</l>
+          <l>τὸ σχοινίον γὰρ ἐμβλέπων τῆι παρθένωι</l>
+          <l>ἀφῆκ’ ἴσως τρίς. ἀλλ’ ὁ Γοργίας Ἄτλας</l>
+          <l>ἦν οὐχ ὁ τυχών· ἀντεῖχε καὶ μόλις ποτὲ</l>
+          <l n="685">ἀνενήνοχ’ αὐτόν. ὡς ἐκεῖνος ἐξέβη</l>
+          <l>δεῦρ’ ἐξελήλυθ’· οὐ γὰρ ἐδυνάμην ἔτι</l>
+          <l>κατέχειν ἐμαυτόν, ἀλλὰ μικροῦ [τὴν κόρην</l>
+          <l>ἐφίλουν προσιών· οὕτω σφόδρ’ ε[</l>
+          <l>ἐρῶ. παρασκευάζομαι δή–τὴν θύραν</l>
+          <l n="690">ψοφοῦσιν. ὦ Ζεῦ Σῶτερ, ἐκτόπου θέας.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>Γο.</speaker>
+          <l>Βούλει τι, Κνήμων ; εἰπέ μοι.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>(Κν.)</speaker>
+          <l>τί [</l>
+          <l part="I">φαύλως ἔχω.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l part="M">θάῤῥει.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>(Κν.)</speaker>
+          <l part="F">τεθάρ[ρηκ’. οὐκέτι</l>
+          <l>ὑμῖν ἐνοχλήσει τὸν ἐπίλοιπον γ~ὰ~[ρ χρόνον</l>
+          <l part="I">Κνήμων.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l part="F">τοιοῦτόν ἐστ’ ἐρημία κακόν,</l>
+          <l n="695">ὁρᾶις ; ἀκαρὴς νῦν παραπόλωλας ἀρτίως.</l>
+          <l>τηρούμενον δὴ τηλικοῦτον τῶι βίωι</l>
+          <l part="I">ἤδη καταζῆν δεῖ.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>(Κν.)</speaker>
+          <l part="F">χαλεπῶς μὲν οἶδ’ ὅτι</l>
+          <l>ἔχω, κάλεσον δέ, Γοργία, τὴν μητέρα,</l>
+          <l>ὡς ἔνι μάλιστα. τὰ κακὰ παιδεύειν μόνα</l>
+          <l n="700">ἐπίσταθ’ ἡμᾶς ὡς ἔοικε. θυγάτριον,</l>
+          <l part="I">βούλει μ’ ἀναστῆσαι λαβοῦσα ;</l>
+        </sp>
+        <sp>
+          <speaker>Σω.</speaker>
+          <l part="F">μακάριε</l>
+          <l part="I">ἄνθρωπε.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>(Κν.)</speaker>
+          <l part="F">τί παρέστηκας ἐνταῦθ’, ἄθ~λ~ι~[ε ;</l>
+          <gap>
+            <note>(desunt uersus v)</note>
+          </gap>
+          <l>]εσοις ἐβουλόμην</l>
+          <l>Μυρ]ρίνη καὶ Γοργία,</l>
+          <l n="710"> ε.[ ]ον προειλόμην</l>
+          <l>οὐκ ἴσως~ [....]ι~ κ[.]ι~[.]ν οὐδ’ ἂν εἷς δύναιτό με</l>
+          <l>τοῦτο μεταπεῖσαί τις ὑμῶν, ἀλλὰ συγχωρήσετε.</l>
+          <l>ἓν δ’ ἴσως ἥμαρτον ὅστις τῶν ἁπάντων ὠιόμην</l>
+          <l>αὐτὸς αὐτάρκης τις εἶναι καὶ δεήσεσθ’ οὐδενός.</l>
+          <l n="715">νῦν δ’ ἰδὼν ὀξεῖαν οὖσαν ἄσκοπόν τε τοῦ βίου</l>
+          <l>τὴν τελευτήν, εὗρον οὐκ εὖ τοῦτο γινώσκων τότε.</l>
+          <l>δεῖ γὰρ εἶναι–καὶ παρεῖναι–τὸν ἐπικουρήσοντ’ ἀεί.</l>
+          <l>ἀλλὰ μὰ τὸν Ἥφαιστον–οὕτω σφόδρα &lt;δι&gt;εφθάρμην ἐγὼ</l>
+          <l>τοὺς βίους ὁρῶν ἑκάστους τοὺς λογισμούς &lt;θ’&gt; ὃν τρόπον</l>
+          <l n="720"> πρὸς τὸ κερδαίνειν ἔχουσιν–οὐδέν’ εὔνουν ὠιόμην</l>
+          <l>ἕτερον ἑτέρωι τῶν ἁπάντων ἂν γενέσθαι. τοῦτο δὴ</l>
+          <l>ἐμποδὼν ἦν μοι. μόλις δὲ πεῖραν εἷς δέδωκε νῦν</l>
+          <l>Γοργίας, ἔργον ποήσας ἀνδρὸς εὐγενεστάτου·</l>
+          <l>τὸν γὰρ οὐκ ἐῶντά &lt;τ’ α&gt;ὐτὸν προσιέναι &lt;καὶ&gt; τῆι θύραι</l>
+          <l n="725">οὐ βοηθήσαντά &lt;τ’ α&gt;ὐτῶι πώποτ’ εἰς οὐδὲν μέρος,</l>
+          <l>οὐ προσειπόντ’, οὐ λαλήσανθ’ ἡδέως, σέσωχ’ ὅμως.</l>
+          <l>ὅπερ ἂν ἄλλος καὶ δικαίως· " οὐκ ἐᾶις με προσιέναι·</l>
+          <l>οὐ προσέρχομ’· οὐδὲν ἡμῖν γέγονας αὐτὸς χρήσιμος·</l>
+          <l>οὐδ’ ἐγὼ σοὶ νῦν. » τί δ’ ἐστί, μειράκιον ; ἐάν &lt;τ’&gt; ἐγὼ</l>
+          <l n="730"> ἀποθάνω νῦν–οἴομαι δέ, καὶ κακῶς ἴσως ἔχω–</l>
+          <l>ἄν τε περι&lt;σωθ&gt;ῶ, ποοῦμαί σ’ ὑόν, ἅ τ’ ἔχων τυγχάνω</l>
+          <l>πάντα σαυτοῦ νόμισον εἶναι. τήνδε σοι παρεγγυῶ·</l>
+          <l>ἄνδρα δ’ αὐτῆι πόρισον. εἰ γὰρ καὶ σφόδρ’ ὑγιαίνοιμ’ ἐγώ,</l>
+          <l>αὐτὸς οὐ δυνήσομ’ εὑρεῖν· οὐ γὰρ ἀρέσει μοί ποτε</l>
+          <l n="735">οὐδὲ εἷς. ἀλλ’ ἐμὲ μέν, &lt;ἂν ζῶ&gt;, ζῆν ἐᾶθ’ ὡς βούλομαι,</l>
+          <l>τἆλλα πρᾶττ’ αὐτὸς παραλαβών. νοῦν ἔχεις σὺν τοῖς θεοῖς,</l>
+          <l>κηδεμὼν εἶ τῆς ἀδελφῆς εἰκότως. τοῦ κτήματος</l>
+          <l>ἐπιδίδου &lt;σὺ&gt; προῖκα τοὐμοῦ διαμετρήσας &lt;θ&gt;ἤμισυ,</l>
+          <l>τὸ δ’ ἕτερον λαβὼν διοίκει κἀμὲ καὶ τὴν μητέρα.</l>
+          <l n="740"> ἀλλὰ κα]τάκλινόν με, θύγατερ. τῶν δ’ ἀναγκαίων λέγειν</l>
+          <l>πλείον’] οὐκ ἀνδρὸς νομίζω· πλὴν ἐκεῖνό γ’ ἴσθι, παῖ–</l>
+          <l>ὑπὲρ ἐ]μ~οῦ γὰρ βούλομ’ εἰπεῖν ὀλίγα σοι καὶ τοῦ τρόπου–</l>
+          <l>εἰ τοιοῦτ]οι πάντες ἦσαν, οὔτε τὰ δικαστήρια</l>
+          <l>ἦν ἄν, οὔθ’ αὑτοὺς ἀπῆγον εἰς τὰ δεσμωτήρια,</l>
+          <l n="745">οὔτε πόλεμος ἦν, ἔχων δ’ ἂν μέτρι’ ἕκαστος ἠγάπα.</l>
+          <l>ἀλλ’ ἴσως ταῦτ’ ἐστ’ ἀρεστὰ μᾶλλον· οὕτω πράττετε.</l>
+          <l>ἐκποδὼν ὑμῖν &lt;ὁ&gt; χαλεπὸς δύσκολός τ’ ἔσται γέρων.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l>ἀλλὰ δέχομαι ταῦτα πάντα. δεῖ δὲ μετὰ σοῦ νυμφίον</l>
+          <l>ὡς τάχισθ’ εὑρεῖν &lt;τιν’&gt; ἡμᾶς τῆι κόρηι, σοὶ συνδοκοῦν.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>Κν.</speaker>
+          <l n="750"> οὗτος, εἴρηχ’ ὅσ’ ἐφρόνουν σοι· μὴ ‘νόχλει, πρὸς τῶν θεῶν.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>Γο.</speaker>
+          <l part="I">Βούλεται γὰρ ἐντυχεῖν σοι–</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>(Κν.)</speaker>
+          <l part="F">μηδαμῶς, πρὸς τῶν θεῶν.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l part="I">τὴν κόρην αἰτῶν τις.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>(Κν.)</speaker>
+          <l part="F">οὐδὲν ἔτι &lt;τοιοῦτό&gt; μοι μέλει.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l part="I">ὅ &lt;σε&gt; συνεκσώσας.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>(Κν.)</speaker>
+          <l part="M">ὁ ποῖος ;</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l part="F">οὑτοσί. πρόσελθε σύ.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>(Κν.)</speaker>
+          <l part="I">ἐπικέκαυται μέν. γεωργός ἐστι ;</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l part="F">καὶ μάλ’, ὦ πάτερ.</l>
+          <l n="755">οὐ τρυφῶν οὐδ’ οἷος ἀργὸς περιπατεῖν τὴν ἡμέραν</l>
+          <l>].γ~ενος ..[</l>
+          <l>]σ~δίδου ποεῖ &lt;τε&gt; του[</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker><supplied>Κν.</supplied></speaker>
+          <l>εἰσκυ]κλεῖτ’ εἴσω με.</l>
+        </sp>
+        <sp>
+          <speaker>(?)</speaker>
+          <l>καὶ[</l>
+          <l>ἐπιμ]ελοῦ τούτου. τὸ λο[ιπὸν] ἐγγυᾶν[</l>
+          <l n="760"> τὴν] ἀδελφήν.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l>ἐπανένεγκε ταῦτα, [Σ]ώστ[ραθ’, οἷς σε δεῖ.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker><supplied>Σω.</supplied></speaker>
+          <l part="I">οὐ[δ]ὲν ὁ πατὴρ ἀντερεῖ [μοι].</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l part="F">τοιγαροῦν ἔγωγέ σοι</l>
+          <l>ἐγγυῶ δίδωμι πάντων τῶν θεῶν ἐναντίον</l>
+          <l><sic>ενεγκεινος δίκαιόν ἐστι π.[.]θη, Σώστρατε.</sic></l>
+          <l>οὐ πεπλασμένωι γὰρ ἤθει πρὸς τὸ πρᾶγμ’ ἐλήλυθας,</l>
+          <l n="765">ἀλλ’ ἁπλῶς, καὶ πάντα ποιεῖν ἠξίωσας τοῦ γάμου</l>
+          <l>ἕνεκα, τρυφερὸς ὢν δίκελλαν ἔλαβες, ἔσκαψας, πονεῖν</l>
+          <l>ἠθέλησας. ἐν δὲ τούτωι τῶι μέρει μάλιστ’ ἀνὴρ</l>
+          <l>δείκνυτ’, ἐξισοῦν ἑαυτὸν ὅστις ὑπομένει τινὶ</l>
+          <l>εὐπορῶν πένητι· καὶ γὰρ μεταβολὴν οὗτος τ~ύ~χ~[ης</l>
+          <l n="770"> ἐγκρατῶς οἴσει. δέδωκας πεῖραν ἱκανὴν τοῦ τρόπου.</l>
+          <l part="I">διαμένοις μόνον τοιοῦτος.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)Σώστρατος</speaker>
+          <l part="F">πολὺ μὲν οὖν κρείττω~[ν ἔτι.</l>
+          <l>ἀλλ’ ἐπαινεῖν αὑτόν ἐστι φορτικόν τι πρᾶγμ’ ἴσως.</l>
+          <l part="I">εἰς καλὸν δ’ ὁρῶ παρόντα τὸν πατέρα.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l part="F">Καλλιππίδης</l>
+          <l part="I">ἐστὶ σοῦ πατήρ ;</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="M">πάνυ μὲν οὖν.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l part="F">νὴ Δία πλούσιός γ’ ἀνήρ,</l>
+          <l n="775" part="I">&lt;καὶ&gt; δικαίως &lt;γ’ ὡς&gt; γεωργὸς ἄμαχος.</l>
+        </sp>
+        <sp who="#kallippides">
+          <speaker>Καλλιππιδης</speaker>
+          <l part="F">ἀπολέλειμμ’ ἴσως.</l>
+          <l>&lt;οἱ δὲ&gt; καταβεβρωκότες δὴ τὸ πρόβατον φροῦδοι πάλαι</l>
+          <l part="I">εἰσὶν εἰς ἀγρόν.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>Γο.</speaker>
+          <l part="F">Πόσειδον, ὀξυπείνως πως ἔχει.</l>
+          <l part="I"> αὐτίκ’ αὐτῶι ταῦτ’ ἐροῦμεν ;</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="F">πρῶτον ἀριστησάτω·</l>
+          <l part="I">πραότερος ἔσται.</l>
+        </sp>
+        <sp who="#kallippides">
+          <speaker>(Κα.)</speaker>
+          <l part="F">τί τοῦτο, Σώστρατ’ ; ἠριστήκατε ;</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>&lt; Σω.&gt;</speaker>
+          <l n="780" part="I"> ἀλλὰ καὶ σοὶ παραλέλειπται. πάραγε.</l>
+        </sp>
+        <sp who="#kallippides">
+          <speaker>(Κα.)</speaker>
+          <l part="F">τοῦτο δὴ ποῶ.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>Γο.</speaker>
+          <l>εἰσιὼν αὐτῶι λαλεῖ &lt;νῦν&gt;, εἴ τι βούλει τῶι πατρὶ</l>
+          <l part="I">κατὰ μόνας.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="M">ἔνδον περιμενεῖς, οὐ γάρ ;</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>(Γο.)</speaker>
+          <l part="F">οὐκ ἐξέρχομαι</l>
+          <l part="I"> ἔνδοθεν.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>(Σω.)</speaker>
+          <l part="F">μικρὸν διαλιπὼν παρακαλῶ τοίνυν &lt;σ’&gt; ἐγώ.</l>
+        </sp>
+        <stage>Χορου</stage>
+      </div>
+      <div n="5" type="act">
+        <head>V</head>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l>οὐχ ὡς ἐβουλόμην ἅπαντά μοι, πάτερ,</l>
+          <l n="785" part="I">οὐδ’ ὡς προσεδόκων γίνεται παρὰ σοῦ.</l>
+        </sp>
+        <sp who="#kallippides">
+          <speaker>Κα.</speaker>
+          <l part="F"> τί δέ ;</l>
+          <l>οὐ συγκεχώρηχ’ ; ἧς ἐρᾶις σε λαμβάνειν</l>
+          <l part="I">καὶ βούλομαι καί φημι δεῖν.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l part="F">ὔ μοι δοκεῖς.</l>
+        </sp>
+        <sp who="#kallippides">
+          <speaker>Κα.</speaker>
+          <l>νὴ τοὺς θεοὺς ἔγωγε, γινώσκων ὅτι</l>
+          <l>νέωι γάμος βέβαιος οὕτως γίνεται</l>
+          <l n="790">ἐὰν δι’ ἔρωτα τοῦτο συμπεισθῆι ποεῖν.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l>ἔπειτ’ ἐγὼ μὲν τὴν ἀδελφὴν λήψομαι</l>
+          <l>τὴν τοῦ νεανίσκου, νομίζων ἄ[ξιον</l>
+          <l>ἡμῶν ἐκεῖνον· πῶς δὲ τοῦτο νῦ[ν σὺ φήις,</l>
+          <l part="I">οὐκ ἀντιδώσειν τὴν ἐμήν ;</l>
+        </sp>
+        <sp who="#kallippides">
+          <speaker>Κα.</speaker>
+          <l part="F">ἰσχρὸν λέγεις ;</l>
+          <l n="795">νύμφην γὰρ ἅμα καὶ νυμφίον πτωχοὺς λαβεῖν</l>
+          <l>οὐ βούλομ’, ἱκανὸν δ’ ἐστὶν ἡμῖν θάτερον.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l>περὶ χρημάτων λαλεῖς, ἀβεβαίου πράγματος.</l>
+          <l>εἰ μὲν γὰρ οἶσθα ταῦτα παραμενοῦντά σοι</l>
+          <l>εἰς πάντα τὸν χρόνον, φύλαττε μηδενὶ</l>
+          <l n="800">τοῦ σοῦ μεταδιδούς· ὧν δὲ μὴ σὺ κύριος</l>
+          <l>εἶ, μηδὲ σαυτοῦ τῆς τύχης δὲ πάντ’ ἔχεις,</l>
+          <l>μή τι φθονοίης, ὦ πάτερ, τούτων τινί.</l>
+          <l>αὕτη γὰρ ἄλλωι, τυχὸν ἀναξίωι τινί,</l>
+          <l>παρελομένη σοῦ πάντα προσθήσει πάλιν.</l>
+          <l n="805">διόπερ ἐγώ σε φημὶ δεῖν, ὅσον χρόνον</l>
+          <l>εἶ κύριος, χρῆσθαι σε γενναίως, πάτερ,</l>
+          <l>αὐτόν, ἐπικουρεῖν πᾶσιν, εὐπόρους ποεῖν</l>
+          <l>ὡς ἂν δύνηι πλείστους διὰ σαυτοῦ. τοῦτο γὰρ</l>
+          <l>ἀθάνατόν ἐστι, κἄν ποτε πταίσας τύχηις,</l>
+          <l n="810">ἐκεῖθεν ἔσται ταὐτὸ τοῦτό σοι πάλιν.</l>
+          <l>πολλῶι δὲ κρεῖττόν ἐστιν ἐμφανὴς φίλος</l>
+          <l>ἢ πλοῦτος ἀφανής, ὃν σὺ κατορύξας ἔχεις.</l>
+        </sp>
+        <sp who="#kallippides">
+          <speaker>Κα.Καλλιππίδης</speaker>
+          <l>οἶσθ’ οἷός εἰμι, Σώστραθ’· ἃ συνελεξάμην</l>
+          <l>οὐ συγκατορύξω ταῦτ’ ἐμαυτῶι–πῶς γὰρ ἄν ; –</l>
+          <l n="815">σὰ δ’ ἐστί. βούλει περιποήσασθαί τινα</l>
+          <l>φίλον δοκιμάσας· πρᾶττε τοῦτ’ ἀγαθῆι τύχηι.</l>
+          <l>τί μοι λέγεις γνώμας ; <sic>πόριζε βάδιζε</sic></l>
+          <l>δίδου, μεταδίδου· συμπέπεισμαι πάντα σοι</l>
+          <l part="I">ἑκών.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l part="M">ἑκών ;</l>
+        </sp>
+        <sp who="#kallippides">
+          <speaker>&lt;Κα.&gt;</speaker>
+          <l part="F">εὖ ἴσθι· μηδὲν τοῦτό σε</l>
+          <l n="820" part="I">ταραττέτω.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l part="F">τὸν Γοργίαν τοίνυν καλῶ.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>Γο.</speaker>
+          <l>ἐπακήκο’ ὑμῶν ἐξιὼν πρὸς τῆι θύραι</l>
+          <l>ἅπαντας οὓς εἰρήκατ’ ἐξ ἀρχῆς λόγους.</l>
+          <l>τί οὖν ; ἐγώ σ&lt;ε, Σ&gt;ώστρατ’, εἶναι μὲν φίλον</l>
+          <l>ὑπολαμβάνω σπουδαῖον ἀγαπῶ τ’ ἐκτόπως,</l>
+          <l n="825">μείζω δ’ ἐμαυτοῦ πράγματ’ οὔτε βούλομαι</l>
+          <l>οὔτ’ ἂν δυναίμην μὰ Δία βουληθεὶς φέρειν.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l part="I">οὐκ οἶδ’ ὅ τι λέγεις.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>Γο.</speaker>
+          <l part="F">τὴν ἀδελφὴν τὴν ἐμὴν</l>
+          <l>δίδωμί σοι γυναῖκα, τὴν δὲ σὴν λαβεῖν–</l>
+          <l part="I">καλῶς ἔχει μοι.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l part="M">πῶς καλῶς ;</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>Γο.</speaker>
+          <l part="F">οὐχ ἡδύ μοι</l>
+          <l n="830">εἶναι τρυφαίνειν ἀλλοτρίοις πόνοις δοκεῖ,</l>
+          <l part="I">συλλεξάμενον δ’ αὐτόν.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l part="F">φλυαρεῖς, Γοργία.</l>
+          <l>οὐκ ἄξιον κρίνεις σεαυτὸν τοῦ γάμου.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>Γο.</speaker>
+          <l>ἐμαυτὸν εἶναι κέκρικ’ ἐκείνης ἄξιον,</l>
+          <l>λαβεῖν δὲ πολλὰ μίκρ’ ἔχοντ’ οὐκ ἄξιον.</l>
+        </sp>
+        <sp who="#kallippides">
+          <speaker>Κα.</speaker>
+          <l n="835">νὴ τὸν Δία τὸν μέγιστον εὐγενῶς γέ πως</l>
+          <l part="I">]ος εἶ.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>Γο.</speaker>
+          <l part="M">πῶς ;</l>
+        </sp>
+        <sp who="#kallippides">
+          <speaker>Κα.</speaker>
+          <l part="F">οὐκ ἔχων βούλει δοκεῖν</l>
+          <l>]ἐπειδὴ συμπεπεισμένον μ’ ὁρᾶις</l>
+          <l>]ε τούτωι μ’ ἀναπέπεικας· διπλασίως</l>
+          <l>]ων πένης &lt; &gt; ἀπόπληκτός θ’ ἅμα</l>
+          <l n="840">]ς~ ὑποδείκνυσιν εἷς σωτηρίαν.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker><supplied>Σω.</supplied></speaker>
+          <l>.λοιπόν ἐστιν ἡμῖν ἐγγυᾶν.</l>
+        </sp>
+        <sp who="#kallippides">
+          <speaker>Κα.</speaker>
+          <l>ἀλλ’ ἐγγυῶ παίδων ἐπ’ ἀρότωι γνησίων</l>
+          <l>τὴν θυγατέρ’ ἤδη μειράκιόν σοι προῖκά τε</l>
+          <l part="I">δίδωμ’ ἐπ’ αὐτῆι τρία τάλαντα.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>Γο.</speaker>
+          <l part="F">ἐγὼ δέ γε</l>
+          <l n="845" part="I">χω τάλαντον προῖκα τῆς ἑτέρας.</l>
+        </sp>
+        <sp who="#kallippides">
+          <speaker>Κα.</speaker>
+          <l part="F">ἔχεις ;</l>
+          <l part="I">μὴ δῶις σὺ λίαν.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>Γο.</speaker>
+          <l part="F">ἀλλ’ ἔχω τὸ χωρίον.</l>
+        </sp>
+        <sp who="#kallippides">
+          <speaker>&lt; Κα.&gt;</speaker>
+          <l>κέκτησ’ ὅλον σύ, Γοργία. τὴν μητέρα</l>
+          <l>ἤδη σὺ δεῦρο τήν τ’ ἀδελφὴν μετάγαγε</l>
+          <l part="I">πρὸς τὰς γυναῖκας τὰς παρ’ ἡμῖν.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>Γο.</speaker>
+          <l part="F">ἀλλὰ χρή.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l n="850">τὴν νύκτα [</l>
+          <l>πάντες μεν~[ το]ὺς γάμους</l>
+          <l>ποήσομεν. καὶ τὸν γέροντα, Γοργία,</l>
+          <l>κομίσατε δεῦρ’· ἕξει τὰ δέοντ’ ἐνταῦθ’ ἴσως</l>
+          <l part="I">μᾶλλον παρ’ ἡμῖν.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>Γο.</speaker>
+          <l part="F">οὐκ ἐθελήσει, Σώστρατε.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l n="855" part="I">σύμπεισον αὐτόν.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>Γο.</speaker>
+          <l part="M">ἂν δύνωμαι.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l part="F">δεῖ πότον</l>
+          <l>ἡμῶν γενέσθαι, παππία, νυνὶ καλόν,</l>
+          <l part="I">καὶ τῶν γυναικῶν παννυχίδα.</l>
+        </sp>
+        <sp who="#kallippides">
+          <speaker>Κα.</speaker>
+          <l part="F">τοὐναντίον</l>
+          <l>πίοντ’ ἐκεῖναι, παννυχιοῦμεν οἶδ’ ὅτι</l>
+          <l>ἡμεῖς. παράγων δ’ ὑμῖν ἑτοιμάσω τι νῦν</l>
+          <l n="860" part="I">προὔργου.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l part="F">πόει τοῦτ’· οὐδενὸς χρὴ πράγματος</l>
+          <l>τὸν εὖ φρονοῦνθ’ ὅλως ἀπογνῶναί ποτε.</l>
+          <l>ἁλωτὰ γίνετ’ ἐπιμελείαι καὶ πόνωι</l>
+          <l>ἅπαντ’. ἐγὼ τούτου παράδειγμα νῦν φέρω·</l>
+          <l>ἐν ἡμέραι μιᾶι κατείργασμαι γάμον</l>
+          <l n="865">&lt;ὃν&gt; οὐδ’ ἂν εἷς ποτ’ ὤιετ’ ἀνθρώπων ὅλως.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>Γο</speaker>
+          <l part="I">προάγετε δὴ θᾶττόν ποθ’ ὑμεῖς.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l part="F">δεῦτε δή.</l>
+          <l>μῆτερ, δέχου ταύτας. ὁ Κνήμων δ’ οὐδέπω ;</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>Γο.</speaker>
+          <l>ὃς ἱκέτευεν ἐξαγαγεῖν τὴν γραῦν ἔτι,</l>
+          <l part="I">ἵν’ ἦι τελέως μόνος καθ’ αὑτόν ;</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l part="F">ὢ τρόπου</l>
+          <l n="870" part="I">ἀμάχου.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>Γο.</speaker>
+          <l part="M">τοιοῦτος.</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>&lt;Σω.&gt;</speaker>
+          <l part="F">ἀλλὰ πολλὰ χαιρέτω.</l>
+          <l part="I">ἡμεῖς δ’ ἴωμεν.</l>
+        </sp>
+        <sp who="#gorgias">
+          <speaker>Γο.</speaker>
+          <l part="F">Σώστραθ’, ὑπεραισχύνομαι</l>
+          <l part="I">γυναιξὶν ἐν ταὐτῶι–</l>
+        </sp>
+        <sp who="#sostratos">
+          <speaker>Σω.</speaker>
+          <l part="F">τίς ὁ λῆρος ; οὐ πρόει ;</l>
+          <l>οἰκεῖα ταῦτ’ ἤδη νομίζειν πάντα δεῖ.</l>
+        </sp>
+        <sp who="#simiche">
+          <speaker>Σιμ.</speaker>
+          <l>ἄπειμι νὴ τὴν Ἄρτεμιν κἀγώ. μόνος</l>
+          <l n="875">ἐνταῦθα κατακείσει. τάλας σὺ τοῦ τρόπου.</l>
+          <l>πρὸς τὸν θεόν σε βουλομένων [τούτων ἄγειν</l>
+          <l>ἀντεῖπας. ἔσται μέγα κακὸν πάλιν [τί σοι,</l>
+          <l>νὴ τὼ θεώ, &lt;καὶ&gt; μεῖζον ἢ νῦν εὖ πά[νυ.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>Γε.</speaker>
+          <l part="I">ἐγὼ προσελθὼν ὄψομαι δεῦρ[</l>
+          <l part="F">αὐλεῖ.</l>
+          <l n="880">τί μοι προσαυλεῖς, ἄθλι’ οὗτος ; οὐδέπω σχολή [μοι.</l>
+          <l>πρὸς τὸν κακῶς ἔχοντα πέμπουσ’ ἐνθαδί μ’· ἐπίσ[χες.</l>
+        </sp>
+        <sp who="#simiche">
+          <speaker>Σιμ.</speaker>
+          <l>καὶ παρακαθήσθω γ’ εἰσιὼν αὐτῶι τις ἄλλος ὑμῶν.</l>
+          <l>ἐγὼ δ’ ἀποστέλλουσα τροφίμην βούλομαι λαλῆσαι</l>
+          <l part="I">ταύτηι, προσειπεῖν, ἀσπάσασθαι.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>Γε.</speaker>
+          <l part="F">νοῦν ἔχεις· βάδιζε.</l>
+          <l n="885">τοῦτον δὲ θεραπεύσω τέως ἐγώ. πάλαι δ~[έδοκται</l>
+          <l>τ[ούτο]υ~ λαβεῖν τὸν καιρόν, ἀλλὰ διαπον~[εῖν ἔδει με.</l>
+          <l>]ετ~ει καὶ τῶν β~[</l>
+          <l>ο]ὔπω δυνης~[ ]ι~, μάγειρε.</l>
+          <l>Σίκων, πρόελθε δεῦρό μοι [σὺ θᾶττο]ν. ὦ Πόσειδον,</l>
+          <l n="890" part="I">οἵαν ἔχειν οἶμαι διατριβήν.</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>Σικ.</speaker>
+          <l part="M">σύ με καλεῖς ;</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>Γε.</speaker>
+          <l part="F"> ἔγωγε.</l>
+          <l>τιμωρίαν βούλει λαβεῖν ὧν ἀρτίως ἔπασχες ;</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>Σικ.</speaker>
+          <l>ἐγὼ δ’ ἔπασχον ἀρτίως ; οὐ λαικάσει φλυαρῶν ;</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>Γε.</speaker>
+          <l part="I">ὁ δύσκολος [γέρ]ων καθεύδει μόνος.</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>Σικ.</speaker>
+          <l part="F">ἔχει δὲ &lt;δὴ&gt; πῶς ;</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>Γε.</speaker>
+          <l part="I">οὐ παντάπασιν ἀθλίως.</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>Σικ.</speaker>
+          <l part="F">οὐκ ἂν δύναιτό γ’ ἡμᾶς</l>
+          <l n="895" part="I">τύπτειν ἀναστάς ;</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>Γε.</speaker>
+          <l part="F">οὐδ’ ἀναστῆναι &lt;γάρ&gt;, ὡς ἐγὦιμαι.</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>Σικ.</speaker>
+          <l>ὡς ἡδὺ πρᾶγμά μοι λέγεις. αἰτήσομ’ εἰσιών τι·</l>
+          <l part="I">ἔξω γὰρ ἔσται τῶν φρενῶν.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>Γε.</speaker>
+          <l part="F"> &lt;τί δ’ ἄν,&gt; τὸ δεῖνα, πρῶτον</l>
+          <l>ἔξω προελκύσωμεν αὐτόν, εἶτα θέντες αὐτοῦ</l>
+          <l>κόπτωμεν οὕτω τὰς θύρας, αἰτῶμεν, ἐπιφλέγωμεν ;</l>
+          <l n="900" part="I">ἔσται τις ἡδονή, λέγω.</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>Σικ.</speaker>
+          <l part="F">τὸν Γοργίαν δέδοικα</l>
+          <l part="I">μὴ καταλαβὼν ἡμᾶς καθαίρηι.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>Γε.</speaker>
+          <l part="F">θόρυβός ἐστιν ἔνδον,</l>
+          <l>πίνουσιν. οὐκ αἰσθήσετ’ οὐδείς. τὸ δ’ ὅλον ἐστὶν ἡμῖν</l>
+          <l>ἅνθρωπος ἡμερωτέος· κηδεύομεν γὰρ αὐτῶι,</l>
+          <l>οἰκεῖος ἡμῖν γίνετ’· εἰ δ’ ἔσται τοιοῦτος αἰεί,</l>
+          <l n="905" part="I">ἔργον ὑπενεγκεῖν, πῶς γὰρ οὔ ;</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>Σικ.</speaker>
+          <l part="F">λαθεῖν μόνον ἐπιθύμει</l>
+          <l part="I">αὐτὸν φέρων δεῦρ’ εἰς τὸ πρόσθεν.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>&lt; Γε.&gt;</speaker>
+          <l part="M"> πρόαγε δὴ σύ.</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>&lt; Σικ.&gt;</speaker>
+          <l part="F"> μικρὸν</l>
+          <l>πρόσμεινον, ἱκετεύω σε· μή με καταλιπὼν ἀπέλθηις.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>&lt; Γε.&gt;</speaker>
+          <l part="I">καὶ μὴ ψόφει, πρὸς τῶν θεῶν.</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>Σικ.</speaker>
+          <l part="F">ἀλλ’ οὐ ψοφῶ μὰ τὴν Γῆν.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>&lt; Γε.&gt;</speaker>
+          <l part="I">εἰς δεξιάν.</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>(Σικ.)</speaker>
+          <l part="M">ἰδού.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>&lt; Γε.&gt;</speaker>
+          <l part="M"> θὲς αὐτοῦ. νῦν ὁ καιρός.</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>&lt; Σικ.&gt;</speaker>
+          <l part="F">εἶἑν·</l>
+          <l n="910">ἐγὼ προάξω πρότερος. ἤν. καὶ τὸν ῥυθμὸν σὺ τήρει.</l>
+          <l part="I">&lt;παῖ&gt;, παιδίον, παῖδες &lt;καλοί&gt;, παῖ, παιδία.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>&lt;Κν.&gt;</speaker>
+          <l part="F">οἴχομ’, οἴμοι.</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>&lt; Σικ.&gt;</speaker>
+          <l part="I">παῖδες καλοί, παῖ, παιδίον, &lt;παῖ&gt;, παῖδες.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>&lt;Κν.&gt;</speaker>
+          <l part="F">οἴχομ’, οἴμοι.</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>&lt; Σικ.&gt;</speaker>
+          <l part="I">τίς οὗτος ; ἐντεῦθέν τις εἶ ;</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>Κν.</speaker>
+          <l part="F">&lt;δη&gt;λονότι. σὺ δὲ τί βούλει ;</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>&lt; Σικ.&gt;</speaker>
+          <l part="I">λέβητας αἰτοῦμαι παρ’ ὑμῶν καὶ σκάφην.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>Κν.</speaker>
+          <l part="F">τίς ἄν με</l>
+          <l n="915" part="I">στήσειεν ὀρθόν ;</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>Σικ.</speaker>
+          <l part="F">ἔστιν ὑμῖν, ἔστιν ὡς ἀληθῶς.</l>
+          <l>καὶ τρίποδας ἑπτὰ καὶ τραπέζας δώδεκ’· ἀλλά, παῖδες,</l>
+          <l part="I">τοῖς ἔνδον &lt;εἰσ&gt;αγγείλατε· σπεύδω γάρ.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>Κν.</speaker>
+          <l part="F">οὐδέν ἐστιν.</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>Σικ.</speaker>
+          <l part="I">οὐκ ἔστιν ;</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>Κν.</speaker>
+          <l part="M">&lt;ἀλλ’&gt; ἀκήκοας μυριάκις.</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>Σικ.</speaker>
+          <l part="F">ἀποτρέχω δή.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>Κν.</speaker>
+          <l>ὢ δυστυχὴς ἐγώ. τίνα τρόπον ἐνθαδὶ προήχθην ;</l>
+          <l n="920" part="I">τίς μ’ εἰ]ς τὸ πρόσθεν κατατέθηκεν ; ἄπαγε δὴ σύ.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>&lt; Γε.&gt;</speaker>
+          <l part="F">καὶ δή.</l>
+          <l part="I">παῖ, παι]δίον, γυναῖκες, ἄνδρες, παῖ θυρωρέ.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>Κν.</speaker>
+          <l part="F">μαίνει,</l>
+          <l part="I">ἄνθρωπε· τὴν θύραν κατάξεις.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>Γε.</speaker>
+          <l part="F">δάπιδας ἐννέ’ ἡμῖν</l>
+          <l part="I">χρήσα]τ~ε.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>Κν.</speaker>
+          <l part="M">πόθεν ;</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>Γε.</speaker>
+          <l part="F">καὶ παραπέτασμα βαρβαρικὸν ὑφαντόν</l>
+          <l part="I">]ποδῶν τὸ μῆκος ἑκατόν.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>Κν.</speaker>
+          <l part="F">εἴθε μοι γένοιτο</l>
+          <l n="925" part="I">πο]θεν. γραῦ. ποῦ ‘στιν &lt;ἡ&gt; γραῦς ;</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>Γε.</speaker>
+          <l part="F">ἐφ’ ἑτέραν βαδίζω</l>
+          <l part="I">θύραν ;</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>Κν.</speaker>
+          <l part="F">ἀπαλλάγητε δή. γραῦ. Σιμίχη. κακὸν δὲ</l>
+          <l>κακῶς &lt;σ’&gt; ἅπαντες ἀπολέσειαν οἱ θεοί. τί βούλει ;</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>Σικ.</speaker>
+          <l part="I">κρατῆρα βούλομαι λαβεῖν χαλκοῦν μέγαν.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>Κν.</speaker>
+          <l part="F">τίς ἄν με</l>
+          <l part="I">στήσειεν ὀρθόν ;</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>Γε.</speaker>
+          <l part="F">ἔστιν ὑμῖν, ἔστιν ὡς ἀληθῶς</l>
+          <l n="930" part="I">τὸ παραπέτασμα, παππία, πατρίδιον.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>&lt; Κν.&gt;</speaker>
+          <l part="F">οὐδ’ ὁ κρατήρ.</l>
+          <l part="I">τὴν Σιμίχην ἀποκτενῶ.</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>Σικ.</speaker>
+          <l part="F">κάθου &lt;σὺ&gt; μη&lt;δὲ&gt; γρύζων.</l>
+          <l>φεύγεις ὄχλον, μισεῖς γυναῖκας, οὐκ ἐᾶις κομίζειν</l>
+          <l>εἰς ταὐτὸ τοῖς θύουσι σαυτόν· πάντα ταῦτ’ ἀνέξει.</l>
+          <l>οὐδεὶς βοηθός σοι πάρεστιν. πρῖε σαυτὸν αὐτοῦ.</l>
+          <l n="935">ἄκουε δ’ ἑξῆς πάντα γ~α~[ ]...[ ]τι~ς~[</l>
+          <l>]αγκας οὐδὲ τὴν[ ]ι~</l>
+          <l>]ον αἱ γυναῖκες .[ ]παρ’ ὑμῶν.</l>
+          <l>γυν]αικὶ τῆι τε παιδὶ [περιβ]ολαὶ τὸ πρῶτον</l>
+          <l>φιλή]ματ’· οὐκ ἀηδὴς διατριβή τις αὐτῶν</l>
+          <l n="940">...]ρ[...] ἄνωθεν ηὐτρέπιζον συμπόσιον ἐγώ τι</l>
+          <l part="I">τοῖς ἀνδράσιν· τούτοις–ἀκούεις ; μὴ κάθευδε.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>Γε.</speaker>
+          <l part="F">μὴ γάρ.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>&lt;Κν.&gt;</speaker>
+          <l part="I">Οἴμοι.</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>Σικ.</speaker>
+          <l part="F">&lt;&gt; βούλει παρεῖναι ; πρόσ[εχε] καὶ τὰ λοιπά.</l>
+          <l>σπονδὴ παρῆν· ἐστρώννυτο στιβὰς χαμαί· τραπέζας</l>
+          <l>ἔγωγε–τοῦτο γὰρ ποεῖν ἐμοὶ προσῆκ’–ἀκούεις ;</l>
+          <l n="945" part="I">μάγειρος ὢν γὰρ τυγχάνω, μέμνησο.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>&lt; Γε.&gt;</speaker>
+          <l part="F">μαλακὸς ἁνήρ.</l>
+        </sp>
+        <sp who="#sikon">
+          <speaker>Σικ.</speaker>
+          <l>ἄλλος δὲ χερσὶν Εὔιον γέροντα πολιὸν ἤδη</l>
+          <l>ἔκλινε κοῖλον εἰς κύτος, μειγνύς τε νᾶμα Νυμφῶν</l>
+          <l>ἐδεξιοῦτ’ αὐτοῖς κύκλωι, καὶ ταῖς γυναιξὶν ἄλλος.</l>
+          <l>ἦν δ’ ὡσπερεὶ ‘ς ἄμμον φοροίης· ταῦτα μανθάνεις σύ ;</l>
+          <l n="950">καί τις βραχεῖσα προσπόλων εὐήλικος προσώπου</l>
+          <l>ἄνθος κατεσκιασμένη χορεῖον εἰσέβαινε</l>
+          <l>ῥυθμὸν μετ’ αἰσχύνης ὁμοῦ μέλλουσα &lt;καὶ&gt; τρέμουσα,</l>
+          <l>ἄλλη δὲ συγκαθῆπτε ταύτηι χεῖρα κἀχόρευεν.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>Γε.</speaker>
+          <l>ὦ πρᾶγμα πάνδεινον παθών, χόρευε, συνεπίβαινε.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>&lt;Κν.&gt;</speaker>
+          <l n="955" part="I">Τί π&lt;ο&gt;τ’ ἔτι βούλεσθ’, ἄθλιοι ;</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>Γε.</speaker>
+          <l part="F">μᾶλλον &lt;σὺ&gt; συνεπίβαινε.</l>
+          <l part="I">ἄγροικος εἶ.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>&lt;Κν.&gt;</speaker>
+          <l part="M">μὴ πρὸς θεῶν.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>&lt; Γε.&gt;</speaker>
+          <l part="F">οὐκοῦν φέρωμεν εἴσω</l>
+          <l part="I">ἤδη σε ;</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>&lt;Κν.&gt;</speaker>
+          <l part="M">τί ποήσω ;</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>&lt; Γε.&gt;</speaker>
+          <l part="M">χόρευε δὴ σύ.</l>
+        </sp>
+        <sp who="#knemon">
+          <speaker>Κν.</speaker>
+          <l part="F">φέρετε. κρεῖττον</l>
+          <l part="I">ἴσως ὑπομένειν ἐστὶ τἀκεῖ.</l>
+        </sp>
+        <sp who="#getas">
+          <speaker>Γε.</speaker>
+          <l part="F">νοῦν ἔχεις. κρατοῦ&lt;μεν&gt;.</l>
+          <l>ὢ καλλίνικοι. παῖ Δόναξ, Σίκων σύ γε,</l>
+          <l n="960">αἴρεσθε τοῦτον, εἰσφέρετε. φύλαττε δὴ</l>
+          <l>σεαυτόν, ὡς ἐάν σε παρακινοῦντά τι</l>
+          <l>λάβωμεν αὖτις, οὐδὲ μετρίως ἴσθ’ ὅτι</l>
+          <l>χρησόμεθά σοι τὸ τηνικάδ’. ἰώ, ἐκδότω</l>
+          <l>στεφάνους τις ἡμῖν, δᾶιδα. τουτονὶ λαβέ.</l>
+          <l n="965">εἶἑν. συνησθέντες κατηγωνισμένοις</l>
+          <l>ἡμῖν τὸν ἐργώδη γέροντα, φιλοφρόνως</l>
+          <l>μειράκια, παῖδες, ἄνδρες, ἐπικροτήσατε.</l>
+          <l>ἡ δ’ εὐπάτειρα φιλόγελώς τε παρθένος</l>
+          <l>Νίκη μεθ’ ἡμῶν εὐμενὴς ἕποιτ’ ἀεί.</l>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

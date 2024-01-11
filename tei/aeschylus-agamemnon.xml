@@ -56,23 +56,23 @@
           <person xml:id="phylax" sex="MALE">
             <persName>Φύλαξ</persName>
           </person>
-          <person xml:id="aigisthos" sex="MALE" ana="http://www.wikidata.org/entity/Q212091">
-            <persName>Αἴγισθος</persName>
+          <person xml:id="klytaimestra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131157">
+            <persName>Κλυταιμήστρα</persName>
+          </person>
+          <personGrp xml:id="choros" sex="MALE">
+            <name>Χορός</name>
+          </personGrp>
+          <person xml:id="keryx" sex="MALE">
+            <persName>Κῆρυξ</persName>
           </person>
           <person xml:id="agamemnon" sex="MALE" ana="http://www.wikidata.org/entity/Q128176">
             <persName>Ἀγαμέμνων</persName>
           </person>
-          <person xml:id="keryx" sex="MALE">
-            <persName>Κῆρυξ</persName>
-          </person>
-          <person xml:id="klytaimestra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131157">
-            <persName>Κλυταιμήστρα</persName>
-          </person>
-          <personGrp xml:id="choros" sex="UNKNOWN">
-            <name>Χορός</name>
-          </personGrp>
           <person xml:id="kasandra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q170779">
             <persName>Κασάνδρα</persName>
+          </person>
+          <person xml:id="aigisthos" sex="MALE" ana="http://www.wikidata.org/entity/Q212091">
+            <persName>Αἴγισθος</persName>
           </person>
         </listPerson>
       </particDesc>

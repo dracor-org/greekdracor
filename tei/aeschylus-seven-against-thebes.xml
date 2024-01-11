@@ -56,26 +56,26 @@
           <person xml:id="eteokles" sex="MALE" ana="http://www.wikidata.org/entity/Q506550">
             <persName>Ἐτεοκλής</persName>
           </person>
-          <person xml:id="ismene" sex="FEMALE" ana="http://www.wikidata.org/entity/Q753902">
-            <persName>Ἰσμήνη</persName>
-          </person>
           <person xml:id="angelos" sex="MALE">
-            <persName>Ἄγγελος</persName>
+            <persName>Ἄγγελος Κατάσκοπος</persName>
           </person>
-          <person xml:id="keryx" sex="MALE">
-            <persName>Κῆρυξ</persName>
-          </person>
-          <personGrp xml:id="hemichorion_a" sex="UNKNOWN">
+          <personGrp xml:id="choros" sex="FEMALE">
+            <name>Χορός Παρθένων</name>
+          </personGrp>
+          <personGrp xml:id="hemichorion_a" sex="FEMALE">
             <name>Ἡμιχόριον Α</name>
           </personGrp>
-          <personGrp xml:id="hemichorion_b" sex="UNKNOWN">
+          <personGrp xml:id="hemichorion_b" sex="FEMALE">
             <name>Ἡμιχόριον Β</name>
-          </personGrp>
-          <personGrp xml:id="choros" sex="UNKNOWN">
-            <name>Χορός</name>
           </personGrp>
           <person xml:id="antigone" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131351">
             <persName>Ἀντιγόνη</persName>
+          </person>
+          <person xml:id="ismene" sex="FEMALE" ana="http://www.wikidata.org/entity/Q753902">
+            <persName>Ἰσμήνη</persName>
+          </person>
+          <person xml:id="keryx" sex="MALE">
+            <persName>Κῆρυξ</persName>
           </person>
         </listPerson>
       </particDesc>

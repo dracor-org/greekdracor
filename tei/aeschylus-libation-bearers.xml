@@ -53,29 +53,29 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="trophos" sex="FEMALE">
-            <persName>Τροφός</persName>
-          </person>
           <person xml:id="orestes" sex="MALE" ana="http://www.wikidata.org/entity/Q192407">
             <persName>Ὀρέστης</persName>
           </person>
-          <person xml:id="pylades" sex="MALE" ana="http://www.wikidata.org/entity/Q494886">
-            <persName>Πυλάδης</persName>
+          <personGrp xml:id="choros" sex="FEMALE">
+            <name>Χορός</name>
+          </personGrp>
+          <person xml:id="elektra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131651">
+            <persName>Ἠλέκτρα</persName>
           </person>
           <person xml:id="oiketes" sex="MALE">
             <persName>Οἰκέτης</persName>
           </person>
-          <person xml:id="klytaimnestra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131157">
-            <persName>Κλυταιμνήστρα</persName>
+          <person xml:id="klytaimestra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131157">
+            <persName>Κλυταιμήστρα</persName>
           </person>
-          <personGrp xml:id="choros" sex="UNKNOWN">
-            <name>Χορός</name>
-          </personGrp>
+          <person xml:id="trophos" sex="FEMALE">
+            <persName>Τροφός</persName>
+          </person>
           <person xml:id="aigisthos" sex="MALE" ana="http://www.wikidata.org/entity/Q212091">
             <persName>Αἴγισθος</persName>
           </person>
-          <person xml:id="elektra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131651">
-            <persName>Ἠλέκτρα</persName>
+          <person xml:id="pylades" sex="MALE" ana="http://www.wikidata.org/entity/Q494886">
+            <persName>Πυλάδης</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -1448,8 +1448,8 @@ convert to p3
           <l real="o-x-x-o--xx-">λόγους τίθησιν· εἶπε θαρσήσας ἀνὴρ</l>
           <l real="o-xx--o-x-xx">πρὸς ἄνδρα κἀσήμηνεν ἐμφανὲς τέκμαρ.</l>
         </sp>
-        <sp who="#klytaimnestra">
-          <speaker>Κλυταιμνήστρα</speaker>
+        <sp who="#klytaimestra">
+          <speaker>Κλυταιμήστρα</speaker>
           <l real="o-o-x-x-x-xx">ξένοι, λέγοιτ’ ἂν εἴ τι δεῖ· πάρεστι γὰρ</l>
           <l real="o-x-o-x-o-ox">ὁποῖά περ δόμοισι τοῖσδ’ ἐπεικότα,</l>
           <l n="670" real="--x-x-o---xx">καὶ θερμὰ λουτρὰ καὶ πόνων θελκτηρία</l>
@@ -1478,8 +1478,8 @@ convert to p3
           <l n="690" real="--x-o-x-o-o-">οὐκ οἶδα, τὸν τεκόντα δ’ εἰκὸς εἰδέναι.</l>
           <milestone ed="p" n="691" unit="card"/>
         </sp>
-        <sp who="#klytaimnestra">
-          <speaker>Κλυταιμνήστρα</speaker>
+        <sp who="#klytaimestra">
+          <speaker>Κλυταιμήστρα</speaker>
           <l real="--xxx-x---ox">οἲ ’γώ, κατ’ ἄκρας εἶπας  ὡς πορθούμεθα.</l>
           <l real="--x-o-o-x-xx">ὦ δυσπάλαιστε τῶνδε δωμάτων Ἀρά,</l>
           <l real="--o---o---ox">ὡς πόλλ’ ἐπωπᾷς, κἀκποδὼν εὖ κείμενα</l>
@@ -1500,8 +1500,8 @@ convert to p3
           <l n="705" real="--x-x-xx--x-">τοιόνδε πρᾶγμα μὴ καρανῶσαι φίλοις,</l>
           <l real="x-o-x-x-o-oo">καταινέσαντα καὶ κατεξενωμένον.</l>
         </sp>
-        <sp who="#klytaimnestra">
-          <speaker>Κλυταιμνήστρα</speaker>
+        <sp who="#klytaimestra">
+          <speaker>Κλυταιμήστρα</speaker>
           <l real="--x---o-x-oo">οὔτοι κυρήσεις μεῖον ἀξίως σέθεν,</l>
           <l real="--o-o-o-x-xo">οὐδ’ ἧσσον ἂν γένοιο δώμασιν φίλος.</l>
           <l real="--o---o-x-o-">ἄλλος δ’ ὁμοίως ἦλθεν ἂν τάδ’ ἀγγελῶν.</l>
@@ -1813,16 +1813,16 @@ convert to p3
             <l real="o-o---o-x-ox">ἔοικε νῦν αὐτῆς ἐπὶ ξυροῦ πέλας</l>
             <l real="--o---x-x-oo">αὐχὴν πεσεῖσθαι πρὸς δίκην  πεπληγμένος.</l>
           </sp>
-          <sp who="#klytaimnestra">
-            <speaker>Κλυταιμνήστρα</speaker>
+          <sp who="#klytaimestra">
+            <speaker>Κλυταιμήστρα</speaker>
             <l n="885" real="x-x-xxxo---o-">τί δ’ ἐστὶ χρῆμα; τίνα βοὴν ἵστης δόμοις;</l>
           </sp>
           <sp who="#oiketes">
             <speaker>Οἰκέτης</speaker>
             <l real="--x---x-o-o-">τὸν ζῶντα καίνειν τοὺς τεθνηκότας λέγω.</l>
           </sp>
-          <sp who="#klytaimnestra">
-            <speaker>Κλυταιμνήστρα</speaker>
+          <sp who="#klytaimestra">
+            <speaker>Κλυταιμήστρα</speaker>
             <l real="--x-x-o--xx-">οἲ ’γώ.  ξυνῆκα τοὔπος ἐξ αἰνιγμάτων.</l>
             <l real="o-o-o-o---xo">δόλοις ὀλούμεθ’, ὥσπερ οὖν ἐκτείναμεν.</l>
             <l real="--x-x-xoox-xo">δοίη τις ἀνδροκμῆτα πέλεκυν ὡς τάχος·</l>
@@ -1833,8 +1833,8 @@ convert to p3
             <speaker>Ὀρέστης</speaker>
             <l real="o-x---o---o-">σὲ καὶ ματεύω· τῷδε δ’ ἀρκούντως ἔχει.</l>
           </sp>
-          <sp who="#klytaimnestra">
-            <speaker>Κλυταιμνήστρα</speaker>
+          <sp who="#klytaimestra">
+            <speaker>Κλυταιμήστρα</speaker>
             <l real="--x---x---xx">οἲ ’γώ.  τέθνηκας, φίλτατ’ Αἰγίσθου βία.</l>
           </sp>
           <sp who="#orestes">
@@ -1842,8 +1842,8 @@ convert to p3
             <l real="x-o-x-x---x-">φιλεῖς τὸν ἄνδρα; τοιγὰρ ἐν ταὐτῷ τάφῳ</l>
             <l n="895" real="--x-x-x-o-oo">κείσῃ· θανόντα δ’ οὔτι μὴ προδῷς ποτε.</l>
           </sp>
-          <sp who="#klytaimnestra">
-            <speaker>Κλυταιμνήστρα</speaker>
+          <sp who="#klytaimestra">
+            <speaker>Κλυταιμήστρα</speaker>
             <l real="o-o---o-o-xo">ἐπίσχες, ὦ παῖ, τόνδε δ’ αἴδεσαι, τέκνον,</l>
             <l real="--o-x-x---xx">μαστόν, πρὸς ᾧ σὺ  πολλὰ δὴ βρίζων ἅμα</l>
             <l real="--x---x-x-xx">οὔλοισιν ἐξήμελξας εὐτραφὲς γάλα.</l>
@@ -1867,88 +1867,88 @@ convert to p3
             <l real="--x---x-o-x-">τούτῳ θανοῦσα ξυγκάθευδ’, ἐπεὶ φιλεῖς</l>
             <l real="o-x-o-x-x-x-">τὸν ἄνδρα τοῦτον, ὃν δ’ ἐχρῆν φιλεῖν στυγεῖς.</l>
           </sp>
-          <sp who="#klytaimnestra">
-            <speaker>Κλυταιμνήστρα</speaker>
+          <sp who="#klytaimestra">
+            <speaker>Κλυταιμήστρα</speaker>
             <l real="o-x-x-o-x-o-">ἐγώ σ’ ἔθρεψα, σὺν  δὲ γηράναι θέλω.</l>
           </sp>
           <sp who="#orestes">
             <speaker>Ὀρέστης</speaker>
             <l real="x-o-x-x---o-">πατροκτονοῦσα γὰρ ξυνοικήσεις ἐμοί;</l>
           </sp>
-          <sp who="#klytaimnestra">
-            <speaker>Κλυταιμνήστρα</speaker>
+          <sp who="#klytaimestra">
+            <speaker>Κλυταιμήστρα</speaker>
             <l n="910" real="--x---x-x-xx">ἡ Μοῖρα τούτων, ὦ τέκνον, παραιτία.</l>
           </sp>
           <sp who="#orestes">
             <speaker>Ὀρέστης</speaker>
             <l real="--o---o-x-oo">καὶ τόνδε τοίνυν Μοῖρ’ ἐπόρσυνεν  μόρον.</l>
           </sp>
-          <sp who="#klytaimnestra">
-            <speaker>Κλυταιμνήστρα</speaker>
+          <sp who="#klytaimestra">
+            <speaker>Κλυταιμήστρα</speaker>
             <l real="--o--oxx-x-xo">οὐδὲν σεβίζῃ γενεθλίους ἀράς, τέκνον;</l>
           </sp>
           <sp who="#orestes">
             <speaker>Ὀρέστης</speaker>
             <l real="o-x---x-o-xo">τεκοῦσα γάρ μ’ ἔρριψας ἐς τὸ δυστυχές.</l>
           </sp>
-          <sp who="#klytaimnestra">
-            <speaker>Κλυταιμνήστρα</speaker>
+          <sp who="#klytaimestra">
+            <speaker>Κλυταιμήστρα</speaker>
             <l real="--x---o-o-o-">οὔτοι σ’ ἀπέρριψ’ εἰς δόμους δορυξένους.</l>
           </sp>
           <sp who="#orestes">
             <speaker>Ὀρέστης</speaker>
             <l n="915" real="--xx--o-o-xo">αἰκῶς  ἐπράθην ὢν ἐλευθέρου πατρός.</l>
           </sp>
-          <sp who="#klytaimnestra">
-            <speaker>Κλυταιμνήστρα</speaker>
+          <sp who="#klytaimestra">
+            <speaker>Κλυταιμήστρα</speaker>
             <l real="--o-o-x-o-x-">ποῦ δῆθ’ ὁ τῖμος, ὅντιν’ ἀντεδεξάμην;</l>
           </sp>
           <sp who="#orestes">
             <speaker>Ὀρέστης</speaker>
             <l real="-xo---o-x-x-">αἰσχύνομαί σοι  τοῦτ’ ὀνειδίσαι σαφῶς.</l>
           </sp>
-          <sp who="#klytaimnestra">
-            <speaker>Κλυταιμνήστρα</speaker>
+          <sp who="#klytaimestra">
+            <speaker>Κλυταιμήστρα</speaker>
             <l real="---o---x---xx">μὴ ἀλλ’ εἴφ’ ὁμοίως καὶ πατρὸς τοῦ σοῦ μάτας.</l>
           </sp>
           <sp who="#orestes">
             <speaker>Ὀρέστης</speaker>
             <l real="--o-o-o-x-o-">μὴ ’λεγχε τὸν πονοῦντ’ ἔσω καθημένη.</l>
           </sp>
-          <sp who="#klytaimnestra">
-            <speaker>Κλυταιμνήστρα</speaker>
+          <sp who="#klytaimestra">
+            <speaker>Κλυταιμήστρα</speaker>
             <l n="920" real="--x-x-o---xo">ἄλγος γυναιξὶν ἀνδρὸς εἴργεσθαι, τέκνον.</l>
           </sp>
           <sp who="#orestes">
             <speaker>Ὀρέστης</speaker>
             <l real="o-o---o-oxo-">τρέφει δέ γ’ ἀνδρὸς μόχθος ἡμένας ἔσω.</l>
           </sp>
-          <sp who="#klytaimnestra">
-            <speaker>Κλυταιμνήστρα</speaker>
+          <sp who="#klytaimestra">
+            <speaker>Κλυταιμήστρα</speaker>
             <l real="o-o-x-x---ox">κτενεῖν ἔοικας, ὦ τέκνον, τὴν μητέρα.</l>
           </sp>
           <sp who="#orestes">
             <speaker>Ὀρέστης</speaker>
             <l real="x-o---o-x-o-">σύ τοι σεαυτήν, οὐκ ἐγώ, κατακτενεῖς.</l>
           </sp>
-          <sp who="#klytaimnestra">
-            <speaker>Κλυταιμνήστρα</speaker>
+          <sp who="#klytaimestra">
+            <speaker>Κλυταιμήστρα</speaker>
             <l real="oxx---o-o-xx">ὅρα, φύλαξαι μητρὸς ἐγκότους κύνας.</l>
           </sp>
           <sp who="#orestes">
             <speaker>Ὀρέστης</speaker>
             <l n="925" real="--x-o-x-x-xo">τὰς τοῦ πατρὸς δὲ πῶς φύγω, παρεὶς τάδε;</l>
           </sp>
-          <sp who="#klytaimnestra">
-            <speaker>Κλυταιμνήστρα</speaker>
+          <sp who="#klytaimestra">
+            <speaker>Κλυταιμήστρα</speaker>
             <l real="o-x---x---x-">ἔοικα θρηνεῖν ζῶσα πρὸς τύμβον μάτην.</l>
           </sp>
           <sp who="#orestes">
             <speaker>Ὀρέστης</speaker>
             <l real="x-x-x-o---oo">πατρὸς γὰρ αἶσα τόνδε σοὐρίζει  μόρον.</l>
           </sp>
-          <sp who="#klytaimnestra">
-            <speaker>Κλυταιμνήστρα</speaker>
+          <sp who="#klytaimestra">
+            <speaker>Κλυταιμήστρα</speaker>
             <l real="--o-x-oxx-x-">οἲ ’γὼ τεκοῦσα τόνδ’ ὄφιν ἐθρεψάμην.</l>
           </sp>
           <sp who="#orestes">

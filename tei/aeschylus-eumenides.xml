@@ -56,23 +56,23 @@
           <person xml:id="pythias" sex="FEMALE">
             <persName>Πυθιάς</persName>
           </person>
-          <person xml:id="klytaimestras_eidolon" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131157">
-            <persName>Κλυταιμήστρας Εἴδωλον</persName>
+          <person xml:id="apollon" sex="MALE" ana="http://www.wikidata.org/entity/Q37340">
+            <persName>Ἀπόλλων</persName>
           </person>
           <person xml:id="orestes" sex="MALE" ana="http://www.wikidata.org/entity/Q192407">
             <persName>Ὀρέστης</persName>
           </person>
+          <person xml:id="klytaimestras_eidolon" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131157">
+            <persName>Κλυταιμήστρας Εἴδωλον</persName>
+          </person>
+          <personGrp xml:id="choros" sex="FEMALE" ana="http://www.wikidata.org/entity/Q180262">
+            <name>Χορός Εὐμενίδων</name>
+          </personGrp>
           <person xml:id="athena" sex="FEMALE" ana="http://www.wikidata.org/entity/Q37122">
             <persName>Ἀθηνᾶ</persName>
           </person>
-          <personGrp xml:id="choros" sex="UNKNOWN">
-            <name>Χορός</name>
-          </personGrp>
           <person xml:id="propompoi" sex="UNKNOWN">
             <persName>Προπομποί</persName>
-          </person>
-          <person xml:id="apollon" sex="MALE" ana="http://www.wikidata.org/entity/Q37340">
-            <persName>Ἀπόλλων</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -175,7 +175,7 @@ convert to P3
     <body>
       <div1 type="episode">
         <milestone ed="p" n="1" unit="card"/>
-        <sp n="Πυθιάς" who="#pythias">
+        <sp who="#pythias">
           <speaker>Πυθιάς</speaker>
           <l real="--o---x---o-">πρῶτον μὲν εὐχῇ τῇδε πρεσβεύω θεῶν</l>
           <l real="--o---x-o-ox">τὴν πρωτόμαντιν Γαῖαν· ἐκ δὲ τῆς Θέμιν,</l>

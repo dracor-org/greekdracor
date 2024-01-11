@@ -53,27 +53,27 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="danais" sex="FEMALE">
-            <persName>Δαναΐς</persName>
-          </person>
-          <personGrp xml:id="xorosdanaidon" sex="FEMALE">
-            <name>Χορός Δαναΐδων</name>
-          </personGrp>
-          <person xml:id="keryx" sex="MALE">
-            <persName>Κῆρυξ</persName>
-          </person>
-          <person xml:id="basileus" sex="MALE">
-            <persName>βασιλεύς</persName>
-          </person>
-          <personGrp xml:id="xorostherapainon" sex="FEMALE">
-            <name>Χορός Θεραπαινῶν</name>
+          <personGrp xml:id="choros" sex="FEMALE">
+            <name>Χορός</name>
           </personGrp>
           <person xml:id="danaos" sex="MALE" ana="http://www.wikidata.org/entity/Q210883">
             <persName>Δαναός</persName>
           </person>
-          <personGrp xml:id="choros" sex="FEMALE">
-            <name>Χορός</name>
+          <person xml:id="basileus" sex="MALE" ana="http://www.wikidata.org/entity/Q1636827">
+            <persName>βασιλεύς Ἀργεΐων</persName>
+          </person>
+          <person xml:id="keryx" sex="MALE">
+            <persName>Κῆρυξ</persName>
+          </person>
+          <personGrp xml:id="choros_danaidon" sex="FEMALE" ana="http://www.wikidata.org/entity/Q724907">
+            <name>Χορός Δαναΐδων</name>
           </personGrp>
+          <personGrp xml:id="choros_therapainon" sex="FEMALE">
+            <name>Χορός Θεραπαινῶν</name>
+          </personGrp>
+          <person xml:id="danais" sex="FEMALE" ana="http://www.wikidata.org/entity/Q724907">
+            <persName>Δαναΐς</persName>
+          </person>
           <person xml:id="therapaina" sex="FEMALE">
             <persName>Θεράπαινα</persName>
           </person>
@@ -2172,7 +2172,7 @@ convert to P3
       </div1>
       <div1 type="choral">
         <div2 n="1" type="strophe">
-          <sp who="#xorosdanaidon">
+          <sp who="#choros_danaidon">
             <speaker>Χορός &lt;Δαναΐδων&gt;</speaker>
             <l real="xox-xx-x">ἴτε μὰν ἀστυάνακτας</l>
             <l real="xx--xx--ox--">μάκαρας θεοὺς γανάοντες πολιούχους</l>
@@ -2186,7 +2186,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="1" type="antistrophe">
-          <sp who="#xorosdanaidon">
+          <sp who="#choros_danaidon">
             <speaker>Χορός &lt;Δαναΐδων&gt;</speaker>
             <l real="ox--xx-x">ποταμοὺς δ’ οἳ διὰ χώρας</l>
             <l real="oo--xo--oxx-">θελεμὸν πῶμα χέουσιν πολύτεκνοι,</l>
@@ -2200,7 +2200,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="2" type="strophe">
-          <sp who="#xorostherapainon">
+          <sp who="#choros_therapainon">
             <speaker>&lt;Χορός Θεραπαινῶν&gt;</speaker>
             <l real="xx--xo--oo--">Κύπριδος &lt;δ’&gt; οὐκ ἀμελεῖ θεσμὸς ὅδ’ εὔφρων</l>
             <l n="1035" real="xx--xo--xx--">δύναται γὰρ Διὸς ἄγχιστα σὺν Ἥρᾳ.</l>
@@ -2215,7 +2215,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="2" type="antistrophe">
-          <sp who="#xorostherapainon">
+          <sp who="#choros_therapainon">
             <speaker>&lt;Χορός Θεραπαινῶν&gt;</speaker>
             <l real="xx--ox--xx--">φυγάδεσσιν δ’ ἐπιπνοίας κακά τ’ ἄλγη</l>
             <l real="oo--xo--oo--">πολέμους θ’ αἱματόεντας προφοβοῦμαι.</l>

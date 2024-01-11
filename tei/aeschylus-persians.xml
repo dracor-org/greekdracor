@@ -53,23 +53,20 @@
     <profileDesc>
       <particDesc>
         <listPerson>
+          <personGrp xml:id="choros" sex="MALE">
+            <name>Χορός Γερόντων</name>
+          </personGrp>
           <person xml:id="atossa" sex="FEMALE" ana="http://www.wikidata.org/entity/Q233359">
             <persName>Ἄτοσσα</persName>
-          </person>
-          <person xml:id="xerxes" sex="MALE" ana="http://www.wikidata.org/entity/Q129165">
-            <persName>Ξέρξης</persName>
-          </person>
-          <person xml:id="eidolon_dareiou" sex="MALE" ana="http://www.wikidata.org/entity/Q44387">
-            <persName>Εἴδωλον  Δαρείου</persName>
           </person>
           <person xml:id="angelos" sex="MALE">
             <persName>Ἄγγελος</persName>
           </person>
-          <personGrp xml:id="choros" sex="UNKNOWN">
-            <name>Χορός</name>
-          </personGrp>
-          <person xml:id="dareios" sex="MALE" ana="http://www.wikidata.org/entity/Q44387">
-            <persName>Δαρεῖος</persName>
+          <person xml:id="eidolon_dareiou" sex="MALE" ana="http://www.wikidata.org/entity/Q44387">
+            <persName>Εἴδωλον  Δαρείου</persName>
+          </person>
+          <person xml:id="xerxes" sex="MALE" ana="http://www.wikidata.org/entity/Q129165">
+            <persName>Ξέρξης</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -1303,7 +1300,7 @@ convert to P3
             <l real="oo---ox--">σέθεν  ἀρχαίῳ περὶ  τάρβει.</l>
             <milestone ed="p" n="697" unit="card"/>
           </sp>
-          <sp who="#dareios">
+          <sp who="#eidolon_dareiou">
             <speaker>Δαρεῖος</speaker>
             <l real="-o-x-o---o-o-oo">ἀλλ’ ἐπεὶ κάτωθεν ἦλθον σοῖς γόοις  πεπεισμένος,</l>
             <l real="-xx--x-o-x-o-o-">μή τι μακιστῆρα μῦθον, ἀλλὰ σύντομον λέγων</l>
@@ -1323,7 +1320,7 @@ convert to P3
       </div1>
       <div1 type="episode">
         <div2 type="trochees">
-          <sp who="#dareios">
+          <sp who="#eidolon_dareiou">
             <speaker>Δαρεῖος</speaker>
             <l real="-o-o-x---o---x-">ἀλλ’ ἐπεὶ δέος παλαιὸν σοὶ φρενῶν ἀνθίσταται,</l>
             <l real="-o---o---o-o-x-">τῶν  ἐμῶν λέκτρων γεραιὰ ξύννομ’ εὐγενὲς γύναι,</l>
@@ -1342,7 +1339,7 @@ convert to P3
             <l real="xxo---x--xx---oo">διαπεπόρθηται τὰ Περσῶν πράγμαθ’,  ὡς εἰπεῖν ἔπος.</l>
             <milestone ed="p" n="715" unit="card"/>
           </sp>
-          <sp who="#dareios">
+          <sp who="#eidolon_dareiou">
             <speaker>Δαρεῖος</speaker>
             <l n="715" real="xxo---x---o-x-o-">τίνι τρόπῳ; λοιμοῦ τις ἦλθε σκηπτὸς ἢ στάσις  πόλει;</l>
           </sp>
@@ -1350,7 +1347,7 @@ convert to P3
             <speaker>Ἄτοσσα</speaker>
             <l real="-x---x---x---xo">οὐδαμῶς·  ἀλλ’ ἀμφ’ Ἀθήνας πᾶς κατέφθαρται στρατός.</l>
           </sp>
-          <sp who="#dareios">
+          <sp who="#eidolon_dareiou">
             <speaker>Δαρεῖος</speaker>
             <l real="-o-o-o---x-x-xo">τίς δ’ ἐμῶν ἐκεῖσε παίδων ἐστρατηλάτει;  φράσον.</l>
           </sp>
@@ -1358,7 +1355,7 @@ convert to P3
             <speaker>Ἄτοσσα</speaker>
             <l real="-x---o---x---xx">θούριος Ξέρξης, κενώσας πᾶσαν ἠπείρου  πλάκα.</l>
           </sp>
-          <sp who="#dareios">
+          <sp who="#eidolon_dareiou">
             <speaker>Δαρεῖος</speaker>
             <l real="-o---o---o-x-xx">πεζὸς ἢ ναύτης δὲ πεῖραν τήνδ’ ἐμώρανεν  τάλας;</l>
           </sp>
@@ -1366,7 +1363,7 @@ convert to P3
             <speaker>Ἄτοσσα</speaker>
             <l n="720" real="-ooxx-o-o-x-x-x-">ἀμφότερα· διπλοῦν μέτωπον ἦν δυοῖν στρατευμάτοιν.</l>
           </sp>
-          <sp who="#dareios">
+          <sp who="#eidolon_dareiou">
             <speaker>Δαρεῖος</speaker>
             <l real="-o-x-o-o-o-x-o-">πῶς δὲ καὶ στρατὸς τοσόσδε πεζὸς ἤνυσεν περᾶν;</l>
           </sp>
@@ -1374,7 +1371,7 @@ convert to P3
             <speaker>Ἄτοσσα</speaker>
             <l real="-x---o---o-o-oo">μηχαναῖς ἔζευξεν Ἕλλης πορθμόν, ὥστ’ ἔχειν πόρον.</l>
           </sp>
-          <sp who="#dareios">
+          <sp who="#eidolon_dareiou">
             <speaker>Δαρεῖος</speaker>
             <l real="-o-x-o-o-o---ox">καὶ τόδ’ ἐξέπραξεν, ὥστε Βόσπορον κλῇσαι μέγαν·</l>
           </sp>
@@ -1382,7 +1379,7 @@ convert to P3
             <speaker>Ἄτοσσα</speaker>
             <l real="-o---o---o-x-xo">ὧδ’ ἔχει· γνώμης δέ πού τις δαιμόνων  ξυνήψατο.</l>
           </sp>
-          <sp who="#dareios">
+          <sp who="#eidolon_dareiou">
             <speaker>Δαρεῖος</speaker>
             <l n="725" real="-o-x-o---o-o-x-">φεῦ, μέγας τις ἦλθε δαίμων, ὥστε μὴ φρονεῖν  καλῶς.</l>
           </sp>
@@ -1390,7 +1387,7 @@ convert to P3
             <speaker>Ἄτοσσα</speaker>
             <l real="-x-o-x-x-o-x-xo">ὡς ἰδεῖν τέλος πάρεστιν οἷον ἤνυσεν  κακόν.</l>
           </sp>
-          <sp who="#dareios">
+          <sp who="#eidolon_dareiou">
             <speaker>Δαρεῖος</speaker>
             <l real="-x--xx---o-o-oo">καὶ τί δὴ πράξασιν αὐτοῖς ὧδ’  ἐπιστενάζετε;</l>
           </sp>
@@ -1398,7 +1395,7 @@ convert to P3
             <speaker>Ἄτοσσα</speaker>
             <l real="-x-x-x---o-o-xo">ναυτικὸς στρατὸς κακωθεὶς πεζὸν ὤλεσε  στρατόν.</l>
           </sp>
-          <sp who="#dareios">
+          <sp who="#eidolon_dareiou">
             <speaker>Δαρεῖος</speaker>
             <l real="-o---ox--x---ox">ὧδε παμπήδην δὲ λαὸς πᾶς κατέφθαρται  δορί;</l>
           </sp>
@@ -1406,7 +1403,7 @@ convert to P3
             <speaker>Ἄτοσσα</speaker>
             <l n="730" real="-x---o-x-o-x-o-">πρὸς τάδ’ ὡς Σούσων μὲν ἄστυ πᾶν κενανδρίαν  στένει.</l>
           </sp>
-          <sp who="#dareios">
+          <sp who="#eidolon_dareiou">
             <speaker>Δαρεῖος</speaker>
             <l real="-o-x-x--xx-x-x-">ὦ πόποι κεδνῆς ἀρωγῆς κἀπικουρίας  στρατοῦ.</l>
           </sp>
@@ -1414,7 +1411,7 @@ convert to P3
             <speaker>Ἄτοσσα</speaker>
             <l real="-x---x---o-o-o-">Βακτρίων δ’ ἔρρει πανώλης δῆμος, οὐδέ τις  γέρων.</l>
           </sp>
-          <sp who="#dareios">
+          <sp who="#eidolon_dareiou">
             <speaker>Δαρεῖος</speaker>
             <l real="-ooo-xx---x-x-oo">ὦ μέλεος, οἵαν ἄρ’ ἥβην ξυμμάχων  ἀπώλεσεν.</l>
           </sp>
@@ -1422,7 +1419,7 @@ convert to P3
             <speaker>Ἄτοσσα</speaker>
             <l real="oxx---o--xx---ox">μονάδα δὲ Ξέρξην ἔρημόν φασιν οὐ πολλῶν  μέτα—</l>
           </sp>
-          <sp who="#dareios">
+          <sp who="#eidolon_dareiou">
             <speaker>Δαρεῖος</speaker>
             <l n="735" real="-o---o---x---xx">πῶς τε δὴ καὶ ποῖ τελευτᾶν; ἔστι τις σωτηρία;</l>
           </sp>
@@ -1430,7 +1427,7 @@ convert to P3
             <speaker>Ἄτοσσα</speaker>
             <l real="-o-o-ox--x---xx">ἄσμενον μολεῖν γέφυραν γαῖν δυοῖν ζευκτηρίαν.</l>
           </sp>
-          <sp who="#dareios">
+          <sp who="#eidolon_dareiou">
             <speaker>Δαρεῖος</speaker>
             <l real="-o---o---o-o-xo">καὶ πρὸς ἤπειρον σεσῶσθαι τήνδε, τοῦτ’  ἐτήτυμον;</l>
           </sp>
@@ -1439,7 +1436,7 @@ convert to P3
             <l real="-o-x-x---o-o-xx">ναί·  λόγος  κρατεῖ  σαφηνὴς  τοῦτό  γ’,  οὐδ’    ἔνι  στάσις.</l>
             <milestone ed="p" n="739" unit="card"/>
           </sp>
-          <sp who="#dareios">
+          <sp who="#eidolon_dareiou">
             <speaker>Δαρεῖος</speaker>
             <l real="-x-x-x---x-o-oo">φεῦ, ταχεῖά γ’ ἦλθε χρησμῶν πρᾶξις, ἐς δὲ παῖδ’ ἐμὸν</l>
             <l n="740" real="-x---o---x-o-o-">Ζεὺς ἀπέσκηψεν  τελευτὴν θεσφάτων· ἐγὼ δέ που</l>
@@ -1468,7 +1465,7 @@ convert to P3
           </sp>
         </div2>
         <div2 type="iambics">
-          <sp who="#dareios">
+          <sp who="#eidolon_dareiou">
             <speaker>Δαρεῖος</speaker>
             <l real="--x-o-x---oo">τοιγάρ σφιν ἔργον ἐστὶν ἐξειργασμένον</l>
             <l n="760" real="o-ox--o-o-o-">μέγιστον, ἀείμνηστον, οἷον οὐδέπω</l>
@@ -1506,7 +1503,7 @@ convert to P3
             <l real="o-o---x---ox">λόγων  τελευτήν; πῶς ἂν ἐκ τούτων ἔτι</l>
             <l real="--o-x-x-x-o-">πράσσοιμεν ὡς ἄριστα  Περσικὸς  λεώς;</l>
           </sp>
-          <sp who="#dareios">
+          <sp who="#eidolon_dareiou">
             <speaker>Δαρεῖος</speaker>
             <l n="790" real="--x---o---oo">εἰ μὴ στρατεύοισθ’ ἐς τὸν Ἑλλήνων  τόπον,</l>
             <l real="--x-x--o-xo">μηδ’ εἰ στράτευμα πλεῖον  τὸ Μηδικόν.</l>
@@ -1516,7 +1513,7 @@ convert to P3
             <speaker>Χορός</speaker>
             <l real="--o--xxo-o-x-">πῶς τοῦτ’ ἔλεξας, τίνι τρόπῳ δὲ  συμμαχεῖ;</l>
           </sp>
-          <sp who="#dareios">
+          <sp who="#eidolon_dareiou">
             <speaker>Δαρεῖος</speaker>
             <l real="--xx--x---xx">κτείνουσα λιμῷ τοὺς ὑπερπόλλους  ἄγαν.</l>
           </sp>
@@ -1524,7 +1521,7 @@ convert to P3
             <speaker>Χορός</speaker>
             <l n="795" real="--x---ox--oo">ἀλλ’ εὐσταλῆ  τοι λεκτὸν ἀροῦμεν στόλον.</l>
           </sp>
-          <sp who="#dareios">
+          <sp who="#eidolon_dareiou">
             <speaker>Δαρεῖος</speaker>
             <l real="--o---o-x-o-">ἀλλ’ οὐδ’ ὁ μείνας νῦν ἐν Ἑλλάδος τόποις</l>
             <l real="x-x---x---xx">στρατὸς  κυρήσει νοστίμου σωτηρίας.</l>
@@ -1535,7 +1532,7 @@ convert to P3
             <l real="o-o---o---xo">περᾷ τὸν  Ἕλλης πορθμὸν Εὐρώπης  ἄπο;</l>
             <milestone ed="p" n="800" unit="card"/>
           </sp>
-          <sp who="#dareios">
+          <sp who="#eidolon_dareiou">
             <speaker>Δαρεῖος</speaker>
             <l n="800" real="--o---x---o-">παῦροι γε πολλῶν, εἴ τι πιστεῦσαι  θεῶν</l>
             <l real="--x-x-x-xxox">χρὴ θεσφάτοισιν, ἐς τὰ νῦν πεπραγμένα</l>

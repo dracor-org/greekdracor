@@ -1,6 +1,8 @@
 # GreekDraCor
 Ancient Greek drama. **39 plays** in [TEI P5](https://tei-c.org/guidelines/p5/) format, adapted from [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/opensource/download), first converted to DraCor format in May 2019. Licenced under [CC BY-SA 3.0 US](https://creativecommons.org/licenses/by-sa/3.0/us/). Menander's comedy "Dyskolos" derived from Wikisource, licenced under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 
+The corpus is maintained by Julia Jennifer Beine (Ruhr University Bochum) and Frank Fischer (Freie Universität Berlin).
+
 Content: 7 plays by Aeschylus, 8 by Sophocles, 13 by Euripides, 11 by Aristophanes, 1 by Menander.
 
 Betacode to Unicode conversion done with [betacode 0.2](https://pypi.org/project/betacode/).

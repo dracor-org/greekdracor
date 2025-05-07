@@ -11,13 +11,13 @@ Thanks to Dmitry S. Krylov for the metric markup (June 2020).
 
 ## Scans of the editions on which the Perseus Digital Library team based their digitisation:
 
-* Aeschylus. With an English Translation by Herbert Weir Smyth. In Two Volumes. 
+* Aeschylus. With an English translation by Herbert Weir Smyth. In Two Volumes. 
   * [Volume I. London: William Heinemann; New York: G. P. Putnam’s Sons 1922. (= The Loeb Classical Library 145).](https://archive.org/details/L145AeschylusISuppliantPersiansPrometheusSevenAgainstThebes/page/n2/)
     * Suppliant Maidens. Persians. Prometheus. Seven Against Thebes.
   * [Volume II. London: William Heinemann; New York: G. P. Putnam’s Sons 1926. (= The Loeb Classical Library 146).](https://archive.org/details/aeschyluswitheng02aescuoft/page/n8/)
     * Agamemnon. Libation-Bearers. Eumenides. <s>Fragments.</s>
 
-* Sophocles. With an English Translation by F. Storr. In Two Volumes. 
+* Sophocles. With an English translation by F. Storr. In Two Volumes. 
   * [Volume I. London: William Heinemann; New York: The Macmillan Co. 1912 (= The Loeb Classical Library 20).](https://archive.org/details/sophoclesstor01sophuoft/page/n8/)
     * Oedipus the King. Oedipus at Colonus. Antigone.
   * [Volume II. London: William Heinemann; New York: The Macmillan Co. 1913 (= The Loeb Classical Library 21).](https://archive.org/details/sophoclesstor02sophuoft/page/n8/)

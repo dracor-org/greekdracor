@@ -1,5 +1,5 @@
 # GreekDraCor
-Ancient Greek drama. **39 plays** in [TEI P5](https://tei-c.org/guidelines/p5/) format, adapted from [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/opensource/download), first converted to DraCor format in May 2019. Licenced under [CC BY-SA 3.0 US](https://creativecommons.org/licenses/by-sa/3.0/us/). Menander's comedy "Dyskolos" derived from Wikisource, licenced under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+Ancient Greek drama. **39 plays** in [TEI P5](https://tei-c.org/guidelines/p5/) format, adapted from the [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/opensource/download), first converted to DraCor format in May 2019. Licenced under [CC BY-SA 3.0 US](https://creativecommons.org/licenses/by-sa/3.0/us/). Menander's comedy “Dyskolos” derived from Wikisource, licenced under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 
 The corpus is maintained by Julia Jennifer Beine (Ruhr University Bochum) and Frank Fischer (Freie Universität Berlin).
 
@@ -9,36 +9,36 @@ Betacode to Unicode conversion done with [betacode 0.2](https://pypi.org/project
 
 Thanks to Dmitry S. Krylov for the metric markup (June 2020).
 
-## Scans of the editions on which Perseus Digital Library based their digitisation:
+## Scans of the editions on which the Perseus Digital Library team based their digitisation:
 
-* Aeschylus. With an English translation by Herbert Weir Smyth, Ph.D. In two volumes.
-  * [Vol. I. The Loeb classical library, 145. London: William Heinemann; New York: G. P. Putnam's Sons 1922.](https://archive.org/details/L145AeschylusISuppliantPersiansPrometheusSevenAgainstThebes)
+* Aeschylus. With an English Translation by Herbert Weir Smyth. In Two Volumes. 
+  * [Volume I. London: William Heinemann; New York: G. P. Putnam’s Sons 1922. (= The Loeb Classical Library 145).](https://archive.org/details/L145AeschylusISuppliantPersiansPrometheusSevenAgainstThebes/page/n2/)
     * Suppliant Maidens. Persians. Prometheus. Seven Against Thebes.
-  * [Vol. II. The Loeb classical library, 146. London: William Heinemann; New York: G. P. Putnam's Sons 1926.](https://archive.org/details/aeschyluswitheng02aescuoft)
+  * [Volume II. London: William Heinemann; New York: G. P. Putnam’s Sons 1926. (= The Loeb Classical Library 146).](https://archive.org/details/aeschyluswitheng02aescuoft/page/n8/)
     * Agamemnon. Libation-Bearers. Eumenides. <s>Fragments.</s>
 
-* Sophocles. With an English translation by F. Storr, B.A.
-  * [Vol. I. The Loeb classical library, 20. London: William Heinemann Ltd; New York: The Macmillan Company 1912.](https://archive.org/details/sophocleswitheng01soph)
+* Sophocles. With an English Translation by F. Storr. In Two Volumes. 
+  * [Volume I. London: William Heinemann; New York: The Macmillan Co. 1912 (= The Loeb Classical Library 20).](https://archive.org/details/sophoclesstor01sophuoft/page/n8/)
     * Oedipus the King. Oedipus at Colonus. Antigone.
-  * [Vol. II. The Loeb classical library, 21. London: William Heinemann Ltd; New York: The Macmillan Company 1913.](https://archive.org/details/sophocleswithan00sophgoog)
+  * [Volume II. London: William Heinemann; New York: The Macmillan Co. 1913 (= The Loeb Classical Library 21).](https://archive.org/details/sophoclesstor02sophuoft/page/n8/)
     * Ajax. Electra. Trachiniae. Philoctetes.
 
-* [The Oxyrhynchus Papyri. Part IX. Edited with translations and notes by Arthur S. Hunt, D.Litt. London: Egypt Exploration Fund 1912.](https://archive.org/details/pt9oxyrhynchuspa00grenuoft)
+* [The Oxyrhynchus Papyri. Part IX. Edited with Translations and Notes by Arthur S. Hunt. London: Egypt Exploration Fund 1912. Number 1174. pp. 30–86.](https://archive.org/details/pt9oxyrhynchuspa00grenuoft/page/30/)
   * Ichneutae.
 
 * Euripidis Fabulae. Recognovit brevique adnotatione critica instruxit Gilbertus Murray.
-  * [Tomus I. Oxford: Clarendon Press 1902.](https://archive.org/details/euripidisfabu01euri)
+  * [Tomus I. Oxford: Clarendon Press 1902 (= Scriptorum Classicorum Bibliotheca Oxoniensis).](https://archive.org/details/euripidisfabulae01euriuoft/page/n8/)
     * <s>Cyclops.</s> <s>Alcestis.</s> <s>Medea.</s> <s>Heraclidae.</s> <s>Hippolytus.</s> <s>Andromacha.</s> Hecuba.
-  * [Tomus II. Oxford: Clarendon Press 1913.](https://archive.org/details/euripidisfabul02euri) (Third edition?)
+  * [Tomus II. 3rd edition. Oxford: Clarendon Press 1913 (= Scriptorum Classicorum Bibliotheca Oxoniensis).](https://archive.org/details/euripidisfabu02euri/page/1/)
     * Supplices. Hercules. Ion. Troiades. Electra. Iphigenia Taurica.
-  * [Tomus III. Oxford: Clarendon Press 1913.](https://archive.org/details/euripidisfabulae03euriuoft) (Second edition?)
+  * [Tomus III. 2nd edition. Oxford: Clarendon Press 1913 (= Scriptorum Classicorum Bibliotheca Oxoniensis).](https://archive.org/details/euripidisfabulae03euri_0/page/n6/)
     * Helena. Phoenissae. Orestes. Bacchae. Iphigenia Aulidensis. Rhesus.
 
-* Aristophanis Comoediae. Recognoverunt brevique adnotatione critica instruxerunt F. W. Hall et W. M. Geldart.
-  * [Tomus I. Oxford: Clarendon Press 1907.](https://archive.org/details/aristophaniscomo01aris_0)
-    * Acharnenses. Equites. Nubes. Vespas. Pacem. Aves.
-  * [Tomus II. Oxford: Clarendon Press 1907.](https://archive.org/details/aristophaniscomo02arisuoft)
-    * Lysistratam. Thesmophoriazusas. Ranas. Ecclesiazusas. Plutum. <s>Fragmenta.</s>
+* Aristophanis Comoediae. Recognoverunt brevique adnotatione critica instruxerunt F. W. Hall et W. M. Geldart. 2 Tomi. 
+  * [Tomus I. 2nd edition. Oxford: Clarendon Press 1906 (= Scriptorum Classicorum Bibliotheca Oxoniensis).](https://archive.org/details/aristophaniscomo01arisuoft/page/n8/)
+    * Acharnenses. Equites. Nubes. Vespae. Pax. Aves.
+  * [Tomus II. 2nd edition. Oxford: Clarendon Press [1907] (= Scriptorum Classicorum Bibliotheca Oxoniensis).](https://archive.org/details/aristophaniscomo02arisuoft/page/n8)
+    * Lysistrata. Thesmophoriazusae. Ranae. Ecclesiazusae. Plutus. <s>Fragmenta.</s>
 
 ## Missing plays
 

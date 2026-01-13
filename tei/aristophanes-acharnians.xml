@@ -124,9 +124,6 @@
           <person xml:id="angelos_b" sex="MALE">
             <persName>Ἄγγελος Β</persName>
           </person>
-          <person xml:id="dikaiopolos" sex="FEMALE">
-            <persName>Δικαιόπολος</persName>
-          </person>
           <person xml:id="kephisophon" sex="MALE">
             <persName>Κηφισόφων</persName>
           </person>
@@ -1347,7 +1344,7 @@ convert to P3
         </div2>
         <div2 type="iambics">
           <milestone ed="p" n="496" unit="card"/>
-          <sp n="Δικαιόπολος" who="#dikaiopolos">
+          <sp n="Δικαιόπολις" who="#dikaiopolis">
             <speaker>Δικαιόπολις</speaker>
             <l real="--o---o-o-o-">μή μοι φθονήσητ’ ἄνδρες οἱ θεώμενοι,</l>
             <l real="--o-o-ox---o-">εἰ πτωχὸς ὢν ἔπειτ’ ἐν Ἀθηναίοις λέγειν</l>

@@ -36,10 +36,7 @@
         <publisher xml:id="dracor">DraCor</publisher>
         <idno type="dracor" xml:base="https://dracor.org/id/">greek000040</idno>
         <availability>
-          <licence>
-            <ab>CC BY-SA 3.0</ab>
-            <ref target="https://creativecommons.org/licenses/by-sa/3.0/">Licence</ref>
-          </licence>
+          <licence target="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</licence>
           <p>Copyright of the manuscripts (c) Fondation Martin Bodmer. Thanks to the Fondation
             Martin Bodmer for the authorization of this digitization. Cf. <title>Menander: Le
               dyscolos. Publié par Victor Martin. Cologny-Genève: Bibliotheca Bodmeriana 1958
@@ -54,10 +51,7 @@
           <name>Wikisource</name>
           <idno type="URL">https://el.wikisource.org/wiki/Δύσκολος</idno>
           <availability status="free">
-            <licence>
-              <ab>CC BY-SA 3.0</ab>
-              <ref target="https://creativecommons.org/licenses/by-sa/3.0/">Licence</ref>
-            </licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</licence>
           </availability>
           <bibl type="originalSource">
             <title level="s">Menandri reliquiae selectae</title>. ed. <editor>F. H. Sandbach</editor>.

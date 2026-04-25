@@ -180,6 +180,12 @@ antilabe in all files
     </change>
   </teiHeader>
   <standOff>
+    <listEvent>
+      <event type="premiere" when="-0445">
+        <label>445 BC</label>
+        <desc>Based on Landfester, Manfred: Art. Sophocles. In:DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0204.</desc>
+      </event>
+    </listEvent>
     <listRelation>
       <relation name="wikidata" active="https://dracor.org/entity/greek000024" passive="http://www.wikidata.org/entity/Q945342"/>
     </listRelation>

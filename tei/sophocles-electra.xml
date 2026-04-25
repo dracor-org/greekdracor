@@ -162,8 +162,9 @@ antilabe in all files
   </teiHeader>
   <standOff>
     <listEvent>
-      <event type="premiere" when="-0419">
-        <label>419 BCE</label>
+      <event type="premiere" notBefore="-0414" notAfter="-0411">
+        <label>414–411 BC</label>
+        <desc>Based on Landfester, Manfred: Art. Sophocles. In:DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0204.</desc>
       </event>
     </listEvent>
     <listRelation>

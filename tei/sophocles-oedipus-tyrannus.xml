@@ -186,7 +186,7 @@ convert to TEI P3
   </standOff>
   <text>
     <body n="OT">
-      <div1 type="episode">
+      <div1 type="scene" n="1" subtype="prologos">
         <milestone ed="p" n="1" unit="card"/>
         <sp who="#oidipous">
           <speaker>Οἰδίπους</speaker>
@@ -441,7 +441,7 @@ convert to TEI P3
           <milestone ed="p" n="151" unit="card"/>
         </sp>
       </div1>
-      <div1 type="choral">
+      <div1 type="scene" n="2" subtype="parodos">
         <div2 n="1" type="strophe">
           <sp who="#choros">
             <speaker>Χορός</speaker>
@@ -533,7 +533,7 @@ convert to TEI P3
           </sp>
         </div2>
       </div1>
-      <div1 type="episode">
+      <div1 type="scene" n="3" subtype="epeisodion">
         <sp n="Οἰδίπους" who="#oidipous">
           <speaker>Οἰδίπους</speaker>
           <l real="--x--xo-o-o-">αἰτεῖς·  ἃ δ’ αἰτεῖς, τἄμ’ ἐὰν θέλῃς ἔπη</l>
@@ -999,7 +999,7 @@ convert to TEI P3
           <milestone ed="p" n="463" unit="card"/>
         </sp>
       </div1>
-      <div1 type="choral">
+      <div1 type="scene" n="4" subtype="stasimon">
         <div2 n="1" type="strophe">
           <sp who="#choros">
             <speaker>Χορός</speaker>
@@ -1059,7 +1059,7 @@ convert to TEI P3
           </sp>
         </div2>
       </div1>
-      <div1 type="episode">
+      <div1 type="scene" n="5" subtype="epeisodion">
         <sp who="#kreon">
           <speaker>Κρέων</speaker>
           <l real="--o---o-o-oo">ἄνδρες πολῖται, δείν’ ἔπη πεπυσμένος</l>
@@ -1393,8 +1393,6 @@ convert to TEI P3
           <l real="o-xxo-o-x-x-">ἔπειτα κἀμὲ τούσδε θ’ οἳ πάρεισί σοι.</l>
           <milestone ed="p" n="649" unit="card"/>
         </sp>
-      </div1>
-      <div1 type="choral">
         <div2 n="1" type="strophe">
           <sp who="#choros">
             <speaker>Χορός</speaker>
@@ -1520,8 +1518,6 @@ convert to TEI P3
             <milestone ed="p" n="700" unit="card"/>
           </sp>
         </div2>
-      </div1>
-      <div1 type="episode">
         <sp who="#oidipous">
           <speaker>Οἰδίπους</speaker>
           <l n="700" real="o-o---o-x-o-">ἐρῶ·  σὲ γὰρ τῶνδ’  ἐς πλέον, γύναι, σέβω·</l>
@@ -1818,7 +1814,7 @@ convert to TEI P3
           <milestone ed="p" n="863" unit="card"/>
         </sp>
       </div1>
-      <div1 type="choral">
+      <div1 type="scene" n="6" subtype="stasimon">
         <div2 n="1" type="strophe">
           <sp who="#choros">
             <speaker>Χορός</speaker>
@@ -1884,7 +1880,7 @@ convert to TEI P3
           </sp>
         </div2>
       </div1>
-      <div1 type="episode">
+      <div1 type="scene" n="7" subtype="epeisodion">
         <sp who="#iokaste">
           <speaker>Ἰοκάστη</speaker>
           <l real="-xx---x-x-x-">χώρας ἄνακτες, δόξα μοι παρεστάθη</l>
@@ -2370,7 +2366,7 @@ convert to TEI P3
           <milestone ed="p" n="1086" unit="card"/>
         </sp>
       </div1>
-      <div1 type="choral">
+      <div1 type="scene" n="8" subtype="stasimon">
         <div2 n="1" type="strophe">
           <sp who="#choros">
             <speaker>Χορός</speaker>
@@ -2398,7 +2394,7 @@ convert to TEI P3
           </sp>
         </div2>
       </div1>
-      <div1 type="episode">
+      <div1 type="scene" n="9" subtype="epeisodion">
         <sp who="#oidipous">
           <speaker>Οἰδίπους</speaker>
           <l n="1110" real="--xxo-x---x-">εἰ χρή τι κἀμὲ μὴ συναλλάξαντά πω,</l>
@@ -2649,7 +2645,7 @@ convert to TEI P3
           <milestone ed="p" n="1186" unit="card"/>
         </sp>
       </div1>
-      <div1 type="choral">
+      <div1 type="scene" n="10" subtype="stasimon">
         <div2 n="1" type="strophe">
           <sp who="#choros">
             <speaker>Χορός</speaker>
@@ -2712,7 +2708,7 @@ convert to TEI P3
           </sp>
         </div2>
       </div1>
-      <div1 type="episode">
+      <div1 type="scene" n="11" subtype="exodos">
         <sp who="#exangelos">
           <speaker>Ἐξάγγελος</speaker>
           <l real="--o-x-x-x-o-">ὦ γῆς μέγιστα τῆσδ’ ἀεὶ τιμώμενοι,</l>
@@ -2811,7 +2807,7 @@ convert to TEI P3
           <l real="--o---x-o-x-">τοιοῦτον οἷον καὶ   στυγοῦντ’ ἐποικτίσαι.</l>
           <milestone ed="p" n="1297" unit="card"/>
         </sp>
-        <div2 type="anapests">
+        <div2 met="anapests">
           <sp who="#choros">
             <speaker>Χορός</speaker>
             <l real="--ox-xo---">ὦ δεινὸν ἰδεῖν πάθος ἀνθρώποις,</l>
@@ -2839,8 +2835,6 @@ convert to TEI P3
             <milestone ed="p" n="1313" unit="card"/>
           </sp>
         </div2>
-      </div1>
-      <div1 type="choral">
         <div2 n="1" type="strophe">
           <sp who="#oidipous">
             <speaker>Οἰδίπους</speaker>
@@ -2934,8 +2928,6 @@ convert to TEI P3
             <milestone ed="p" n="1367" unit="card"/>
           </sp>
         </div2>
-      </div1>
-      <div1 type="episode">
         <sp who="#choros">
           <speaker>Χορός</speaker>
           <l real="--o-o-o---x-">οὐκ οἶδ’ ὅπως σε φῶ βεβουλεῦσθαι καλῶς·</l>
@@ -3139,7 +3131,7 @@ convert to TEI P3
           <l n="1515" real="xxx---xx--x-o-o-">ἅλις ἵν’ ἐξήκεις δακρύων·  ἀλλ’ ἴθι στέγης ἔσω.</l>
           <milestone ed="p" n="1516" unit="card"/>
         </sp>
-        <div2 met="trochaic" type="close">
+        <div2 met="trochaic">
           <sp who="#oidipous">
             <speaker>Οἰδίπους</speaker>
             <l part="I" real="-o---o-x">πειστέον, κεἰ μηδὲν ἡδύ.</l>

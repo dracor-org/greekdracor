@@ -186,7 +186,7 @@ convert to TEI P3
   </standOff>
   <text>
     <body n="OT">
-      <div1 type="scene" n="1" subtype="prologos">
+      <div type="scene" n="1" subtype="prologos">
         <milestone ed="p" n="1" unit="card"/>
         <sp who="#oidipous">
           <speaker>Οἰδίπους</speaker>
@@ -440,11 +440,11 @@ convert to TEI P3
           <l n="150" real="--x-o-o---xo">σωτήρ δ’  ἵκοιτο καὶ νόσου παυστήριος.</l>
           <milestone ed="p" n="151" unit="card"/>
         </sp>
-      </div1>
-      <div1 type="scene" n="2" subtype="parodos">
-        <div2 n="1" type="strophe">
+      </div>
+      <div type="scene" n="2" subtype="parodos">
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="1" type="strophe">
             <l real="-xoxxo-xx-oo-oxx-">ὦ Διὸς ἁδυεπὲς φάτι, τίς ποτε τᾶς πολυχρύσου</l>
             <l real="x-oxxxox">Πυθῶνος ἀγλαὰς ἔβας</l>
             <l real="-x-ox-oo-ox-xx--">Θήβας; ἐκτέταμαι φοβερὰν φρένα, δείματι πάλλων,</l>
@@ -452,12 +452,12 @@ convert to TEI P3
             <l n="155" real="-x--oo-x--oo">ἀμφὶ σοὶ ἁζόμενος τί μοι ἢ νέον</l>
             <l real="-ox-oo---xx-xx-oo">ἢ περιτελλομέναις ὥραις πάλιν ἐξανύσεις χρέος.</l>
             <l real="-o--xo-xo-xo-ooxx">εἰπέ μοι, ὦ χρυσέας τέκνον Ἐλπίδος, ἄμβροτε Φάμα.</l>
+            </lg>
             <milestone ed="p" n="159" unit="card"/>
           </sp>
-        </div2>
-        <div2 n="1" type="antistrophe">
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="1" type="antistrophe">
             <l n="160" real="-xoxoo-xx-xo-oxxx">πρῶτα σὲ κεκλόμενος, θύγατερ Διός, ἄμβροτ’ Ἀθάνα</l>
             <l real="-xo-x-ox">γαιάοχόν τ’ ἀδελφεὰν</l>
             <l real="-oxxxo-xo-oo-ox">Ἄρτεμιν, ἃ κυκλόεντ’ ἀγορᾶς θρόνον εὐκλέα</l>
@@ -466,12 +466,12 @@ convert to TEI P3
             <l real="--x-xo-ox-o-">τρισσοὶ ἀλεξίμοροι προφάνητέ μοι,</l>
             <l n="165" real="-oo-ooxxxxo-xo-o-">εἴ ποτε καὶ προτέρας ἄτας ὕπερ ὀρνυμένας πόλει</l>
             <l real="-xx-ox-ox-xo-oo--">ἠνύσατ’ ἐκτοπίαν φλόγα πήματος, ἔλθετε καὶ νῦν.</l>
+            </lg>
             <milestone ed="p" n="169" unit="card"/>
           </sp>
-        </div2>
-        <div2 n="2" type="strophe">
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="2" type="strophe">
             <l real="-o-xxxx-o-">ὦ πόποι, ἀνάριθμα γὰρ φέρω</l>
             <l n="170" real="-xxo-o-o-oo-ox-xo-o">πήματα·  νοσεῖ δέ μοι πρόπας στόλος, οὐδ’ ἔνι φροντίδος ἔγχος</l>
             <l real="-xx-o--ox-ox">ᾧ τις ἀλέξεται.  οὔτε γὰρ ἔκγονα</l>
@@ -480,12 +480,12 @@ convert to TEI P3
             <l n="175" real="--x--ox-xo-oo-x">ἄλλον δ’ ἂν ἄλλῳ προσίδοις ἅπερ εὔπτερον ὄρνιν</l>
             <l real="-ox-xo-xo-oo">κρεῖσσον ἀμαιμακέτου πυρὸς ὄρμενον</l>
             <l real="--o-o-o-">ἀκτὰν πρὸς ἑσπέρου θεοῦ.</l>
+            </lg>
             <milestone ed="p" n="179" unit="card"/>
           </sp>
-        </div2>
-        <div2 n="2" type="antistrophe">
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="2" type="antistrophe">
             <l real="-oxxxxo-x-">ὧν πόλις ἀνάριθμος ὄλλυται·</l>
             <l n="180" real="-oxooxx-o-xxxox--x--">νηλέα δὲ γένεθλα πρὸς πέδῳ θαναταφόρα κεῖται ἀνοίκτως·</l>
             <l real="-xo-ox-oxxoo">ἐν δ’ ἄλοχοι πολιαί τ’ ἔπι ματέρες</l>
@@ -494,12 +494,12 @@ convert to TEI P3
             <l n="185" real="--o--oo-xo-xo-o">παιὰν δὲ λάμπει στονόεσσά τε γῆρυς ὅμαυλος</l>
             <l real="-xo-xoxxx-xo">ὧν ὕπερ, ὦ χρυσέα θύγατερ Διός,</l>
             <l real="--x-o-x">εὐῶπα πέμψον ἀλκάν.</l>
+            </lg>
             <milestone ed="p" n="190" unit="card"/>
           </sp>
-        </div2>
-        <div2 n="3" type="strophe">
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="3" type="strophe">
             <l n="190" real="xoxo-xoo--x-o-x-">Ἄρεά τε τὸν μαλερόν, ὃς νῦν ἄχαλκος ἀσπίδων</l>
             <l real="o-ooxoxo-x--">φλέγει με περιβόατον, ἀντιάζω</l>
             <l real="x-x-x-x-x-xx">παλίσσυτον δράμημα νωτίσαι πάτρας</l>
@@ -511,12 +511,12 @@ convert to TEI P3
             <l real="o---o-">τόν, ὦ τᾶν πυρφόρων</l>
             <l n="200" real="-x-x-o-">ἀστραπᾶν κράτη νέμων,</l>
             <l real="--xoxo-x-o--">ὦ Ζεῦ πάτερ, ὑπὸ σῷ φθίσον κεραυνῷ,</l>
+            </lg>
             <milestone ed="p" n="203" unit="card"/>
           </sp>
-        </div2>
-        <div2 n="3" type="antistrophe">
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="3" type="antistrophe">
             <l real="x-x-xoxx-o-x-x-">Λύκεῑ ἄναξ, τά τε σὰ χρυσοστρόφων ἀπ’ ἀγκυλᾶν</l>
             <l real="ooxo-xxxx-x--">βέλεα θέλοιμ’ ἂν ἀδάματ’ ἐνδατεῖσθαι</l>
             <l n="205" real="x-x---x-o-o-">ἀρωγὰ προσταχθέντα τάς τε πυρφόρους</l>
@@ -529,11 +529,11 @@ convert to TEI P3
             <l real="xx-x">ἀγλαῶπι ¯ ˘ ¯</l>
 <!-- from isodia.ent, for the moment -->
             <l n="215" real="--xoxoxo-o-oo">πεύκᾳ  ’πὶ τὸν ἀπότιμον ἐν θεοῖς θεόν.</l>
+            </lg>
             <milestone ed="p" n="216" unit="card"/>
           </sp>
-        </div2>
-      </div1>
-      <div1 type="scene" n="3" subtype="epeisodion">
+      </div>
+      <div type="scene" n="3" subtype="epeisodion">
         <sp n="Οἰδίπους" who="#oidipous">
           <speaker>Οἰδίπους</speaker>
           <l real="--x--xo-o-o-">αἰτεῖς·  ἃ δ’ αἰτεῖς, τἄμ’ ἐὰν θέλῃς ἔπη</l>
@@ -998,11 +998,11 @@ convert to TEI P3
           <l real="--o---x---o-">φάσκειν ἔμ’ ἤδη μαντικῇ μηδὲν φρονεῖν.</l>
           <milestone ed="p" n="463" unit="card"/>
         </sp>
-      </div1>
-      <div1 type="scene" n="4" subtype="stasimon">
-        <div2 n="1" type="strophe">
+      </div>
+      <div type="scene" n="4" subtype="stasimon">
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="1" type="strophe">
             <l real="x-xx-xo-x-x-oxx">τίς ὅντιν’ ἁ θεσπιέπεια Δελφὶς εἶπε πέτρα</l>
             <l n="465" real="-----oo-x-x-x-x">ἄρρητ’ ἀρρήτων τελέσαντα φοινίαισι χερσίν;</l>
             <l real="-xxx-x-">ὥρα νιν ἀελλάδων</l>
@@ -1012,12 +1012,12 @@ convert to TEI P3
             <l n="470" real="xx-oo-ox-oox">πυρὶ καὶ στεροπαῖς ὁ Διὸς γενέτας,</l>
             <l real="--xo--">δειναὶ δ’ ἅμ’ ἕπονται</l>
             <l real="-oxxx--">κῆρες ἀναπλάκητοι</l>
+            </lg>
             <milestone ed="p" n="473" unit="card"/>
           </sp>
-        </div2>
-        <div2 n="1" type="antistrophe">
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="1" type="antistrophe">
             <l real="o-o--xo-o-x-x-x">ἔλαμψε γὰρ τοῦ νιφόεντος ἀρτίως φανεῖσα</l>
             <l real="xx-x-ox-o-x-x--">φάμα Παρνασοῦ τὸν ἄδηλον ἄνδρα πάντ’ ἰχνεύειν.</l>
             <l n="475" real="--xxxxx">φοιτᾷ γὰρ ὑπ’ ἀγρίαν</l>
@@ -1027,12 +1027,12 @@ convert to TEI P3
             <l n="480" real="xo-xx-xo---">τὰ μεσόμφαλα γᾶς ἀπονοσφίζων</l>
             <l real="--xxx-">μαντεῖα·  τὰ δ’ ἀεὶ</l>
             <l real="-xoxo--">ζῶντα περιποτᾶται.</l>
+            </lg>
             <milestone ed="p" n="483" unit="card"/>
           </sp>
-        </div2>
-        <div2 n="2" type="strophe">
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="2" type="strophe">
             <l real="-xo--xx--oo--oox">δεινὰ μὲν οὖν, δεινὰ ταράσσει σοφὸς οἰωνοθέτας</l>
             <l n="485" real="-oo--xo--ox--xo-">οὔτε δοκοῦντ’ οὔτ’ ἀποφάσκονθ’·  ὅ τι λέξω δ’ ἀπορῶ.</l>
             <l real="oo--xx--xo--ox-">πέτομαι δ’ ἐλπίσιν οὔτ’, ἐνθάδ’ ὁρῶν οὔτ’ ὀπίσω.</l>
@@ -1041,12 +1041,12 @@ convert to TEI P3
             <l real="ox-oo--xx--xx-">ἔμαθον, πρὸς ὅτου δὴ βασανίζων βασάνῳ</l>
             <l real="oxxoxx-xx--xox-xx-">ἐπὶ τὰν ἐπίδαμον φάτιν εἶμ’ Οἰδιπόδα Λαβδακίδαις</l>
             <l n="495" real="ox-ox--xx-">ἐπίκουρος ἀδήλων θανάτων.</l>
+            </lg>
             <milestone ed="p" n="496" unit="card"/>
           </sp>
-        </div2>
-        <div2 n="2" type="antistrophe">
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="2" type="antistrophe">
             <l real="-oo--ox--xo--xo-">ἀλλ’ ὁ μὲν οὖν Ζεὺς ὅ τ’ Ἀπόλλων ξυνετοὶ καὶ τὰ βροτῶν</l>
             <l n="500" real="-oo--ox--oo--oo-">εἰδότες·  ἀνδρῶν δ’ ὅτι μάντις πλέον ἢ ’γὼ φέρεται,</l>
             <l real="xx--xxx-ox--oxx">κρίσις οὔκ ἔστιν ἀλαθής·  σοφίᾳ δ’ ἂν σοφίαν</l>
@@ -1055,11 +1055,11 @@ convert to TEI P3
             <l real="xoxxo--oo--oox">φανερὰ γὰρ ἐπ’ αὐτῷ, πτερόεσσ’ ἦλθε κόρα</l>
             <l n="510" real="oo-oo--xx-xxo--xo-">ποτέ, καὶ σοφὸς ὤφθη βασάνῳ θ’ ἁδύπολις τῷ ἀπ’ ἐμᾶς</l>
             <l real="oo-ox--xxx">φρενὸς οὔποτ’ ὀφλήσει κακίαν.</l>
+            </lg>
             <milestone ed="p" n="513" unit="card"/>
           </sp>
-        </div2>
-      </div1>
-      <div1 type="scene" n="5" subtype="epeisodion">
+      </div>
+      <div type="scene" n="5" subtype="epeisodion">
         <sp who="#kreon">
           <speaker>Κρέων</speaker>
           <l real="--o---o-o-oo">ἄνδρες πολῖται, δείν’ ἔπη πεπυσμένος</l>
@@ -1393,131 +1393,169 @@ convert to TEI P3
           <l real="o-xxo-o-x-x-">ἔπειτα κἀμὲ τούσδε θ’ οἳ πάρεισί σοι.</l>
           <milestone ed="p" n="649" unit="card"/>
         </sp>
-        <div2 n="1" type="strophe">
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="1" type="strophe" part="I">
             <l real="x-o--o--x--o-">πιθοῦ θελήσας φρονήσας τ’, ἄναξ, λίσσομαι.</l>
+            </lg>
           </sp>
           <sp who="#oidipous">
             <speaker>Οἰδίπους</speaker>
+            <lg n="1" type="strophe" part="M">
             <l n="650" real="x-o---x-">τί σοι θέλεις δῆτ’ εἰκάθω;</l>
+            </lg>
           </sp>
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="1" type="strophe" part="M">
             <l real="o-x--x--o--o-x-o-">τὸν οὔτε πρὶν νήπιον νῦν τ’ ἐν ὅρκῳ μέγαν καταίδεσαι.</l>
+            </lg>
           </sp>
           <sp who="#oidipous">
             <speaker>Οἰδίπους</speaker>
+            <lg n="1" type="strophe" part="M">
             <l n="655" part="I" real="--x--">οἶσθ’ οὖν ἃ χρῄζεις;</l>
+            </lg>
           </sp>
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="1" type="strophe" part="M">
             <l part="M" real="-x">οἶδα.</l>
+            </lg>
           </sp>
           <sp who="#oidipous">
             <speaker>Οἰδίπους</speaker>
+            <lg n="1" type="strophe" part="M">
             <l part="F" real="-o-x-">φράζε δὴ τί φής.</l>
+            </lg>
           </sp>
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="1" type="strophe" part="M">
             <l real="oox-x--oo-x-">τὸν ἐναγῆ φίλον μήποτ’ ἐν αἰτίᾳ</l>
             <l real="xxx-o-xx-x-">σὺν ἀφανεῖ λόγῳ  σ’ ἄτιμον βαλεῖν.</l>
+            </lg>
           </sp>
           <sp who="#oidipous">
             <speaker>Οἰδίπους</speaker>
+            <lg n="1" type="strophe" part="F">
             <l real="-xo---o---o-">εὖ νυν ἐπίστω, ταῦθ’ ὅταν ζητῇς, ἐμοὶ</l>
             <l real="--oxo-x---o-">ζητῶν ὄλεθρον ἢ φυγὴν ἐκ τῆσδε γῆς.</l>
+            </lg>
             <milestone ed="p" n="660" unit="card"/>
           </sp>
-        </div2>
-        <div2 n="2" type="strophe">
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="2" type="strophe" part="I">
             <l n="660" real="----o-o-oo">οὐ τὸν πάντων θεῶν θεὸν πρόμον</l>
             <l real="xxoo-xooxxooxxxo">Ἅλιον·  ἐπεὶ ἄθεος ἄφιλος ὅ τι πύματον</l>
             <l real="o--o-x--o-">ὀλοίμαν, φρόνησιν εἰ τάνδ’ ἔχω.</l>
             <l n="665" real="-x--o--xx">ἀλλά μοι δυσμόρῳ γᾶ φθινὰς</l>
             <l real="x-x-x-x-xx">τρύχει ψυχάν, τάδ’ εἰ κακοῖς κακὰ</l>
             <l real="o---x-x--">προσάψει τοῖς πάλαι τὰ πρὸς σφῷν.</l>
+            </lg>
           </sp>
           <sp who="#oidipous">
             <speaker>Οἰδίπους</speaker>
+            <lg n="2" type="strophe" part="M">
             <l real="o-x---o-o-x-">ὁ δ’ οὖν ἴτω, κεἰ χρή με παντελῶς θανεῖν</l>
             <l n="670" real="--xx--x---x-">ἢ γῆς ἄτιμον τῆσδ’  ἀπωσθῆναι βίᾳ.</l>
             <l real="o-o-o-o-x-ox">τὸ γὰρ σόν, οὐ τὸ τοῦδ’, ἐποικτίρω στόμα</l>
             <l real="o-o---x-x-o-">ἐλεινόν·  οὗτος δ’ ἔνθ’ ἂν ᾖ στυγήσεται.</l>
+            </lg>
           </sp>
           <sp who="#kreon">
             <speaker>Κρέων</speaker>
+            <lg n="2" type="strophe" part="M">
             <l real="x-o---o-x-ox">στυγνὸς μὲν εἴκων δῆλος εἶ, βαρὺς δ’, ὅταν</l>
             <l real="x-ox--o---x-">θυμοῦ περάσῃς·  αἱ δὲ τοιαῦται φύσεις</l>
             <l n="675" real="--x---x---o-">αὑταῖς δικαίως εἰσὶν ἄλγισται φέρειν.</l>
+            </lg>
           </sp>
           <sp who="#oidipous">
             <speaker>Οἰδίπους</speaker>
+            <lg n="2" type="strophe" part="M">
             <l part="I" real="--ox--o-">οὔκουν μ’ ἐάσεις κἀκτὸς εἶ;</l>
+            </lg>
           </sp>
           <sp who="#kreon">
             <speaker>Κρέων</speaker>
+            <lg n="2" type="strophe" part="F">
             <l part="F" real="o-o-">πορεύσομαι,</l>
             <l real="--x-x-o-o-xo">σοῦ μὲν τυχὼν ἀγνῶτος, ἐν δὲ τοῖσδ’ ἴσος.</l>
+            </lg>
             <milestone ed="p" n="679" unit="card"/>
           </sp>
-        </div2>
-        <div2 n="1" type="antistrophe">
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="1" type="antistrophe" part="I">
             <l real="x-x--o--o--o-">γύναι, τί μέλλεις κομίζειν δόμων τόνδ’ ἔσω;</l>
+            </lg>
           </sp>
           <sp who="#iokaste">
             <speaker>Ἰοκάστη</speaker>
+            <lg n="1" type="antistrophe" part="M">
             <l n="680" real="x-x-x-x-">μαθοῦσά γ’ ἥτις ἡ τύχη.</l>
+            </lg>
           </sp>
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="1" type="antistrophe" part="M">
             <l real="o-xx-o--o--o-o-">δόκησις ἀγνὼς λόγων ἦλθε, δάπτει δὲ καὶ τὸ μὴ</l>
             <l real="xo">’νδικον.</l>
+            </lg>
           </sp>
           <sp who="#iokaste">
             <speaker>Ἰοκάστη</speaker>
+            <lg n="1" type="antistrophe" part="M">
             <l part="I" real="--x--">ἀμφοῖν ἀπ’ αὐτοῖν;</l>
+            </lg>
           </sp>
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="1" type="antistrophe" part="M">
             <l part="M" real="-x">ναίχι.</l>
+            </lg>
           </sp>
           <sp who="#iokaste">
             <speaker>Ἰοκάστη</speaker>
+            <lg n="1" type="antistrophe" part="M">
             <l part="F" real="-x-oo">καὶ τίς ἦν λόγος;</l>
+            </lg>
           </sp>
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="1" type="antistrophe" part="M">
             <l n="685" real="xxo-x--oo-ox">ἅλις ἔμοιγ’, ἅλις, γᾶς προπονουμένας,</l>
             <l real="-o--o-o--o-">φαίνεται ἔνθ’ ἔληξεν αὐτοῦ μένειν.</l>
+            </lg>
           </sp>
           <sp who="#oidipous">
             <speaker>Οἰδίπους</speaker>
+            <lg n="1" type="antistrophe" part="F">
             <l real="o-x--xxo---x-">ὁρᾷς ἵν’ ἥκεις, ἀγαθὸς ὢν γνώμην ἀνήρ,</l>
             <l real="--xx--x-x-ox">τοὐμὸν παριεὶς καὶ καταμβλύνων κέαρ;</l>
+            </lg>
           </sp>
-        </div2>
-        <div2 n="2" type="antistrophe">
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="2" type="antistrophe" part="I">
             <l n="690" real="----o-x-oo">ὦναξ, εἶπον μὲν οὐχ ἅπαξ μόνον,</l>
             <l real="-xoxxoxoxoooxoxx">ἴσθι δὲ παραφρόνιμον, ἄπορον ἐπὶ φρόνιμα</l>
             <l real="o--x-o--ox">πεφάνθαι μ’ ἄν, εἴ σ’ ἐνοσφιζόμαν,</l>
             <l real="-o--xx-o-">ὅς τ’ ἐμὰν γᾶν φίλαν ἐν πόνοις</l>
             <l n="695" real="xx--x-o-xx">ἀλύουσαν κατ’ ὀρθὸν οὔρισας,</l>
             <l real="x---o-o-o">τανῦν τ’ εὔπομπος, ἂν γένοιο.</l>
+            </lg>
           </sp>
           <sp who="#iokaste">
             <speaker>Ἰοκάστη</speaker>
+            <lg n="2" type="antistrophe" part="F">
             <l real="-o-x--xx-o-oo">πρὸς θεῶν δίδαξον κἄμ’, ἄναξ, ὅτου ποτὲ</l>
             <l real="--o-xxx--xo-">μῆνιν τοσήνδε πράγματος στήσας ἔχεις.</l>
+            </lg>
             <milestone ed="p" n="700" unit="card"/>
           </sp>
-        </div2>
         <sp who="#oidipous">
           <speaker>Οἰδίπους</speaker>
           <l n="700" real="o-o---o-x-o-">ἐρῶ·  σὲ γὰρ τῶνδ’  ἐς πλέον, γύναι, σέβω·</l>
@@ -1813,11 +1851,11 @@ convert to TEI P3
           <l real="--x---x---xo">οὐδὲν γὰρ ἂν πράξαιμ’ ἂν ὧν οὐ σοὶ φίλον.</l>
           <milestone ed="p" n="863" unit="card"/>
         </sp>
-      </div1>
-      <div1 type="scene" n="6" subtype="stasimon">
-        <div2 n="1" type="strophe">
+      </div>
+      <div type="scene" n="6" subtype="stasimon">
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="1" type="strophe">
             <l real="--x--o-x">εἴ μοι ξυνείη φέροντι</l>
             <l real="-xx--ox--o-">μοῖρα τὰν εὔσεπτον ἁγνείαν λόγων</l>
             <l n="865" real="--o---o-o--">ἔργων τε πάντων, ὧν νόμοι πρόκεινται</l>
@@ -1827,12 +1865,12 @@ convert to TEI P3
             <l real="xxxxxo-">θνατὰ φύσις ἀνέρων</l>
             <l n="870" real="o-o-o-ooxxxx-x-">ἔτικτεν οὐδὲ μή ποτε λάθα κατακοιμάσῃ·</l>
             <l real="ox-----o---">μέγας ἐν τούτοις θεὸς οὐδὲ γηράσκει.</l>
+            </lg>
             <milestone ed="p" n="873" unit="card"/>
           </sp>
-        </div2>
-        <div2 n="1" type="antistrophe">
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="1" type="antistrophe">
             <l real="x-x--x-o">ὕβρις φυτεύει τύραννον·</l>
             <l real="xx---x---xx">ὕβρις, εἰ πολλῶν ὑπερπλησθῇ μάταν,</l>
             <l n="875" real="x-x-x-o-o-x">ἃ μὴ ’πίκαιρα μηδὲ συμφέροντα,</l>
@@ -1842,12 +1880,12 @@ convert to TEI P3
             <l n="880" real="--ox-oo">χρῆται.  τὸ καλῶς δ’ ἔχον</l>
             <l real="o-x-x-oo------">πόλει πάλαισμα μήποτε λῦσαι θεὸν αἰτοῦμαι.</l>
             <l real="oo---ox-xx--">θεὸν οὐ λήξω ποτὲ προστάταν ἴσχων.</l>
+            </lg>
             <milestone ed="p" n="884" unit="card"/>
           </sp>
-        </div2>
-        <div2 n="2" type="strophe">
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="2" type="strophe">
             <l real="-oxxo-x-x-o-o-o-">εἰ δέ τις ὑπέροπτα χερσὶν ἢ λόγῳ πορεύεται,</l>
             <l n="885" real="xxxo-o-o-o-o-o-">δίκας ἀφόβητος οὐδὲ δαιμόνων ἕδη σέβων,</l>
             <l real="xxxo-o-x">κακά νιν ἕλοιτο μοῖρα,</l>
@@ -1859,12 +1897,12 @@ convert to TEI P3
             <l real="-o-x-xx-">εὔξεται ψυχᾶς ἀμύνειν;</l>
             <l n="895" real="-x---x--xx-">εἰ γὰρ αἱ τοιαίδε πράξεις τίμιαι,</l>
             <l real="x-oo--">τί δεῖ με χορεύειν;</l>
+            </lg>
             <milestone ed="p" n="897" unit="card"/>
           </sp>
-        </div2>
-        <div2 n="2" type="antistrophe">
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="2" type="antistrophe">
             <l real="-oxox-o-x-o-x-o-">οὐκέτι τὸν ἄθικτον εἶμι γᾶς ἐπ’ ὀμφαλὸν σέβων,</l>
             <l n="900" real="--ox-xxo-oxo-xx">οὐδ’ ἐς τὸν Ἀβαῖσι ναὸν οὐδὲ τὰν Ὀλυμπίαν,</l>
             <l real="--xo-o-x">εἰ μὴ τάδε χειρόδεικτα</l>
@@ -1876,11 +1914,11 @@ convert to TEI P3
             <l real="-x---x--">θέσφατ’ ἐξαιροῦσιν ἤδη,</l>
             <l real="-x-x-x---x-">κοὐδαμοῦ τιμαῖς Ἀπόλλων ἐμφανής·</l>
             <l n="910" real="--ox-x">ἔρρει δὲ τὰ θεῖα.</l>
+            </lg>
             <milestone ed="p" n="911" unit="card"/>
           </sp>
-        </div2>
-      </div1>
-      <div1 type="scene" n="7" subtype="epeisodion">
+      </div>
+      <div type="scene" n="7" subtype="epeisodion">
         <sp who="#iokaste">
           <speaker>Ἰοκάστη</speaker>
           <l real="-xx---x-x-x-">χώρας ἄνακτες, δόξα μοι παρεστάθη</l>
@@ -2365,11 +2403,11 @@ convert to TEI P3
           <l n="1085" real="o-o-o-x---oo">ποτ’  ἄλλος, ὥστε μὴ ’κμαθεῖν τοὐμὸν γένος.</l>
           <milestone ed="p" n="1086" unit="card"/>
         </sp>
-      </div1>
-      <div1 type="scene" n="8" subtype="stasimon">
-        <div2 n="1" type="strophe">
+      </div>
+      <div type="scene" n="8" subtype="stasimon">
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="1" type="strophe">
             <l real="-oo--x-x-xx-xxx">εἴπερ ἐγὼ μάντις εἰμὶ καὶ κατὰ γνώμαν ἴδρις,</l>
             <l real="-oo-ox---x--">οὐ τὸν Ὄλυμπον ἀπείρων, ὦ Κιθαιρών,</l>
             <l n="1090" real="-o-x-xo">οὐκ ἔσει τὰν αὔριον</l>
@@ -2377,12 +2415,12 @@ convert to TEI P3
             <l real="-o--xo--">καὶ τροφὸν καὶ ματέρ’ αὔξειν,</l>
             <l n="1095" real="-o---o---ox-xo-x-o-x--">καὶ  χορεύεσθαι πρὸς ἡμῶν, ὡς ἐπὶ ἦρα φέροντα τοῖς ἐμοῖς τυράννοις.</l>
             <l real="x-xo-o-o-x---">ἰήϊε Φοῖβε, σοὶ δὲ ταῦτ’ ἀρέστ’ εἴη.</l>
+            </lg>
             <milestone ed="p" n="1098" unit="card"/>
           </sp>
-        </div2>
-        <div2 n="1" type="antistrophe">
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="1" type="antistrophe">
             <l real="-ox--o-o-x---xx">τίς σε, τέκνον, τίς σ’ ἔτικτε τᾶν μακραιώνων ἄρα</l>
             <l n="1100" real="xoo-xxxx-o--">Πανὸς ὀρεσσιβάτα πατρὸς πελασθεῖσ’;</l>
             <l real="-o-x-xx">ἢ σέ γ’ εὐνάτειρά τις</l>
@@ -2390,11 +2428,11 @@ convert to TEI P3
             <l n="1105" real="-o-xxx--">εἴθ’ ὁ Κυλλάνας ἀνάσσων,</l>
             <l real="-o------ox-o---x-x--">εἴθ’  ὁ Βακχεῖος θεὸς ναίων ἐπ’ ἄκρων ὀρέων σ’ εὕρημα δέξατ’ ἔκ του</l>
             <l real="--ox-x---x---">Νυμφᾶν Ἑλικωνίδων, αἷς πλεῖστα συμπαίζει.</l>
+            </lg>
             <milestone ed="p" n="1110" unit="card"/>
           </sp>
-        </div2>
-      </div1>
-      <div1 type="scene" n="9" subtype="epeisodion">
+      </div>
+      <div type="scene" n="9" subtype="epeisodion">
         <sp who="#oidipous">
           <speaker>Οἰδίπους</speaker>
           <l n="1110" real="--xxo-x---x-">εἰ χρή τι κἀμὲ μὴ συναλλάξαντά πω,</l>
@@ -2644,11 +2682,11 @@ convert to TEI P3
           <l n="1185" real="--ox--o-o-x-">οὐ χρῆν ὁμιλῶν, οὕς τέ μ’ οὐκ ἔδει κτανών.</l>
           <milestone ed="p" n="1186" unit="card"/>
         </sp>
-      </div1>
-      <div1 type="scene" n="10" subtype="stasimon">
-        <div2 n="1" type="strophe">
+      </div>
+      <div type="scene" n="10" subtype="stasimon">
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="1" type="strophe">
             <l real="x-oo-o-">ἰὼ γενεαὶ βροτῶν,</l>
             <l real="-x-xx-o---xoxx-">ὡς ὑμᾶς ἴσα καὶ τὸ μηδὲν ζώσας ἐναριθμῶ.</l>
             <l real="--xx-oo">τίς γάρ, τίς ἀνὴρ πλέον</l>
@@ -2658,12 +2696,12 @@ convert to TEI P3
             <l real="---xx-o-">τὸν σόν τοι παράδειγμ’ ἔχων,</l>
             <l real="---ox-o--o-xoxo-">τὸν σὸν δαίμονα, τὸν σόν, ὦ τλᾶμον Οἰδιπόδα, βροτῶν</l>
             <l n="1195" real="--xx--">οὐδὲν μακαρίζω·</l>
+            </lg>
             <milestone ed="p" n="1196" unit="card"/>
           </sp>
-        </div2>
-        <div2 n="1" type="antistrophe">
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="1" type="antistrophe">
             <l real="--xx-ox">ὅστις καθ’  ὑπερβολὰν</l>
             <l real="--xxx-o----oo--">τοξεύσας ἐκράτησε τοῦ πάντ’ εὐδαίμονος ὄλβου,</l>
             <l real="--xx-xx">ὦ Ζεῦ, κατὰ μὲν φθίσας</l>
@@ -2673,12 +2711,12 @@ convert to TEI P3
             <l n="1201b" real="---xx-x-">ἐξ οὗ καὶ βασιλεὺς καλεῖ</l>
             <l real="o--xo-oxx--ox-xo">ἐμὸς καὶ τὰ μέγιστ’ ἐτιμάθης, ταῖς μεγάλαισιν ἐν</l>
             <l real="--xx--">Θήβαισιν ἀνάσσων.</l>
+            </lg>
             <milestone ed="p" n="1204" unit="card"/>
           </sp>
-        </div2>
-        <div2 n="2" type="strophe">
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="2" type="strophe">
             <l real="x-x--xxx-oo">τανῦν δ’ ἀκούειν τίς ἀθλιώτερος;</l>
             <l n="1205" real="xx-xx-x-o-">τίς ἄταις ἀγρίαις, τίς ἐν πόνοις</l>
             <l real="x-o-x-x-">ξύνοικος ἀλλαγᾷ βίου;</l>
@@ -2688,12 +2726,12 @@ convert to TEI P3
             <l real="-x-xxxx-o-o-">παιδὶ καὶ πατρὶ θαλαμηπόλῳ πεσεῖν;</l>
             <l n="1210" real="-oo-o-x--xo-o-xx">πῶς ποτε πῶς ποθ’ αἱ πατρῷαί σ’ ἄλοκες φέρειν, τάλας,</l>
             <l real="-oxx-x-o-o">σῖγ’ ἐδυνάθησαν ἐς τοσόνδε;</l>
+            </lg>
             <milestone ed="p" n="1212" unit="card"/>
           </sp>
-        </div2>
-        <div2 n="2" type="antistrophe">
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="2" type="antistrophe">
             <l real="o-ox-o-o-oo">ἐφηῦρέ σ’ ἄκονθ’ ὁ πάνθ’ ὁρῶν χρόνος,</l>
             <l real="x--xx-x-x-">δικάζει τ’ ἄγαμον γάμον πάλαι</l>
             <l n="1215" real="x-x-x-oo">τεκνοῦντα καὶ τεκνούμενον.</l>
@@ -2704,11 +2742,11 @@ convert to TEI P3
             <l real="-ox-o-o--xx-xo">ἐκ στομάτων.  τὸ δ’ ὀρθὸν εἰπεῖν, ἀνέπνευσά τ’ ἐκ</l>
             <l n="1220" real="oo">σέθεν</l>
             <l real="-xo-xx-o-x">καὶ κατεκοίμασα τοὐμὸν ὄμμα.</l>
+            </lg>
             <milestone ed="p" n="1223" unit="card"/>
           </sp>
-        </div2>
-      </div1>
-      <div1 type="scene" n="11" subtype="exodos">
+      </div>
+      <div type="scene" n="11" subtype="exodos">
         <sp who="#exangelos">
           <speaker>Ἐξάγγελος</speaker>
           <l real="--o-x-x-x-o-">ὦ γῆς μέγιστα τῆσδ’ ἀεὶ τιμώμενοι,</l>
@@ -2807,9 +2845,9 @@ convert to TEI P3
           <l real="--o---x-o-x-">τοιοῦτον οἷον καὶ   στυγοῦντ’ ἐποικτίσαι.</l>
           <milestone ed="p" n="1297" unit="card"/>
         </sp>
-        <div2 met="anapests">
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg met="anapests" part="I">
             <l real="--ox-xo---">ὦ δεινὸν ἰδεῖν πάθος ἀνθρώποις,</l>
             <l real="--ox---oo-">ὦ δεινότατον πάντων ὅσ’ ἐγὼ</l>
             <l real="oo------o">προσέκυρσ’ ἤδη.  τίς σ’, ὦ τλῆμον,</l>
@@ -2821,73 +2859,81 @@ convert to TEI P3
             <l real="-xo---xx--">πόλλ’ ἀνερέσθαι, πολλὰ πυθέσθαι,</l>
             <l n="1305" real="-xx--">πολλὰ δ’ ἀθρῆσαι·</l>
             <l real="--x-xo--">τοίαν φρίκην παρέχεις μοι.</l>
+            </lg>
           </sp>
           <sp who="#oidipous">
             <speaker>Οἰδίπους</speaker>
+            <lg met="anapests" part="M">
             <l real="-----xoo-">αἰαῖ αἰαῖ, δύστανος ἐγώ,</l>
             <l real="--oo-x---">ποῖ γᾶς φέρομαι τλάμων; πᾷ μοι</l>
             <l n="1310" real="-xxx---ox-">φθογγὰ διαπωτᾶται φοράδην;</l>
             <l real="x--ox---">ἰὼ δαῖμον, ἵν’ ἐξήλλου.</l>
+            </lg>
           </sp>
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg met="anapests" part="F">
             <l real="--o-x-o-o-xo">ἐς δεινὸν οὐδ’ ἀκουστὸν οὐδ’ ἐπόψιμον.</l>
+            </lg>
             <milestone ed="p" n="1313" unit="card"/>
           </sp>
-        </div2>
-        <div2 n="1" type="strophe">
           <sp who="#oidipous">
             <speaker>Οἰδίπους</speaker>
+            <lg n="1" type="strophe">
             <l real="x-o-">ἰὼ σκότου</l>
             <l real="ooooxxoooxoooxxo">νέφος ἐμὸν ἀπότροπον, ἐπιπλόμενον ἄφατον,</l>
             <l n="1315" real="xxx-o-x--oo">ἀδάματόν τε καὶ δυσούριστον ὄν.</l>
             <l real="--">οἴμοι,</l>
             <l real="--x-x-o-oxxx">οἴμοι μάλ’ αὖθις·  οἷον εἰσέδυ μ’ ἅμα</l>
             <l real="--o---x---x-">κέντρων τε τῶνδ’ οἴστρημα καὶ μνήμη κακῶν.</l>
+            </lg>
           </sp>
-        </div2>
-        <div2 n="1" type="strophe">
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="1" type="strophe">
             <l real="--x-o-o-o-xx">καὶ θαῦμά γ’ οὐδὲν ἐν τοσοῖσδε πήμασιν</l>
             <l n="1320" real="x-o---x-o-xx">διπλᾶ  σε πενθεῖν καὶ διπλᾶ φορεῖν κακά.</l>
+            </lg>
             <milestone ed="p" n="1321" unit="card"/>
           </sp>
-        </div2>
-        <div2 n="1" type="antistrophe">
           <sp who="#oidipous">
             <speaker>Οἰδίπους</speaker>
+            <lg n="1" type="antistrophe">
             <l real="x-xo">ἰὼ φίλος,</l>
             <l real="xooooxoooxoxooxx">σὺ μὲν ἐμὸς ἐπίπολος ἔτι μόνιμος·  ἔτι γὰρ</l>
             <l real="xoo-o-x----">ὑπομένεις με τὸν τυφλὸν κηδεύων.</l>
             <l real="--">φεῦ φεῦ.</l>
             <l n="1325" real="--o---xx--x-">οὐ γάρ με λήθεις, ἀλλὰ γιγνώσκω σαφῶς,</l>
             <l real="--o---o---o-">καίπερ σκοτεινός, τήν γε σὴν αὐδὴν ὅμως.</l>
+            </lg>
           </sp>
-        </div2>
-        <div2 n="1" type="antistrophe">
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="1" type="antistrophe">
             <l real="--xx--x---xx">ὦ δεινὰ δράσας, πῶς ἔτλης τοιαῦτα σὰς</l>
             <l real="--x---o-o-o-">ὄψεις μαρᾶναι; τίς σ’ ἐπῆρε δαιμόνων;</l>
+            </lg>
             <milestone ed="p" n="1329" unit="card"/>
           </sp>
-        </div2>
-        <div2 n="2" type="strophe">
           <sp who="#oidipous">
             <speaker>Οἰδίπους</speaker>
+            <lg n="2" type="strophe" part="I">
             <l real="x--x-x--x-">Ἀπόλλων τάδ’ ἦν, Ἀπόλλων, φίλοι,</l>
             <l n="1330" real="oxxxxo-oxxoxxox">ὁ κακὰ κακὰ τελῶν ἐμὰ τάδ’ ἐμὰ πάθεα.</l>
             <l real="o-o-o-x-x-o-x-">ἔπαισε δ’ αὐτόχειρ νιν οὔτις, ἀλλ’ ἐγὼ τλάμων.</l>
             <l real="xxo-o-">τί γὰρ ἔδει μ’ ὁρᾶν,</l>
             <l n="1335" real="o-o-x-o-x-xx">ὅτῳ γ’ ὁρῶντι μηδὲν ἦν ἰδεῖν γλυκύ;</l>
+            </lg>
           </sp>
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="2" type="strophe" part="M">
             <l real="--o---x-">ἦν τᾷδ’ ὅπωσπερ καὶ σύ φῄς.</l>
+            </lg>
           </sp>
           <sp who="#oidipous">
             <speaker>Οἰδίπους</speaker>
+            <lg n="2" type="strophe" part="M">
             <l real="x-o--o-">τί δῆτ’ ἐμοὶ βλεπτὸν ἢ</l>
             <l real="-o-o-oo">στερκτὸν ἢ προσήγορον</l>
             <l real="o-x---o-x-">ἔτ’ ἔστ’ ἀκούειν ἡδονᾷ φίλοι;</l>
@@ -2895,29 +2941,35 @@ convert to TEI P3
             <l real="xxo-x--ooxxo">ἀπάγετ’, ὦ φίλοι, τὸν μέγ’ ὀλέθριον</l>
             <l real="-xxxoxooxo-o-">τὸν καταρατότατον, ἔτι δὲ καὶ θεοῖς</l>
             <l n="1345" real="-ox-o-">ἐχθρότατον βροτῶν.</l>
+            </lg>
           </sp>
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="2" type="strophe" part="F">
             <l real="--o---o-o-xo">δείλαιε τοῦ νοῦ τῆς τε συμφορᾶς ἴσον,</l>
             <l real="--o-x-o---oo">ὡς σ’ ἠθέλησα μηδέ γ’ ἂν γνῶναί ποτε.</l>
+            </lg>
             <milestone ed="p" n="1349" unit="card"/>
           </sp>
-        </div2>
-        <div2 n="2" type="antistrophe">
           <sp who="#oidipous">
             <speaker>Οἰδίπους</speaker>
+            <lg n="2" type="antistrophe" part="I">
             <l real="o--x-oxx-ox">ὄλοιθ’  ὅστις ἦν, ὃς ἀγρίας πέδας</l>
             <l n="1350" real="oxoxoxxo-xooo-">μονάδ’ ἐπιποδίας ἔλυσ’ μ’ ἀπό τε φόνου</l>
             <l real="oxoxo-o-o-x---">ἔρυτο κἀνέσωσεν, οὐδὲν εἰς χάριν πράσσων.</l>
             <l real="oox-x-">τότε γὰρ ἂν θανὼν</l>
             <l n="1355" real="--x-x-o-o-xo">οὐκ ἦ φίλοισιν οὐδ’ ἐμοὶ τοσόνδ’ ἄχος.</l>
+            </lg>
           </sp>
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg n="2" type="antistrophe" part="M">
             <l real="o-xx--x-">θέλοντι κἀμοὶ τοῦτ’ ἂν ἦν.</l>
+            </lg>
           </sp>
           <sp who="#oidipous">
             <speaker>Οἰδίπους</speaker>
+            <lg n="2" type="antistrophe" part="F">
             <l real="--x--o-">οὔκουν πατρός γ’  ἂν φονεὺς</l>
             <l real="-o-o-xo">ἦλθον οὐδὲ νυμφίος</l>
             <l real="o-x---oxxo">βροτοῖς ἐκλήθην ὧν ἔφυν ἄπο.</l>
@@ -2925,9 +2977,9 @@ convert to TEI P3
             <l real="ooo-x--oo-xx">ὁμολεχὴς δ’ ἀφ’ ὧν αὐτὸς ἔφυν τάλας.</l>
             <l n="1365" real="-ox-xoooxx-xo">εἰ δέ τι πρεσβύτερον ἔτι κακοῦ κακόν,</l>
             <l real="-ox-x-">τοῦτ’ ἔλαχ’ Οἰδίπους.</l>
+            </lg>
             <milestone ed="p" n="1367" unit="card"/>
           </sp>
-        </div2>
         <sp who="#choros">
           <speaker>Χορός</speaker>
           <l real="--o-o-o---x-">οὐκ οἶδ’ ὅπως σε φῶ βεβουλεῦσθαι καλῶς·</l>
@@ -3131,66 +3183,94 @@ convert to TEI P3
           <l n="1515" real="xxx---xx--x-o-o-">ἅλις ἵν’ ἐξήκεις δακρύων·  ἀλλ’ ἴθι στέγης ἔσω.</l>
           <milestone ed="p" n="1516" unit="card"/>
         </sp>
-        <div2 met="trochaic">
           <sp who="#oidipous">
             <speaker>Οἰδίπους</speaker>
+            <lg met="trochaic" part="I">
             <l part="I" real="-o---o-x">πειστέον, κεἰ μηδὲν ἡδύ.</l>
+            </lg>
           </sp>
           <sp who="#kreon">
             <speaker>Κρέων</speaker>
+            <lg met="trochaic" part="M">
             <l part="F" real="-x---xx">πάντα γὰρ καιρῷ καλά.</l>
+            </lg>
           </sp>
           <sp who="#oidipous">
             <speaker>Οἰδίπους</speaker>
+            <lg met="trochaic" part="M">
             <l part="I" real="-o---x">οἶσθ’ ἐφ’ οἷς οὖν εἶμι;</l>
+            </lg>
           </sp>
           <sp who="#kreon">
             <speaker>Κρέων</speaker>
+            <lg met="trochaic" part="M">
             <l part="F" real="---o-o-x-">λέξεις, καὶ τότ’ εἴσομαι κλύων.</l>
+            </lg>
           </sp>
           <sp who="#oidipous">
             <speaker>Οἰδίπους</speaker>
+            <lg met="trochaic" part="M">
             <l part="I" real="-o---x-o">γῆς μ’ ὅπως πέμψεις ἄποικον.</l>
+            </lg>
           </sp>
           <sp who="#kreon">
             <speaker>Κρέων</speaker>
+            <lg met="trochaic" part="M">
             <l part="F" real="-o---ox">τοῦ θεοῦ μ’ αἰτεῖς δόσιν.</l>
+            </lg>
           </sp>
           <sp who="#oidipous">
             <speaker>Οἰδίπους</speaker>
+            <lg met="trochaic" part="M">
             <l part="I" real="-xo---o--">ἀλλὰ θεοῖς γ’ ἔχθιστος ἥκω.</l>
+            </lg>
           </sp>
           <sp who="#kreon">
             <speaker>Κρέων</speaker>
+            <lg met="trochaic" part="M">
             <l part="F" real="-x---xx">τοιγαροῦν τεύξει τάχα.</l>
+            </lg>
           </sp>
           <sp who="#oidipous">
             <speaker>Οἰδίπους</speaker>
+            <lg met="trochaic" part="M">
             <l n="1520" part="I" real="-x-">φὴ|ς τάδ’ οὖν;</l>
+            </lg>
           </sp>
           <sp who="#kreon">
             <speaker>Κρέων</speaker>
+            <lg met="trochaic" part="M">
             <l part="F" real="x-o-x-x-o-x-">ἃ μὴ φρονῶ γὰρ οὐ φιλῶ λέγειν μάτην.</l>
+            </lg>
           </sp>
           <sp who="#oidipous">
             <speaker>Οἰδίπους</speaker>
+            <lg met="trochaic" part="M">
             <l part="I" real="xxo---o--">ἄπαγέ νύν μ’ ἐντεῦθεν ἤδη.</l>
+            </lg>
           </sp>
           <sp who="#kreon">
             <speaker>Κρέων</speaker>
+            <lg met="trochaic" part="M">
             <l part="F" real="-o-x-x-">στεῖχέ νυν, τέκνων δ’ ἀφοῦ.</l>
+            </lg>
           </sp>
           <sp who="#oidipous">
             <speaker>Οἰδίπους</speaker>
+            <lg met="trochaic" part="M">
             <l part="I" real="-x---o--">μηδαμῶς ταύτας γ’ ἕλῃ μου.</l>
+            </lg>
           </sp>
           <sp who="#kreon">
             <speaker>Κρέων</speaker>
+            <lg met="trochaic" part="M">
             <l part="F" real="-x---x-">πάντα μὴ βούλου κρατεῖν·</l>
             <l real="-xxx-x---x-x-oo">καὶ γὰρ ἁκράτησας οὔ σοι τῷ βίῳ ξυνέσπετο.</l>
+            </lg>
           </sp>
           <sp who="#choros">
             <speaker>Χορός</speaker>
+            <lg met="trochaic" part="F">
             <l real="-x---o---o-x-oo">ὦ πάτρας Θήβης ἔνοικοι, λεύσσετ’, Οἰδίπους ὅδε,</l>
             <l n="1525" real="-x--xx---x-o-x-">ὃς τὰ κλείν’ αἰνίγματ’ ᾔδει καὶ κράτιστος ἦν ἀνήρ,</l>
             <l real="-x---ox--x-oxo-">οὗ τίς οὐ ζήλῳ πολιτῶν ἦν τύχαις ἐπιβλέπων,</l>
@@ -3198,9 +3278,9 @@ convert to TEI P3
             <l real="-x-o-x---o--xx-">ὥστε θνητὸν ὄντα κείνην τὴν τελευταίαν ἰδεῖν</l>
             <l real="-oxo-o-x-o---xx">ἡμέραν ἐπισκοποῦντα μηδέν’ ὀλβίζειν, πρὶν ἂν</l>
             <l n="1530" real="-x-x-ox--o---x-">τέρμα τοῦ βίου περάσῃ  μηδὲν ἀλγεινὸν παθών.</l>
+            </lg>
           </sp>
-        </div2>
-      </div1>
+      </div>
     </body>
   </text>
 </TEI>

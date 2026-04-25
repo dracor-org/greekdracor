@@ -162,8 +162,9 @@ bring up to P3
   </teiHeader>
   <standOff>
     <listEvent>
-      <event type="premiere" when="-0453">
-        <label>453 BCE</label>
+      <event type="premiere" notBefore="-0485" notAfter="-0406">
+        <label>485–406 BC</label>
+        <desc>Based on Landfester, Manfred: Art. Euripides. In: DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0087.</desc>
       </event>
     </listEvent>
     <listRelation>

@@ -50,24 +50,11 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="exangelos" sex="MALE">
-            <persName>Ἐξάγγελος</persName>
-          </person>
-          <person xml:id="hiereus" sex="MALE">
-            <persName>Ἱερεύς</persName>
-          </person>
           <person xml:id="oidipous" sex="MALE" ana="http://www.wikidata.org/entity/Q130890">
             <persName>Οἰδίπους</persName>
           </person>
-          <person xml:id="teiresias" sex="MALE" ana="http://www.wikidata.org/entity/Q656881">
-            <persName>Τειρεσίας</persName>
-          </person>
-          <person xml:id="therapon" sex="MALE">
-            <persName>Θεράπων</persName>
-            <persName type="variant">Θεράπων Λαιοῦ</persName>
-          </person>
-          <person xml:id="iokaste" ana="http://www.wikidata.org/entity/Q131445">
-            <persName>Ἰοκάστη</persName>
+          <person xml:id="hiereus" sex="MALE">
+            <persName>Ἱερεύς</persName>
           </person>
           <person xml:id="kreon" sex="MALE" ana="http://www.wikidata.org/entity/Q732066">
             <persName>Κρέων</persName>
@@ -76,8 +63,21 @@
             <name>Χορός</name>
             <name type="variant">Χορός Γερόντων Θηβαίων</name>
           </personGrp>
+          <person xml:id="teiresias" sex="MALE" ana="http://www.wikidata.org/entity/Q656881">
+            <persName>Τειρεσίας</persName>
+          </person>
+          <person xml:id="iokaste" ana="http://www.wikidata.org/entity/Q131445">
+            <persName>Ἰοκάστη</persName>
+          </person>
           <person xml:id="angelos" sex="MALE">
             <persName>Ἄγγελος</persName>
+          </person>
+          <person xml:id="therapon" sex="MALE">
+            <persName>Θεράπων</persName>
+            <persName type="variant">Θεράπων Λαιοῦ</persName>
+          </person>
+          <person xml:id="exangelos" sex="MALE">
+            <persName>Ἐξάγγελος</persName>
           </person>
         </listPerson>
       </particDesc>

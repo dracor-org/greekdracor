@@ -48,42 +48,39 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="therapaina" sex="FEMALE">
+          <person xml:id="deianeira" sex="FEMALE" role="uxor" ana="http://www.wikidata.org/entity/Q272000">
+            <persName>Δηιάνειρα</persName>
+          </person>
+          <person xml:id="therapaina" sex="FEMALE" role="ancilla nutrix">
             <persName>Θεράπαινα</persName>
+            <persName type="variant">Τροφός</persName>
           </person>
-          <person xml:id="presbys" sex="MALE">
-            <persName>Πρέσβυς</persName>
+          <person xml:id="hyllos" sex="MALE" role="filius" ana="http://www.wikidata.org/entity/Q847268">
+            <persName>Ὕλλος</persName>
           </person>
-          <person xml:id="angelos" sex="MALE">
-            <persName>Ἄγγελος</persName>
-          </person>
-          <personGrp xml:id="hemichorion" sex="FEMALE">
-            <name>Ἡμιχόριον</name>
+          <personGrp xml:id="choros" sex="FEMALE" role="chorus">
+            <name>Χορός</name>
+            <name type="variant">Χορός Παρθενών Τραχινίων</name>
+            <name type="variant">Ἡμιχόριον</name>
           </personGrp>
-          <personGrp xml:id="hemichorion_1" sex="FEMALE">
+          <personGrp xml:id="hemichorion_1" sex="FEMALE" role="semi-chorus" corresp="#choros">
             <name>Ἡμιχόριον 1</name>
           </personGrp>
-          <personGrp xml:id="hemichorion_2" sex="FEMALE">
+          <personGrp xml:id="hemichorion_2" sex="FEMALE" role="semi-chorus" corresp="#choros">
             <name>Ἡμιχόριον 2</name>
           </personGrp>
-          <person xml:id="trophos" sex="FEMALE">
-            <persName>Τροφός</persName>
+          <person xml:id="angelos" sex="MALE" role="nuntius">
+            <persName>Ἄγγελος</persName>
           </person>
-          <person xml:id="hyllos" sex="MALE" ana="http://www.wikidata.org/entity/Q847268">
-            <persName>Ὕλλος</persName>
+          <person xml:id="lichas" sex="MALE" role="servus" ana="https://www.wikidata.org/wiki/Q922330">
+            <persName>Λίχας</persName>
+          </person>
+          <person xml:id="presbys" sex="MALE" role="senex">
+            <persName>Πρέσβυς</persName>
           </person>
           <person xml:id="herakles" sex="MALE" ana="http://www.wikidata.org/entity/Q122248">
             <persName>Ἡρακλῆς</persName>
           </person>
-          <person xml:id="deianeira" sex="FEMALE" ana="http://www.wikidata.org/entity/Q272000">
-            <persName>Δηιάνειρα</persName>
-          </person>
-          <person xml:id="lichas" sex="MALE">
-            <persName>Λίχας</persName>
-          </person>
-          <personGrp xml:id="choros" sex="FEMALE">
-            <name>Χορός</name>
-          </personGrp>
         </listPerson>
       </particDesc>
       <textClass>

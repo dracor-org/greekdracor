@@ -53,10 +53,10 @@
             <name>Χορὸς Σατύρων</name>
             <name type="variant">Χορός</name>
           </personGrp>
-          <personGrp xml:id="hemichoros-a" sex="MALE" role="semichorus">
+          <personGrp xml:id="hemichoros-a" sex="MALE" role="semichorus" corresp="#choros-satyron">
             <name>Ἡμιχορός α</name>
           </personGrp>
-          <personGrp xml:id="hemichoros-b" sex="MALE" role="semichorus">
+          <personGrp xml:id="hemichoros-b" sex="MALE" role="semichorus" corresp="#choros-satyron">
             <name>Ἡμιχορός β</name>
           </personGrp>
           <person xml:id="silenos" sex="MALE" role="satyrus" ana="http://www.wikidata.org/entity/Q464091">

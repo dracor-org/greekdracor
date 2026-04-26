@@ -55,7 +55,8 @@
             <name>Χορός</name>
           </personGrp>
           <person xml:id="emporos" sex="MALE" role="mercator">
-            <persName>Ἔμπορος</persName>
+            <name>Ἔμπορος</name>
+            <name type="variant">Σκοπός</name>
           </person>
           <person xml:id="neoptolemos" sex="MALE" role="heros" ana="http://www.wikidata.org/entity/Q322639">
             <persName>Νεοπτόλεμος</persName>

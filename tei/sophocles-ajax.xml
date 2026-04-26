@@ -48,37 +48,38 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="athena" sex="FEMALE" ana="http://www.wikidata.org/entity/Q37122">
+          <person xml:id="athena" sex="FEMALE" role="dea" ana="http://www.wikidata.org/entity/Q37122">
             <persName>Ἀθήνα</persName>
           </person>
-          <person xml:id="odysseus" sex="MALE" ana="http://www.wikidata.org/entity/Q47231">
+          <person xml:id="odysseus" sex="MALE" role="rex" ana="http://www.wikidata.org/entity/Q47231">
             <persName>Ὀδυσσεύς</persName>
           </person>
-          <person xml:id="aias" sex="MALE" ana="http://www.wikidata.org/entity/Q172725">
+          <person xml:id="aias" sex="MALE" role="heros" ana="http://www.wikidata.org/entity/Q172725">
             <persName>Αἴας</persName>
           </person>
-          <personGrp xml:id="choros" sex="MALE">
+          <personGrp xml:id="choros" sex="MALE" role="chorus">
             <name>Χορός</name>
+            <name type="variant">Χορός Σαλαμινίων Ναυτῶν</name>
           </personGrp>
-          <personGrp xml:id="hemichorion_1" sex="MALE">
+          <personGrp xml:id="hemichorion_1" sex="MALE" role="semi-chorus" corresp="#choros">
             <name>Ἡμιχόριον 1</name>
           </personGrp>
-          <personGrp xml:id="hemichorion_2" sex="MALE">
+          <personGrp xml:id="hemichorion_2" sex="MALE" role="semi-chorus" corresp="#choros">
             <name>Ἡμιχόριον 2</name>
           </personGrp>
-          <person xml:id="tekmessa" sex="FEMALE" ana="http://www.wikidata.org/entity/Q10796858">
+          <person xml:id="tekmessa" sex="FEMALE" role="uxor" ana="http://www.wikidata.org/entity/Q10796858">
             <persName>Τέκμησσα</persName>
           </person>
-          <person xml:id="angelos" sex="MALE">
-            <persName>Ἄγγελος</persName>
+          <person xml:id="angelos" sex="MALE" role="nuntius">
+            <name>Ἄγγελος</name>
           </person>
-          <person xml:id="teukros" sex="MALE" ana="http://www.wikidata.org/entity/Q878184">
+          <person xml:id="teukros" sex="MALE" role="heros" ana="http://www.wikidata.org/entity/Q878184">
             <persName>Τεῦκρος</persName>
           </person>
-          <person xml:id="menelaos" sex="MALE" ana="http://www.wikidata.org/entity/Q171839">
+          <person xml:id="menelaos" sex="MALE" role="rex" ana="http://www.wikidata.org/entity/Q171839">
             <persName>Μενέλαος</persName>
           </person>
-          <person xml:id="agamemnon" sex="MALE" ana="http://www.wikidata.org/entity/Q128176">
+          <person xml:id="agamemnon" sex="MALE" role="rex" ana="http://www.wikidata.org/entity/Q128176">
             <persName>Ἀγαμέμνων</persName>
           </person>
         </listPerson>

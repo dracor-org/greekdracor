@@ -48,10 +48,10 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="antigone" sex="FEMALE" role="filia" ana="http://www.wikidata.org/entity/Q131351">
+          <person xml:id="antigone" sex="FEMALE" role="soror" ana="http://www.wikidata.org/entity/Q131351">
             <persName>Ἀντιγόνη</persName>
           </person>
-          <person xml:id="ismene" sex="FEMALE" role="filia" ana="http://www.wikidata.org/entity/Q753902">
+          <person xml:id="ismene" sex="FEMALE" role="soror" ana="http://www.wikidata.org/entity/Q753902">
             <persName>Ἰσμήνη</persName>
           </person>
           <personGrp xml:id="choros" sex="MALE" role="chorus">

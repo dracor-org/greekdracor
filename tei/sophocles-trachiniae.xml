@@ -63,10 +63,10 @@
             <name type="variant">Χορός Παρθενών Τραχινίων</name>
             <name type="variant">Ἡμιχόριον</name>
           </personGrp>
-          <personGrp xml:id="hemichorion_1" sex="FEMALE" role="semi-chorus" corresp="#choros">
+          <personGrp xml:id="hemichorion-1" sex="FEMALE" role="semi-chorus" corresp="#choros">
             <name>Ἡμιχόριον 1</name>
           </personGrp>
-          <personGrp xml:id="hemichorion_2" sex="FEMALE" role="semi-chorus" corresp="#choros">
+          <personGrp xml:id="hemichorion-2" sex="FEMALE" role="semi-chorus" corresp="#choros">
             <name>Ἡμιχόριον 2</name>
           </personGrp>
           <person xml:id="angelos" sex="MALE" role="nuntius">
@@ -1578,13 +1578,13 @@ antilabe in all files
         </div2>
       </div1>
       <div1 type="episode">
-        <sp who="#hemichorion_1">
+        <sp who="#hemichorion-1">
           <speaker>Ἡμιχόριον 1</speaker>
           <l real="oooo-x-o-x-xo">πότερον ἐγὼ μάταιος, ἢ κλύω τινὸς</l>
           <l real="--x---x---o-">οἴκτου δῑ οἴκων ἀρτίως ὁρμωμένου;</l>
           <l n="865" part="Y" real="x-x">τί φημι;</l>
         </sp>
-        <sp who="#hemichorion_2">
+        <sp who="#hemichorion-2">
           <speaker>Ἡμιχόριον 2</speaker>
           <l real="--x-x-o-x-x-">ἠχεῖ τις οὐκ ἄσημον, ἀλλὰ δυστυχῆ</l>
           <l real="-xo---x---o-">κωκυτὸν εἴσω, καί τι καινίζει στέγη.</l>

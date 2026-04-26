@@ -78,7 +78,7 @@
           <person xml:id="presbys" sex="MALE" role="senex">
             <name>Πρέσβυς</name>
           </person>
-          <person xml:id="herakles" sex="MALE" ana="http://www.wikidata.org/entity/Q122248">
+          <person xml:id="herakles" sex="MALE" role="heros" ana="http://www.wikidata.org/entity/Q122248">
             <persName>Ἡρακλῆς</persName>
           </person>
         </listPerson>

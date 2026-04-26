@@ -52,8 +52,8 @@
             <persName>Δηιάνειρα</persName>
           </person>
           <person xml:id="therapaina" sex="FEMALE" role="ancilla nutrix">
-            <name>Θεράπαινα</name>
-            <name type="variant">Τροφός</name>
+            <persName>Θεράπαινα</persName>
+            <persName type="variant">Τροφός</persName>
           </person>
           <person xml:id="hyllos" sex="MALE" role="filius" ana="http://www.wikidata.org/entity/Q847268">
             <persName>Ὕλλος</persName>
@@ -70,13 +70,13 @@
             <name>Ἡμιχόριον 2</name>
           </personGrp>
           <person xml:id="angelos" sex="MALE" role="nuntius">
-            <name>Ἄγγελος</name>
+            <persName>Ἄγγελος</persName>
           </person>
           <person xml:id="lichas" sex="MALE" role="servus" ana="https://www.wikidata.org/wiki/Q922330">
             <persName>Λίχας</persName>
           </person>
           <person xml:id="presbys" sex="MALE" role="senex">
-            <name>Πρέσβυς</name>
+            <persName>Πρέσβυς</persName>
           </person>
           <person xml:id="herakles" sex="MALE" role="heros" ana="http://www.wikidata.org/entity/Q122248">
             <persName>Ἡρακλῆς</persName>

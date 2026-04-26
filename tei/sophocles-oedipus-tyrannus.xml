@@ -54,7 +54,7 @@
             <persName>Οἰδίπους</persName>
           </person>
           <person xml:id="hiereus" sex="MALE" role="sacerdos">
-            <name>Ἱερεύς</name>
+            <persName>Ἱερεύς</persName>
           </person>
           <person xml:id="kreon" sex="MALE" ana="http://www.wikidata.org/entity/Q732066">
             <persName>Κρέων</persName>
@@ -70,14 +70,14 @@
             <persName>Ἰοκάστη</persName>
           </person>
           <person xml:id="angelos" sex="MALE" role="nuntius">
-            <name>Ἄγγελος</name>
+            <persName>Ἄγγελος</persName>
           </person>
           <person xml:id="therapon" sex="MALE" role="servus">
-            <name>Θεράπων</name>
-            <name type="variant">Θεράπων Λαιοῦ</name>
+            <persName>Θεράπων</persName>
+            <persName type="variant">Θεράπων Λαιοῦ</persName>
           </person>
           <person xml:id="exangelos" sex="MALE" role="nuntius">
-            <name>Ἐξάγγελος</name>
+            <persName>Ἐξάγγελος</persName>
           </person>
         </listPerson>
       </particDesc>

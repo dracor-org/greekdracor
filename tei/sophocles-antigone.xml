@@ -61,7 +61,7 @@
             <persName>Κρέων</persName>
           </person>
           <person xml:id="phylax" sex="MALE" role="custos" >
-            <name>Φύλαξ</name>
+            <persName>Φύλαξ</persName>
           </person>
           <person xml:id="haimon" sex="MALE" role="filius" ana="http://www.wikidata.org/entity/Q733985">
             <persName>Αἵμων</persName>
@@ -70,13 +70,13 @@
             <persName>Τειρεσίας</persName>
           </person>
           <person xml:id="angelos" sex="MALE" role="nuntius">
-            <name>Ἄγγελος</name>
+            <persName>Ἄγγελος</persName>
           </person>
           <person xml:id="eurydike" sex="FEMALE" role="uxor" ana="http://www.wikidata.org/entity/Q1378457">
             <persName>Εὐρυδίκη</persName>
           </person>
           <person xml:id="exangelos" sex="MALE" role="nuntius">
-            <name>Ἐξάγγελος</name>
+            <persName>Ἐξάγγελος</persName>
           </person>
         </listPerson>
       </particDesc>

@@ -48,38 +48,38 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="menelaos" sex="MALE" ana="http://www.wikidata.org/entity/Q171839">
-            <persName>Μενέλαος</persName>
-          </person>
-          <person xml:id="angelos" sex="MALE">
-            <persName>Ἄγγελος</persName>
+          <person xml:id="athena" sex="FEMALE" ana="http://www.wikidata.org/entity/Q37122">
+            <persName>Ἀθήνα</persName>
           </person>
           <person xml:id="odysseus" sex="MALE" ana="http://www.wikidata.org/entity/Q47231">
             <persName>Ὀδυσσεύς</persName>
           </person>
-          <person xml:id="teukros" sex="MALE" ana="http://www.wikidata.org/entity/Q878184">
-            <persName>Τεῦκρος</persName>
+          <person xml:id="aias" sex="MALE" ana="http://www.wikidata.org/entity/Q172725">
+            <persName>Αἴας</persName>
           </person>
+          <personGrp xml:id="choros" sex="MALE">
+            <name>Χορός</name>
+          </personGrp>
           <personGrp xml:id="hemichorion_1" sex="MALE">
             <name>Ἡμιχόριον 1</name>
           </personGrp>
           <personGrp xml:id="hemichorion_2" sex="MALE">
             <name>Ἡμιχόριον 2</name>
           </personGrp>
-          <person xml:id="athena" sex="FEMALE" ana="http://www.wikidata.org/entity/Q37122">
-            <persName>Ἀθήνα</persName>
+          <person xml:id="tekmessa" sex="FEMALE" ana="http://www.wikidata.org/entity/Q10796858">
+            <persName>Τέκμησσα</persName>
+          </person>
+          <person xml:id="angelos" sex="MALE">
+            <persName>Ἄγγελος</persName>
+          </person>
+          <person xml:id="teukros" sex="MALE" ana="http://www.wikidata.org/entity/Q878184">
+            <persName>Τεῦκρος</persName>
+          </person>
+          <person xml:id="menelaos" sex="MALE" ana="http://www.wikidata.org/entity/Q171839">
+            <persName>Μενέλαος</persName>
           </person>
           <person xml:id="agamemnon" sex="MALE" ana="http://www.wikidata.org/entity/Q128176">
             <persName>Ἀγαμέμνων</persName>
-          </person>
-          <personGrp xml:id="choros" sex="MALE">
-            <name>Χορός</name>
-          </personGrp>
-          <person xml:id="aias" sex="MALE" ana="http://www.wikidata.org/entity/Q172725">
-            <persName>Αἴας</persName>
-          </person>
-          <person xml:id="tekmessa" sex="FEMALE" ana="http://www.wikidata.org/entity/Q10796858">
-            <persName>Τέκμησσα</persName>
           </person>
         </listPerson>
       </particDesc>

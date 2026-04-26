@@ -48,22 +48,22 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="paidagogos" sex="MALE" ana="http://www.wikidata.org/entity/Q1367860">
+          <person xml:id="paidagogos" sex="MALE" role="paedagogus" ana="http://www.wikidata.org/entity/Q1367860">
             <persName>Παιδαγωγός</persName>
           </person>
-          <person xml:id="orestes" sex="MALE" ana="http://www.wikidata.org/entity/Q192407">
+          <person xml:id="orestes" sex="MALE" role="filius" ana="http://www.wikidata.org/entity/Q192407">
             <persName>Ὀρέστης</persName>
           </person>
-          <person xml:id="elektra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131651">
+          <person xml:id="elektra" sex="FEMALE" role="filia" ana="http://www.wikidata.org/entity/Q131651">
             <persName>Ἠλέκτρα</persName>
           </person>
-          <personGrp xml:id="choros" sex="UNKNOWN">
+          <personGrp xml:id="choros" sex="FEMALE" role="chorus">
             <name>Χορός</name>
           </personGrp>
-          <person xml:id="chrysothemis" sex="FEMALE" ana="http://www.wikidata.org/entity/Q1146076">
+          <person xml:id="chrysothemis" sex="FEMALE" role="filia" ana="http://www.wikidata.org/entity/Q1146076">
             <persName>Χρυσόθεμις</persName>
           </person>
-          <person xml:id="klytaimnestra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131157">
+          <person xml:id="klytaimnestra" sex="FEMALE" role="uxor" ana="http://www.wikidata.org/entity/Q131157">
             <persName>Κλυταιμνήστρα</persName>
           </person>
           <person xml:id="aigisthos" sex="MALE" ana="http://www.wikidata.org/entity/Q212091">

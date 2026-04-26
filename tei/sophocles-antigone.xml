@@ -48,35 +48,35 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="phylax">
-            <persName>Φύλαξ</persName>
+          <person xml:id="antigone" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131351">
+            <persName>Ἀντιγόνη</persName>
           </person>
-          <person xml:id="exangelos" sex="MALE">
-            <persName>Ἐξάγγελος</persName>
-          </person>
-          <person xml:id="angelos" sex="MALE">
-            <persName>Ἄγγελος</persName>
-          </person>
-          <person xml:id="teiresias" sex="MALE" ana="http://www.wikidata.org/entity/Q656881">
-            <persName>Τειρεσίας</persName>
+          <person xml:id="ismene" sex="FEMALE" ana="http://www.wikidata.org/entity/Q753902">
+            <persName>Ἰσμήνη</persName>
           </person>
           <personGrp xml:id="choros" sex="UNKNOWN">
             <name>Χορός</name>
           </personGrp>
-          <person xml:id="ismene" sex="FEMALE" ana="http://www.wikidata.org/entity/Q753902">
-            <persName>Ἰσμήνη</persName>
-          </person>
           <person xml:id="kreon" sex="MALE" ana="http://www.wikidata.org/entity/Q732066">
             <persName>Κρέων</persName>
           </person>
-          <person xml:id="antigone" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131351">
-            <persName>Ἀντιγόνη</persName>
+          <person xml:id="phylax">
+            <persName>Φύλαξ</persName>
           </person>
           <person xml:id="haimon" sex="MALE" ana="http://www.wikidata.org/entity/Q733985">
             <persName>Αἵμων</persName>
           </person>
+          <person xml:id="teiresias" sex="MALE" ana="http://www.wikidata.org/entity/Q656881">
+            <persName>Τειρεσίας</persName>
+          </person>
+          <person xml:id="angelos" sex="MALE">
+            <persName>Ἄγγελος</persName>
+          </person>
           <person xml:id="eurydike" sex="FEMALE" ana="http://www.wikidata.org/entity/Q1378457">
             <persName>Εὐρυδίκη</persName>
+          </person>
+          <person xml:id="exangelos" sex="MALE">
+            <persName>Ἐξάγγελος</persName>
           </person>
         </listPerson>
       </particDesc>

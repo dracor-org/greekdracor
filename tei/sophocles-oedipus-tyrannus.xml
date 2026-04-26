@@ -50,33 +50,33 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="oidipous" sex="MALE" ana="http://www.wikidata.org/entity/Q130890">
+          <person xml:id="oidipous" sex="MALE" role="rex" ana="http://www.wikidata.org/entity/Q130890">
             <persName>Οἰδίπους</persName>
           </person>
-          <person xml:id="hiereus" sex="MALE">
+          <person xml:id="hiereus" sex="MALE" role="sacerdos">
             <persName>Ἱερεύς</persName>
           </person>
           <person xml:id="kreon" sex="MALE" ana="http://www.wikidata.org/entity/Q732066">
             <persName>Κρέων</persName>
           </person>
-          <personGrp xml:id="choros" sex="MALE">
+          <personGrp xml:id="choros" sex="MALE" role="chorus">
             <name>Χορός</name>
             <name type="variant">Χορός Γερόντων Θηβαίων</name>
           </personGrp>
-          <person xml:id="teiresias" sex="MALE" ana="http://www.wikidata.org/entity/Q656881">
+          <person xml:id="teiresias" sex="MALE" role="vates" ana="http://www.wikidata.org/entity/Q656881">
             <persName>Τειρεσίας</persName>
           </person>
-          <person xml:id="iokaste" ana="http://www.wikidata.org/entity/Q131445">
+          <person xml:id="iokaste" sex="FEMALE" role="uxor" ana="http://www.wikidata.org/entity/Q131445">
             <persName>Ἰοκάστη</persName>
           </person>
-          <person xml:id="angelos" sex="MALE">
+          <person xml:id="angelos" sex="MALE" role="nuntius">
             <persName>Ἄγγελος</persName>
           </person>
-          <person xml:id="therapon" sex="MALE">
+          <person xml:id="therapon" sex="MALE" role="servus">
             <persName>Θεράπων</persName>
             <persName type="variant">Θεράπων Λαιοῦ</persName>
           </person>
-          <person xml:id="exangelos" sex="MALE">
+          <person xml:id="exangelos" sex="MALE" role="nuntius">
             <persName>Ἐξάγγελος</persName>
           </person>
         </listPerson>

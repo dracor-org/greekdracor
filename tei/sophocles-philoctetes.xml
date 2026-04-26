@@ -48,22 +48,22 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="odysseus" sex="MALE" ana="http://www.wikidata.org/entity/Q47231">
+          <person xml:id="odysseus" sex="MALE" role="rex" ana="http://www.wikidata.org/entity/Q47231">
             <persName>Ὀδυσσεύς</persName>
           </person>
-          <personGrp xml:id="choros" sex="MALE">
+          <personGrp xml:id="choros" sex="MALE" role="chorus">
             <name>Χορός</name>
           </personGrp>
-          <person xml:id="emporos" sex="MALE">
+          <person xml:id="emporos" sex="MALE" role="mercator">
             <persName>Ἔμπορος</persName>
           </person>
-          <person xml:id="neoptolemos" sex="MALE" ana="http://www.wikidata.org/entity/Q322639">
+          <person xml:id="neoptolemos" sex="MALE" role="heros" ana="http://www.wikidata.org/entity/Q322639">
             <persName>Νεοπτόλεμος</persName>
           </person>
-          <person xml:id="philoktetes" sex="MALE" ana="http://www.wikidata.org/entity/Q212827">
+          <person xml:id="philoktetes" sex="MALE" role="heros" ana="http://www.wikidata.org/entity/Q212827">
             <persName>Φιλοκτήτης</persName>
           </person>
-          <person xml:id="herakles" sex="MALE" ana="http://www.wikidata.org/entity/Q122248">
+          <person xml:id="herakles" sex="MALE" role="heros" ana="http://www.wikidata.org/entity/Q122248">
             <persName>Ἡρακλῆς</persName>
           </person>
         </listPerson>

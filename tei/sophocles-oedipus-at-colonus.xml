@@ -57,7 +57,7 @@
             <persName>Ἀντιγόνη</persName>
           </person>
           <person xml:id="xenos" sex="MALE">
-            <persName>Ξένος</persName>
+            <name>Ξένος</name>
           </person>
           <personGrp xml:id="choros" sex="MALE">
             <name>Χορός</name>
@@ -75,7 +75,7 @@
             <persName>Πολυνείκης</persName>
           </person>
           <person xml:id="angelos" sex="MALE">
-            <persName>Ἄγγελος</persName>
+            <name>Ἄγγελος</name>
           </person>
         </listPerson>
       </particDesc>

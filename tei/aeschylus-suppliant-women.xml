@@ -47,6 +47,10 @@
     <profileDesc>
       <particDesc>
         <listPerson>
+          <personGrp xml:id="choros_danaidon" sex="FEMALE" ana="http://www.wikidata.org/entity/Q724907">
+            <name>Χορός Δαναΐδων</name>
+            <name type="variant">Χορός</name>
+          </personGrp>
           <person xml:id="danaos" sex="MALE" ana="http://www.wikidata.org/entity/Q210883">
             <persName>Δαναός</persName>
           </person>
@@ -57,10 +61,6 @@
           <person xml:id="keryx" sex="MALE">
             <persName>Κῆρυξ</persName>
           </person>
-          <personGrp xml:id="choros_danaidon" sex="FEMALE" ana="http://www.wikidata.org/entity/Q724907">
-            <name>Χορός Δαναΐδων</name>
-            <name type="variant">Χορός</name>
-          </personGrp>
           <personGrp xml:id="choros_therapainon" sex="FEMALE">
             <name>Χορός Θεραπαινῶν</name>
           </personGrp>

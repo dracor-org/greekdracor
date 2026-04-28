@@ -54,13 +54,15 @@
             <persName>Δαναός</persName>
           </person>
           <person xml:id="basileus" sex="MALE" ana="http://www.wikidata.org/entity/Q1636827">
-            <persName>βασιλεύς Ἀργεΐων</persName>
+            <persName>βασιλεύς</persName>
+            <persName type="variant">βασιλεύς Ἀργεΐων</persName>
           </person>
           <person xml:id="keryx" sex="MALE">
             <persName>Κῆρυξ</persName>
           </person>
           <personGrp xml:id="choros_danaidon" sex="FEMALE" ana="http://www.wikidata.org/entity/Q724907">
             <name>Χορός Δαναΐδων</name>
+            <name type="variant">Χορός</name>
           </personGrp>
           <personGrp xml:id="choros_therapainon" sex="FEMALE">
             <name>Χορός Θεραπαινῶν</name>

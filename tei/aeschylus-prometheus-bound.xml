@@ -57,7 +57,8 @@
             <persName>Προμηθεύς</persName>
           </person>
           <personGrp xml:id="choros" sex="FEMALE" ana="http://www.wikidata.org/entity/Q20575671">
-            <name>Χορός Ὠκεανίδων</name>
+            <name>Χορός</name>
+            <name type="variant">Χορός Ὠκεανίδων</name>
           </personGrp>
           <person xml:id="okeanos" sex="MALE" ana="http://www.wikidata.org/entity/Q161419">
             <persName>Ὠκεανός</persName>

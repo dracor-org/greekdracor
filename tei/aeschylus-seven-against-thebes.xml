@@ -51,10 +51,12 @@
             <persName>Ἐτεοκλής</persName>
           </person>
           <person xml:id="angelos" sex="MALE">
-            <persName>Ἄγγελος Κατάσκοπος</persName>
+            <persName>Ἄγγελος</persName>
+            <persName type="variant">Ἄγγελος Κατάσκοπος</persName>
           </person>
           <personGrp xml:id="choros" sex="FEMALE">
-            <name>Χορός Παρθένων</name>
+            <name>Χορός</name>
+            <name type="variant">Χορός Παρθένων</name>
           </personGrp>
           <personGrp xml:id="hemichorion_a" sex="FEMALE">
             <name>Ἡμιχόριον Α</name>

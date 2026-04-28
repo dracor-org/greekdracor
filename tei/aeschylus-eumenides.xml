@@ -49,6 +49,7 @@
         <listPerson>
           <person xml:id="pythias" sex="FEMALE">
             <persName>Πυθιάς</persName>
+            <persName type="variant">Πυθιάς Προφῆτις</persName>
           </person>
           <person xml:id="apollon" sex="MALE" ana="http://www.wikidata.org/entity/Q37340">
             <persName>Ἀπόλλων</persName>
@@ -58,16 +59,18 @@
           </person>
           <person xml:id="klytaimestras_eidolon" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131157">
             <persName>Κλυταιμήστρας Εἴδωλον</persName>
+            <persName type="variant">Κλυταιμήστρα</persName>
           </person>
           <personGrp xml:id="choros" sex="FEMALE" ana="http://www.wikidata.org/entity/Q180262">
-            <name>Χορός Εὐμενίδων</name>
+            <name>Χορός</name>
+            <name type="variant">Χορός Εὐμενίδων</name>
           </personGrp>
           <person xml:id="athena" sex="FEMALE" ana="http://www.wikidata.org/entity/Q37122">
             <persName>Ἀθηνᾶ</persName>
           </person>
-          <person xml:id="propompoi" sex="UNKNOWN">
-            <persName>Προπομποί</persName>
-          </person>
+          <personGrp xml:id="propompoi" sex="FEMALE">
+            <name>Προπομποί</name>
+          </personGrp>
         </listPerson>
       </particDesc>
       <textClass>

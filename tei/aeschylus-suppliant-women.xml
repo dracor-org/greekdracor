@@ -47,9 +47,6 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <personGrp xml:id="choros" sex="FEMALE">
-            <name>Χορός</name>
-          </personGrp>
           <person xml:id="danaos" sex="MALE" ana="http://www.wikidata.org/entity/Q210883">
             <persName>Δαναός</persName>
           </person>
@@ -67,10 +64,10 @@
           <personGrp xml:id="choros_therapainon" sex="FEMALE">
             <name>Χορός Θεραπαινῶν</name>
           </personGrp>
-          <person xml:id="danais" sex="FEMALE" ana="http://www.wikidata.org/entity/Q724907">
+          <person xml:id="danais" sex="FEMALE" ana="http://www.wikidata.org/entity/Q724907" corresp="#choros_danaidon">
             <persName>Δαναΐς</persName>
           </person>
-          <person xml:id="therapaina" sex="FEMALE">
+          <person xml:id="therapaina" sex="FEMALE" corresp="choros_therapainon">
             <persName>Θεράπαινα</persName>
           </person>
         </listPerson>
@@ -194,7 +191,7 @@ convert to P3
       <div1 type="episode">
         <div2 type="lyric">
           <milestone ed="p" n="1" unit="card"/>
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="-ox--ox-xo-">Ζεὺς μὲν ἀφίκτωρ ἐπίδοι προφρόνως</l>
             <l real="oo-oo-xxo--">στόλον ἡμέτερον νάιον ἀρθέντ’</l>
@@ -241,7 +238,7 @@ convert to P3
       </div1>
       <div1 type="choral">
         <div2 n="1" type="strophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l n="40" real="-oxxoox">νῦν δ’ ἐπικεκλομένα</l>
             <l real="---xxo">Δῖον πόρτιν ὑπερ‐</l>
@@ -256,7 +253,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="1" type="antistrophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="-ox-xox">ὅντ’   ἐπιλεξαμένα,</l>
             <l n="50" real="---oo-">νῦν ἐν ποιονόμοις</l>
@@ -271,7 +268,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="2" type="strophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="-ox--ox--oo-">εἰ δὲ κυρεῖ τις πέλας οἰωνοπόλων</l>
             <l real="--o-o-oxx-">ἔγγαιος οἶκτον [οἰκτρὸν] ἀίων,</l>
@@ -282,7 +279,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="2" type="antistrophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="xxx--ox--oox">ἅτ’ ἀπὸ χλωρῶν πετάλων ἐργομένα</l>
             <l real="--o-o-o-">πενθεῖ μὲν οἶκτον ἠθέων·</l>
@@ -293,7 +290,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="3" type="strophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="--o-xox">τὼς καὶ ἐγὼ φιλόδυρ‐</l>
             <l real="oxxox-xo-x">τος Ἰαονίοισι νόμοισι</l>
@@ -308,7 +305,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="3" type="antistrophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="-xo-oo-">ἀλλά, θεοὶ γενέται</l>
             <l real="xo-ox-ox-o">κλύετ’ εὖ τὸ δίκαιον ἰδόντες·</l>
@@ -323,7 +320,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="4" type="strophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="---xo-xx--">εὖ δ’ εἴη Διόθεν παναληθῶς.</l>
             <l real="xoxoo---xoo--">Διὸς ἵμερος οὐκ εὐθήρατος ἐτύχθη.</l>
@@ -334,7 +331,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="4" type="antistrophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="---xo-ox--">πίπτει δ’ ἀσφαλὲς οὐδ’ ἐπὶ νώτῳ,</l>
             <l real="ox-xo----xo-o">κορυφᾷ  Διὸς εἰ κρανθῇ , πρᾶγμα τέλειον.</l>
@@ -345,7 +342,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="5" type="strophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="x---x-">ἰάπτει δ’ ἐλπίδων</l>
             <l real="x-x--x--">ἀφ’ ὑψιπύργων πανώλεις</l>
@@ -359,7 +356,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="5" type="antistrophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="x---xx">ἰδέσθω δ’ εἰς ὕβριν</l>
             <l n="105" real="o-o-xo--">βρότειον, οἵα  νεάζει</l>
@@ -373,7 +370,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="6" type="strophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="--xxoxooxoooxo-">τοιαῦτα πάθεα μέλεα θρεομένα λέγω</l>
             <l real="xoxxoxxxoo-">λιγέα βαρέα δακρυοπετῆ,</l>
@@ -384,7 +381,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="1" type="ephymnion">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="xo--oxx--x">ἱλεοῦμαι μὲν Ἀπίαν βοῦνιν,</l>
             <l real="--x-x">καρβᾶνα δ’ αὐδὰν</l>
@@ -396,7 +393,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="6" type="antistrophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="o-oxoxooxooo-x-">θεοῖς δ’ ἐναγέα τέλεα πελομένων καλῶς</l>
             <l real="oxoooxxxox-">ἐπίδρομ’, ὁπόθι θάνατος ἀπῇ.</l>
@@ -407,7 +404,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="1" type="ephymnion">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="xo--oxx--x">ἱλεοῦμαι μὲν Ἀπίαν βοῦνιν,</l>
             <l real="--x-x">καρβᾶνα δ’ αὐδὰν</l>
@@ -419,7 +416,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="7" type="strophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="xxo-x-x-o">πλάτα μὲν οὖν  λινορραφής τε</l>
             <l n="135" real="oox-o-oo">δόμος ἅλα στέγων δορὸς</l>
@@ -432,7 +429,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="2" type="ephymnion">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="-x--oxxo">σπέρμα  σεμνᾶς μέγα ματρὸς</l>
             <l real="-x--oo">εὐνὰς ἀνδρῶν, ἒ ἔ,</l>
@@ -441,7 +438,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="7" type="antistrophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="o-x-o-xxx">θέλουσα δ’   αὖ  θέλουσαν ἁγνά  μ’</l>
             <l n="145" real="oxo-x-ox">ἐπιδέτω Διὸς κόρα,</l>
@@ -454,7 +451,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="2" type="ephymnion">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="-x--oxxo">σπέρμα σεμνᾶς μέγα ματρὸς</l>
             <l real="-x--oo">εὐνὰς ἀνδρῶν, ἒ ἔ,</l>
@@ -463,7 +460,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="8" type="strophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="-o-o-o">εἰ δὲ μή, μελανθὲς</l>
             <l real="-x-x-oo">ἡλιόκτυπον γένος</l>
@@ -477,7 +474,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="3" type="ephymnion">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="--x-x-">ἆ Ζήν, Ἰοῦς ἰῷ</l>
             <l real="-----o-">μῆνις μάστειρ’ ἐκ θεῶν·</l>
@@ -489,7 +486,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="8" type="antistrophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="-o-x--">καὶ τότ’  οὐ δικαίοις</l>
             <l real="-o-o-o-">Ζεὺς ἐνέξεται λόγοις,</l>
@@ -503,7 +500,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="3" type="ephymnion">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l n="162a" real="--x-x-">&lt;ἆ Ζήν, Ἰοῦς ἰῶ ,</l>
             <l n="163a" real="-----o-">μῆνις μάστειρ’ ἐκ θεῶν·</l>
@@ -550,7 +547,7 @@ convert to P3
           <l real="--o---o-o-xx">μέμνησο δ’ εἴκειν· χρεῖος εἶ ξένη φυγάς.</l>
           <l real="x-o-x-o---ox">θρασυστομεῖν γὰρ οὐ πρέπει τοὺς ἥσσονας.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="x-o---o-x-o-">πάτερ, φρονούντως πρὸς φρονοῦντας ἐννέπεις.</l>
           <l n="205" real="x-o-o-o---oo">φυλάξομαι δὲ τάσδε μεμνῆσθαι σέθεν</l>
@@ -561,7 +558,7 @@ convert to P3
           <speaker>Δαναός</speaker>
           <l real="x-o-x-o-x-xo">ἴδοιτο δῆτα πρευμενοῦς ἀπ’ ὄμματος·</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="o-x---o-o-o-">θέλοιμ’ ἂν ἤδη σοὶ πέλας θρόνους ἔχειν.</l>
         </sp>
@@ -569,7 +566,7 @@ convert to P3
           <speaker>Δαναός</speaker>
           <l real="--o-o-x---xo">μή νυν σχόλαζε, μηχανῆς δ’ ἔστω κράτος.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l n="210" real="--o--xo-xo-ox">ὦ Ζεῦ, κόπων οἴκτιρε μὴ ἀπολωλότας.</l>
         </sp>
@@ -577,7 +574,7 @@ convert to P3
           <speaker>Δαναός</speaker>
           <l real="--o-o-o---xo">κείνου θέλοντος εὖ τελευτήσει τάδε.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l>
             <gap desc="*"/>
@@ -587,7 +584,7 @@ convert to P3
           <speaker>Δαναός</speaker>
           <l real="--o---o-x-oo">καὶ Ζηνὸς ὄρνιν τόνδε νῦν κικλῄσκετε.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="x-o-x-x---x-">καλοῦμεν αὐγὰς ἡλίου σωτηρίους,—</l>
         </sp>
@@ -595,7 +592,7 @@ convert to P3
           <speaker>Δαναός</speaker>
           <l real="x-x--xxx-x-oo">ἁγνόν τ’ Ἀπόλλω, φυγάδ’ ἀπ’ οὐρανοῦ θεόν.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l n="215" real="--x---o---o-">εἰδὼς ἂν αἶσαν τήνδε συγγνοίη βροτοῖς.</l>
         </sp>
@@ -603,7 +600,7 @@ convert to P3
           <speaker>Δαναός</speaker>
           <l real="--o-x-x---x-">συγγνοῖτο δῆτα καὶ παρασταίη πρόφρων.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="x-x---o-o-ox">τίν’ οὖν κικλῄσκω τῶνδε δαιμόνων ἔτι;</l>
         </sp>
@@ -611,7 +608,7 @@ convert to P3
           <speaker>Δαναός</speaker>
           <l real="o-x---o---o-">ὁρῶ τρίαιναν τήνδε σημεῖον θεοῦ.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="--o-o-o---ox">ἀλλ’ εὖ τ’ ἔπεμψεν εὖ τε δεξάσθω χθονί.</l>
         </sp>
@@ -619,7 +616,7 @@ convert to P3
           <speaker>Δαναός</speaker>
           <l n="220" real="--o---x---o-">Ἑρμῆς ὅδ’ ἄλλος τοῖσιν Ἑλλήνων νόμοις.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="o-o-x-x-x-o-">ἐλευθέροις νυν ἐσθλὰ κηρυκευέτω.</l>
         </sp>
@@ -654,7 +651,7 @@ convert to P3
           <l real="--x-o-x-x-o-">καὶ τἄλλα πόλλ’ ἔτ’ εἰκάσαι δίκαιον ἦν,</l>
           <l n="245" real="--x---o-o-x-">εἰ μὴ παρόντι φθόγγος ἦν ὁ σημανῶν.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="--x-x-o---oo">εἴρηκας ἀμφὶ κόσμον ἀψευδῆ λόγον.</l>
           <l real="o-x-oooo-o-o-">ἐγὼ δὲ πρὸς σὲ πότερον ὡς ἔτην λέγω,</l>
@@ -695,7 +692,7 @@ convert to P3
           <l real="x-o---x---ox">μακράν γε μὲν δὴ ῥῆσιν οὐ στέργει πόλις.</l>
           <milestone ed="p" n="274" unit="card"/>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="x-o-o-o---oo">βραχὺς τορός θ’ ὁ μῦθος· Ἀργεῖαι γένος</l>
           <l n="275" real="--o---x-x-oo">ἐξευχόμεσθα, σπέρματ’ εὐτέκνου βοός·</l>
@@ -719,7 +716,7 @@ convert to P3
           <l n="290" real="o-ox--x---oo">ὅπως γένεθλον σπέρμα τ’ Ἀργεῖον τὸ σόν.</l>
           <milestone ed="p" n="291" unit="card"/>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="--o--xx-x-oo">κλῃδοῦχον Ἥρας φασὶ δωμάτων ποτὲ</l>
           <l real="x-o---o---ox">Ἰὼ γενέσθαι τῇ δ’ ἐν Ἀργείᾳ χθονί;</l>
@@ -728,7 +725,7 @@ convert to P3
           <speaker>Βασιλεύς</speaker>
           <l real="--x-x-x---x-">ἦν ὡς μάλιστα, καὶ φάτις πολλὴ κρατεῖ.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l n="295" real="--o---x---o-">μὴ καὶ λόγος τις Ζῆνα μειχθῆναι βροτῷ;</l>
         </sp>
@@ -736,7 +733,7 @@ convert to P3
           <speaker>Βασιλεύς</speaker>
           <l real="x-x---x-xxxx">κἄκρυπτά γ’ Ἥρας ταῦτα τἀμπαλάγματα.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="--o--xxo---xo">πῶς οὖν τελευτᾷ βασιλέων νείκη τάδε;</l>
         </sp>
@@ -744,7 +741,7 @@ convert to P3
           <speaker>Βασιλεύς</speaker>
           <l real="--x-o-o--xoo">βοῦν τὴν γυναῖκ’ ἔθηκεν Ἀργεία θεός.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l n="300" real="--o---o---ox">οὔκουν πελάζει Ζεὺς ἐπ’  εὐκραίρῳ βοΐ;</l>
         </sp>
@@ -752,7 +749,7 @@ convert to P3
           <speaker>Βασιλεύς</speaker>
           <l real="x-o-x-o---ox">φασίν, πρέποντα βουθόρῳ ταύρῳ δέμας.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="x-x--xoo-xxxo">τί δῆτα πρὸς ταῦτ’ ἄλοχος ἰσχυρὰ Διός;</l>
         </sp>
@@ -760,7 +757,7 @@ convert to P3
           <speaker>Βασιλεύς</speaker>
           <l real="--o-xxxo---ox">τὸν πάνθ’ ὁρῶντα φύλακ’ ἐπέστησεν βοΐ.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="--x---o-o-o-">ποῖον πανόπτην οἰοβουκόλον λέγεις;</l>
         </sp>
@@ -768,7 +765,7 @@ convert to P3
           <speaker>Βασιλεύς</speaker>
           <l n="305" real="--o---x-x-xo">Ἄργον, τὸν Ἑρμῆς παῖδα γῆς κατέκτανεν.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="x-o-o-o-x-ox">τί οὖν ἔτευξεν ἄλλο δυσπότμῳ βοΐ;</l>
         </sp>
@@ -776,7 +773,7 @@ convert to P3
           <speaker>Βασιλεύς</speaker>
           <l real="o-x-x-xx--xo">βοηλάτην μύωπα κινητήριον.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="--x-x-o---ox">οἶστρον καλοῦσιν αὐτὸν οἱ Νείλου πέλας.</l>
         </sp>
@@ -784,7 +781,7 @@ convert to P3
           <speaker>Βασιλεύς</speaker>
           <l real="--x---x-x-o-">τοιγάρ νιν ἐκ γῆς ἤλασεν μακρῷ  δρόμῳ.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l n="310" real="--o---x---o-">καὶ ταῦτ’ ἔλεξας πάντα συγκόλλως ἐμοί.</l>
         </sp>
@@ -792,7 +789,7 @@ convert to P3
           <speaker>Βασιλεύς</speaker>
           <l real="--x--xx-xxoo">καὶ μὴν Κάνωβον κἀπὶ Μέμφιν ἵκετο.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="--o---xxx-oo">καὶ Ζεύς γ’ ἐφάπτωρ χειρὶ φιτύει γόνον.</l>
         </sp>
@@ -800,7 +797,7 @@ convert to P3
           <speaker>Βασιλεύς</speaker>
           <l real="x-o---x-o-oo">τίς οὖν ὁ Δῖος πόρτις εὔχεται βοός;</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l n="315" real="oxox--xx-o-xo">Ἔπαφος ἀληθῶς ῥυσίων ἐπώνυμος.</l>
         </sp>
@@ -810,7 +807,7 @@ convert to P3
             <gap desc="*"/>
           </l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="xx-o---o---o-">Λιβύη, μέγιστον γῆς &lt;πέδον&gt; καρπουμένη.</l>
         </sp>
@@ -820,7 +817,7 @@ convert to P3
             <gap desc="*"/>
           </l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l>
             <gap desc="*"/>
@@ -830,7 +827,7 @@ convert to P3
           <speaker>Βασιλεύς</speaker>
           <l real="x-o---x---o-">τίν’ οὖν ἔτ’ ἄλλον τῆσδε βλαστημὸν λέγεις;</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="--x-xxox-o-xo">Βῆλον δίπαιδα πατέρα τοῦδ’ ἐμοῦ πατρός.</l>
         </sp>
@@ -838,7 +835,7 @@ convert to P3
           <speaker>Βασιλεύς</speaker>
           <l n="320" real="o-o--oox-o-xo">τὸ πάνσοφον νῦν ὄνομα τοῦτό μοι φράσον.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="xxox---x---x-">Δαναός, ἀδελφὸς δ’ ἐστὶ πεντηκοντάπαις.</l>
         </sp>
@@ -847,7 +844,7 @@ convert to P3
           <l real="--x-o-o-o-o-">καὶ τοῦδ’ ἄνοιγε τοὔνομ’ ἀφθόνῳ λόγῳ.</l>
           <milestone ed="p" n="323" unit="card"/>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="--o--xo---oo">Αἴγυπτος.  εἰδὼς δ’ ἁμὸν ἀρχαῖον γένος</l>
           <l real="--x---o---oo">πράσσοις ἂν ὡς Ἀργεῖον ἀνστήσῃς στόλον.</l>
@@ -858,7 +855,7 @@ convert to P3
           <l real="--o-x-x-x-xx">τἀρχαῖον.  ἀλλὰ πῶς πατρῷα δώματα</l>
           <l real="x-x-o-x---x-">λιπεῖν ἔτλητε; τίς κατέσκηψεν τύχη;</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="x-o---o---xx">ἄναξ Πελασγῶν, αἰόλ’ ἀνθρώπων κακά.</l>
           <l real="o-x-x-x---oo">πόνου δ’ ἴδοις ἂν οὐδαμοῦ ταὐτὸν πτερόν·</l>
@@ -871,7 +868,7 @@ convert to P3
           <l real="x-x---x-x-o-">τί φὴς ἱκνεῖσθαι τῶνδ’ ἀγωνίων θεῶν,</l>
           <l real="--o-o-xox--x-">λευκοστεφεῖς ἔχουσα νεοδρέπτους κλάδους;</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l n="335" real="--o---x---o-">ὡς μὴ γένωμαι δμωὶς Αἰγύπτου γένει.</l>
         </sp>
@@ -879,7 +876,7 @@ convert to P3
           <speaker>Βασιλεύς</speaker>
           <l real="ooxx-x-o-o-o-">πότερα κατ’ ἔχθραν, ἢ τὸ μὴ θέμις λέγεις;</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="--x---o---o-">τίς δ’ ἂν φίλους ὠνοῖτο τοὺς κεκτημένους;</l>
         </sp>
@@ -887,7 +884,7 @@ convert to P3
           <speaker>Βασιλεύς</speaker>
           <l real="o-o---o-o-o-">σθένος μὲν οὕτως μεῖζον αὔξεται βροτοῖς.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="--x---x-x-x-">καὶ δυστυχούντων γ’ εὐμαρὴς ἀπαλλαγή.</l>
         </sp>
@@ -895,7 +892,7 @@ convert to P3
           <speaker>Βασιλεύς</speaker>
           <l n="340" real="--ox--o-o-o-">πῶς οὖν πρὸς ὑμᾶς εὐσεβὴς ἐγὼ πέλω;</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="--x---x---xx">αἰτοῦσι μὴ ’κδοὺς παισὶν Αἰγύπτου πάλιν.</l>
         </sp>
@@ -903,7 +900,7 @@ convert to P3
           <speaker>Βασιλεύς</speaker>
           <l real="xoxx--ooox--oo">βαρέα σύ γ’ εἶπας, πόλεμον ἄρασθαι νέον.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="--x---x-x-x-">ἀλλ’ ἡ δίκη γε ξυμμάχων ὑπερστατεῖ.</l>
         </sp>
@@ -911,7 +908,7 @@ convert to P3
           <speaker>βασιλεύς</speaker>
           <l real="--x--xx---o-">εἴπερ γ’ ἀπ’ ἀρχῆς πραγμάτων κοινωνὸς ἦν.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l n="345" real="--x--ooo---o-">αἰδοῦ σὺ πρύμναν πόλεος ὧδ’ ἐστεμμένην.</l>
         </sp>
@@ -919,7 +916,7 @@ convert to P3
           <speaker>Βασιλεύς</speaker>
           <l real="xxx---x-x-x-">πέφρικα λεύσσων τάσδ’ ἕδρας κατασκίους.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="x-o---oxox-oo">βαρύς γε μέντοι Ζηνὸς ἱκεσίου κότος.</l>
           <milestone ed="p" n="348" unit="card"/>
@@ -927,7 +924,7 @@ convert to P3
       </div1>
       <div1 type="choral">
         <div2 n="1" type="strophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="x-o-o--x-">Παλαίχθονος τέκος, κλῦθί μου</l>
             <l real="xox-x-o--x-">πρόφρονι καρδίᾳ,   Πελασγῶν ἄναξ.</l>
@@ -948,7 +945,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="1" type="antistrophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="x-o-xx-xx">ἴδοιτο δῆτ’ ἄνατον φυγὰν</l>
             <l n="360" real="xoxxo-x-xx-">ἱκεσία Θέμις Διὸς κλαρίου.</l>
@@ -969,7 +966,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="2" type="strophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l n="370" real="x-o-xooxxo">σύ τοι πόλις, σὺ δὲ τὸ δάμιον.</l>
             <l real="xxxxxo-">πρύτανις ἄκριτος ὤν,</l>
@@ -990,7 +987,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="2" type="antistrophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="o-o-ooo-o-">τὸν ὑψόθεν σκοπὸν ἐπισκόπει,</l>
             <l real="xxxoxo-">φύλακα πολυπόνων</l>
@@ -1011,7 +1008,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="3" type="strophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="-xo-o-xxo-xo">μή τί ποτ’ οὖν γενοίμαν ὑποχείριος</l>
             <l real="xox-o-x--o-">κράτεσιν ἀρσένων.  ὕπαστρον δέ τοι</l>
@@ -1031,7 +1028,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="3" type="antistrophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="-oo-o--xo-o-">ἀμφοτέρους ὁμαίμων τάδ’ ἐπισκοπεῖ</l>
             <l real="-oo-o-o--o-">Ζεὺς ἑτερορρεπής, νέμων εἰκότως</l>
@@ -1057,7 +1054,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="4" type="strophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="-x--o-">φρόντισον καὶ γενοῦ</l>
             <l real="-x--o-">πανδίκως εὐσεβὴς</l>
@@ -1068,7 +1065,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="4" type="antistrophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="-x--x-">μηδ’ ἴδῃς μ’ ἐξ ἑδρᾶν</l>
             <l real="oxo-xxx">πολυθέων ῥυσια‐</l>
@@ -1079,7 +1076,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="5" type="strophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="-x-xxox-x-">μή τι τλῇς τὰν ἱκέτιν εἰσιδεῖν</l>
             <l real="xxoo-x-">ἀπὸ βρετέων βίᾳ</l>
@@ -1090,7 +1087,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="5" type="antistrophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="-x--xxo-o-">ἴσθι γάρ· παισὶ τάδε καὶ δόμοις,</l>
             <l real="ooo-x-">ὁπότερ’ ἂν κτίσῃς,</l>
@@ -1122,7 +1119,7 @@ convert to P3
           <l real="o-xx--o-o-x-">θέλω δ’ ἄιδρις μᾶλλον ἢ σοφὸς κακῶν</l>
           <l real="--o-o-xx--o-">εἶναι. γένοιτο δ’ εὖ παρὰ γνώμην ἐμήν.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l n="455" real="--x---x---o-">πολλῶν ἄκουσον τέρματ’ αἰδοίων λόγων.</l>
         </sp>
@@ -1130,7 +1127,7 @@ convert to P3
           <speaker>Βασιλεύς</speaker>
           <l real="--x-o-x-o-o-">ἤκουσα, καὶ λέγοις ἄν. οὔ με φεύξεται.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="o-o---o-x-x-">ἔχω στρόφους ζώνας τε, συλλαβὰς πέπλων</l>
         </sp>
@@ -1138,7 +1135,7 @@ convert to P3
           <speaker>Βασιλεύς</speaker>
           <l real="x-x-x-x-o-o-">τάχ’ ἂν γυναιξὶ ταῦτα συμπρεπῆ πέλοι.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="--o-x-x-x-x-">ἐκ τῶνδε τοίνυν, ἴσθι, μηχανὴ καλή—</l>
         </sp>
@@ -1146,7 +1143,7 @@ convert to P3
           <speaker>Βασιλεύς</speaker>
           <l n="460" real="--x---o-x-o-">λέξον τίν’ αὐδὴν τήνδε γηρυθεῖσ’ ἔσῃ.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="--x---x---o-">εἰ μή τι πιστὸν τῷδ’ ὑποστήσεις στόλῳ—</l>
         </sp>
@@ -1154,7 +1151,7 @@ convert to P3
           <speaker>Βασιλεύς</speaker>
           <l real="x-o---x---x-">τί σοι περαίνει μηχανὴ συζωμάτων;</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="o-x-xoox---xo">νέοις πίναξι βρέτεα κοσμῆσαι τάδε.</l>
         </sp>
@@ -1162,7 +1159,7 @@ convert to P3
           <speaker>Βασιλεύς</speaker>
           <l real="-xx---o-x-xo">αἰνιγματῶδες τοὔπος· ἀλλ’ ἁπλῶς φράσον.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l n="465" real="--o-x-x---o-">ἐκ τῶνδ’ ὅπως τάχιστ’ ἀπάγξασθαι θεῶν.</l>
         </sp>
@@ -1170,7 +1167,7 @@ convert to P3
           <speaker>Βασιλεύς</speaker>
           <l real="--x---x-x-oo">ἤκουσα μαστικτῆρα καρδίας λόγον.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="x-x-x-x-x-oo">ξυνῆκας· ὠμμάτωσα γὰρ σαφέστερον.</l>
         </sp>
@@ -1223,7 +1220,7 @@ convert to P3
           <l real="--o-x-o-o-o-">καὶ ξυμβολοῦσιν οὐ πολυστομεῖν χρεὼν</l>
           <l real="--x---o-x-o-">ναύτην ἄγοντας τόνδ’ ἐφέστιον θεῶν.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="--o---oxo-x-">τούτῳ μὲν εἶπας, καὶ τεταγμένος κίοι·</l>
           <l n="505" real="o-o---x-o-o-">ἐγὼ δὲ πῶς δρῶ; ποῦ θράσος νέμεις ἐμοί;</l>
@@ -1232,7 +1229,7 @@ convert to P3
           <speaker>Βασιλεύς</speaker>
           <l real="x-o---o---o-">κλάδους μὲν αὐτοῦ λεῖπε, σημεῖον πόνου.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="--o---x-o-oo">καὶ δή σφε λείπω χειρὶ καὶ λόγοις σέθεν.</l>
         </sp>
@@ -1240,7 +1237,7 @@ convert to P3
           <speaker>Βασιλεύς</speaker>
           <l real="--x---o-o-oo">λευρὸν κατ’ ἄλσος νῦν ἐπιστρέφου τόδε.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="--o-o-o-x-oo">καὶ πῶς βέβηλον ἄλσος ἂν ῥύοιτό με;</l>
         </sp>
@@ -1248,7 +1245,7 @@ convert to P3
           <speaker>Βασιλεύς</speaker>
           <l n="510" real="--o---x---oo">οὔτοι πτερωτῶν ἁρπαγαῖς &lt;σ’&gt; ἐκδώσομεν.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="--x---o--xox">ἀλλ’ εἰ δρακόντων δυσφρόνων ἐχθίοσιν;</l>
         </sp>
@@ -1256,7 +1253,7 @@ convert to P3
           <speaker>Βασιλεύς</speaker>
           <l real="--o---o---o-">εὔφημον εἴη τοὔπος εὐφημουμένῃ.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="--x-x-o-o-oo">οὔτοι τι θαῦμα δυσφορεῖν φόβῳ φρενός.</l>
         </sp>
@@ -1264,7 +1261,7 @@ convert to P3
           <speaker>Βασιλεύς</speaker>
           <l real="x-x-o-x---xo">ἀεί γ’ ἄναρκτόν ἐστι δεῖμ’ ἐξαίσιον.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l n="515" real="x-o---o---ox">σὺ καὶ λέγων εὔφραινε καὶ πράσσων φρένα.</l>
         </sp>
@@ -1283,7 +1280,7 @@ convert to P3
       </div1>
       <div1 type="choral">
         <div2 n="1" type="strophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="x-x--xx-">ἄναξ ἀνάκτων, μακάρων</l>
             <l n="525" real="x-xo-oo-">μακάρτατε καὶ τελέων</l>
@@ -1296,7 +1293,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="1" type="antistrophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="x-x--ox-">τὸ πρὸς γυναικῶν &lt;δ’&gt; ἐπιδὼν</l>
             <l real="x-xoxooo">παλαίφατον ἁμέτερον</l>
@@ -1309,7 +1306,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="2" type="strophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="x---x-o-x">παλαιὸν, δ’  εἰς ἴχνος μετέσταν</l>
             <l real="xoo-oo-o-x">ματέρος ἀνθονόμους ἐπωπάς,</l>
@@ -1324,7 +1321,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="2" type="antistrophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="x--xx-x-x">ἰάπτει δ’ Ἀσίδος δῑ  αἴας</l>
             <l real="-oo-xx-x--">μηλοβότου Φρυγίας διαμπάξ.</l>
@@ -1339,7 +1336,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="3" type="strophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="x---x-oxo-">ἱκνεῖται δὴ σινουμένα βέλει</l>
             <l real="-o-oo-o">βουκόλου πτερόεντος</l>
@@ -1354,7 +1351,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="3" type="antistrophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l n="565" real="o---o-x-o-">βροτοὶ δ’, οἳ γᾶς τότ’ ἦσαν ἔννομοι</l>
             <l real="---xxxo">χλωρῷ δείματι θυμὸν</l>
@@ -1369,7 +1366,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="4" type="strophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="x---o-x--">δῑ  αἰῶνος κρέων ἀπαύστου</l>
             <l n="575" real="-">Ζεὺς...</l>
@@ -1383,7 +1380,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="4" type="antistrophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="x---x-x-o">δῑ αἰῶνος μακροῦ πάνολβον·</l>
             <l real="---xo--">ἔνθεν πᾶσα βοᾷ χθών,</l>
@@ -1397,7 +1394,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="5" type="strophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l n="590" real="x-o--x-o-x">τίν’ ἂν θεῶν ἐνδικωτέροισιν</l>
             <l real="x-x-o-o--">κεκλοίμαν εὐλόγως ἐπ’ ἔργοις;</l>
@@ -1408,7 +1405,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="5" type="antistrophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l n="595" real="x---x-o--">ὑπ’ ἀρχᾶς δ’ οὔ τινος θοάζων</l>
             <l real="o---o-xx-">τὸ μεῖον κρεισσόνων κρατύνει.</l>
@@ -1425,7 +1422,7 @@ convert to P3
           <l n="600" real="--o-o-x---x-">θαρσεῖτε παῖδες. εὖ τὰ τῶν ἐγχωρίων·</l>
           <l real="--o---o---xx">δήμου δέδοκται παντελῆ ψηφίσματα.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="--x-x-x---o-">ὦ χαῖρε πρέσβυ, φίλτατ’ ἀγγέλλων ἐμοί</l>
           <l real="o-o---ox--oo">ἔνισπε δ’ ἡμῖν ποῖ κεκύρωται τέλος,</l>
@@ -1456,7 +1453,7 @@ convert to P3
           <milestone ed="p" n="625" unit="card"/>
         </sp>
         <div2 type="anapests">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l n="625" real="xo---oo---">ἄγε δή, λέξωμεν ἐπ’ Ἀργείοις</l>
             <l real="-xxxxxx--x">εὐχὰς ἀγαθάς, ἀγαθῶν ποινάς.</l>
@@ -1469,7 +1466,7 @@ convert to P3
       </div1>
       <div1 type="choral">
         <div2 n="1" type="strophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l n="630" real="-oo-o-">νῦν ὅτε καί, θεοὶ</l>
             <l real="xoo-x--">διογενεῖς, κλύοιτ’ εὐ‐</l>
@@ -1488,7 +1485,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="1" type="antistrophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="-oo-o-">οὐδὲ μετ’ ἀρσένων</l>
             <l real="-oo-xx-">ψῆφον ἔθεντ’ ἀτιμώ‐</l>
@@ -1507,7 +1504,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="2" type="strophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="-xx-x-">τοιγὰρ ὑποσκίων</l>
             <l real="-ox-ox">ἐκ στομάτων ποτά‐</l>
@@ -1524,7 +1521,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="2" type="antistrophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="-ox-xo">†καὶ γεραροῖσι πρε‐</l>
             <l real="xoo-oo">σβυτοδόκοι γεμόν‐</l>
@@ -1541,7 +1538,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="3" type="strophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="-ox-x-">μηδέ τις ἀνδροκμὴς</l>
             <l real="-oo-o-">λοιγὸς ἐπελθέτω</l>
@@ -1557,7 +1554,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="3" type="antistrophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="-oo-o-">καρποτελῆ  δέ τοι</l>
             <l real="-ox-o-">Ζεὺς ἐπικραινέτω</l>
@@ -1573,7 +1570,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="4" type="strophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="x--xo-xxx">φυλάσσοι τ’ ἀτρεμαῖα τιμὰς</l>
             <l real="oxx--o-xx-">τὸ δάμιον, τὸ πτόλιν κρατύνει,</l>
@@ -1585,7 +1582,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="4" type="antistrophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="o---o-xx-">θεοὺς δ’, οἳ γᾶν ἔχουσιν  ἀεὶ</l>
             <l n="705" real="x-o--x-x--">τίοιεν ἐγχωρίοις πατρῴαις</l>
@@ -1625,7 +1622,7 @@ convert to P3
           <l real="--o--xx-o-o-">θάρσει· χρόνῳ τοι κυρίῳ τ’ ἐν ἡμέρᾳ</l>
           <l real="o-x---o---x-">θεοὺς ἀτίζων τις βροτῶν δώσει δίκην.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="x-o---o---o-">πάτερ, φοβοῦμαι, νῆες ὡς ὠκύπτεροι</l>
           <l n="735" real="--x---o-o-o-">ἥκουσι· μῆκος δ’ οὐδὲν ἐν μέσῳ χρόνου.</l>
@@ -1643,7 +1640,7 @@ convert to P3
             <l real="o-o---o---xx">ἐπεὶ τελεία ψῆφος Ἀργείων, τέκνα,</l>
             <l n="740" real="--x--oxo-x-o-">θάρσει, μαχοῦνται περὶ σέθεν, σάφ’ οἶδ’ ἐγώ.</l>
           </sp>
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>[Χορός]</speaker>
             <l real="--o-x-o---oo">ἐξῶλές ἐστι μάργον Αἰγύπτου γένος</l>
             <l real="x-x---o-o-ox">μάχης τ’ ἄπληστον·  καὶ λέγω πρὸς εἰδότα.</l>
@@ -1660,7 +1657,7 @@ convert to P3
             <l real="--o---x-o-xx">πολλοὺς δέ γ’ εὑρήσουσιν ἐν μεσημβρίας</l>
             <l real="--xxo-x-x-o-">θάλπει βραχίον’ εὖ κατερρινημένους.</l>
           </sp>
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>[Χορός]</speaker>
             <l real="o-o-o-o-o-xo">μόνην δὲ μὴ πρόλειπε· λίσσομαι, πάτερ.</l>
             <l real="x-o---o-o-x-">γυνὴ μονωθεῖσ’ οὐδέν· οὐκ ἔνεστ’ Ἄρης.</l>
@@ -1677,7 +1674,7 @@ convert to P3
             <l real="x-x---o---xx">καλῶς ἂν ἡμῖν ξυμφέροι ταῦτ’ ὦ τέκνα,</l>
             <l real="--o-o-x---xo">εἰ σοί τε καὶ θεοῖσιν ἐχθαιροίατο.</l>
           </sp>
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>[Χορός]</speaker>
             <l n="755" real="--x---o-o-o-">οὐ μὴ τριαίνας τάσδε καὶ θεῶν σέβη</l>
             <l real="--o---x---xo">δείσαντες ἡμῶν χεῖρ’ ἀπόσχωνται, πάτερ.</l>
@@ -1697,7 +1694,7 @@ convert to P3
           <l n="760" real="--x---x---x-">ἀλλ’ ἔστι φήμη τοὺς λύκους κρείσσους κυνῶν</l>
           <l real="--x-o-o-x-xx">εἶναι· βύβλου δὲ καρπὸς οὐ κρατεῖ στάχυν.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>[Χορός]</speaker>
           <l real="--x--xox-x-x-">ὡς καὶ ματαίων ἀνοσίων τε κνωδάλων</l>
           <l real="o-x---x---xo">ἔχοντας ὀργάς, χρὴ φυλάσσεσθαι τάχος.</l>
@@ -1724,7 +1721,7 @@ convert to P3
       </div1>
       <div1 type="choral">
         <div2 n="1" type="strophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="x---x-x-ox">ἰὼ γᾶ βοῦνι, πάνδικον σέβας,</l>
             <l real="x-o-x-x-oxxx">τί πεισόμεσθα; ποῖ φύγωμεν Ἀπίας</l>
@@ -1738,7 +1735,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="1" type="antistrophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="x---o-o-xo">ἄφυκτον δ’ οὐκέτ’ ἂν πέλοι κακόν·</l>
             <l n="785" real="o-x-o-o---xx">κελαινόχρως δὲ πάλλεταί μου καρδία.</l>
@@ -1752,7 +1749,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="2" type="strophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="o-o-o-x-o-oo">πόθεν δέ μοι γένοιτ’ ἂν αἰθέρος θρόνος,</l>
             <l real="o-o-x-xxo-x-">πρὸς ὃν νέφη μυδηλὰ γίγνεται χιών,</l>
@@ -1766,7 +1763,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="2" type="antistrophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l n="800" real="x-o-o-xxx-x-">κυσὶν δ’ ἔπειθ’ ἕλωρα κἀπιχωρίοις</l>
             <l real="-xx-o-x-o-o-">ὄρνισι δεῖπνον οὐκ ἀναίνομαι πέλειν·</l>
@@ -1780,7 +1777,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="3" type="strophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="x-o-x-xxx">ἴυζε δ’ ὀμφὰν οὐρανίαν</l>
             <l real="ooxo-xxxo-">&lt;μέλεα&gt; μέλη λιτανὰ θεοῖς·</l>
@@ -1794,7 +1791,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="3" type="antistrophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="o-x---oxx">γένος γὰρ Αἰγύπτειον ὕβριν</l>
             <l real="-oo-oooo">δύσφορον ἀρσενογενὲς</l>
@@ -1810,7 +1807,7 @@ convert to P3
       </div1>
       <div1 type="episode">
         <div2 type="lyric">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
 <!-- The cries were marked "noparse," as were the obelized words. -->
             <l n="825" real="oooxxx">ό ό ό, ά ά ά·</l>
@@ -1841,7 +1838,7 @@ convert to P3
       </div1>
       <div1 type="choral">
         <div2 n="1" type="strophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>&lt;Χορός &gt;</speaker>
             <l real="-xxoxxo">εἴθ’  ἀνὰ  πολύρυτον</l>
             <l real="---xoo">ἁλμήεντα πόρον</l>
@@ -1862,7 +1859,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="1" type="antistrophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>&lt;Χορός &gt;</speaker>
             <l real="-ooxxx-">μήποτε πάλιν ἴδοιμ’</l>
             <l n="855" real="-ox-ox-">ἀλφεσίβοιον ὕδωρ,</l>
@@ -1883,7 +1880,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="2" type="strophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>&lt;Χορός&gt;</speaker>
             <l real="----">αἰαῖ αἰαῖ.</l>
             <l real="---xx-o-o">αἲ γὰρ δυσπαλάμως ὄλοιο</l>
@@ -1903,7 +1900,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="2" type="antistrophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>&lt;Χορός&gt;</speaker>
             <l real="----">οἰοῖ οἰοῖ,</l>
             <l real="xx-xo-x--">λύμας, ᾇ σὺ πρὸ γᾶς ὑλάσκων</l>
@@ -1922,7 +1919,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="3" type="strophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l n="885" real="--x-oooxo">οἰοῖ, πάτερ, βρέτεος ἄρος</l>
             <l real="x-xxx-">ἀτᾷ μ’·· ἅλαδ’ ἄγει</l>
@@ -1942,7 +1939,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="3" type="antistrophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l n="895" real="--o-x-ox">μαιμᾷ πέλας  δίπους ὄφις·</l>
             <l>
@@ -1964,7 +1961,7 @@ convert to P3
           <l real="--x---x-o-xo">εἰ μή τις ἐς ναῦν εἶσιν αἰνέσας τάδε,</l>
           <l real="x-x-o-o-x-x-">λακὶς χιτῶνος ἔργον οὐ κατοικτιεῖ.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>Χορός</speaker>
           <l real="x-o-x-x--oo">διωλόμεσθ’· ἄσεπτ’, ἄναξ, πάσχομεν—</l>
         </sp>
@@ -1973,7 +1970,7 @@ convert to P3
           <l n="905" real="--x---x---xx">πολλοὺς ἄνακτας, παῖδας Αἰγύπτου τάχα</l>
           <l real="--o---o-x-xx">ὄψεσθε· θαρσεῖτ’, οὐκ ἐρεῖτ’ ἀναρχίαν.</l>
         </sp>
-        <sp who="#choros">
+        <sp who="#choros_danaidon">
           <speaker>&lt;Χορός&gt;</speaker>
           <l real="x-o-x-o--x-">ἰὼ πόλεως ἀγοὶ πρόμοι, δάμναμαι.</l>
         </sp>
@@ -2097,7 +2094,7 @@ convert to P3
           <milestone ed="p" n="966" unit="card"/>
         </sp>
         <div2 type="anapests">
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="--xx-xx-xx-">ἀλλ’ ἀντ’ ἀγαθῶν ἀγαθοῖσι βρύοις,</l>
             <l real="-oo--">δῖε Πελασγῶν.</l>
@@ -2157,7 +2154,7 @@ convert to P3
             <l real="o-x---o-o-xo">μόνον φύλαξαι τάσδ’ ἐπιστολὰς πατρός,</l>
             <l real="o-o-x-x-x-oo">τὸ σωφρονεῖν τιμῶσα τοῦ βίου πλέον.</l>
           </sp>
-          <sp who="#choros">
+          <sp who="#choros_danaidon">
             <speaker>Χορός</speaker>
             <l real="--x---o-o-x-">τἄλλ’ εὐτυχοῖμεν πρὸς θεῶν Ὀλυμπίων.</l>
             <l n="1015" real="o-o-x-o---xo">ἐμῆς δ’ ὀπώρας οὕνεκ’ εὖ θάρσει, πάτερ.</l>
@@ -2267,7 +2264,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="4" type="strophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon #choros_therapainon">
             <speaker>&lt;Χορός&gt;</speaker>
             <l real="-x-x-o-">Ζεὺς ἄναξ ἀποστεροί‐</l>
             <l real="-x-xxox">η γάμον δυσάνορα</l>
@@ -2279,7 +2276,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="4" type="antistrophe">
-          <sp who="#choros">
+          <sp who="#choros_danaidon #choros_therapainon">
             <speaker>&lt;Χορός&gt;</speaker>
             <l real="-x-o-x-">καὶ κράτος νέμοι γυναι‐</l>
             <l real="-o-o-x-">ξίν· τὸ βέλτερον κακοῦ</l>

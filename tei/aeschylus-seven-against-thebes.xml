@@ -47,30 +47,30 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="eteokles" sex="MALE" ana="http://www.wikidata.org/entity/Q506550">
+          <person xml:id="eteokles" sex="MALE" role="rex" ana="http://www.wikidata.org/entity/Q506550">
             <persName>Ἐτεοκλής</persName>
           </person>
-          <person xml:id="angelos" sex="MALE">
+          <person xml:id="angelos" sex="MALE" role="nuntius">
             <persName>Ἄγγελος</persName>
             <persName type="variant">Ἄγγελος Κατάσκοπος</persName>
           </person>
-          <personGrp xml:id="choros" sex="FEMALE">
+          <personGrp xml:id="choros" sex="FEMALE" role="chorus">
             <name>Χορός</name>
             <name type="variant">Χορός Παρθένων</name>
           </personGrp>
-          <personGrp xml:id="hemichorion_a" sex="FEMALE">
+          <personGrp xml:id="hemichorion_a" sex="FEMALE" role="chorus">
             <name>Ἡμιχόριον Α</name>
           </personGrp>
-          <personGrp xml:id="hemichorion_b" sex="FEMALE">
+          <personGrp xml:id="hemichorion_b" sex="FEMALE" role="chorus">
             <name>Ἡμιχόριον Β</name>
           </personGrp>
-          <person xml:id="antigone" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131351">
+          <person xml:id="antigone" sex="FEMALE" role="soror" ana="http://www.wikidata.org/entity/Q131351">
             <persName>Ἀντιγόνη</persName>
           </person>
-          <person xml:id="ismene" sex="FEMALE" ana="http://www.wikidata.org/entity/Q753902">
+          <person xml:id="ismene" sex="FEMALE" role="soror" ana="http://www.wikidata.org/entity/Q753902">
             <persName>Ἰσμήνη</persName>
           </person>
-          <person xml:id="keryx" sex="MALE">
+          <person xml:id="keryx" sex="MALE" role="praeco">
             <persName>Κῆρυξ</persName>
           </person>
         </listPerson>

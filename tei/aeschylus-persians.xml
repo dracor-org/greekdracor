@@ -47,21 +47,21 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <personGrp xml:id="choros" sex="MALE">
+          <personGrp xml:id="choros" sex="MALE" role="chorus">
             <name>Χορός</name>
             <name type="variant">Χορός Γερόντων</name>
           </personGrp>
-          <person xml:id="atossa" sex="FEMALE" ana="http://www.wikidata.org/entity/Q233359">
+          <person xml:id="atossa" sex="FEMALE" role="uxor" ana="http://www.wikidata.org/entity/Q233359">
             <persName>Ἄτοσσα</persName>
           </person>
-          <person xml:id="angelos" sex="MALE">
+          <person xml:id="angelos" sex="MALE" role="nuntius">
             <persName>Ἄγγελος</persName>
           </person>
-          <person xml:id="eidolon_dareiou" sex="MALE" ana="http://www.wikidata.org/entity/Q44387">
+          <person xml:id="eidolon_dareiou" sex="MALE" role="rex" ana="http://www.wikidata.org/entity/Q44387">
             <persName>Εἴδωλον Δαρείου</persName>
             <persName type="variant">Δαρεῖος</persName>
           </person>
-          <person xml:id="xerxes" sex="MALE" ana="http://www.wikidata.org/entity/Q129165">
+          <person xml:id="xerxes" sex="MALE" role="rex" ana="http://www.wikidata.org/entity/Q129165">
             <persName>Ξέρξης</persName>
           </person>
         </listPerson>

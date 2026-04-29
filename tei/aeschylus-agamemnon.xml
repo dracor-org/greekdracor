@@ -47,22 +47,22 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="phylax" sex="MALE">
+          <person xml:id="phylax" sex="MALE" role="custos">
             <persName>Φύλαξ</persName>
           </person>
-          <person xml:id="klytaimestra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131157">
-            <persName>Κλυταιμήστρα</persName>
-          </person>
-          <personGrp xml:id="choros" sex="MALE">
+          <personGrp xml:id="choros" sex="MALE" role="chorus senex">
             <name>Χορός</name>
           </personGrp>
-          <person xml:id="keryx" sex="MALE">
+          <person xml:id="klytaimestra" sex="FEMALE" role="uxor" ana="http://www.wikidata.org/entity/Q131157">
+            <persName>Κλυταιμήστρα</persName>
+          </person>
+          <person xml:id="keryx" sex="MALE" role="praeco">
             <persName>Κῆρυξ</persName>
           </person>
-          <person xml:id="agamemnon" sex="MALE" ana="http://www.wikidata.org/entity/Q128176">
+          <person xml:id="agamemnon" sex="MALE" role="rex heros" ana="http://www.wikidata.org/entity/Q128176">
             <persName>Ἀγαμέμνων</persName>
           </person>
-          <person xml:id="kasandra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q170779">
+          <person xml:id="kasandra" sex="FEMALE" role="captiva virgo" ana="http://www.wikidata.org/entity/Q170779">
             <persName>Κασάνδρα</persName>
           </person>
           <person xml:id="aigisthos" sex="MALE" ana="http://www.wikidata.org/entity/Q212091">

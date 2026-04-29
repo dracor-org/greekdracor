@@ -47,28 +47,28 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="pythias" sex="FEMALE">
+          <person xml:id="pythias" sex="FEMALE" role="vates">
             <persName>Πυθιάς</persName>
             <persName type="variant">Πυθιάς Προφῆτις</persName>
           </person>
-          <person xml:id="apollon" sex="MALE" ana="http://www.wikidata.org/entity/Q37340">
+          <person xml:id="apollon" sex="MALE" role="deus" ana="http://www.wikidata.org/entity/Q37340">
             <persName>Ἀπόλλων</persName>
           </person>
-          <person xml:id="orestes" sex="MALE" ana="http://www.wikidata.org/entity/Q192407">
+          <person xml:id="orestes" sex="MALE" role="filius" ana="http://www.wikidata.org/entity/Q192407">
             <persName>Ὀρέστης</persName>
           </person>
-          <person xml:id="klytaimestras_eidolon" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131157">
+          <person xml:id="klytaimestras_eidolon" sex="FEMALE" role="uxor mater" ana="http://www.wikidata.org/entity/Q131157">
             <persName>Κλυταιμήστρας Εἴδωλον</persName>
             <persName type="variant">Κλυταιμήστρα</persName>
           </person>
-          <personGrp xml:id="choros" sex="FEMALE" ana="http://www.wikidata.org/entity/Q180262">
+          <personGrp xml:id="choros" sex="FEMALE" role="chorus dea" ana="http://www.wikidata.org/entity/Q180262">
             <name>Χορός</name>
             <name type="variant">Χορός Εὐμενίδων</name>
           </personGrp>
-          <person xml:id="athena" sex="FEMALE" ana="http://www.wikidata.org/entity/Q37122">
+          <person xml:id="athena" sex="FEMALE" role="dea" ana="http://www.wikidata.org/entity/Q37122">
             <persName>Ἀθηνᾶ</persName>
           </person>
-          <personGrp xml:id="propompoi" sex="FEMALE">
+          <personGrp xml:id="propompoi" sex="FEMALE" role="chorus">
             <name>Προπομποί</name>
           </personGrp>
         </listPerson>

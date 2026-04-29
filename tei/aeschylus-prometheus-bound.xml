@@ -56,11 +56,11 @@
           <person xml:id="prometheus" sex="MALE" role="deus" ana="http://www.wikidata.org/entity/Q83160">
             <persName>Προμηθεύς</persName>
           </person>
-          <personGrp xml:id="choros" sex="FEMALE" role="chorus" ana="http://www.wikidata.org/entity/Q20575671">
+          <personGrp xml:id="choros" sex="FEMALE" role="chorus dea filia" ana="http://www.wikidata.org/entity/Q20575671">
             <name>Χορός</name>
             <name type="variant">Χορός Ὠκεανίδων</name>
           </personGrp>
-          <person xml:id="okeanos" sex="MALE" role="deus" ana="http://www.wikidata.org/entity/Q161419">
+          <person xml:id="okeanos" sex="MALE" role="deus pater" ana="http://www.wikidata.org/entity/Q161419">
             <persName>Ὠκεανός</persName>
           </person>
           <person xml:id="io" sex="FEMALE" ana="http://www.wikidata.org/entity/Q179014">

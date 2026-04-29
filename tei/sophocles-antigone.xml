@@ -54,7 +54,7 @@
           <person xml:id="ismene" sex="FEMALE" role="soror" ana="http://www.wikidata.org/entity/Q753902">
             <persName>Ἰσμήνη</persName>
           </person>
-          <personGrp xml:id="choros" sex="MALE" role="chorus">
+          <personGrp xml:id="choros" sex="MALE" role="chorus senex">
             <name>Χορός</name>
           </personGrp>
           <person xml:id="kreon" sex="MALE" role="rex" ana="http://www.wikidata.org/entity/Q732066">
@@ -66,7 +66,7 @@
           <person xml:id="haimon" sex="MALE" role="filius" ana="http://www.wikidata.org/entity/Q733985">
             <persName>Αἵμων</persName>
           </person>
-          <person xml:id="teiresias" sex="MALE" role="vates" ana="http://www.wikidata.org/entity/Q656881">
+          <person xml:id="teiresias" sex="MALE" role="vates senex" ana="http://www.wikidata.org/entity/Q656881">
             <persName>Τειρεσίας</persName>
           </person>
           <person xml:id="angelos" sex="MALE" role="nuntius">

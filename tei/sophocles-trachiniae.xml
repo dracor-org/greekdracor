@@ -58,15 +58,15 @@
           <person xml:id="hyllos" sex="MALE" role="filius" ana="http://www.wikidata.org/entity/Q847268">
             <persName>Ὕλλος</persName>
           </person>
-          <personGrp xml:id="choros" sex="FEMALE" role="chorus">
+          <personGrp xml:id="choros" sex="FEMALE" role="chorus virgo">
             <name>Χορός</name>
             <name type="variant">Χορός Παρθενών Τραχινίων</name>
             <name type="variant">Ἡμιχόριον</name>
           </personGrp>
-          <personGrp xml:id="hemichorion-1" sex="FEMALE" role="semichorus" corresp="#choros">
+          <personGrp xml:id="hemichorion-1" sex="FEMALE" role="semichorus virgo" corresp="#choros">
             <name>Ἡμιχόριον 1</name>
           </personGrp>
-          <personGrp xml:id="hemichorion-2" sex="FEMALE" role="semichorus" corresp="#choros">
+          <personGrp xml:id="hemichorion-2" sex="FEMALE" role="semichorus virgo" corresp="#choros">
             <name>Ἡμιχόριον 2</name>
           </personGrp>
           <person xml:id="angelos" sex="MALE" role="nuntius">

@@ -58,10 +58,10 @@
             <name>Χορός</name>
             <name type="variant">Χορός Παρθένων</name>
           </personGrp>
-          <personGrp xml:id="hemichorion_a" sex="FEMALE" role="chorus">
+          <personGrp xml:id="hemichorion-a" sex="FEMALE" role="chorus" corresp="#choros">
             <name>Ἡμιχόριον Α</name>
           </personGrp>
-          <personGrp xml:id="hemichorion_b" sex="FEMALE" role="chorus">
+          <personGrp xml:id="hemichorion-b" sex="FEMALE" role="chorus" corresp="#choros">
             <name>Ἡμιχόριον Β</name>
           </personGrp>
           <person xml:id="antigone" sex="FEMALE" role="soror" ana="http://www.wikidata.org/entity/Q131351">
@@ -772,13 +772,13 @@ convert to P3
         </div2>
       </div1>
       <div1 type="episode">
-        <sp who="#hemichorion_a">
+        <sp who="#hemichorion-a">
           <speaker>Ἡμιχόριον Α</speaker>
           <l real="o-x---o-o-x-">ὅ τοι κατόπτης, ὡς ἐμοὶ δοκεῖ, στρατοῦ</l>
           <l n="370" real="--x---x-o-o-">πευθώ τιν’ ἡμῖν, ὦ φίλαι, νέαν φέρει,</l>
           <l real="--x---x-o-o-">σπουδῇ διώκων πομπίμους χνόας ποδῶν.</l>
         </sp>
-        <sp who="#hemichorion_b">
+        <sp who="#hemichorion-b">
           <speaker>Ἡμιχόριον Β</speaker>
           <l real="--x-o-o-x-oo">καὶ μὴν ἄναξ ὅδ’ αὐτὸς Οἰδίπου τόκος</l>
           <l real="--x-o-o-o-x-">εἰς  ἀρτίκολλον ἀγγέλου λόγον μαθεῖν·</l>
@@ -2047,7 +2047,7 @@ convert to P3
             <l n="1070" real="ox-oo--ox--">μονόκλαυτον ἔχων θρῆνον  ἀδελφῆς</l>
             <l real="--xx-xx-o">εἶσιν· τίς ἂν οὖν τὰ πίθοιτο ;</l>
           </sp>
-          <sp who="#hemichorion_a">
+          <sp who="#hemichorion-a">
             <speaker>Ἡμιχόριον Α</speaker>
             <l real="x-xo---x-">δράτω &lt;τι&gt;  πόλις καὶ μὴ δράτω</l>
             <l real="----ox--">τοὺς κλαίοντας Πολυνείκη.</l>
@@ -2056,7 +2056,7 @@ convert to P3
             <l real="--ox--ox--">κοινὸν τόδ’ ἄχος, καὶ πόλις ἄλλως</l>
             <l real="-oo--xx-x">ἄλλοτ’ ἐπαινεῖ τὰ δίκαια.</l>
           </sp>
-          <sp who="#hemichorion_b">
+          <sp who="#hemichorion-b">
             <speaker>Ἡμιχόριον Β</speaker>
             <l real="--xx---oox">ἡμεῖς δ’ ἅμα τῷδ’, ὥσπερ τε πόλις</l>
             <l real="-ox--xo--">καὶ τὸ δίκαιον ξυνεπαινεῖ.</l>

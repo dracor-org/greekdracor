@@ -57,7 +57,7 @@
           <person xml:id="orestes" sex="MALE" role="filius" ana="http://www.wikidata.org/entity/Q192407">
             <persName>Ὀρέστης</persName>
           </person>
-          <person xml:id="klytaimestras_eidolon" sex="FEMALE" role="uxor mater" ana="http://www.wikidata.org/entity/Q131157">
+          <person xml:id="klytaimestras-eidolon" sex="FEMALE" role="uxor mater" ana="http://www.wikidata.org/entity/Q131157">
             <persName>Κλυταιμήστρας Εἴδωλον</persName>
             <persName type="variant">Κλυταιμήστρα</persName>
           </person>
@@ -293,7 +293,7 @@ convert to P3
           <l real="--o-o-x---x-">ὁρμώμενον βροτοῖσιν εὐπόμπῳ τύχῃ.</l>
           <milestone ed="p" n="94" unit="card"/>
         </sp>
-        <sp who="#klytaimestras_eidolon">
+        <sp who="#klytaimestras-eidolon">
           <speaker>Κλυταιμήστρας Εἴδωλον</speaker>
           <l real="--x---x---x-">εὕδοιτ’ ἄν, ὠή, καὶ καθευδουσῶν τί δεῖ;</l>
           <l n="95" real="o-xx--x-x-o-">ἐγὼ δ’ ὑφ’ ὑμῶν ὧδ’ ἀπητιμασμένη</l>
@@ -326,7 +326,7 @@ convert to P3
           <speaker>Χορός</speaker>
           <l real="xo">(μυγμός.)</l>
         </sp>
-        <sp who="#klytaimestras_eidolon">
+        <sp who="#klytaimestras-eidolon">
           <speaker>Κλυταιμήστρας Εἴδωλον</speaker>
           <l real="--xx--o---o-">μύζοιτ’ ἄν, ἁνὴρ δ’ οἴχεται φεύγων πρόσω·</l>
           <l real="x-x-x-o-o-oo">φίλοι γάρ εἰσιν οὐκ ἐμοῖς προσεικότες.</l>
@@ -335,7 +335,7 @@ convert to P3
           <speaker>Χορός</speaker>
           <l n="120" real="xo">(μυγμός.)</l>
         </sp>
-        <sp who="#klytaimestras_eidolon">
+        <sp who="#klytaimestras-eidolon">
           <speaker>Κλυταιμήστρας Εἴδωλον</speaker>
           <l real="xxx---x---xo">ἄγαν ὑπνώσσεις κοὐ κατοικτίζεις πάθος·</l>
           <l real="o-o---o-o-o-">φονεὺς δ’ Ὀρέστης τῆσδε μητρὸς οἴχεται.</l>
@@ -344,7 +344,7 @@ convert to P3
           <speaker>Χορός</speaker>
           <l real="-o">(ὠγμός.)</l>
         </sp>
-        <sp who="#klytaimestras_eidolon">
+        <sp who="#klytaimestras-eidolon">
           <speaker>Κλυταιμήστρας Εἴδωλον</speaker>
           <l real="--x---x---xo">ᾤζεις, ὑπνώσσεις· οὐκ ἀναστήσῃ τάχος;</l>
           <l n="125" real="x-x---x---xx">τί σοι πέπρωται πρᾶγμα πλὴν τεύχειν κακά;</l>
@@ -353,7 +353,7 @@ convert to P3
           <speaker>Χορός</speaker>
           <l real="-o">(ὠγμός.)</l>
         </sp>
-        <sp who="#klytaimestras_eidolon">
+        <sp who="#klytaimestras-eidolon">
           <speaker>Κλυταιμήστρας Εἴδωλον</speaker>
           <l real="x-o-oxx-x-o-">ὕπνος πόνος τε κύριοι συνωμόται</l>
           <l real="--x---o-x-oo">δεινῆς δρακαίνης ἐξεκήραναν μένος.</l>
@@ -364,7 +364,7 @@ convert to P3
           <l n="130" real="xoxoxoxx--">λαβὲ λαβὲ λαβὲ λαβέ, φράζου.</l>
           <milestone ed="p" n="131" unit="card"/>
         </sp>
-        <sp who="#klytaimestras_eidolon">
+        <sp who="#klytaimestras-eidolon">
           <speaker>Κλυταιμήστρας Εἴδωλον</speaker>
           <l real="o-x---x---xo">ὄναρ διώκεις θῆρα, κλαγγαίνεις δ’ ἅπερ</l>
           <l real="x-o-x-ox--o-">κύων μέριμναν οὔποτ’ ἐκλείπων πόνου.</l>

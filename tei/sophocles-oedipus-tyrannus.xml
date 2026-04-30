@@ -79,6 +79,11 @@
           <person xml:id="exangelos" sex="MALE" role="nuntius">
             <persName>Ἐξάγγελος</persName>
           </person>
+        <listRelation type="personal">
+          <relation name="parent_of" active="#iokaste" passive="#oidipous"/>
+          <relation name="spouses" mutual="#oidipous #iokaste" />
+          <relation name="siblings" mutual="#iokaste #kreon"/>
+        </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

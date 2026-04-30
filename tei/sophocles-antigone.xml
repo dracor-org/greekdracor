@@ -78,6 +78,16 @@
           <person xml:id="exangelos" sex="MALE" role="nuntius">
             <persName>Ἐξάγγελος</persName>
           </person>
+          <listRelation>
+            <relation name="siblings" mutual="#antigone #ismene"/>
+            <relation name="spouses" mutual="#antigone #haimon"/>
+            <relation name="spouses" mutual="#kreon #eurydike"/>
+            <relation name="parent_of" active="#kreon #eurydike" passive="#haimon"/>
+            <relation name="related_with" active="#antigone #ismene" passive="#kreon"/>
+            <relation name="associated_with" active="#phylax" passive="#kreon"/>
+            <relation name="associated_with" active="#exangelos" passive="#kreon"/>
+            <relation name="associated_with" active="#angelos" passive="#kreon #eurydike"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

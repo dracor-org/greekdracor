@@ -63,12 +63,18 @@
           <person xml:id="chrysothemis" sex="FEMALE" role="filia" ana="http://www.wikidata.org/entity/Q1146076">
             <persName>Χρυσόθεμις</persName>
           </person>
-          <person xml:id="klytaimnestra" sex="FEMALE" role="uxor mater" ana="http://www.wikidata.org/entity/Q131157">
+          <person xml:id="klytaimnestra" sex="FEMALE" role="uxor mater regina" ana="http://www.wikidata.org/entity/Q131157">
             <persName>Κλυταιμνήστρα</persName>
           </person>
-          <person xml:id="aigisthos" sex="MALE" ana="http://www.wikidata.org/entity/Q212091">
+          <person xml:id="aigisthos" sex="MALE" role="rex" ana="http://www.wikidata.org/entity/Q212091">
             <persName>Αἴγισθος</persName>
           </person>
+          <listRelation>
+            <relation name="associated_with" active="#paidagogos" passive="#orestes"/>
+            <relation name="siblings" mutual="#orestes #elektra #chrysothemis"/>
+            <relation name="parent_of" active="#klytaimnestra" passive="#orestes #elektra #chrysothemis"/>
+            <relation name="lover_of" active="#aigisthos" passive="#klytaimnestra"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

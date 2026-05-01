@@ -81,6 +81,13 @@
           <person xml:id="herakles" sex="MALE" role="heros" ana="http://www.wikidata.org/entity/Q122248">
             <persName>Ἡρακλῆς</persName>
           </person>
+          <listRelation>
+            <relation name="associated_with" active="#therapaina" passive="#deianeira"/>
+            <relation name="spouses" mutual="#deianeira #herakles"/>
+            <relation name="parent_of" active="#deianeira #herakles" passive="#hyllos"/>
+            <relation name="associated_with" active="#angelos" passive="#herakles"/>
+            <relation name="associated_with" active="#lichas" passive="#herakles"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

@@ -79,7 +79,7 @@
           </person>
           <listRelation>
             <relation name="parent_of" active="#oidipous" passive="#antigone #ismene #polyneikes"/>
-            <relation name="siblings" mutual="#ismene #antigone #polyneikes"/>
+            <relation name="siblings" mutual="#antigone #ismene #polyneikes"/>
             <relation name="related_with" active="#antigone #ismene #polyneikes" passive="#kreon"/>
           </listRelation>
         </listPerson>

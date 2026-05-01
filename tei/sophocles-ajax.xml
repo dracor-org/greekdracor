@@ -82,6 +82,13 @@
           <person xml:id="agamemnon" sex="MALE" role="heros rex" ana="http://www.wikidata.org/entity/Q128176">
             <persName>Ἀγαμέμνων</persName>
           </person>
+          <listRelation>
+            <relation name="associated_with" active="#odysseus" passive="#athena"/>
+            <relation name="associated_with" active="#choros #hemichorion-1 #hemichorion-2" passive="#aias"/>
+            <relation name="spouses" mutual="#aias #tekmessa"/>
+            <relation name="siblings" mutual="#teukros #aias"/>
+            <relation name="associated_with" active="#angelos" passive="#teukros"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

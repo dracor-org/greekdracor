@@ -49,17 +49,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <personGrp xml:id="choros-satyron" sex="MALE" role="chorus satyrus" ana="https://www.wikidata.org/wiki/Q163709">
+          <personGrp xml:id="choros-satyron" sex="MALE" role="chorus satyrus filius" ana="https://www.wikidata.org/wiki/Q163709">
             <name>Χορὸς Σατύρων</name>
             <name type="variant">Χορός</name>
           </personGrp>
-          <personGrp xml:id="hemichoros-a" sex="MALE" role="semichorus satyrus" corresp="#choros-satyron" ana="https://www.wikidata.org/wiki/Q163709">
+          <personGrp xml:id="hemichoros-a" sex="MALE" role="semichorus satyrus filius" corresp="#choros-satyron" ana="https://www.wikidata.org/wiki/Q163709">
             <name>Ἡμιχορός α</name>
           </personGrp>
-          <personGrp xml:id="hemichoros-b" sex="MALE" role="semichorus satyrus" corresp="#choros-satyron" ana="https://www.wikidata.org/wiki/Q163709">
+          <personGrp xml:id="hemichoros-b" sex="MALE" role="semichorus satyrus filius" corresp="#choros-satyron" ana="https://www.wikidata.org/wiki/Q163709">
             <name>Ἡμιχορός β</name>
           </personGrp>
-          <person xml:id="silenos" sex="MALE" role="satyrus" ana="http://www.wikidata.org/entity/Q464091">
+          <person xml:id="silenos" sex="MALE" role="satyrus pater" ana="http://www.wikidata.org/entity/Q464091">
             <persName>Σιληνός</persName>
           </person>
           <person xml:id="kyllene" sex="FEMALE" role="dea" ana="http://www.wikidata.org/entity/Q7595427">
@@ -68,6 +68,10 @@
           <person xml:id="apollon" sex="MALE" role="deus" ana="http://www.wikidata.org/entity/Q37340">
             <persName>Ἀπόλλων</persName>
           </person>
+          <listRelation>
+            <relation name="parent_of" active="#silenos" passive="#choros-satyron #hemichoros-a #hemichoros-b"/>
+            <relation name="associated_with" active="#silenos #choros-satyron #hemichoros-a #hemichoros-b" passive="#apollon"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

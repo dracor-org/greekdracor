@@ -67,6 +67,9 @@
           <person xml:id="herakles" sex="MALE" role="heros" ana="http://www.wikidata.org/entity/Q122248">
             <persName>Ἡρακλῆς</persName>
           </person>
+          <listRelation>
+            <relation name="associated_with" active="#choros" passive="#neoptolemos"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

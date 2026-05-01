@@ -47,7 +47,7 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="pythias" sex="FEMALE" role="vates">
+          <person xml:id="pythias" sex="FEMALE" role="vates sacerdos">
             <persName>Πυθιάς</persName>
             <persName type="variant">Πυθιάς Προφῆτις</persName>
           </person>
@@ -71,6 +71,12 @@
           <personGrp xml:id="propompoi" sex="FEMALE" role="chorus">
             <name>Προπομποί</name>
           </personGrp>
+          <listRelation>
+            <relation name="associated_with" active="#pythias" passive="#apollon"/>
+            <relation name="parent_of" active="#klytaimestras-eidolon" passive="#orestes"/>
+            <relation name="associated_with" active="#orestes" passive="#apollon #athena"/>
+            <relation name="associated_with" active="#propompoi" passive="#athena"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

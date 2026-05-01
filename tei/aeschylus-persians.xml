@@ -64,6 +64,12 @@
           <person xml:id="xerxes" sex="MALE" role="rex" ana="http://www.wikidata.org/entity/Q129165">
             <persName>Ξέρξης</persName>
           </person>
+          <listRelation>
+            <relation name="#choros" passive="#xerxes"/>
+            <relation name="spouses" mutual="#atossa #eidolon-dareiou"/>
+            <relation name="parent_of" active="#atossa #eidolon-dareiou" passive="#xerxes"/>
+            <relation name="associated_with" active="#angelos" passive="#atossa"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

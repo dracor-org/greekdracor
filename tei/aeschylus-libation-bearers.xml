@@ -59,7 +59,7 @@
           <person xml:id="oiketes" sex="MALE" role="servus">
             <persName>Οἰκέτης</persName>
           </person>
-          <person xml:id="klytaimnestra" sex="FEMALE" role="uxor mater" ana="http://www.wikidata.org/entity/Q131157">
+          <person xml:id="klytaimnestra" sex="FEMALE" role="uxor mater regina" ana="http://www.wikidata.org/entity/Q131157">
             <persName>Κλυταιμνήστρα</persName>
           </person>
           <person xml:id="pylades" sex="MALE" role="amicus" ana="http://www.wikidata.org/entity/Q494886">
@@ -68,9 +68,19 @@
           <person xml:id="trophos" sex="FEMALE" role="nutrix">
             <persName>Τροφός</persName>
           </person>
-          <person xml:id="aigisthos" sex="MALE" ana="http://www.wikidata.org/entity/Q212091">
+          <person xml:id="aigisthos" sex="MALE" role="rex" ana="http://www.wikidata.org/entity/Q212091">
             <persName>Αἴγισθος</persName>
           </person>
+          <listRelation>
+            <relation name="parent_of" active="#klytaimnestra" passive="#elektra #orestes"/>
+            <relation name="siblings" mutual="#elektre #orestes"/>
+            <relation name="friends" mutual="#orestes #pylades"/>
+            <relation name="associated_with" active="#choros" passive="#elektra"/>
+            <relation name="parent_of" active="#aigisthos" passive="#klytaimnestra"/>
+            <relation name="associated_with" active="#oiketes" passive="#klytaimnestra #aigisthos"/>
+            <relation name="associated_with" active="#trophos" passive="#orestes"/>
+            <relation name="lover_of" active="#aigisthos" passive="#klytaimnestra"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

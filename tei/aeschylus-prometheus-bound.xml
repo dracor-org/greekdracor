@@ -69,6 +69,15 @@
           <person xml:id="hermes" sex="MALE" role="deus" ana="http://www.wikidata.org/entity/Q41484">
             <persName>Ἑρμῆς</persName>
           </person>
+          <listRelation>
+            <relation name="parent_of" active="#okeanos" passive="#choros"/>
+            <relation name="associated_with" active="#kratos" passive="#hephaistos"/>
+            <relation name="related_with" active="#hephaistos" passive="#prometheus"/>
+            <relation name="friends" mutual="#hephaistos #prometheus"/>
+            <relation name="related_with" active="#okeanos" passive="#prometheus"/>
+            <relation name="friends" active="#okeanos #prometheus"/>
+            <relation name="related_with" active="#io" passive="#choros"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

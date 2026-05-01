@@ -53,7 +53,7 @@
           <personGrp xml:id="choros" sex="MALE" role="chorus senex">
             <name>Χορός</name>
           </personGrp>
-          <person xml:id="klytaimestra" sex="FEMALE" role="uxor mater" ana="http://www.wikidata.org/entity/Q131157">
+          <person xml:id="klytaimestra" sex="FEMALE" role="uxor mater regina" ana="http://www.wikidata.org/entity/Q131157">
             <persName>Κλυταιμήστρα</persName>
           </person>
           <person xml:id="keryx" sex="MALE" role="praeco">
@@ -65,9 +65,16 @@
           <person xml:id="kasandra" sex="FEMALE" role="captiva virgo" ana="http://www.wikidata.org/entity/Q170779">
             <persName>Κασάνδρα</persName>
           </person>
-          <person xml:id="aigisthos" sex="MALE" ana="http://www.wikidata.org/entity/Q212091">
+          <person xml:id="aigisthos" sex="MALE" role="rex" ana="http://www.wikidata.org/entity/Q212091">
             <persName>Αἴγισθος</persName>
           </person>
+          <listRelation>
+            <relation name="associated_with" active="#phylax" passive="#agamemnon"/>
+            <relation name="associated_with" active="#keryx" passive="#agamemnon"/>
+            <relation name="associated_with" active="#kasandra" passive="#agamemnon"/>
+            <relation name="related_with" active="#aigisthos" passive="#agamemnon"/>
+            <relation name="lover_of" active="#aigisthos" passive="#klytaimestra"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

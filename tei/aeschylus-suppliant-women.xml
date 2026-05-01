@@ -70,6 +70,11 @@
           <person xml:id="therapaina" sex="FEMALE" role="ancilla" corresp="choros-therapainon">
             <persName>Θεράπαινα</persName>
           </person>
+          <listRelation>
+            <relation name="parent_of" active="#danaos" passive="#choros-danaidon #danais"/>
+            <relation name="related_with" active="#choros-danaidon #danais #danaos" passive="#basileus"/>
+            <relation name="associated_with" active="#choros-therapainon #therapaina" passive="choros-danaidon #danais"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

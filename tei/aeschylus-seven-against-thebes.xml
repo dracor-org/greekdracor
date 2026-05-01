@@ -54,7 +54,7 @@
             <persName>Ἄγγελος</persName>
             <persName type="variant">Ἄγγελος Κατάσκοπος</persName>
           </person>
-          <personGrp xml:id="choros" sex="FEMALE" role="chorus">
+          <personGrp xml:id="choros" sex="FEMALE" role="chorus virgo">
             <name>Χορός</name>
             <name type="variant">Χορός Παρθένων</name>
           </personGrp>
@@ -73,6 +73,10 @@
           <person xml:id="keryx" sex="MALE" role="praeco">
             <persName>Κῆρυξ</persName>
           </person>
+          <listRelation>
+            <relation name="siblings" mutual="#antigone #ismene #eteokles"/>
+            <relation name="associated_with" active="#angelos" passive="#eteokles"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

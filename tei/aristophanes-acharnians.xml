@@ -71,10 +71,10 @@
             <name>Χορός</name>
             <name type="variant">Χορός Ἀχαρνέων</name>
           </personGrp>
-          <personGrp xml:id="hemichorion_a" sex="MALE" role="semichorus senex" corresp="#choros">
+          <personGrp xml:id="hemichorion-a" sex="MALE" role="semichorus senex" corresp="#choros">
             <name>Ἡμιχόριον Α</name>
           </personGrp>
-          <personGrp xml:id="hemichorion_b" sex="MALE" role="semichorus senex" corresp="#choros">
+          <personGrp xml:id="hemichorion-b" sex="MALE" role="semichorus senex" corresp="#choros">
             <name>Ἡμιχόριον Β</name>
           </personGrp>
           <person xml:id="thygater" sex="FEMALE" role="filia">
@@ -108,7 +108,7 @@
           <person xml:id="nikarchos" sex="MALE" role="sycophanta">
             <persName>Νίκαρχος</persName>
           </person>
-          <person xml:id="therapon_lamachou" sex="MALE" role="servus">
+          <person xml:id="therapon-lamachou" sex="MALE" role="servus">
             <persName>Θεράπων Λαμάχου</persName>
           </person>
           <person xml:id="keryx-heteros" sex="MALE" role="praeco">
@@ -121,17 +121,17 @@
           <person xml:id="paranymphos" sex="MALE">
             <persName>Παράνυμφος</persName>
           </person>
-          <person xml:id="angelos_a" sex="MALE" role="nuntius">
+          <person xml:id="angelos-a" sex="MALE" role="nuntius">
             <persName>Ἄγγελος Α</persName>
           </person>
-          <person xml:id="angelos_b" sex="MALE" role="nuntius">
+          <person xml:id="angelos-b" sex="MALE" role="nuntius">
             <persName>Ἄγγελος Β</persName>
           </person>
           <listRelation>
             <relation name="parent_of" active="#dikaiopolis" passive="#thygater"/>
             <relation name="parent_of" active="#megareus" passive="#kora #kore"/>
             <relation name="associated_with" active="#kephisophon" passive="#euripides"/>
-            <relation name="associated_with" active="#therapon_lamachou" passive="#lamachos"/>
+            <relation name="associated_with" active="#therapon-lamachou" passive="#lamachos"/>
           </listRelation>
         </listPerson>
       </particDesc>
@@ -1416,23 +1416,23 @@ convert to P3
             <l real="--o-x-x---ox">οὐκ οἰόμεσθα; νοῦς ἄρ’ ἡμῖν οὐκ ἔνι.</l>
           </sp>
           <milestone ed="p" n="557" unit="card"/>
-          <sp who="#hemichorion_a">
+          <sp who="#hemichorion-a">
             <speaker>Ἡμιχόριον Α</speaker>
             <l real="x-o-x-o-xx-xo">ἄληθες ὦπίτριπτε καί μιαρώτατε;</l>
             <l real="-xx---o---o-">ταυτὶ σὺ τολμᾷς πτωχὸς ὢν ἡμᾶς λέγειν,</l>
             <l real="-xo---x---xx">καὶ συκοφάντης εἴ τις ἦν ὠνείδισας;</l>
           </sp>
-          <sp who="#hemichorion_b">
+          <sp who="#hemichorion-b">
             <speaker>Ἡμιχόριον Β</speaker>
             <l n="560" real="--o---o-x-o-">νὴ τὸν Ποσειδῶ καὶ λέγει γ’ ἅπερ λέγει</l>
             <l real="x-x-x-o---o-">δίκαια πάντα κοὐδὲν αὐτῶν ψεύδεται.</l>
           </sp>
-          <sp who="#hemichorion_a">
+          <sp who="#hemichorion-a">
             <speaker>Ἡμιχόριον Α</speaker>
             <l real="--x-x-o---x-">εἶτ’ εἰ δίκαια, τοῦτον εἰπεῖν αὔτ’ ἐχρῆν;</l>
             <l real="--x---x---o-">ἀλλ’ οὔτι χαίρων ταῦτα τολμήσει λέγειν.</l>
           </sp>
-          <sp who="#hemichorion_b">
+          <sp who="#hemichorion-b">
             <speaker>Ἡμιχόριον Β</speaker>
             <l real="--x---o---o-">οὗτος σὺ ποῖ θεῖς; οὐ μενεῖς; ὡς εἰ θενεῖς</l>
             <l n="565" real="o-x-o-o---xx">τὸν ἄνδρα τοῦτον, αὐτὸς ἀρθήσει τάχα.</l>
@@ -1440,7 +1440,7 @@ convert to P3
           </sp>
         </div2>
         <div2 n="2" type="strophe">
-          <sp who="#hemichorion_a">
+          <sp who="#hemichorion-a">
             <speaker>Ἡμιχόριον Α</speaker>
             <l real="x-xx-o--xx">ἰὼ Λάμαχ’ ὦ βλέπων ἀστραπάς,</l>
             <l real="o--o--ooxx-">βοήθησον ὦ γοργολόφα φανείς,</l>
@@ -1460,7 +1460,7 @@ convert to P3
             <speaker>Δικαιόπολις</speaker>
             <l n="575" real="-xx---o---o-">ὦ Λάμαχ’ ἥρως, τῶν λόφων καὶ τῶν λόχων.</l>
           </sp>
-          <sp who="#hemichorion_a">
+          <sp who="#hemichorion-a">
             <speaker>Ἡμιχόριον Α</speaker>
             <l real="-xx-x-o---x-">ὦ Λάμαχ’, οὐ γὰρ οὗτος ἅνθρωπος πάλαι</l>
             <l real="xxx---o-x-o-">ἅπασαν ἡμῶν τὴν πόλιν κακορροθεῖ;</l>
@@ -2443,7 +2443,7 @@ convert to P3
         </div2>
       </div1>
       <div1 type="Episode">
-        <sp who="#therapon_lamachou">
+        <sp who="#therapon-lamachou">
           <speaker>Θεράπων Λαμάχου</speaker>
           <l real="x-oox">Δικαιόπολι.</l>
         </sp>
@@ -2451,7 +2451,7 @@ convert to P3
           <speaker>Δικαιόπολις</speaker>
           <l part="Y" real="x-xxo--">τίς ἔστι; τί με βωστρεῖς;</l>
         </sp>
-        <sp who="#therapon_lamachou">
+        <sp who="#therapon-lamachou">
           <speaker>Θεράπων Λαμάχου</speaker>
           <l real="ox">ὅ τι;</l>
           <l n="960" real="oo-oxx-o--xx-">ἐκέλευε Λάμαχός σε ταυτησὶ δραχμῆς</l>
@@ -2462,7 +2462,7 @@ convert to P3
           <speaker>Δικαιόπολις</speaker>
           <l real="o-o--xx---ox">ὁ ποῖος οὗτος Λάμαχος τὴν ἔγχελυν;</l>
         </sp>
-        <sp who="#therapon_lamachou">
+        <sp who="#therapon-lamachou">
           <speaker>Θεράπων Λαμάχου</speaker>
           <l real="o-oox-xo---ox">ὁ δεινός, ὁ ταλαύρινος, ὃς τὴν Γοργόνα</l>
           <l n="965" real="--x--xxx-x-o-">πάλλει κραδαίνων τρισὶ κατάσκιος λόφοις.</l>
@@ -2731,7 +2731,7 @@ convert to P3
           <l real="--ox-xx-x-x-">καὶ μὴν ὁδί τις τὰς ὀφρῦς ἀνεσπακὼς·</l>
           <l n="1070" real="--x-o-o-o-o-">ὥσπερ τι δεινὸν ἀγγελῶν ἐπείγεται.</l>
         </sp>
-        <sp who="#angelos_a">
+        <sp who="#angelos-a">
           <speaker>Ἄγγελος Α</speaker>
           <l real="x-o-o-x--xx-">ἰὼ πόνοι τε καὶ μάχαι καὶ Λάμαχοι.</l>
         </sp>
@@ -2739,7 +2739,7 @@ convert to P3
           <speaker>Λάμαχος</speaker>
           <l real="x-x-oxxx-x-x-">τίς ἀμφὶ χαλκοφάλαρα δώματα κτυπεῖ;</l>
         </sp>
-        <sp who="#angelos_a">
+        <sp who="#angelos-a">
           <speaker>Ἄγγελος Α</speaker>
           <l real="xo-oo-o-x---oo">ἰέναι σ’ ἐκέλευον οἱ στρατηγοὶ τήμερον</l>
           <l real="xo-x-x-o---o-">ταχέως λαβόντα τοὺς λόχους καὶ τοὺς λόφους·</l>
@@ -2773,7 +2773,7 @@ convert to P3
           <speaker>Δικαιόπολις</speaker>
           <l real="--xx---o-x-o-">αἰαῖ τίνα δ’ αὖ μοι προστρέχει τις ἀγγελῶν;</l>
         </sp>
-        <sp who="#angelos_b">
+        <sp who="#angelos-b">
           <speaker>Ἄγγελος Β</speaker>
           <l n="1085" real="x-oox">Δικαιόπολι.</l>
         </sp>
@@ -2781,7 +2781,7 @@ convert to P3
           <speaker>Δικαιόπολις</speaker>
           <l part="Y" real="x-x">τί ἔστιν;</l>
         </sp>
-        <sp who="#angelos_b">
+        <sp who="#angelos-b">
           <speaker>Ἄγγελος Β</speaker>
           <l part="Y" real="ox--xx">ἐπὶ δεῖπνον ταχὺ</l>
           <l real="x-o---x---o-">βάδιζε τὴν κίστην λαβὼν καὶ τὸν χοᾶ.</l>
@@ -3024,7 +3024,7 @@ convert to P3
         </div2>
       </div1>
       <div1 type="Episode">
-        <sp who="#therapon_lamachou">
+        <sp who="#therapon-lamachou">
           <speaker>Θεράπων Λαμάχου</speaker>
           <l real="--o-x-o-oxx-">ὦ δμῶες οἳ κατ’ οἶκόν ἐστε Λαμάχου,</l>
           <l n="1175" real="x-x--xxx---oo">ὕδωρ ὕδωρ ἐν χυτριδίῳ θερμαίνετε·</l>

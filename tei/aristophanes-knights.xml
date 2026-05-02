@@ -71,6 +71,9 @@
           <person xml:id="demos" sex="MALE" role="plebs dominus">
             <persName>Δῆμος</persName>
           </person>
+          <listRelation>
+            <relation name="associated_with" active="#demosthenes #nikias #kleon" passive="#demos"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

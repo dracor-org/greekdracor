@@ -101,6 +101,11 @@
           <person xml:id="hermes" sex="MALE" ana="http://www.wikidata.org/entity/Q41484">
             <persName>Ερμῆς</persName>
           </person>
+          <listRelation>
+            <relation name="parent_of" active="#strepsiades" passive="#pheidippides"/>
+            <relation name="associated_with" active="#therapon" passive="#strepsiades"/>
+            <relation name="associated_with" active="#mathetes #mathetes_a #mathetes_b #mathetes_g" passive="#sokrates"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

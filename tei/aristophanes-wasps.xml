@@ -80,6 +80,11 @@
           <person xml:id="xymotes_tis" sex="MALE">
             <persName>Ξυμότης τις</persName>
           </person>
+          <listRelation>
+            <relation name="associated_with" active="#sosias #xanthias" passive="#bdelykleon"/>
+            <relation name="parent_of" active="#philokleon" passive="#bdelykleon"/>
+            <relation name="parent_of" active="#choros" passive="#pais"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

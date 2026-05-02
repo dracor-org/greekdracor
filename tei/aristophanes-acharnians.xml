@@ -127,6 +127,12 @@
           <person xml:id="angelos_b" sex="MALE" role="nuntius">
             <persName>Ἄγγελος Β</persName>
           </person>
+          <listRelation>
+            <relation name="parent_of" active="#dikaiopolis" passive="#thygater"/>
+            <relation name="parent_of" active="#megareus" passive="#kora #kore"/>
+            <relation name="associated_with" active="#kephisophon" passive="#euripides"/>
+            <relation name="associated_with" active="#therapon_lamachou" passive="#lamachos"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

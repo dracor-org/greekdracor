@@ -49,20 +49,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="kategoros" sex="MALE">
-            <persName>Κατήγορος</persName>
+          <person xml:id="sosias" sex="MALE">
+            <persName>Σωσίας</persName>
           </person>
-          <person xml:id="philokleon" sex="MALE">
-            <persName>Φιλοκλέων</persName>
-          </person>
-          <person xml:id="kyon" sex="MALE">
-            <persName>Κύων</persName>
+          <person xml:id="xanthias" sex="MALE">
+            <persName>Ξανθίας</persName>
           </person>
           <person xml:id="bdelykleon" sex="MALE">
             <persName>Βδελυκλέων</persName>
           </person>
-          <person xml:id="xymotes_tis" sex="UNKNOWN">
-            <persName>Ξυμότης τις</persName>
+          <person xml:id="philokleon" sex="MALE">
+            <persName>Φιλοκλέων</persName>
           </person>
           <personGrp xml:id="choros" sex="UNKNOWN">
             <name>Χορός</name>
@@ -70,14 +67,17 @@
           <person xml:id="pais" sex="UNKNOWN">
             <persName>Παίς</persName>
           </person>
-          <person xml:id="xanthias" sex="MALE">
-            <persName>Ξανθίας</persName>
+          <person xml:id="kyon" sex="MALE">
+            <persName>Κύων</persName>
           </person>
           <person xml:id="artopolis" sex="UNKNOWN">
             <persName>Αρτόπωλις</persName>
           </person>
-          <person xml:id="sosias" sex="MALE">
-            <persName>Σωσίας</persName>
+          <person xml:id="kategoros" sex="MALE">
+            <persName>Κατήγορος</persName>
+          </person>
+          <person xml:id="xymotes_tis" sex="UNKNOWN">
+            <persName>Ξυμότης τις</persName>
           </person>
         </listPerson>
       </particDesc>

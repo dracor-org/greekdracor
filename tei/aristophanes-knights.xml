@@ -52,24 +52,30 @@
           <person xml:id="demosthenes" sex="MALE" role="servus" ana="https://www.wikidata.org/wiki/https://www.wikidata.org/wiki/Q504986">
             <persName>Δημοσθένης</persName>
             <persName type="variant">Δημοσθένης οἰκητής</persName>
+            <persName xml:lang="en">Demosthenes, A Slave of Demos</persName>
           </person>
           <person xml:id="nikias" sex="MALE" role="servus" ana="https://www.wikidata.org/wiki/Q315822">
             <persName>Νικίας</persName>
             <persName type="variant">Νικίας οἰκητής</persName>
+            <persName xml:lang="en">Nicias, A Slave of Demos</persName>
           </person>
           <person xml:id="allantopoles" sex="MALE" role="mercator">
             <persName>Ἀλλαντοπώλης</persName>
             <persName type="variant">Άγοράκριτος Ἀλλαντοπώλης</persName>
+            <persName xml:lang="en">Agoracritus, A Sausage Seller</persName>
           </person>
           <person xml:id="kleon" sex="MALE" role="servus" ana="https://www.wikidata.org/wiki/Q298220">
             <persName>Κλέων</persName>
+            <persName xml:lang="en">Cleon</persName>
           </person>
           <personGrp xml:id="choros" sex="MALE" role="chorus eques">
             <name>Χορός</name>
             <name type="variant">Χορός Ἱππεῶν</name>
+            <name xml:lang="en">Chorus of Knights</name>
           </personGrp>
           <person xml:id="demos" sex="MALE" role="plebs dominus">
             <persName>Δῆμος</persName>
+            <persName xml:lang="en">Demos</persName>
           </person>
           <listRelation>
             <relation name="associated_with" active="#demosthenes #nikias #kleon" passive="#demos"/>

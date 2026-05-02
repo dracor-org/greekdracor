@@ -49,56 +49,56 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="strepsiades" sex="MALE">
+          <person xml:id="strepsiades" sex="MALE" role="rusticus">
             <persName>Στρεψιάδης</persName>
           </person>
-          <person xml:id="pheidippides" sex="MALE">
+          <person xml:id="pheidippides" sex="MALE" role="filius">
             <persName>Φειδιππίδης</persName>
           </person>
-          <person xml:id="therapon" sex="MALE">
+          <person xml:id="therapon" sex="MALE" role="servus">
             <persName>Θεράπων</persName>
             <persName type="variant">Θεράπων Στρεψιάδου</persName>
           </person>
-          <person xml:id="mathetes" sex="MALE">
+          <person xml:id="mathetes" sex="MALE" role="discipulus">
             <persName>Μαθητής</persName>
           </person>
-          <person xml:id="mathetes_a" sex="MALE">
+          <person xml:id="mathetes_a" sex="MALE" role="discipulus">
             <persName>Μαθητής Α</persName>
           </person>
-          <person xml:id="mathetes_b" sex="MALE">
+          <person xml:id="mathetes_b" sex="MALE" role="discipulus">
             <persName>Μαθητής Β</persName>
           </person>
-          <person xml:id="mathetes_g" sex="MALE">
+          <person xml:id="mathetes_g" sex="MALE" role="discipulus">
             <persName>Μαθητής Γ</persName>
           </person>
-          <person xml:id="sokrates" sex="MALE" ana="http://www.wikidata.org/entity/Q913">
+          <person xml:id="sokrates" sex="MALE" role="didascalus" ana="http://www.wikidata.org/entity/Q913">
             <persName>Σωκράτης</persName>
           </person>
-          <personGrp xml:id="choros" sex="UNKNOWN">
+          <personGrp xml:id="choros" sex="UNKNOWN" role="chorus">
             <name>Χορός</name>
             <name type="variant">Χορός νεφελῶν</name>
           </personGrp>
-          <person xml:id="dikaioslogos" sex="UNKNOWN">
+          <person xml:id="dikaioslogos" sex="UNKNOWN" role="allegoria">
             <persName>Δίκαιος Λόγος</persName>
           </person>
-          <person xml:id="adikos_logos" sex="UNKNOWN">
+          <person xml:id="adikos_logos" sex="UNKNOWN" role="allegoria">
             <persName>Ἄδικος Λόγος</persName>
           </person>
-          <person xml:id="pasias" sex="MALE">
+          <person xml:id="pasias" sex="MALE" role="creditor">
             <persName>Πασίας</persName>
             <persName type="variant">Πασίας δανειστής</persName>
           </person>
-          <person xml:id="martys" sex="MALE">
+          <person xml:id="martys" sex="MALE" role="testis">
             <persName>Μάρτυς</persName>
           </person>
-          <person xml:id="amynias" sex="MALE">
+          <person xml:id="amynias" sex="MALE" role="creditor">
             <persName>Αμυνίας</persName>
             <persName type="variant">Αμυνίας δανειστής</persName>
           </person>
-          <person xml:id="chairephon" sex="MALE">
+          <person xml:id="chairephon" sex="MALE" role="didascalus">
             <persName>Χαιρεφῶν</persName>
           </person>
-          <person xml:id="hermes" sex="MALE" ana="http://www.wikidata.org/entity/Q41484">
+          <person xml:id="hermes" sex="MALE" role="deus" ana="http://www.wikidata.org/entity/Q41484">
             <persName>Ερμῆς</persName>
           </person>
           <listRelation>

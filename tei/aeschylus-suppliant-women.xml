@@ -50,25 +50,32 @@
           <personGrp xml:id="choros-danaidon" sex="FEMALE" role="chorus" ana="http://www.wikidata.org/entity/Q724907">
             <name>Χορός Δαναΐδων</name>
             <name type="variant">Χορός</name>
+            <name xml:lang="en">Chorus of the Daughters of Danaus</name>
           </personGrp>
           <person xml:id="danaos" role="rex pater" sex="MALE" ana="http://www.wikidata.org/entity/Q210883">
             <persName>Δαναός</persName>
+            <persName xml:lang="en">Danaus</persName>
           </person>
           <person xml:id="basileus" role="rex" sex="MALE" ana="http://www.wikidata.org/entity/Q1636827">
             <persName>βασιλεύς</persName>
             <persName type="variant">βασιλεύς Ἀργεΐων</persName>
+            <persName xml:lang="en">Pelasgus, King of Argus</persName>
           </person>
           <person xml:id="keryx" sex="MALE" role="praeco">
             <persName>Κῆρυξ</persName>
+            <persName xml:lang="en">Herald of the Sons of Aegyptus</persName>
           </person>
           <personGrp xml:id="choros-therapainon" sex="FEMALE" role="chorus ancilla">
             <name>Χορός Θεραπαινῶν</name>
+            <name xml:lang="en">Chorus of Handmaidens</name>
           </personGrp>
           <person xml:id="danais" sex="FEMALE" role="filia" ana="http://www.wikidata.org/entity/Q724907" corresp="#choros-danaidon">
             <persName>Δαναΐς</persName>
+            <persName xml:lang="en">A Danaid</persName>
           </person>
           <person xml:id="therapaina" sex="FEMALE" role="ancilla" corresp="choros-therapainon">
             <persName>Θεράπαινα</persName>
+            <persName xml:lang="en">A Handmaiden</persName>
           </person>
           <listRelation>
             <relation name="parent_of" active="#danaos" passive="#choros-danaidon #danais"/>

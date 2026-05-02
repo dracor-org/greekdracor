@@ -49,29 +49,37 @@
         <listPerson>
           <person xml:id="eteokles" sex="MALE" role="rex" ana="http://www.wikidata.org/entity/Q506550">
             <persName>Ἐτεοκλής</persName>
+            <persName xml:lang="en">Eteocles</persName>
           </person>
           <person xml:id="angelos" sex="MALE" role="nuntius">
             <persName>Ἄγγελος</persName>
             <persName type="variant">Ἄγγελος Κατάσκοπος</persName>
+            <persName xml:lang="en">A Messenger (Scout)</persName>
           </person>
           <personGrp xml:id="choros" sex="FEMALE" role="chorus virgo">
             <name>Χορός</name>
             <name type="variant">Χορός Παρθένων</name>
+            <name xml:lang="en">Chorus of Theban Maidens</name>
           </personGrp>
           <personGrp xml:id="hemichorion-a" sex="FEMALE" role="chorus" corresp="#choros">
             <name>Ἡμιχόριον Α</name>
+            <name xml:lang="en">Semi-Chorus A</name>
           </personGrp>
           <personGrp xml:id="hemichorion-b" sex="FEMALE" role="chorus" corresp="#choros">
             <name>Ἡμιχόριον Β</name>
+            <name xml:lang="en">Semi-Chorus B</name>
           </personGrp>
           <person xml:id="antigone" sex="FEMALE" role="soror" ana="http://www.wikidata.org/entity/Q131351">
             <persName>Ἀντιγόνη</persName>
+            <persName xml:lang="en">Antigone</persName>
           </person>
           <person xml:id="ismene" sex="FEMALE" role="soror" ana="http://www.wikidata.org/entity/Q753902">
             <persName>Ἰσμήνη</persName>
+            <persName xml:lang="en">Ismene</persName>
           </person>
           <person xml:id="keryx" sex="MALE" role="praeco">
             <persName>Κῆρυξ</persName>
+            <persName xml:lang="en">A Herald</persName>
           </person>
           <listRelation>
             <relation name="siblings" mutual="#antigone #ismene #eteokles"/>

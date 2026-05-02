@@ -50,19 +50,24 @@
           <personGrp xml:id="choros" sex="MALE" role="chorus senex">
             <name>Χορός</name>
             <name type="variant">Χορός Γερόντων</name>
+            <name xml:lang="en">Chorus of Persian Elders</name>
           </personGrp>
           <person xml:id="atossa" sex="FEMALE" role="uxor" ana="http://www.wikidata.org/entity/Q233359">
             <persName>Ἄτοσσα</persName>
+            <persName xml:lang="en">Atossa</persName>
           </person>
           <person xml:id="angelos" sex="MALE" role="nuntius">
             <persName>Ἄγγελος</persName>
+            <persName xml:lang="en">A Messenger</persName>
           </person>
           <person xml:id="eidolon-dareiou" sex="MALE" role="rex" ana="http://www.wikidata.org/entity/Q44387">
             <persName>Εἴδωλον Δαρείου</persName>
             <persName type="variant">Δαρεῖος</persName>
+            <persName xml:lang="en">Ghost of Darius</persName>
           </person>
           <person xml:id="xerxes" sex="MALE" role="rex" ana="http://www.wikidata.org/entity/Q129165">
             <persName>Ξέρξης</persName>
+            <persName xml:lang="en">Xerxes</persName>
           </person>
           <listRelation>
             <relation name="#choros" passive="#xerxes"/>

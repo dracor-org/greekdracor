@@ -50,26 +50,33 @@
           <person xml:id="pythias" sex="FEMALE" role="vates sacerdos">
             <persName>Πυθιάς</persName>
             <persName type="variant">Πυθιάς Προφῆτις</persName>
+            <persName xml:lang="en">The Pythian Prophetess</persName>
           </person>
           <person xml:id="apollon" sex="MALE" role="deus" ana="http://www.wikidata.org/entity/Q37340">
             <persName>Ἀπόλλων</persName>
+            <persName xml:lang="en">Apollo</persName>
           </person>
           <person xml:id="orestes" sex="MALE" role="filius" ana="http://www.wikidata.org/entity/Q192407">
             <persName>Ὀρέστης</persName>
+            <persName xml:lang="en">Orestes</persName>
           </person>
           <person xml:id="klytaimestras-eidolon" sex="FEMALE" role="uxor mater" ana="http://www.wikidata.org/entity/Q131157">
             <persName>Κλυταιμήστρας Εἴδωλον</persName>
             <persName type="variant">Κλυταιμήστρα</persName>
+            <persName xml:lang="en">Shade of Clytemnestra</persName>
           </person>
           <personGrp xml:id="choros" sex="FEMALE" role="chorus dea" ana="http://www.wikidata.org/entity/Q180262">
             <name>Χορός</name>
             <name type="variant">Χορός Εὐμενίδων</name>
+            <name xml:lang="en">Chorus of Erinyes</name>
           </personGrp>
           <person xml:id="athena" sex="FEMALE" role="dea" ana="http://www.wikidata.org/entity/Q37122">
             <persName>Ἀθηνᾶ</persName>
+            <persName xml:lang="en">Athena</persName>
           </person>
           <personGrp xml:id="propompoi" sex="FEMALE" role="chorus">
             <name>Προπομποί</name>
+            <name xml:lang="en">An Escort</name>
           </personGrp>
           <listRelation>
             <relation name="associated_with" active="#pythias" passive="#apollon"/>

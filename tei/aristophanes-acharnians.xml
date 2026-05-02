@@ -49,78 +49,82 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="dikaiopolis" sex="MALE">
+          <person xml:id="dikaiopolis" sex="MALE" role="rusticus">
             <persName>Δικαιόπολις</persName>
           </person>
-          <person xml:id="keryx" sex="MALE">
+          <person xml:id="keryx" sex="MALE" role="praeco">
             <persName>Κῆρυξ</persName>
           </person>
-          <person xml:id="amphitheos" sex="MALE">
+          <person xml:id="amphitheos" sex="MALE" role="legatus">
             <persName>Ἀμφίθεος</persName>
           </person>
-          <person xml:id="presbys" sex="MALE">
+          <person xml:id="presbys" sex="MALE" role="senex legatus">
             <persName>Πρέσβυς</persName>
           </person>
-          <person xml:id="pseudartabas" sex="MALE">
+          <person xml:id="pseudartabas" sex="MALE" role="legatus">
             <persName>Ψευδαρτάβας</persName>
           </person>
-          <person xml:id="theoros" sex="MALE">
+          <person xml:id="theoros" sex="MALE" role="legatus">
             <persName>Θέωρος</persName>
           </person>
-          <personGrp xml:id="choros" sex="MALE">
+          <personGrp xml:id="choros" sex="MALE" role="chorus senex">
             <name>Χορός</name>
             <name type="variant">Χορός Ἀχαρνέων</name>
           </personGrp>
-          <personGrp xml:id="hemichorion_a" sex="MALE">
+          <personGrp xml:id="hemichorion_a" sex="MALE" role="semichorus senex" corresp="#choros">
             <name>Ἡμιχόριον Α</name>
           </personGrp>
-          <personGrp xml:id="hemichorion_b" sex="MALE">
+          <personGrp xml:id="hemichorion_b" sex="MALE" role="semichorus senex" corresp="#choros">
             <name>Ἡμιχόριον Β</name>
           </personGrp>
-          <person xml:id="thygater" sex="FEMALE">
+          <person xml:id="thygater" sex="FEMALE" role="filia">
             <persName>Θυγάτηρ</persName>
             <persName type="variant">Θυγάτηρ Δικαιοπόλιδος</persName>
           </person>
-          <person xml:id="kephisophon" sex="MALE">
+          <person xml:id="kephisophon" sex="MALE" role="servus">
             <persName>Κηφισόφων</persName>
           </person>
-          <person xml:id="euripides" sex="MALE" ana="http://www.wikidata.org/entity/Q48305">
+          <person xml:id="euripides" sex="MALE" role="poeta" ana="http://www.wikidata.org/entity/Q48305">
             <persName>Εὐριπίδης</persName>
           </person>
-          <person xml:id="lamachos" sex="MALE">
+          <person xml:id="lamachos" sex="MALE" role="dux">
             <persName>Λάμαχος</persName>
           </person>
-          <person xml:id="megareus" sex="MALE">
+          <person xml:id="megareus" sex="MALE" role="peregrinus">
             <persName>Μεγαρεύς</persName>
           </person>
-          <person xml:id="kora" sex="MALE">
+          <person xml:id="kora" sex="FEMALE" role="filia">
             <persName>Κόρα</persName>
           </person>
-          <person xml:id="kore">
+          <person xml:id="kore" sex="FEMALE" role="filia">
             <persName>Κόρη</persName>
           </person>
-          <person xml:id="sykophantes" sex="MALE">
+          <person xml:id="sykophantes" sex="MALE" role="sycophanta">
             <persName>Συκοφάντης</persName>
           </person>
-          <person xml:id="boiotos" sex="MALE">
+          <person xml:id="boiotos" sex="MALE" role="peregrinus">
             <persName>Βοιωτός</persName>
           </person>
-          <person xml:id="nikarchos" sex="MALE">
+          <person xml:id="nikarchos" sex="MALE" role="sycophanta">
             <persName>Νίκαρχος</persName>
           </person>
-          <person xml:id="therapon_lamachou" sex="MALE">
+          <person xml:id="therapon_lamachou" sex="MALE" role="servus">
             <persName>Θεράπων Λαμάχου</persName>
           </person>
-          <person xml:id="georgos" sex="MALE">
+          <person xml:id="keryx-heteros" sex="MALE" role="praeco">
+            <persName>Κῆρυξ ἕτερος</persName>
+            <persName type="variant">Κῆρυξ</persName>
+          </person>
+          <person xml:id="georgos" sex="MALE" role="rusticus">
             <persName>Γεωργός</persName>
           </person>
           <person xml:id="paranymphos" sex="MALE">
             <persName>Παράνυμφος</persName>
           </person>
-          <person xml:id="angelos_a" sex="MALE">
+          <person xml:id="angelos_a" sex="MALE" role="nuntius">
             <persName>Ἄγγελος Α</persName>
           </person>
-          <person xml:id="angelos_b" sex="MALE">
+          <person xml:id="angelos_b" sex="MALE" role="nuntius">
             <persName>Ἄγγελος Β</persName>
           </person>
         </listPerson>
@@ -2508,7 +2512,7 @@ convert to P3
         </div2>
       </div1>
       <div1 type="Lyric-Scene">
-        <sp who="#keryx">
+        <sp who="#keryx-heteros">
           <speaker>Κῆρυξ</speaker>
           <l n="1000" real="x-ooo-xxxxxx-o-">ἀκούετε λεῴ· κατὰ τὰ πάτρια τοὺς Χοᾶς</l>
           <l real="x-xo---o-x-x-">πίνειν ὑπὸ τῆς σάλπιγγος· ὃς δ’ ἂν ἐκπίῃ</l>

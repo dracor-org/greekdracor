@@ -52,21 +52,27 @@
           <personGrp xml:id="choros-satyron" sex="MALE" role="chorus satyrus filius" ana="https://www.wikidata.org/wiki/Q163709">
             <name>Χορὸς Σατύρων</name>
             <name type="variant">Χορός</name>
+            <name xml:lang="en">Chorus of Satyrs</name>
           </personGrp>
           <personGrp xml:id="hemichoros-a" sex="MALE" role="semichorus satyrus filius" corresp="#choros-satyron" ana="https://www.wikidata.org/wiki/Q163709">
             <name>Ἡμιχορός α</name>
+            <name xml:lang="en">Semi-Chorus a</name>
           </personGrp>
           <personGrp xml:id="hemichoros-b" sex="MALE" role="semichorus satyrus filius" corresp="#choros-satyron" ana="https://www.wikidata.org/wiki/Q163709">
             <name>Ἡμιχορός β</name>
+            <name xml:lang="en">Semi-Chorus b</name>
           </personGrp>
           <person xml:id="silenos" sex="MALE" role="satyrus pater" ana="http://www.wikidata.org/entity/Q464091">
             <persName>Σιληνός</persName>
+            <persName xml:lang="en">Silenus</persName>
           </person>
           <person xml:id="kyllene" sex="FEMALE" role="dea" ana="http://www.wikidata.org/entity/Q7595427">
             <persName>Κυλλήνη</persName>
+            <persName xml:lang="en">Cyllene</persName>
           </person>
           <person xml:id="apollon" sex="MALE" role="deus" ana="http://www.wikidata.org/entity/Q37340">
             <persName>Ἀπόλλων</persName>
+            <persName xml:lang="en">Apollo</persName>
           </person>
           <listRelation>
             <relation name="parent_of" active="#silenos" passive="#choros-satyron #hemichoros-a #hemichoros-b"/>

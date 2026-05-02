@@ -57,6 +57,7 @@
           </person>
           <person xml:id="therapon" sex="MALE">
             <persName>Θεράπων</persName>
+            <persName type="variant">Θεράπων Στρεψιάδου</persName>
           </person>
           <person xml:id="mathetes" sex="MALE">
             <persName>Μαθητής</persName>
@@ -75,6 +76,7 @@
           </person>
           <personGrp xml:id="choros" sex="UNKNOWN">
             <name>Χορός</name>
+            <name type="variant">Χορός νεφελῶν</name>
           </personGrp>
           <person xml:id="dikaioslogos" sex="UNKNOWN">
             <persName>Δίκαιος Λόγος</persName>
@@ -84,12 +86,14 @@
           </person>
           <person xml:id="pasias" sex="MALE">
             <persName>Πασίας</persName>
+            <persName type="variant">Πασίας δανειστής</persName>
           </person>
           <person xml:id="martys" sex="MALE">
             <persName>Μάρτυς</persName>
           </person>
           <person xml:id="amynias" sex="MALE">
             <persName>Αμυνίας</persName>
+            <persName type="variant">Αμυνίας δανειστής</persName>
           </person>
           <person xml:id="chairephon" sex="MALE">
             <persName>Χαιρεφῶν</persName>

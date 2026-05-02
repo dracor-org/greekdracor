@@ -49,25 +49,22 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="nikias" sex="MALE">
-            <persName>Νικίας</persName>
-          </person>
-          <person xml:id="allantopoles" sex="MALE">
-            <persName>Ἀλλαντοπώλης</persName>
-          </person>
-          <personGrp xml:id="choros" sex="MALE">
-            <name>Χορός</name>
-          </personGrp>
-          <person xml:id="kleon" sex="MALE">
-            <persName>Κλέων</persName>
-          </person>
-          <personGrp xml:id="choros_hippeon" sex="MALE">
-            <name>Χορός Ἱππεῶν</name>
-          </personGrp>
-          <person xml:id="demosthenes" sex="MALE">
+          <person xml:id="demosthenes" sex="MALE" role="servus" ana="https://www.wikidata.org/wiki/https://www.wikidata.org/wiki/Q504986">
             <persName>Δημοσθένης</persName>
           </person>
-          <person xml:id="demos" sex="MALE">
+          <person xml:id="nikias" sex="MALE" role="servus" ana="https://www.wikidata.org/wiki/Q315822">
+            <persName>Νικίας</persName>
+          </person>
+          <person xml:id="allantopoles" sex="MALE" role="mercator">
+            <persName>Ἀλλαντοπώλης</persName>
+          </person>
+          <person xml:id="kleon" sex="MALE" role="servus" ana="https://www.wikidata.org/wiki/Q298220">
+            <persName>Κλέων</persName>
+          </person>
+          <personGrp xml:id="choros" sex="MALE" role="chorus eques">
+            <name>Χορός</name>
+          </personGrp>
+          <person xml:id="demos" sex="MALE" role="plebs dominus">
             <persName>Δῆμος</persName>
           </person>
         </listPerson>
@@ -829,7 +826,7 @@ bring up to P3
             <l n="245" real="oox---o---o---o-">ὁ κονιορτὸς δῆλος αὐτῶν ὡς ὁμοῦ προσκειμένων.</l>
             <l real="-xx--x-o-o-----">ἀλλ’ ἀμύνου καὶ δίωκε καὶ τροπὴν αὐτοῦ ποιοῦ.</l>
           </sp>
-          <sp who="#choros_hippeon">
+          <sp who="#choros">
             <speaker>Χορός Ἱππεῶν</speaker>
             <l real="-o-o-x---x---xo">παῖε παῖε τὸν πανοῦργον καὶ ταραξιππόστρατον</l>
             <l real="-o---x-x-x-x-x-">καὶ τελώνην καὶ φάραγγα καὶ Χάρυβδιν ἁρπαγῆς,</l>

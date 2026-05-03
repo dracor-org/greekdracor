@@ -49,55 +49,56 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="praxagora" sex="FEMALE">
+          <person xml:id="praxagora" sex="FEMALE" role="uxor">
             <persName>Πραξάγορα</persName>
           </person>
-          <person xml:id="gyne_a" sex="FEMALE">
+          <person xml:id="gyne_a" sex="FEMALE" role="uxor">
             <persName>Γυνὴ Α</persName>
           </person>
-          <person xml:id="gyne_b" sex="FEMALE">
+          <person xml:id="gyne_b" sex="FEMALE" role="uxor">
             <persName>Γυνὴ Β</persName>
           </person>
-          <person xml:id="gyne_g" sex="FEMALE">
+          <person xml:id="gyne_g" sex="FEMALE" role="uxor">
             <persName>Γυνὴ Γ</persName>
           </person>
-          <personGrp xml:id="choros" sex="UNKNOWN">
+          <personGrp xml:id="choros" sex="UNKNOWN" role="chorus">
             <name>Χορὸς</name>
+            <name type="variant">Χορὸς γυναικῶν</name>
           </personGrp>
-          <person xml:id="blepyros" sex="MALE">
+          <person xml:id="blepyros" sex="MALE" role="maritus">
             <persName>Βλέπυρος</persName>
           </person>
-          <person xml:id="aner" sex="MALE">
+          <person xml:id="aner" sex="MALE" role="vir">
             <persName>Ἀνήρ</persName>
           </person>
-          <person xml:id="aner_a" sex="MALE">
+          <person xml:id="aner_a" sex="MALE" role="vir">
             <persName>Ἀνὴρ Α</persName>
           </person>
-          <person xml:id="aner_b" sex="MALE">
+          <person xml:id="aner_b" sex="MALE" role="vir">
             <persName>Ἀνὴρ Β</persName>
           </person>
           <person xml:id="chremes" sex="MALE">
             <persName>Χρέμης</persName>
           </person>
-          <person xml:id="kerykaina" sex="UNKNOWN">
+          <person xml:id="kerykaina" sex="FEMALE">
             <persName>Κηρύκαινα</persName>
           </person>
-          <person xml:id="graus_a" sex="FEMALE">
+          <person xml:id="graus_a" sex="FEMALE" role="anus">
             <persName>Γραῦς Α</persName>
           </person>
-          <person xml:id="graus_b" sex="FEMALE">
+          <person xml:id="graus_b" sex="FEMALE" role="anus">
             <persName>Γραῦς Β</persName>
           </person>
-          <person xml:id="graus_g" sex="FEMALE">
+          <person xml:id="graus_g" sex="FEMALE" role="anus">
             <persName>Γραῦς Γ</persName>
           </person>
-          <person xml:id="neanis" sex="MALE">
+          <person xml:id="neanis" sex="MALE" role="virgo">
             <persName>Νεᾶνις</persName>
           </person>
-          <person xml:id="neanias" sex="MALE">
+          <person xml:id="neanias" sex="MALE" role="adulescens">
             <persName>Νεανίας</persName>
           </person>
-          <person xml:id="therapaina" sex="FEMALE">
+          <person xml:id="therapaina" sex="FEMALE" role="ancilla">
             <persName>Θεραπαίνα</persName>
           </person>
         </listPerson>

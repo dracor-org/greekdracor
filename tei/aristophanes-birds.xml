@@ -51,78 +51,102 @@
         <listPerson>
           <person xml:id="euelpides" sex="MALE" role="atheniensis">
             <persName>Ἐυελπίδης</persName>
+            <persName xml:lang="en">Euelpides</persName>
           </person>
           <person xml:id="pisthetairos" sex="MALE" role="atheniensis">
             <persName>Πισθέταιρος</persName>
+            <persName xml:lang="en">Pisthetaerus</persName>
           </person>
           <person xml:id="therapon-epopos" sex="MALE" role="servus avis" ana="https://www.wikidata.org/wiki/Q687310">
             <persName>Θεράπων Ἔποπος</persName>
+            <persName xml:lang="en">The Footbird of Hoopoe</persName>
           </person>
           <person xml:id="epops" sex="MALE" role="avis" ana="https://www.wikidata.org/wiki/Q1138506">
             <persName>Ἔποψ</persName>
+            <persName xml:lang="en">Epops (Hoopoe)</persName>
           </person>
           <personGrp xml:id="choros" sex="UNKNOWN" role="chorus avis">
             <name>Χορός</name>
             <name type="variant">Χορός Ὀρνιθών</name>
+            <name xml:lang="en">Chorus of Birds</name>
           </personGrp>
           <person xml:id="ornis_tis" sex="UNKNOWN" role="avis">
             <persName>Ὄρνις Τις</persName>
+            <persName xml:lang="en">A Bird</persName>
           </person>
           <person xml:id="keryx" sex="MALE" role="praeco">
             <persName>Κῆρυξ</persName>
+            <persName xml:lang="en">A Herald</persName>
           </person>
           <person xml:id="hiereus" sex="MALE" role="sacerdos">
             <persName>Ἱερεύς</persName>
+            <persName xml:lang="en">A Priest</persName>
           </person>
           <person xml:id="poietes" sex="MALE" role="poeta">
             <persName>Ποιητής</persName>
+            <persName xml:lang="en">A Poet</persName>
           </person>
           <person xml:id="chresmologos" sex="MALE" role="vates">
             <persName>Χρησμολόγος</persName>
+            <persName xml:lang="en">An Oracle-Monger</persName>
           </person>
           <person xml:id="meton" sex="MALE" role="astrologus" ana="https://www.wikidata.org/wiki/Q261909">
             <persName>Μέτων</persName>
             <persName type="variant">Μέτων γεωμέτρης</persName>
+            <persName xml:lang="en">Meton, a Geometrician</persName>
           </person>
           <person xml:id="episkopos" sex="MALE" role="speculator">
             <persName>Ἐπίσκοπος</persName>
+            <persName xml:lang="en">An Inspector</persName>
           </person>
           <person xml:id="psephismatopoles" sex="MALE" role="´mercator">
             <persName>Ψηφισματοπώλης</persName>
+            <persName xml:lang="en">A Dealer in Decrees</persName>
           </person>
           <person xml:id="angelos" sex="MALE" role="nuntius avis">
             <persName>Ἄγγελος</persName>
+            <persName xml:lang="en">A Messenger (a bird)</persName>
           </person>
           <person xml:id="angelos-a" sex="MALE" role="nuntius avis">
             <persName>Ἄγγελος Α</persName>
+            <persName xml:lang="en">Messenger A (a bird)</persName>
           </person>
           <person xml:id="angelos-b" sex="MALE" role="nuntius avis">
             <persName>Ἄγγελος Β</persName>
+            <persName xml:lang="en">Messenger B (a bird)</persName>
           </person>
           <person xml:id="iris" sex="FEMALE" role="dea" ana="https://www.wikidata.org/wiki/Q184570">
             <persName>Ἶρις</persName>
+            <persName xml:lang="en">Iris</persName>
           </person>
           <person xml:id="patraloias" sex="MALE" role="parricida">
             <persName>Πατραλοίας</persName>
+            <persName xml:lang="en">A Parricides</persName>
           </person>
           <person xml:id="kinesias" sex="MALE" role="poeta" ana="https://www.wikidata.org/wiki/Q2973270">
             <persName>Κινησίας</persName>
             <persName>Κινησίας διθυραμβοποιός</persName>
+            <persName xml:lang="en">Cinesias, a dithyrambic Poet</persName>
           </person>
           <person xml:id="sykophantes" sex="MALE" role="sycophanta">
             <persName>Συκοφάντης</persName>
+            <persName xml:lang="en">An Informer</persName>
           </person>
           <person xml:id="prometheus" sex="MALE" role="deus" ana="http://www.wikidata.org/entity/Q83160">
             <persName>Προμηθεύς</persName>
+            <persName xml:lang="en">Prometheus</persName>
           </person>
           <person xml:id="poseidon" sex="MALE" role="deus legatus" ana="http://www.wikidata.org/entity/Q41127">
             <persName>Ποσειδῶν</persName>
+            <persName xml:lang="en">Poseidon</persName>
           </person>
           <person xml:id="triballos" sex="MALE" role="deus legatus">
             <persName>Τριβαλλός</persName>
+            <persName xml:lang="en">Triballus</persName>
           </person>
           <person xml:id="herakles" sex="MALE" role="deus legatus" ana="http://www.wikidata.org/entity/Q122248">
             <persName>Ἡρακλῆς</persName>
+            <persName xml:lang="en">Heracles</persName>
           </person>
           <listRelation>
             <relation name="associated_with" active="#therapon-epopos" passive="#epops"/>

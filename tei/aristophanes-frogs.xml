@@ -49,51 +49,51 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="therapaina" sex="FEMALE">
-            <persName>Θεράπαινα</persName>
-          </person>
-          <person xml:id="euripides" sex="MALE" ana="http://www.wikidata.org/entity/Q48305">
-            <persName>Εὐριπίδης</persName>
-          </person>
-          <person xml:id="aiakos" sex="MALE">
-            <persName>Ἄιακος</persName>
-          </person>
-          <person xml:id="pandokeutria" sex="FEMALE">
-            <persName>Πανδοκευτρία</persName>
-          </person>
           <person xml:id="xanthias" sex="MALE">
             <persName>Ξανθίας</persName>
-          </person>
-          <person xml:id="aischylos" sex="MALE" ana="http://www.wikidata.org/entity/Q40939">
-            <persName>Αἰσχύλος</persName>
-          </person>
-          <person xml:id="plathane" sex="FEMALE">
-            <persName>Πλαθάνη</persName>
-          </person>
-          <person xml:id="herakles" sex="MALE" ana="http://www.wikidata.org/entity/Q122248">
-            <persName>Ἡρακλῆς</persName>
           </person>
           <person xml:id="dionysos" sex="MALE" ana="http://www.wikidata.org/entity/Q41680">
             <persName>Διόνυσος</persName>
           </person>
-          <person xml:id="charon" sex="MALE" ana="http://www.wikidata.org/entity/Q6612">
-            <persName>Χάρων</persName>
+          <person xml:id="herakles" sex="MALE" ana="http://www.wikidata.org/entity/Q122248">
+            <persName>Ἡρακλῆς</persName>
           </person>
           <person xml:id="nekros" sex="MALE">
             <persName>Νέκρος</persName>
           </person>
+          <person xml:id="charon" sex="MALE" ana="http://www.wikidata.org/entity/Q6612">
+            <persName>Χάρων</persName>
+          </person>
           <personGrp xml:id="batraxoi" sex="UNKNOWN">
             <name>Βάτραχοι</name>
           </personGrp>
-          <person xml:id="dis" sex="MALE">
-            <persName>Δις.</persName>
+          <personGrp xml:id="choros" sex="UNKNOWN">
+            <name>Χορός</name>
+          </personGrp>
+          <person xml:id="aiakos" sex="MALE">
+            <persName>Ἄιακος</persName>
+          </person>
+          <person xml:id="therapaina" sex="FEMALE">
+            <persName>Θεράπαινα</persName>
+          </person>
+          <person xml:id="pandokeutria" sex="FEMALE">
+            <persName>Πανδοκευτρία</persName>
+          </person>
+          <person xml:id="plathane" sex="FEMALE">
+            <persName>Πλαθάνη</persName>
+          </person>
+          <person xml:id="euripides" sex="MALE" ana="http://www.wikidata.org/entity/Q48305">
+            <persName>Εὐριπίδης</persName>
+          </person>
+          <person xml:id="aischylos" sex="MALE" ana="http://www.wikidata.org/entity/Q40939">
+            <persName>Αἰσχύλος</persName>
           </person>
           <person xml:id="plouton" sex="MALE">
             <persName>Πλούτων</persName>
           </person>
-          <personGrp xml:id="choros" sex="UNKNOWN">
-            <name>Χορός</name>
-          </personGrp>
+          <person xml:id="dis" sex="MALE">
+            <persName>Δις.</persName>
+          </person>
         </listPerson>
       </particDesc>
       <textClass>

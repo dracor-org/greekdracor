@@ -51,48 +51,62 @@
         <listPerson>
           <person xml:id="xanthias" sex="MALE" role="servus" ana="https://www.wikidata.org/wiki/Q8042969">
             <persName>Ξανθίας</persName>
+            <persName xml:lang="en">Xanthias</persName>
           </person>
           <person xml:id="dionysos" sex="MALE" role="deus" ana="http://www.wikidata.org/entity/Q41680">
             <persName>Διόνυσος</persName>
+            <persName xml:lang="en">Dionysus</persName>
           </person>
           <person xml:id="herakles" sex="MALE" role="heros" ana="http://www.wikidata.org/entity/Q122248">
             <persName>Ἡρακλῆς</persName>
+            <persName xml:lang="en">Heracles</persName>
           </person>
           <person xml:id="nekros" sex="MALE" role="mortuus">
             <persName>Νέκρος</persName>
+            <persName xml:lang="en">A Corpse</persName>
           </person>
           <person xml:id="charon" sex="MALE" role="inferus" ana="http://www.wikidata.org/entity/Q6612">
             <persName>Χάρων</persName>
+            <persName xml:lang="en">Charon</persName>
           </person>
           <personGrp xml:id="batraxoi" sex="UNKNOWN" role="chorus rana">
             <name>Βάτραχοι</name>
             <name type="variant">Παραχορήγημα βατράχων</name>
+            <name xml:lang="en">Secondary Chorus of Frogs</name>
           </personGrp>
           <personGrp xml:id="choros" sex="UNKNOWN" role="chorus">
             <name>Χορός</name>
             <name type="variant">Χορὸς μυστῶν</name>
+            <name xml:lang="en">Chorus of Initiates</name>
           </personGrp>
           <person xml:id="aiakos" sex="MALE" role="inferus">
             <persName>Ἄιακος</persName>
+            <persName xml:lang="en">Aeacus</persName>
           </person>
           <person xml:id="therapaina" sex="FEMALE" role="ancilla">
             <persName>Θεράπαινα</persName>
             <persName type="variant">Θεράπαινα Περσεφόνης</persName>
+            <persName xml:lang="en">Maid of Persephone</persName>
           </person>
           <person xml:id="pandokeutria" sex="FEMALE" role="hospita">
             <persName>Πανδοκευτρία</persName>
+            <persName xml:lang="en">A Hostess</persName>
           </person>
           <person xml:id="plathane" sex="FEMALE" role="hospita">
             <persName>Πλαθάνη</persName>
+            <persName xml:lang="en">Plathane</persName>
           </person>
           <person xml:id="euripides" sex="MALE" role="poeta" ana="http://www.wikidata.org/entity/Q48305">
             <persName>Εὐριπίδης</persName>
+            <persName xml:lang="en">Euripides</persName>
           </person>
           <person xml:id="aischylos" sex="MALE" role="poeta" ana="http://www.wikidata.org/entity/Q40939">
             <persName>Αἰσχύλος</persName>
+            <persName xml:lang="en">Aeschylus</persName>
           </person>
           <person xml:id="plouton" sex="MALE" role="deus" ana="https://www.wikidata.org/wiki/Q152262">
             <persName>Πλούτων</persName>
+            <persName xml:lang="en">Pluto</persName>
           </person>
           <listRelation>
             <relation name="associated_with" active="#xanthias" passive="#dionysos"/>

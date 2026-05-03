@@ -67,9 +67,9 @@
             <persName type="variant">Χορὸς Ἀγάθωνος</persName>
             <persName xml:lang="en">Agathon</persName>
           </person>
-          <person xml:id="kerykaina" sex="FEMALE">
+          <person xml:id="kerykaina" sex="FEMALE" role="praeco">
             <persName>Κηρύκαινα</persName>
-            <persName xml:lang="en">A Charwoman</persName>
+            <persName xml:lang="en">A Herald</persName>
           </person>
           <personGrp xml:id="choros" sex="FEMALE" role="chorus uxor">
             <name>Χορός</name>

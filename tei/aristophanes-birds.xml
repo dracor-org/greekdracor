@@ -124,6 +124,9 @@
           <person xml:id="herakles" sex="MALE" role="deus legatus" ana="http://www.wikidata.org/entity/Q122248">
             <persName>Ἡρακλῆς</persName>
           </person>
+          <listRelation>
+            <relation name="associated_with" active="#therapon_epopos" passive="#epops"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

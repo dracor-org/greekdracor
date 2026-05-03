@@ -49,6 +49,7 @@
     <profileDesc>
       <particDesc>
         <listPerson>
+          <person xml:id="mnesilochos" sex="MALE" role="senex">
             <persName>Μνησίλοχος</persName>
           </person>
           <person xml:id="euripides" sex="MALE" role="poeta" ana="http://www.wikidata.org/entity/Q48305">
@@ -67,25 +68,25 @@
           <person xml:id="kerykaina" sex="FEMALE">
             <persName>Κηρύκαινα</persName>
           </person>
-          <personGrp xml:id="choros" sex="UNKNOWN">
+          <personGrp xml:id="choros" sex="FEMALE" role="chorus uxor">
             <name>Χορός</name>
           </personGrp>
-          <person xml:id="gyne_a" sex="FEMALE">
+          <person xml:id="gyne_a" sex="FEMALE" role="uxor">
             <persName>Γυνὴ Α</persName>
           </person>
-          <person xml:id="gyne_b" sex="FEMALE">
+          <person xml:id="gyne_b" sex="FEMALE" role="uxor">
             <persName>Γυνὴ Β</persName>
           </person>
-          <person xml:id="gyne_g" sex="FEMALE">
+          <person xml:id="gyne_g" sex="FEMALE" role="uxor">
             <persName>Γυνὴ Γ</persName>
           </person>
           <person xml:id="kleisthenes" sex="MALE" ana="https://www.wikidata.org/wiki/Q5131112">
             <persName>Κλεισθένης</persName>
           </person>
-          <person xml:id="prytanis" sex="MALE" ana="https://www.wikidata.org/wiki/Q456334">
+          <person xml:id="prytanis" sex="MALE" role="magistratus" ana="https://www.wikidata.org/wiki/Q456334">
             <persName>Πρύτανις</persName>
           </person>
-          <person xml:id="toksotes" sex="MALE" ana="https://www.wikidata.org/wiki/Q12884611">
+          <person xml:id="toksotes" sex="MALE" role="custos" ana="https://www.wikidata.org/wiki/Q12884611">
             <persName>Τοξότης</persName>
           </person>
         </listPerson>
@@ -558,7 +559,7 @@ bring up to P3
             <l real="-xx--xo-o-">λαμπάδα κοῦραι ξὺν ἐλευθέρᾳ</l>
             <l real="xxxo--oox">πατρίδι χορεύσασθε βοάν.</l>
           </sp>
-          <sp who="#xorosagathonos">
+          <sp who="#agathonos">
             <speaker>Χορὸς Ἀγάθωνος</speaker>
             <l real="xx-o-o-o">τίνι δαιμόνων ὁ κῶμος;</l>
             <l n="105" real="oox---o-o">λέγε νυν. εὐπίστως δὲ τοὐμὸν</l>
@@ -571,7 +572,7 @@ bring up to P3
             <l n="110" real="-ooxxxo-x">Φοῖβον, ὃς ἱδρύσατο χώρας</l>
             <l real="xxxx-xx-">γύαλα Σιμουντίδι γᾷ.</l>
           </sp>
-          <sp who="#xorosagathonos">
+          <sp who="#agathonos">
             <speaker>Χορὸς Ἀγάθωνος</speaker>
             <l real="-o--xx--">χαῖρε καλλίστας ἀοιδᾶς</l>
             <l real="-o---xx-">Φοῖβ’ ἐν εὐμούσοισι τιμαῖς</l>
@@ -583,7 +584,7 @@ bring up to P3
             <l n="115" real="oxx-x">κόραν ἀείσατ’</l>
             <l real="-oxxoox">Ἄρτεμιν ἀγροτέραν.</l>
           </sp>
-          <sp who="#xorosagathonos">
+          <sp who="#agathonos">
             <speaker>Χορὸς Ἀγάθωνος</speaker>
             <l real="oo---x-o">ἕπομαι κλῄζουσα σεμνὸν</l>
             <l real="oo---xx-">γόνον ὀλβίζουσα Λατοῦς</l>
@@ -595,7 +596,7 @@ bring up to P3
             <l real="oxxxx-xxxx-">ποδὶ †παράρυθμ’ εὔρυθμα Φρυγίων</l>
             <l real="xx-xxxx-">διανεύματα Χαρίτων†.</l>
           </sp>
-          <sp who="#xorosagathonos">
+          <sp who="#agathonos">
             <speaker>Χορὸς Ἀγάθωνος</speaker>
             <l real="oo-x-x-x">σέβομαι Λατώ τ’ ἄνασσαν</l>
             <l real="xx-oxo--">κίθαρίν τε ματέρ’ ὕμνων</l>

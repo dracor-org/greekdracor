@@ -66,15 +66,18 @@
           </person>
           <personGrp xml:id="batraxoi" sex="UNKNOWN">
             <name>Βάτραχοι</name>
+            <name type="variant">Παραχορήγημα βατράχων</name>
           </personGrp>
           <personGrp xml:id="choros" sex="UNKNOWN">
             <name>Χορός</name>
+            <name type="variant">Χορὸς μυστῶν</name>
           </personGrp>
           <person xml:id="aiakos" sex="MALE">
             <persName>Ἄιακος</persName>
           </person>
           <person xml:id="therapaina" sex="FEMALE">
             <persName>Θεράπαινα</persName>
+            <persName type="variant">Θεράπαινα Περσεφόνης</persName>
           </person>
           <person xml:id="pandokeutria" sex="FEMALE">
             <persName>Πανδοκευτρία</persName>
@@ -91,9 +94,12 @@
           <person xml:id="plouton" sex="MALE">
             <persName>Πλούτων</persName>
           </person>
-          <person xml:id="dis" sex="MALE">
+          <person xml:id="dis" sex="MALE" role="deus">
             <persName>Δις.</persName>
           </person>
+          <listRelation>
+            <relation name="associated_with" active="#xanthias" passive="#euripides"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

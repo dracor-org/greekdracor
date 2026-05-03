@@ -52,13 +52,13 @@
           <person xml:id="praxagora" sex="FEMALE" role="uxor">
             <persName>Πραξάγορα</persName>
           </person>
-          <person xml:id="gyne_a" sex="FEMALE" role="uxor">
+          <person xml:id="gyne-a" sex="FEMALE" role="uxor">
             <persName>Γυνὴ Α</persName>
           </person>
-          <person xml:id="gyne_b" sex="FEMALE" role="uxor">
+          <person xml:id="gyne-b" sex="FEMALE" role="uxor">
             <persName>Γυνὴ Β</persName>
           </person>
-          <person xml:id="gyne_g" sex="FEMALE" role="uxor">
+          <person xml:id="gyne-g" sex="FEMALE" role="uxor">
             <persName>Γυνὴ Γ</persName>
           </person>
           <personGrp xml:id="choros" sex="FEMALE" role="chorus">
@@ -71,10 +71,10 @@
           <person xml:id="aner" sex="MALE" role="vir">
             <persName>Ἀνήρ</persName>
           </person>
-          <person xml:id="aner_a" sex="MALE" role="vir">
+          <person xml:id="aner-a" sex="MALE" role="vir">
             <persName>Ἀνὴρ Α</persName>
           </person>
-          <person xml:id="aner_b" sex="MALE" role="vir">
+          <person xml:id="aner-b" sex="MALE" role="vir">
             <persName>Ἀνὴρ Β</persName>
           </person>
           <person xml:id="chremes" sex="MALE" role="senex">
@@ -83,13 +83,13 @@
           <person xml:id="kerykaina" sex="FEMALE" role="praeco">
             <persName>Κηρύκαινα</persName>
           </person>
-          <person xml:id="graus_a" sex="FEMALE" role="anus">
+          <person xml:id="graus-a" sex="FEMALE" role="anus">
             <persName>Γραῦς Α</persName>
           </person>
-          <person xml:id="graus_b" sex="FEMALE" role="anus">
+          <person xml:id="graus-b" sex="FEMALE" role="anus">
             <persName>Γραῦς Β</persName>
           </person>
-          <person xml:id="graus_g" sex="FEMALE" role="anus">
+          <person xml:id="graus-g" sex="FEMALE" role="anus">
             <persName>Γραῦς Γ</persName>
           </person>
           <person xml:id="neanis" sex="MALE" role="virgo">
@@ -229,7 +229,7 @@ convert to p3
           <l real="ox-xooxoxx---xx">προσιόντα. φέρε νυν ἐπαναχωρήσω πάλιν,</l>
           <l real="--x-x-xox--x-">μὴ καί τις ὢν ἀνὴρ ὁ προσιὼν τυγχάνῃ.</l>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l n="30" real="-xx---o---x-">ὥρα βαδίζειν, ὡς ὁ κῆρυξ ἀρτίως</l>
           <l real="--ox---o-o-xo">ἡμῶν προσιουσῶν δεύτερον κεκόκκυκεν.</l>
@@ -241,7 +241,7 @@ convert to p3
           <l real="--xo--xo-x-xx">τήνδ’ ἐκκαλέσωμαι θρυγονῶσα τὴν θύραν.</l>
           <l n="35" real="--o---x-">δεῖ γὰρ τὸν ἄνδρ’ αὐτῆς λαθεῖν.</l>
         </sp>
-        <sp who="#gyne_b">
+        <sp who="#gyne-b">
           <speaker>Γυνὴ Β</speaker>
           <l part="Y" real="--x-">ἤκουσά τοι</l>
           <l real="xo-o-x-x---x-">ὑποδουμένη τὸ κνῦμά σου τῶν δακτύλων,</l>
@@ -251,7 +251,7 @@ convert to p3
           <l n="40" real="--x-x-xxo--xo">ὥστ’ ἄρτι τουτὶ θοἰμάτιον αὐτοῦ ’λαβον.</l>
           <milestone ed="p" n="41" unit="card"/>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l real="--o---xo---x-">καὶ μὴν ὁρῶ καὶ Κλειναρέτην καὶ Σωστράτην</l>
           <l real="ox-x---o-x-o-">προσιοῦσαν ἤδη τήνδε καὶ Φιλαινέτην.</l>
@@ -262,7 +262,7 @@ convert to p3
           <l real="--x---x---o-">τὴν ὑστάτην ἥκουσαν οἴνου τρεῖς χοᾶς</l>
           <l n="45" real="--xo--xo---xx">ἡμῶν ἀποτείσειν κἀρεβίνθων χοίνικα.</l>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l real="-xxx---o-o-x-">τὴν Σμικυθίωνος δ’ οὐχ ὁρᾷς Μελιστίχην</l>
           <l real="--x---xx">σπεύδουσαν ἐν ταῖς ἐμβάσιν;</l>
@@ -272,18 +272,18 @@ convert to p3
           <l part="Y" real="--o-">καίτοι δοκεῖ</l>
           <l real="x-o-xx-o---o-">κατὰ σχολὴν παρὰ τἀνδρὸς ἐξελθεῖν μόνη.</l>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l real="--x---o---x-">τὴν τοῦ καπήλου δ’ οὐχ ὁρᾷς Γευσιστράτην</l>
           <l n="50" real="o-x---x---xx">ἔχουσαν ἐν τῇ δεξιᾷ τὴν λαμπάδα;</l>
         </sp>
-        <sp who="#gyne_b">
+        <sp who="#gyne-b">
           <speaker>Γυνὴ Β</speaker>
           <l real="--xo---o---x-">καὶ τὴν Φιλοδωρήτου τε καὶ Χαιρητάδου</l>
           <l real="o-ox--xo---xx">ὁρῶ προσιούσας χἀτέρας πολλὰς πάνυ</l>
           <l real="x-xoxo-ooo--o-">γυναῖκας, ὅ τι πέρ ἐστ’ ὄφελος ἐν τῇ πόλει.</l>
         </sp>
-        <sp who="#gyne_g">
+        <sp who="#gyne-g">
           <speaker>Γυνὴ Γ</speaker>
           <l real="-xxx---o---x-">καὶ πάνυ ταλαιπώρως ἔγωγ’ ὦ φιλτάτη</l>
           <l n="55" real="--xxoxoxx---o-">ἐκδρᾶσα παρέδυν. ὁ γὰρ ἀνὴρ τὴν νύχθ’ ὅλην</l>
@@ -295,7 +295,7 @@ convert to p3
           <l real="x-o---oxoxo-">ὑμᾶς, ἐπειδὴ συλλελεγμένας ὁρῶ,</l>
           <l real="o-x-o-o-xxxo">ὅσα Σκίροις ἔδοξεν εἰ δεδράκατε.</l>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l n="60" real="o-x---o---xx">ἔγωγε. πρῶτον μέν γ’ ἔχω τὰς μασχάλας</l>
           <l real="x-xxo-xxo---oo">λόχμης δασυτέρας, καθάπερ ἦν ξυγκείμενον·</l>
@@ -303,7 +303,7 @@ convert to p3
           <l real="x-xo-o-o-x-ox">ἀλειψαμένη τὸ σῶμ’ ὅλον δῑ ἡμέρας</l>
           <l real="x-o---x-o-xo">ἐχραινόμην ἑστῶσα πρὸς τὸν ἥλιον.</l>
         </sp>
-        <sp who="#gyne_b">
+        <sp who="#gyne-b">
           <speaker>Γυνὴ Β</speaker>
           <l n="65" real="x-o-x-o---xx">κἄγωγε· τὸ ξυρὸν δέ γ’ ἐκ τῆς οἰκίας</l>
           <l real="--x-oxxx---o-">ἔρριψα πρῶτον, ἵνα δασυνθείην ὅλη</l>
@@ -314,11 +314,11 @@ convert to p3
           <l real="oooo---x---o-">ἔχετε δὲ τοὺς πώγωνας, οὓς εἴρητ’ ἔχειν</l>
           <l real="x-x--ooo-o-ox">πάσαισιν ἡμῖν, ὁπότε συλλεγοίμεθα;</l>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l n="70" real="--ox-x-o-o-ox">νὴ τὴν Ἑκάτην καλόν γ’ ἔγωγε τουτονί.</l>
         </sp>
-        <sp who="#gyne_b">
+        <sp who="#gyne-b">
           <speaker>Γυνὴ Β</speaker>
           <l real="x-oxx--ox--xox">κἄγωγ’ Ἑπικράτους οὐκ ὀλίγῳ καλλίονα.</l>
         </sp>
@@ -326,7 +326,7 @@ convert to p3
           <speaker>Πραξάγορα</speaker>
           <l real="x-oxxo">ὑμεῖς δὲ τί φατε;</l>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l part="Y" real="xxxx--xx">φασί· κατανεύουσι γάρ.</l>
         </sp>
@@ -336,12 +336,12 @@ convert to p3
           <l real="x-x-xooo---xx">Λακωνικὰς γὰρ ἔχετε καὶ βακτηρίας</l>
           <l n="75" real="--xxx--xxxo-oo">καὶ θαἰμάτια τἀνδρεῖα, καθάπερ εἴπομεν.</l>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l real="o-o--xxo---x-">ἔγωγέ τοι τὸ σκύταλον ἐξηνεγκάμην</l>
           <l real="o-xx--xx---x-">τὸ τοῦ Λαμίου τουτὶ καθεύδοντος λάθρᾳ.</l>
         </sp>
-        <sp who="#gyne_b">
+        <sp who="#gyne-b">
           <speaker>Γυνὴ Β</speaker>
           <l real="--o---xx---o-">τοῦτ’ ἔστ’ ἐκείνων τῶν σκυτάλων ὧν πέρδεται.</l>
         </sp>
@@ -356,12 +356,12 @@ convert to p3
           <l n="85" real="--x---o-o-o-">ἡμεῖς βαδίζειν, ἐξ ἕω γενήσεται.</l>
           <milestone ed="p" n="86" unit="card"/>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l real="--x-o-oxxx-xx">νὴ τὸν Δί’ ὥστε δεῖ σε καταλαβεῖν ἕδρας</l>
           <l real="xo-x--xxo-x-xx">ὑπὸ τῷ λίθῳ τῶν πρυτάνεων καταντικρύ.</l>
         </sp>
-        <sp who="#gyne_b">
+        <sp who="#gyne-b">
           <speaker>Γυνὴ Β</speaker>
           <l real="-xo---xooo-xx">ταυτί γέ τοι νὴ τὸν Δί’ ἐφερόμην, ἵνα</l>
           <l real="--o---x---xx">πληρουμένης ξαίνοιμι τῆς ἐκκλησίας.</l>
@@ -370,7 +370,7 @@ convert to p3
           <speaker>Πραξάγορα</speaker>
           <l n="90" real="--o-x-x">πληρουμένης τάλαινα;</l>
         </sp>
-        <sp who="#gyne_b">
+        <sp who="#gyne-b">
           <speaker>Γυνὴ Β</speaker>
           <l part="Y" real="---ox">νὴ τὴν Ἄρτεμιν</l>
           <l real="o-oxx--oxo--xx">ἔγωγε. τί γὰρ ἂν χεῖρον ἀκροῴμην ἄρα</l>
@@ -388,7 +388,7 @@ convert to p3
           <l n="100" real="o-x-o-ox-o-o-">ὅταν καθῶμεν ὃν περιδησόμεσθ’ ἐκεῖ,</l>
           <l real="x-x---x---o-">τίς οὐκ ἂν ἡμᾶς ἄνδρας ἡγήσαιθ’ ὁρῶν;</l>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l real="x-x---oo---o-">Ἀγύρριος γοῦν τὸν Προνόμου πώγων’ ἔχων</l>
           <l real="o-o--ooo---x-">λέληθε· καίτοι πρότερον ἦν οὗτος γυνή·</l>
@@ -402,7 +402,7 @@ convert to p3
           <l real="x-o-xx-x---ox">δυνώμεθ’, ὥστ’ ἀγαθόν τι πρᾶξαι τὴν πόλιν·</l>
           <l real="--x-oooo-o-oo">νῦν μὲν γὰρ οὔτε θέομεν οὔτ’ ἐλαύνομεν.</l>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l n="110" real="--x---x-x-xx">καὶ πῶς γυναικῶν θηλύφρων ξυνουσία</l>
           <l real="--o--">δημηγορήσει;</l>
@@ -414,7 +414,7 @@ convert to p3
           <l real="--o---ox---o-">πλεῖστα σποδοῦνται, δεινοτάτους εἶναι λέγειν·</l>
           <l real="--x---oxxx-xx">ἡμῖν δ’ ὑπάρχει τοῦτο κατὰ τύχην τινά.</l>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l n="115" real="--x---x---xx">οὐκ οἶδα· δεινὸν δ’ ἐστὶν ἡ μὴ ’μπειρία.</l>
         </sp>
@@ -425,7 +425,7 @@ convert to p3
           <l real="--x-oo-o-ox-o-">οὐκ ἂν φθάνοις τὸ γένειον ἂν περιδουμένη</l>
           <l real="--o-x-ooo-xx-">ἄλλαι θ’ ὅσαι λαλεῖν μεμελετήκασί που.</l>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l n="120" real="--o---x-o-x-">τίς δ’ ὦ μέλ’ ἡμῶν οὐ λαλεῖν ἐπίσταται;</l>
         </sp>
@@ -435,7 +435,7 @@ convert to p3
           <l real="o-o-x-ox-ox-o-">ἐγὼ δὲ θεῖσα τοὺς στεφάνους περιδήσομαι</l>
           <l real="--ox--x---o-">καὐτὴ μεθ’ ὑμῶν, ἤν τί μοι δόξῃ λέγειν.</l>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l real="--xxx--xo---xx">δεῦρ’ ὦ γλυκυτάτη Πραξαγόρα, σκέψαι τάλαν</l>
           <l n="125" real="--xxo--x-x-o-">ὡς καὶ καταγέλαστον τὸ πρᾶγμα φαίνεται.</l>
@@ -444,7 +444,7 @@ convert to p3
           <speaker>Πραξάγορα</speaker>
           <l real="-xxo-o">πῶς καταγέλαστον;</l>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l part="Y" real="-o---x-">ὥσπερ εἴ τις σηπίαις</l>
           <l real="--xox--o-x-o-">πώγωνα περιδήσειεν ἐσταθευμέναις.</l>
@@ -456,7 +456,7 @@ convert to p3
           <l real="xx-x-oxxx---x-">πάριτ’ ἐς τὸ πρόσθεν. Ἀρίφραδες παῦσαι λαλῶν.</l>
           <l n="130" real="x-oxx-xxo---o-">κάθιζε παριών. τίς ἀγορεύειν βούλεται;</l>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l real="o-">ἐγώ.</l>
         </sp>
@@ -464,7 +464,7 @@ convert to p3
           <speaker>Πραξάγορα</speaker>
           <l part="Y" real="ox---ox-xxx-">περίθου δὴ τὸν στέφανον τύχἀγαθῇ.</l>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l real="x-">ἰδού.</l>
         </sp>
@@ -472,7 +472,7 @@ convert to p3
           <speaker>Πραξάγορα</speaker>
           <l part="Y" real="o-x">λέγοις ἄν.</l>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l part="Y" real="-x-x-o-">εἶτα πρὶν πιεῖν λέγω;</l>
         </sp>
@@ -480,7 +480,7 @@ convert to p3
           <speaker>Πραξάγορα</speaker>
           <l real="x-x-">ἰδοὺ πιεῖν.</l>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l part="Y" real="xx-o-ox-x-">τί γὰρ ὦ μέλ’ ἐστεφανωσάμην;</l>
         </sp>
@@ -489,7 +489,7 @@ convert to p3
           <l real="xx-o---x---x-">ἄπιθ’ ἐκποδών· τοιαῦτ’ ἂν ἡμᾶς ἠργάσω</l>
           <l n="135" real="x-">κἀκεῖ.</l>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l part="Y" real="x-x-x---x-">τί δ’; οὐ πίνουσι κἀν τἠκκλησίᾳ;</l>
         </sp>
@@ -497,7 +497,7 @@ convert to p3
           <speaker>Πραξάγορα</speaker>
           <l real="x-o-x-x">ἰδού γε σοὶ πίνουσι.</l>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l part="Y" real="---ox">νὴ τὴν Ἄρτεμιν</l>
           <l real="--x---x---xx">καὶ ταῦτα γ’ εὔζωρον. τὰ γοῦν βουλεύματα</l>
@@ -512,7 +512,7 @@ convert to p3
           <speaker>Πραξάγορα</speaker>
           <l real="x-x-o-x---x-">σὺ μὲν βάδιζε καὶ κάθησ’· οὐδὲν γὰρ εἶ.</l>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l n="145" real="--x---o---o-">νὴ τὸν Δί’ ἦ μοι μὴ γενειᾶν κρεῖττον ἦν·</l>
           <l real="--x-o-x---o-">δίψῃ γάρ, ὡς ἔοικ’, ἀφαυανθήσομαι.</l>
@@ -521,7 +521,7 @@ convert to p3
           <speaker>Πραξάγορα</speaker>
           <l real="--xoox-o-o-">ἔσθ’ ἥτις ἑτέρα βούλεται λέγειν;</l>
         </sp>
-        <sp who="#gyne_b">
+        <sp who="#gyne-b">
           <speaker>Γυνὴ Β</speaker>
           <l part="Y" real="o-">ἐγώ.</l>
         </sp>
@@ -531,7 +531,7 @@ convert to p3
           <l real="xoxo---x-x-o-">ἄγε νυν ὅπως ἀνδριστὶ καὶ καλῶς ἐρεῖς</l>
           <l n="150" real="xo-xo---x---x-">διερεισαμένη τὸ σχῆμα τῇ βακτηρίᾳ.</l>
         </sp>
-        <sp who="#gyne_b">
+        <sp who="#gyne-b">
           <speaker>Γυνὴ Β</speaker>
           <l real="o-o-oxoo---x-">ἐβουλόμην μὲν ἂν ἕτερον τῶν ἠθάδων</l>
           <l real="o-x--xox---xo">λέγειν τὰ βέλτισθ’, ἵν’ ἐκαθήμην ἥσυχος·</l>
@@ -543,7 +543,7 @@ convert to p3
           <speaker>Πραξάγορα</speaker>
           <l real="x-o-x-x---o-">μὰ τὼ θεώ; τάλαινα ποῦ τὸν νοῦν ἔχεις;</l>
         </sp>
-        <sp who="#gyne_b">
+        <sp who="#gyne-b">
           <speaker>Γυνὴ Β</speaker>
           <l real="x-x---x---xo">τί δ’ ἔστιν; οὐ γὰρ δὴ πιεῖν γ’ ᾔτησά σε.</l>
         </sp>
@@ -552,7 +552,7 @@ convert to p3
           <l real="xx-x---o-x-ox">μὰ Δί’ ἀλλ’ ἀνὴρ ὢν τὼ θεὼ κατώμοσας,</l>
           <l real="--x---x-x-xx">καίτοι τά γ’ ἄλλ’ εἰποῦσα δεξιώτατα.</l>
         </sp>
-        <sp who="#gyne_b">
+        <sp who="#gyne-b">
           <speaker>Γυνὴ Β</speaker>
           <l n="160" real="--ox--">ὢ νὴ τὸν Ἀπόλλω.</l>
         </sp>
@@ -562,7 +562,7 @@ convert to p3
           <l real="--xx---o---ox">ἐκκλησιάσουσ’ οὐκ ἂν προβαίην τὸν πόδα</l>
           <l real="oooo---xx--o-">τὸν ἕτερον, εἰ μὴ ταῦτ’ ἀκριβωθήσεται.</l>
         </sp>
-        <sp who="#gyne_b">
+        <sp who="#gyne-b">
           <speaker>Γυνὴ Β</speaker>
           <l real="oo-oxoo-x---xx">φέρε τὸν στέφανον· ἐγὼ γὰρ αὖ λέξω πάλιν.</l>
           <l real="--x--ooo-o-x-">οἶμαι γὰρ ἤδη μεμελετηκέναι καλῶς.</l>
@@ -572,7 +572,7 @@ convert to p3
           <speaker>Πραξάγορα</speaker>
           <l real="x-x---o---o-">γυναῖκας αὖ δύστηνε τοὺς ἄνδρας λέγεις;</l>
         </sp>
-        <sp who="#gyne_b">
+        <sp who="#gyne-b">
           <speaker>Γυνὴ Β</speaker>
           <l real="xoxo-o-oox-xxx">δῑ Ἐπίγονόν γ’ ἐκεῖνον· ἐπιβλέψασα γὰρ</l>
           <l real="o-x-x-x-o-o-">ἐκεῖσε πρὸς γυναῖκας ᾠόμην λέγειν.</l>
@@ -601,7 +601,7 @@ convert to p3
           <l real="o-x---xx---x-">ὁ δ’ οὐ λαβὼν εἶναι θανάτου φήσ’ ἀξίους</l>
           <l real="--oo---x---x-">τοὺς μισθοφορεῖν ζητοῦντας ἐν τἠκκλησίᾳ.</l>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l real="--xox--o-xxo-">νὴ τὴν Ἀφροδίτην εὖ γε ταυταγὶ λέγεις.</l>
         </sp>
@@ -610,7 +610,7 @@ convert to p3
           <l n="190" real="x-xox--o-xx-xx">τάλαιν’ Ἀφροδίτην ὤμοσας; χαρίεντά γ’ ἂν</l>
           <l real="xxx---x---x-">ἔδρασας, εἰ τοῦτ’ εἶπας ἐν τἠκκλησίᾳ.</l>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l real="--x-o">ἀλλ’ οὐκ ἂν εἶπον.</l>
         </sp>
@@ -630,7 +630,7 @@ convert to p3
           <l real="xx-o-o-xxxx-oo">Θρασύβουλος αὐτὸς οὐχὶ παρακαλούμενος.</l>
           <milestone ed="p" n="204" unit="card"/>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l real="-xoox-">ὡς ξυνετὸς ἁνήρ.</l>
         </sp>
@@ -646,11 +646,11 @@ convert to p3
           <l real="--xx---x---x-">ἡμᾶς παραδοῦναι. καὶ γὰρ ἐν ταῖς οἰκίαις</l>
           <l real="--oxo--xx-x-ox">ταύταις ἐπιτρόποις καὶ ταμίαισι χρώμεθα.</l>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l real="--o-x-o">εὖ γ’ εὖ γε νὴ Δί’ εὖ γε.</l>
         </sp>
-        <sp who="#gyne_b">
+        <sp who="#gyne-b">
           <speaker>Γυνὴ Β</speaker>
           <l part="Y" real="ooo-xo">λέγε λέγ’ ὦγαθέ.</l>
         </sp>
@@ -686,7 +686,7 @@ convert to p3
           <l n="240" real="--o---x-x-oo">εὐδαιμονοῦντες τὸν βίον διάξετε.</l>
           <milestone ed="p" n="241" unit="card"/>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l real="--xxx--xox--x-">εὖ γ’ ὦ γλυκυτάτη Πραξαγόρα καὶ δεξιῶς.</l>
           <l real="oo-x-x-oxo--x-">πόθεν ὦ τάλαινα ταῦτ’ ἔμαθες οὕτω καλῶς;</l>
@@ -696,7 +696,7 @@ convert to p3
           <l real="--x-ox-o---xx">ἐν ταῖς φυγαῖς μετὰ τἀνδρὸς ᾤκησ’ ἐν πυκνί·</l>
           <l real="o-x---ox---o-">ἔπειτ’ ἀκούουσ’ ἐξέμαθον τῶν ῥητόρων.</l>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l n="245" real="-oox-o-x---o-">οὐκ ἐτὸς ἄρ’ ὦ μέλ’ ἦσθα δεινὴ καὶ σοφή·</l>
           <l real="--x---x-o-oo">καί σε στρατηγεῖν αἱ γυναῖκες αὐτόθεν</l>
@@ -708,7 +708,7 @@ convert to p3
           <speaker>Πραξάγορα</speaker>
           <l n="250" real="--xxo--o">φήσω παραφρονεῖν αὐτόν.</l>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l part="Y" real="-x-oo">ἀλλὰ τοῦτό γε</l>
           <l real="xxx-o">ἴσασι πάντες.</l>
@@ -717,7 +717,7 @@ convert to p3
           <speaker>Πραξάγορα</speaker>
           <l part="Y" real="-x-o-o-">ἀλλὰ καὶ μελαγχολᾶν.</l>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l real="--xxx">καὶ τοῦτ’ ἴσασιν.</l>
         </sp>
@@ -726,7 +726,7 @@ convert to p3
           <l part="Y" real="-x-xxxx">ἀλλὰ καὶ τὰ τρύβλια</l>
           <l real="x-ox---oox--x-">κακῶς κεραμεύειν, τὴν δὲ πόλιν εὖ καὶ καλῶς.</l>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l real="x-ox--xx-o-o-">τί δ’ ἢν Νεοκλείδης ὁ γλάμων σε λοιδορῇ;</l>
         </sp>
@@ -734,7 +734,7 @@ convert to p3
           <speaker>Πραξάγορα</speaker>
           <l n="255" real="--o-o-x-x-o-">τούτῳ μὲν εἶπον ἐς κυνὸς πυγὴν ὁρᾶν.</l>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l real="x-xx---o">τί δ’ ἢν ὑποκρούωσίν σε;</l>
         </sp>
@@ -743,7 +743,7 @@ convert to p3
           <l part="Y" real="-x-o-">προσκινήσομαι</l>
           <l real="x-x-o-x---x-">ἅτ’ οὐκ ἄπειρος οὖσα πολλῶν κρουμάτων.</l>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l real="o-ooo--o---o-">ἐκεῖνο μόνον ἄσκεπτον, ἤν σ’ οἱ τοξόται</l>
           <l real="--xoxx-o">ἕλκωσιν, ὅ τι δράσεις ποτ’.</l>
@@ -753,11 +753,11 @@ convert to p3
           <l part="Y" real="---x-">ἐξαγκωνιῶ</l>
           <l n="260" real="-xo-x-ooo--o-">ὡδί· μέση γὰρ οὐδέποτε ληφθήσομαι.</l>
         </sp>
-        <sp who="#gyne_b">
+        <sp who="#gyne-b">
           <speaker>Γυνὴ Β</speaker>
           <l real="--o---o-o-oo">ἡμεῖς δέ γ’, ἢν αἴρωσ’, ἐᾶν κελεύσομεν.</l>
         </sp>
-        <sp who="#gyne_a">
+        <sp who="#gyne-a">
           <speaker>Γυνὴ Α</speaker>
           <l real="-xo---ox--x-">ταυτὶ μὲν ἡμῖν ἐντεθύμηται καλῶς</l>
           <l real="o-o-x-xxoo-o-">ἐκεῖνο δ’ οὐ πεφροντίκαμεν, ὅτῳ τρόπῳ</l>
@@ -781,7 +781,7 @@ convert to p3
           <l real="-xx-x-o-x-o-">πρεσβυτικόν τι, τὸν τρόπον μιμούμεναι</l>
           <l real="--x--">τὸν τῶν ἀγροίκων.</l>
         </sp>
-        <sp who="#gyne_b">
+        <sp who="#gyne-b">
           <speaker>Γυνὴ Β</speaker>
           <l part="Y" real="-o---oo">εὖ λέγεις· ἡμεῖς δέ γε</l>
           <l n="280" real="ox-o---xoox-o-">προΐωμεν αὐτῶν. καὶ γὰρ ἑτέρας οἴομαι</l>
@@ -1992,7 +1992,7 @@ convert to p3
             <l real="xxxo---o-x-xx">ἵν’ ἀποβλέπωμαι καὶ λέγωσί μοι ταδί,</l>
             <l real="--x---o---oo">τὸν τῆς στρατηγοῦ τοῦτον οὐ θαυμάζετε;</l>
           </sp>
-          <sp who="#aner_a">
+          <sp who="#aner-a">
             <speaker>Ἀνὴρ Α</speaker>
             <l real="o-x-xo-o---o-">ἐγὼ δ’ ἵν’ εἰς ἀγοράν γε τὰ σκεύη φέρω,</l>
             <l real="o-x---ox---xx">προχειριοῦμαι κἀξετάσω τὴν οὐσίαν.</l>
@@ -2001,7 +2001,7 @@ convert to p3
         </div2>
       </div1>
       <div1 type="Episode">
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l n="730" real="--x-oxxxxx-x-">χώρει σὺ δεῦρο κιναχύρα καλὴ καλῶς</l>
           <l real="--x-x-x---o-">τῶν χρημάτων θύραζε πρώτη τῶν ἐμῶν,</l>
@@ -2021,7 +2021,7 @@ convert to p3
           <l n="745" real="xxxx---oxoxxoo">τὰ χυτρίδῑ ἤδη καὶ τὸν ὄχλον ἀφίετε.</l>
           <milestone ed="p" n="746" unit="card"/>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l real="o-xx--xxxo--xx">ἐγὼ καταθήσω τἀμά; κακοδαίμων ἄρα</l>
           <l real="x-oo---ox---oo">ἀνὴρ ἔσομαι καὶ νοῦν ὀλίγον κεκτημένος.</l>
@@ -2034,130 +2034,130 @@ convert to p3
           <l real="oo-o--ooo-o-ox">πότερον μετοικιζόμενος ἐξενήνοχας</l>
           <l n="755" real="--o-ooxx--">αὔτ’ ἢ φέρεις ἐνέχυρα θήσων;</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l part="Y" real="-x-">οὐδαμῶς.</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l real="x-o---x---x-">τί δῆτ’ ἐπὶ στοίχου ’στὶν οὕτως; οὔτι μὴ</l>
           <l real="xo-x--xx---oo">Ἱέρωνι τῷ κήρυκι πομπὴν πέμπετε;</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l real="xx-xoo--x---o-">μὰ Δί’ ἀλλ’ ἀποφέρειν αὐτὰ μέλλω τῇ πόλει</l>
           <l real="--xo-xx-oxo-o-">ἐς τὴν ἀγορὰν κατὰ τοὺς δεδογμένους νόμους.</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l n="760" real="--xoo-">μέλλεις ἀποφέρειν;</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l part="Y" real="xxo">πάνυ γε.</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l part="Y" real="xo--x-">κακοδαίμων ἄρ’ εἶ</l>
           <l real="--xx---x">νὴ τὸν Δία τὸν σωτῆρα.</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l part="Y" real="-">πῶς;</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l part="Y" real="--x-">πῶς; ῥᾳδίως.</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l real="x-x---o-o-x-">τί δ’; οὐχὶ πειθαρχεῖν με τοῖς νόμοισι δεῖ;</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l real="--x---o">ποίοισιν ὦ δύστηνε;</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l part="Y" real="-oxo-">τοῖς δεδογμένοις.</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l real="oxo-x-xo-o-xx">δεδογμένοισιν; ὡς ἀνόητος ἦσθ’ ἄρα.</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l n="765" real="xo-o">ἀνόητος;</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l part="Y" real="-x-xx-x-o-">οὐ γάρ; ἠλιθιώτατος μὲν οὖν</l>
           <l real="x-x--">ἁπαξαπάντων.</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l part="Y" real="oxo-oo---">ὅτι τὸ ταττόμενον ποιῶ;</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l real="o-oo-------ox">τὸ ταττόμενον γὰρ δεῖ ποιεῖν τὸν σώφρονα;</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l real="x-x--">μάλιστα πάντων.</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l part="Y" real="-o-x-oo">τὸν μὲν οὖν ἀβέλτερον.</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l real="x-xx--xxo-">σὺ δ’ οὐ καταθεῖναι διανοεῖ;</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l part="Y" real="x-o-">φυλάξομαι,</l>
           <l n="770" real="x-x-x-oox--o-">πρὶν ἄν γ’ ἴδω τὸ πλῆθος ὅ τι βουλεύεται.</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l real="xx-o-o-x---o-">τί γὰρ ἄλλο γ’ ἢ φέρειν παρεσκευασμένοι</l>
           <l real="x-x-x">τὰ χρήματ’ εἰσίν;</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l part="Y" real="-x-o-o-">ἀλλ’ ἰδὼν ἐπειθόμην.</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l real="o-x---o-">λέγουσι γοῦν ἐν ταῖς ὁδοῖς.</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l part="Y" real="--xx">λέξουσι γάρ.</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l real="-xx--xxo-">καί φασιν οἴσειν ἀράμενοι.</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l part="Y" real="--xx">φήσουσι γάρ.</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l n="775" real="xo-x---">ἀπολεῖς ἀπιστῶν πάντ’.</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l part="Y" real="x---xx">ἀπιστήσουσι γάρ.</l>
           <milestone ed="p" n="776" unit="card"/>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l real="--oox--o">ὁ Ζεύς σέ γ’ ἐπιτρίψειεν.</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l part="Y" real="ox--xx">ἐπιτρίψουσι γάρ.</l>
           <l real="--o-x-x---o-">οἴσειν δοκεῖς τιν’ ὅστις αὐτῶν νοῦν ἔχει;</l>
@@ -2168,160 +2168,160 @@ convert to p3
           <l real="--o---x---xx">ἕστηκεν ἐκτείνοντα τὴν χεῖρ’ ὑπτίαν</l>
           <l real="--x---o-x-o-">οὐχ ὥς τι δώσοντ’ ἀλλ’ ὅπως τι λήψεται.</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l real="--ox--oxo---x-">ὦ δαιμόνῑ ἀνδρῶν ἔα με τῶν προὔργου τι δρᾶν.</l>
           <l n="785" real="-xx-x-oox--xx">ταυτὶ γάρ ἐστι συνδετέα. ποῦ μοὔσθ’ ἱμάς;</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l real="--x--">ὄντως γὰρ οἴσεις;</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l part="Y" real="-xxx--o-">ναὶ μὰ Δία, καὶ δὴ μὲν οὖν</l>
           <l real="--x---xoo">τωδὶ ξυνάπτω τὼ τρίποδε.</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l part="Y" real="--xx">τῆς μωρίας,</l>
           <l real="o-oox--x---ox">τὸ μηδὲ περιμείναντα τοὺς ἄλλους ὅ τι</l>
           <l real="x-x-x-x---">δράσουσιν εἶτα τηνικαῦτ’ ἤδη—</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l part="Y" real="x-">τί δρᾶν;</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l n="790" real="oxxo-o-xxxx-ox">ἐπαναμένειν, ἔπειτα διατρίβειν ἔτι.</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l real="xx-x">ἵνα δὴ τί;</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l part="Y" real="-o-o-o-xx">σεισμὸς εἰ γένοιτο πολλάκις</l>
           <l real="--xxoo-x---x-">ἢ πῦρ ἀπότροπον, ἢ διᾴξειεν γαλῆ,</l>
           <l real="--x-o-o---ox">παύσαιντ’ ἂν ἐσφέροντες ὦμβρόντητε σύ.</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l real="xx-x-x-x---o-">χαρίεντα γοῦν πάθοιμ’ ἄν, εἰ μὴ ’χοιμ’ ὅποι</l>
           <l n="795" real="-xxx--">ταῦτα καταθείμην.</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l part="Y" real="-x-x-o-">μὴ γὰρ οὐ λάβῃς ὅποι·</l>
           <l real="--xx--xo---">θάρρει, καταθήσεις, κἂν ἔνης ἔλθῃς.</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l part="Y" real="x-">τιή;</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l real="o-x---oo---xx">ἐγᾦδα τούτους χειροτονοῦντας μὲν ταχύ,</l>
           <l real="--o---xxx--o-">ἅττ’ ἂν δὲ δόξῃ ταῦτα πάλιν ἀρνουμένους.</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l real="--x--">οἴσουσιν ὦ τᾶν.</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l part="Y" real="-o-ox-xx">ἢν δὲ μὴ κομίσωσι, τί;</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l n="800" real="xo-ox-x">ἀμέλει κομιοῦσιν.</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l part="Y" real="-o-ox-xx">ἢν δὲ μὴ κομίσωσι, τί;</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l real="x-o--">μαχούμεθ’ αὐτοῖς.</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l part="Y" real="-x---xx">ἢν δὲ κρείττους ὦσι, τί;</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l real="x-oxx">ἄπειμ’ ἐάσας.</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l part="Y" real="-o---xx">ἢν δὲ πωλῶσ’ αὐτά, τί;</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l real="x-x--">διαρραγείης.</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l part="Y" real="-x-x-ox">ἢν διαρραγῶ δέ, τί;</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l real="x----">καλῶς ποιήσεις.</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l part="Y" real="xoxx--o-">σὺ δ’ ἐπιθυμήσεις φέρειν;</l>
           <milestone ed="p" n="805" unit="card"/>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l n="805" real="o-o---o---ox">ἔγωγε· καὶ γὰρ τοὺς ἐμαυτοῦ γείτονας</l>
           <l real="o-o-x">ὁρῶ φέροντας.</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l part="Y" real="xxx---o-">πάνυ γ’ ἂν οὖν Ἀντισθένης</l>
           <l real="--o--oxx-o-oo">αὔτ’ εἰσενέγκοι· πολὺ γὰρ ἐμμελέστερον</l>
           <l real="oo-o---xx--ox">πρότερον χέσαι πλεῖν ἢ τριάκονθ’ ἡμέρας.</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l real="--o">οἴμωζε.</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l part="Y" real="-xx-ooox-xo">Καλλίμαχος δ’ ὁ χοροδιδάσκαλος</l>
           <l n="810" real="--x---x">αὐτοῖσιν εἰσοίσει τι;</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l part="Y" real="---x-">πλείω Καλλίου.</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l real="--o-oxox---xx">ἅνθρωπος οὗτος ἀποβαλεῖ τὴν οὐσίαν.</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l real="-xoo-">δεινά γε λέγεις.</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l part="Y" real="x-o-o-o-">τί δεινόν; ὥσπερ οὐχ ὁρῶν</l>
           <l real="x---xxoo---xx">ἀεὶ τοιαῦτα γιγνόμενα ψηφίσματα.</l>
           <l real="--o---ooox-x-">οὐκ οἶσθ’ ἐκεῖν’ οὕδοξε τὸ περὶ τῶν ἁλῶν;</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l n="815" real="o-o">ἔγωγε.</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l part="Y" real="---o---xx">τοὺς χαλκοῦς δ’ ἐκείνους ἡνίκα</l>
           <l real="--xxo--x">ἐψηφισάμεθ’, οὐκ οἶσθα;</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l part="Y" real="-x-o-">καὶ κακόν γέ μοι</l>
           <l real="o-oooo-o---xx">τὸ κόμμ’ ἐγένετ’ ἐκεῖνο. πωλῶν γὰρ βότρυς</l>
@@ -2331,7 +2331,7 @@ convert to p3
           <l real="xxxo---o---ox">ἀνέκραγ’ ὁ κῆρυξ μὴ δέχεσθαι μηδένα</l>
           <l real="--o-o-x---ox">χαλκοῦν τὸ λοιπόν· ‘ἀργύρῳ γὰρ χρώμεθα.’</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l real="oo-o-x-o---xo">τὸ δ’ ἔναγχος οὐχ ἅπαντες ἡμεῖς ὤμνυμεν</l>
           <l real="x-o---xoxx-o-">τάλαντ’ ἔσεσθαι πεντακόσια τῇ πόλει</l>
@@ -2341,17 +2341,17 @@ convert to p3
           <l real="ox-o---x---oo">ὁ Διὸς Κόρινθος καὶ τὸ πρᾶγμ’ οὐκ ἤρκεσεν,</l>
           <l real="x-xo---x--xx-">πάλιν κατεπίττου πᾶς ἀνὴρ Εὐριπίδην.</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l n="830" real="--o--ooo---oo">οὐ ταὐτὸν ὦ τᾶν. τότε μὲν ἡμεῖς ἤρχομεν,</l>
           <l real="--x-o">νῦν δ’ αἱ γυναῖκες.</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l part="Y" real="xo-x-o-">ἃς ἐγὼ φυλάξομαι</l>
           <l real="--o---x---x-">νὴ τὸν Ποσειδῶ μὴ κατουρήσωσί μου.</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l real="--ox--ooxxxooo-">οὐκ οἶδ’ ὅ τι ληρεῖς. φέρε σὺ τἀνάφορον ὁ παῖς.</l>
           <milestone ed="p" n="834" unit="card"/>
@@ -2378,102 +2378,102 @@ convert to p3
           <l real="--x---o---o-">πρὸς ταῦτα χωρεῖθ’, ὡς ὁ τὴν μᾶζαν φέρων</l>
           <l real="--o-x-x-x-xo">ἕστηκεν· ἀλλὰ τὰς γνάθους διοίγνυτε.</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l real="--xx---xxx--o-">οὐκοῦν βαδιοῦμαι δῆτα. τί γὰρ ἕστηκ’ ἔχων</l>
           <l real="--o---x-o-o-">ἐνταῦθ’, ἐπειδὴ ταῦτα τῇ πόλει δοκεῖ;</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l n="855" real="--xx-x-xx---xx">καὶ ποῖ βαδιεῖ σὺ μὴ καταθεὶς τὴν οὐσίαν;</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l real="ox-o">ἐπὶ δεῖπνον.</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l part="Y" real="---o---o-">οὐ δῆτ’, ἤν γ’ ἐκείναις νοῦς ἐνῇ,</l>
           <l real="-xxo--">πρίν γ’ ἂν ἀπενέγκῃς.</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l part="Y" real="-x--">ἀλλ’ ἀποίσω.</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l part="Y" real="-xx">πηνίκα;</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l real="--o---o---">οὐ τοὐμὸν ὦ τᾶν ἐμποδὼν ἔσται.</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l part="Y" real="x-">τί δή;</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l real="oo-x---o-o-o-">ἑτέρους ἀποίσειν φήμ’ ἔθ’ ὑστέρους ἐμοῦ.</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l n="860" real="xx-o---o-">βαδιεῖ δὲ δειπνήσων ὅμως;</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l part="Y" real="x-x-">τί γὰρ πάθω;</l>
           <l real="xxxx---o---x-">τὰ δυνατὰ γὰρ δεῖ τῇ πόλει ξυλλαμβάνειν</l>
           <l real="--o-x">τοὺς εὖ φρονοῦντας.</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l part="Y" real="-o-x-xx">ἢν δὲ κωλύσωσι, τί;</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l real="oo-x-x">ὁμόσ’ εἶμι κύψας.</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l part="Y" real="-o-x-xx">ἢν δὲ μαστιγῶσι, τί;</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l real="x-o-x">καλούμεθ’ αὐτάς.</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l part="Y" real="-oxxo-xx">ἢν δὲ καταγελῶσι, τί;</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l n="865" real="ox-x---">ἐπὶ ταῖς θύραις ἑστώς—</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l part="Y" real="xx--o-">τί δράσεις; εἰπέ μοι.</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l real="--o---xo-xxxx">τῶν ἐσφερόντων ἁρπάσομαι τὰ σιτία.</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l real="x-o-x-o-x-x-">βάδιζε τοίνυν ὕστερος· σὺ δ’ ὦ Σίκων</l>
           <l real="--o---o---xx">καὶ Παρμένων αἴρεσθε τὴν παμπησίαν.</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l real="ooxo---o-">φέρε νυν ἐγώ σοι ξυμφέρω.</l>
         </sp>
-        <sp who="#aner_a">
+        <sp who="#aner-a">
           <speaker>Ἀνὴρ Α</speaker>
           <l part="Y" real="--x-">μὴ μηδαμῶς.</l>
           <l n="870" real="o-x---xx-x-xx">δέδοικα γὰρ μὴ καὶ παρὰ τῇ στρατηγίδι,</l>
           <l real="o-xxx------x-">ὅταν κατατιθῶ, προσποιῇ τῶν χρημάτων.</l>
         </sp>
-        <sp who="#aner_b">
+        <sp who="#aner-b">
           <speaker>Ἀνὴρ Β</speaker>
           <l real="--xx---x-x-xo">νὴ τὸν Δία δεῖ γοῦν μηχανήματός τινος,</l>
           <l real="o-xo-x-x---ox">ὅπως τὰ μὲν ὄντα χρήμαθ’ ἕξω, τοισδεδὶ</l>
@@ -2485,7 +2485,7 @@ convert to p3
         <stage>Χοροῦ</stage>
       </div1>
       <div1 type="Lyric-Scene">
-        <sp who="#graus_a">
+        <sp who="#graus-a">
           <speaker>Γραῦς Α</speaker>
           <l real="xo-o---x-x-x-">τί ποθ’ ἅνδρες οὐχ ἥκουσιν; ὥρα δ’ ἦν πάλαι·</l>
           <l real="o-oxxx-o-xxx-">ἐγὼ δὲ καταπεπλασμένη ψιμυθίῳ</l>
@@ -2505,7 +2505,7 @@ convert to p3
           <l real="--xx---x-o-o-">κεἰ γὰρ δῑ ὄχλου τοῦτ’ ἐστὶ τοῖς θεωμένοις,</l>
           <l real="o-o---x---xo">ὅμως ἔχει τερπνόν τι καὶ κωμῳδικόν.</l>
         </sp>
-        <sp who="#graus_a">
+        <sp who="#graus-a">
           <speaker>Γραῦς Α</speaker>
           <l n="890" real="--xxo-xo---xo">τούτῳ διαλέγου κἀποχώρησον· σὺ δὲ</l>
           <l real="x-xxo--x---x-">φιλοττάριον αὐλητὰ τοὺς αὐλοὺς λαβὼν</l>
@@ -2536,7 +2536,7 @@ convert to p3
           </sp>
         </div2>
         <div2 n="1" type="antistrophe">
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l real="-o--x-x">ἐκπέσοι σου τὸ τρῆμα</l>
             <l real="oox-oxox-o">τό τ’ ἐπίκλιντρον ἀποβάλοιο</l>
@@ -2562,7 +2562,7 @@ convert to p3
           </sp>
         </div2>
         <div2 n="2" type="antistrophe">
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l real="--oxx-xx">ἤδη τὸν ἀπ’ Ἰωνίας</l>
             <l real="o-x-x-x-">τρόπον τάλαινα κνησιᾷς·</l>
@@ -2580,7 +2580,7 @@ convert to p3
             <l real="-oox---xx---x-">ᾆδ’ ὁπόσα βούλει καὶ παράκυφθ’ ὥσπερ γαλῆ·</l>
             <l n="925" real="--x-xooo---o-">οὐδεὶς γὰρ ὡς σὲ πρότερον εἴσεισ’ ἀντ’ ἐμοῦ.</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l real="--o-o-o">οὔκουν ἐπ’ ἐκφοράν γε.</l>
           </sp>
@@ -2588,7 +2588,7 @@ convert to p3
             <speaker>Νεᾶνις</speaker>
             <l part="Y" real="---xx">καινόν γ’ ὦ σαπρά.</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l real="--x">οὐ δῆτα.</l>
           </sp>
@@ -2596,7 +2596,7 @@ convert to p3
             <speaker>Νεᾶνις</speaker>
             <l part="Y" real="xx-xx-x-o-">τί γὰρ ἂν γραῒ καινά τις λέγοι;</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l real="--oox--o-x">οὐ τοὐμὸν ὀδυνήσει σε γῆρας.</l>
           </sp>
@@ -2605,7 +2605,7 @@ convert to p3
             <l part="Y" real="-xx">ἀλλὰ τί;</l>
             <l real="--x---o-xxxo">ἥγχουσα μᾶλλον καὶ τὸ σὸν ψιμύθιον;</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l n="930" real="x-xxo-">τί μοι διαλέγει;</l>
           </sp>
@@ -2613,7 +2613,7 @@ convert to p3
             <speaker>Νεᾶνις</speaker>
             <l part="Y" real="xoxxx--">σὺ δὲ τί διακύπτεις;</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l part="Y" real="o-">ἐγώ;</l>
             <l real="--oo--oxo---x-">ᾄδω πρὸς ἐμαυτὴν Ἐπιγένει τὠμῷ φίλῳ.</l>
@@ -2622,7 +2622,7 @@ convert to p3
             <speaker>Νεᾶνις</speaker>
             <l real="--x-x-x-o-o-">σοὶ γὰρ φίλος τίς ἐστιν ἄλλος ἢ Γέρης;</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l real="--o--xxx-x-oo">δείξει γε καὶ σοί. τάχα γὰρ εἶσιν ὡς ἐμέ.</l>
           </sp>
@@ -2630,7 +2630,7 @@ convert to p3
             <speaker>Νεᾶνις</speaker>
             <l real="oxx-o-x">ὁδὶ γὰρ αὐτός ἐστιν.</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l part="Y" real="---xo">οὐ σοῦ γ’ ὦλεθρε</l>
             <l n="935" real="oooo-o">δεόμενος οὐδέν.</l>
@@ -2640,7 +2640,7 @@ convert to p3
             <l part="Y" real="-x-x-xx">νὴ Δί’ ὦ φθίνυλλα σὺ</l>
             <l real="--x-o-o-x-o-">δείξει τάχ’ αὐτός, ὡς ἔγωγ’ ἀπέρχομαι.</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l real="x-xx--ox---o-">κἄγωγ’, ἵνα γνῷς ὡς πολύ σου μεῖζον φρονῶ.</l>
           </sp>
@@ -2655,7 +2655,7 @@ convert to p3
           </sp>
         </div2>
         <div2 type="antistrophe">
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l real="---xx-x-o--">οἰμώζων ἄρα νὴ Δία σποδήσεις.</l>
             <l real="--xxx-o-x-x">οὐ γὰρ τἀπὶ Χαριξένης τάδ’ ἐστίν.</l>
@@ -2731,7 +2731,7 @@ convert to p3
             <l n="975" real="xx-oo-o-">διά τοι σὲ πόνους ἔχω.</l>
             <milestone ed="p" n="976" unit="card"/>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l real="--x---o---">οὗτος τί κόπτεις; μῶν ἐμὲ ζητεῖς;</l>
           </sp>
@@ -2739,7 +2739,7 @@ convert to p3
             <speaker>Νεανίας</speaker>
             <l part="Y" real="oo">πόθεν;</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l real="--x---o">καὶ τὴν θύραν γ’ ἤραττες.</l>
           </sp>
@@ -2747,7 +2747,7 @@ convert to p3
             <speaker>Νεανίας</speaker>
             <l part="Y" real="xox-xx">ἀποθάνοιμ’ ἄρα.</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l real="--ooo--o-o-xx">τοῦ δαὶ δεόμενος δᾷδ’ ἔχων ἐλήλυθας;</l>
           </sp>
@@ -2755,7 +2755,7 @@ convert to p3
             <speaker>Νεανίας</speaker>
             <l real="xx-x---x--o">Ἀναφλύστιον ζητῶν τιν’ ἄνθρωπον.</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l part="Y" real="xx">τίνα;</l>
           </sp>
@@ -2763,7 +2763,7 @@ convert to p3
             <speaker>Νεανίας</speaker>
             <l n="980" real="--o-o-x-o-x-">οὐ τὸν Σεβῖνον, ὃν σὺ προσδοκᾷς ἴσως.</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l real="--xox--o---o-">νὴ τὴν Ἀφροδίτην, ἤν τε βούλῃ γ’ ἤν τε μή.</l>
           </sp>
@@ -2773,7 +2773,7 @@ convert to p3
             <l real="-xoo---xxxx-ox">εἰσάγομεν, ἀλλ’ εἰσαῦθις ἀναβεβλήμεθα.</l>
             <l real="x-o-o-x-x-oo">τὰς ἐντὸς εἴκοσιν γὰρ ἐκδικάζομεν.</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l n="985" real="ox-oox--o---x-">ἐπὶ τῆς προτέρας ἀρχῆς γε ταῦτ’ ἦν ὦ γλύκων·</l>
             <l real="xxx-o-x---o-">νυνὶ δὲ πρῶτον εἰσάγειν ἡμᾶς δοκεῖ.</l>
@@ -2782,7 +2782,7 @@ convert to p3
             <speaker>Νεανίας</speaker>
             <l real="--oo-oxxo---oo">τῷ βουλομένῳ γε κατὰ τὸν ἐν πεττοῖς νόμον.</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l real="--o--xxo---oo">ἀλλ’ οὐδὲ δειπνεῖς κατὰ τὸν ἐν πεττοῖς νόμον.</l>
           </sp>
@@ -2790,7 +2790,7 @@ convert to p3
             <speaker>Νεανίας</speaker>
             <l real="--oxo--ox--oo">οὐκ οἶδ’ ὅ τι λέγεις· τηνδεδί μοι κρουστέον.</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l n="990" real="o-x---o---xx">ὅταν γε κρούσῃς τὴν ἐμὴν πρῶτον θύραν.</l>
           </sp>
@@ -2798,7 +2798,7 @@ convert to p3
             <speaker>Νεανίας</speaker>
             <l real="--xxx-ox--ox">ἀλλ’ οὐχὶ νυνὶ κρησέραν αἰτούμεθα.</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l real="-oxx---o---ox">οἶδ’ ὅτι φιλοῦμαι· νῦν δὲ θαυμάζεις ὅτι</l>
             <l real="xxx-o-xoxo-ox">θύρασί μ’ ηὗρες· ἀλλὰ πρόσαγε τὸ στόμα.</l>
@@ -2807,7 +2807,7 @@ convert to p3
             <speaker>Νεανίας</speaker>
             <l real="--o---oo---">ἀλλ’ ὦ μέλ’ ὀρρωδῶ τὸν ἐραστήν σου.</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l part="Y" real="xx">τίνα;</l>
           </sp>
@@ -2815,7 +2815,7 @@ convert to p3
             <speaker>Νεανίας</speaker>
             <l n="995" real="--xo-x-o">τὸν τῶν γραφέων ἄριστον.</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l part="Y" real="---xx">οὗτος δ’ ἔστι τίς;</l>
           </sp>
@@ -2824,7 +2824,7 @@ convert to p3
             <l real="--x---x---x-">ὃς τοῖς νεκροῖσι ζωγραφεῖ τὰς ληκύθους.</l>
             <l real="-xxo--oxx-x-o-">ἀλλ’ ἄπιθ’, ὅπως μή σ’ ἐπὶ θύραισιν ὄψεται.</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l real="--ox--">οἶδ’ οἶδ’ ὅ τι βούλει.</l>
           </sp>
@@ -2832,7 +2832,7 @@ convert to p3
             <speaker>Νεανίας</speaker>
             <l part="Y" real="-xo-o-xx">καὶ γὰρ ἐγώ σε νὴ Δία.</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l real="x-xox--oxx--o-">μὰ τὴν Ἀφροδίτην ἥ μ’ ἔλαχε κληρουμένη,</l>
             <l n="1000" real="--x--">μὴ ’γώ σ’ ἀφήσω.</l>
@@ -2841,7 +2841,7 @@ convert to p3
             <speaker>Νεανίας</speaker>
             <l part="Y" real="xxo---xo">παραφρονεῖς ὦ γρᾴδιον.</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l real="--o---oxx--xx">ληρεῖς· ἐγὼ δ’ ἄξω σ’ ἐπὶ τἀμὰ στρώματα.</l>
           </sp>
@@ -2851,7 +2851,7 @@ convert to p3
             <l real="--x-x-x---ox">ἐξὸν καθέντα γρᾴδιον τοιουτονὶ</l>
             <l real="--ox--x---x-">ἐκ τῶν φρεάτων τοὺς κάδους ξυλλαμβάνειν;</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l n="1005" real="--o-xx-o---oo">μὴ σκῶπτέ μ’ ὦ τάλαν ἀλλ’ ἕπου δεῦρ’ ὡς ἐμέ.</l>
           </sp>
@@ -2860,7 +2860,7 @@ convert to p3
             <l real="--x---x---o-">ἀλλ’ οὐκ ἀνάγκη μοὐστίν, εἰ μὴ τῶν ἐμῶν</l>
             <l real="--xox--xo---o-">τὴν πεντακοσιοστὴν κατέθηκας τῇ πόλει.</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l real="--xox--o---o-">νὴ τὴν Ἀφροδίτην δεῖ γε μέντοι &lt;σ’&gt;. ὡς ἐγὼ</l>
             <l real="--x---x---o-">
@@ -2873,7 +2873,7 @@ convert to p3
             <l n="1010" real="o-o-o-x---o-">ἐγὼ δὲ ταῖς γε τηλικαύταις ἄχθομαι,</l>
             <l real="--x---oo">κοὐκ ἂν πιθοίμην οὐδέποτ’.</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l part="Y" real="-x-xx">ἀλλὰ νὴ Δία</l>
             <l real="x-x--xo">ἀναγκάσει τουτί σε.</l>
@@ -2882,7 +2882,7 @@ convert to p3
             <speaker>Νεανίας</speaker>
             <l part="Y" real="-o-xx">τοῦτο δ’ ἔστι τί;</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l real="--xxoo-x---oo">ψήφισμα, καθ’ ὅ σε δεῖ βαδίζειν ὡς ἐμέ.</l>
           </sp>
@@ -2890,7 +2890,7 @@ convert to p3
             <speaker>Νεανίας</speaker>
             <l real="o-oxoo-x">λέγ’ αὐτὸ τί ποτε κἄστι.</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l part="Y" real="---o-">καὶ δή σοι λέγω.</l>
             <l n="1015" real="o-o-x-x-x-oo">ἔδοξε ταῖς γυναιξίν, ἢν ἀνὴρ νέος</l>
@@ -2904,7 +2904,7 @@ convert to p3
             <speaker>Νεανίας</speaker>
             <l real="--x---o-o-o-">οἴμοι Προκρούστης τήμερον γενήσομαι.</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l real="--o---oo-x-oo">τοῖς γὰρ νόμοις τοῖς ἡμετέροισι πειστέον.</l>
           </sp>
@@ -2913,7 +2913,7 @@ convert to p3
             <l real="x-x---x---o-">τί δ’ ἢν ἀφαιρῆταί μ’ ἀνὴρ τῶν δημοτῶν</l>
             <l real="--x---x">ἢ τῶν φίλων ἐλθών τις;</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l part="Y" real="--xxo">ἀλλ’ οὐ κύριος</l>
             <l n="1025" real="x-o-o-x---ox">ὑπὲρ μέδιμνόν ἐστ’ ἀνὴρ οὐδεὶς ἔτι.</l>
@@ -2922,7 +2922,7 @@ convert to p3
             <speaker>Νεανίας</speaker>
             <l real="--oxx--x">ἐξωμοσία δ’ οὐκ ἔστιν;</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l part="Y" real="---o-">οὐ γὰρ δεῖ στροφῆς.</l>
           </sp>
@@ -2930,7 +2930,7 @@ convert to p3
             <speaker>Νεανίας</speaker>
             <l real="--oo---o-">ἀλλ’ ἔμπορος εἶναι σκήψομαι.</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l part="Y" real="x-ox">κλάων γε σύ.</l>
           </sp>
@@ -2938,7 +2938,7 @@ convert to p3
             <speaker>Νεανίας</speaker>
             <l real="x-x--">τί δῆτα χρὴ δρᾶν;</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l part="Y" real="-xo---oo">δεῦρ’ ἀκολουθεῖν ὡς ἐμέ.</l>
           </sp>
@@ -2946,7 +2946,7 @@ convert to p3
             <speaker>Νεανίας</speaker>
             <l real="--x---x">καὶ ταῦτ’ ἀνάγκη μοὐστί;</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l part="Y" real="xo--xo">Διομήδειά γε.</l>
           </sp>
@@ -2957,7 +2957,7 @@ convert to p3
             <l real="--x---xx---x-">καὶ ταινίωσαι καὶ παράθου τὰς ληκύθους,</l>
             <l real="xx-oxx--x-o-xx">ὕδατός τε κατάθου τοὔστρακον πρὸ τῆς θύρας.</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l real="--o---x-ox-o-">ἦ μὴν ἔτ’ ὠνήσει σὺ καὶ στεφάνην ἐμοί.</l>
           </sp>
@@ -2970,7 +2970,7 @@ convert to p3
             <speaker>Νεᾶνις</speaker>
             <l real="--o--">ποῖ τοῦτον ἕλκεις;</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l part="Y" real="ooo---x-">τὸν ἐμὸν αὐτῆς εἰσάγω.</l>
           </sp>
@@ -2982,7 +2982,7 @@ convert to p3
             <l real="--x---o---oo">ὥστ’ εἰ καταστήσεσθε τοῦτον τὸν νόμον,</l>
             <l real="--xxx-xo---oo">τὴν γῆν ἅπασαν Οἰδιπόδων ἐμπλήσετε.</l>
           </sp>
-          <sp who="#graus_a">
+          <sp who="#graus-a">
             <speaker>Γραῦς Α</speaker>
             <l real="--ox-o-x-o-oo">ὦ παμβδελυρὰ φθονοῦσα τόνδε τὸν λόγον</l>
             <l real="--o-o-ox--o-">ἐξηῦρες· ἀλλ’ ἐγώ σε τιμωρήσομαι.</l>
@@ -2995,7 +2995,7 @@ convert to p3
             <l real="ox-xo---x---xx">μεγάλην ἀποδώσω καὶ παχεῖάν σοι χάριν.</l>
             <milestone ed="p" n="1049" unit="card"/>
           </sp>
-          <sp who="#graus_b">
+          <sp who="#graus-b">
             <speaker>Γραῦς Β</speaker>
             <l real="--x--xxx-x-oo">αὕτη σὺ ποῖ τονδὶ παραβᾶσα τὸν νόμον</l>
             <l n="1050" real="--xo---x---o-">ἕλκεις, παρ’ ἐμοὶ τῶν γραμμάτων εἰρηκότων</l>
@@ -3007,7 +3007,7 @@ convert to p3
             <l real="oo-o-x-x-xo-o-">πόθεν ἐξέκυψας ὦ κάκιστ’ ἀπολουμένη;</l>
             <l real="-oxo--oxo---oo">τοῦτο γὰρ ἐκείνου τὸ κακὸν ἐξωλέστερον.</l>
           </sp>
-          <sp who="#graus_b">
+          <sp who="#graus-b">
             <speaker>Γραῦς Β</speaker>
             <l real="x-o-o">βάδιζε δεῦρο.</l>
           </sp>
@@ -3016,7 +3016,7 @@ convert to p3
             <l part="Y" real="-x-ooxx-">μηδαμῶς με περιίδῃς</l>
             <l n="1055" real="-oooxo--xo-">ἑλκόμενον ὑπὸ τῆσδ’ ἀντιβολῶ σ’.</l>
           </sp>
-          <sp who="#graus_b">
+          <sp who="#graus-b">
             <speaker>Γραῦς Β</speaker>
             <l part="Y" real="--o-">ἀλλ’ οὐκ ἐγώ,</l>
             <l real="-ooo--">ἀλλ’ ὁ νόμος ἕλκει σ’.</l>
@@ -3026,7 +3026,7 @@ convert to p3
             <l part="Y" real="-oo---xx">οὐκ ἐμέ γ’, ἀλλ’ ἔμπουσά τις</l>
             <l real="--x---x-x-o-">ἐξ αἵματος φλύκταιναν ἠμφιεσμένη.</l>
           </sp>
-          <sp who="#graus_b">
+          <sp who="#graus-b">
             <speaker>Γραῦς Β</speaker>
             <l real="o-xxx--xx---x-">ἕπου μαλακίων δεῦρ’ ἀνύσας καὶ μὴ λάλει.</l>
           </sp>
@@ -3037,7 +3037,7 @@ convert to p3
             <l real="--x-x-o---xx">αὐτοῦ τι δρῶντα πυρρὸν ὄψει μ’ αὐτίκα</l>
             <l real="xo-o-">ὑπὸ τοῦ δέους.</l>
           </sp>
-          <sp who="#graus_b">
+          <sp who="#graus-b">
             <speaker>Γραῦς Β</speaker>
             <l part="Y" real="--x---o-">θάρρει, βάδιζ’· ἔνδον χεσεῖ.</l>
           </sp>
@@ -3047,11 +3047,11 @@ convert to p3
             <l real="--x---x---xo">ἀλλ’ ἐγγυητάς σοι καταστήσω δύο</l>
             <l real="-xxo-">ἀξιόχρεως.</l>
           </sp>
-          <sp who="#graus_b">
+          <sp who="#graus-b">
             <speaker>Γραῦς Β</speaker>
             <l part="Y" real="--x--">μή μοι καθίστη.</l>
           </sp>
-          <sp who="#graus_g">
+          <sp who="#graus-g">
             <speaker>Γραῦς Γ</speaker>
             <l n="1065" real="-x-">ποῖ σὺ ποῖ</l>
             <l real="--ox--">χωρεῖς μετὰ ταύτης;</l>
@@ -3067,19 +3067,19 @@ convert to p3
             <l real="oo-x-oxxo-xxx-">πότερον πίθηκος ἀνάπλεως ψιμυθίου,</l>
             <l real="--x---xxx--o-">ἢ γραῦς ἀνεστηκυῖα παρὰ τῶν πλειόνων;</l>
           </sp>
-          <sp who="#graus_g">
+          <sp who="#graus-g">
             <speaker>Γραῦς Γ</speaker>
             <l real="--o-x-o-">μὴ σκῶπτέ μ’ ἀλλὰ δεῦρ’ ἕπου.</l>
           </sp>
-          <sp who="#graus_b">
+          <sp who="#graus-b">
             <speaker>Γραῦς Β</speaker>
             <l part="Y" real="-xo-">δευρὶ μὲν οὖν.</l>
           </sp>
-          <sp who="#graus_g">
+          <sp who="#graus-g">
             <speaker>Γραῦς Γ</speaker>
             <l n="1075" real="--x---oo">ὡς οὐκ ἀφήσω σ’ οὐδέποτ’.</l>
           </sp>
-          <sp who="#graus_b">
+          <sp who="#graus-b">
             <speaker>Γραῦς Β</speaker>
             <l part="Y" real="-o-o-">οὐδὲ μὴν ἐγώ.</l>
           </sp>
@@ -3087,11 +3087,11 @@ convert to p3
             <speaker>Νεανίας</speaker>
             <l real="x-x-o-x-xo-o-">διασπάσεσθέ μ’ ὦ κακῶς ἀπολούμεναι.</l>
           </sp>
-          <sp who="#graus_b">
+          <sp who="#graus-b">
             <speaker>Γραῦς Β</speaker>
             <l real="o-xxo--o-xx-oo">ἐμοὶ γὰρ ἀκολουθεῖν σ’ ἔδει κατὰ τὸν νόμον.</l>
           </sp>
-          <sp who="#graus_g">
+          <sp who="#graus-g">
             <speaker>Γραῦς Γ</speaker>
             <l real="--ooxx-o-x-x-">οὐκ ἢν ἑτέρα γε γραῦς ἔτ’ αἰσχίων φανῇ.</l>
             <milestone ed="p" n="1079" unit="card"/>
@@ -3101,7 +3101,7 @@ convert to p3
             <l real="--xx--oxo--x-">ἢν οὖν ὑφ’ ὑμῶν πρῶτον ἀπόλωμαι κακῶς,</l>
             <l n="1080" real="oo-oo---x-x-o-">φέρε πῶς ἐπ’ ἐκείνην τὴν καλὴν ἀφίξομαι;</l>
           </sp>
-          <sp who="#graus_g">
+          <sp who="#graus-g">
             <speaker>Γραῦς Γ</speaker>
             <l real="--o-xxoo---oo">αὐτὸς σκόπει σύ· τάδε δέ σοι ποιητέον.</l>
           </sp>
@@ -3109,7 +3109,7 @@ convert to p3
             <speaker>Νεανίας</speaker>
             <l real="oo-oox-xoxxx-x-">ποτέρας προτέρας οὖν κατελάσας ἀπαλλαγῶ;</l>
           </sp>
-          <sp who="#graus_b">
+          <sp who="#graus-b">
             <speaker>Γραῦς Β</speaker>
             <l real="--xxx--">οὐκ οἶσθα; βαδιεῖ δεῦρ’.</l>
           </sp>
@@ -3117,7 +3117,7 @@ convert to p3
             <speaker>Νεανίας</speaker>
             <l part="Y" real="xo----">ἀφέτω νύν μ’ αὑτηί.</l>
           </sp>
-          <sp who="#graus_g">
+          <sp who="#graus-g">
             <speaker>Γραῦς Γ</speaker>
             <l real="-xo-x-o">δευρὶ μὲν οὖν ἴθ’ ὡς ἔμ’.</l>
           </sp>
@@ -3125,11 +3125,11 @@ convert to p3
             <speaker>Νεανίας</speaker>
             <l part="Y" real="--xx-">ἢν ἡδί μ’ ἀφῇ.</l>
           </sp>
-          <sp who="#graus_b">
+          <sp who="#graus-b">
             <speaker>Γραῦς Β</speaker>
             <l n="1085" real="--x--xxx">ἀλλ’ οὐκ ἀφήσω μὰ Δία σ’.</l>
           </sp>
-          <sp who="#graus_g">
+          <sp who="#graus-g">
             <speaker>Γραῦς Γ</speaker>
             <l part="Y" real="-o-o-">οὐδὲ μὴν ἐγώ.</l>
           </sp>
@@ -3137,7 +3137,7 @@ convert to p3
             <speaker>Νεανίας</speaker>
             <l real="xo-x-oooo---">χαλεπαί γ’ ἂν ἦστε γενόμεναι πορθμῆς.</l>
           </sp>
-          <sp who="#graus_b">
+          <sp who="#graus-b">
             <speaker>Γραῦς Β</speaker>
             <l part="Y" real="x-">τιή;</l>
           </sp>
@@ -3145,11 +3145,11 @@ convert to p3
             <speaker>Νεανίας</speaker>
             <l real="--o---xxxx-oo">ἕλκοντε τοὺς πλωτῆρας ἂν ἀπεκναίετε.</l>
           </sp>
-          <sp who="#graus_b">
+          <sp who="#graus-b">
             <speaker>Γραῦς Β</speaker>
             <l real="x-x-o-o">σιγῇ βάδιζε δεῦρο.</l>
           </sp>
-          <sp who="#graus_g">
+          <sp who="#graus-g">
             <speaker>Γραῦς Γ</speaker>
             <l part="Y" real="xx--oo">μὰ Δί’ ἀλλ’ ὡς ἐμέ.</l>
           </sp>
@@ -3159,7 +3159,7 @@ convert to p3
             <l n="1090" real="--xx--oxxo-oo">ψήφισμα, βινεῖν δεῖ με διαλελημμένον.</l>
             <l real="--x---oo-x-o-">πῶς οὖν δικωπεῖν ἀμφοτέρας δυνήσομαι;</l>
           </sp>
-          <sp who="#graus_b">
+          <sp who="#graus-b">
             <speaker>Γραῦς Β</speaker>
             <l real="x-o--xxx---xx">καλῶς, ἐπειδὰν καταφάγῃς βολβῶν χύτραν.</l>
           </sp>
@@ -3168,7 +3168,7 @@ convert to p3
             <l real="--xo---x---xx">οἴμοι κακοδαίμων ἐγγὺς ἤδη τῆς θύρας</l>
             <l real="-ooo-">ἑλκόμενός εἰμ’.</l>
           </sp>
-          <sp who="#graus_b">
+          <sp who="#graus-b">
             <speaker>Γραῦς Β</speaker>
             <l part="Y" real="--o---oo">ἀλλ’ οὐδὲν ἔσται σοι πλέον.</l>
             <l n="1095" real="x-o---ox-">ξυνεσπεσοῦμαι γὰρ μετὰ σοῦ.</l>
@@ -3178,7 +3178,7 @@ convert to p3
             <l part="Y" real="--o-">μὴ πρὸς θεῶν·</l>
             <l real="ox-xo---o-x-x-">ἑνὶ γὰρ ξυνέχεσθαι κρεῖττον ἢ δυοῖν κακοῖν.</l>
           </sp>
-          <sp who="#graus_g">
+          <sp who="#graus-g">
             <speaker>Γραῦς Γ</speaker>
             <l real="--ox-o-o---o-">νὴ τὴν Ἑκάτην ἐάν τε βούλῃ γ’ ἤν τέ μή.</l>
           </sp>

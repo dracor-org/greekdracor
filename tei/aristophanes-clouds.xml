@@ -67,15 +67,15 @@
             <persName xml:lang="en">A Pupil</persName>
           </person>
           <person xml:id="mathetes-a" sex="MALE" role="discipulus">
-            <persName>Μαθητής Α</persName>
+            <persName>Μαθητὴς Α</persName>
             <persName xml:lang="en">Pupil A</persName>
           </person>
           <person xml:id="mathetes-b" sex="MALE" role="discipulus">
-            <persName>Μαθητής Β</persName>
+            <persName>Μαθητὴς Β</persName>
             <persName xml:lang="en">Pupil A</persName>
           </person>
           <person xml:id="mathetes-g" sex="MALE" role="discipulus">
-            <persName>Μαθητής Γ</persName>
+            <persName>Μαθητὴς Γ</persName>
             <persName xml:lang="en">Pupil G</persName>
           </person>
           <person xml:id="sokrates" sex="MALE" role="didascalus" ana="http://www.wikidata.org/entity/Q913">
@@ -84,7 +84,7 @@
           </person>
           <personGrp xml:id="choros" sex="UNKNOWN" role="chorus">
             <name>Χορός</name>
-            <name type="variant">Χορός νεφελῶν</name>
+            <name type="variant">Χορὸς νεφελῶν</name>
             <name xml:lang="en">Chorus of Clouds</name>
           </personGrp>
           <person xml:id="dikaios-logos" sex="UNKNOWN" role="allegoria">

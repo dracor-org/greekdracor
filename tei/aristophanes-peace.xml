@@ -51,64 +51,84 @@
         <listPerson>
           <person xml:id="oiketes" sex="MALE" role="servus">
             <persName>Οἰκέτης</persName>
+            <persName xml:lang="en">A Slave</persName>
           </person>
           <person xml:id="oiketes-a" sex="MALE" role="servus">
             <persName>Οἰκέτης Α</persName>
+            <persName xml:lang="en">First Slave</persName>
           </person>
           <person xml:id="oiketes-b" sex="MALE" role="servus">
             <persName>Οἰκέτης Β</persName>
+            <persName xml:lang="en">Second Slave</persName>
           </person>
           <person xml:id="trygaios" sex="MALE" role="dominus">
             <persName>Τρυγαῖος</persName>
+            <persName xml:lang="en">Thrygaeus</persName>
           </person>
           <person xml:id="paidion" sex="FEMALE" role="filia">
             <persName>Παιδίον</persName>
+            <persName xml:lang="en">Daughter</persName>
           </person>
           <person xml:id="hermes" sex="MALE" role="deus" ana="http://www.wikidata.org/entity/Q41484">
             <persName>Ἑρμῆς</persName>
+            <persName xml:lang="en">Hermes</persName>
           </person>
           <person xml:id="polemos" sex="MALE" role="allegoria deus" ana="https://www.wikidata.org/wiki/Q2713002">
             <persName>Πόλεμος</persName>
+            <persName xml:lang="en">War</persName>
           </person>
           <person xml:id="kydoimos" sex="MALE" role="allegoria servus" ana="https://www.wikidata.org/wiki/Q636428">
             <persName>Κύδοιμος</persName>
+            <persName xml:lang="en">Hubbub</persName>
           </person>
           <personGrp xml:id="choros" sex="MALE" role="chorus senex">
             <name>Χορός</name>
             <name type="variant">Χορός Γερόντων</name>
+            <name xml:lang="en">Chorus of Elders</name>
           </personGrp>
           <personGrp xml:id="hemichorion-a" sex="MALE" role="semichorus senex">
             <name>Ἡμιχόριον Α</name>
+            <name xml:lang="en">Semi-Chorus A</name>
           </personGrp>
           <personGrp xml:id="hemichorion-b" sex="MALE" role="semichorus senex">
             <name>Ἡμιχόριον Β</name>
+            <name xml:lang="en">Semi-Chorus B</name>
           </personGrp>
           <person xml:id="hierokles" sex="MALE" role="vates">
             <persName>Ἱεροκλῆς</persName>
+            <persName xml:lang="en">Hierocles</persName>
           </person>
           <person xml:id="drepanourgos" sex="MALE" role="faber">
             <persName>Δρεπανουργός</persName>
+            <persName xml:lang="en">Sickle Maker</persName>
           </person>
           <person xml:id="lophopoios" sex="MALE" role="faber">
             <persName>Λοφοποιός</persName>
+            <persName xml:lang="en">Crest Maker</persName>
           </person>
           <person xml:id="thorakopoles" sex="MALE" role="mercator">
             <persName>Θωρακοπώλης</persName>
+            <persName xml:lang="en">Dealer in Breastplates</persName>
           </person>
           <person xml:id="salpingopoios" role="faber">
             <persName>Σαλπιγγοποιός</persName>
+            <persName xml:lang="en">Maker of War Trumpets</persName>
           </person>
           <person xml:id="kranopoios" sex="MALE" role="faber">
             <persName>Κρανοποιός</persName>
+            <persName xml:lang="en">Helmet Maker</persName>
           </person>
           <person xml:id="doryksos" sex="MALE" role="faber">
             <persName>Δορυξός</persName>
+            <persName xml:lang="en">Speer Maker</persName>
           </person>
           <person xml:id="pais-lamachou" sex="MALE" role="filius">
             <persName>Παῖς Λαμάχου</persName>
+            <persName xml:lang="en">Son of Lamachus</persName>
           </person>
           <person xml:id="pais-kleonymou" sex="MALE" role="filius">
             <persName>Παῖς Κλεωνύμου</persName>
+            <persName xml:lang="en">Son of Cleonymus</persName>
           </person>
           <listRelation>
             <relation name="associated_with" active="#oiketes #oiketes-a #oiketes-b" passive="#trygaios"/>

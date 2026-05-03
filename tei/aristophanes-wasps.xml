@@ -51,34 +51,44 @@
         <listPerson>
           <person xml:id="sosias" sex="MALE" role="servus">
             <persName>Σωσίας</persName>
+            <persName xml:lang="en">Sosias</persName>
           </person>
           <person xml:id="xanthias" sex="MALE" role="servus">
             <persName>Ξανθίας</persName>
+            <persName xml:lang="en">Xanthias</persName>
           </person>
           <person xml:id="bdelykleon" sex="MALE" role="adulescens">
             <persName>Βδελυκλέων</persName>
+            <persName xml:lang="en">Bdelycleon</persName>
           </person>
           <person xml:id="philokleon" sex="MALE" role="senex">
             <persName>Φιλοκλέων</persName>
+            <persName xml:lang="en">Philocleon</persName>
           </person>
           <personGrp xml:id="choros" sex="MALE" role="chorus senex">
             <name>Χορός</name>
             <name type="variant">Χορός Γερόντων Σφηκών</name>
+            <name xml:lang="en">Chorus of Old Wasps</name>
           </personGrp>
           <person xml:id="pais" sex="MALE" role="filius">
             <persName>Παίς</persName>
+            <persName xml:lang="en">Boy</persName>
           </person>
           <person xml:id="kyon" sex="MALE" role="canis">
             <persName>Κύων</persName>
+            <persName xml:lang="en">Watchdog</persName>
           </person>
           <person xml:id="artopolis" sex="FEMALE" role="venditrix">
             <persName>Αρτόπωλις</persName>
+            <persName xml:lang="en">A Breadwoman</persName>
           </person>
           <person xml:id="kategoros" sex="MALE" role="accusator">
             <persName>Κατήγορος</persName>
+            <persName xml:lang="en">Accuser</persName>
           </person>
           <person xml:id="xymotes-tis" sex="MALE">
             <persName>Ξυμότης τις</persName>
+            <persName xml:lang="en">A Fellow-Drinker</persName>
           </person>
           <listRelation>
             <relation name="associated_with" active="#sosias #xanthias" passive="#bdelykleon"/>

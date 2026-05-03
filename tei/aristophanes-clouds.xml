@@ -51,55 +51,71 @@
         <listPerson>
           <person xml:id="strepsiades" sex="MALE" role="rusticus">
             <persName>Στρεψιάδης</persName>
+            <persName xml:lang="en">Strepsiades</persName>
           </person>
           <person xml:id="pheidippides" sex="MALE" role="filius">
             <persName>Φειδιππίδης</persName>
+            <persName xml:lang="en">Phidippides</persName>
           </person>
           <person xml:id="therapon" sex="MALE" role="servus">
             <persName>Θεράπων</persName>
             <persName type="variant">Θεράπων Στρεψιάδου</persName>
+            <persName xml:lang="en">A Slave of Strepsiades</persName>
           </person>
           <person xml:id="mathetes" sex="MALE" role="discipulus">
             <persName>Μαθητής</persName>
+            <persName xml:lang="en">A Pupil</persName>
           </person>
           <person xml:id="mathetes-a" sex="MALE" role="discipulus">
             <persName>Μαθητής Α</persName>
+            <persName xml:lang="en">Pupil A</persName>
           </person>
           <person xml:id="mathetes-b" sex="MALE" role="discipulus">
             <persName>Μαθητής Β</persName>
+            <persName xml:lang="en">Pupil A</persName>
           </person>
           <person xml:id="mathetes-g" sex="MALE" role="discipulus">
             <persName>Μαθητής Γ</persName>
+            <persName xml:lang="en">Pupil G</persName>
           </person>
           <person xml:id="sokrates" sex="MALE" role="didascalus" ana="http://www.wikidata.org/entity/Q913">
             <persName>Σωκράτης</persName>
+            <persName xml:lang="en">Socrates</persName>
           </person>
           <personGrp xml:id="choros" sex="UNKNOWN" role="chorus">
             <name>Χορός</name>
             <name type="variant">Χορός νεφελῶν</name>
+            <name xml:lang="en">Chorus of Clouds</name>
           </personGrp>
           <person xml:id="dikaios-logos" sex="UNKNOWN" role="allegoria">
             <persName>Δίκαιος Λόγος</persName>
+            <persName xml:lang="en">Better Argument</persName>
           </person>
           <person xml:id="adikos-logos" sex="UNKNOWN" role="allegoria">
             <persName>Ἄδικος Λόγος</persName>
+            <persName xml:lang="en">Worse Argument</persName>
           </person>
           <person xml:id="pasias" sex="MALE" role="creditor">
             <persName>Πασίας</persName>
             <persName type="variant">Πασίας δανειστής</persName>
+            <persName xml:lang="en">Pasias, a Creditor</persName>
           </person>
           <person xml:id="martys" sex="MALE" role="testis">
             <persName>Μάρτυς</persName>
+            <persName xml:lang="en">A Witness</persName>
           </person>
           <person xml:id="amynias" sex="MALE" role="creditor">
             <persName>Αμυνίας</persName>
             <persName type="variant">Αμυνίας δανειστής</persName>
+            <persName xml:lang="en">Amynias, a Creditor</persName>
           </person>
           <person xml:id="chairephon" sex="MALE" role="didascalus" ana="https://www.wikidata.org/wiki/Q744125">
             <persName>Χαιρεφῶν</persName>
+            <persName xml:lang="en">Chaerephon</persName>
           </person>
           <person xml:id="hermes" sex="MALE" role="deus" ana="http://www.wikidata.org/entity/Q41484">
             <persName>Ερμῆς</persName>
+            <persName xml:lang="en">Hermes</persName>
           </person>
           <listRelation>
             <relation name="parent_of" active="#strepsiades" passive="#pheidippides"/>

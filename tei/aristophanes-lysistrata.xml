@@ -66,19 +66,17 @@
             <persName xml:lang="en">Lampito</persName>
           </person>
           <personGrp xml:id="choros" sex="UNKNOWN" role="chorus">
-            <name>Χορός </name>
+            <name>Χορός</name>
+            <name type="variant">Χορὸς Ἀθηναίων</name>
+            <name xml:lang="en">Chorus of Athenians</name>
           </personGrp>
-          <personGrp xml:id="xoroslakedaimonion" sex="MALE" role="chorus">
-            <name>Χορὸς Λακεδαιμονίων</name>
-          </personGrp>
-          <personGrp xml:id="xorosgeronton" sex="MALE" role="chorus">
+          <personGrp xml:id="choros-geronton" sex="MALE" role="semichorus senex" corresp="#choros">
             <name>Χορὸς Γερόντων</name>
+            <name xml:lang="en">Chorus of Old Athenian Men</name>
           </personGrp>
-          <personGrp xml:id="xorosathenaion" sex="MALE" role="chorus">
-            <name>Χορὸς Ἀθηναίων</name>
-          </personGrp>
-          <personGrp xml:id="xorosgynaikon" sex="FEMALE" role="chorus">
+          <personGrp xml:id="choros-gynaikon" sex="FEMALE" role="semichorus uxor" corresp="#choros">
             <name>Χορὸς Γυναικῶν</name>
+            <name xml:lang="en">Chorus of Old Athenian Women</name>
           </personGrp>
           <person xml:id="proboulos" sex="MALE">
             <persName>Πρόβουλος</persName>
@@ -90,6 +88,7 @@
           </person>
           <person xml:id="gyne_a" sex="FEMALE" role="uxor">
             <persName>Γυνὴ Α</persName>
+            <persName type="variant">Γυνὴ Ξ</persName>
             <persName xml:lang="en">First Wife</persName>
           </person>
           <person xml:id="gyne_b" sex="FEMALE" role="uxor">
@@ -104,15 +103,13 @@
             <persName>Γυνὴ Δ</persName>
             <persName xml:lang="en">Fourth Wife</persName>
           </person>
-          <person xml:id="gyne_x" sex="FEMALE" role="uxor">
-            <persName>Γυνὴ Ξ</persName>
-            <persName xml:lang="en">Fourteenth Wife</persName>
-          </person>
-          <person xml:id="alle" sex="FEMALE">
+          <person xml:id="alle" sex="FEMALE" role="uxor">
             <persName>Ἄλλη</persName>
+            <persName xml:lang="en">Another Wife</persName>
           </person>
-          <personGrp xml:id="pasai" sex="UNKNOWN">
+          <personGrp xml:id="pasai" sex="FEMALE">
             <name>Πᾶσαι</name>
+            <name xml:lang="en">All Women</name>
           </personGrp>
           <person xml:id="kinesias" sex="MALE" role="maritus">
             <persName>Κινησίας</persName>
@@ -146,6 +143,10 @@
             <persName>Ἀθηναῖος Β</persName>
             <persName xml:lang="en">Second Athenian Delegate</persName>
           </person>
+          <personGrp xml:id="choros-lakedaimonion" sex="UNKNOWN" role="chorus">
+            <name>Χορὸς Λακεδαιμονίων</name>
+            <name xml:lang="en">Chorus of Spartan Men</name>
+          </personGrp>
           <listRelation>
             <relation name="spouses" mutual="#myrrine #kinesias"/>
             <relation name="parent_of" active="#myrrine #kinesias" passive="#pais_kinesiou"/>
@@ -1012,14 +1013,14 @@ bring up to P3
         </sp>
       </div1>
       <div1 type="Parodos">
-        <sp who="#xorosgeronton">
+        <sp who="#choros-geronton">
           <speaker>Χορὸς Γερόντων</speaker>
           <l real="--x---x---o-o--">χώρει Δράκης, ἡγοῦ βάδην, εἰ καὶ τὸν ὦμον ἀλγεῖς</l>
           <l n="255" real="--o-oxx---o-oxx">κορμοῦ τοσουτονὶ βάρος χλωρᾶς φέρων ἐλάας.</l>
           <milestone ed="p" n="258" unit="card"/>
         </sp>
         <div2 n="1" type="strophe">
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="--x-o-x--x-x--">ἦ πόλλ’ ἄελπτ’ ἔνεστιν ἐν τῷ μακρῷ βίῳ φεῦ,</l>
             <l real="o-x-o-x-xo-x--">ἐπεὶ τίς ἄν ποτ’ ἤλπισ’ ὦ Στρυμόδωρ’ ἀκοῦσαι</l>
@@ -1031,7 +1032,7 @@ bring up to P3
             <l n="265" real="xox-x--">τὰ προπύλαια πακτοῦν;</l>
             <milestone ed="p" n="266" unit="card"/>
           </sp>
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="--x-x-o---o-x-o">ἀλλ’ ὡς τάχιστα πρὸς πόλιν σπεύσωμεν ὦ Φιλοῦργε,</l>
             <l real="o-x---x---x-x-x">ὅπως ἄν, αὐταῖς ἐν κύκλῳ θέντες τὰ πρέμνα ταυτί,</l>
@@ -1042,7 +1043,7 @@ bring up to P3
           </sp>
         </div2>
         <div2 n="1" type="antistrophe">
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="--x---o--o-x--">οὐ γὰρ μὰ τὴν Δήμητρ’ ἐμοῦ ζῶντος ἐγχανοῦνται·</l>
             <l real="o--xooo-o--x-x-o">ἐπεὶ οὐδὲ Κλεομένης, ὃς αὐτὴν κατέσχε πρῶτος,</l>
@@ -1056,7 +1057,7 @@ bring up to P3
           </sp>
         </div2>
         <div2 type="tetrameters">
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="--oox--o-o-o-o--">οὕτως ἐπολιόρκησ’ ἐγὼ τὸν ἄνδρ’ ἐκεῖνον ὠμῶς</l>
             <l real="o-x-o-x---x-x--">ἐφ’ ἑπτακαίδεκ’ ἀσπίδων πρὸς ταῖς πύλαις καθεύδων.</l>
@@ -1067,7 +1068,7 @@ bring up to P3
           </sp>
         </div2>
         <div2 n="2" type="strophe">
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="--o---o-">ἀλλ’ αὐτὸ γάρ μοι τῆς ὁδοῦ</l>
             <l real="-o-x-xo">λοιπόν ἐστι χωρίον</l>
@@ -1084,7 +1085,7 @@ bring up to P3
           </sp>
         </div2>
         <div2 n="2" type="antistrophe">
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="--o---x-">ὡς δεινὸν ὦναξ Ἡράκλεις</l>
             <l real="-o---xx">προσπεσόν μ’ ἐκ τῆς χύτρας</l>
@@ -1101,7 +1102,7 @@ bring up to P3
           </sp>
         </div2>
         <div2 type="tetrameters">
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="-xo-x-o--oxx--">τουτὶ τὸ πῦρ ἐγρήγορεν θεῶν ἕκατι καὶ ζῇ.</l>
             <l real="--x---x---x-o--">οὔκουν ἄν, εἰ τὼ μὲν ξύλω θείμεσθα πρῶτον αὐτοῦ,</l>
@@ -1119,7 +1120,7 @@ bring up to P3
           </sp>
         </div2>
         <div2 type="lyric">
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l real="x-o--xo--xo-x-o">λιγνὺν δοκῶ μοι καθορᾶν καὶ καπνὸν ὦ γυναῖκες</l>
             <l n="320" real="--x-xoo--oo-x-o">ὥσπερ πυρὸς καομένου· σπευστέον ἐστὶ θᾶττον.</l>
@@ -1127,7 +1128,7 @@ bring up to P3
           </sp>
         </div2>
         <div2 n="3" type="strophe">
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l real="o-o-xox-">πέτου πέτου Νικοδίκη,</l>
             <l real="x-x--xx-">πρὶν ἐμπεπρῆσθαι Καλύκην</l>
@@ -1150,7 +1151,7 @@ bring up to P3
           </sp>
         </div2>
         <div2 n="3" type="antistrophe">
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l real="--x-xoo-x">ἤκουσα γὰρ τυφογέροντας</l>
             <l n="336" real="-x--oo-">ἄνδρας ἔρρειν, στελέχη</l>
@@ -1171,151 +1172,151 @@ bring up to P3
           </sp>
         </div2>
         <div2 type="tetrameters">
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l n="350" real="oxo--xx---o-o--">ἔασον ὦ. τουτὶ τί ἦν; ὦνδρες πόνῳ πόνηροι·</l>
             <l real="--o---x---o-x-o">οὐ γάρ ποτ’ ἂν χρηστοί γ’ ἔδρων οὐδ’ εὐσεβεῖς τάδ’ ἄνδρες.</l>
           </sp>
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="-xx---x-x-o-o--">τουτὶ τὸ πρᾶγμ’ ἡμῖν ἰδεῖν ἀπροσδόκητον ἥκει·</l>
             <l real="--x---oxxxx-o--">ἑσμὸς γυναικῶν οὑτοσὶ θύρασιν αὖ βοηθεῖ.</l>
           </sp>
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l real="--o---x---o-o--">τί βδύλλεθ’ ἡμᾶς; οὔ τί που πολλαὶ δοκοῦμεν εἶναι;</l>
             <l n="355" real="--o---o---oxx-o">καὶ μὴν μέρος γ’ ἡμῶν ὁρᾶτ’ οὔπω τὸ μυριοστόν.</l>
           </sp>
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="--xx--x-oxo-o-x">ὦ Φαιδρία ταύτας λαλεῖν ἐάσομεν τοσαυτί;</l>
             <l real="-oxx---x---x-x--">οὐ περικατᾶξαι τὸ ξύλον τύπτοντ’ ἐχρῆν τιν’ αὐταῖς;</l>
           </sp>
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l real="--x---x---x-o-x">θώμεσθα δὴ τὰς κάλπιδας χἠμεῖς χαμᾶζ’, ὅπως ἂν</l>
             <l real="--o---x---o-o--">ἢν προσφέρῃ τὴν χεῖρά τις μὴ τοῦτό μ’ ἐμποδίζῃ.</l>
           </sp>
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l n="360" real="--x---x---x-x-x">εἰ νὴ Δί’ ἤδη τὰς γνάθους τούτων τις ἢ δὶς ἢ τρὶς</l>
             <l real="o-o---x---x-x-o">ἔκοψεν ὥσπερ Βουπάλου, φωνὴν ἂν οὐκ ἂν εἶχον.</l>
           </sp>
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l real="--x-x-x---o-x--">καὶ μὴν ἰδοὺ παταξάτω τις· στᾶσ’ ἐγὼ παρέξω,</l>
             <l real="--o---x----x--">κοὐ μή ποτ’ ἄλλη σου κύων τῶν ὄρχεων λάβηται.</l>
           </sp>
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="--x---o---x-o-x">εἰ μὴ σιωπήσει, θενών σου ’κκοκκιῶ τὸ γῆρας.</l>
           </sp>
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l n="365" real="--o-x-x---x-o--">ἅψαι μόνον Στρατυλλίδος τῷ δακτύλῳ προσελθών.</l>
           </sp>
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="x-o---x-x-x-o-o">τί δ’ ἢν σποδῶ τοῖς κονδύλοις; τί μ’ ἐργάσει τὸ δεινόν;</l>
           </sp>
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l real="x-x---o---o-x--">βρύκουσά σου τοὺς πλεύμονας καὶ τἄντερ’ ἐξαμήσω.</l>
           </sp>
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="--x--xx-o-o----">οὐκ ἔστ’ ἀνὴρ Εὐριπίδου σοφώτερος ποιητής·</l>
             <l real="--x---x-o-x-x-o">οὐδὲν γὰρ οὕτω θρέμμ’ ἀναιδές ἐστιν ὡς γυναῖκες.</l>
           </sp>
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l n="370" real="--o---x---x-o--">αἰρώμεθ’ ἡμεῖς θοὔδατος τὴν κάλπιν ὦ Ῥοδίππη.</l>
           </sp>
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="x---xx-x-o-xx-">τί δ’ ὦ θεοῖς ἐχθρὰ σὺ δεῦρ’ ὕδωρ ἔχουσ’ ἀφίκου;</l>
           </sp>
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l real="x-x---o---o-x--">τί δαὶ σὺ πῦρ ὦ τύμβ’ ἔχων; ὡς σαυτὸν ἐμπυρεύσων;</l>
           </sp>
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="o-oxx--x---xxx--">ἐγὼ μὲν ἵνα νήσας πυρὰν τὰς σὰς φίλας ὑφάψω.</l>
           </sp>
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l real="o-oxx--x---x-o-x">ἐγὼ δέ γ’ ἵνα τὴν σὴν πυρὰν τούτῳ κατασβέσαιμι.</l>
           </sp>
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l n="375" real="--x-x-o-">τοὐμὸν σὺ πῦρ κατασβέσεις;</l>
           </sp>
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l part="Y" real="--x-o--">τοὔργον τάχ’ αὐτὸ δείξει.</l>
           </sp>
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="--x---o---x-x--">οὐκ οἶδά σ’ εἰ τῇδ’ ὡς ἔχω τῇ λαμπάδι σταθεύσω.</l>
           </sp>
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l real="--x-x-o---o-x--">εἰ ῥύμμα τυγχάνεις ἔχων, λουτρόν &lt;γ’&gt; ἐγὼ παρέξω.</l>
           </sp>
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="o-x-o-xx">ἐμοὶ σὺ λουτρὸν ὦ σαπρά;</l>
           </sp>
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l part="Y" real="--x-x-o">καὶ ταῦτα νυμφικόν γε.</l>
           </sp>
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="--x---x-">ἤκουσας αὐτῆς τοῦ θράσους;</l>
           </sp>
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l part="Y" real="o-oxx-x">ἐλευθέρα γάρ εἰμι.</l>
           </sp>
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l n="380" real="--o---o-">σχήσω σ’ ἐγὼ τῆς νῦν βοῆς.</l>
           </sp>
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l part="Y" real="--o-x--">ἀλλ’ οὐκέθ’ ἡλιάζει.</l>
           </sp>
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="--o---ox">ἔμπρησον αὐτῆς τὰς κόμας.</l>
           </sp>
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l part="Y" real="o-o-o-o">σὸν ἔργον ὦχελῷε.</l>
           </sp>
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="--xx">οἴμοι τάλας.</l>
           </sp>
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l part="Y" real="--o-">μῶν θερμὸν ἦν;</l>
           </sp>
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="--o---x-">ποῖ θερμόν; οὐ παύσει; τί δρᾷς;</l>
           </sp>
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l real="--o---x-">ἄρδω σ’ ὅπως ἂν βλαστάνῃς.</l>
           </sp>
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l n="385" real="--o---o-">ἀλλ’ αὖός εἰμ’ ἤδη τρέμων.</l>
           </sp>
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l real="--o---o-xxx-o-o">οὐκοῦν ἐπειδὴ πῦρ ἔχεις, σὺ χλιανεῖς σεαυτόν.</l>
             <milestone ed="p" n="387" unit="card"/>
@@ -1338,7 +1339,7 @@ bring up to P3
           <l real="oo-x---xx-o-x-">ὁ θεοῖσιν ἐχθρὸς καὶ μιαρὸς Χολοζύγης.</l>
           <l real="--x---xxo--xx">τοιαῦτ’ ἀπ’ αὐτῶν ἐστιν ἀκόλαστ’ ᾄσματα.</l>
         </sp>
-        <sp who="#xorosgeronton">
+        <sp who="#choros-geronton">
           <speaker>Χορὸς Γερόντων</speaker>
           <l real="x-x-x-o---xx">τί δῆτ’ ἂν εἰ πύθοιο καὶ τὴν τῶνδ’ ὕβριν;</l>
           <l n="400" real="--xxxxx---x-">αἳ τἄλλα θ’ ὑβρίκασι κἀκ τῶν καλπίδων</l>
@@ -1468,14 +1469,14 @@ bring up to P3
       </div1>
       <div1 type="Agon">
         <div2 type="prelude">
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="--xx-xo-o-o-o--">ὦ πόλλ’ ἀναλώσας ἔπη πρόβουλε τῆσδε &lt;τῆς&gt; γῆς,</l>
             <l real="x-o-o-o---x-x--">τί τοῖσδε σαυτὸν ἐς λόγους τοῖς θηρίοις συνάπτεις;</l>
             <l real="--x-o-o---o-x-x">οὐκ οἶσθα λουτρὸν οἷον αἵδ’ ἡμᾶς ἔλουσαν ἄρτι</l>
             <l n="470" real="--xxxxx---x-oxx">ἐν τοῖσιν ἱματιδίοις, καὶ ταῦτ’ ἄνευ κονίας;</l>
           </sp>
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l real="--o---o---x-x--">ἀλλ’ ὦ μέλ’ οὐ χρὴ προσφέρειν τοῖς πλησίοισιν εἰκῇ</l>
             <l real="--o-o-x-x-x-x--">τὴν χεῖρ’· ἐὰν δὲ τοῦτο δρᾷς, κυλοιδιᾶν ἀνάγκη.</l>
@@ -1486,7 +1487,7 @@ bring up to P3
           </sp>
         </div2>
         <div2 n="1" type="strophe">
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="--xox-oox-o--x-">ὦ Ζεῦ τί ποτε χρησόμεθα τοῖσδε τοῖς κνωδάλοις;</l>
             <l real="-xox-xxo-xxx-oo">οῡ γὰρ ἔτ’ ἀνεκτὰ τάδε γ’, ἀλλὰ βασανιστέον</l>
@@ -1499,7 +1500,7 @@ bring up to P3
           </sp>
         </div2>
         <div2 met="anapests" type="katakeleusmenos">
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="-xo-x------oo-xo--">ἀλλ’ ἀνερώτα καὶ μὴ πείθου καὶ πρόσφερε πάντας ἐλέγχους,</l>
             <l n="485" real="--ox---oo-o----xo-x">ὡς αἰσχρὸν ἀκωδώνιστον ἐᾶν τὸ τοιοῦτον πρᾶγμα μεθέντας.</l>
@@ -1719,7 +1720,7 @@ bring up to P3
           </sp>
         </div2>
         <div2 met="trochees" type="antiprelude">
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l real="--o-x-oxo--x-o-x">αἰρώμεθ’ ὦ γυναῖκες ἀπὸ τῶν καλπίδων, ὅπως ἂν</l>
             <l n="540" real="--o---x-x-x-x-o">ἐν τῷ μέρει χἠμεῖς τι ταῖς φίλαισι συλλάβωμεν.</l>
@@ -1727,7 +1728,7 @@ bring up to P3
           </sp>
         </div2>
         <div2 n="1" type="antistrophe">
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l real="o-oxx-oox-x--o-">ἔγωγε γὰρ &lt;ἂν&gt; οὔποτε κάμοιμ’ ἂν ὀρχουμένη,</l>
             <l real="-oxoxxooo--xx-o">†οὐδὲ τὰ γόνατα κόπος ἕλοι μου καματηρός†·</l>
@@ -1740,7 +1741,7 @@ bring up to P3
           </sp>
         </div2>
         <div2 met="anapests" type="antikatakeleusmenos">
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l real="------ox---xx-xx--">ἀλλ’ ὦ τηθῶν ἀνδρειοτάτων καὶ μητριδίων ἀκαληφῶν,</l>
             <l n="550" real="--------ox---xx-o">χωρεῖτ’ ὀργῇ καὶ μὴ τέγγεσθ’· ἔτι γὰρ νῦν οὔρια θεῖτε.</l>
@@ -1886,7 +1887,7 @@ bring up to P3
             <l real="ox-xo-----">μελιτοῦτταν ἐγὼ καὶ δὴ μάξω.</l>
             <l real="xo-x-ox--">λαβὲ ταυτὶ καὶ στεφάνωσαι.</l>
           </sp>
-          <sp who="#gyne_x">
+          <sp who="#gyne_a">
             <speaker>Γυνὴ Ξ.</speaker>
             <l real="--xx--xo-">καὶ ταυτασὶ δέξαι παρ’ ἐμοῦ.</l>
           </sp>
@@ -1920,7 +1921,7 @@ bring up to P3
       </div1>
       <div1 type="Choral">
         <div2 type="trochees">
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="-o-o-x---x-o-oo">οὐκέτ’ ἔργον ἐγκαθεύδειν ὅστις ἔστ’ ἐλεύθερος,</l>
             <l n="615" real="-oxox-o----x-xxx">ἀλλ’ ἐπαποδυώμεθ’ ἄνδρες τουτῳὶ τῷ πράγματι.</l>
@@ -1928,7 +1929,7 @@ bring up to P3
           </sp>
         </div2>
         <div2 n="1" type="strophe">
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="xx--o-">πραγμάτων μοι δοκεῖ,</l>
             <l real="-x---o---x-x-xo">καὶ μάλιστ’ ὀσφραίνομαι τῆς Ἱππίου τυραννίδος·</l>
@@ -1941,7 +1942,7 @@ bring up to P3
           </sp>
         </div2>
         <div2 type="trochees">
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="-x---o---ox--o-">δεινὰ γάρ τοι τάσδε γ’ ἤδη τοὺς πολίτας νουθετεῖν,</l>
             <l real="-x-x-x-x-x---ox">καὶ λαλεῖν γυναῖκας οὔσας ἀσπίδος χαλκῆς πέρι,</l>
@@ -1957,7 +1958,7 @@ bring up to P3
           </sp>
         </div2>
         <div2 n="1" type="antistrophe">
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l real="-x-x-x-x-o-x-o-">οὐκ ἄρ’ εἰσιόντα σ’ οἴκαδ’ ἡ τεκοῦσα γνώσεται.</l>
             <l real="-x---x---xx--x-">ἀλλὰ θώμεσθ’ ὦ φίλαι γρᾶες ταδί πρῶτον χαμαί.</l>
@@ -1973,7 +1974,7 @@ bring up to P3
           </sp>
         </div2>
         <div2 type="trochees">
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l real="-x---x---o-x-o-">ἆρα προὐφείλω τι χρηστὸν τῇ πόλει παραινέσαι;</l>
             <l real="-o-x-oxx-o-o-o-">εἰ δ’ ἐγὼ γυνὴ πέφυκα, τοῦτο μὴ φθονεῖτέ μοι,</l>
@@ -1989,7 +1990,7 @@ bring up to P3
           </sp>
         </div2>
         <div2 n="2" type="strophe">
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="---x-xxx-x">ταῦτ’ οὖν οὐχ ὕβρις τὰ πράγματ’ ἐστὶ</l>
             <l n="660" real="--xx---o-x-x-o">πολλή; κἀπιδώσειν μοι δοκεῖ τὸ χρῆμα μᾶλλον.</l>
@@ -2003,7 +2004,7 @@ bring up to P3
           </sp>
         </div2>
         <div2 type="trochees">
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="-x---x---o-x-x-">εἰ γὰρ ἐνδώσει τις ἡμῶν ταῖσδε κἂν σμικρὰν λαβήν,</l>
             <l real="-o---x--xx---xx">οὐδὲν ἐλλείψουσιν αὗται λιπαροῦς χειρουργίας,</l>
@@ -2019,7 +2020,7 @@ bring up to P3
           </sp>
         </div2>
         <div2 n="2" type="antistrophe">
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l real="---o---x--">εἰ νὴ τὼ θεώ με ζωπυρήσεις,</l>
             <l real="x--o---o------">λύσω τὴν ἐμαυτῆς ὗν ἐγὼ δή, καὶ ποιήσω</l>
@@ -2034,7 +2035,7 @@ bring up to P3
           </sp>
         </div2>
         <div2 type="trochees">
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l real="-xx--x-x-o---x-">οὐ γὰρ ὑμῶν φροντίσαιμ’ ἄν, ἢν ἐμοὶ ζῇ Λαμπιτὼ</l>
             <l real="-o--xx---o---xx">ἥ τε Θηβαία φίλη παῖς εὐγενὴς Ἰσμηνία.</l>
@@ -2051,7 +2052,7 @@ bring up to P3
         </div2>
       </div1>
       <div1 type="Episode">
-        <sp who="#xorosgynaikon">
+        <sp who="#choros-gynaikon">
           <speaker>Χορὸς Γυναικῶν</speaker>
           <l real="x-xx--o---xo">ἄνασσα πράγους τοῦδε καὶ βουλεύματος,</l>
           <l real="x-x-o-o-x-o-">τί μοι σκυθρωπὸς ἐξελήλυθας δόμων;</l>
@@ -2061,7 +2062,7 @@ bring up to P3
           <l real="x-x---x---x-">κακῶν γυναικῶν ἔργα καὶ θήλεια φρὴν</l>
           <l real="--xx-oxx-x-x-">ποιεῖ μ’ ἄθυμον περιπατεῖν τ’ ἄνω κάτω.</l>
         </sp>
-        <sp who="#xorosgynaikon">
+        <sp who="#choros-gynaikon">
           <speaker>Χορὸς Γυναικῶν</speaker>
           <l n="710" real="x-x-">τί φῄς; τί φῄς;</l>
         </sp>
@@ -2069,7 +2070,7 @@ bring up to P3
           <speaker>Λυσιστράτη</speaker>
           <l real="x--x--">ἀληθῆ, ἀληθῆ.</l>
         </sp>
-        <sp who="#xorosgynaikon">
+        <sp who="#choros-gynaikon">
           <speaker>Χορὸς Γυναικῶν</speaker>
           <l real="x-x---o---x-">τί δ’ ἐστὶ δεινόν; φράζε ταῖς σαυτῆς φίλαις.</l>
         </sp>
@@ -2077,7 +2078,7 @@ bring up to P3
           <speaker>Λυσιστράτη</speaker>
           <l real="--o---x---xx">ἀλλ’ αἰσχρὸν εἰπεῖν καὶ σιωπῆσαι βαρύ.</l>
         </sp>
-        <sp who="#xorosgynaikon">
+        <sp who="#choros-gynaikon">
           <speaker>Χορὸς Γυναικῶν</speaker>
           <l real="--x--oxo-x-xo">μή νύν με κρύψῃς ὅ τι πεπόνθαμεν κακόν.</l>
         </sp>
@@ -2085,7 +2086,7 @@ bring up to P3
           <speaker>Λυσιστράτη</speaker>
           <l n="715" real="x-x-o-x---o-">βινητιῶμεν, ᾗ βράχιστον τοῦ λόγου.</l>
         </sp>
-        <sp who="#xorosgynaikon">
+        <sp who="#choros-gynaikon">
           <speaker>Χορὸς Γυναικῶν</speaker>
           <l real="x--">ἰὼ Ζεῦ.</l>
         </sp>
@@ -2269,7 +2270,7 @@ bring up to P3
       </div1>
       <div1 type="Lyric-Scene">
         <div2 n="1" type="strophe">
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="---o---xx--o--">μῦθον βούλομαι λέξαι τιν’ ὑμῖν, ὅν ποτ’ ἤκουσ’</l>
             <l real="-oox--">αὐτὸς ἔτι παῖς ὤν.</l>
@@ -2300,7 +2301,7 @@ bring up to P3
             <speaker>Γυνή</speaker>
             <l n="800" real="-x---o-">τὴν λόχμην πολλὴν φορεῖς.</l>
           </sp>
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="-x-x-x-">καὶ Μυρωνίδης γὰρ ἦν</l>
             <l real="xx---o-xo">τραχὺς ἐντεῦθεν μελάμπυγός</l>
@@ -2310,7 +2311,7 @@ bring up to P3
           </sp>
         </div2>
         <div2 n="2" type="antistrophe">
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l n="805" real="x--o---xx--x--">κἀγὼ βούλομαι μῦθόν τιν’ ὑμῖν ἀντιλέξαι</l>
             <l real="-oxx-x">τῷ Μελανίωνι.</l>
@@ -2343,7 +2344,7 @@ bring up to P3
             <speaker>Γέρων</speaker>
             <l real="-x-o-x-">τὸν σάκανδρον ἐκφανεῖς.</l>
           </sp>
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l n="825" real="-o-x-x-">ἀλλ’ ὅμως ἂν οὐκ ἴδοις</l>
             <l real="-o--xo--o">καίπερ οὔσης γραὸς ὄντ’ αὐτὸν</l>
@@ -2837,7 +2838,7 @@ bring up to P3
             <l real="-xx--">ποῦ Κυναλώπηξ;</l>
             <l real="-------">μίσθωσόν μοι τὴν τίτθην.</l>
           </sp>
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="------ox-">ἐν δεινῷ γ’ ὦ δύστηνε κακῷ</l>
             <l n="960" real="--x--xx--">τείρει ψυχὴν ἐξαπατηθείς.</l>
@@ -2852,7 +2853,7 @@ bring up to P3
             <speaker>Κινησίας</speaker>
             <l real="--------">ὦ Ζεῦ δεινῶν ἀντισπασμῶν.</l>
           </sp>
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="-x--xxo--">ταυτὶ μέντοι νυνί σ’ ἐποίησ’</l>
             <l real="--oxx--xxx">ἡ παμβδελυρὰ καὶ παμμυσαρά.</l>
@@ -2861,7 +2862,7 @@ bring up to P3
             <speaker>Κινησίας</speaker>
             <l n="970" real="xx-xx---xox">μὰ Δί’ ἀλλὰ φίλη καὶ παγγλυκερά.</l>
           </sp>
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="-xxoxxxxxxx">ποία γλυκερά; μιαρὰ μιαρά.</l>
           </sp>
@@ -2981,69 +2982,69 @@ bring up to P3
       </div1>
       <div1 type="Choral">
         <div2 type="trochees">
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="-o-x-x-x-oxx-oo">οὐδέν ἐστι θηρίον γυναικὸς ἀμαχώτερον,</l>
             <l n="1015" real="-o---x---oxx-xx">οὐδὲ πῦρ, οὐδ’ ὧδ’ ἀναιδὴς οὐδεμία πόρδαλις.</l>
           </sp>
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l real="-x---xx--xoo-o-">ταῦτα μέντοι &lt;σὺ&gt; ξυνιεὶς εἶτα πολεμεῖς ἐμοί,</l>
             <l real="-o-o-o-o-ooo-x-">ἐξὸν ὦ πόνηρε σοὶ βέβαιον ἔμ’ ἔχειν φίλην;</l>
           </sp>
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="-o-x-x-x-ooo-o-">ὡς ἐγὼ μισῶν γυναῖκας οὐδέποτε παύσομαι.</l>
           </sp>
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l real="-o---x---oox-o-">ἀλλ’ ὅταν βούλῃ σύ· νῦν δ’ οὖν οὔ σε περιόψομαι</l>
             <l n="1020" real="-o---o-x-xxo-o-">γυμνὸν ὄνθ’ οὕτως. ὁρῶ γὰρ ὡς καταγέλαστος εἶ.</l>
             <l real="-x---x-x-xox-o-">ἀλλὰ τὴν ἐξωμίδ’ ἐνδύσω σε προσιοῦσ’ ἐγώ.</l>
           </sp>
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="-o-x-x-o-oo--xo">τοῦτο μὲν μὰ τὸν Δί’ οὐ πονηρὸν ἐποιήσατε·</l>
             <l real="-x---o---oxoxo-">ἀλλ’ ὑπ’ ὀργῆς γὰρ πονηρᾶς καὶ τότ’ ἀπέδυν ἐγώ.</l>
           </sp>
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l real="-x---x---xxo-o-">πρῶτα μὲν φαίνει γ’ ἀνήρ, εἶτ’ οὐ καταγέλαστος εἶ.</l>
             <l n="1025" real="-o-x-o---ooo-xo">κεἴ με μὴ ’λύπεις, ἐγώ σου κἂν τόδε τὸ θηρίον</l>
             <l real="-x---x---oxo-ox">τοὐπὶ τὠφθαλμῷ λαβοῦσ’ ἐξεῖλον ἂν ὃ νῦν ἔνι.</l>
           </sp>
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="-x-o-x---xxo-ox">τοῦτ’ ἄρ’ ἦν με τοὐπιτρῖβον, δακτύλιος οὑτοσί·</l>
             <l real="-x-o-o-x-oxo-x-">ἐκσκάλευσον αὐτό, κᾆτα δεῖξον ἀφελοῦσά μοι·</l>
             <l real="-o---o---xxx-x-">ὡς τὸν ὀφθαλμόν γέ μου νὴ τὸν Δία πάλαι δάκνει.</l>
           </sp>
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l n="1030" real="-xx--x---oooxx-">ἀλλὰ δράσω ταῦτα· καίτοι δύσκολος ἔφυς ἀνήρ.</l>
             <l real="-o---x---xoo-x-">ἦ μέγ’ ὦ Ζεῦ χρῆμ’ ἰδεῖν τῆς ἐμπίδος ἔνεστί σοι.</l>
             <l real="-o---x-x-xxoxxx">οὐχ ὁρᾷς; οὐκ ἐμπίς ἐστιν ἥδε Τρικορυσία;</l>
           </sp>
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="-x---o-x-ox-x-">νὴ Δί’ ὤνησάς γέ μ’, ὡς πάλαι γέ μ’ ἐφρεωρύχει,</l>
             <l real="-o---o---oxx-ox">ὥστ’ ἐπειδὴ ’ξῃρέθη, ῥεῖ μου τὸ δάκρυον πολύ.</l>
           </sp>
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l n="1035" real="-x---o---xxo-o-">ἀλλ’ ἀποψήσω σ’ ἐγώ, καίτοι πάνυ πονηρὸς εἶ,</l>
             <l real="-x--">καὶ φιλήσω.</l>
           </sp>
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l part="Y" real="-x--">μὴ φιλήσῃς.</l>
           </sp>
-          <sp who="#xorosgynaikon">
+          <sp who="#choros-gynaikon">
             <speaker>Χορὸς Γυναικῶν</speaker>
             <l part="Y" real="-o">ἤν τε</l>
             <l real="---o-">βούλῃ γ’ ἤν τε μή.</l>
           </sp>
-          <sp who="#xorosgeronton">
+          <sp who="#choros-geronton">
             <speaker>Χορὸς Γερόντων</speaker>
             <l real="-x--xx---o-x-x-">ἀλλὰ μὴ ὥρασ’ ἵκοισθ’· ὡς ἐστὲ θωπικαὶ φύσει,</l>
             <l real="-o-o-o---x---oo">κἄστ’ ἐκεῖνο τοὔπος ὀρθῶς κοὐ κακῶς εἰρημένον,</l>
@@ -3474,7 +3475,7 @@ bring up to P3
           <milestone ed="p" n="1247" unit="card"/>
         </sp>
         <div2 type="lyric">
-          <sp who="#xoroslakedaimonion">
+          <sp who="#choros-lakedaimonion">
             <speaker>Χορὸς Λακεδαιμονίων</speaker>
             <l real="-xo">ὅρμαον</l>
             <l real="--xx--xoxx">τὼς κυρσανίως ὦ Μναμοΰνα</l>
@@ -3513,7 +3514,7 @@ bring up to P3
           </sp>
         </div2>
         <div2 type="lyric">
-          <sp who="#xorosathenaion">
+          <sp who="#choros">
             <speaker>Χορὸς Ἀθηναίων</speaker>
             <l real="oxooooxooxxx">πρόσαγε χορόν, ἔπαγε &lt;δὲ&gt; Χάριτας,</l>
             <l n="1280" real="oxoxoo-ox">ἐπὶ δὲ κάλεσον Ἄρτεμιν,</l>
@@ -3539,7 +3540,7 @@ bring up to P3
           </sp>
         </div2>
         <div2 type="lyric">
-          <sp who="#xoroslakedaimonion">
+          <sp who="#choros-lakedaimonion">
             <speaker>Χορὸς Λακεδαιμονίων</speaker>
             <l real="xxoo-o-oxx-x">Ταΰγετον αὖτ’ ἐραννὸν ἐκλιπῶα</l>
             <l real="-xoox-x-oxx">Μῶα μόλε Λάκαινα πρεπτὸν ἁμὶν</l>

@@ -94,9 +94,6 @@
           <person xml:id="plouton" sex="MALE">
             <persName>Πλούτων</persName>
           </person>
-          <person xml:id="dis" sex="MALE" role="deus">
-            <persName>Δις.</persName>
-          </person>
           <listRelation>
             <relation name="associated_with" active="#xanthias" passive="#euripides"/>
           </listRelation>
@@ -4224,8 +4221,8 @@ convert to p3
             <speaker>Διόνυσος</speaker>
             <l n="1430" real="--o--xoxx--o-">εὖ γ’ ὦ Πόσειδον· σὺ δὲ τίνα γνώμην ἔχεις;</l>
           </sp>
-          <sp who="#dis">
-            <speaker>Δις.</speaker>
+          <sp who="#aischylos">
+            <speaker>Αἰσχύλος</speaker>
             <l real="--o---o-o-o-">οὐ χρὴ λέοντος σκύμνον ἐν πόλει τρέφειν,</l>
             <l real="x-x-o-x-o-o-">[μάλιστα μὲν λέοντα μὴ ν’ πόλει τρέφειν,]</l>
             <l real="--x---o-x-o-">ἢν δ’ ἐκτραφῇ τις, τοῖς τρόποις ὑπηρετεῖν.</l>

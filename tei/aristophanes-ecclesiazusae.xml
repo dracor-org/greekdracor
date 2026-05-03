@@ -120,6 +120,7 @@
           </person>
           <listRelation>
             <relation name="spouses" mutual="#praxagora #blepyros"/>
+            <relation name="associated_with" active="#therapaina" passive="#praxagora"/>
           </listRelation>
         </listPerson>
       </particDesc>

@@ -60,6 +60,7 @@
           </person>
           <personGrp xml:id="choros" sex="MALE" role="chorus rusticus">
             <name>Χορός</name>
+            <name type="variant">Χορὸς ἀγροίκων</name>
           </personGrp>
           <person xml:id="blepsidemos" sex="MALE" role="amicus">
             <persName>Βλεψίδημος</persName>
@@ -69,9 +70,11 @@
           </person>
           <person xml:id="gyne" sex="FEMALE" role="uxor">
             <persName>Γυνή</persName>
+            <persName type="variant">Γυνὴ Χρεμύλου</persName>
           </person>
           <person xml:id="dikaios" sex="MALE" role="vir">
             <persName>Δίκαιος</persName>
+            <persName type="variant">Δίκαιος ἀνήρ</persName>
           </person>
           <person xml:id="sykophantes" sex="MALE" role="sycophanta">
             <persName>Συκοφάντης</persName>
@@ -87,6 +90,7 @@
           </person>
           <person xml:id="hiereus" sex="MALE">
             <persName>Ἱερεύς</persName>
+            <persName type="variant">Ἱερεὺς Διος</persName>
           </person>
           <listRelation>
             <relation name="associated_with" active="#karion" passive="#chremylos"/>

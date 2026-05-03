@@ -86,11 +86,11 @@
             <name type="variant">Χορός Γερόντων</name>
             <name xml:lang="en">Chorus of Elders</name>
           </personGrp>
-          <personGrp xml:id="hemichorion-a" sex="MALE" role="semichorus senex">
+          <personGrp xml:id="hemichorion-a" sex="MALE" role="semichorus senex" corresp="#choros">
             <name>Ἡμιχόριον Α</name>
             <name xml:lang="en">Semi-Chorus A</name>
           </personGrp>
-          <personGrp xml:id="hemichorion-b" sex="MALE" role="semichorus senex">
+          <personGrp xml:id="hemichorion-b" sex="MALE" role="semichorus senex" corresp="#choros">
             <name>Ἡμιχόριον Β</name>
             <name xml:lang="en">Semi-Chorus B</name>
           </personGrp>

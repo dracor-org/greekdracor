@@ -55,7 +55,7 @@
           <person xml:id="pisthetairos" sex="MALE" role="atheniensis">
             <persName>Πισθέταιρος</persName>
           </person>
-          <person xml:id="therapon_epopos" sex="MALE" role="servus avis" ana="https://www.wikidata.org/wiki/Q687310">
+          <person xml:id="therapon-epopos" sex="MALE" role="servus avis" ana="https://www.wikidata.org/wiki/Q687310">
             <persName>Θεράπων Ἔποπος</persName>
           </person>
           <person xml:id="epops" sex="MALE" role="avis" ana="https://www.wikidata.org/wiki/Q1138506">
@@ -93,10 +93,10 @@
           <person xml:id="angelos" sex="MALE" role="nuntius avis">
             <persName>Ἄγγελος</persName>
           </person>
-          <person xml:id="angelos_a" sex="MALE" role="nuntius avis">
+          <person xml:id="angelos-a" sex="MALE" role="nuntius avis">
             <persName>Ἄγγελος Α</persName>
           </person>
-          <person xml:id="angelos_b" sex="MALE" role="nuntius avis">
+          <person xml:id="angelos-b" sex="MALE" role="nuntius avis">
             <persName>Ἄγγελος Β</persName>
           </person>
           <person xml:id="iris" sex="FEMALE" role="dea" ana="https://www.wikidata.org/wiki/Q184570">
@@ -125,7 +125,7 @@
             <persName>Ἡρακλῆς</persName>
           </person>
           <listRelation>
-            <relation name="associated_with" active="#therapon_epopos" passive="#epops"/>
+            <relation name="associated_with" active="#therapon-epopos" passive="#epops"/>
           </listRelation>
         </listPerson>
       </particDesc>
@@ -376,7 +376,7 @@ convert to p3
           <l real="oo----oxo---x-">ἐποποῖ. ποιήσεις ἔτι με κόπτειν αὖθις αὖ.</l>
           <l n="60" real="oo-">ἐποποῖ.</l>
         </sp>
-        <sp who="#therapon_epopos">
+        <sp who="#therapon-epopos">
           <speaker>Θεράπων Ἔποπος</speaker>
           <l part="Y" real="xo--xoo---o-">τίνες οὗτοι; τίς ὁ βοῶν τὸν δεσπότην;</l>
         </sp>
@@ -384,7 +384,7 @@ convert to p3
           <speaker>Ἐυελπίδης</speaker>
           <l real="x-oxxo-o---xo">Ἄπολλον ἀποτρόπαιε τοῦ χασμήματος.</l>
         </sp>
-        <sp who="#therapon_epopos">
+        <sp who="#therapon-epopos">
           <speaker>Θεράπων Ἔποπος</speaker>
           <l real="--xx-xo-x--x">οἴμοι τάλας ὀρνιθοθήρα τουτωί.</l>
         </sp>
@@ -392,7 +392,7 @@ convert to p3
           <speaker>Ἐυελπίδης</speaker>
           <l real="--x-o-o-x-o-">οὕτως τι δεινὸν οὐδὲ κάλλιον λέγειν.</l>
         </sp>
-        <sp who="#therapon_epopos">
+        <sp who="#therapon-epopos">
           <speaker>Θεράπων Ἔποπος</speaker>
           <l real="xo-o">ἀπολεῖσθον.</l>
         </sp>
@@ -400,7 +400,7 @@ convert to p3
           <speaker>Ἐυελπίδης</speaker>
           <l part="Y" real="---o---">ἀλλ’ οὐκ ἐσμὲν ἀνθρώπω.</l>
         </sp>
-        <sp who="#therapon_epopos">
+        <sp who="#therapon-epopos">
           <speaker>Θεράπων Ἔποπος</speaker>
           <l part="Y" real="x-">τί δαί;</l>
         </sp>
@@ -408,7 +408,7 @@ convert to p3
           <speaker>Ἐυελπίδης</speaker>
           <l n="65" real="xoox-o-oxxo-oo">Ὑποδεδιὼς ἔγωγε Διβυκὸν ὄρνεον.</l>
         </sp>
-        <sp who="#therapon_epopos">
+        <sp who="#therapon-epopos">
           <speaker>Θεράπων Ἔποπος</speaker>
           <l real="--o-">οὐδὲν λέγεις.</l>
         </sp>
@@ -416,7 +416,7 @@ convert to p3
           <speaker>Ἐυελπίδης</speaker>
           <l part="Y" real="--o-x-o-">καὶ μὴν ἐροῦ τὰ πρὸς ποδῶν.</l>
         </sp>
-        <sp who="#therapon_epopos">
+        <sp who="#therapon-epopos">
           <speaker>Θεράπων Ἔποπος</speaker>
           <l real="oxo-x-x-x-o-">ὁδὶ δὲ δὴ τίς ἐστιν ὄρνις; οὐκ ἐρεῖς;</l>
         </sp>
@@ -428,7 +428,7 @@ convert to p3
           <speaker>Ἐυελπίδης</speaker>
           <l real="x-xx-x-o---o-">ἀτὰρ σὺ τί θηρίον ποτ’ εἶ πρὸς τῶν θεῶν;</l>
         </sp>
-        <sp who="#therapon_epopos">
+        <sp who="#therapon-epopos">
           <speaker>Θεράπων Ἔποπος</speaker>
           <l n="70" real="-xo-o-o">ὄρνις ἔγωγε δοῦλος.</l>
         </sp>
@@ -437,7 +437,7 @@ convert to p3
           <l part="Y" real="---xo">ἡττήθης τινὸς</l>
           <l real="x-xoo">ἀλεκτρυόνος;</l>
         </sp>
-        <sp who="#therapon_epopos">
+        <sp who="#therapon-epopos">
           <speaker>Θεράπων Ἔποπος</speaker>
           <l part="Y" real="--oooo-o-">οὐκ ἀλλ’ ὅτε περ ὁ δεσπότης</l>
           <l real="o-ooooooo---xo">ἔποψ ἐγένετο, τότε γενέσθαι μ’ ηὔξατο</l>
@@ -447,7 +447,7 @@ convert to p3
           <speaker>Ἐυελπίδης</speaker>
           <l real="--x---xxo-xo">δεῖται γὰρ ὄρνις καὶ διακόνου τινός;</l>
         </sp>
-        <sp who="#therapon_epopos">
+        <sp who="#therapon-epopos">
           <speaker>Θεράπων Ἔποπος</speaker>
           <l n="75" real="--x--ooo---o-">οὗτός γ’, ἅτ’ οἶμαι πρότερον ἄνθρωπός ποτ’  ὤν,</l>
           <l real="oooo-x-xx-x-xx">τοτὲ μὲν ἐρᾷ φαγεῖν ἀφύας Φαληρικάς·</l>
@@ -461,7 +461,7 @@ convert to p3
           <l n="80" real="--x-o-oxo--o-">οἶσθ’ οὖν ὃ δρᾶσον ὦ τροχίλε; τὸν δεσπότην</l>
           <l real="--xoo">ἡμῖν κάλεσον.</l>
         </sp>
-        <sp who="#therapon_epopos">
+        <sp who="#therapon-epopos">
           <speaker>Θεράπων Ἔποπος</speaker>
           <l part="Y" real="--x---xx">ἀλλ’ ἀρτίως νὴ τὸν Δία</l>
           <l real="--xxx--x---xx">εὕδει καταφαγὼν μύρτα καὶ σέρφους τινάς.</l>
@@ -470,7 +470,7 @@ convert to p3
           <speaker>Ἐυελπίδης</speaker>
           <l real="o-oo-o-o">ὅμως ἐπέγειρον αὐτόν.</l>
         </sp>
-        <sp who="#therapon_epopos">
+        <sp who="#therapon-epopos">
           <speaker>Θεράπων Ἔποπος</speaker>
           <l part="Y" real="-x-x-">οἶδα μὲν σαφῶς</l>
           <l real="ox-oo---o-oooo-">ὅτι ἀχθέσεται, σφῷν δ’ αὐτὸν οὕνεκ’ ἐπεγερῶ.</l>
@@ -3087,7 +3087,7 @@ convert to p3
           <l n="1120" real="--o--ooxx-xxx">οὐδείς, ὅτου πευσόμεθα τἀκεῖ πράγματα.</l>
           <l real="--oxo-x---o-">ἀλλ’ οὑτοσὶ τρέχει τις Ἀλφειὸν πνέων.</l>
         </sp>
-        <sp who="#angelos_a">
+        <sp who="#angelos-a">
           <speaker>Ἄγγελος Α</speaker>
           <l real="--x---x---x-">ποῦ ποῦ ’στι, ποῦ ποῦ ποῦ ’στι, ποῦ ποῦ ποῦ ’στι ποῦ,</l>
           <l real="--o-o-x--">ποῦ Πισθέταιρός ἐστιν ἅρχων;</l>
@@ -3096,7 +3096,7 @@ convert to p3
           <speaker>Πισθέταιρος</speaker>
           <l part="Y" real="-ox">οὑτοσί.</l>
         </sp>
-        <sp who="#angelos_a">
+        <sp who="#angelos-a">
           <speaker>Ἄγγελος Α</speaker>
           <l real="--oo---o-o">ἐξῳκοδόμηταί σοι τὸ τεῖχος.</l>
         </sp>
@@ -3104,7 +3104,7 @@ convert to p3
           <speaker>Πισθέταιρος</speaker>
           <l part="Y" real="-o-">εὖ λέγεις.</l>
         </sp>
-        <sp who="#angelos_a">
+        <sp who="#angelos-a">
           <speaker>Ἄγγελος Α</speaker>
           <l n="1125" real="--o---oxxo-xo">κάλλιστον ἔργον καὶ μεγαλοπρεπέστατον·</l>
           <l real="-xox---ox-o-x-">ὥστ’ ἂν ἐπάνω μὲν Προξενίδης ὁ Κομπασεὺς</l>
@@ -3116,7 +3116,7 @@ convert to p3
           <speaker>Πισθέταιρος</speaker>
           <l part="Y" real="-x-">Ἡράκλεις.</l>
         </sp>
-        <sp who="#angelos_a">
+        <sp who="#angelos-a">
           <speaker>Ἄγγελος Α</speaker>
           <l n="1130" real="oo-o-x-xox--o-">τὸ δὲ μῆκός ἐστι, καὶ γὰρ ἐμέτρησ’ αὔτ’  ἐγώ,</l>
           <l real="ox-oo-o">ἑκατοντορόγυιον.</l>
@@ -3126,7 +3126,7 @@ convert to p3
           <l part="Y" real="-o---x-">ὦ Πόσειδον τοῦ μάκρους.</l>
           <l real="xo-oo-x-o-x-ox">τίνες ᾠκοδόμησαν αὐτὸ τηλικουτονί;</l>
         </sp>
-        <sp who="#angelos_a">
+        <sp who="#angelos-a">
           <speaker>Ἄγγελος Α</speaker>
           <l real="-xo---o---xo">ὄρνιθες, οὐδεὶς ἄλλος, οὐκ Αἰγύπτιος</l>
           <l real="-ooo-x-o---x-">πλινθοφόρος, οὐ λιθουργός, οὐ τέκτων παρῆν,</l>
@@ -3142,7 +3142,7 @@ convert to p3
           <speaker>Πισθέταιρος</speaker>
           <l real="o-oo---xxo">ἐπηλοφόρουν δ’ αὐτοῖσι τίνες;</l>
         </sp>
-        <sp who="#angelos_a">
+        <sp who="#angelos-a">
           <speaker>Ἄγγελος Α</speaker>
           <l part="Y" real="o-x-">ἐρωδιοὶ</l>
           <l real="ox-x">λεκάναισι.</l>
@@ -3151,7 +3151,7 @@ convert to p3
           <speaker>Πισθέταιρος</speaker>
           <l part="Y" real="-o-ooo--o-">τὸν δὲ πηλὸν ἐνεβάλλοντο πῶς;</l>
         </sp>
-        <sp who="#angelos_a">
+        <sp who="#angelos-a">
           <speaker>Ἄγγελος Α</speaker>
           <l real="--x---o-o-xx">τοῦτ’ ὦγάθ’ ἐξηύρητο καὶ σοφώτατα·</l>
           <l n="1145" real="--oxo--o---x-">οἱ χῆνες ὑποτύπτοντες ὥσπερ ταῖς ἄμαις</l>
@@ -3162,7 +3162,7 @@ convert to p3
           <l real="x-xoox-x-x-xo">τί δῆτα πόδες ἂν οὐκ ἂν ἐργασαίατο;</l>
           <milestone ed="p" n="1148" unit="card"/>
         </sp>
-        <sp who="#angelos_a">
+        <sp who="#angelos-a">
           <speaker>Ἄγγελος Α</speaker>
           <l real="--x---oox--o-">καὶ νὴ Δί’ αἱ νῆτταί γε περιεζωσμέναι</l>
           <l real="x-oo-x-ooxx-ox">ἐπλινθοφόρουν· ἄνω δὲ τὸν ὑπαγωγέα</l>
@@ -3175,7 +3175,7 @@ convert to p3
           <l real="ox-x--xxx---xo">φέρ’ ἴδω, τί δαί; τὰ ξύλινα τοῦ τείχους τίνες</l>
           <l real="x-x-">ἀπηργάσαντ’;</l>
         </sp>
-        <sp who="#angelos_a">
+        <sp who="#angelos-a">
           <speaker>Ἄγγελος Α</speaker>
           <l part="Y" real="-xo---oo">ὄρνιθες ἦσαν τέκτονες</l>
           <l n="1155" real="o-x-oo-o---ox">σοφώτατοι πελεκᾶντες, οἳ τοῖς ῥύγχεσιν</l>
@@ -3200,7 +3200,7 @@ convert to p3
           <l real="-oox---o-o-oo">ἀλλ’ ὅδε φύλαξ γὰρ τῶν ἐκεῖθεν ἄγγελος</l>
           <l real="--o---o-x-o-">ἐσθεῖ πρὸς ἡμᾶς δεῦρο πυρρίχην βλέπων.</l>
         </sp>
-        <sp who="#angelos_b">
+        <sp who="#angelos-b">
           <speaker>Ἄγγελος Β</speaker>
           <l n="1170" real="x-x-x-x-x-x-">ἰοὺ ἰού, ἰοὺ ἰού, ἰοὺ ἰού.</l>
         </sp>
@@ -3208,7 +3208,7 @@ convert to p3
           <speaker>Πισθέταιρος</speaker>
           <l real="xx-x-x">τί τὸ πρᾶγμα τουτί;</l>
         </sp>
-        <sp who="#angelos_b">
+        <sp who="#angelos-b">
           <speaker>Ἄγγελος Β.</speaker>
           <l part="Y" real="-oxxo-xo">δεινότατα πεπόνθαμεν.</l>
           <l real="--o-x-x-xx-xo">τῶν γὰρ θεῶν τις ἄρτι τῶν παρὰ τοῦ Διὸς</l>
@@ -3220,7 +3220,7 @@ convert to p3
           <l n="1175" real="--o---xxo--oo">ὦ δεινὸν ἔργον καὶ σχέτλιον εἰργασμένος.</l>
           <l real="--o-">τίς τῶν θεῶν;</l>
         </sp>
-        <sp who="#angelos_b">
+        <sp who="#angelos-b">
           <speaker>Ἄγγελος Β.</speaker>
           <l part="Y" real="--oox--ox">οὐκ ἴσμεν· ὅτι δ’ εἶχε πτερά,</l>
           <l real="--o">τοῦτ’ ἴσμεν.</l>
@@ -3230,7 +3230,7 @@ convert to p3
           <l part="Y" real="---xoxo-x-">οὔκουν δῆτα περιπόλους ἐχρῆν</l>
           <l real="--x-o-x">πέμψαι κατ’ αὐτὸν εὐθύς;</l>
         </sp>
-        <sp who="#angelos_b">
+        <sp who="#angelos-b">
           <speaker>Ἄγγελος Β.</speaker>
           <l part="Y" real="-o-xo">ἀλλ’ ἐπέμψαμεν</l>
           <l real="-xx-xoxx-o-ox">τρισμυρίους ἱέρακας ἱπποτοξότας,</l>

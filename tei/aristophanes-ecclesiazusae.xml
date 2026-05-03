@@ -51,55 +51,71 @@
         <listPerson>
           <person xml:id="praxagora" sex="FEMALE" role="uxor">
             <persName>Πραξάγορα</persName>
+            <persName xml:lang="en">Praxagora</persName>
           </person>
           <person xml:id="gyne-a" sex="FEMALE" role="uxor">
             <persName>Γυνὴ Α</persName>
+            <persName xml:lang="en">First Woman</persName>
           </person>
           <person xml:id="gyne-b" sex="FEMALE" role="uxor">
             <persName>Γυνὴ Β</persName>
+            <persName xml:lang="en">Second Woman</persName>
           </person>
           <person xml:id="gyne-g" sex="FEMALE" role="uxor">
             <persName>Γυνὴ Γ</persName>
+            <persName xml:lang="en">Third Woman</persName>
           </person>
-          <personGrp xml:id="choros" sex="FEMALE" role="chorus">
             <name>Χορὸς</name>
             <name type="variant">Χορὸς γυναικῶν</name>
+            <name xml:lang="en">Chorus of Athenian Women</name>
           </personGrp>
           <person xml:id="blepyros" sex="MALE" role="maritus">
             <persName>Βλέπυρος</persName>
+            <persName xml:lang="en">Blepyrus</persName>
           </person>
           <person xml:id="aner" sex="MALE" role="vir">
             <persName>Ἀνήρ</persName>
+            <persName xml:lang="en">A Man (A Neighbour of Blebyrus)</persName>
           </person>
           <person xml:id="aner-a" sex="MALE" role="vir">
             <persName>Ἀνὴρ Α</persName>
+            <persName xml:lang="en">First Man</persName>
           </person>
           <person xml:id="aner-b" sex="MALE" role="vir">
             <persName>Ἀνὴρ Β</persName>
+            <persName xml:lang="en">Second Man</persName>
           </person>
           <person xml:id="chremes" sex="MALE" role="senex">
             <persName>Χρέμης</persName>
+            <persName xml:lang="en">Chremes</persName>
           </person>
           <person xml:id="kerykaina" sex="FEMALE" role="praeco">
             <persName>Κηρύκαινα</persName>
+            <persName xml:lang="en">A Herald</persName>
           </person>
           <person xml:id="graus-a" sex="FEMALE" role="anus">
             <persName>Γραῦς Α</persName>
+            <persName xml:lang="en">First Old Woman</persName>
           </person>
           <person xml:id="graus-b" sex="FEMALE" role="anus">
             <persName>Γραῦς Β</persName>
+            <persName xml:lang="en">Second Old Woman</persName>
           </person>
           <person xml:id="graus-g" sex="FEMALE" role="anus">
             <persName>Γραῦς Γ</persName>
+            <persName xml:lang="en">Third Old Woman</persName>
           </person>
           <person xml:id="neanis" sex="MALE" role="virgo">
             <persName>Νεᾶνις</persName>
+            <persName xml:lang="en">A Young Woman</persName>
           </person>
           <person xml:id="neanias" sex="MALE" role="adulescens">
             <persName>Νεανίας</persName>
+            <persName xml:lang="en">A Young Man</persName>
           </person>
           <person xml:id="therapaina" sex="FEMALE" role="ancilla">
             <persName>Θεραπαίνα</persName>
+            <persName xml:lang="en">A Slave</persName>
           </person>
           <listRelation>
             <relation name="spouses" mutual="#praxagora #blepyros"/>

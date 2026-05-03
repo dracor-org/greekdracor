@@ -61,7 +61,7 @@
           <person xml:id="gyne_g" sex="FEMALE" role="uxor">
             <persName>Γυνὴ Γ</persName>
           </person>
-          <personGrp xml:id="choros" sex="UNKNOWN" role="chorus">
+          <personGrp xml:id="choros" sex="FEMALE" role="chorus">
             <name>Χορὸς</name>
             <name type="variant">Χορὸς γυναικῶν</name>
           </personGrp>
@@ -77,10 +77,10 @@
           <person xml:id="aner_b" sex="MALE" role="vir">
             <persName>Ἀνὴρ Β</persName>
           </person>
-          <person xml:id="chremes" sex="MALE">
+          <person xml:id="chremes" sex="MALE" role="senex">
             <persName>Χρέμης</persName>
           </person>
-          <person xml:id="kerykaina" sex="FEMALE">
+          <person xml:id="kerykaina" sex="FEMALE" role="praeco">
             <persName>Κηρύκαινα</persName>
           </person>
           <person xml:id="graus_a" sex="FEMALE" role="anus">

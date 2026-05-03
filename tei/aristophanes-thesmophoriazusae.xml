@@ -89,6 +89,10 @@
           <person xml:id="toksotes" sex="MALE" role="custos" ana="https://www.wikidata.org/wiki/Q12884611">
             <persName>Τοξότης</persName>
           </person>
+          <listRelation>
+            <relation name="related_with" active="#mnesilochos" passive="#euripides"/>
+            <relation name="associated_with" active="#therapon" passive="#agathon"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

@@ -110,6 +110,11 @@
           <person xml:id="pais_kleonymou" sex="MALE" role="filius">
             <persName>Παῖς Κλεωνύμου</persName>
           </person>
+          <listRelation>
+            <relation name="associated_with" active="#oiketes #oiketes_a #oiketes_b" passive="#trygaios"/>
+            <relation name="parent_of" active="#trygaios" passive="#paidion"/>
+            <relation name="associated_with" active="#kydoimos" passive="#polemos"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

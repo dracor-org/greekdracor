@@ -51,43 +51,54 @@
         <listPerson>
           <person xml:id="mnesilochos" sex="MALE" role="senex">
             <persName>Μνησίλοχος</persName>
+            <persName xml:lang="en">Mnesilochus</persName>
           </person>
           <person xml:id="euripides" sex="MALE" role="poeta" ana="http://www.wikidata.org/entity/Q48305">
             <persName>Εὐριπίδης</persName>
+            <persName xml:lang="en">Euripides</persName>
           </person>
           <person xml:id="therapon" sex="MALE" role="servus">
             <persName>Θεράπων</persName>
             <persName type="variant">Θεράπων Ἀγάθωνος</persName>
+            <persName xml:lang="en">A Slave of Agathon</persName>
           </person>
           <person xml:id="agathon" sex="MALE" role="poeta" ana="https://www.wikidata.org/wiki/Q380482">
             <persName>Ἀγάθων</persName>
+            <persName type="variant">Χορὸς Ἀγάθωνος</persName>
+            <persName xml:lang="en">Agathon</persName>
           </person>
-          <personGrp xml:id="xorosagathonos" sex="UNKNOWN">
-            <name>Χορὸς Ἀγάθωνος</name>
-          </personGrp>
           <person xml:id="kerykaina" sex="FEMALE">
             <persName>Κηρύκαινα</persName>
+            <persName xml:lang="en">A Charwoman</persName>
           </person>
           <personGrp xml:id="choros" sex="FEMALE" role="chorus uxor">
             <name>Χορός</name>
+            <name type="variant">Χορός Θεσμοφοριαζουσῶν</name>
+            <name xml:lang="en">Chorus of Women celebrating the Thesmophoria</name>
           </personGrp>
           <person xml:id="gyne_a" sex="FEMALE" role="uxor">
             <persName>Γυνὴ Α</persName>
+            <persName xml:lang="en">First Woman</persName>
           </person>
           <person xml:id="gyne_b" sex="FEMALE" role="uxor">
             <persName>Γυνὴ Β</persName>
+            <persName xml:lang="en">Second Woman</persName>
           </person>
           <person xml:id="gyne_g" sex="FEMALE" role="uxor">
             <persName>Γυνὴ Γ</persName>
+            <persName xml:lang="en">Third Woman</persName>
           </person>
           <person xml:id="kleisthenes" sex="MALE" ana="https://www.wikidata.org/wiki/Q5131112">
             <persName>Κλεισθένης</persName>
+            <persName xml:lang="en">Cleisthenes</persName>
           </person>
           <person xml:id="prytanis" sex="MALE" role="magistratus" ana="https://www.wikidata.org/wiki/Q456334">
             <persName>Πρύτανις</persName>
+            <persName xml:lang="en">A Magistrate</persName>
           </person>
           <person xml:id="toksotes" sex="MALE" role="custos" ana="https://www.wikidata.org/wiki/Q12884611">
             <persName>Τοξότης</persName>
+            <persName xml:lang="en">A Policeman</persName>
           </person>
           <listRelation>
             <relation name="related_with" active="#mnesilochos" passive="#euripides"/>

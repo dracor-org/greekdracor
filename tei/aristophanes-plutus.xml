@@ -88,6 +88,11 @@
           <person xml:id="hiereus" sex="MALE">
             <persName>Ἱερεύς</persName>
           </person>
+          <listRelation>
+            <relation name="associated_with" active="#karion" passive="#chremylos"/>
+            <relation name="friends" mutual="#chremylos #blepsidemos"/>
+            <relation name="spouses" mutual="#chremylos #gyne"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

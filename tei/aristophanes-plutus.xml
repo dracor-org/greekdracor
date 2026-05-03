@@ -51,46 +51,59 @@
         <listPerson>
           <person xml:id="karion" sex="MALE" role="servus">
             <persName>Καρίων</persName>
+            <persName xml:lang="en">Cario</persName>
           </person>
           <person xml:id="chremylos" sex="MALE">
             <persName>Χρεμύλος</persName>
+            <persName xml:lang="en">Chremylus</persName>
           </person>
           <person xml:id="ploutos" sex="MALE" role="deus" ana="http://www.wikidata.org/entity/Q205251">
             <persName>Πλοῦτος</persName>
+            <persName xml:lang="en">Plutus</persName>
           </person>
           <personGrp xml:id="choros" sex="MALE" role="chorus rusticus">
             <name>Χορός</name>
             <name type="variant">Χορὸς ἀγροίκων</name>
+            <name xml:lang="en">Chorus of Farmers</name>
           </personGrp>
           <person xml:id="blepsidemos" sex="MALE" role="amicus">
             <persName>Βλεψίδημος</persName>
+            <persName xml:lang="en">Blepsidemus</persName>
           </person>
           <person xml:id="penia" sex="FEMALE" role="dea" ana="https://www.wikidata.org/wiki/Q3899052">
             <persName>Πενία</persName>
+            <persName xml:lang="en">Penia</persName>
           </person>
           <person xml:id="gyne" sex="FEMALE" role="uxor">
             <persName>Γυνή</persName>
             <persName type="variant">Γυνὴ Χρεμύλου</persName>
+            <persName xml:lang="en">Wife of Chremylus</persName>
           </person>
           <person xml:id="dikaios" sex="MALE" role="vir">
             <persName>Δίκαιος</persName>
             <persName type="variant">Δίκαιος ἀνήρ</persName>
+            <persName xml:lang="en">A Just Man</persName>
           </person>
           <person xml:id="sykophantes" sex="MALE" role="sycophanta">
             <persName>Συκοφάντης</persName>
+            <persName xml:lang="en">An Informer</persName>
           </person>
           <person xml:id="graus" sex="FEMALE" role="anus">
             <persName>Γραῦς</persName>
+            <persName xml:lang="en">An Old Woman</persName>
           </person>
           <person xml:id="neanias" sex="MALE" role="adulescens">
             <persName>Νεανίας</persName>
+            <persName xml:lang="en">A Young Man</persName>
           </person>
           <person xml:id="hermes" role="deus" ana="http://www.wikidata.org/entity/Q41484">
             <persName>Ἑρμῆς</persName>
+            <persName xml:lang="en">Hermes</persName>
           </person>
           <person xml:id="hiereus" sex="MALE" role="sacerdos">
             <persName>Ἱερεύς</persName>
             <persName type="variant">Ἱερεὺς Διός</persName>
+            <persName xml:lang="en">Priest of Zeus</persName>
           </person>
           <listRelation>
             <relation name="associated_with" active="#karion" passive="#chremylos"/>

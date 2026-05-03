@@ -49,53 +49,64 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="lysistrate" sex="FEMALE">
+          <person xml:id="lysistrate" sex="FEMALE" role="uxor" ana="https://www.wikidata.org/wiki/Q63535426">
             <persName>Λυσιστράτη</persName>
+            <persName xml:lang="en">Lysistrata</persName>
           </person>
-          <person xml:id="kalonike" sex="FEMALE">
+          <person xml:id="kalonike" sex="FEMALE" role="uxor">
             <persName>Καλονίκη</persName>
+            <persName xml:lang="en">Calonice</persName>
           </person>
-          <person xml:id="myrrine" sex="FEMALE">
+          <person xml:id="myrrine" sex="FEMALE" role="uxor">
             <persName>Μυρρίνη</persName>
+            <persName xml:lang="en">Myrrhine</persName>
           </person>
-          <person xml:id="lampito" sex="FEMALE">
+          <person xml:id="lampito" sex="FEMALE" role="uxor">
             <persName>Λαμπιτῶ</persName>
+            <persName xml:lang="en">Lampito</persName>
           </person>
-          <personGrp xml:id="choros" sex="UNKNOWN">
+          <personGrp xml:id="choros" sex="UNKNOWN" role="chorus">
             <name>Χορός </name>
           </personGrp>
-          <personGrp xml:id="xoroslakedaimonion" sex="MALE">
+          <personGrp xml:id="xoroslakedaimonion" sex="MALE" role="chorus">
             <name>Χορὸς Λακεδαιμονίων</name>
           </personGrp>
-          <personGrp xml:id="xorosgeronton" sex="MALE">
+          <personGrp xml:id="xorosgeronton" sex="MALE" role="chorus">
             <name>Χορὸς Γερόντων</name>
           </personGrp>
-          <personGrp xml:id="xorosathenaion" sex="MALE">
+          <personGrp xml:id="xorosathenaion" sex="MALE" role="chorus">
             <name>Χορὸς Ἀθηναίων</name>
           </personGrp>
-          <personGrp xml:id="xorosgynaikon" sex="FEMALE">
+          <personGrp xml:id="xorosgynaikon" sex="FEMALE" role="chorus">
             <name>Χορὸς Γυναικῶν</name>
           </personGrp>
           <person xml:id="proboulos" sex="MALE">
             <persName>Πρόβουλος</persName>
+            <persName xml:lang="en">A Magistrate</persName>
           </person>
-          <person xml:id="gyne" sex="FEMALE">
+          <person xml:id="gyne" sex="FEMALE" role="uxor">
             <persName>Γυνὴ</persName>
+            <persName xml:lang="en">A Wife</persName>
           </person>
-          <person xml:id="gyne_a" sex="FEMALE">
+          <person xml:id="gyne_a" sex="FEMALE" role="uxor">
             <persName>Γυνὴ Α</persName>
+            <persName xml:lang="en">First Wife</persName>
           </person>
-          <person xml:id="gyne_b" sex="FEMALE">
+          <person xml:id="gyne_b" sex="FEMALE" role="uxor">
             <persName>Γυνὴ Β</persName>
+            <persName xml:lang="en">Second Wife</persName>
           </person>
-          <person xml:id="gyne_g" sex="FEMALE">
+          <person xml:id="gyne_g" sex="FEMALE" role="uxor">
             <persName>Γυνὴ Γ</persName>
+            <persName xml:lang="en">Third Wife</persName>
           </person>
-          <person xml:id="gyne_d" sex="FEMALE">
+          <person xml:id="gyne_d" sex="FEMALE" role="uxor">
             <persName>Γυνὴ Δ</persName>
+            <persName xml:lang="en">Fourth Wife</persName>
           </person>
-          <person xml:id="gyne_x" sex="FEMALE">
+          <person xml:id="gyne_x" sex="FEMALE" role="uxor">
             <persName>Γυνὴ Ξ</persName>
+            <persName xml:lang="en">Fourteenth Wife</persName>
           </person>
           <person xml:id="alle" sex="FEMALE">
             <persName>Ἄλλη</persName>
@@ -103,30 +114,42 @@
           <personGrp xml:id="pasai" sex="UNKNOWN">
             <name>Πᾶσαι</name>
           </personGrp>
-          <person xml:id="kinesias" sex="MALE">
+          <person xml:id="kinesias" sex="MALE" role="maritus">
             <persName>Κινησίας</persName>
+            <persName xml:lang="en">Cinesias</persName>
           </person>
-          <person xml:id="pais_kinesiou" sex="UNKNOWN">
+          <person xml:id="pais_kinesiou" sex="UNKNOWN" role="filius filia">
             <persName>Παῖς Κινησίου</persName>
+            <persName xml:lang="en">Child of Cinesias</persName>
           </person>
-          <person xml:id="keryx_lakedaimonion" sex="MALE">
+          <person xml:id="keryx_lakedaimonion" sex="MALE" role="praeco">
             <persName>Κῆρυξ Λακεδαιμονίων</persName>
+            <persName xml:lang="en">Herald from Sparta</persName>
           </person>
-          <person xml:id="lakon" sex="MALE">
+          <person xml:id="lakon" sex="MALE" role="legatus">
             <persName>Λάκων</persName>
+            <persName xml:lang="en">A Spartan Delegate</persName>
           </person>
-          <person xml:id="geron" sex="MALE">
+          <person xml:id="geron" sex="MALE" role="senex legatus">
             <persName>Γέρων</persName>
+            <persName xml:lang="en">An Athenian Delegate</persName>
           </person>
-          <person xml:id="athenaios" sex="MALE">
+          <person xml:id="athenaios" sex="MALE" role="legatus">
             <persName>Ἀθηναῖος</persName>
+            <persName xml:lang="en">An Athenian Delegate</persName>
           </person>
-          <person xml:id="athenaios_a" sex="MALE">
+          <person xml:id="athenaios_a" sex="MALE" role="legatus">
             <persName>Ἀθηναῖος Α</persName>
+            <persName xml:lang="en">First Athenian Delegate</persName>
           </person>
-          <person xml:id="athenaios_b" sex="MALE">
+          <person xml:id="athenaios_b" sex="MALE" role="legatus">
             <persName>Ἀθηναῖος Β</persName>
+            <persName xml:lang="en">Second Athenian Delegate</persName>
           </person>
+          <listRelation>
+            <relation name="spouses" mutual="#myrrine #kinesias"/>
+            <relation name="parent_of" active="#myrrine #kinesias" passive="#pais_kinesiou"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

@@ -49,77 +49,77 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="angelos_a" sex="UNKNOWN">
-            <persName>Ἄγγελος Α</persName>
+          <person xml:id="euelpides" sex="MALE">
+            <persName>Ἐυελπίδης</persName>
           </person>
-          <person xml:id="chresmologos" sex="MALE">
-            <persName>Χρησμολόγος</persName>
-          </person>
-          <person xml:id="angelos" sex="UNKNOWN">
-            <persName>Ἄγγελος</persName>
-          </person>
-          <person xml:id="triballos" sex="MALE">
-            <persName>Τριβαλλός</persName>
-          </person>
-          <person xml:id="kinesias" sex="MALE">
-            <persName>Κινησίας</persName>
-          </person>
-          <person xml:id="psephismatopoles" sex="MALE">
-            <persName>Ψηφισματοπώλης</persName>
+          <person xml:id="pisthetairos" sex="MALE">
+            <persName>Πισθέταιρος</persName>
           </person>
           <person xml:id="therapon_epopos" sex="MALE">
             <persName>Θεράπων Ἔποπος</persName>
           </person>
-          <person xml:id="episkopos" sex="MALE">
-            <persName>Ἐπίσκοπος</persName>
+          <person xml:id="epops" sex="UNKNOWN">
+            <persName>Ἔποψ</persName>
           </person>
-          <person xml:id="hiereus" sex="MALE">
-            <persName>Ἱερεύς</persName>
-          </person>
-          <person xml:id="euelpides" sex="MALE">
-            <persName>Ἐυελπίδης</persName>
-          </person>
+          <personGrp xml:id="choros" sex="UNKNOWN">
+            <name>Χορός</name>
+          </personGrp>
           <person xml:id="ornis_tis" sex="UNKNOWN">
             <persName>Ὄρνις Τις</persName>
           </person>
           <person xml:id="keryx" sex="MALE">
             <persName>Κῆρυξ</persName>
           </person>
-          <personGrp xml:id="choros" sex="UNKNOWN">
-            <name>Χορός</name>
-          </personGrp>
-          <person xml:id="iris" sex="FEMALE">
-            <persName>Ἶρις</persName>
-          </person>
-          <person xml:id="epops" sex="UNKNOWN">
-            <persName>Ἔποψ</persName>
+          <person xml:id="hiereus" sex="MALE">
+            <persName>Ἱερεύς</persName>
           </person>
           <person xml:id="poietes" sex="MALE">
             <persName>Ποιητής</persName>
           </person>
-          <person xml:id="patraloias" sex="MALE">
-            <persName>Πατραλοίας</persName>
+          <person xml:id="chresmologos" sex="MALE">
+            <persName>Χρησμολόγος</persName>
           </person>
           <person xml:id="meton" sex="MALE">
             <persName>Μέτων</persName>
           </person>
-          <person xml:id="sykophantes" sex="MALE">
-            <persName>Συκοφάντης</persName>
+          <person xml:id="episkopos" sex="MALE">
+            <persName>Ἐπίσκοπος</persName>
           </person>
-          <person xml:id="herakles" sex="MALE" ana="http://www.wikidata.org/entity/Q122248">
-            <persName>Ἡρακλῆς</persName>
+          <person xml:id="psephismatopoles" sex="MALE">
+            <persName>Ψηφισματοπώλης</persName>
           </person>
-          <person xml:id="prometheus" sex="MALE" ana="http://www.wikidata.org/entity/Q83160">
-            <persName>Προμηθεύς</persName>
+          <person xml:id="angelos" sex="UNKNOWN">
+            <persName>Ἄγγελος</persName>
+          </person>
+          <person xml:id="angelos_a" sex="UNKNOWN">
+            <persName>Ἄγγελος Α</persName>
           </person>
           <person xml:id="angelos_b" sex="UNKNOWN">
             <persName>Ἄγγελος Β</persName>
           </person>
-          <person xml:id="pisthetairos" sex="MALE">
-            <persName>Πισθέταιρος</persName>
+          <person xml:id="iris" sex="FEMALE">
+            <persName>Ἶρις</persName>
+          </person>
+          <person xml:id="patraloias" sex="MALE">
+            <persName>Πατραλοίας</persName>
+          </person>
+          <person xml:id="kinesias" sex="MALE">
+            <persName>Κινησίας</persName>
+          </person>
+          <person xml:id="sykophantes" sex="MALE">
+            <persName>Συκοφάντης</persName>
+          </person>
+          <person xml:id="prometheus" sex="MALE" ana="http://www.wikidata.org/entity/Q83160">
+            <persName>Προμηθεύς</persName>
           </person>
           <person xml:id="poseidon" sex="MALE" ana="http://www.wikidata.org/entity/Q41127">
             <persName>Ποσειδῶν</persName>
+          </person>
+          <person xml:id="triballos" sex="MALE">
+            <persName>Τριβαλλός</persName>
+          </person>
+          <person xml:id="herakles" sex="MALE" ana="http://www.wikidata.org/entity/Q122248">
+            <persName>Ἡρακλῆς</persName>
           </person>
         </listPerson>
       </particDesc>

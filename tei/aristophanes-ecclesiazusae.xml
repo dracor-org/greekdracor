@@ -101,6 +101,9 @@
           <person xml:id="therapaina" sex="FEMALE" role="ancilla">
             <persName>Θεραπαίνα</persName>
           </person>
+          <listRelation>
+            <relation name="spouses" mutual="#praxagora #blepyros"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

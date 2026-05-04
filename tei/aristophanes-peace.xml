@@ -49,66 +49,92 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="paidion" sex="UNKNOWN">
-            <persName>Παιδίον</persName>
-          </person>
-          <person xml:id="drepanourgos" sex="MALE">
-            <persName>Δρεπανουργός</persName>
-          </person>
-          <person xml:id="thorakopoles" sex="MALE">
-            <persName>Θωρακοπώλης</persName>
-          </person>
-          <personGrp xml:id="hemichorion_a">
-            <name>Ἡμιχόριον Α</name>
-          </personGrp>
-          <personGrp xml:id="hemichorion_b">
-            <name>Ἡμιχόριον Β</name>
-          </personGrp>
-          <person xml:id="salpingopoios">
-            <persName>Σαλπιγγοποιός</persName>
-          </person>
-          <person xml:id="pais_kleonymou" sex="MALE">
-            <persName>Παῖς Κλεωνύμου</persName>
-          </person>
-          <person xml:id="trygaios" sex="MALE">
-            <persName>Τρυγαῖος</persName>
-          </person>
-          <person xml:id="hierokles" sex="MALE">
-            <persName>Ἱεροκλῆς</persName>
-          </person>
-          <person xml:id="kydoimos" sex="MALE">
-            <persName>Κύδοιμος</persName>
-          </person>
-          <person xml:id="polemos" sex="MALE">
-            <persName>Πόλεμος</persName>
-          </person>
-          <person xml:id="doryksos" sex="MALE">
-            <persName>Δορυξός</persName>
-          </person>
-          <person xml:id="lophopoios" sex="MALE">
-            <persName>Λοφοποιός</persName>
-          </person>
-          <person xml:id="kranopoios" sex="MALE">
-            <persName>Κρανοποιός</persName>
-          </person>
-          <person xml:id="oiketes" sex="MALE">
+          <person xml:id="oiketes" sex="MALE" role="servus">
             <persName>Οἰκέτης</persName>
+            <persName xml:lang="en">A Slave</persName>
           </person>
-          <person xml:id="oiketes_a" sex="MALE">
+          <person xml:id="oiketes-a" sex="MALE" role="servus">
             <persName>Οἰκέτης Α</persName>
+            <persName xml:lang="en">First Slave</persName>
           </person>
-          <person xml:id="oiketes_b" sex="MALE">
+          <person xml:id="oiketes-b" sex="MALE" role="servus">
             <persName>Οἰκέτης Β</persName>
+            <persName xml:lang="en">Second Slave</persName>
           </person>
-          <personGrp xml:id="choros" sex="MALE">
-            <name>Χορός</name>
-          </personGrp>
-          <person xml:id="hermes" sex="MALE" ana="http://www.wikidata.org/entity/Q41484">
+          <person xml:id="trygaios" sex="MALE" role="dominus">
+            <persName>Τρυγαῖος</persName>
+            <persName xml:lang="en">Thrygaeus</persName>
+          </person>
+          <person xml:id="paidion" sex="FEMALE" role="filia">
+            <persName>Παιδίον</persName>
+            <persName xml:lang="en">Daughter</persName>
+          </person>
+          <person xml:id="hermes" sex="MALE" role="deus" ana="http://www.wikidata.org/entity/Q41484">
             <persName>Ἑρμῆς</persName>
+            <persName xml:lang="en">Hermes</persName>
           </person>
-          <person xml:id="pais_lamachou" sex="MALE">
+          <person xml:id="polemos" sex="MALE" role="allegoria deus" ana="https://www.wikidata.org/wiki/Q2713002">
+            <persName>Πόλεμος</persName>
+            <persName xml:lang="en">War</persName>
+          </person>
+          <person xml:id="kydoimos" sex="MALE" role="allegoria servus" ana="https://www.wikidata.org/wiki/Q636428">
+            <persName>Κύδοιμος</persName>
+            <persName xml:lang="en">Hubbub</persName>
+          </person>
+          <personGrp xml:id="choros" sex="MALE" role="chorus senex">
+            <name>Χορός</name>
+            <name type="variant">Χορὸς Γερόντων</name>
+            <name xml:lang="en">Chorus of Elders</name>
+          </personGrp>
+          <personGrp xml:id="hemichorion-a" sex="MALE" role="semichorus senex" corresp="#choros">
+            <name>Ἡμιχόριον Α</name>
+            <name xml:lang="en">Semi-Chorus A</name>
+          </personGrp>
+          <personGrp xml:id="hemichorion-b" sex="MALE" role="semichorus senex" corresp="#choros">
+            <name>Ἡμιχόριον Β</name>
+            <name xml:lang="en">Semi-Chorus B</name>
+          </personGrp>
+          <person xml:id="hierokles" sex="MALE" role="vates">
+            <persName>Ἱεροκλῆς</persName>
+            <persName xml:lang="en">Hierocles</persName>
+          </person>
+          <person xml:id="drepanourgos" sex="MALE" role="faber">
+            <persName>Δρεπανουργός</persName>
+            <persName xml:lang="en">Sickle Maker</persName>
+          </person>
+          <person xml:id="lophopoios" sex="MALE" role="faber">
+            <persName>Λοφοποιός</persName>
+            <persName xml:lang="en">Crest Maker</persName>
+          </person>
+          <person xml:id="thorakopoles" sex="MALE" role="mercator">
+            <persName>Θωρακοπώλης</persName>
+            <persName xml:lang="en">Dealer in Breastplates</persName>
+          </person>
+          <person xml:id="salpingopoios" role="faber">
+            <persName>Σαλπιγγοποιός</persName>
+            <persName xml:lang="en">Maker of War Trumpets</persName>
+          </person>
+          <person xml:id="kranopoios" sex="MALE" role="faber">
+            <persName>Κρανοποιός</persName>
+            <persName xml:lang="en">Helmet Maker</persName>
+          </person>
+          <person xml:id="doryksos" sex="MALE" role="faber">
+            <persName>Δορυξός</persName>
+            <persName xml:lang="en">Speer Maker</persName>
+          </person>
+          <person xml:id="pais-lamachou" sex="MALE" role="filius">
             <persName>Παῖς Λαμάχου</persName>
+            <persName xml:lang="en">Son of Lamachus</persName>
           </person>
+          <person xml:id="pais-kleonymou" sex="MALE" role="filius">
+            <persName>Παῖς Κλεωνύμου</persName>
+            <persName xml:lang="en">Son of Cleonymus</persName>
+          </person>
+          <listRelation>
+            <relation name="associated_with" active="#oiketes #oiketes-a #oiketes-b" passive="#trygaios"/>
+            <relation name="parent_of" active="#trygaios" passive="#paidion"/>
+            <relation name="associated_with" active="#kydoimos" passive="#polemos"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>
@@ -202,61 +228,61 @@ bring up to P3
     <body>
       <div1 type="Prologue">
         <milestone n="1" unit="card"/>
-        <sp who="#oiketes_a">
+        <sp who="#oiketes-a">
           <speaker>Οἰκέτης Α</speaker>
           <l real="--o-x-x-x-x-">αἶρ’ αἶρε μᾶζαν ὡς τάχιστα κανθάρῳ.</l>
         </sp>
-        <sp who="#oiketes_b">
+        <sp who="#oiketes-b">
           <speaker>Οἰκέτης Β</speaker>
           <l real="x-o---x-xo-o-">ἰδού. δὸς αὐτῷ, τῷ κάκιστ’ ἀπολουμένῳ</l>
           <l real="--o---x-x-x-">καὶ μήποτ’ αὐτῆς μᾶζαν ἡδίω φάγοι.</l>
         </sp>
-        <sp who="#oiketes_a">
+        <sp who="#oiketes-a">
           <speaker>Οἰκέτης Α</speaker>
           <l real="--xoox-ox-x-o-">δὸς μᾶζαν ἑτέραν, ἐξ ὀνίδων πεπλασμένην.</l>
         </sp>
-        <sp who="#oiketes_b">
+        <sp who="#oiketes-b">
           <speaker>Οἰκέτης Β</speaker>
           <l n="5" real="x-x---x---oo">ἰδοὺ μάλ’ αὖφις. ποῦ γὰρ ἣν νῦν δὴ ’φερες;</l>
           <l real="xoxo">κατέφαγεν;</l>
         </sp>
-        <sp who="#oiketes_a">
+        <sp who="#oiketes-a">
           <speaker>Οἰκέτης Α</speaker>
           <l part="Y" real="-x-x---xx">οὐ μὰ τὸν Δί’ ἀλλ’ ἐξαρπάσας</l>
           <l real="o-oo-ooxxx--o-">ὅλην ἐνέκαψε περικυλίσας τοῖν ποδοῖν.</l>
           <l real="--x-x-o---xx">ἀλλ’ ὡς τάχιστα τρῖβε πολλὰς καὶ πυκνάς.</l>
         </sp>
-        <sp who="#oiketes_b">
+        <sp who="#oiketes-b">
           <speaker>Οἰκέτης Β</speaker>
           <l real="--xoo--x-x-o-">ἄνδρες κοπρολόγοι προσλάβεσθε πρὸς θεῶν,</l>
           <l n="10" real="--o--xxx-xoxx-">εἰ μή με βούλεσθ’ ἀποπνιγέντα περιιδεῖν.</l>
         </sp>
-        <sp who="#oiketes_a">
+        <sp who="#oiketes-a">
           <speaker>Οἰκέτης Α</speaker>
           <l real="ooxoo---o---oo">ἑτέραν ἑτέραν δός, παιδὸς ἡταιρηκότος·</l>
           <l real="x-o---xoxx-">τετριμμένης γάρ φησιν ἐπιθυμεῖν.</l>
         </sp>
-        <sp who="#oiketes_b">
+        <sp who="#oiketes-b">
           <speaker>Οἰκέτης Β</speaker>
           <l part="Y" real="x-">ἰδού.</l>
           <l real="o-o-oxoo---o-">ἑνὸς μὲν ὦνδρες ἀπολελύσθαι μοι δοκῶ·</l>
           <l real="--x---o---x-">οὐδεὶς γὰρ ἂν φαίη με μάττοντ’ ἐσθίειν.</l>
         </sp>
-        <sp who="#oiketes_a">
+        <sp who="#oiketes-a">
           <speaker>Οἰκέτης Α</speaker>
           <l n="15" real="--o--xo--xox">αἰβοῖ, φέρ’ ἄλλην χἀτέραν μοι χἀτέραν,</l>
           <l real="--ooox">καὶ τρῖβ’ &lt;ἔθ’&gt; ἑτέρας.</l>
         </sp>
-        <sp who="#oiketes_b">
+        <sp who="#oiketes-b">
           <speaker>Οἰκέτης Β</speaker>
           <l part="Y" real="xox---o-">μὰ τὸν Ἀπόλλω ’γὼ μὲν οὔ·</l>
           <l real="-xo---xoo---xx">οὐ γὰρ ἔθ’ οἶός τ’ εἴμ’ ὑπερέχειν τῆς ἀντλίας.</l>
         </sp>
-        <sp who="#oiketes_a">
+        <sp who="#oiketes-a">
           <speaker>Οἰκέτης Α</speaker>
           <l real="--x---x---xx">αὐτὴν ἄρ’ οἴσω συλλαβὼν τὴν ἀντλίαν.</l>
         </sp>
-        <sp who="#oiketes_b">
+        <sp who="#oiketes-b">
           <speaker>Οἰκέτης Β</speaker>
           <l real="--x-ox-o---xo">νὴ τὸν Δί’ ἐς κόρακάς γε καὶ σαυτόν γε πρός.</l>
           <l n="20" real="x-o-x-o-x-x-">ὑμῶν δέ γ’ εἴ τις οἶδ’ ἐμοὶ κατειπάτω,</l>
@@ -282,16 +308,16 @@ bring up to P3
           <l n="40" real="--xox--x---o-">οὐκ οἶδ’. Ἀφροδίτης μὲν γὰρ οὔ μοι φαίνεται,</l>
           <l real="--xx-o">οὐ μὴν Χαρίτων γε.</l>
         </sp>
-        <sp who="#oiketes_a">
+        <sp who="#oiketes-a">
           <speaker>Οἰκέτης Α</speaker>
           <l part="Y" real="-x-">τοῦ γάρ ἐστ’;</l>
         </sp>
-        <sp who="#oiketes_b">
+        <sp who="#oiketes-b">
           <speaker>Οἰκέτης Β</speaker>
           <l part="Y" real="--o-">οὐκ ἔσθ’ ὅπως</l>
           <l real="--xoox-x-x-x-">τοῦτ’ ἔστι τὸ τέρας οὐ Διὸς καταιβάτου.</l>
         </sp>
-        <sp who="#oiketes_a">
+        <sp who="#oiketes-a">
           <speaker>Οἰκέτης Α</speaker>
           <l real="--x---ox--o-">οὐκοῦν ἂν ἤδη τῶν θεατῶν τις λέγοι</l>
           <l real="oxx-o-xo-ox-xx">νεανίας δοκησίσοφος, ‘τὸ δὲ πρᾶγμα τί;</l>
@@ -300,12 +326,12 @@ bring up to P3
           <l real="oo-o-o-x---o-">‘δοκέω μέν, ἐς Κλέωνα τοῦτ’ αἰνίσσεται,</l>
           <l real="--ox---xx--x-">ὡς κεῖνος ἀναιδέως τὴν σπατίλην ἐσθίει.’</l>
         </sp>
-        <sp who="#oiketes_b">
+        <sp who="#oiketes-b">
           <speaker>Οἰκέτης Β</speaker>
           <l real="--x---x---x-">ἀλλ’ εἰσιὼν τῷ κανθάρῳ δώσω πιεῖν.</l>
           <milestone ed="p" n="50" unit="card"/>
         </sp>
-        <sp who="#oiketes_a">
+        <sp who="#oiketes-a">
           <speaker>Οἰκέτης Α</speaker>
           <l n="50" real="o-o-o-o-x-x-">ἐγὼ δὲ τὸν λόγον γε τοῖσι παιδίοις</l>
           <l real="--x-x-x---xx">καὶ τοῖσιν ἀνδρίοισι καὶ τοῖς ἀνδράσιν</l>
@@ -325,7 +351,7 @@ bring up to P3
           <l real="--xx--o---o-">ὦ Ζεῦ τί δρασείεις ποθ’ ἡμῶν τὸν λεών;</l>
           <l real="--o---o---xx">λήσεις σεαυτὸν τὰς πόλεις ἐκκοκκίσας.</l>
         </sp>
-        <sp who="#oiketes_a">
+        <sp who="#oiketes-a">
           <speaker>Οἰκέτης Α</speaker>
           <l real="--x-xoxo---oo">τοῦτ’ ἔστι τουτὶ τὸ κακὸν αὔθ’ οὑγὼ ’λεγον.</l>
           <l n="65" real="o-xx-x-xx-x-oo">τὸ γὰρ παράδειγμα τῶν μανιῶν ἀκούετε·</l>
@@ -359,7 +385,7 @@ bring up to P3
             <l real="-o----ox--">εἰ δὲ ποιήσεις τοῦτο, κατ’ οἴκους</l>
             <l real="------oo-">αὐτοῦ μεῖνον τοὺς ἡμετέρους.</l>
           </sp>
-          <sp who="#oiketes_a">
+          <sp who="#oiketes-a">
             <speaker>Οἰκέτης Α</speaker>
             <l n="90" real="--ox--xx--">ὦ δέσποτ’ ἄναξ ὡς παραπαίεις.</l>
           </sp>
@@ -367,7 +393,7 @@ bring up to P3
             <speaker>Τρυγαῖος</speaker>
             <l real="xxxx">σίγα σίγα.</l>
           </sp>
-          <sp who="#oiketes_a">
+          <sp who="#oiketes-a">
             <speaker>Οἰκέτης Α</speaker>
             <l real="----oo-oo-">ποῖ δῆτ’ ἄλλως μετεωροκοπεῖς;</l>
           </sp>
@@ -376,7 +402,7 @@ bring up to P3
             <l real="xo-----oo-">ὑπὲρ Ἑλλήνων πάντων πέτομαι</l>
             <l real="--xo-xx-xoo">τόλμημα νέον παλαμησάμενος.</l>
           </sp>
-          <sp who="#oiketes_a">
+          <sp who="#oiketes-a">
             <speaker>Οἰκέτης Α</speaker>
             <l n="95" real="xo-xx--xx--">τί πέτει; τί μάτην οὐχ ὑγιαίνεις;</l>
           </sp>
@@ -391,7 +417,7 @@ bring up to P3
           </sp>
         </div2>
         <div2 type="iambics">
-          <sp who="#oiketes_a">
+          <sp who="#oiketes-a">
             <speaker>Οἰκέτης Α</speaker>
             <l real="--o-x-o---x-">οὐκ ἔσθ’ ὅπως σιγήσομ’, ἢν μή μοι φράσῃς</l>
             <l real="o-o--xxo-">ὅποι πέτεσθαι διανοεῖ.</l>
@@ -401,7 +427,7 @@ bring up to P3
             <l part="Y" real="x-o-">τί δ’ ἄλλο γ’ ἢ</l>
             <l real="--x-o-xo">ὡς τὸν Δί’ ἐς τὸν οὐρανόν;</l>
           </sp>
-          <sp who="#oiketes_a">
+          <sp who="#oiketes-a">
             <speaker>Οἰκέτης Α</speaker>
             <l part="Y" real="xx-o-">τίνα νοῦν ἔχων;</l>
           </sp>
@@ -410,7 +436,7 @@ bring up to P3
             <l n="105" real="o-oooo-o---ox">ἐρησόμενος ἐκεῖνον Ἑλλήνων πέρι</l>
             <l real="x-x--ox----o-">ἁπαξαπάντων ὅ τι ποιεῖν βουλεύεται.</l>
           </sp>
-          <sp who="#oiketes_a">
+          <sp who="#oiketes-a">
             <speaker>Οἰκέτης Α</speaker>
             <l real="o-o--xxo--">ἐὰν δὲ μή σοι καταγορεύῃ;</l>
           </sp>
@@ -419,7 +445,7 @@ bring up to P3
             <l part="Y" real="-o-">γράψομαι</l>
             <l real="--x--oxo---xx">Μήδοισιν αὐτὸν προδιδόναι τὴν Ἑλλάδα.</l>
           </sp>
-          <sp who="#oiketes_a">
+          <sp who="#oiketes-a">
             <speaker>Οἰκέτης Α</speaker>
             <l real="x-xoxo-oo---o-">μὰ τὸν Διόνυσον οὐδέποτε ζῶντός γ’ ἐμοῦ.</l>
           </sp>
@@ -427,7 +453,7 @@ bring up to P3
             <speaker>Τρυγαῖος</speaker>
             <l n="110" real="--xxx--">οὐκ ἔστι παρὰ ταῦτ’ ἄλλ’.</l>
           </sp>
-          <sp who="#oiketes_a">
+          <sp who="#oiketes-a">
             <speaker>Οἰκέτης Α</speaker>
             <l part="Y" real="x-x-x-">ἰοὺ ἰοὺ ἰού·</l>
             <l real="--xox-xox-x-o-">ὦ παιδί’ ὁ πατὴρ ἀπολιπὼν ἀπέρχεται</l>
@@ -3341,7 +3367,7 @@ bring up to P3
           <milestone ed="p" n="1270" unit="card"/>
         </sp>
         <div2 type="dactyls">
-          <sp who="#pais_lamachou">
+          <sp who="#pais-lamachou">
             <speaker>Παῖς &lt;Λαμάχου&gt;</speaker>
             <l n="1270" real="--xoo-----ox">νῦν αὖθ’ ὁπλοτέρων ἀνδρῶν ἀρχώμεθα—</l>
           </sp>
@@ -3351,7 +3377,7 @@ bring up to P3
             <l real="xoo-------xo-o">ὁπλοτέρους ᾆδον, καὶ ταῦτ ὦ τρισκακόδαιμον</l>
             <l real="-----xx---xxxo">εἰρήνης οὔσης· ἀμαθές γ’ εἶ καὶ κατάρατον.</l>
           </sp>
-          <sp who="#pais_lamachou">
+          <sp who="#pais-lamachou">
             <speaker>Παῖς &lt;Λαμάχου&gt;</speaker>
             <l real="-oo-oo-xo---xx-o">οἱ δ’ ὅτε δὴ σχεδὸν ἦσαν ἐπ’ ἀλλήλοισιν ἰόντες,</l>
             <l real="-ox-x-o--xx-xo-x">σύν ῥ’ ἔβαλον ῥινούς τε καὶ ἀσπίδας ὀμφαλοέσσας.</l>
@@ -3360,7 +3386,7 @@ bring up to P3
             <speaker>Τρυγαῖος</speaker>
             <l n="1275" real="-xx-----oo-xo--">ἀσπίδας; οὐ παύσει μεμνημένος ἀσπίδος ἡμῖν;</l>
           </sp>
-          <sp who="#pais_lamachou">
+          <sp who="#pais-lamachou">
             <speaker>Παῖς &lt;Λαμάχου&gt;</speaker>
             <l real="-xx---o----oo--">ἔνθα δ’ ἅμ’ οἰμωγή τε καὶ εὐχωλὴ πέλεν ἀνδρῶν.</l>
           </sp>
@@ -3369,7 +3395,7 @@ bring up to P3
             <l real="---------xoxo">ἀνδρῶν οἰμωγή; κλαύσει νὴ τὸν Διόνυσον</l>
             <l real="--x----x-xo-x">οἰμωγὰς ᾄδων, καὶ ταύτας ὀμφαλοέσσας.</l>
           </sp>
-          <sp who="#pais_lamachou">
+          <sp who="#pais-lamachou">
             <speaker>Παῖς &lt;Λαμάχου&gt;</speaker>
             <l real="-xx---xx-o--xx--">ἀλλὰ τί δῆτ’ ᾄδω; σὺ γὰρ εἰπέ μοι οἷστισι χαίρεις.</l>
           </sp>
@@ -3378,7 +3404,7 @@ bring up to P3
             <l n="1280" real="-----oo-ox-x--x">ὣς οἱ μὲν δαίνυντο βοῶν κρέα, καὶ τὰ τοιαυτί·</l>
             <l real="x--ox-o----xx--">ἄριστον προτίθεντο καὶ ἅτθ’ ἥδιστα πάσασθαι.</l>
           </sp>
-          <sp who="#pais_lamachou">
+          <sp who="#pais-lamachou">
             <speaker>Παῖς &lt;Λαμάχου&gt;</speaker>
             <l real="-----oo-ox-ox--">ὣς οἱ μὲν δαίνυντο βοῶν κρέα, καὐχένας ἵππων</l>
             <l real="xxox--xo-oo-oo-o">ἔκλυον ἱδρώοντας, ἐπεὶ πολέμου ἐκόρεσθεν.</l>
@@ -3390,7 +3416,7 @@ bring up to P3
             <l real="-ooo---oo---xo">εἶεν; ἐκόρεσθεν τοῦ πολέμου κᾆτ’ ἤσθιον.</l>
             <l n="1285" real="--o---x-oo-o-">ταῦτ’ ᾆδε, ταῦθ’, ὡς ἤσθιον κεκορημένοι.</l>
           </sp>
-          <sp who="#pais_lamachou">
+          <sp who="#pais-lamachou">
             <speaker>Παῖς &lt;Λαμάχου&gt;</speaker>
             <l real="---xo-xo-o-">θωρήσσοντ’ ἄρ’ ὄτειτα πεπαυμένοι—</l>
           </sp>
@@ -3398,7 +3424,7 @@ bring up to P3
             <speaker>Τρυγαῖος</speaker>
             <l part="Y" real="-o---">ἄσμενοι, οἶμαι.</l>
           </sp>
-          <sp who="#pais_lamachou">
+          <sp who="#pais-lamachou">
             <speaker>Παῖς &lt;Λαμάχου&gt;</speaker>
             <l real="---oo-oo---oo--">πύργων δ’ ἐξεχέοντο, βοὴ δ’ ἄσβεστος ὀρώρει.</l>
           </sp>
@@ -3407,7 +3433,7 @@ bring up to P3
             <l real="x-xo-o-xxo--x-">κάκιστ’ ἀπόλοιο παιδάριον αὐταῖς μάχαις·</l>
             <l real="--x---oo---o-">οὐδὲν γὰρ ᾄδεις πλὴν πολέμους. τοῦ καί ποτ’ εἶ;</l>
           </sp>
-          <sp who="#pais_lamachou">
+          <sp who="#pais-lamachou">
             <speaker>Παῖς &lt;Λαμάχου&gt;</speaker>
             <l n="1290" real="o-">ἐγώ;</l>
           </sp>
@@ -3415,7 +3441,7 @@ bring up to P3
             <speaker>Τρυγαῖος</speaker>
             <l part="Y" real="x---x">σὺ μέντοι νὴ Δί’.</l>
           </sp>
-          <sp who="#pais_lamachou">
+          <sp who="#pais-lamachou">
             <speaker>Παῖς &lt;Λαμάχου&gt;</speaker>
             <l part="Y" real="--xx-">υἱὸς Λαμάχου.</l>
           </sp>
@@ -3432,7 +3458,7 @@ bring up to P3
           </sp>
         </div2>
         <div2 type="elegiacs">
-          <sp who="#pais_kleonymou">
+          <sp who="#pais-kleonymou">
             <speaker>Παῖς &lt;Κλεωνύμου&gt;</speaker>
             <l real="-xx-xx-xx-o--xx--">ἀσπίδι μὲν Σαΐων τις ἀγάλλεται, ἣν παρὰ θάμνῳ</l>
             <l real="-ox----xo-oo-">ἔντος ἀμώμητον κάλλιπον οὐκ ἐθέλων.</l>
@@ -3441,7 +3467,7 @@ bring up to P3
             <speaker>Τρυγαῖος</speaker>
             <l n="1300" real="-o--------xo--">εἰπέ μοι ὦ πόσθων, ἐς τὸν σαυτοῦ πατέρ’ ᾄδεις;</l>
           </sp>
-          <sp who="#pais_kleonymou">
+          <sp who="#pais-kleonymou">
             <speaker>Παῖς &lt;Κλεωνύμου&gt;</speaker>
             <l real="x--ox-x">ψυχὴν δ’ ἐξεσάωσα—</l>
           </sp>
@@ -3514,46 +3540,46 @@ bring up to P3
             <l real="x-xx--">καλῶς κατακείσει.</l>
             <l real="x-xo--">Ὑμὴν Ὑμέναῑ ὦ.</l>
           </sp>
-          <sp who="#hemichorion_b">
+          <sp who="#hemichorion-b">
             <speaker>Ἡμιχόριον Β</speaker>
             <l real="--xx-x--">ὦ τρὶς μάκαρ ὡς δικαίως</l>
             <l real="xxx-o-">τἀγαθὰ νῦν ἔχεις.</l>
           </sp>
-          <sp who="#hemichorion_a">
+          <sp who="#hemichorion-a">
             <speaker>Ἡμιχόριον Α</speaker>
             <l n="1335" real="x-xo--">Ὑμὴν Ὑμέναῑ ὦ.</l>
           </sp>
-          <sp who="#hemichorion_b">
+          <sp who="#hemichorion-b">
             <speaker>Ἡμιχόριον Β</speaker>
             <l real="x-xo--">Ὑμὴν Ὑμέναῑ ὦ.</l>
           </sp>
-          <sp who="#hemichorion_a">
+          <sp who="#hemichorion-a">
             <speaker>Ἡμιχόριον Α</speaker>
             <l real="xxoo--">τί δράσομεν αὐτήν;</l>
           </sp>
-          <sp who="#hemichorion_b">
+          <sp who="#hemichorion-b">
             <speaker>Ἡμιχόριον Β</speaker>
             <l real="xxoo--">τί δράσομεν αὐτήν;</l>
           </sp>
-          <sp who="#hemichorion_a">
+          <sp who="#hemichorion-a">
             <speaker>Ἡμιχόριον Α</speaker>
             <l real="x-oo--">τρυγήσομεν αὐτήν,</l>
           </sp>
-          <sp who="#hemichorion_b">
+          <sp who="#hemichorion-b">
             <speaker>Ἡμιχόριον Β</speaker>
             <l real="x-oo--">τρυγήσομεν αὐτήν.</l>
           </sp>
-          <sp who="#hemichorion_a">
+          <sp who="#hemichorion-a">
             <speaker>Ἡμιχόριον Α</speaker>
             <l real="-xxo-o-o">ἀλλ’ ἀράμενοι φέρωμεν</l>
             <l n="1340" real="-ooxo-">οἱ προτεταγμένοι</l>
             <l real="--xo-o">τὸν νυμφίον ὦνδρες.</l>
           </sp>
-          <sp who="#hemichorion_b">
+          <sp who="#hemichorion-b">
             <speaker>Ἡμιχόριον Β</speaker>
             <l real="x-xo--">Ὑμὴν Ὑμέναῑ ὦ,</l>
           </sp>
-          <sp who="#hemichorion_b">
+          <sp who="#hemichorion-b">
             <speaker>Ἡμιχόριον Β</speaker>
             <l real="x-xo--">Ὑμὴν Ὑμέναῑ ὦ,</l>
           </sp>
@@ -3563,19 +3589,19 @@ bring up to P3
             <l n="1345" real="-xxo-o-x">οὐ πράγματ’ ἔχοντες, ἀλλὰ</l>
             <l real="xoo-o">συκολογοῦντες.</l>
           </sp>
-          <sp who="#hemichorion_b">
+          <sp who="#hemichorion-b">
             <speaker>Ἡμιχόριον Β</speaker>
             <l real="x-xo--">Ὑμὴν Ὑμέναῑ ὦ,</l>
           </sp>
-          <sp who="#hemichorion_a">
+          <sp who="#hemichorion-a">
             <speaker>Ἡμιχόριον Α</speaker>
             <l real="x-xo--">Ὑμὴν Ὑμέναῑ ὦ.</l>
           </sp>
-          <sp who="#hemichorion_b">
+          <sp who="#hemichorion-b">
             <speaker>Ἡμιχόριον Β</speaker>
             <l real="--ox-xx">τοῦ μὲν μέγα καὶ παχύ.</l>
           </sp>
-          <sp who="#hemichorion_a">
+          <sp who="#hemichorion-a">
             <speaker>Ἡμιχόριον Α</speaker>
             <l n="1350" real="--xo-o">τῆς δ’ ἡδὺ τὸ σῦκον.</l>
           </sp>

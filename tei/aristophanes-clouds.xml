@@ -49,54 +49,79 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="mathetes" sex="MALE">
-            <persName>Μαθητής</persName>
-          </person>
-          <person xml:id="dikaioslogos" sex="UNKNOWN">
-            <persName>Δίκαιος Λόγος</persName>
-          </person>
-          <person xml:id="mathetes_a" sex="MALE">
-            <persName>Μαθητής Α</persName>
-          </person>
-          <person xml:id="strepsiades" sex="MALE">
+          <person xml:id="strepsiades" sex="MALE" role="rusticus">
             <persName>Στρεψιάδης</persName>
+            <persName xml:lang="en">Strepsiades</persName>
           </person>
-          <person xml:id="pheidippides" sex="MALE">
+          <person xml:id="pheidippides" sex="MALE" role="filius">
             <persName>Φειδιππίδης</persName>
+            <persName xml:lang="en">Phidippides</persName>
           </person>
-          <person xml:id="sokrates" sex="MALE" ana="http://www.wikidata.org/entity/Q913">
-            <persName>Σωκράτης</persName>
-          </person>
-          <person xml:id="amynias" sex="MALE">
-            <persName>Αμυνίας</persName>
-          </person>
-          <person xml:id="martys" sex="MALE">
-            <persName>Μάρτυς</persName>
-          </person>
-          <person xml:id="hermes" sex="MALE" ana="http://www.wikidata.org/entity/Q41484">
-            <persName>Ερμῆς</persName>
-          </person>
-          <person xml:id="therapon" sex="MALE">
+          <person xml:id="therapon" sex="MALE" role="servus">
             <persName>Θεράπων</persName>
+            <persName type="variant">Θεράπων Στρεψιάδου</persName>
+            <persName xml:lang="en">A Slave of Strepsiades</persName>
           </person>
-          <person xml:id="mathetes_g" sex="MALE">
-            <persName>Μαθητής Γ</persName>
+          <person xml:id="mathetes" sex="MALE" role="discipulus">
+            <persName>Μαθητής</persName>
+            <persName xml:lang="en">A Pupil</persName>
           </person>
-          <person xml:id="pasias" sex="MALE">
-            <persName>Πασίας</persName>
+          <person xml:id="mathetes-a" sex="MALE" role="discipulus">
+            <persName>Μαθητὴς Α</persName>
+            <persName xml:lang="en">Pupil A</persName>
           </person>
-          <personGrp xml:id="choros" sex="UNKNOWN">
+          <person xml:id="mathetes-b" sex="MALE" role="discipulus">
+            <persName>Μαθητὴς Β</persName>
+            <persName xml:lang="en">Pupil A</persName>
+          </person>
+          <person xml:id="mathetes-g" sex="MALE" role="discipulus">
+            <persName>Μαθητὴς Γ</persName>
+            <persName xml:lang="en">Pupil G</persName>
+          </person>
+          <person xml:id="sokrates" sex="MALE" role="didascalus" ana="http://www.wikidata.org/entity/Q913">
+            <persName>Σωκράτης</persName>
+            <persName xml:lang="en">Socrates</persName>
+          </person>
+          <personGrp xml:id="choros" sex="UNKNOWN" role="chorus">
             <name>Χορός</name>
+            <name type="variant">Χορὸς νεφελῶν</name>
+            <name xml:lang="en">Chorus of Clouds</name>
           </personGrp>
-          <person xml:id="adikos_logos" sex="UNKNOWN">
+          <person xml:id="dikaios-logos" sex="UNKNOWN" role="allegoria">
+            <persName>Δίκαιος Λόγος</persName>
+            <persName xml:lang="en">Better Argument</persName>
+          </person>
+          <person xml:id="adikos-logos" sex="UNKNOWN" role="allegoria">
             <persName>Ἄδικος Λόγος</persName>
+            <persName xml:lang="en">Worse Argument</persName>
           </person>
-          <person xml:id="mathetes_b" sex="MALE">
-            <persName>Μαθητής Β</persName>
+          <person xml:id="pasias" sex="MALE" role="creditor">
+            <persName>Πασίας</persName>
+            <persName type="variant">Πασίας δανειστής</persName>
+            <persName xml:lang="en">Pasias, a Creditor</persName>
           </person>
-          <person xml:id="chairephon" sex="MALE">
+          <person xml:id="martys" sex="MALE" role="testis">
+            <persName>Μάρτυς</persName>
+            <persName xml:lang="en">A Witness</persName>
+          </person>
+          <person xml:id="amynias" sex="MALE" role="creditor">
+            <persName>Αμυνίας</persName>
+            <persName type="variant">Αμυνίας δανειστής</persName>
+            <persName xml:lang="en">Amynias, a Creditor</persName>
+          </person>
+          <person xml:id="chairephon" sex="MALE" role="didascalus" ana="https://www.wikidata.org/wiki/Q744125">
             <persName>Χαιρεφῶν</persName>
+            <persName xml:lang="en">Chaerephon</persName>
           </person>
+          <person xml:id="hermes" sex="MALE" role="deus" ana="http://www.wikidata.org/entity/Q41484">
+            <persName>Ερμῆς</persName>
+            <persName xml:lang="en">Hermes</persName>
+          </person>
+          <listRelation>
+            <relation name="parent_of" active="#strepsiades" passive="#pheidippides"/>
+            <relation name="associated_with" active="#therapon" passive="#strepsiades"/>
+            <relation name="associated_with" active="#mathetes #mathetes-a #mathetes-b #mathetes-g" passive="#sokrates"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>
@@ -2416,136 +2441,136 @@ convert to p3
       </div1>
       <div1 type="Agon">
         <div2 met="anapests" type="proagon">
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l real="---x---o">χώρει δευρί, δεῖξον σαυτὸν</l>
             <l n="890" real="-xox---xx-">τοῖσι θεαταῖς, καίπερ θρασὺς ὤν.</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l real="xo---ox---">ἴθ’ ὅποι χρῄζεις. πολὺ γὰρ μᾶλλόν ’ς</l>
             <l real="----xo-xo-">ἐν τοῖς πολλοῖσι λέγων ἀπολῶ.</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l real="xo-xx-">ἀπολεῖς σύ; τίς ὤν;</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l part="Y" real="oo">λόγος.</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l part="Y" real="--">ἥττων</l>
             <l real="-">γ’ ὤν.</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l real="-xox-oo---">ἀλλά σε νικῶ τὸν ἐμοῦ κρείττω</l>
             <l n="895" real="----">φάσκοντ’ εἶναι.</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l part="Y" real="xo---">τί σοφὸν ποιῶν;</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l real="---x----">γνώμας καινὰς ἐξευρίσκων.</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l real="-xx--xx--x">ταῦτα γὰρ ἀνθεῖ διὰ τουτουσὶ</l>
             <l real="-xo--">τοὺς ἀνοήτους.</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l real="--xo-">οὔκ, ἀλλὰ σοφούς.</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l part="Y" real="xo-ox-">ἀπολῶ σε κακῶς.</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l n="900" real="-ox--">εἰπὲ τί ποιῶν;</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l part="Y" real="xx-xo-">τὰ δίκαια λέγων.</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l real="-xx----xo-">ἀλλ’ ἀνατρέψω γ’ αὔτ’ ἀντιλέγων·</l>
             <l real="-ox--xx-xx-">οὐδὲ γὰρ εἶναι πάνυ φημὶ δίκην.</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l real="----">οὐκ εἶναι φῄς;</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l part="Y" real="oo--x">φέρε γὰρ ποῦ ’στιν;</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l real="xx-xo-">παρὰ τοῖσι θεοῖς.</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l real="--xx-----">πῶς δῆτα δίκης οὔσης ὁ Ζεὺς</l>
             <l n="905" real="-xo---xo--">οὐκ ἀπόλωλεν τὸν πατέρ’ αὑτοῦ</l>
             <l real="-x">δήσας;</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l part="Y" real="---x--">αἰβοῖ τουτὶ καὶ δὴ</l>
             <l real="--ox-oo-ox-">χωρεῖ τὸ κακόν· δότε μοι λεκάνην.</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l real="xoo--x--o">τυφογέρων εἶ κἀνάρμοστος.</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l real="xxx--x--o">καταπύγων εἶ κἀναίσχυντος.</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l n="910" real="ox--x">ῥόδα μ’ εἴρηκας.</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l part="Y" real="--ooo">καὶ βωμολόχος.</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l real="xo-ox-">κρίνεσι στεφανοῖς.</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l part="Y" real="-xx-x">καὶ πατραλοίας.</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l real="x----x--">χρυσῷ πάττων μ’ οὐ γιγνώσκεις.</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l real="--xo--xo--">οὐ δῆτα πρὸ τοῦ γ’, ἀλλὰ μολύβδῳ.</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l real="-oo----xo-">νῦν δέ γε κόσμος τοῦτ’ ἐστὶν ἐμοί.</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l n="915" real="xx---">θρασὺς εἶ πολλοῦ.</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l part="Y" real="xo--o">σὺ δέ γ’ ἀρχαῖος.</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l real="xxoo--">διὰ σὲ δὲ φοιτᾶν</l>
             <l real="--oo---xx-">οὐδεὶς ἐθέλει τῶν μειρακίων·</l>
@@ -2553,11 +2578,11 @@ convert to p3
             <l real="-xx---xo--">οἶα διδάσκεις τοὺς ἀνοήτους.</l>
             <milestone ed="p" n="920" unit="card"/>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l real="----">αὐχμεῖς αἰσχρῶς.</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l part="Y" real="xo---">σὺ δέ γ’ εὖ πράττεις.</l>
             <l n="921" real="--oo----o">καίτοι πρότερόν γ’ ἐπτώχευες,</l>
@@ -2565,37 +2590,37 @@ convert to p3
             <l real="--xx-">ἐκ πηριδίου</l>
             <l real="-----oo--">γνώμας τρώγων Πανδελετείους.</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l n="925" real="--oxx">ὤμοι σοφίας —</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l part="Y" real="--xxx">ὤμοι μανίας —</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l real="----">ἧς ἐμνήσθης —</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l real="--oo---xo-">τῆς σῆς, πόλεώς θ’ ἥτις σε τρέφει</l>
             <l real="x-oo---xx-">λυμαινόμενον τοῖς μειρακίοις.</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l real="-xx----oo-">οὐχὶ διδάξεις τοῦτον Κρόνος ὤν.</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l n="930" real="--------">εἴπερ γ’ αὐτὸν σωθῆναι χρὴ</l>
             <l real="--xx-oo---">καὶ μὴ λαλιὰν μόνον ἀσκῆσαι.</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l real="-xx--ox---">δεῦρ’ ἴθι, τοῦτον δ’ ἔα μαίνεσθαι.</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l real="-----ox--">κλαύσει, τὴν χεῖρ’ ἢν ἐπιβάλλῃς.</l>
           </sp>
@@ -2607,11 +2632,11 @@ convert to p3
             <l real="--xo-xx---">παίδευσιν, ὅπως ἂν ἀκούσας σφῷν</l>
             <l real="-xo--x---">ἀντιλεγόντοιν κρίνας φοιτᾷ.</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l real="--oo-">δρᾶν ταῦτ’ ἐθέλω.</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l part="Y" real="x-oo-">κἄγωγ’ ἐθέλω.</l>
           </sp>
@@ -2619,7 +2644,7 @@ convert to p3
             <speaker>Χορός</speaker>
             <l n="940" real="oo-oo---ooo">φέρε δὴ πότερος λέξει πρότερος;</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l real="----">τούτῳ δώσω·</l>
             <l real="--------">κᾆτ’ ἐκ τούτων ὧν ἂν λέξῃ</l>
@@ -2652,7 +2677,7 @@ convert to p3
           </sp>
         </div2>
         <div2 met="anapests" type="epirrheme">
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l n="961" real="----------x-xo-o">λέξω τοίνυν τὴν ἀρχαίαν παιδείαν ὡς διέκειτο,</l>
             <l real="oo-xx-xo-----ox-oo-o">ὅτ’ ἐγὼ τὰ δίκαια λέγων ἤνθουν καὶ σωφροσύνη ’νενόμιστο.</l>
@@ -2677,13 +2702,13 @@ convert to p3
             <l real="------xo-----ooxo">οὐδ’ ἄννηθον τῶν πρεσβυτέρων ἁρπάζειν οὐδὲ σέλινον,</l>
             <l real="--ox--ox------oo--">οὐδ’ ὀψοφαγεῖν οὐδὲ κιχλίζειν οὐδ’ ἴσχειν τὼ πόδ’ ἐναλλάξ.</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l real="--xo-xxox----x-xx-x">ἀρχαῖά γε καὶ Διιπολιώδη καὶ τεττίγων ἀνάμεστα</l>
             <l n="985" real="------ox-">καὶ Κηκείδου καὶ Βουφονίων.</l>
             <milestone ed="p" n="986" unit="card"/>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l part="Y" real="----xo-x">ἀλλ’ οὖν ταῦτ’ ἐστὶν ἐκεῖνα,</l>
             <l real="----xx-oxx----xx-o">ἐξ ὧν ἄνδρας Μαραθωνομάχας ἡμὴ παίδευσις ἔθρεψεν.</l>
@@ -2702,12 +2727,12 @@ convert to p3
             <l real="-xx----xxx--oo-xo--">μνησικακῆσαι τὴν ἡλικίαν ἐξ ἧς ἐνεοττοτροφήθης.</l>
             <milestone ed="p" n="1000" unit="card"/>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l n="1000" real="----xx-------xoxo">εἰ ταῦτ’ ὦ μειράκιον πείσει τούτῳ, νὴ τὸν Διόνυσον</l>
             <l real="--xx--ox---ox-xxo-x">τοῖς Ἱπποκράτους υἱέσιν εἴξεις καὶ σε καλοῦσι βλιτομάμμαν.</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l real="--xx-o------xx-xx--">ἀλλ’ οὖν λιπαρός γε καὶ εὐανθὴς ἐν γυμνασίοις διατρίψεις,</l>
             <l real="----xx-xo-xo-xo-xo--">οὐ στωμύλλων κατὰ τὴν ἀγορὰν τριβολεκτράπελ’ οἷάπερ οἱ νῦν,</l>
@@ -2720,7 +2745,7 @@ convert to p3
           </sp>
         </div2>
         <div2 type="pnigos">
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l real="--x--x---">ἢν ταῦτα ποιῇς ἁγὼ φράζω,</l>
             <l n="1010" real="----oo---">καὶ πρὸς τούτοις προσέχῃς τὸν νοῦν,</l>
@@ -2761,7 +2786,7 @@ convert to p3
           </sp>
         </div2>
         <div2 type="antepirrheme">
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l real="--x-xxo---xxox-">καὶ μὴν πάλαι γ’ ἐπνιγόμην τὰ σπλάγχνα κἀπεθύμουν</l>
             <l real="x-x-o-x---x-x--">ἅπαντα ταῦτ’ ἐναντίαις γνώμαισι συνταράξαι.</l>
@@ -2774,32 +2799,32 @@ convert to p3
             <l real="--o---x---o-ox-">ὅστις σε θερμῷ φησι λοῦσθαι πρῶτον οὐκ ἐάσειν.</l>
             <l n="1045" real="--xx--o-o-x-x-x">καίτοι τίνα γνώμην ἔχων ψέγεις τὰ θερμὰ λουτρά;</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l real="ox-x-o-x-----o-x">ὁτιὴ κάκιστόν ἐστι καὶ δειλὸν ποιεῖ τὸν ἄνδρα.</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l real="o-o---o-o-x-x-o">ἐπίσχες· εὐθὺς γάρ σ’ ἔχω μέσον λαβὼν ἄφυκτον.</l>
             <l real="--x---x---x-x-o">καί μοι φράσον, τῶν τοῦ Διὸς παίδων τίν’ ἄνδρ’ ἄριστον</l>
             <l real="x-o---o---o-o--">ψυχὴν νομίζεις, εἰπέ, καὶ πλείστους πόνους πονῆσαι.</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l n="1050" real="o-o-o-xo--xo-xx-">ἐγὼ μὲν οὐδέν’ Ἡρακλέους βελτίον’ ἄνδρα κρίνω.</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l real="-xx-x-o-o-x-x-x">ποῦ ψυχρὰ δῆτα πώποτ’ εἶδες Ἡράκλεια λουτρά;</l>
             <l real="--x--ooo-">καίτοι τίς ἀνδρειότερος ἦν;</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l part="Y" real="--x-o-x">ταῦτ’ ἐστὶ ταῦτ’ ἐκεῖνα,</l>
             <l real="x-ox--x-x-o-x--">ἃ τῶν νεανίσκων ἀεὶ δῑ ἡμέρας λαλούντων</l>
             <l real="--oxx----o-o-x-x">πλῆρες τὸ βαλανεῖον ποιεῖ, κενὰς δὲ τὰς παλαίστρας.</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l n="1055" real="-oxo--xxx-o-o-o--">εἶτ’ ἐν ἀγορᾷ τὴν διατριβὴν ψέγεις· ἐγὼ δ’ ἐπαινῶ.</l>
             <l real="--o-o-o-o-ooxo--">εἰ γὰρ πονηρὸν ἦν, Ὅμηρος οὐδέποτ’ ἂν ἐποίει</l>
@@ -2810,22 +2835,22 @@ convert to p3
             <l real="o-xxxo-o---o-o--">ἐπεὶ σὺ διὰ τὸ σωφρονεῖν τῷ πώποτ’ εἶδες ἤδη</l>
             <l real="xx-xooo-x---o-o--">ἀγαθάν τι γενόμενον, φράσον, καί μ’ ἐξέλεγξον εἰπών.</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l real="--o---oxoxx-o-x-x">πολλοῖς. ὁ γοῦν Πηλεὺς ἔλαβε διὰ τοῦτο τὴν μάχαιραν.</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l real="x-x---o-ooxooxo--">μάχαιραν; ἀστεῖόν γε κέρδος ἔλαβεν ὁ κακοδαίμων.</l>
             <l n="1065" real="x-o---x---x-x-x">Ὑπέρβολος δ’ οὑκ τῶν λύχνων πλεῖν ἢ τάλαντα πολλὰ</l>
             <l real="--oxxo-xx--xx-x-x">εἴληφε διὰ πονηρίαν, ἀλλ’ οὐ μὰ Δί’ οὐ μάχαιραν.</l>
             <milestone ed="p" n="1067" unit="card"/>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l real="--o-o-oxxo-o-o--">καὶ τὴν Θέτιν γ’ ἔγημε διὰ τὸ σωφρονεῖν ὁ Πηλεύς.</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l real="-xox-x-o-o-x-x--">κᾆτ’ ἀπολιποῦσά γ’ αὐτὸν ᾤχετ’· οὐ γὰρ ἦν ὑβριστὴς</l>
             <l real="--x---x---x-x--">οὐδ’ ἡδὺς ἐν τοῖς στρώμασιν τὴν νύκτα παννυχίζειν·</l>
@@ -2843,84 +2868,84 @@ convert to p3
             <l real="x-o---o-o-x-x--">κἀκεῖνος ὡς ἥττων ἔρωτός ἐστι καὶ γυναικῶν·</l>
             <l real="--x-o----o-x-o">καίτοι σὺ θνητὸς ὢν θεοῦ πῶς μεῖζον ἂν δύναιο;</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l real="x-xxx--xoo--x-o--">τί δ’ ἢν ῥαφανιδωθῇ πιθόμενός σοι τέφρᾳ τε τιλθῇ,</l>
             <l real="--xx--o-o--x-o--">ἕξει τινὰ γνώμην λέγειν τὸ μὴ εὐρύπρωκτος εἶναι;</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l n="1085" real="--x-o-x-o-xo">ἢν δ’ εὐρύπρωκτος ᾖ, τί πείσεται κακόν;</l>
             <milestone ed="p" n="1086" unit="card"/>
           </sp>
         </div2>
         <div2 type="antipnigos">
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l real="xo-xox--x---oo">τί μὲν οὖν ἂν ἔτι μεῖζον πάθοι τούτου ποτέ;</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l real="x-o---ox--o-">τί δῆτ’ ἐρεῖς, ἢν τοῦτο νικηθῇς ἐμοῦ;</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l real="x-o-x-o">σιγήσομαι. τί δ’ ἄλλο;</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l part="Y" real="oo--xo">φέρε δή μοι φράσον·</l>
             <l real="x-o-x-x-">συνηγοροῦσιν ἐκ τίνων;</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l n="1090" real="--x--">ἐξ εὐρυπρώκτων.</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l part="Y" real="-o-">πείθομαι.</l>
             <l real="x-x---x-">τί δαί; τραγῳδοῦσ’ ἐκ τίνων;</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l real="--x--">ἐξ εὐρυπρώκτων.</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l part="Y" real="-o-">εὖ λέγεις.</l>
             <l real="--o-x-x-">δημηγοροῦσι δ’ ἐκ τίνων;</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l real="--x--">ἐξ εὐρυπρώκτων.</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l part="Y" real="-x-">ἆρα δῆτ’</l>
             <l n="1095" real="x-x---o-">ἔγνωκας ὡς οὐδὲν λέγεις;</l>
             <l real="--ox-ooo-">καὶ τῶν θεατῶν ὁπότεροι</l>
             <l real="--o-">πλείους σκόπει.</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l part="Y" real="--o-">καὶ δὴ σκοπῶ.</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l n="1097b" real="x-o-">τί δῆθ’ ὁρᾷς;</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l real="ox-o---o-">πολὺ πλείονας νὴ τοὺς θεοὺς</l>
             <l real="--x---ox">τοὺς εὐρυπρώκτους· τουτονὶ</l>
             <l n="1100" real="--o-x-ox">γοῦν οἶδ’ ἐγὼ κἀκεινονὶ</l>
             <l real="--o---ox">καὶ τὸν κομήτην τουτονί.</l>
           </sp>
-          <sp who="#adikos_logos">
+          <sp who="#adikos-logos">
             <speaker>Ἄδικος Λόγος</speaker>
             <l n="1101b" real="x-o-">τί δῆτ’ ἐρεῖς;</l>
           </sp>
-          <sp who="#dikaioslogos">
+          <sp who="#dikaios-logos">
             <speaker>Δίκαιος Λόγος</speaker>
             <l real="--o-x-o-">ἡττήμεθ’· ὦ κινούμενοι</l>
             <l real="--o---o-">πρὸς τῶν θεῶν δέξασθέ μου</l>
@@ -3932,7 +3957,7 @@ convert to p3
           <l real="x-x---o---x-">κἀγώ τιν’ αὐτῶν τήμερον δοῦναι δίκην</l>
           <l real="o-----x-x-oo">ἐμοὶ ποιήσω, κεἰ σφόδρ’ εἴσ’ ἀλαζόνες.</l>
         </sp>
-        <sp who="#mathetes_a">
+        <sp who="#mathetes-a">
           <speaker>Μαθητής Α</speaker>
           <l real="x-x-">ἰοὺ ἰού.</l>
         </sp>
@@ -3940,7 +3965,7 @@ convert to p3
           <speaker>Στρεψιάδης</speaker>
           <l real="o-o-xxo---ox">σὸν ἔργον ὦ δὰ|ς ἱέναι πολλὴν φλόγα.</l>
         </sp>
-        <sp who="#mathetes_a">
+        <sp who="#mathetes-a">
           <speaker>Μαθητής Α</speaker>
           <l n="1495" real="--ox--"> ἄνθρωπε, τί ποιεῖς;</l>
         </sp>
@@ -3949,7 +3974,7 @@ convert to p3
           <l part="Y" real="ox--x-o-">ὅ τι ποιῶ; τί δ’ ἄλλο γ’ ἢ</l>
           <l real="xx-oo---o---xx">διαλεπτολογοῦμαι ταῖς δοκοῖς τῆς οἰκίας;</l>
         </sp>
-        <sp who="#mathetes_b">
+        <sp who="#mathetes-b">
           <speaker>Μαθητής Β</speaker>
           <l real="--x---o---xx">οἴμοι τίς ἡμῶν πυρπολεῖ τὴν οἰκίαν;</l>
         </sp>
@@ -3957,7 +3982,7 @@ convert to p3
           <speaker>Στρεψιάδης</speaker>
           <l real="o-o---xxo--xo">ἐκεῖνος οὗπερ θοἰμάτιον εἰλήφατε.</l>
         </sp>
-        <sp who="#mathetes_g">
+        <sp who="#mathetes-g">
           <speaker>Μαθητής Γ</speaker>
           <l real="xo-xo-">ἀπολεῖς ἀπολεῖς.</l>
         </sp>

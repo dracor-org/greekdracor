@@ -48,42 +48,56 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="therapaina" sex="FEMALE">
-            <persName>Θεράπαινα</persName>
-          </person>
-          <person xml:id="presbys" sex="MALE">
-            <persName>Πρέσβυς</persName>
-          </person>
-          <person xml:id="angelos" sex="MALE">
-            <persName>Ἄγγελος</persName>
-          </person>
-          <personGrp xml:id="hemichorion" sex="FEMALE">
-            <name>Ἡμιχόριον</name>
-          </personGrp>
-          <personGrp xml:id="hemichorion_1" sex="FEMALE">
-            <name>Ἡμιχόριον 1</name>
-          </personGrp>
-          <personGrp xml:id="hemichorion_2" sex="FEMALE">
-            <name>Ἡμιχόριον 2</name>
-          </personGrp>
-          <person xml:id="trophos" sex="FEMALE">
-            <persName>Τροφός</persName>
-          </person>
-          <person xml:id="hyllos" sex="MALE" ana="http://www.wikidata.org/entity/Q847268">
-            <persName>Ὕλλος</persName>
-          </person>
-          <person xml:id="herakles" sex="MALE" ana="http://www.wikidata.org/entity/Q122248">
-            <persName>Ἡρακλῆς</persName>
-          </person>
-          <person xml:id="deianeira" sex="FEMALE" ana="http://www.wikidata.org/entity/Q272000">
+          <person xml:id="deianeira" sex="FEMALE" role="uxor" ana="http://www.wikidata.org/entity/Q272000">
             <persName>Δηιάνειρα</persName>
+            <persName xml:lang="en">Deianira</persName>
           </person>
-          <person xml:id="lichas" sex="MALE">
-            <persName>Λίχας</persName>
+          <person xml:id="therapaina" sex="FEMALE" role="ancilla nutrix">
+            <persName>Θεράπαινα</persName>
+            <persName type="variant">Τροφός</persName>
+            <persName xml:lang="en">A Nurse</persName>
           </person>
-          <personGrp xml:id="choros" sex="FEMALE">
+          <person xml:id="hyllos" sex="MALE" role="filius" ana="http://www.wikidata.org/entity/Q847268">
+            <persName>Ὕλλος</persName>
+            <persName xml:lang="en">Hyllus</persName>
+          </person>
+          <personGrp xml:id="choros" sex="FEMALE" role="chorus virgo">
             <name>Χορός</name>
+            <name type="variant">Χορός Παρθενών Τραχινίων</name>
+            <name type="variant">Ἡμιχόριον</name>
+            <name xml:lang="en">Chorus of Trachinian Maidens</name>
           </personGrp>
+          <personGrp xml:id="hemichorion-1" sex="FEMALE" role="semichorus virgo" corresp="#choros">
+            <name>Ἡμιχόριον 1</name>
+            <name xml:lang="en">Semi-Chorus 1</name>
+          </personGrp>
+          <personGrp xml:id="hemichorion-2" sex="FEMALE" role="semichorus virgo" corresp="#choros">
+            <name>Ἡμιχόριον 2</name>
+            <name xml:lang="en">Semi-Chorus 2</name>
+          </personGrp>
+          <person xml:id="angelos" sex="MALE" role="nuntius">
+            <persName>Ἄγγελος</persName>
+            <persName xml:lang="en">A Messenger</persName>
+          </person>
+          <person xml:id="lichas" sex="MALE" role="servus" ana="https://www.wikidata.org/wiki/Q922330">
+            <persName>Λίχας</persName>
+            <persName xml:lang="en">Lichas</persName>
+          </person>
+          <person xml:id="presbys" sex="MALE" role="senex">
+            <persName>Πρέσβυς</persName>
+            <persName xml:lang="en">An Old Man</persName>
+          </person>
+          <person xml:id="herakles" sex="MALE" role="heros" ana="http://www.wikidata.org/entity/Q122248">
+            <persName>Ἡρακλῆς</persName>
+            <persName xml:lang="en">Heracles</persName>
+          </person>
+          <listRelation>
+            <relation name="associated_with" active="#therapaina" passive="#deianeira"/>
+            <relation name="spouses" mutual="#deianeira #herakles"/>
+            <relation name="parent_of" active="#deianeira #herakles" passive="#hyllos"/>
+            <relation name="associated_with" active="#angelos" passive="#herakles"/>
+            <relation name="associated_with" active="#lichas" passive="#herakles"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>
@@ -1581,24 +1595,24 @@ antilabe in all files
         </div2>
       </div1>
       <div1 type="episode">
-        <sp who="#hemichorion_1">
+        <sp who="#hemichorion-1">
           <speaker>Ἡμιχόριον 1</speaker>
           <l real="oooo-x-o-x-xo">πότερον ἐγὼ μάταιος, ἢ κλύω τινὸς</l>
           <l real="--x---x---o-">οἴκτου δῑ οἴκων ἀρτίως ὁρμωμένου;</l>
           <l n="865" part="Y" real="x-x">τί φημι;</l>
         </sp>
-        <sp who="#hemichorion_2">
+        <sp who="#hemichorion-2">
           <speaker>Ἡμιχόριον 2</speaker>
           <l real="--x-x-o-x-x-">ἠχεῖ τις οὐκ ἄσημον, ἀλλὰ δυστυχῆ</l>
           <l real="-xo---x---o-">κωκυτὸν εἴσω, καί τι καινίζει στέγη.</l>
         </sp>
-        <sp who="#hemichorion">
+        <sp who="#choros">
           <speaker>Ἡμιχόριον</speaker>
           <l part="Y" real="x-o">ξύνες δὲ</l>
           <l real="--x---x-x-o-">τήνδ’ ὡς κατηφὴς  καὶ συνωφρυωμένη</l>
           <l n="870" real="--o---x-x-xx">χωρεῖ πρὸς ἡμᾶς γραῖα σημανοῦσά τι.</l>
         </sp>
-        <sp who="#trophos">
+        <sp who="#therapaina">
           <speaker>Τροφός</speaker>
           <l real="--o-x-x-x-x-">ὦ παῖδες, ὡς ἄρ’ ἡμὶν οὐ σμικρῶν κακῶν</l>
           <l real="--o-o-x-o-xo">ἦρξεν τὸ δῶρον Ἡρακλεῖ τὸ πόμπιμον.</l>
@@ -1607,7 +1621,7 @@ antilabe in all files
           <speaker>Χορός</speaker>
           <l real="x-o-x-o---o-">τί δ’, ὦ γεραιά, καινοποιηθὲν λέγεις;</l>
         </sp>
-        <sp who="#trophos">
+        <sp who="#therapaina">
           <speaker>Τροφός</speaker>
           <l real="o-o-x-x-x-x-">βέβηκε Δῃάνειρα τὴν πανυστάτην</l>
           <l n="875" real="o-xx--xx--oo">ὁδῶν ἁπασῶν ἐξ ἀκινήτου ποδός.</l>
@@ -1616,7 +1630,7 @@ antilabe in all files
           <speaker>Χορός</speaker>
           <l part="I" real="--o-x-x">οὐ δή ποθ’ ὡς θανοῦσα;</l>
         </sp>
-        <sp who="#trophos">
+        <sp who="#therapaina">
           <speaker>Τροφός</speaker>
           <l part="F" real="-x-ox">πάντ’ ἀκήκοας.</l>
         </sp>
@@ -1624,7 +1638,7 @@ antilabe in all files
           <speaker>Χορός</speaker>
           <l part="I" real="x-o-x-x">τέθνηκεν ἡ τάλαινα;</l>
         </sp>
-        <sp who="#trophos">
+        <sp who="#therapaina">
           <speaker>Τροφός</speaker>
           <l part="F" real="-o-x-">δεύτερον κλύεις.</l>
         </sp>
@@ -1632,7 +1646,7 @@ antilabe in all files
           <speaker>Χορός</speaker>
           <l real="x-oxxxxxo-x-o-">τάλαιν’ ὀλεθρία· τίνι τρόπῳ θανεῖν σφε φής;</l>
         </sp>
-        <sp who="#trophos">
+        <sp who="#therapaina">
           <speaker>Τροφός</speaker>
           <l part="I" real="xx-xxx--x">σχετλιώτατά γε πρὸς πρᾶξιν.</l>
         </sp>
@@ -1642,7 +1656,7 @@ antilabe in all files
             <l part="F" real="-o-o-">εἰπὲ τῷ μόρῳ,</l>
             <l n="880" real="x--o-">γύναι, ξυντρέχει.</l>
           </sp>
-          <sp who="#trophos">
+          <sp who="#therapaina">
             <speaker>Τροφός</speaker>
             <l part="I" real="--x---o">αὑτὴν διηΐστωσε.</l>
           </sp>
@@ -1652,7 +1666,7 @@ antilabe in all files
             <l real="---oo-x-x-o-o-xo">τάνδ’ αἰχμᾷ  βέλεος κακοῦ ξυνεῖλε; πως ἐμήσατο</l>
             <l n="885" real="-xx-xxoxxxxox">πρὸς θανάτῳ θάνατον ἀνύσασα μόνα;</l>
           </sp>
-          <sp who="#trophos">
+          <sp who="#therapaina">
             <speaker>Τροφός</speaker>
             <l real="oo-o-o-xx-">στονόεντος ἐν τομᾷ σιδάρου.</l>
           </sp>
@@ -1660,7 +1674,7 @@ antilabe in all files
             <speaker>Χορός</speaker>
             <l real="o-o-x-x-o-xx">ἐπεῖδες, ὦ ματαία, τάνδε τὴν ὕβριν;</l>
           </sp>
-          <sp who="#trophos">
+          <sp who="#therapaina">
             <speaker>Τροφός</speaker>
             <l real="o-o---xxx-xx">ἐπεῖδον, ὡς δὴ πλησία παραστάτις.</l>
           </sp>
@@ -1668,7 +1682,7 @@ antilabe in all files
             <speaker>Χορός</speaker>
             <l n="890" real="x--o-o">τίς ἦν; πῶς; φέρ’ εἰπέ.</l>
           </sp>
-          <sp who="#trophos">
+          <sp who="#therapaina">
             <speaker>Τροφός</speaker>
             <l real="--o---o---xo">αὐτὴ πρὸς αὑτῆς χειροποιεῖται τάδε.</l>
           </sp>
@@ -1676,7 +1690,7 @@ antilabe in all files
             <speaker>Χορός</speaker>
             <l part="I" real="x--">τί φωνεῖς;</l>
           </sp>
-          <sp who="#trophos">
+          <sp who="#therapaina">
             <speaker>Τροφός</speaker>
             <l part="F" real="x--">σαφηνῆ.</l>
           </sp>
@@ -1689,7 +1703,7 @@ antilabe in all files
         </div2>
         <div2 type="dialogue">
           <milestone ed="p" n="896" unit="card"/>
-          <sp who="#trophos">
+          <sp who="#therapaina">
             <speaker>Τροφός</speaker>
             <l real="x-o---x-x-xx">ἄγαν γε· μᾶλλον δ’, εἰ παροῦσα πλησία</l>
             <l real="o-o-xxo-x-xx">ἔλευσσες οἷ’ ἔδρασε, κάρτ’ ἂν ᾤκτισας.</l>
@@ -1698,7 +1712,7 @@ antilabe in all files
             <speaker>Χορός</speaker>
             <l real="--x---x---x-">καὶ ταῦτ’ ἔτλη τις χεὶρ γυναικεία κτίσαι;</l>
           </sp>
-          <sp who="#trophos">
+          <sp who="#therapaina">
             <speaker>Τροφός</speaker>
             <l real="--o---o-x-o-">δεινῶς γε· πεύσει δ’, ὥστε μαρτυρεῖν ἐμοί.</l>
             <l n="900" real="o-x-o-x---o-">ἐπεὶ γὰρ ἦλθε δωμάτων εἴσω μόνη</l>

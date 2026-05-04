@@ -50,35 +50,49 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="exangelos" sex="MALE">
-            <persName>Ἐξάγγελος</persName>
-          </person>
-          <person xml:id="hiereus" sex="MALE">
-            <persName>Ἱερεύς</persName>
-          </person>
-          <person xml:id="oidipous" sex="MALE" ana="http://www.wikidata.org/entity/Q130890">
+          <person xml:id="oidipous" sex="MALE" role="rex" ana="http://www.wikidata.org/entity/Q130890">
             <persName>Οἰδίπους</persName>
+            <persName xml:lang="en">Oedipus</persName>
           </person>
-          <person xml:id="teiresias" sex="MALE" ana="http://www.wikidata.org/entity/Q656881">
-            <persName>Τειρεσίας</persName>
-          </person>
-          <person xml:id="therapon" sex="MALE">
-            <persName>Θεράπων</persName>
-            <persName type="variant">Θεράπων Λαιοῦ</persName>
-          </person>
-          <person xml:id="iokaste" ana="http://www.wikidata.org/entity/Q131445">
-            <persName>Ἰοκάστη</persName>
+          <person xml:id="hiereus" sex="MALE" role="sacerdos">
+            <persName>Ἱερεύς</persName>
+            <persName xml:lang="en">The Priest of Zeus</persName>
           </person>
           <person xml:id="kreon" sex="MALE" ana="http://www.wikidata.org/entity/Q732066">
             <persName>Κρέων</persName>
+            <persName xml:lang="en">Creon</persName>
           </person>
-          <personGrp xml:id="choros" sex="MALE">
+          <personGrp xml:id="choros" sex="MALE" role="chorus senex">
             <name>Χορός</name>
             <name type="variant">Χορός Γερόντων Θηβαίων</name>
+            <name xml:lang="en">Chorus of Theban Elders</name>
           </personGrp>
-          <person xml:id="angelos" sex="MALE">
-            <persName>Ἄγγελος</persName>
+          <person xml:id="teiresias" sex="MALE" role="vates senex" ana="http://www.wikidata.org/entity/Q656881">
+            <persName>Τειρεσίας</persName>
+            <persName xml:lang="en">Teiresias</persName>
           </person>
+          <person xml:id="iokaste" sex="FEMALE" role="uxor" ana="http://www.wikidata.org/entity/Q131445">
+            <persName>Ἰοκάστη</persName>
+            <persName xml:lang="en">Jocasta</persName>
+          </person>
+          <person xml:id="angelos" sex="MALE" role="nuntius">
+            <persName>Ἄγγελος</persName>
+            <persName xml:lang="en">A Messenger</persName>
+          </person>
+          <person xml:id="therapon" sex="MALE" role="servus">
+            <persName>Θεράπων</persName>
+            <persName type="variant">Θεράπων Λαιοῦ</persName>
+            <persName xml:lang="en">Herd of Laius</persName>
+          </person>
+          <person xml:id="exangelos" sex="MALE" role="nuntius">
+            <persName>Ἐξάγγελος</persName>
+            <persName xml:lang="en">A Second Messenger</persName>
+          </person>
+        <listRelation type="personal">
+          <relation name="parent_of" active="#iokaste" passive="#oidipous"/>
+          <relation name="spouses" mutual="#oidipous #iokaste" />
+          <relation name="siblings" mutual="#iokaste #kreon"/>
+        </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

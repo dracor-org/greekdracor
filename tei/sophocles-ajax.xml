@@ -48,39 +48,58 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="menelaos" sex="MALE" ana="http://www.wikidata.org/entity/Q171839">
-            <persName>Μενέλαος</persName>
-          </person>
-          <person xml:id="angelos" sex="MALE">
-            <persName>Ἄγγελος</persName>
-          </person>
-          <person xml:id="odysseus" sex="MALE" ana="http://www.wikidata.org/entity/Q47231">
-            <persName>Ὀδυσσεύς</persName>
-          </person>
-          <person xml:id="teukros" sex="MALE" ana="http://www.wikidata.org/entity/Q878184">
-            <persName>Τεῦκρος</persName>
-          </person>
-          <personGrp xml:id="hemichorion_1" sex="MALE">
-            <name>Ἡμιχόριον 1</name>
-          </personGrp>
-          <personGrp xml:id="hemichorion_2" sex="MALE">
-            <name>Ἡμιχόριον 2</name>
-          </personGrp>
-          <person xml:id="athena" sex="FEMALE" ana="http://www.wikidata.org/entity/Q37122">
+          <person xml:id="athena" sex="FEMALE" role="dea" ana="http://www.wikidata.org/entity/Q37122">
             <persName>Ἀθήνα</persName>
+            <persName xml:lang="en">Athena</persName>
           </person>
-          <person xml:id="agamemnon" sex="MALE" ana="http://www.wikidata.org/entity/Q128176">
-            <persName>Ἀγαμέμνων</persName>
+          <person xml:id="odysseus" sex="MALE" role="heros rex" ana="http://www.wikidata.org/entity/Q47231">
+            <persName>Ὀδυσσεύς</persName>
+            <persName xml:lang="en">Odysseus</persName>
           </person>
-          <personGrp xml:id="choros" sex="MALE">
-            <name>Χορός</name>
-          </personGrp>
-          <person xml:id="aias" sex="MALE" ana="http://www.wikidata.org/entity/Q172725">
+          <person xml:id="aias" sex="MALE" role="heros" ana="http://www.wikidata.org/entity/Q172725">
             <persName>Αἴας</persName>
+            <persName xml:lang="en">Ajax</persName>
           </person>
-          <person xml:id="tekmessa" sex="FEMALE" ana="http://www.wikidata.org/entity/Q10796858">
+          <personGrp xml:id="choros" sex="MALE" role="chorus nauta">
+            <name>Χορός</name>
+            <name type="variant">Χορός Σαλαμινίων Ναυτῶν</name>
+            <name xml:lang="en">Chorus of Mariners of Salamis</name>
+          </personGrp>
+          <personGrp xml:id="hemichorion-1" sex="MALE" role="semichorus nauta" corresp="#choros">
+            <name>Ἡμιχόριον 1</name>
+            <name xml:lang="en">Semi-Chorus 1</name>
+          </personGrp>
+          <personGrp xml:id="hemichorion-2" sex="MALE" role="semichorus nauta" corresp="#choros">
+            <name>Ἡμιχόριον 2</name>
+            <name xml:lang="en">Semi-Chorus 2</name>
+          </personGrp>
+          <person xml:id="tekmessa" sex="FEMALE" role="uxor" ana="http://www.wikidata.org/entity/Q10796858">
             <persName>Τέκμησσα</persName>
+            <persName xml:lang="en">Tecmessa</persName>
           </person>
+          <person xml:id="angelos" sex="MALE" role="nuntius">
+            <persName>Ἄγγελος</persName>
+            <persName xml:lang="en">A Messenger</persName>
+          </person>
+          <person xml:id="teukros" sex="MALE" role="heros" ana="http://www.wikidata.org/entity/Q878184">
+            <persName>Τεῦκρος</persName>
+            <persName xml:lang="en">Teucer</persName>
+          </person>
+          <person xml:id="menelaos" sex="MALE" role="heros rex" ana="http://www.wikidata.org/entity/Q171839">
+            <persName>Μενέλαος</persName>
+            <persName xml:lang="en">Menelaus</persName>
+          </person>
+          <person xml:id="agamemnon" sex="MALE" role="heros rex" ana="http://www.wikidata.org/entity/Q128176">
+            <persName>Ἀγαμέμνων</persName>
+            <persName xml:lang="en">Agamemnon</persName>
+          </person>
+          <listRelation>
+            <relation name="associated_with" active="#odysseus" passive="#athena"/>
+            <relation name="associated_with" active="#choros #hemichorion-1 #hemichorion-2" passive="#aias"/>
+            <relation name="spouses" mutual="#aias #tekmessa"/>
+            <relation name="siblings" mutual="#teukros #aias"/>
+            <relation name="associated_with" active="#angelos" passive="#teukros"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>
@@ -1643,7 +1662,7 @@ antilabe in all files
           <milestone ed="p" n="866" unit="card"/>
         </sp>
         <div2 type="kommos">
-          <sp who="#hemichorion_1">
+          <sp who="#hemichorion-1">
             <speaker>Ἡμιχόριον 1</speaker>
             <l real="o-o-o-o-">πόνος πόνῳ πόνον φέρει.</l>
             <l real="--">πᾷ πᾷ</l>
@@ -1652,27 +1671,27 @@ antilabe in all files
             <l n="870" real="x-">ἰδού.</l>
             <l real="-o-x-xx">δοῦπον αὖ κλύω τινά.</l>
           </sp>
-          <sp who="#hemichorion_2">
+          <sp who="#hemichorion-2">
             <speaker>Ἡμιχόριον 2</speaker>
             <l real="--ox--x-oxxx">ἡμῶν γε ναὸς κοινόπλουν ὁμιλίαν.</l>
           </sp>
-          <sp who="#hemichorion_1">
+          <sp who="#hemichorion-1">
             <speaker>Ἡμιχόριον 1</speaker>
             <l real="x--">τί οὖν δή;</l>
           </sp>
-          <sp who="#hemichorion_2">
+          <sp who="#hemichorion-2">
             <speaker>Ἡμιχόριον 2</speaker>
             <l real="--x---o-o-o-">πᾶν ἐστίβηται πλευρὸν ἕσπερον νεῶν</l>
           </sp>
-          <sp who="#hemichorion_1">
+          <sp who="#hemichorion-1">
             <speaker>Ἡμιχόριον 1</speaker>
             <l n="875" real="o--">ἔχεις οὖν;</l>
           </sp>
-          <sp who="#hemichorion_2">
+          <sp who="#hemichorion-2">
             <speaker>Ἡμιχόριον 2</speaker>
             <l real="o-x---o---oo">πόνου γε πλῆθος, κοὐδὲν εἰς ὄψιν πλέον.</l>
           </sp>
-          <sp who="#hemichorion_1">
+          <sp who="#hemichorion-1">
             <speaker>Ἡμιχόριον 1</speaker>
             <l real="--o---x-x-o-">ἀλλ’ οὐδὲ μὲν δὴ τὴν ἀφ’ ἡλίου βολῶν</l>
             <l real="o-ox--x---x-">κέλευθον ἁνὴρ οὐδαμοῦ δηλοῖ φανείς.</l>

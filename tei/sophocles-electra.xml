@@ -48,27 +48,40 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="chrysothemis" sex="FEMALE" ana="http://www.wikidata.org/entity/Q1146076">
-            <persName>Χρυσόθεμις</persName>
-          </person>
-          <person xml:id="aigisthos" sex="MALE" ana="http://www.wikidata.org/entity/Q212091">
-            <persName>Αἴγισθος</persName>
-          </person>
-          <person xml:id="orestes" sex="MALE" ana="http://www.wikidata.org/entity/Q192407">
-            <persName>Ὀρέστης</persName>
-          </person>
-          <person xml:id="klytaimnestra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131157">
-            <persName>Κλυταιμνήστρα</persName>
-          </person>
-          <person xml:id="paidagogos" sex="MALE" ana="http://www.wikidata.org/entity/Q1367860">
+          <person xml:id="paidagogos" sex="MALE" role="paedagogus" ana="http://www.wikidata.org/entity/Q1367860">
             <persName>Παιδαγωγός</persName>
+            <persName xml:lang="en">Old Slave</persName>
           </person>
-          <personGrp xml:id="choros" sex="UNKNOWN">
-            <name>Χορός</name>
-          </personGrp>
-          <person xml:id="elektra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131651">
+          <person xml:id="orestes" sex="MALE" role="filius" ana="http://www.wikidata.org/entity/Q192407">
+            <persName>Ὀρέστης</persName>
+            <persName xml:lang="en">Orestes</persName>
+          </person>
+          <person xml:id="elektra" sex="FEMALE" role="filia" ana="http://www.wikidata.org/entity/Q131651">
             <persName>Ἠλέκτρα</persName>
+            <persName xml:lang="en">Electra</persName>
           </person>
+          <personGrp xml:id="choros" sex="FEMALE" role="chorus virgo">
+            <name>Χορός</name>
+            <name xml:lang="en">Chorus of Mycenean Women</name>
+          </personGrp>
+          <person xml:id="chrysothemis" sex="FEMALE" role="filia" ana="http://www.wikidata.org/entity/Q1146076">
+            <persName>Χρυσόθεμις</persName>
+            <persName xml:lang="en">Chrysothemis</persName>
+          </person>
+          <person xml:id="klytaimnestra" sex="FEMALE" role="uxor mater regina" ana="http://www.wikidata.org/entity/Q131157">
+            <persName>Κλυταιμνήστρα</persName>
+            <persName xml:lang="en">Clytemnestra</persName>
+          </person>
+          <person xml:id="aigisthos" sex="MALE" role="rex" ana="http://www.wikidata.org/entity/Q212091">
+            <persName>Αἴγισθος</persName>
+            <persName xml:lang="en">Aegisthus</persName>
+          </person>
+          <listRelation>
+            <relation name="associated_with" active="#paidagogos" passive="#orestes"/>
+            <relation name="siblings" mutual="#orestes #elektra #chrysothemis"/>
+            <relation name="parent_of" active="#klytaimnestra" passive="#orestes #elektra #chrysothemis"/>
+            <relation name="lover_of" active="#aigisthos" passive="#klytaimnestra"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

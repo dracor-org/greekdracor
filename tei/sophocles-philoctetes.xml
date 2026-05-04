@@ -48,24 +48,34 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="philoktetes" sex="MALE" ana="http://www.wikidata.org/entity/Q212827">
-            <persName>Φιλοκτήτης</persName>
-          </person>
-          <person xml:id="herakles" sex="MALE" ana="http://www.wikidata.org/entity/Q122248">
-            <persName>Ἡρακλῆς</persName>
-          </person>
-          <person xml:id="emporos" sex="MALE">
-            <persName>Ἔμπορος</persName>
-          </person>
-          <person xml:id="odysseus" sex="MALE" ana="http://www.wikidata.org/entity/Q47231">
+          <person xml:id="odysseus" sex="MALE" role="heros rex" ana="http://www.wikidata.org/entity/Q47231">
             <persName>Ὀδυσσεύς</persName>
+            <persName xml:lang="en">Odysseus</persName>
           </person>
-          <person xml:id="neoptolemos" sex="MALE" ana="http://www.wikidata.org/entity/Q322639">
-            <persName>Νεοπτόλεμος</persName>
-          </person>
-          <personGrp xml:id="choros" sex="MALE">
+          <personGrp xml:id="choros" sex="MALE" role="chorus nauta">
             <name>Χορός</name>
+            <name xml:lang="en">Chorus of Scyrian Sailors</name>
           </personGrp>
+          <person xml:id="emporos" sex="MALE" role="mercator">
+            <persName>Ἔμπορος</persName>
+            <persName type="variant">Σκοπός</persName>
+            <persName xml:lang="en">Sailor, disguised as Merchant Captain</persName>
+          </person>
+          <person xml:id="neoptolemos" sex="MALE" role="heros" ana="http://www.wikidata.org/entity/Q322639">
+            <persName>Νεοπτόλεμος</persName>
+            <persName xml:lang="en">Neoptolemus</persName>
+          </person>
+          <person xml:id="philoktetes" sex="MALE" role="heros" ana="http://www.wikidata.org/entity/Q212827">
+            <persName>Φιλοκτήτης</persName>
+            <persName xml:lang="en">Philoctetes</persName>
+          </person>
+          <person xml:id="herakles" sex="MALE" role="heros" ana="http://www.wikidata.org/entity/Q122248">
+            <persName>Ἡρακλῆς</persName>
+            <persName xml:lang="en">Heracles</persName>
+          </person>
+          <listRelation>
+            <relation name="associated_with" active="#choros" passive="#neoptolemos"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+This file maps DraCor IDs for GreekDraCor to the file names of the plays in the Perseus Digital Library and adds Wikidata IDs where available.
+It also determines the filenames for the new GreekDraCor files.
+-->
+<ids>
+    <play id="greek000001" file="tlg0006/tlg017/tlg0006.tlg017.perseus-grc2.xml" filename="euripides-bacchae" wikidata="https://www.wikidata.org/wiki/Q934597"/>
+    <play id="greek000002" file="tlg0006/tlg013/tlg0006.tlg013.perseus-grc2.xml" filename="euripides-iphigenia-in-tauris" wikidata="https://www.wikidata.org/wiki/Q523227"/>
+    <play id="greek000003" file="tlg0006/tlg007/tlg0006.tlg007.perseus-grc2.xml" filename="euripides-hecuba" wikidata="https://www.wikidata.org/wiki/Q1115611"/>
+    <play id="greek000004" file="tlg0085/tlg007/tlg0085.tlg007.perseus-grc2.xml" filename="aeschylus-euminides" wikidata="https://www.wikidata.org/wiki/Q1233164"/>
+    <play id="greek000005" file="tlg0085/tlg004/tlg0085.tlg004.perseus-grc2.xml" filename="aeschylus-seven-against-thebes" wikidata="https://www.wikidata.org/wiki/Q506546"/>
+    <play id="greek000006" file="tlg0006/tlg008/tlg0006.tlg008.perseus-grc2.xml" filename="euripides-suppliants" wikidata="https://www.wikidata.org/wiki/Q672319"/>
+    <play id="greek000007" file="tlg0011/tlg003/tlg0011.tlg003.perseus-grc2.xml" filename="sophocles-ajax" wikidata="https://www.wikidata.org/wiki/Q412341"/>
+    <play id="greek000008" file="tlg0085/tlg006/tlg0085.tlg006.perseus-grc2.xml" filename="aeschylus-libation-bearers" wikidata="https://www.wikidata.org/wiki/Q11688406"/>
+    <play id="greek000009" file="tlg0019/tlg008/tlg0019.tlg008.perseus-grc2.xml" filename="aristophanes-thesmophoriazusae" wikidata="https://www.wikidata.org/wiki/Q761731"/>
+    <play id="greek000010" file="tlg0019/tlg002/tlg0019.tlg002.perseus-grc2.xml" filename="aristophanes-knights" wikidata="https://www.wikidata.org/wiki/Q1215817"/>
+    <play id="greek000011" file="tlg0085/tlg003/tlg0085.tlg003.perseus-grc2.xml" filename="aeschylus-prometheus-bound" wikidata="https://www.wikidata.org/wiki/Q846870"/>
+    <play id="greek000012" file="tlg0019/tlg006/tlg0019.tlg006.perseus-grc2.xml" filename="aristophanes-birds" wikidata="https://www.wikidata.org/wiki/Q1164079"/>
+    <play id="greek000013" file="tlg0006/tlg009/tlg0006.tlg009.perseus-grc2.xml" filename="euripides-heracles" wikidata="https://www.wikidata.org/wiki/Q1233835"/>
+    <play id="greek000014" file="tlg0019/tlg004/tlg0019.tlg004.perseus-grc2.xml" filename="aristophanes-wasps" wikidata="https://www.wikidata.org/wiki/Q1217552"/>
+    <play id="greek000015" file="tlg0011/tlg004/tlg0011.tlg004.perseus-grc2.xml" filename="sophocles-oedipus-tyrannus" wikidata="https://www.wikidata.org/wiki/Q148643"/>
+    <play id="greek000016" file="tlg0019/tlg007/tlg0019.tlg007.perseus-grc2.xml" filename="aristophanes-lysistrata" wikidata="https://www.wikidata.org/wiki/Q753907"/>
+    <play id="greek000017" file="tlg0019/tlg009/tlg0019.tlg009.perseus-grc2.xml" filename="aristophanes-frogs" wikidata="https://www.wikidata.org/wiki/Q815376"/>
+    <play id="greek000018" file="tlg0011/tlg008/tlg0011.tlg008.perseus-grc2.xml" filename="sophocles-ichneutae" wikidata="https://www.wikidata.org/wiki/Q733158"/>
+    <!-- I would suggest changing the old filename "euripides-the-trojan-women" to "euripides-trojan-women" for consistency. -->
+    <play id="greek000019" file="tlg0006/tlg011/tlg0006.tlg011.perseus-grc2.xml" filename="euripides-trojan-women" wikidata="https://www.wikidata.org/wiki/Q1216943"/>
+    <play id="greek000020" file="tlg0085/tlg001/tlg0085.tlg001.perseus-grc2.xml" filename="aeschylus-suppliant-women" wikidata="https://www.wikidata.org/wiki/Q1216139"/>
+    <play id="greek000021" file="tlg0011/tlg005/tlg0011.tlg005.perseus-grc2.xml" filename="sophocles-electra" wikidata="https://www.wikidata.org/wiki/Q733444"/>
+    <play id="greek000022" file="tlg0085/tlg002/tlg0085.tlg002.perseus-grc2.xml" filename="aeschylus-persians" wikidata="https://www.wikidata.org/wiki/Q788458"/>
+    <play id="greek000023" file="tlg0006/tlg016/tlg0006.tlg016.perseus-grc2.xml" filename="euripides-orestes" wikidata="https://www.wikidata.org/wiki/Q663886"/>
+    <play id="greek000024" file="tlg0011/tlg001/tlg0011.tlg001.perseus-grc2.xml" filename="sophocles-trachiniae" wikidata="https://www.wikidata.org/wiki/Q945342"/>
+    <play id="greek000025" file="tlg0011/tlg002/tlg0011.tlg002.perseus-grc2.xml" filename="sophocles-antigone" wikidata="https://www.wikidata.org/wiki/Q241077"/>
+    <play id="greek000026" file="tlg0085/tlg005/tlg0085.tlg005.perseus-grc2.xml" filename="aeschylus-agamemnon" wikidata="https://www.wikidata.org/wiki/Q3320792"/>
+    <play id="greek000027" file="tlg0019/tlg010/tlg0019.tlg010.perseus-grc2.xml" filename="aristophanes-ecclesiazusae" wikidata="https://www.wikidata.org/wiki/Q608261"/>
+    <play id="greek000028" file="tlg0006/tlg018/tlg0006.tlg018.perseus-grc2.xml" filename="euripides-iphigenia-in-aulis" wikidata="https://www.wikidata.org/wiki/Q1233770"/>
+    <play id="greek000029" file="tlg0006/tlg014/tlg0006.tlg014.perseus-grc2.xml" filename="euripides-helen" wikidata="https://www.wikidata.org/wiki/Q1248812"/>
+    <play id="greek000030" file="tlg0006/tlg015/tlg0006.tlg015.perseus-grc2.xml" filename="euripides-phoenissae" wikidata="https://www.wikidata.org/wiki/Q1233660"/>
+    <play id="greek000031" file="tlg0006/tlg019/tlg0006.tlg019.perseus-grc2.xml" filename="euripides-rhesus" wikidata="https://www.wikidata.org/wiki/Q667750"/>
+    <play id="greek000032" file="tlg0019/tlg001/tlg0019.tlg001.perseus-grc2.xml" filename="aristophanes-acharnians" wikidata="https://www.wikidata.org/wiki/Q1059987"/>
+    <play id="greek000033" file="tlg0019/tlg005/tlg0019.tlg005.perseus-grc2.xml" filename="aristophanes-peace" wikidata="https://www.wikidata.org/wiki/Q1193602"/>
+    <play id="greek000034" file="tlg0006/tlg010/tlg0006.tlg010.perseus-grc2.xml" filename="euripides-ion" wikidata="https://www.wikidata.org/wiki/Q614607"/>
+    <play id="greek000035" file="tlg0019/tlg003/tlg0019.tlg003.perseus-grc2.xml" filename="aristophanes-clouds" wikidata="https://www.wikidata.org/wiki/Q868447"/>
+    <play id="greek000036" file="tlg0011/tlg007/tlg0011.tlg007.perseus-grc2.xml" filename="sophocles-oedipus-at-colonus" wikidata="https://www.wikidata.org/wiki/Q294001"/>
+    <play id="greek000037" file="tlg0019/tlg011/tlg0019.tlg011.perseus-grc2.xml" filename="aristophanes-plutus" wikidata="https://www.wikidata.org/wiki/Q1196456"/>
+    <play id="greek000038" file="tlg0011/tlg006/tlg0011.tlg006.perseus-grc2.xml" filename="sophocles-philoctetes" wikidata="https://www.wikidata.org/wiki/Q1415903"/>
+    <play id="greek000039" file="tlg0006/tlg012/tlg0006.tlg012.perseus-grc2.xml" filename="euripides-electra" wikidata="https://www.wikidata.org/wiki/Q540161"/>
+    <!-- greek000040 is not in the PDL but GreekDraCor-specific -->
+    <play id="greek000040" file="NA" filename="menander-dyskolos" wikidata="https://www.wikidata.org/wiki/Q1248766"/>
+    <!-- The following plays will be imported into GreekDraCor for the first time. -->
+    <play id="greek000041" file="tlg0006/tlg001/tlg0006.tlg001.perseus-grc2.xml" filename="euripides-cyclops" wikidata="https://www.wikidata.org/wiki/Q1206121"/>
+    <play id="greek000042" file="tlg0006/tlg002/tlg0006.tlg002.perseus-grc2.xml" filename="euripides-alcestis" wikidata="https://www.wikidata.org/wiki/Q1246408"/>
+    <play id="greek000043" file="tlg0006/tlg003/tlg0006.tlg003.perseus-grc2.xml" filename="euripides-medea" wikidata="https://www.wikidata.org/wiki/Q286381"/>
+    <play id="greek000044" file="tlg0006/tlg004/tlg0006.tlg004.perseus-grc2.xml" filename="euripides-children-of-heracles" wikidata="https://www.wikidata.org/wiki/Q1233203"/>
+    <play id="greek000045" file="tlg0006/tlg005/tlg0006.tlg005.perseus-grc2.xml" filename="euripides-hippolytus" wikidata="https://www.wikidata.org/wiki/Q375786"/>
+    <play id="greek000046" file="tlg0006/tlg006/tlg0006.tlg006.perseus-grc2.xml" filename="euripides-andromache" wikidata="https://www.wikidata.org/wiki/Q512802"/>
+</ids>

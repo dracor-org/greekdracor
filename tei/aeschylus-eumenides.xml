@@ -49,7 +49,7 @@
         <listPerson>
           <person xml:id="pythias" sex="FEMALE" role="vates sacerdos">
             <persName>Πυθιάς</persName>
-            <persName type="variant">Πυθιάς Προφῆτις</persName>
+            <persName type="variant">Πυθιὰς Προφῆτις</persName>
             <persName xml:lang="en">The Pythian Prophetess</persName>
           </person>
           <person xml:id="apollon" sex="MALE" role="deus" ana="http://www.wikidata.org/entity/Q37340">
@@ -67,7 +67,7 @@
           </person>
           <personGrp xml:id="choros" sex="FEMALE" role="chorus dea" ana="http://www.wikidata.org/entity/Q180262">
             <name>Χορός</name>
-            <name type="variant">Χορός Εὐμενίδων</name>
+            <name type="variant">Χορὸς Εὐμενίδων</name>
             <name xml:lang="en">Chorus of Erinyes</name>
           </personGrp>
           <person xml:id="athena" sex="FEMALE" role="dea" ana="http://www.wikidata.org/entity/Q37122">

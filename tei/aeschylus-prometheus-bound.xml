@@ -82,7 +82,7 @@
             <relation name="related_with" active="#hephaistos" passive="#prometheus"/>
             <relation name="friends" mutual="#hephaistos #prometheus"/>
             <relation name="related_with" active="#okeanos" passive="#prometheus"/>
-            <relation name="friends" active="#okeanos #prometheus"/>
+            <relation name="friends" mutual="#okeanos #prometheus"/>
             <relation name="related_with" active="#io" passive="#choros"/>
           </listRelation>
         </listPerson>

@@ -88,7 +88,6 @@
           </person>
           <person xml:id="gyne-a" sex="FEMALE" role="uxor">
             <persName>Γυνὴ Α</persName>
-            <persName type="variant">Γυνὴ Ξ</persName>
             <persName xml:lang="en">First Wife</persName>
           </person>
           <person xml:id="gyne-b" sex="FEMALE" role="uxor">
@@ -99,18 +98,10 @@
             <persName>Γυνὴ Γ</persName>
             <persName xml:lang="en">Third Wife</persName>
           </person>
-          <person xml:id="gyne-d" sex="FEMALE" role="uxor">
-            <persName>Γυνὴ Δ</persName>
-            <persName xml:lang="en">Fourth Wife</persName>
-          </person>
           <person xml:id="alle" sex="FEMALE" role="uxor">
             <persName>Ἄλλη</persName>
             <persName xml:lang="en">Another Wife</persName>
           </person>
-          <personGrp xml:id="pasai" sex="FEMALE">
-            <name>Πᾶσαι</name>
-            <name xml:lang="en">All Women</name>
-          </personGrp>
           <person xml:id="kinesias" sex="MALE" role="maritus">
             <persName>Κινησίας</persName>
             <persName xml:lang="en">Cinesias</persName>
@@ -966,8 +957,8 @@ bring up to P3
           <speaker>Λυσιστράτη</speaker>
           <l real="xo-xx--x--">συνεπόμνυθ’ ὑμεῖς ταῦτα πᾶσαι;</l>
         </sp>
-        <sp who="#pasai">
-          <speaker>Πᾶσαι</speaker>
+        <sp who="#myrrine">
+          <speaker>Μυρρίνη</speaker>
           <l part="Y" real="-xx">νὴ Δία.</l>
         </sp>
         <sp who="#lysistrate">
@@ -1633,7 +1624,7 @@ bring up to P3
             <l n="505" real="xo----x--">ὑπὸ τῆς ὀργῆς αὐτὰς ἴσχειν.</l>
           </sp>
           <sp who="#gyne-a">
-            <speaker>Γυνὴ Α.</speaker>
+            <speaker>Γυνὴ Α</speaker>
             <l part="Y" real="----ox-o">κλαύσει τοίνυν πολὺ μᾶλλον.</l>
           </sp>
           <sp who="#proboulos">
@@ -1653,8 +1644,8 @@ bring up to P3
             <l real="-----oox-xo---oxx-">ἐν τῷ δήμῳ τήμερονὑμῖν;’ ‘τίδὲ σοὶ ταῦτ’;’ ἦ δ’ ὃς ἂν ἁνήρ.</l>
             <l n="515" real="-x--x-ox-">‘οὐ σιγήσει;’ κἀγὼ ἐσίγων.</l>
           </sp>
-          <sp who="#gyne-b">
-            <speaker>Γυνὴ Β.</speaker>
+          <sp who="#gyne-a">
+            <speaker>Γυνὴ A</speaker>
             <l part="Y" real="--xo-oox-">ἀλλ’ οὐκ ἂν ἐγώ ποτ’ ἐσίγων.</l>
           </sp>
           <sp who="#proboulos">
@@ -1706,9 +1697,6 @@ bring up to P3
             <l real="xo--xox-xx-">παρ’ ἐμοῦ τουτὶ τὸ κάλυμμα λαβὼν</l>
             <l real="oo-ox-ox-ox-">ἔχε καὶ περίθου περὶ τὴν κεφαλήν,</l>
             <l real="-xx-x">κᾆτα σιώπα</l>
-          </sp>
-          <sp who="#gyne-g">
-            <speaker>Γυνὴ Γ.</speaker>
             <l n="535" real="----xx-o">καὶ τοῦτον τὸν καλαθίσκον.</l>
           </sp>
           <sp who="#lysistrate">
@@ -1766,7 +1754,7 @@ bring up to P3
             <l real="xo-----oo-">ἀγοράζοντας καὶ μαινομένους.</l>
           </sp>
           <sp who="#gyne-a">
-            <speaker>Γυνὴ Α.</speaker>
+            <speaker>Γυνὴ Α</speaker>
             <l part="Y" real="--xxxxox-">νὴ τὴν Παφίαν Ἀφροδίτην.</l>
           </sp>
           <sp who="#lysistrate">
@@ -1783,8 +1771,8 @@ bring up to P3
             <l part="Y" real="--ox-xo-o">καὶ μὴν τό γε πρᾶγμα γέλοιον,</l>
             <l n="560" real="ox-xo---ox-----oxx-">ὅταν ἀσπίδ’ ἔχων καὶ Γοργόνα τις κᾆτ’ ὠνῆται κορακίνους.</l>
           </sp>
-          <sp who="#gyne-b">
-            <speaker>Γυνὴ Β.</speaker>
+          <sp who="#gyne-a">
+            <speaker>Γυνὴ A</speaker>
             <l real="-xo---xo--x---oo--">νὴ Δί’ ἐγὼ γοῦν ἄνδρα κομήτην φυλαρχοῦντ’ εἶδον ἐφ’ ἵππου</l>
             <l real="------oo---ox-xxxo">ἐς τὸν χαλκοῦν ἐμβαλλόμενον πῖλον λέκιθον παρὰ γραός·</l>
             <l real="oo-------x-xo-oo--">ἕτερος δ’ &lt;αὖ&gt; Θρᾷξ πέλτην σείων κἀκόντιον ὥσπερ ὁ Τηρεύς,</l>
@@ -1888,11 +1876,11 @@ bring up to P3
             <l real="xo-x-ox--">λαβὲ ταυτὶ καὶ στεφάνωσαι.</l>
           </sp>
           <sp who="#gyne-a">
-            <speaker>Γυνὴ Ξ.</speaker>
+            <speaker>Γυνὴ Α</speaker>
             <l real="--xx--xo-">καὶ ταυτασὶ δέξαι παρ’ ἐμοῦ.</l>
           </sp>
-          <sp who="#gyne-a">
-            <speaker>Γυνὴ Α.</speaker>
+          <sp who="#gyne-b">
+            <speaker>Γυνὴ Β</speaker>
             <l real="---xxo-oxo">καὶ τουτονγὶ λαβὲ τὸν στέφανον.</l>
           </sp>
           <sp who="#lysistrate">
@@ -2106,7 +2094,7 @@ bring up to P3
           <l real="--x--">αὕτη σὺ ποῖ θεῖς;</l>
         </sp>
         <sp who="#gyne-a">
-          <speaker>Γυνὴ Α.</speaker>
+          <speaker>Γυνὴ Α</speaker>
           <l part="Y" real="-x---o-">οἴκαδ’ ἐλθεῖν βούλομαι.</l>
           <l real="--x-xoxx-x-xx">οἴκοι γάρ ἐστιν ἔριά μοι Μιλήσια</l>
           <l n="730" real="xo-o-xx-oox">ὑπὸ τῶν σέων κατακοπτόμενα.</l>
@@ -2117,7 +2105,7 @@ bring up to P3
           <l real="--xx">οὐκ εἶ πάλιν;</l>
         </sp>
         <sp who="#gyne-a">
-          <speaker>Γυνὴ Α.</speaker>
+          <speaker>Γυνὴ Α</speaker>
           <l part="Y" real="---xo---o-">ἀλλ’ ἥξω ταχέως νὴ τὼ θεὼ</l>
           <l real="o-xxoxxox-x-oo">ὅσον διαπετάσασ’ ἐπὶ τῆς κλίνης μόνον.</l>
         </sp>
@@ -2126,7 +2114,7 @@ bring up to P3
           <l real="-xxo-x-x---x-">μὴ διαπετάννυ, μηδ’ ἀπέλθῃς μηδαμῇ.</l>
         </sp>
         <sp who="#gyne-a">
-          <speaker>Γυνὴ Α.</speaker>
+          <speaker>Γυνὴ Α</speaker>
           <l real="-o-o--xx">ἀλλ’ ἐῶ ’πολέσθαι τἄρῑ;</l>
         </sp>
         <sp who="#lysistrate">
@@ -2134,7 +2122,7 @@ bring up to P3
           <l part="Y" real="---o-">ἢν τούτου δέῃ.</l>
         </sp>
         <sp who="#gyne-b">
-          <speaker>Γυνὴ Β.</speaker>
+          <speaker>Γυνὴ Β</speaker>
           <l n="735" real="x-o-x-x-x-xo">τάλαιν’ ἐγώ, τάλαινα τῆς Ἀμοργίδος,</l>
           <l real="-xoo--xxo-">ἣν ἄλοπον οἴκοι καταλέλοιφ’.</l>
         </sp>
@@ -2145,7 +2133,7 @@ bring up to P3
           <l real="--x--">χώρει πάλιν δεῦρ’.</l>
         </sp>
         <sp who="#gyne-b">
-          <speaker>Γυνὴ Β.</speaker>
+          <speaker>Γυνὴ Β</speaker>
           <l part="Y" real="-x---oo">ἀλλὰ νὴ τὴν Φωσφόρον</l>
           <l real="o-xo-x-xxxx-o-">ἔγωγ’ ἀποδείρασ’ αὐτίκα μάλ’ ἀνέρχομαι.</l>
         </sp>
@@ -2218,8 +2206,8 @@ bring up to P3
           <l real="--xx---o---o-">ἀλλ’ οὐ δύναμαι ’γωγ’ οὐδὲ κοιμᾶσθ’ ἐν πόλει,</l>
           <l real="--oox--o---oo">ἐξ οὗ τὸν ὄφιν εἶδον τὸν οἰκουρόν ποτε.</l>
         </sp>
-        <sp who="#gyne-d">
-          <speaker>Γυνὴ Δ</speaker>
+        <sp who="#gyne-a">
+          <speaker>Γυνὴ Α</speaker>
           <l n="760" real="o-xo---ox-x-x-">ἐγὼ δ’ ὑπὸ τῶν γλαυκῶν γε τάλαιν’ ἀπόλλυμαι</l>
           <l real="-xxx-x-x---x-">ταῖς ἀγρυπνίαισι κακκαβαζουσῶν ἀεί.</l>
         </sp>
@@ -2245,8 +2233,8 @@ bring up to P3
           <l real="-xx---xx-ox-ox--">παῦλα κακῶν ἔσται, τὰ δ’ ὑπέρτερα νέρτερα θήσει</l>
           <l real="--xoo-">Ζεὺς ὑψιβρεμέτης—</l>
         </sp>
-        <sp who="#gyne-b">
-          <speaker>Γυνὴ Β</speaker>
+        <sp who="#gyne-a">
+          <speaker>Γυνὴ Α</speaker>
           <l part="Y" real="ox-xx-oo--">ἐπάνω κατακεισόμεθ’ ἡμεῖς;</l>
         </sp>
         <sp who="#lysistrate">

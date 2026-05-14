@@ -4,12 +4,18 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title n="PB">Prometheus Bound</title>
+        <title xml:lang="grc">Προμηθεὺς δεσμώτης</title>
+        <title xml:lang="la">Prometheus</title>
+        <title xml:lang="en">Prometheus Bound</title>
+        <title type="short">Prom.</title>
         <author>
           <persName>Aeschylus</persName>
           <idno type="wikidata">Q40939</idno>
         </author>
-        <editor n="Smyth" role="editor">Herbert Weir Smyth</editor>
+        <editor>
+          <persName>Herbert Weir Smyth</persName>
+          <idno type="wikidata">Q471925</idno>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

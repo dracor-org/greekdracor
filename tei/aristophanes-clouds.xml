@@ -4,12 +4,22 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title n="Clouds">Clouds</title>
+        <title xml:lang="grc">Νεφέλαι</title>
+        <title xml:lang="la">Nubes</title>
+        <title xml:lang="en">Clouds</title>
+        <title type="short">Nub.</title>
         <author>
           <persName>Aristophanes</persName>
           <idno type="wikidata">Q43353</idno>
         </author>
-        <editor n="OCT" role="editor">F. W. Hall and W. M. Geldart</editor>
+        <editor>
+          <persName>F. W. Hall</persName>
+          <idno type="wikidata">Q5499076</idno>
+        </editor>
+        <editor>
+          <persName>W. M. Geldart</persName>
+          <idno type="wikidata">Q8015194</idno>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

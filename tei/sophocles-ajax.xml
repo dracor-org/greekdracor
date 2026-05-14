@@ -4,12 +4,18 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title n="Aj">Ajax</title>
+        <title xml:lang="grc">Αἴας</title>
+        <title xml:lang="la">Aias</title>
+        <title xml:lang="en">Ajax</title>
+        <title type="short">Ai.</title>
         <author>
           <persName>Sophocles</persName>
           <idno type="wikidata">Q7235</idno>
         </author>
-        <editor n="Storr" role="editor">F. Storr</editor>
+        <editor>
+          <persName>F. Storr</persName>
+          <idno type="wikidata">Q16861781</idno>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

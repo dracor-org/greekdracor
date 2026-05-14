@@ -4,12 +4,18 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title n="Hel.">Helen</title>
+        <title xml:lang="grc">Ἑλένη</title>
+        <title xml:lang="la">Helena</title>
+        <title xml:lang="en">Helen</title>
+        <title type="short">Hel.</title>
         <author>
           <persName>Euripides</persName>
           <idno type="wikidata">Q48305</idno>
         </author>
-        <editor n="Murray" role="editor">Gilbert Murray</editor>
+        <editor>
+          <persName>Gilbert Murray</persName>
+          <idno type="wikidata">Q538478</idno>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

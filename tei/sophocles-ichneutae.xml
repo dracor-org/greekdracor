@@ -4,12 +4,18 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Ichneutae</title>
+        <title xml:lang="grc">Ἰχνευταί</title>
+        <title xml:lang="la">Ichneutae</title>
+        <title xml:lang="en">Ichneutae</title>
+        <title type="short">Ichn.</title>
         <author>
           <persName>Sophocles</persName>
           <idno type="wikidata">Q7235</idno>
         </author>
-        <editor role="editor">Arthur S. Hunt</editor>
+        <editor>
+          <persName>Arthur S. Hunt</persName>
+          <idno type="wikidata">Q573778</idno>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>

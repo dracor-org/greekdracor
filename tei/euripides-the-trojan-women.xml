@@ -50,37 +50,48 @@
         <listPerson>
           <person xml:id="poseidon" sex="MALE" ana="http://www.wikidata.org/entity/Q41127">
             <persName>Ποσειδῶν</persName>
+            <persName xml:lang="en">Poseidon</persName>
           </person>
           <person xml:id="athena" sex="FEMALE" ana="http://www.wikidata.org/entity/Q37122">
             <persName>Ἀθήνα</persName>
+            <persName xml:lang="en">Athena</persName>
           </person>
           <person xml:id="hekabe" sex="FEMALE" ana="http://www.wikidata.org/entity/Q193433">
             <persName>Ἑκάβη</persName>
+            <persName xml:lang="en">Hecuba</persName>
           </person>
           <personGrp xml:id="choros" sex="FEMALE">
             <name>Χορός</name>
             <name>Χορὸς Αἰχμαλωτίδων Τρῳάδων</name>
+            <name xml:lang="en">Chorus of Captive Trojan Women</name>
           </personGrp>
           <personGrp xml:id="hemichorion_a" sex="FEMALE" corresp="#choros">
             <name>Ἡμιχόριον Α</name>
+            <name xml:lang="en">Semi-Chorus A</name>
           </personGrp>
           <personGrp xml:id="hemichorion_b" sex="FEMALE" corresp="#choros">
             <name>Ἡμιχόριον Β</name>
+            <name xml:lang="en">Semi-Chorus B</name>
           </personGrp>
           <person xml:id="talthybios" sex="MALE" ana="http://www.wikidata.org/entity/Q1367860">
             <persName>Ταλθύβιος</persName>
+            <persName xml:lang="en">Talthybius</persName>
           </person>
           <person xml:id="kasandra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q170779">
             <persName>Κασάνδρα</persName>
+            <persName xml:lang="en">Cassandra</persName>
           </person>
           <person xml:id="andromache" sex="FEMALE" ana="http://www.wikidata.org/entity/Q19376">
             <persName>Ἀνδρομάχη</persName>
+            <persName xml:lang="en">Andromache</persName>
           </person>
           <person xml:id="menelaos" sex="MALE" ana="http://www.wikidata.org/entity/Q171839">
             <persName>Μενέλαος</persName>
+            <persName xml:lang="en">Menelaus</persName>
           </person>
           <person xml:id="helene" sex="FEMALE" ana="http://www.wikidata.org/entity/Q164061">
             <persName>Ἑλένη</persName>
+            <persName xml:lang="en">Helen</persName>
           </person>
         </listPerson>
       </particDesc>

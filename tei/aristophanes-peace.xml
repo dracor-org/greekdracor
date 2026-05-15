@@ -4,12 +4,14 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="grc">Εἰρήνη</title>
+        <title>Εἰρήνη</title>
         <title xml:lang="la">Pax</title>
         <title xml:lang="en">Peace</title>
         <title type="short">Pax</title>
         <author>
-          <persName>Aristophanes</persName>
+          <persName>Ἀριστοφάνης</persName>
+          <persName xml:lang="la">Aristophanes</persName>
+          <persName xml:lang="en">Aristophanes</persName>
           <idno type="wikidata">Q43353</idno>
         </author>
         <editor>

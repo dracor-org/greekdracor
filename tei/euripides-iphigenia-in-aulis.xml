@@ -4,12 +4,14 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="grc">Ἰφιγένεια ἐν Αὐλίδι</title>
+        <title>Ἰφιγένεια ἐν Αὐλίδι</title>
         <title xml:lang="la">Iphigenia Aulidensis</title>
         <title xml:lang="en">Iphigenia in Aulis</title>
         <title type="short">Iph. A.</title>
         <author>
-          <persName>Euripides</persName>
+          <persName>Εὐριπίδης</persName>
+          <persName xml:lang="la">Euripides</persName>
+          <persName xml:lang="en">Euripides</persName>
           <idno type="wikidata">Q48305</idno>
         </author>
         <editor>

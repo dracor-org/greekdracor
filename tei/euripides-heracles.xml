@@ -56,32 +56,41 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="lyssa" sex="FEMALE" ana="http://www.wikidata.org/entity/Q1084868">
-            <persName>Λύσσα</persName>
-          </person>
-          <person xml:id="theseus" sex="MALE" ana="http://www.wikidata.org/entity/Q1320718">
-            <persName>Θησεύς</persName>
-          </person>
-          <person xml:id="angelos" sex="MALE">
-            <persName>Ἄγγελος</persName>
-          </person>
           <person xml:id="amphitryon" sex="MALE" ana="http://www.wikidata.org/entity/Q206214">
             <persName>Ἀμφιτρύων</persName>
-          </person>
-          <person xml:id="herakles" sex="MALE" ana="http://www.wikidata.org/entity/Q122248">
-            <persName>Ἡρακλῆς</persName>
+            <persName xml:lang="en">Amphitryon</persName>
           </person>
           <person xml:id="megara" sex="FEMALE" ana="http://www.wikidata.org/entity/Q929768">
             <persName>Μεγάρα</persName>
+            <persName xml:lang="en">Megara</persName>
           </person>
-          <personGrp xml:id="choros" sex="UNKNOWN">
+          <personGrp xml:id="choros" sex="MALE">
             <name>Χορός</name>
+            <name xml:lang="en">Chorus of Old Men of Thebes</name>
           </personGrp>
-          <person xml:id="lykos" sex="MALE" ana="http://www.wikidata.org/entity/Q1047047">
+          <person xml:id="lykos" sex="MALE" ana="https://www.wikidata.org/wiki/Q1393416">
             <persName>Λύκος</persName>
+            <persName xml:lang="en">Lycus</persName>
+          </person>
+          <person xml:id="herakles" sex="MALE" ana="http://www.wikidata.org/entity/Q122248">
+            <persName>Ἡρακλῆς</persName>
+            <persName xml:lang="en">Heracles</persName>
           </person>
           <person xml:id="iris" sex="FEMALE" ana="http://www.wikidata.org/entity/Q184570">
             <persName>Ἶρις</persName>
+            <persName xml:lang="en">Iris</persName>
+          </person>
+          <person xml:id="lyssa" sex="FEMALE" ana="http://www.wikidata.org/entity/Q1084868">
+            <persName>Λύσσα</persName>
+            <persName xml:lang="en">Lyssa</persName>
+          </person>
+          <person xml:id="angelos" sex="MALE">
+            <persName>Ἄγγελος</persName>
+            <persName xml:lang="en">Messenger</persName>
+          </person>
+          <person xml:id="theseus" sex="MALE" ana="http://www.wikidata.org/entity/Q1320718">
+            <persName>Θησεύς</persName>
+            <persName xml:lang="en">Theseus</persName>
           </person>
         </listPerson>
       </particDesc>

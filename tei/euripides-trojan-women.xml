@@ -73,11 +73,11 @@
             <name>Χορὸς Αἰχμαλωτίδων Τρῳάδων</name>
             <name xml:lang="en">Chorus of Captive Trojan Women</name>
           </personGrp>
-          <personGrp xml:id="hemichorion_a" sex="FEMALE" corresp="#choros">
+          <personGrp xml:id="hemichorion-a" sex="FEMALE" corresp="#choros">
             <name>Ἡμιχόριον Α</name>
             <name xml:lang="en">Semi-Chorus A</name>
           </personGrp>
-          <personGrp xml:id="hemichorion_b" sex="FEMALE" corresp="#choros">
+          <personGrp xml:id="hemichorion-b" sex="FEMALE" corresp="#choros">
             <name>Ἡμιχόριον Β</name>
             <name xml:lang="en">Semi-Chorus B</name>
           </personGrp>
@@ -424,7 +424,7 @@ bring up to P3
           </sp>
         </div2>
         <div2 n="1" type="strophe">
-          <sp who="#hemichorion_a">
+          <sp who="#hemichorion-a">
             <speaker>Ἡμιχόριον Α</speaker>
             <l real="ox-xo-xo---">Ἑκάβη, τί θροεῖς; τί δὲ θωΰσσεις;</l>
             <l real="-oo--xx-ox-">ποῖ λόγος ἥκει; διὰ γὰρ μελάθρων</l>
@@ -437,7 +437,7 @@ bring up to P3
             <speaker>Ἑκάβη</speaker>
             <l real="-x-------">ὦ τέκν’, Ἀργείων πρὸς ναῦς ἤδη . . .</l>
           </sp>
-          <sp who="#hemichorion_a">
+          <sp who="#hemichorion-a">
             <speaker>Ἡμιχόριον Α</speaker>
             <l n="160" real="x------">κινεῖται κωπήρης χείρ;</l>
             <l real="-o-xo-----">οἲ ἐγώ, τί θέλουσ’, ἦ πού μ’ ἤδη</l>
@@ -447,7 +447,7 @@ bring up to P3
             <speaker>Ἑκάβη</speaker>
             <l real="-----xx">οὐκ οἶδ’, εἰκάζω δ’ ἄταν.</l>
           </sp>
-          <sp who="#hemichorion_a">
+          <sp who="#hemichorion-a">
             <speaker>Ἡμιχόριον Α</speaker>
             <l real="x-x-">ἰὼ ἰώ.</l>
             <l n="165" real="oo---ox-oo-">μέλεαι μόχθων ἐπακουσόμεναι</l>
@@ -470,7 +470,7 @@ bring up to P3
           </sp>
         </div2>
         <div2 n="1" type="antistrophe">
-          <sp who="#hemichorion_b">
+          <sp who="#hemichorion-b">
             <speaker>Ἡμιχόριον Β</speaker>
             <l real="--oo--xoxo">οἴμοι. τρομερὰ σκηνὰς ἔλιπον</l>
             <l real="-xx-ooox-oox">τάσδ’ Ἀγαμέμνονος ἐπακουσομένα,</l>
@@ -483,7 +483,7 @@ bring up to P3
             <speaker>Ἑκάβη</speaker>
             <l real="-xo----xx">ὦ τέκνον, ὀρθρεύου σὰν ψυχάν.</l>
           </sp>
-          <sp who="#hemichorion_b">
+          <sp who="#hemichorion-b">
             <speaker>Ἡμιχόριον Β</speaker>
             <l real="-----x-">ἐκπληχθεῖσ’ ἦλθον φρίκᾳ.</l>
             <l real="--xoxxx---">ἤδη τις ἔβα Δαναῶν κῆρυξ;</l>
@@ -493,7 +493,7 @@ bring up to P3
             <speaker>Ἑκάβη</speaker>
             <l real="-------">ἐγγύς που κεῖσαι κλήρου.</l>
           </sp>
-          <sp who="#hemichorion_b">
+          <sp who="#hemichorion-b">
             <speaker>Ἡμιχόριον Β</speaker>
             <l real="x-x-">ἰὼ ἰώ.</l>
             <l real="-----x--">τίς μ’ Ἀργείων ἢ Φθιωτᾶν</l>

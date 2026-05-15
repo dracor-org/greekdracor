@@ -54,41 +54,57 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="orestes" sex="MALE" ana="http://www.wikidata.org/entity/Q192407">
-            <persName>Ὀρέστης</persName>
-          </person>
-          <person xml:id="angelos" sex="MALE">
-            <persName>Ἄγγελος</persName>
-          </person>
-          <person xml:id="pylades" sex="MALE" ana="http://www.wikidata.org/entity/Q494886">
-            <persName>Πυλάδης</persName>
-          </person>
-          <personGrp xml:id="choros" sex="UNKNOWN">
-            <name>Χορός </name>
-          </personGrp>
-          <person xml:id="ermione" sex="FEMALE" ana="http://www.wikidata.org/entity/Q658523">
-            <persName>Ερμιόνη</persName>
+          <person xml:id="elektra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131651">
+            <persName>Ἠλέκτρα</persName>
+            <persName xml:lang="en">Electra</persName>
           </person>
           <person xml:id="helene" sex="FEMALE" ana="http://www.wikidata.org/entity/Q164061">
             <persName>Ἑλένη</persName>
+            <persName xml:lang="en">Helen</persName>
           </person>
-          <person xml:id="elektra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131651">
-            <persName>Ἠλέκτρα</persName>
+          <personGrp xml:id="choros" sex="FEMALE">
+            <name>Χορός</name>
+            <name xml:lang="en">Chorus of Argive Women</name>
+          </personGrp>
+          <personGrp xml:id="hemichoros-a" sex="FEMALE" corresp="#choros">
+            <name>Ἡμίχορος A</name>
+            <name xml:lang="en">First Semi-Chorus</name>
+          </personGrp>
+          <personGrp xml:id="hemichoros-b" sex="FEMALE" corresp="#choros">
+            <name>Ἡμίχορος B</name>
+            <name xml:lang="en">Second Semi-Chorus</name>
+          </personGrp>
+          <person xml:id="orestes" sex="MALE" ana="http://www.wikidata.org/entity/Q192407">
+            <persName>Ὀρέστης</persName>
+            <persName xml:lang="en">Orestes</persName>
           </person>
           <person xml:id="menelaos" ana="http://www.wikidata.org/entity/Q171839">
             <persName>Μενέλαος</persName>
-          </person>
-          <personGrp xml:id="hemichoros" sex="FEMALE">
-            <name>Ἡμίχορος</name>
-          </personGrp>
-          <person xml:id="apollon" sex="MALE" ana="http://www.wikidata.org/entity/Q37340">
-            <persName>Ἀπόλλων</persName>
+            <persName xml:lang="en">Menelaus</persName>
           </person>
           <person xml:id="tyndareos" sex="MALE" ana="http://www.wikidata.org/entity/Q192946">
             <persName>Τυνδάρεως</persName>
+            <persName xml:lang="en">Tyndareus</persName>
+          </person>
+          <person xml:id="pylades" sex="MALE" ana="http://www.wikidata.org/entity/Q494886">
+            <persName>Πυλάδης</persName>
+            <persName xml:lang="en">Pylades</persName>
+          </person>
+          <person xml:id="angelos" sex="MALE">
+            <persName>Ἄγγελος</persName>
+            <persName xml:lang="en">Messenger</persName>
+          </person>
+          <person xml:id="hermione" sex="FEMALE" ana="http://www.wikidata.org/entity/Q658523">
+            <persName>Ἑρμιόνη</persName>
+            <persName xml:lang="en">Hermione</persName>
           </person>
           <person xml:id="phryx" sex="MALE">
             <persName>Φρύξ</persName>
+            <persName xml:lang="en">Phrygian Slave</persName>
+          </person>
+          <person xml:id="apollon" sex="MALE" ana="http://www.wikidata.org/entity/Q37340">
+            <persName>Ἀπόλλων</persName>
+            <persName xml:lang="en">Apollo</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -2774,12 +2790,12 @@ bring up to P3
             <l real="x-ox-xo-x">σταθεὶς ἐπὶ φοίνιον αἷμα</l>
             <l real="-xx-xx---">πήματα πήμασιν ἐξεύρῃ.</l>
           </sp>
-          <sp who="#hemichoros">
+          <sp who="#hemichoros-a">
             <speaker>Ἡμίχορος</speaker>
             <l real="--o---o-o-xo">χωρεῖτ’, ἐπειγώμεσθ’· ἐγὼ μὲν οὖν τρίβον</l>
             <l real="--x---o-x-ox">τόνδ’ ἐκφυλάξω, τὸν πρὸς ἡλίου βολάς.</l>
           </sp>
-          <sp who="#hemichoros">
+          <sp who="#hemichoros-b">
             <speaker>Ἡμίχορος</speaker>
             <l n="1260" real="--o---o-o-o-">καὶ μὴν ἐγὼ τόνδ’, ὃς πρὸς ἑσπέραν φέρει.</l>
           </sp>
@@ -2800,7 +2816,7 @@ bring up to P3
             <l real="o-oo-oxx">ἑλίσσετέ νυν βλέφαρα,</l>
             <l real="o-xxoo-xxx-x-">κόραισι δίδοτε πάντα διὰ βοστρύχων.</l>
           </sp>
-          <sp who="#hemichoros">
+          <sp who="#hemichoros-a">
             <speaker>Ἡμίχορος</speaker>
             <l n="1269" real="oox-x-o-o-xoxx">ὅδε τις ἐν τρίβῳ [προσέρχεται]. τίς ὅδ’ ἄρ’ ἀμ‐</l>
             <l n="1270" real="xox-o-oxoxx-">φὶ μέλαθρον πολεῖ σὸν ἀγρότας ἀνήρ;</l>
@@ -2810,7 +2826,7 @@ bring up to P3
             <l real="x-o-x-x-x-o-">ἀπωλόμεσθ’ ἄρ’, ὦ φίλαι· κεκρυμμένους</l>
             <l real="--x---x---x-">θῆρας ξιφήρεις αὐτίκ’ ἐχθροῖσιν φανεῖ.</l>
           </sp>
-          <sp who="#hemichoros">
+          <sp who="#hemichoros-a">
             <speaker>Ἡμίχορος</speaker>
             <l real="xoooooo-xx">ἄφοβος ἔχε· κενός, ὦ φίλα,</l>
             <l real="xoo-o-">στίβος ὃν οὐ δοκεῖς.</l>
@@ -2821,12 +2837,12 @@ bring up to P3
             <l real="o-oxxxx-x">δὸς ἀγγελίαν ἀγαθάν τιν’,</l>
             <l real="-xo-xx---">εἰ τάδ’ ἔρημα τὰ πρόσθ’ αὐλᾶς.</l>
           </sp>
-          <sp who="#hemichoros">
+          <sp who="#hemichoros-b">
             <speaker>Ἡμίχορος</speaker>
             <l real="x-x---xxx-o-">καλῶς τά γ’ ἐνθένδ’. ἀλλὰ τἀπὶ σοῦ σκόπει·</l>
             <l real="--x--xxx-o-o-">ὡς οὔτις ἡμῖν Δαναϊδῶν πελάζεται.</l>
           </sp>
-          <sp who="#hemichoros">
+          <sp who="#hemichoros-a">
             <speaker>Ἡμίχορος</speaker>
             <l n="1280" real="--o---x-o-xo">ἐς ταὐτὸν ἥκεις· καὶ γὰρ οὐδὲ τῇδ’ ὄχλος.</l>
           </sp>
@@ -2909,7 +2925,7 @@ bring up to P3
             <l real="--o---x---xo">ὦ παρθέν’, ἥκεις τὸν Κλυταιμήστρας τάφον</l>
             <l real="-xx--xx-o-ox">στέψασα καὶ σπείσασα νερτέροις χοάς;</l>
           </sp>
-          <sp who="#ermione">
+          <sp who="#hermione">
             <speaker>Ερμιόνη</speaker>
             <l real="--x-x-o-x-x-">ἥκω, λαβοῦσα πρευμένειαν. ἀλλά μοι</l>
             <l real="o-x-o-x-x-o-">φόβος τις εἰσελήλυθ’, ἥντιν’ ἐν δόμοις</l>
@@ -2919,7 +2935,7 @@ bring up to P3
             <speaker>Ἠλέκτρα</speaker>
             <l real="x-x---x-oxx-">τί δ’; ἄξῑ ἡμῖν τυγχάνει στεναγμάτων.</l>
           </sp>
-          <sp who="#ermione">
+          <sp who="#hermione">
             <speaker>Ερμιόνη</speaker>
             <l real="--o-xxoo-o-o-">εὔφημος ἴσθι· τί δὲ νεώτερον λέγεις;</l>
           </sp>
@@ -2927,7 +2943,7 @@ bring up to P3
             <speaker>Ἠλέκτρα</speaker>
             <l real="x-o--xo-o-o-">θανεῖν Ὀρέστην κἄμ’ ἔδοξε τῇδε γῇ.</l>
           </sp>
-          <sp who="#ermione">
+          <sp who="#hermione">
             <speaker>Ερμιόνη</speaker>
             <l real="--o-o-o-oxox">μὴ δῆτ’, ἐμοῦ γε συγγενεῖς πεφυκότας.</l>
           </sp>
@@ -2935,7 +2951,7 @@ bring up to P3
             <speaker>Ἠλέκτρα</speaker>
             <l n="1330" real="xxx---x-x-xo">ἄραρ’· ἀνάγκης δ’ ἐς ζυγὸν καθέσταμεν.</l>
           </sp>
-          <sp who="#ermione">
+          <sp who="#hermione">
             <speaker>Ερμιόνη</speaker>
             <l real="--oxx-o-x-ox">ἦ τοῦδ’ ἕκατι καὶ βοὴ κατὰ στέγας;</l>
           </sp>
@@ -2943,7 +2959,7 @@ bring up to P3
             <speaker>Ἠλέκτρα</speaker>
             <l real="xo-xoo-oxx-o-o-">ἱκέτης γὰρ Ἑλένης γόνασι προσπεσὼν βοᾷ — </l>
           </sp>
-          <sp who="#ermione">
+          <sp who="#hermione">
             <speaker>Ερμιόνη</speaker>
             <l real="x-o-x-o-x-o-">τίς; οὐδὲν οἶδα μᾶλλον, ἢν σὺ μὴ λέγῃς.</l>
           </sp>
@@ -2951,7 +2967,7 @@ bring up to P3
             <speaker>Ἠλέκτρα</speaker>
             <l real="--o---x-o-xo">τλήμων Ὀρέστης· μὴ θανεῖν, ἐμοῦ θ’ ὕπερ.</l>
           </sp>
-          <sp who="#ermione">
+          <sp who="#hermione">
             <speaker>Ερμιόνη</speaker>
             <l n="1335" real="o-x-xxx---oo">ἐπ’ ἀξίοισί τἄρ’ ἀνευφημεῖ δόμος.</l>
           </sp>
@@ -2966,7 +2982,7 @@ bring up to P3
             <l real="x-x-x-o---o-">ἴθ’ εἰς ἀγῶνα δεῦρ’, ἐγὼ δ’ ἡγήσομαι·</l>
             <l real="--x---o---o-">σωτηρίας γὰρ τέρμ’ ἔχεις ἡμῖν μόνη.</l>
           </sp>
-          <sp who="#ermione">
+          <sp who="#hermione">
             <speaker>Ερμιόνη</speaker>
             <l real="x-x--ooo-o-ox">ἰδού, διώκω τὸν ἐμὸν ἐς δόμους πόδα.</l>
             <l n="1345" real="--o-o-oo">σώθηθ’ ὅσον γε τοὐπ’ ἐμέ.</l>
@@ -2976,7 +2992,7 @@ bring up to P3
             <l part="Y" real="-x-ox">ὦ κατὰ στέγας</l>
             <l real="x-x---x---xx">φίλοι ξιφήρεις, οὐχὶ συλλήψεσθ’ ἄγραν;</l>
           </sp>
-          <sp who="#ermione">
+          <sp who="#hermione">
             <speaker>Ερμιόνη</speaker>
             <l real="-o-x---o-">οἲ ἐγώ· τίνας τούσδ’ εἰσορῶ;</l>
           </sp>

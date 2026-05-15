@@ -56,35 +56,45 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="athena" sex="FEMALE" ana="http://www.wikidata.org/entity/Q37122">
-            <persName>Ἀθήνα</persName>
+          <person xml:id="aithra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q11921121">
+            <persName>Αἴθρα</persName>
+            <persName xml:lang="en">Aethra</persName>
           </person>
-          <person xml:id="paides">
-            <persName>Παῖδες</persName>
+          <personGrp xml:id="choros" sex="FEMALE">
+            <name>Χορός</name>
+            <name xml:lang="en">Chorus of the Mothers of the Seven</name>
+          </personGrp>
+          <person xml:id="theseus" sex="MALE" ana="http://www.wikidata.org/entity/Q1320718">
+            <persName>Θησεύς</persName>
+            <persName xml:lang="en">Theseus</persName>
           </person>
-          <person xml:id="angelos" sex="MALE">
-            <persName>Ἄγγελος</persName>
-          </person>
-          <person xml:id="iphis" sex="MALE">
-            <persName>Ἶφις</persName>
+          <person xml:id="adrastos" sex="MALE" ana="http://www.wikidata.org/entity/Q223152">
+            <persName>Ἄδραστος</persName>
+            <persName xml:lang="en">Adrastus</persName>
           </person>
           <person xml:id="keryx" sex="MALE">
             <persName>Κῆρυξ</persName>
+            <persName xml:lang="en">Herald</persName>
           </person>
-          <person xml:id="aithra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q11921121">
-            <persName>Αἴθρα</persName>
+          <person xml:id="angelos" sex="MALE">
+            <persName>Ἄγγελος</persName>
+            <persName xml:lang="en">Messenger</persName>
           </person>
-          <person xml:id="theseus" sex="MALE" ana="http://www.wikidata.org/entity/Q1320718">
-            <persName>Θησεύς</persName>
-          </person>
-          <personGrp xml:id="choros" sex="UNKNOWN">
-            <name>Χορός</name>
-          </personGrp>
-          <person xml:id="adrastos" sex="MALE" ana="http://www.wikidata.org/entity/Q223152">
-            <persName>Ἄδραστος</persName>
-          </person>
-          <person xml:id="euadne" sex="FEMALE">
+          <person xml:id="euadne" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q1142062">
             <persName>Εὐάδνη</persName>
+            <persName xml:lang="en">Evadne</persName>
+          </person>
+          <person xml:id="iphis" sex="MALE" ana="https://www.wikidata.org/wiki/Q696330">
+            <persName>Ἶφις</persName>
+            <persName xml:lang="en">Iphis</persName>
+          </person>
+          <personGrp xml:id="paides">
+            <name>Παῖδες</name>
+            <persName xml:lang="en">Sons of the Seven</persName>
+          </personGrp>
+          <person xml:id="athena" sex="FEMALE" ana="http://www.wikidata.org/entity/Q37122">
+            <persName>Ἀθήνα</persName>
+            <persName xml:lang="en">Athena</persName>
           </person>
         </listPerson>
       </particDesc>

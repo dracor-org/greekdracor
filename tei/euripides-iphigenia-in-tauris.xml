@@ -56,29 +56,37 @@
     <profileDesc>
       <particDesc>
         <listPerson>
+          <person xml:id="iphigeneia" sex="FEMALE" ana="http://www.wikidata.org/entity/Q192673">
+            <persName>Ἰφιγένεια</persName>
+            <persName xml:lang="en">Iphigenia</persName>
+          </person>
           <person xml:id="orestes" sex="MALE" ana="http://www.wikidata.org/entity/Q192407">
             <persName>Ὀρέστης</persName>
-          </person>
-          <person xml:id="angelos" sex="MALE">
-            <persName>Ἄγγελος</persName>
+            <persName xml:lang="en">Orestes</persName>
           </person>
           <person xml:id="pylades" sex="MALE" ana="http://www.wikidata.org/entity/Q494886">
             <persName>Πυλάδης</persName>
+            <persName xml:lang="en">Pylades</persName>
+          </person>
+          <personGrp xml:id="choros" sex="FEMALE">
+            <name>Χορός</name>
+            <name xml:lang="en">Chorus of Greek Female Slaves</name>
+          </personGrp>
+          <person xml:id="boukolos" sex="MALE">
+            <persName>Βουκόλος</persName>
+            <persName xml:lang="en">Herdsman</persName>
+          </person>
+          <person xml:id="thoas" sex="MALE" ana="https://www.wikidata.org/wiki/Q1246185">
+            <persName>Θόας</persName>
+            <persName xml:lang="en">Thoas</persName>
+          </person>
+          <person xml:id="angelos" sex="MALE">
+            <persName>Ἄγγελος</persName>
+            <persName xml:lang="en">Messenger</persName>
           </person>
           <person xml:id="athena" sex="FEMALE" ana="http://www.wikidata.org/entity/Q37122">
             <persName>Ἀθήνα</persName>
-          </person>
-          <person xml:id="boukolos" sex="MALE">
-            <persName>Βουκόλος</persName>
-          </person>
-          <personGrp xml:id="choros" sex="UNKNOWN">
-            <name>Χορός</name>
-          </personGrp>
-          <person xml:id="thoas" sex="MALE" ana="http://www.wikidata.org/entity/Q1367871">
-            <persName>Θόας</persName>
-          </person>
-          <person xml:id="iphigeneia" sex="FEMALE" ana="http://www.wikidata.org/entity/Q192673">
-            <persName>Ἰφιγένεια</persName>
+            <persName xml:lang="en">Athena</persName>
           </person>
         </listPerson>
       </particDesc>

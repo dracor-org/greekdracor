@@ -82,7 +82,7 @@
             <persName>Ἄγγελος</persName>
             <persName xml:lang="en">First Messenger</persName>
           </person>
-          <person xml:id="angelos_b" sex="MALE">
+          <person xml:id="angelos-b" sex="MALE">
             <persName>Ἄγγελος Β</persName>
             <persName type="variant">Ἄγγελος</persName>
             <persName xml:lang="en">Second Messenger</persName>
@@ -2047,7 +2047,7 @@ convert to P3
         </div2>
       </div1>
       <div1 type="episode">
-        <sp who="#angelos_b">
+        <sp who="#angelos-b">
           <speaker>Ἄγγελος Β</speaker>
           <l real="--x-o-x-x-xx">ὦ δῶμ’ ὃ πρίν ποτ’ εὐτύχεις ἀν’ Ἑλλάδα,</l>
           <l n="1025" real="x-x-o-o-o-oo">Σιδωνίου γέροντος, ὃς τὸ γηγενὲς</l>
@@ -2059,7 +2059,7 @@ convert to P3
           <speaker>Χορός</speaker>
           <l real="x-x---x-x-oo">τί δ’ ἔστιν; ἐκ βακχῶν τι μηνύεις νέον;</l>
         </sp>
-        <sp who="#angelos_b">
+        <sp who="#angelos-b">
           <speaker>Ἄγγελος</speaker>
           <l n="1030" real="--o---oxo-xo">Πενθεὺς ὄλωλεν, παῖς Ἐχίονος πατρός.</l>
         </sp>
@@ -2068,7 +2068,7 @@ convert to P3
             <speaker>Χορός</speaker>
             <l real="--oxoo---ox">ὦναξ Βρόμιε, θεὸς φαίνῃ μέγας.</l>
           </sp>
-          <sp who="#angelos_b">
+          <sp who="#angelos-b">
             <speaker>Ἄγγελος</speaker>
             <l real="--x-o-x-x-o-">πῶς φῄς; τί τοῦτ’ ἔλεξας; ἦ ’πὶ τοῖς ἐμοῖς</l>
             <l real="--x---x-o-x-">χαίρεις κακῶς πράσσουσι δεσπόταις, γύναι;</l>
@@ -2080,7 +2080,7 @@ convert to P3
             <l real="---oxoox-x-">εὐάζω ξένα μέλεσι βαρβάροις·</l>
             <l n="1035" real="-ox---xoo---">οὐκέτι γὰρ δεσμῶν ὑπὸ φόβῳ πτήσσω.</l>
           </sp>
-          <sp who="#angelos_b">
+          <sp who="#angelos-b">
             <speaker>Ἄγγελος</speaker>
             <l real="--x---x-">Θήβας δ’ ἀνάνδρους ὧδ’ ἄγεις . . .</l>
             <l>
@@ -2094,7 +2094,7 @@ convert to P3
             <l real="oxoxooxoxo---">ὁ Διόνυσος ὁ Διόνυσος, οὐ Θῆβαι</l>
             <l real="xoo-oo">κράτος ἔχουσ’ ἐμόν.</l>
           </sp>
-          <sp who="#angelos_b">
+          <sp who="#angelos-b">
             <speaker>Ἄγγελος</speaker>
             <l real="--x---o---o-">συγγνωστὰ μέν σοι, πλὴν ἐπ’ ἐξειργασμένοις</l>
             <l n="1040" real="x-x---x-o-xo">κακοῖσι χαίρειν, ὦ γυναῖκες, οὐ καλόν.</l>
@@ -2107,7 +2107,7 @@ convert to P3
             <l real="xxoxxx-o--x-">ἄδικος ἄδικά τ’ ἐκπορίζων ἀνήρ;</l>
             <milestone ed="p" n="1043" unit="card"/>
           </sp>
-          <sp n="Ἀγγελος" who="#angelos_b">
+          <sp n="Ἀγγελος" who="#angelos-b">
             <speaker>Ἄγγελος</speaker>
             <l real="o-ox--o---oo">ἐπεὶ θεράπνας τῆσδε Θηβαίας χθονὸς</l>
             <l real="x-o-o-ox--ox">λιπόντες ἐξέβημεν Ἀσωποῦ ῥοάς,</l>

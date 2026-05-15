@@ -72,44 +72,58 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="pan" sex="MALE" role="deus prologus">
-            <persName>Πάν (Pan)</persName>
+          <person xml:id="pan" sex="MALE" role="deus prologus" ana="https://www.wikidata.org/wiki/Q132582">
+            <persName>Πάν</persName>
+            <persName xml:lang="en">Pan</persName>
           </person>
           <person xml:id="chaireas" sex="MALE" role="parasitus">
-            <persName>Χαιρέας (Chaireas)</persName>
+            <persName>Χαιρέας</persName>
+            <persName xml:lang="en">Chaireas</persName>
           </person>
           <person xml:id="sostratos" sex="MALE" role="adulescens">
-            <persName>Σώστρατος (Sostratos)</persName>
+            <persName>Σώστρατος</persName>
+            <persName xml:id="en">Sostratos</persName>
           </person>
           <person xml:id="pyrrhias" sex="MALE" role="servus">
-            <persName>Πυρρίας (Pyrrhias)</persName>
+            <persName>Πυρρίας</persName>
+            <persName xml:lang="en">Pyrrhias</persName>
           </person>
           <person xml:id="knemon" sex="MALE" role="senex">
-            <persName>Κνήμων (Knemon)</persName>
+            <persName>Κνήμων</persName>
+            <persName xml:lang="en">Knemon</persName>
           </person>
           <person xml:id="kore" sex="FEMALE" role="virgo">
-            <persName>παρθένος / κόρη (Girl)</persName>
+            <persName>κόρη</persName>
+            <persName type="variant">παρθένος</persName>
+            <persName xml:lang="en">Girl</persName>
           </person>
           <person xml:id="daos" sex="MALE" role="servus">
-            <persName>Δᾶος (Daos)</persName>
+            <persName>Δᾶος</persName>
+            <persName xml:lang="en">Daos</persName>
           </person>
           <person xml:id="gorgias" sex="MALE" role="adulescens">
-            <persName>Γοργίας (Gorgias)</persName>
+            <persName>Γοργίας</persName>
+            <persName xml:lang="en">Gorgias</persName>
           </person>
           <person xml:id="sikon" sex="MALE" role="cocus">
-            <persName>Σίκων (Sikon)</persName>
+            <persName>Σίκων</persName>
+            <persName xml:lang="en">Sikon</persName>
           </person>
           <person xml:id="getas" sex="MALE" role="servus">
-            <persName>Γέτας (Getas)</persName>
+            <persName>Γέτας</persName>
+            <persName xml:lang="en">Getas</persName>
           </person>
           <person xml:id="meter" sex="FEMALE" role="matrona">
-            <persName>μήτηρ (Mother)</persName>
+            <persName>μήτηρ</persName>
+            <persName xml:lang="en">Mother</persName>
           </person>
           <person xml:id="simiche" sex="FEMALE" role="anus ancilla">
-            <persName>Σιμίχη (Simiche)</persName>
+            <persName>Σιμίχη</persName>
+            <persName xml:lang="en">Simiche</persName>
           </person>
           <person xml:id="kallippides" sex="MALE" role="senex">
-            <persName>Καλλιππίδης (Kallippides)</persName>
+            <persName>Καλλιππίδης</persName>
+            <persName xml:lang="en">Kallippides</persName>
           </person>
         </listPerson>
       </particDesc>

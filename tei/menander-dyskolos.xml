@@ -129,6 +129,17 @@
             <persName>Καλλιππίδης</persName>
             <persName xml:lang="en">Kallippides</persName>
           </person>
+          <listRelation>
+            <relation name="associated_with" active="#chaireas" passive="#sostratos"/>
+            <relation name="associated_with" active="#pyrrhias" passive="#sostratos"/>
+            <relation name="associated_with" active="#getas" passive="#sostratos"/>
+            <relation name="parent_of" active="#meter #kallipides" passive="#sostratos"/>
+            <relation name="parent_of" active="#knemon" passive="#kore #gorgias"/>
+            <relation name="siblings" mutual="#gorgias #kore"/>
+            <relation name="friends" mutual="#sostratos #gorgias"/>
+            <relation name="associated_with" active="#simiche" passive="#knemon"/>
+            <relation name="associated_with" active="#daos" passive="#gorgias"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>
@@ -1829,7 +1840,7 @@
           <l n="700">ἐπίσταθ’ ἡμᾶς ὡς ἔοικε. θυγάτριον,</l>
           <l part="I">βούλει μ’ ἀναστῆσαι λαβοῦσα ;</l>
         </sp>
-        <sp>
+        <sp who="#sostratos">
           <speaker>Σω.</speaker>
           <l part="F">μακάριε</l>
           <l part="I">ἄνθρωπε.</l>

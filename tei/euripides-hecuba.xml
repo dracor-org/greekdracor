@@ -56,32 +56,34 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="talthybios" sex="MALE" ana="http://www.wikidata.org/entity/Q1367860">
-            <persName>Ταλθύβιος</persName>
-          </person>
-          <person xml:id="therapaina" sex="FEMALE">
-            <persName>Θεράπαινα</persName>
-          </person>
-          <person xml:id="polymestor" sex="MALE">
-            <persName>Πολυμήστωρ</persName>
-          </person>
-          <person xml:id="polydorou_eidolon" sex="MALE">
+          <person xml:id="polydorou_eidolon" sex="MALE" ana="https://www.wikidata.org/wiki/Q346634">
             <persName>Πολυδώρου εἴδωλον</persName>
-          </person>
-          <person xml:id="odysseus" sex="MALE" ana="http://www.wikidata.org/entity/Q47231">
-            <persName>Ὀδυσσεύς</persName>
-          </person>
-          <person xml:id="agamemnon" sex="MALE" ana="http://www.wikidata.org/entity/Q128176">
-            <persName>Ἀγαμέμνων</persName>
           </person>
           <person xml:id="hekabe" sex="FEMALE" ana="http://www.wikidata.org/entity/Q193433">
             <persName>Ἑκάβη</persName>
           </person>
           <personGrp xml:id="choros" sex="FEMALE">
             <name>Χορός</name>
+            <name type="variant">Χορὸς Αἰχμαλωτίδων Γυναικών</name>
           </personGrp>
           <person xml:id="polyxene" sex="FEMALE" ana="http://www.wikidata.org/entity/Q750236">
             <persName>Πολυξένη</persName>
+            <persName xml:lang="en">Polyxena</persName>
+          </person>
+          <person xml:id="odysseus" sex="MALE" ana="http://www.wikidata.org/entity/Q47231">
+            <persName>Ὀδυσσεύς</persName>
+          </person>
+          <person xml:id="talthybios" sex="MALE" ana="http://www.wikidata.org/entity/Q1367860">
+            <persName>Ταλθύβιος</persName>
+          </person>
+          <person xml:id="therapaina" sex="FEMALE">
+            <persName>Θεράπαινα</persName>
+          </person>
+          <person xml:id="agamemnon" sex="MALE" ana="http://www.wikidata.org/entity/Q128176">
+            <persName>Ἀγαμέμνων</persName>
+          </person>
+          <person xml:id="polymestor" sex="MALE" ana="https://www.wikidata.org/wiki/Q2288153">
+            <persName>Πολυμήστωρ</persName>
           </person>
         </listPerson>
       </particDesc>

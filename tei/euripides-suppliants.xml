@@ -56,35 +56,36 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="athena" sex="FEMALE" ana="http://www.wikidata.org/entity/Q37122">
-            <persName>Ἀθήνα</persName>
+          <person xml:id="aithra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q11921121">
+            <persName>Αἴθρα</persName>
           </person>
-          <person xml:id="paides">
-            <persName>Παῖδες</persName>
+          <personGrp xml:id="choros" sex="FEMALE">
+            <name>Χορός</name>
+          </personGrp>
+          <person xml:id="theseus" sex="MALE" ana="http://www.wikidata.org/entity/Q1320718">
+            <persName>Θησεύς</persName>
           </person>
-          <person xml:id="angelos" sex="MALE">
-            <persName>Ἄγγελος</persName>
-          </person>
-          <person xml:id="iphis" sex="MALE">
-            <persName>Ἶφις</persName>
+          <person xml:id="adrastos" sex="MALE" ana="http://www.wikidata.org/entity/Q223152">
+            <persName>Ἄδραστος</persName>
           </person>
           <person xml:id="keryx" sex="MALE">
             <persName>Κῆρυξ</persName>
           </person>
-          <person xml:id="aithra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q11921121">
-            <persName>Αἴθρα</persName>
+          <person xml:id="angelos" sex="MALE">
+            <persName>Ἄγγελος</persName>
           </person>
-          <person xml:id="theseus" sex="MALE" ana="http://www.wikidata.org/entity/Q1320718">
-            <persName>Θησεύς</persName>
-          </person>
-          <personGrp xml:id="choros" sex="UNKNOWN">
-            <name>Χορός</name>
-          </personGrp>
-          <person xml:id="adrastos" sex="MALE" ana="http://www.wikidata.org/entity/Q223152">
-            <persName>Ἄδραστος</persName>
-          </person>
-          <person xml:id="euadne" sex="FEMALE">
+          <person xml:id="euadne" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q1142062">
             <persName>Εὐάδνη</persName>
+            <persName xml:lang="en">Evadne</persName>
+          </person>
+          <person xml:id="iphis" sex="MALE" ana="https://www.wikidata.org/wiki/Q696330">
+            <persName>Ἶφις</persName>
+          </person>
+          <personGrp xml:id="paides">
+            <name>Παῖδες</name>
+          </personGrp>
+          <person xml:id="athena" sex="FEMALE" ana="http://www.wikidata.org/entity/Q37122">
+            <persName>Ἀθήνα</persName>
           </person>
         </listPerson>
       </particDesc>

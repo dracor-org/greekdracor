@@ -54,32 +54,33 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="angelos_b" sex="MALE">
-            <persName>Ἄγγελος Β</persName>
-          </person>
           <person xml:id="dionysos" sex="MALE" ana="http://www.wikidata.org/entity/Q41680">
             <persName>Διόνυσος</persName>
           </person>
-          <person xml:id="angelos" sex="MALE">
-            <persName>Ἄγγελος</persName>
-          </person>
-          <person xml:id="teiresias" sex="MALE">
+          <personGrp xml:id="choros" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q209599">
+            <name>Χορός</name>
+          </personGrp>
+          <person xml:id="teiresias" sex="MALE" ana="https://www.wikidata.org/wiki/Q656881">
             <persName>Τειρεσίας</persName>
+          </person>
+          <person xml:id="kadmos" sex="MALE" ana="https://www.wikidata.org/wiki/Q27613">
+            <persName>Κάδμος</persName>
+          </person>
+          <person xml:id="pentheus" sex="MALE" ana="https://www.wikidata.org/wiki/Q391091">
+            <persName>Πενθεύς</persName>
           </person>
           <person xml:id="therapon" sex="MALE">
             <persName>Θεράπων</persName>
           </person>
-          <person xml:id="agaue" sex="FEMALE">
+          <person xml:id="angelos" sex="MALE">
+            <persName>Ἄγγελος</persName>
+          </person>
+          <person xml:id="angelos_b" sex="MALE">
+            <persName>Ἄγγελος Β</persName>
+            <persName type="variant">Ἄγγελος</persName>
+          </person>
+          <person xml:id="agaue" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q381459">
             <persName>Ἀγαύη</persName>
-          </person>
-          <person xml:id="kadmos" sex="MALE">
-            <persName>Κάδμος</persName>
-          </person>
-          <personGrp xml:id="choros" sex="FEMALE">
-            <name>Χορός</name>
-          </personGrp>
-          <person xml:id="pentheus" sex="MALE">
-            <persName>Πενθεύς</persName>
           </person>
         </listPerson>
       </particDesc>

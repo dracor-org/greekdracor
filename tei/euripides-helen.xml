@@ -54,35 +54,36 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="graus" sex="FEMALE">
-            <persName>Γραῦς</persName>
-          </person>
-          <person xml:id="theoklymenos" sex="MALE" ana="http://www.wikidata.org/entity/Q2626787">
-            <persName>Θεοκλύμενος</persName>
-          </person>
-          <person xml:id="dioskoroi" sex="MALE">
-            <persName>Διόσκοροι</persName>
-          </person>
-          <person xml:id="angelos" sex="MALE">
-            <persName>Ἄγγελος</persName>
+          <person xml:id="helene" sex="FEMALE" ana="http://www.wikidata.org/entity/Q164061">
+            <persName>Ἑλένη</persName>
           </person>
           <person xml:id="teukros" sex="MALE" ana="http://www.wikidata.org/entity/Q878184">
             <persName>Τεῦκρος</persName>
           </person>
-          <person xml:id="theonoe" sex="FEMALE" ana="http://www.wikidata.org/entity/Q16217794">
-            <persName>Θεονόη</persName>
-          </person>
-          <person xml:id="therapon" sex="MALE">
-            <persName>Θεράπων</persName>
-          </person>
-          <personGrp xml:id="choros" sex="UNKNOWN">
+          <personGrp xml:id="choros" sex="FEMALE">
             <name>Χορός</name>
           </personGrp>
           <person xml:id="meneleos" sex="MALE" ana="http://www.wikidata.org/entity/Q171839">
             <persName>Μενελέως</persName>
           </person>
-          <person xml:id="helene" sex="FEMALE" ana="http://www.wikidata.org/entity/Q164061">
-            <persName>Ἑλένη</persName>
+          <person xml:id="graus" sex="FEMALE">
+            <persName>Γραῦς</persName>
+          </person>
+          <person xml:id="angelos" sex="MALE">
+            <persName>Ἄγγελος</persName>
+          </person>
+          <person xml:id="theonoe" sex="FEMALE" ana="http://www.wikidata.org/entity/Q16217794">
+            <persName>Θεονόη</persName>
+          </person>
+          <person xml:id="theoklymenos" sex="MALE" ana="https://www.wikidata.org/wiki/Q3983831">
+            <persName>Θεοκλύμενος</persName>
+          </person>
+          <!-- check in new Loeb edition -->
+          <person xml:id="therapon" sex="MALE">
+            <persName>Θεράπων</persName>
+          </person>
+          <person xml:id="dioskoroi" sex="MALE" ana="https://www.wikidata.org/wiki/Q190103">
+            <persName>Διόσκοροι</persName>
           </person>
         </listPerson>
       </particDesc>

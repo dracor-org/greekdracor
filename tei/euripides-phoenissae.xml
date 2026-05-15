@@ -95,6 +95,10 @@
             <persName>Ἄγγελος</persName>
             <persName xml:lang="en">Messenger</persName>
           </person>
+          <person xml:id="heteros-angelos" sex="MALE">
+            <persName>Ἕτερος Ἄγγελος</persName>
+            <persName xml:lang="en">Another Messenger</persName>
+          </person>
           <person xml:id="oidipous" sex="MALE" ana="http://www.wikidata.org/entity/Q130890">
             <persName>Οἰδίπους</persName>
             <persName xml:lang="en">Oedipus</persName>
@@ -2705,7 +2709,7 @@ bring up to P3
           <milestone ed="p" n="1335" unit="card"/>
         </sp>
         <div2 type="trochees">
-          <sp who="#angelos">
+          <sp who="#heteros-angelos">
             <speaker>Ἄγγελος</speaker>
             <l n="1335" real="-xxo-x---o-x-o-">ὦ τάλας ἐγώ, τίν’ εἴπω μῦθον ἢ τίνας γόους;</l>
           </sp>
@@ -2713,7 +2717,7 @@ bring up to P3
             <speaker>Κρέων</speaker>
             <l real="-o---o---x---o-">οἰχόμεσθ’· οὐκ εὐπροσώποις φροιμίοις ἄρχῃ λόγου.</l>
           </sp>
-          <sp who="#angelos">
+          <sp who="#heteros-angelos">
             <speaker>Ἄγγελος</speaker>
             <l real="-x---xx-oxx-o-xx">ὦ τάλας, δισσῶς ἀυτῶ· μεγάλα γὰρ φέρω κακά.</l>
           </sp>
@@ -2721,7 +2725,7 @@ bring up to P3
             <speaker>Κρέων</speaker>
             <l real="-xxo-x---x-o-ox">πρὸς πεπραγμένοισιν ἄλλοις πήμασιν. λέγεις δὲ τί;</l>
           </sp>
-          <sp who="#angelos">
+          <sp who="#heteros-angelos">
             <speaker>Ἄγγελος</speaker>
             <l real="-o-x-x---o-x-oo">οὐκέτ’ εἰσὶ σῆς ἀδελφῆς παῖδες ἐν φάει, Κρέον.</l>
             <milestone ed="p" n="1340" unit="card"/>
@@ -2744,7 +2748,7 @@ bring up to P3
             <l n="1345" real="---o-xxx-xx">οἴμοι ξυμφορᾶς βαρυποτμωτάτας,</l>
             <l real="--x---o-xxo-">[οἴμοι κακῶν δύστηνος· ὦ τάλας ἐγώ.]</l>
           </sp>
-          <sp who="#angelos">
+          <sp who="#heteros-angelos">
             <speaker>Ἄγγελος</speaker>
             <l real="--x---x---xx">εἰ καὶ τὰ πρὸς τούτοισί γ’ εἰδείης κακά.</l>
           </sp>
@@ -2752,7 +2756,7 @@ bring up to P3
             <speaker>Κρέων</speaker>
             <l real="--o---o-x-ox">καὶ πῶς γένοιτ’ ἂν τῶνδε δυσποτμώτερα;</l>
           </sp>
-          <sp who="#angelos">
+          <sp who="#heteros-angelos">
             <speaker>Ἄγγελος</speaker>
             <l real="x-x---x---ox">τέθνηκ’ ἀδελφὴ σὴ δυοῖν παίδοιν μέτα.</l>
           </sp>
@@ -2770,7 +2774,7 @@ bring up to P3
             <l real="--x---x---oo">πῶς καὶ πέπρακται διπτύχων παίδων φόνος</l>
             <l n="1355" real="x-x---x---o-">ἀρᾶς τ’ ἀγώνισμ’ Οἰδίπου; σήμαινέ μοι.</l>
           </sp>
-          <sp n="Ἄγγελος" who="#angelos">
+          <sp n="Ἄγγελος" who="#heteros-angelos">
             <speaker>Ἄγγελος</speaker>
             <l real="x-o---x-x-oo">τὰ μὲν πρὸ πύργων εὐτυχήματα χθονὸς</l>
             <l real="--x---o-o-x-">οἶσθ’· οὐ μακρὰν γὰρ τειχέων περιπτυχαί.</l>
@@ -2858,7 +2862,7 @@ bring up to P3
             <l real="--xxo-o---oo">τὰς σὰς δ’ ἀρὰς ἔοικεν ἐκπλῆσαι θεός.</l>
           </sp>
           <milestone ed="p" n="1427" unit="card"/>
-          <sp n="Ἄγγελος" who="#angelos">
+          <sp n="Ἄγγελος" who="#heteros-angelos">
             <speaker>Ἄγγελος</speaker>
             <l real="x-o---x---xx">ἄκουε δή νυν καὶ τὰ πρὸς τούτοις κακά.</l>
             <l real="o-x-o-o-o-xo">ἐπεὶ τέκνω πεσόντ’ ἐλειπέτην βίον,</l>

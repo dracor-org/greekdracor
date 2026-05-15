@@ -56,31 +56,40 @@
         <listPerson>
           <person xml:id="dionysos" sex="MALE" ana="http://www.wikidata.org/entity/Q41680">
             <persName>Διόνυσος</persName>
+            <persName xml:lang="en">Dionysus</persName>
           </person>
           <personGrp xml:id="choros" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q209599">
             <name>Χορός</name>
+            <name xml:lang="en">Chorus of Asian Bacchants</name>
           </personGrp>
           <person xml:id="teiresias" sex="MALE" ana="https://www.wikidata.org/wiki/Q656881">
             <persName>Τειρεσίας</persName>
+            <persName xml:lang="en">Teiresias</persName>
           </person>
           <person xml:id="kadmos" sex="MALE" ana="https://www.wikidata.org/wiki/Q27613">
             <persName>Κάδμος</persName>
+            <persName xml:lang="en">Cadmus</persName>
           </person>
           <person xml:id="pentheus" sex="MALE" ana="https://www.wikidata.org/wiki/Q391091">
             <persName>Πενθεύς</persName>
+            <persName xml:lang="en">Pentheus</persName>
           </person>
           <person xml:id="therapon" sex="MALE">
             <persName>Θεράπων</persName>
+            <persName xml:lang="en">Slave</persName>
           </person>
           <person xml:id="angelos" sex="MALE">
             <persName>Ἄγγελος</persName>
+            <persName xml:lang="en">First Messenger</persName>
           </person>
           <person xml:id="angelos_b" sex="MALE">
             <persName>Ἄγγελος Β</persName>
             <persName type="variant">Ἄγγελος</persName>
+            <persName xml:lang="en">Second Messenger</persName>
           </person>
           <person xml:id="agaue" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q381459">
             <persName>Ἀγαύη</persName>
+            <persName xml:lang="en">Agave</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -2059,7 +2068,7 @@ convert to P3
             <speaker>Χορός</speaker>
             <l real="--oxoo---ox">ὦναξ Βρόμιε, θεὸς φαίνῃ μέγας.</l>
           </sp>
-          <sp who="#angelos">
+          <sp who="#angelos_b">
             <speaker>Ἄγγελος</speaker>
             <l real="--x-o-x-x-o-">πῶς φῄς; τί τοῦτ’ ἔλεξας; ἦ ’πὶ τοῖς ἐμοῖς</l>
             <l real="--x---x-o-x-">χαίρεις κακῶς πράσσουσι δεσπόταις, γύναι;</l>

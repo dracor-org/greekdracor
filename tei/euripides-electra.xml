@@ -59,27 +59,35 @@
           <person xml:id="autourgos" sex="MALE">
             <persName>Αὐτουργός</persName>
             <persName type="variant">Αὐτουργός Μυκηναῖος</persName>
+            <persName xml:lang="en">Mycenaean Farmer</persName>
           </person>
           <person xml:id="elektra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131651">
             <persName>Ἠλέκτρα</persName>
+            <persName xml:lang="en">Electra</persName>
           </person>
           <person xml:id="orestes" sex="MALE" ana="http://www.wikidata.org/entity/Q192407">
             <persName>Ὀρέστης</persName>
+            <persName xml:lang="en">Orestes</persName>
           </person>
           <personGrp xml:id="choros" sex="FEMALE">
             <name>Χορός</name>
+            <name xml:lang="en">Chorus of Women</name>
           </personGrp>
           <person xml:id="presbys" sex="MALE">
             <persName>Πρέσβυς</persName>
+            <persName xml:lang="en">Old Man</persName>
           </person>
           <person xml:id="angelos" sex="MALE">
             <persName>Ἄγγελος</persName>
+            <persName xml:lang="en">Messenger</persName>
           </person>
           <person xml:id="klytaimestra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131157">
             <persName>Κλυταιμήστρα</persName>
+            <persName xml:lang="en">Clytaemestra</persName>
           </person>
           <personGrp xml:id="dioskoyroi" sex="MALE" ana="https://www.wikidata.org/wiki/Q190103">
             <name>Διόσκουροι</name>
+            <name xml:lang="en">Dioscures</name>
           </personGrp>
         </listPerson>
       </particDesc>

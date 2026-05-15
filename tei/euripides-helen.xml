@@ -56,34 +56,45 @@
         <listPerson>
           <person xml:id="helene" sex="FEMALE" ana="http://www.wikidata.org/entity/Q164061">
             <persName>Ἑλένη</persName>
+            <persName xml:lang="en">Helen</persName>
           </person>
           <person xml:id="teukros" sex="MALE" ana="http://www.wikidata.org/entity/Q878184">
             <persName>Τεῦκρος</persName>
+            <persName xml:lang="en">Teucer</persName>
           </person>
           <personGrp xml:id="choros" sex="FEMALE">
             <name>Χορός</name>
+            <name xml:lang="en">Chorus of Captive Greek Woman in Egypt</name>
           </personGrp>
           <person xml:id="meneleos" sex="MALE" ana="http://www.wikidata.org/entity/Q171839">
             <persName>Μενελέως</persName>
+            <persName xml:lang="en">Menelaus</persName>
           </person>
           <person xml:id="graus" sex="FEMALE">
             <persName>Γραῦς</persName>
+            <persName xml:lang="en">Old Woman</persName>
           </person>
+          <!-- check in new Loeb edition -->
           <person xml:id="angelos" sex="MALE">
             <persName>Ἄγγελος</persName>
+            <persName xml:lang="en">Messenger</persName>
           </person>
           <person xml:id="theonoe" sex="FEMALE" ana="http://www.wikidata.org/entity/Q16217794">
             <persName>Θεονόη</persName>
+            <persName xml:lang="en">Theonoe</persName>
           </person>
           <person xml:id="theoklymenos" sex="MALE" ana="https://www.wikidata.org/wiki/Q3983831">
             <persName>Θεοκλύμενος</persName>
+            <persName xml:lang="en">Theoclymenus</persName>
           </person>
           <!-- check in new Loeb edition -->
           <person xml:id="therapon" sex="MALE">
             <persName>Θεράπων</persName>
+            <persName xml:lang="en">Slave</persName>
           </person>
           <person xml:id="dioskoroi" sex="MALE" ana="https://www.wikidata.org/wiki/Q190103">
             <persName>Διόσκοροι</persName>
+            <persName xml:lang="en">Dioscures</persName>
           </person>
         </listPerson>
       </particDesc>

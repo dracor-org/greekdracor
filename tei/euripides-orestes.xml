@@ -56,39 +56,51 @@
         <listPerson>
           <person xml:id="elektra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131651">
             <persName>Ἠλέκτρα</persName>
+            <persName xml:lang="en">Electra</persName>
           </person>
           <person xml:id="helene" sex="FEMALE" ana="http://www.wikidata.org/entity/Q164061">
             <persName>Ἑλένη</persName>
+            <persName xml:lang="en">Helen</persName>
           </person>
           <personGrp xml:id="choros" sex="FEMALE">
             <name>Χορός </name>
+            <name xml:lang="en">Chorus of Argive Women</name>
           </personGrp>
           <personGrp xml:id="hemichoros" sex="FEMALE" corresp="#choros">
             <name>Ἡμίχορος</name>
+            <name xml:lang="en">Semi-Chorus</name>
           </personGrp>
           <person xml:id="orestes" sex="MALE" ana="http://www.wikidata.org/entity/Q192407">
             <persName>Ὀρέστης</persName>
+            <persName xml:lang="en">Orestes</persName>
           </person>
           <person xml:id="menelaos" ana="http://www.wikidata.org/entity/Q171839">
             <persName>Μενέλαος</persName>
+            <persName xml:lang="en">Menelaus</persName>
           </person>
           <person xml:id="tyndareos" sex="MALE" ana="http://www.wikidata.org/entity/Q192946">
             <persName>Τυνδάρεως</persName>
+            <persName xml:lang="en">Tyndareus</persName>
           </person>
           <person xml:id="pylades" sex="MALE" ana="http://www.wikidata.org/entity/Q494886">
             <persName>Πυλάδης</persName>
+            <persName xml:lang="en">Pylades</persName>
           </person>
           <person xml:id="angelos" sex="MALE">
             <persName>Ἄγγελος</persName>
+            <persName xml:lang="en">Messenger</persName>
           </person>
           <person xml:id="ermione" sex="FEMALE" ana="http://www.wikidata.org/entity/Q658523">
             <persName>Ἑρμιόνη</persName>
+            <persName xml:lang="en">Hermione</persName>
           </person>
           <person xml:id="phryx" sex="MALE">
             <persName>Φρύξ</persName>
+            <persName xml:lang="en">Phrygian Slave</persName>
           </person>
           <person xml:id="apollon" sex="MALE" ana="http://www.wikidata.org/entity/Q37340">
             <persName>Ἀπόλλων</persName>
+            <persName xml:lang="en">Apollo</persName>
           </person>
         </listPerson>
       </particDesc>

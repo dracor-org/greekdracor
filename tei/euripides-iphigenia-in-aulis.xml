@@ -56,37 +56,44 @@
         <listPerson>
           <person xml:id="agamemnon" sex="MALE" ana="http://www.wikidata.org/entity/Q128176">
             <persName>Ἀγαμέμνων</persName>
+            <persName xml:lang="en">Agamemnon</persName>
           </person>
           <person xml:id="presbytes" sex="MALE">
             <persName>Πρεσβύτης</persName>
+            <persName xml:lang="en">Old Male Slave</persName>
           </person>
           <personGrp xml:id="choros" sex="FEMALE">
             <name>Χορός</name>
+            <name xml:lang="en">Chorus of Euboean Women</name>
           </personGrp>
           <person xml:id="menelaos" sex="MALE" ana="http://www.wikidata.org/entity/Q171839">
             <persName>Μενέλαος</persName>
+            <persName xml:lang="en">Menelaus</persName>
           </person>
           <person xml:id="angelos_a" sex="MALE">
             <persName>Αγγελος Α</persName>
+            <persName xml:lang="en">First Messenger</persName>
           </person>
           <personGrp xml:id="choros-andron-argeion" sex="MALE">
             <name>Χορὸς ανδρων Αργειων</name>
+            <name xml:lang="en">Chorus of Argive Men</name>
           </personGrp>
           <person xml:id="klytaimestra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131157">
             <persName>Κλυταιμήστρα</persName>
+            <persName xml:lang="en">Clytaemestra</persName>
           </person>
-          <personGrp xml:id="choros" sex="FEMALE">
-            <name>Χορός</name>
-          </personGrp>
           <person xml:id="iphigeneia" sex="FEMALE" ana="http://www.wikidata.org/entity/Q192673">
             <persName>Ἰφιγένεια</persName>
+            <persName xml:lang="en">Iphigenia</persName>
           </person>
           <person xml:id="achilleus" sex="MALE" ana="http://www.wikidata.org/entity/Q41746">
             <persName>Ἀχιλλεύς</persName>
+            <persName xml:lang="en">Achilles</persName>
           </person>
           <person xml:id="angelos" sex="MALE">
             <persName>Ἄγγελος</persName>
             <persName type="variant">Ἄγγελος B</persName>
+            <persName xml:lang="en">Second Messenger</persName>
           </person>
         </listPerson>
       </particDesc>

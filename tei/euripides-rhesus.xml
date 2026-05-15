@@ -57,41 +57,53 @@
           <personGrp xml:id="choros" sex="MALE">
             <name>Χορός</name>
             <name type="variant">Χορὸς Φυλακών</name>
+            <name xml:lang="en">Chorus of Trojan Soldiers</name>
           </personGrp>
           <person xml:id="hektor" sex="MALE" ana="http://www.wikidata.org/entity/Q159666">
             <persName>Ἕκτωρ</persName>
+            <persName xml:lang="en">Hector</persName>
           </person>
           <person xml:id="aineias" sex="MALE" ana="http://www.wikidata.org/entity/Q82732">
             <persName>Αἰνείας</persName>
+            <persName xml:lang="en">Aeneas</persName>
           </person>
           <person xml:id="dolon" sex="MALE" ana="http://www.wikidata.org/entity/Q854056">
             <persName>Δόλων</persName>
+            <persName xml:lang="en">Dolon</persName>
           </person>
           <person xml:id="angelos_poimen" sex="MALE">
             <persName>Ἄγγελος</persName>
             <persName type="variant">Ἄγγελος Ποιμήν</persName>
+            <persName xml:lang="en">Messenger (Herdsman)</persName>
           </person>
           <person xml:id="resos" sex="MALE" ana="http://www.wikidata.org/entity/Q1061782">
             <persName>Ῥῆσος</persName>
+            <persName xml:lang="en">Rhesus</persName>
           </person>
           <person xml:id="odysseus" sex="MALE" ana="http://www.wikidata.org/entity/Q47231">
             <persName>Ὀδυσσεύς</persName>
+            <persName xml:lang="en">Odysseus</persName>
           </person>
           <person xml:id="diomedes" sex="MALE" ana="http://www.wikidata.org/entity/Q208256">
             <persName>Διομήδης</persName>
+            <persName xml:lang="en">Diomedes</persName>
           </person>
           <person xml:id="athena" sex="FEMALE" ana="http://www.wikidata.org/entity/Q37122">
             <persName>Ἀθήνα</persName>
+            <persName xml:lang="en">Athena</persName>
           </person>
           <person xml:id="alexandros" sex="MALE" ana="http://www.wikidata.org/entity/Q167646">
             <persName>Ἀλέξανδρος</persName>
             <persName type="variant">Πάρις</persName>
+            <persName xml:lang="en">Alexandros (Paris)</persName>
           </person>
           <person xml:id="heniochos" sex="MALE">
             <persName>Ἡνίοχος</persName>
+            <persName xml:lang="en">Charioteer</persName>
           </person>
           <person xml:id="mousa" sex="FEMALE" ana="http://www.wikidata.org/entity/Q66016">
             <persName>Μοῦσα</persName>
+            <persName xml:lang="en">Muse</persName>
           </person>
         </listPerson>
       </particDesc>

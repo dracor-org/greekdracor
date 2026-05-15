@@ -66,9 +66,13 @@
             <name>Χορός </name>
             <name xml:lang="en">Chorus of Argive Women</name>
           </personGrp>
-          <personGrp xml:id="hemichoros" sex="FEMALE" corresp="#choros">
-            <name>Ἡμίχορος</name>
-            <name xml:lang="en">Semi-Chorus</name>
+          <personGrp xml:id="hemichoros-a" sex="FEMALE" corresp="#choros">
+            <name>Ἡμίχορος A</name>
+            <name xml:lang="en">First Semi-Chorus</name>
+          </personGrp>
+          <personGrp xml:id="hemichoros-b" sex="FEMALE" corresp="#choros">
+            <name>Ἡμίχορος B</name>
+            <name xml:lang="en">Second Semi-Chorus</name>
           </personGrp>
           <person xml:id="orestes" sex="MALE" ana="http://www.wikidata.org/entity/Q192407">
             <persName>Ὀρέστης</persName>
@@ -2786,12 +2790,12 @@ bring up to P3
             <l real="x-ox-xo-x">σταθεὶς ἐπὶ φοίνιον αἷμα</l>
             <l real="-xx-xx---">πήματα πήμασιν ἐξεύρῃ.</l>
           </sp>
-          <sp who="#hemichoros">
+          <sp who="#hemichoros-a">
             <speaker>Ἡμίχορος</speaker>
             <l real="--o---o-o-xo">χωρεῖτ’, ἐπειγώμεσθ’· ἐγὼ μὲν οὖν τρίβον</l>
             <l real="--x---o-x-ox">τόνδ’ ἐκφυλάξω, τὸν πρὸς ἡλίου βολάς.</l>
           </sp>
-          <sp who="#hemichoros">
+          <sp who="#hemichoros-b">
             <speaker>Ἡμίχορος</speaker>
             <l n="1260" real="--o---o-o-o-">καὶ μὴν ἐγὼ τόνδ’, ὃς πρὸς ἑσπέραν φέρει.</l>
           </sp>
@@ -2812,7 +2816,7 @@ bring up to P3
             <l real="o-oo-oxx">ἑλίσσετέ νυν βλέφαρα,</l>
             <l real="o-xxoo-xxx-x-">κόραισι δίδοτε πάντα διὰ βοστρύχων.</l>
           </sp>
-          <sp who="#hemichoros">
+          <sp who="#hemichoros-a">
             <speaker>Ἡμίχορος</speaker>
             <l n="1269" real="oox-x-o-o-xoxx">ὅδε τις ἐν τρίβῳ [προσέρχεται]. τίς ὅδ’ ἄρ’ ἀμ‐</l>
             <l n="1270" real="xox-o-oxoxx-">φὶ μέλαθρον πολεῖ σὸν ἀγρότας ἀνήρ;</l>
@@ -2822,7 +2826,7 @@ bring up to P3
             <l real="x-o-x-x-x-o-">ἀπωλόμεσθ’ ἄρ’, ὦ φίλαι· κεκρυμμένους</l>
             <l real="--x---x---x-">θῆρας ξιφήρεις αὐτίκ’ ἐχθροῖσιν φανεῖ.</l>
           </sp>
-          <sp who="#hemichoros">
+          <sp who="#hemichoros-a">
             <speaker>Ἡμίχορος</speaker>
             <l real="xoooooo-xx">ἄφοβος ἔχε· κενός, ὦ φίλα,</l>
             <l real="xoo-o-">στίβος ὃν οὐ δοκεῖς.</l>
@@ -2833,12 +2837,12 @@ bring up to P3
             <l real="o-oxxxx-x">δὸς ἀγγελίαν ἀγαθάν τιν’,</l>
             <l real="-xo-xx---">εἰ τάδ’ ἔρημα τὰ πρόσθ’ αὐλᾶς.</l>
           </sp>
-          <sp who="#hemichoros">
+          <sp who="#hemichoros-b">
             <speaker>Ἡμίχορος</speaker>
             <l real="x-x---xxx-o-">καλῶς τά γ’ ἐνθένδ’. ἀλλὰ τἀπὶ σοῦ σκόπει·</l>
             <l real="--x--xxx-o-o-">ὡς οὔτις ἡμῖν Δαναϊδῶν πελάζεται.</l>
           </sp>
-          <sp who="#hemichoros">
+          <sp who="#hemichoros-a">
             <speaker>Ἡμίχορος</speaker>
             <l n="1280" real="--o---x-o-xo">ἐς ταὐτὸν ἥκεις· καὶ γὰρ οὐδὲ τῇδ’ ὄχλος.</l>
           </sp>

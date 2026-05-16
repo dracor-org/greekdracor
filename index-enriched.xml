@@ -1282,6 +1282,7 @@
             </person>
             <person xml:id="lampito" sex="FEMALE" role="uxor">
                <persName>Λαμπιτῶ</persName>
+               <persName type="variant">Λαμπιτώ</persName>
                <persName xml:lang="en">Lampito</persName>
             </person>
             <personGrp xml:id="choros" sex="UNKNOWN" role="chorus">
@@ -1294,6 +1295,7 @@
                        role="semichorus senex"
                        corresp="#choros">
                <name>Χορὸς Γερόντων</name>
+               <name type="variant">Χορὸς γερόντων</name>
                <name xml:lang="en">Chorus of Old Athenian Men</name>
             </personGrp>
             <personGrp xml:id="choros-gynaikon"
@@ -1347,6 +1349,7 @@
             </person>
             <person xml:id="geron" sex="MALE" role="senex">
                <persName>Γέρων</persName>
+               <persName type="variant">γέρων</persName>
                <persName xml:lang="en">An Old Man</persName>
             </person>
             <person xml:id="athenaios" sex="MALE" role="legatus">
@@ -1713,6 +1716,7 @@
                        ana="http://www.wikidata.org/entity/Q724907">
                <name>Χορὸς Δαναΐδων</name>
                <name type="variant">Χορός</name>
+               <name type="variant">Χορός Δαναΐδων</name>
                <name xml:lang="en">Chorus of the Daughters of Danaus</name>
                <name type="variant">[Χορός]</name>
                <name type="variant">&lt;Χορός &gt;</name>
@@ -1743,6 +1747,7 @@
             </person>
             <personGrp xml:id="choros-therapainon" sex="FEMALE" role="chorus ancilla">
                <name>Χορὸς Θεραπαινῶν</name>
+               <name type="variant">Χορός Θεραπαινῶν</name>
                <name xml:lang="en">Chorus of Handmaidens</name>
                <name type="variant">&lt;Χορός Θεραπαινῶν&gt;</name>
                <name type="variant">&lt;Χορός&gt;</name>

@@ -58,6 +58,7 @@
           <personGrp xml:id="choros-danaidon" sex="FEMALE" role="chorus" ana="http://www.wikidata.org/entity/Q724907">
             <name>Χορὸς Δαναΐδων</name>
             <name type="variant">Χορός</name>
+            <name type="variant">Χορός Δαναΐδων</name>
             <name xml:lang="en">Chorus of the Daughters of Danaus</name>
           </personGrp>
           <person xml:id="danaos" role="rex pater" sex="MALE" ana="http://www.wikidata.org/entity/Q210883">
@@ -75,6 +76,7 @@
           </person>
           <personGrp xml:id="choros-therapainon" sex="FEMALE" role="chorus ancilla">
             <name>Χορὸς Θεραπαινῶν</name>
+            <name type="variant">Χορός Θεραπαινῶν</name>
             <name xml:lang="en">Chorus of Handmaidens</name>
           </personGrp>
           <person xml:id="danais" sex="FEMALE" role="filia" ana="http://www.wikidata.org/entity/Q724907" corresp="#choros-danaidon">

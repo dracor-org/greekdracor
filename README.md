@@ -59,5 +59,5 @@ saxon -s:index.xml -xsl:extract-metadata.xsl -o:index-enriched.xml
 # create output directory
 mkdir -f reboot
 # transform
-rm -v reboot/*.xml && saxon -s:index-enriched.xml -xsl:perseus2dracor.xsl
+rm -v reboot/*.xml && saxon -s:index-enriched.xml -xsl:perseus2dracor.xsl perseus-sha=$(git -C perseusdl rev-parse HEAD)
 ```

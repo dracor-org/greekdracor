@@ -79,7 +79,10 @@
               <profileDesc>
                 <xsl:copy-of select="tei:particDesc"/>
               </profileDesc>
-              <xsl:copy-of select="$src//tei:revisionDesc"/>
+              <revisionDesc>
+                <change when="{format-date(current-date(), '[Y0001]-[M01]-[D01]')}">Transformed into DraCor TEI</change>
+                <xsl:copy-of select="$src//tei:revisionDesc/tei:change"/>
+              </revisionDesc>
             </teiHeader>
             <xsl:apply-templates select="$src//tei:text" mode="text">
               <xsl:with-param name="particDesc" select="tei:particDesc"

@@ -4,7 +4,7 @@
   the Perseus Digital Library and adds Wikidata IDs where available.
   It also determines the filenames for the new GreekDraCor files.
 -->
-<ids>
+<index>
   <play id="greek000001" source="tlg0006/tlg017/tlg0006.tlg017.perseus-grc2.xml" slug="euripides-bacchae" wikidata="Q934597"/>
   <play id="greek000002" source="tlg0006/tlg013/tlg0006.tlg013.perseus-grc2.xml" slug="euripides-iphigenia-in-tauris" wikidata="Q523227"/>
   <play id="greek000003" source="tlg0006/tlg007/tlg0006.tlg007.perseus-grc2.xml" slug="euripides-hecuba" wikidata="Q1115611"/>
@@ -53,4 +53,4 @@
   <play id="greek000044" source="tlg0006/tlg004/tlg0006.tlg004.perseus-grc2.xml" slug="euripides-children-of-heracles" wikidata="Q1233203"/>
   <play id="greek000045" source="tlg0006/tlg005/tlg0006.tlg005.perseus-grc2.xml" slug="euripides-hippolytus" wikidata="Q375786"/>
   <play id="greek000046" source="tlg0006/tlg006/tlg0006.tlg006.perseus-grc2.xml" slug="euripides-andromache" wikidata="Q512802"/>
-</ids>
+</index>

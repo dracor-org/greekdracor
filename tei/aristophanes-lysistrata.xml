@@ -75,6 +75,7 @@
           </person>
           <person xml:id="lampito" sex="FEMALE" role="uxor">
             <persName>Λαμπιτῶ</persName>
+            <persName type="variant">Λαμπιτώ</persName>
             <persName xml:lang="en">Lampito</persName>
           </person>
           <personGrp xml:id="choros" sex="UNKNOWN" role="chorus">
@@ -84,6 +85,7 @@
           </personGrp>
           <personGrp xml:id="choros-geronton" sex="MALE" role="semichorus senex" corresp="#choros">
             <name>Χορὸς Γερόντων</name>
+            <name type="variant">Χορὸς γερόντων</name>
             <name xml:lang="en">Chorus of Old Athenian Men</name>
           </personGrp>
           <personGrp xml:id="choros-gynaikon" sex="FEMALE" role="semichorus uxor" corresp="#choros">
@@ -132,6 +134,7 @@
           </person>
           <person xml:id="geron" sex="MALE" role="senex">
             <persName>Γέρων</persName>
+            <persName type="variant">γέρων</persName>
             <persName xml:lang="en">An Old Man</persName>
           </person>
           <person xml:id="athenaios" sex="MALE" role="legatus">

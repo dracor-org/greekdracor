@@ -50,3 +50,14 @@ The [Greek Drama](https://www.perseus.tufts.edu/hopper/collection?collection=Per
   * Alcestis. Andromache. Cyclops. Heracleidae. Hippolytus. Medea.
 
 These plays are not in the downloadable set of Greek plays. We are ready to add them to the Greek Drama Corpus as soon as the copyright situation is clarified.
+
+## Generate from Perseus Files
+
+```sh
+# update index with metadata from old source files
+saxon -s:index.xml -xsl:extract-metadata.xsl -o:index-enriched.xml
+# create output directory
+mkdir -f reboot
+# transform
+rm -v reboot/*.xml && saxon -s:index-enriched.xml -xsl:perseus2dracor.xsl
+```

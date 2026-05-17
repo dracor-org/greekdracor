@@ -118,7 +118,7 @@
             <persName>Κινησίας</persName>
             <persName xml:lang="en">Cinesias</persName>
           </person>
-          <person xml:id="pais_kinesiou" sex="UNKNOWN" role="filius filia">
+          <person xml:id="pais-kinesiou" sex="UNKNOWN" role="filius filia">
             <persName>Παῖς Κινησίου</persName>
             <persName xml:lang="en">Child of Cinesias</persName>
           </person>
@@ -152,7 +152,7 @@
           </personGrp>
           <listRelation>
             <relation name="spouses" mutual="#myrrine #kinesias"/>
-            <relation name="parent_of" active="#myrrine #kinesias" passive="#pais_kinesiou"/>
+            <relation name="parent_of" active="#myrrine #kinesias" passive="#pais-kinesiou"/>
           </listRelation>
         </listPerson>
       </particDesc>
@@ -2533,7 +2533,7 @@ bring up to P3
           <l part="Y" real="---x---x-">μὴ δῆτ’, ἀλλὰ τῷ γοῦν παιδίῳ</l>
           <l real="xx-o-o-x---xx">ὑπάκουσον· οὗτος οὐ καλεῖς τὴν μαμμίαν;</l>
         </sp>
-        <sp who="#pais_kinesiou">
+        <sp who="#pais-kinesiou">
           <speaker>Παῖς Κινησίου</speaker>
           <l real="-xx-xx-xx">μαμμία, μαμμία, μαμμία.</l>
         </sp>

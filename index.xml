@@ -5,6 +5,8 @@
   It also determines the filenames for the new GreekDraCor files.
 -->
 <ids>
+  <play id="greek000001" source="tlg0006/tlg017/tlg0006.tlg017.perseus-grc2.xml" slug="euripides-bacchae" wikidata="Q934597"/>
+  <play id="greek000002" source="tlg0006/tlg013/tlg0006.tlg013.perseus-grc2.xml" slug="euripides-iphigenia-in-tauris" wikidata="Q523227"/>
   <play id="greek000003" source="tlg0006/tlg007/tlg0006.tlg007.perseus-grc2.xml" slug="euripides-hecuba" wikidata="Q1115611"/>
   <play id="greek000004" source="tlg0085/tlg007/tlg0085.tlg007.perseus-grc2.xml" slug="aeschylus-eumenides" wikidata="Q1233164"/>
   <play id="greek000005" source="tlg0085/tlg004/tlg0085.tlg004.perseus-grc2.xml" slug="aeschylus-seven-against-thebes" wikidata="Q506546"/>

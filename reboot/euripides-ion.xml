@@ -29,7 +29,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/7c0b38536878e7719915faeb33715f4764eb89b5/data/tlg0006/tlg010/tlg0006.tlg010.perseus-grc2.xml">Perseus Digital Library</ref>
+               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/9aba817233190bc527fccd72730dc0ec1671fcec/data/tlg0006/tlg010/tlg0006.tlg010.perseus-grc2.xml">Perseus Digital Library</ref>
                <availability>
                   <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                         CC BY-SA 4.0
@@ -115,7 +115,7 @@
          </particDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-05-16">Transformed into DraCor TEI</change>
+         <change when="2026-05-19">Transformed into DraCor TEI</change>
          <change when="2020-01-17" who="Lisa Cerrato">EpiDoc and CTS conversion</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>
          <change when="2013-06-13" who="gcrane">tagging now should be compatible with CTS</change>
@@ -155,7 +155,7 @@
                <p>Χορός ἐκ Θεραπαινίδων Κρεούσης</p>
                <p>Κρέουσα</p>
                <p>Ξοῦθος</p>
-               <p>Πρεσβύτη</p>
+               <p>Πρεσβύτης</p>
                <p>Θεράπων Κρεούσης</p>
                <p>Πύθια ἤτοι Προφῆτις</p>
                <p>Ἀθήνα</p>

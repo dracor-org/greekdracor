@@ -5,6 +5,160 @@
   It also determines the filenames for the new GreekDraCor files.
 -->
 <index>
+   <play id="greek000001"
+         source="tlg0006/tlg017/tlg0006.tlg017.perseus-grc2.xml"
+         slug="euripides-bacchae"
+         wikidata="Q934597">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Βάκχαι</title>
+         <title xml:lang="la">Bacchae</title>
+         <title xml:lang="en">Bacchae</title>
+         <title type="short">Bacch.</title>
+         <author>
+            <persName>Εὐριπίδης</persName>
+            <persName xml:lang="la">Euripides</persName>
+            <persName xml:lang="en">Euripides</persName>
+            <idno type="wikidata">Q48305</idno>
+         </author>
+         <editor>
+            <persName>Gilbert Murray</persName>
+            <idno type="wikidata">Q538478</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" notBefore="-0405">
+            <label>after 406 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Euripides. In: DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0087.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="dionysos"
+                    sex="MALE"
+                    ana="http://www.wikidata.org/entity/Q41680">
+               <persName>Διόνυσος</persName>
+               <persName xml:lang="en">Dionysus</persName>
+               <persName type="variant">Διονυσος</persName>
+            </person>
+            <personGrp xml:id="choros"
+                       sex="FEMALE"
+                       ana="https://www.wikidata.org/wiki/Q209599">
+               <name>Χορός</name>
+               <name xml:lang="en">Chorus of Asian Bacchants</name>
+            </personGrp>
+            <person xml:id="teiresias"
+                    sex="MALE"
+                    ana="https://www.wikidata.org/wiki/Q656881">
+               <persName>Τειρεσίας</persName>
+               <persName xml:lang="en">Teiresias</persName>
+            </person>
+            <person xml:id="kadmos"
+                    sex="MALE"
+                    ana="https://www.wikidata.org/wiki/Q27613">
+               <persName>Κάδμος</persName>
+               <persName xml:lang="en">Cadmus</persName>
+            </person>
+            <person xml:id="pentheus"
+                    sex="MALE"
+                    ana="https://www.wikidata.org/wiki/Q391091">
+               <persName>Πενθεύς</persName>
+               <persName xml:lang="en">Pentheus</persName>
+            </person>
+            <person xml:id="therapon" sex="MALE">
+               <persName>Θεράπων</persName>
+               <persName xml:lang="en">Slave</persName>
+            </person>
+            <person xml:id="angelos" sex="MALE">
+               <persName>Ἄγγελος</persName>
+               <persName xml:lang="en">First Messenger</persName>
+            </person>
+            <person xml:id="angelos-b" sex="MALE">
+               <persName>Ἄγγελος Β</persName>
+               <persName type="variant">Ἄγγελος</persName>
+               <persName xml:lang="en">Second Messenger</persName>
+            </person>
+            <person xml:id="agaue"
+                    sex="FEMALE"
+                    ana="https://www.wikidata.org/wiki/Q381459">
+               <persName>Ἀγαύη</persName>
+               <persName xml:lang="en">Agave</persName>
+            </person>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000002"
+         source="tlg0006/tlg013/tlg0006.tlg013.perseus-grc2.xml"
+         slug="euripides-iphigenia-in-tauris"
+         wikidata="Q523227">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Ἰφιγένεια ἐν Ταύροις</title>
+         <title xml:lang="la">Iphigenia Taurica</title>
+         <title xml:lang="en">Iphigenia in Tauris</title>
+         <title type="short">Iph. T.</title>
+         <author>
+            <persName>Εὐριπίδης</persName>
+            <persName xml:lang="la">Euripides</persName>
+            <persName xml:lang="en">Euripides</persName>
+            <idno type="wikidata">Q48305</idno>
+         </author>
+         <editor>
+            <persName>Gilbert Murray</persName>
+            <idno type="wikidata">Q538478</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" when="-0414">
+            <label>414 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Euripides. In: DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0087.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="iphigeneia"
+                    sex="FEMALE"
+                    ana="http://www.wikidata.org/entity/Q192673">
+               <persName>Ἰφιγένεια</persName>
+               <persName xml:lang="en">Iphigenia</persName>
+            </person>
+            <person xml:id="orestes"
+                    sex="MALE"
+                    ana="http://www.wikidata.org/entity/Q192407">
+               <persName>Ὀρέστης</persName>
+               <persName xml:lang="en">Orestes</persName>
+            </person>
+            <person xml:id="pylades"
+                    sex="MALE"
+                    ana="http://www.wikidata.org/entity/Q494886">
+               <persName>Πυλάδης</persName>
+               <persName xml:lang="en">Pylades</persName>
+            </person>
+            <personGrp xml:id="choros" sex="FEMALE">
+               <name>Χορός</name>
+               <name xml:lang="en">Chorus of Greek Female Slaves</name>
+            </personGrp>
+            <person xml:id="boukolos" sex="MALE">
+               <persName>Βουκόλος</persName>
+               <persName xml:lang="en">Herdsman</persName>
+            </person>
+            <person xml:id="thoas"
+                    sex="MALE"
+                    ana="https://www.wikidata.org/wiki/Q1246185">
+               <persName>Θόας</persName>
+               <persName xml:lang="en">Thoas</persName>
+            </person>
+            <person xml:id="angelos" sex="MALE">
+               <persName>Ἄγγελος</persName>
+               <persName xml:lang="en">Messenger</persName>
+            </person>
+            <person xml:id="athena"
+                    sex="FEMALE"
+                    ana="http://www.wikidata.org/entity/Q37122">
+               <persName>Ἀθήνα</persName>
+               <persName xml:lang="en">Athena</persName>
+            </person>
+         </listPerson>
+      </particDesc>
+   </play>
    <play id="greek000003"
          source="tlg0006/tlg007/tlg0006.tlg007.perseus-grc2.xml"
          slug="euripides-hecuba"
@@ -607,15 +761,15 @@
                <name type="variant">Χορὸς Θεσμοφοριαζουσῶν</name>
                <name xml:lang="en">Chorus of Women celebrating the Thesmophoria</name>
             </personGrp>
-            <person xml:id="gyne_a" sex="FEMALE" role="uxor">
+            <person xml:id="gyne-a" sex="FEMALE" role="uxor">
                <persName>Γυνὴ Α</persName>
                <persName xml:lang="en">First Woman</persName>
             </person>
-            <person xml:id="gyne_b" sex="FEMALE" role="uxor">
+            <person xml:id="gyne-b" sex="FEMALE" role="uxor">
                <persName>Γυνὴ Β</persName>
                <persName xml:lang="en">Second Woman</persName>
             </person>
-            <person xml:id="gyne_g" sex="FEMALE" role="uxor">
+            <person xml:id="gyne-g" sex="FEMALE" role="uxor">
                <persName>Γυνὴ Γ</persName>
                <persName xml:lang="en">Third Woman</persName>
             </person>
@@ -1335,7 +1489,7 @@
                <persName>Κινησίας</persName>
                <persName xml:lang="en">Cinesias</persName>
             </person>
-            <person xml:id="pais_kinesiou" sex="UNKNOWN" role="filius filia">
+            <person xml:id="pais-kinesiou" sex="UNKNOWN" role="filius filia">
                <persName>Παῖς Κινησίου</persName>
                <persName xml:lang="en">Child of Cinesias</persName>
             </person>
@@ -1374,7 +1528,7 @@
                <relation name="spouses" mutual="#myrrine #kinesias"/>
                <relation name="parent_of"
                          active="#myrrine #kinesias"
-                         passive="#pais_kinesiou"/>
+                         passive="#pais-kinesiou"/>
             </listRelation>
          </listPerson>
       </particDesc>
@@ -1443,7 +1597,7 @@
                <persName>Χάρων</persName>
                <persName xml:lang="en">Charon</persName>
             </person>
-            <personGrp xml:id="batraxoi" sex="UNKNOWN" role="chorus rana">
+            <personGrp xml:id="batrachoi" sex="UNKNOWN" role="chorus rana">
                <name>Βάτραχοι</name>
                <name type="variant">Παραχορήγημα βατράχων</name>
                <name xml:lang="en">Secondary Chorus of Frogs</name>
@@ -1734,10 +1888,10 @@
                     role="rex"
                     sex="MALE"
                     ana="http://www.wikidata.org/entity/Q1636827">
-               <persName>βασιλεύς</persName>
-               <persName type="variant">βασιλεύς Ἀργεΐων</persName>
+               <persName>Βασιλεύς</persName>
+               <persName type="variant">Βασιλεύς Ἀργεΐων</persName>
                <persName xml:lang="en">Pelasgus, King of Argus</persName>
-               <persName type="variant">Βασιλεύς</persName>
+               <persName type="variant">βασιλεύς</persName>
                <persName type="variant">&lt;Βασιλεύς&gt;</persName>
             </person>
             <person xml:id="keryx" sex="MALE" role="praeco">
@@ -2089,8 +2243,8 @@
             <personGrp xml:id="choros" sex="FEMALE" role="chorus virgo">
                <name>Χορός</name>
                <name type="variant">Χορὸς Παρθενών Τραχινίων</name>
-               <name type="variant">Ἡμιχόριον</name>
                <name xml:lang="en">Chorus of Trachinian Maidens</name>
+               <name type="variant">Ἡμιχόριον</name>
             </personGrp>
             <personGrp xml:id="hemichorion-1"
                        sex="FEMALE"
@@ -2364,10 +2518,10 @@
                <persName xml:lang="en">Third Woman</persName>
             </person>
             <personGrp xml:id="choros" sex="FEMALE" role="chorus uxor">
-               <name>Χορὸς</name>
+               <name>Χορός</name>
                <name type="variant">Χορὸς γυναικῶν</name>
                <name xml:lang="en">Chorus of Athenian Women</name>
-               <name type="variant">Χορός</name>
+               <name type="variant">Χορὸς</name>
             </personGrp>
             <person xml:id="blepyros" sex="MALE" role="maritus">
                <persName>Βλέπυρος</persName>
@@ -2634,9 +2788,8 @@
             <person xml:id="antigone"
                     sex="FEMALE"
                     ana="http://www.wikidata.org/entity/Q131351">
-               <persName>Ἄντιγόνη</persName>
+               <persName>Ἀντιγόνη</persName>
                <persName xml:lang="en">Antigone</persName>
-               <persName type="variant">Ἀντιγόνη</persName>
                <persName type="variant">[Ἀντιγόνη ]</persName>
             </person>
             <personGrp xml:id="choros" sex="UNKNOWN">

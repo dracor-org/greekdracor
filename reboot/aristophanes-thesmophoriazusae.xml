@@ -33,7 +33,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/7c0b38536878e7719915faeb33715f4764eb89b5/data/tlg0019/tlg008/tlg0019.tlg008.perseus-grc2.xml">Perseus Digital Library</ref>
+               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/9aba817233190bc527fccd72730dc0ec1671fcec/data/tlg0019/tlg008/tlg0019.tlg008.perseus-grc2.xml">Perseus Digital Library</ref>
                <availability>
                   <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                         CC BY-SA 4.0
@@ -98,15 +98,15 @@
                   <name type="variant">Χορὸς Θεσμοφοριαζουσῶν</name>
                   <name xml:lang="en">Chorus of Women celebrating the Thesmophoria</name>
                </personGrp>
-               <person xml:id="gyne_a" sex="FEMALE" role="uxor">
+               <person xml:id="gyne-a" sex="FEMALE" role="uxor">
                   <persName>Γυνὴ Α</persName>
                   <persName xml:lang="en">First Woman</persName>
                </person>
-               <person xml:id="gyne_b" sex="FEMALE" role="uxor">
+               <person xml:id="gyne-b" sex="FEMALE" role="uxor">
                   <persName>Γυνὴ Β</persName>
                   <persName xml:lang="en">Second Woman</persName>
                </person>
-               <person xml:id="gyne_g" sex="FEMALE" role="uxor">
+               <person xml:id="gyne-g" sex="FEMALE" role="uxor">
                   <persName>Γυνὴ Γ</persName>
                   <persName xml:lang="en">Third Woman</persName>
                </person>
@@ -139,7 +139,7 @@
          </particDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-05-16">Transformed into DraCor TEI</change>
+         <change when="2026-05-19">Transformed into DraCor TEI</change>
          <change when="2023-03-13" who="Lisa Cerrato">EpiDoc and CTS updates: header compliance and line numbering verification; header fixes; restore change log; deal with broken lines; said to speaker</change>
          <change when="2018-05-12" who="Aurélien Berra">Test full compliance with CapiTainS CTS via HookTest and revise file: harmonise language @ident to grc and lat, de-duplicate lines where needed adding letters to numbers in @n, fix Latin content in some bibl tags erroneously in Greek, update EpiDoc schema metadata.</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>
@@ -1657,7 +1657,7 @@
                      n="379b"
                      part="F">ἡμῖν ἁπάσαις. τίς ἀγορεύειν βούλεται;</l>
                </sp>
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                      n="380"
@@ -1674,7 +1674,7 @@
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="381">σίγα σιώπα, πρόσεχε τὸν νοῦν· χρέμπτεται γὰρ ἤδη</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="382">ὅπερ ποιοῦσʼ οἱ ῥήτορες. μακρὰν ἔοικε λέξειν.</l>
                </sp>
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="383">φιλοτιμίᾳ μὲν οὐδεμιᾷ μὰ τὼ θεὼ</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="384">λέξουσʼ ἀνέστην ὦ γυναῖκες· ἀλλὰ γὰρ</l>
@@ -1777,7 +1777,7 @@
  </l>
                   </sp>
                   <milestone ed="p" n="443" unit="card"/>
-                  <sp who="#gyne_b">
+                  <sp who="#gyne-b">
                      <speaker>Γυνὴ Β</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="443">ὀλίγων ἕνεκα καὐτὴ παρῆλθον ῥημάτων.</l>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="444">τὰ μὲν γὰρ ἄλλʼ αὕτη κατηγόρηκεν εὖ·</l>
@@ -1962,7 +1962,7 @@
                </div>
                <milestone ed="p" n="533" unit="card"/>
                <div type="textpart" subtype="epirrheme">
-                  <sp who="#gyne_a">
+                  <sp who="#gyne-a">
                      <speaker>Γυνὴ Α</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="533">οὔ τοι μὰ τὴν Ἄγλαυρον ὦ γυναῖκες εὖ φρονεῖτε,</l>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="534">ἀλλʼ ἢ πεφάρμαχθʼ ἢ κακόν τι μέγα πεπόνθατʼ ἄλλο,</l>
@@ -1979,7 +1979,7 @@
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="542">εἶτʼ εἶπον ἁγίγνωσκον ὑπὲρ Εὐριπίδου δίκαια,</l>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="543">διὰ τοῦτο τιλλομένην με δεῖ δοῦναι δίκην ὑφʼ ὑμῶν;</l>
                   </sp>
-                  <sp who="#gyne_a">
+                  <sp who="#gyne-a">
                      <speaker>Γυνὴ Α</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="544">οὐ γάρ σε δεῖ δοῦναι δίκην; ἥτις μόνη τέτληκας</l>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="545">ὑπὲρ ἀνδρὸς ἀντειπεῖν, ὃς ἡμᾶς πολλὰ κακὰ δέδρακεν</l>
@@ -1992,7 +1992,7 @@
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="549">ἐγὼ γὰρ οἶδα ταἴτιον. Μίαν γὰρ οὐκ ἂν εἴποις</l>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="550">τῶν νῦν γυναικῶν Πηνελόπην, Παίδρας δʼ ἁπαξαπάσας.</l>
                   </sp>
-                  <sp who="#gyne_a">
+                  <sp who="#gyne-a">
                      <speaker>Γυνὴ Α</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="551">ἀκούετʼ ὦ γυναῖκες οἷʼ εἴρηκεν ἡ πανοῦργος</l>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
@@ -2006,7 +2006,7 @@
                         part="F">καὶ νὴ Δίʼ οὐδέπω γε</l>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="553">εἴρηχʼ ὅσα ξύνοιδʼ· ἐπεὶ βούλεσθε πλείονʼ εἴπω;</l>
                   </sp>
-                  <sp who="#gyne_a">
+                  <sp who="#gyne-a">
                      <speaker>Γυνὴ Α</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="554">ἀλλʼ οὐκ ἂν ἔτʼ ἔχοις· ὅσα γὰρ ᾔδησθʼ ἐξέχεας ἅπαντα.</l>
                   </sp>
@@ -2018,7 +2018,7 @@
                         n="557"
                         part="I">ἔπειτα σιφωνίζομεν τὸν οἶνον.</l>
                   </sp>
-                  <sp who="#gyne_a">
+                  <sp who="#gyne-a">
                      <speaker>Γυνὴ Α</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                         n="557b"
@@ -2031,7 +2031,7 @@
                         n="559"
                         part="I">ἔπειτα τὴν γαλῆν φαμεν—</l>
                   </sp>
-                  <sp who="#gyne_a">
+                  <sp who="#gyne-a">
                      <speaker>Γυνὴ Α</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                         n="559b"
@@ -2045,7 +2045,7 @@
                         n="562"
                         part="I">οὐδʼ ὡς ὑπὸ τῇ πυέλῳ κατώρυξέν ποτʼ—</l>
                   </sp>
-                  <sp who="#gyne_a">
+                  <sp who="#gyne-a">
                      <speaker>Γυνὴ Α</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                         n="562b"
@@ -2057,7 +2057,7 @@
                         n="563"
                         part="I">ἁχαρνικὴ τὸν πατέρα.</l>
                   </sp>
-                  <sp who="#gyne_a">
+                  <sp who="#gyne-a">
                      <speaker>Γυνὴ Α</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                         n="563b"
@@ -2068,7 +2068,7 @@
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="564">οὐδʼ ὡς σὺ τῆς δούλης τεκούσης ἄρρεν εἶτα σαυτῇ</l>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="565">τοῦθʼ ὑπεβάλου, τὸ σὸν δὲ θυγάτριον παρῆκας αὐτῇ.</l>
                   </sp>
-                  <sp who="#gyne_a">
+                  <sp who="#gyne-a">
                      <speaker>Γυνὴ Α</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="566">οὔ τοι μὰ τὼ θεὼ σὺ καταπροίξει λέγουσα ταυτί,</l>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
@@ -2081,7 +2081,7 @@
                         n="567b"
                         part="F">οὐ δὴ μὰ Δία σύ γʼ ἅψει.</l>
                   </sp>
-                  <sp who="#gyne_a">
+                  <sp who="#gyne-a">
                      <speaker>Γυνὴ Α</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                         n="568"
@@ -2093,7 +2093,7 @@
                         n="568b"
                         part="M">καὶ μὴν ἰδού.</l>
                   </sp>
-                  <sp who="#gyne_a">
+                  <sp who="#gyne-a">
                      <speaker>Γυνὴ Α</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                         n="568c"
@@ -2105,7 +2105,7 @@
                         n="569"
                         part="I">πρόσθες μόνον, κἀγώ σε νὴ τὴν Ἄρτεμιν—</l>
                   </sp>
-                  <sp who="#gyne_a">
+                  <sp who="#gyne-a">
                      <speaker>Γυνὴ Α</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                         n="569b"
@@ -2208,7 +2208,7 @@
                      n="604b"
                      part="F">κακοδαίμων ἐγώ.</l>
                </sp>
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="605">ἔμʼ ἥτις <add>εἴμʼ</add> ἤρου; Κλεωνύμου γυνή.</l>
                </sp>
@@ -2227,7 +2227,7 @@
                      n="609"
                      part="I">ἔχουσα;</l>
                </sp>
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                      n="609b"
@@ -2352,7 +2352,7 @@
                      part="F">οἴμοι τάλας, οὐδὲν λέγεις.</l>
                </sp>
                <milestone ed="p" n="626" unit="card"/>
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="626">ἄπελθʼ. ἐγὼ γὰρ βασανιῶ ταύτην καλῶς</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="627">ἐκ τῶν ἱερῶν τῶν πέρυσι· σὺ δʼ ἀπόστηθί μοι,</l>
@@ -2363,7 +2363,7 @@
                   <speaker>Μνησίλοχος</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="630">φέρʼ ἴδω, τί μέντοι πρῶτον ἦν; ἐπίνομεν.</l>
                </sp>
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                      n="631"
@@ -2375,7 +2375,7 @@
                      n="631b"
                      part="F">προὐπίνομεν.</l>
                </sp>
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="632">ταυτὶ μὲν ἤκουσάς τινος· τί δαὶ τρίτον;</l>
                </sp>
@@ -2383,7 +2383,7 @@
                   <speaker>Μνησίλοχος</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="633">σκάφιον Ξένυλλʼ ᾔτησεν· οὐ γὰρ ἦν ἀμίς.</l>
                </sp>
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="634">οὐδὲν λέγεις. δεῦρʼ ἐλθὲ δεῦρʼ ὦ Κλείσθενες·</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
@@ -2396,7 +2396,7 @@
                      n="635b"
                      part="F">τί οὖν ποιῶ;</l>
                </sp>
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="636">ἀπόδυσον αὐτόν· οὐδὲν ὑγιὲς γὰρ λέγει.</l>
                </sp>
@@ -2408,7 +2408,7 @@
                   <speaker>Κλεισθένης</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="638">χάλα ταχέως τὸ στρόφιον ὦναίσχυντε σύ.</l>
                </sp>
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="639">ὡς καὶ στιβαρά τις φαίνεται καὶ καρτερά·</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="640">καὶ νὴ Δία τιτθούς γʼ ὥσπερ ἡμεῖς οὐκ ἔχει.</l>
@@ -2417,7 +2417,7 @@
                   <speaker>Μνησίλοχος</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="641">στερίφη γάρ εἰμι κοὐκ ἐκύησα πώποτε.</l>
                </sp>
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="642">νῦν· τότε δὲ μήτηρ ἦσθα παίδων ἐννέα.</l>
                </sp>
@@ -2425,7 +2425,7 @@
                   <speaker>Κλεισθένης</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="643">ἀνίστασʼ ὀρθός. ποῖ τὸ πέος ὠθεῖς κάτω;</l>
                </sp>
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="644">τοδὶ διέκυψε καὶ μάλʼ εὔχρων ὦ τάλαν.</l>
                </sp>
@@ -2435,7 +2435,7 @@
                      n="645"
                      part="I">καὶ ποῦ ʼστιν;</l>
                </sp>
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                      n="645b"
@@ -2447,7 +2447,7 @@
                      n="646"
                      part="I">οὐκ ἐνγεταυθί.</l>
                </sp>
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                      n="646b"
@@ -2458,7 +2458,7 @@
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="647">ἰσθμόν τινʼ ἔχεις ὦνθρωπʼ· ἄνω τε καὶ κάτω</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="648">τὸ πέος διέλκεις πυκνότερον Κορινθίων.</l>
                </sp>
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="649">ὦ μιαρὸς οὗτος· ταῦτʼ ἄρʼ ὑπὲρ Εὐριπίδου</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
@@ -2472,7 +2472,7 @@
                      part="F">κακοδαίμων ἐγώ,</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="651">εἰς οἷʼ ἐμαυτὸν εἰσεκύλισα πράγματα.</l>
                </sp>
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                      n="652"
@@ -2576,7 +2576,7 @@
             </div>
             <milestone ed="p" n="689" unit="card"/>
             <div type="textpart" subtype="Episode">
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="689">ἆ ποῖ σὺ φεύγεις; οὗτος οὗτος οὐ μενεῖς;</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="690">τάλαινʼ ἐγὼ τάλαινα, καὶ τὸ παιδίον</l>
@@ -2591,7 +2591,7 @@
                      n="695"
                      part="I">καθαιματώσει βωμόν.</l>
                </sp>
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                      n="695b"
@@ -2627,7 +2627,7 @@
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="705">ταῦτα δῆτʼ οὐ δεινὰ πράγματʼ ἐστὶ καὶ περαιτέρω;</l>
                   </sp>
-                  <sp who="#gyne_a">
+                  <sp who="#gyne-a">
                      <speaker>Γυνὴ Α</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="706">δεινὰ δῆθʼ, ὅστις γʼ ἔχει μου ʼξαρπάσας τὸ παιδίον.</l>
                   </sp>
@@ -2698,7 +2698,7 @@
             </div>
             <milestone ed="p" n="728" unit="card"/>
             <div type="textpart" subtype="Episode">
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="728">ἴωμεν ἐπὶ τὰς κληματίδας ὦ Μανία.</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="729">κἀγώ σʼ ἀποδείξω θυμάλωπα τήμερον.</l>
@@ -2715,7 +2715,7 @@
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="737">ὦ μέγα καπήλοις ἀγαθὸν ἡμῖν δʼ αὖ κακόν,</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="738">κακὸν δὲ καὶ τοῖς σκευαρίοις καὶ τῇ κρόκῃ.</l>
                </sp>
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="739">παράβαλλε πολλὰς κληματίδας ὦ Μανία.</l>
                </sp>
@@ -2726,7 +2726,7 @@
                      n="741"
                      part="I">τουτὶ τεκεῖν φῄς;</l>
                </sp>
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                      n="741b"
@@ -2742,7 +2742,7 @@
                      n="742b"
                      part="M">ἤνεγκας σύ;</l>
                </sp>
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                      n="742c"
@@ -2754,7 +2754,7 @@
                      n="743"
                      part="I">πρικότυλον ἢ πῶς; εἰπέ μοι.</l>
                </sp>
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                      n="743b"
@@ -2770,7 +2770,7 @@
                      n="745b"
                      part="M">τυννοῦτο;</l>
                </sp>
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                      n="745c"
@@ -2780,7 +2780,7 @@
                   <speaker>Μνησίλοχος</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="746">πόσʼ ἔτη δὲ γέγονε; τρεῖς Χοᾶς ἢ τέτταρας;</l>
                </sp>
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="747">σχεδὸν τοσοῦτον χὤσον ἐκ Διονυσίων.</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
@@ -2793,7 +2793,7 @@
                      n="748b"
                      part="F">μὰ τὸν Ἀπόλλω τουτονί.</l>
                </sp>
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                      n="749"
@@ -2806,7 +2806,7 @@
                      part="F">πάνυ γʼ ἐμπίμπρατε·</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="750">αὕτη δʼ ἀποσφαγήσεται μάλʼ αὐτίκα.</l>
                </sp>
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="751">μὴ δῆθʼ, ἱκετεύω σʼ· ἀλλʼ ἔμʼ ὅ τι χρῄζεις ποίει</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
@@ -2820,7 +2820,7 @@
                      part="F">φιλότεκνός τις εἶ φύσει.</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="753">ἀλλʼ οὐδὲν ἧττον ἥδʼ ἀποσφαγήσεται</l>
                </sp>
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="754">οἴμοι τέκνον. δός μοι σφαγεῖον Μανία,</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="755">ἵνʼ οὖν τό γʼ αἷμα τοῦ τέκνου τοὐμοῦ λάβω.</l>
@@ -2829,7 +2829,7 @@
                   <speaker>Μνησίλοχος</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="756">ὕπεχʼ αὐτό, χαριοῦμαι γὰρ ἕν γε τοῦτό σοι.</l>
                </sp>
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="757">κακῶς ἀπόλοιʼ, ὡς φθονερὸς εἶ καὶ δυσμενής.</l>
                </sp>
@@ -2837,7 +2837,7 @@
                   <speaker>Μνησίλοχος</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="758">τουτὶ τὸ δέρμα τῆς ἱερείας γίγνεται.</l>
                </sp>
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                      n="759"
@@ -2849,14 +2849,14 @@
                      n="759b"
                      part="F">τουτί. λαβέ.</l>
                </sp>
-               <sp who="#gyne_g">
+               <sp who="#gyne-g">
                   <speaker>Γυνὴ Γ</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="760">ταλαντάτη Μίκκα τίς ἐξεκόρησέ σε;</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="761">
                      <del>τίς τὴν ἀγαπητὴν παῖδά σοὐξῃρήσατο;</del>
                   </l>
                </sp>
-               <sp who="#gyne_a">
+               <sp who="#gyne-a">
                   <speaker>Γυνὴ Α</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="762">ὁ πανοῦργος οὗτος. ἀλλʼ ἐπειδήπερ πάρει,</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="763">φύλαξον αὐτόν, ἵνα λαβοῦσα Κλεισθένη</l>
@@ -3037,7 +3037,7 @@
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="850">ἐγᾦδα· τὴν καινὴν Ἑλένην μιμήσομαι.</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="851">πάντως ὑπάρχει μοι γυναικεία στολή.</l>
                </sp>
-               <sp who="#gyne_g">
+               <sp who="#gyne-g">
                   <speaker>Γυνὴ Γ</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="852">τί αὖ σὺ κυρκανᾷς; τί κοικύλλεις ἔχων;</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="853">πικρὰν Ἑλένην ὄψει τάχʼ, εἰ μὴ κοσμίως</l>
@@ -3049,7 +3049,7 @@
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="856">ὃς ἀντὶ δίας ψακάδος Αἰγύπτου πέδον</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="857">λευκῆς νοτίζει μελανοσυρμαῖον λεών.</l>
                </sp>
-               <sp who="#gyne_g">
+               <sp who="#gyne-g">
                   <speaker>Γυνὴ Γ</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="858">πανοῦργος εἶ νὴ τὴν Ἑκάτην τὴν φωσφόρον.</l>
                </sp>
@@ -3060,7 +3060,7 @@
                      n="860"
                      part="I">Σπάρτη, πατὴρ δὲ Τυνδάρεως.</l>
                </sp>
-               <sp who="#gyne_g">
+               <sp who="#gyne-g">
                   <speaker>Γυνὴ Γ</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                      n="860b"
@@ -3073,7 +3073,7 @@
                      n="862"
                      part="I">Ἑλένη δʼ ἐκλήθην.</l>
                </sp>
-               <sp who="#gyne_g">
+               <sp who="#gyne-g">
                   <speaker>Γυνὴ Γ</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                      n="862b"
@@ -3087,7 +3087,7 @@
                      n="865"
                      part="I">ῥοαῖσιν ἔθανον.</l>
                </sp>
-               <sp who="#gyne_g">
+               <sp who="#gyne-g">
                   <speaker>Γυνὴ Γ</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                      n="865b"
@@ -3101,7 +3101,7 @@
                      n="868"
                      part="I">τί οὖν ἔτι ζῶ;</l>
                </sp>
-               <sp who="#gyne_g">
+               <sp who="#gyne-g">
                   <speaker>Γυνὴ Γ</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                      n="868b"
@@ -3130,7 +3130,7 @@
                      n="874b"
                      part="F">ποίου Πρωτέως;</l>
                </sp>
-               <sp who="#gyne_g">
+               <sp who="#gyne-g">
                   <speaker>Γυνὴ Γ</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="875">ὦ τρισκακόδαιμον, ψεύδεται νὴ τὼ θεώ,</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="876">ἐπεὶ τέθνηκε Πρωτέας ἔτη δέκα.</l>
@@ -3151,7 +3151,7 @@
                      n="878b"
                      part="F">ὦ δύστηνος οἷ πεπλώκαμεν.</l>
                </sp>
-               <sp who="#gyne_g">
+               <sp who="#gyne-g">
                   <speaker>Γυνὴ Γ</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="879">πείθει τι <add>τούτῳ</add> τῷ κακῶς ἀπολουμένῳ</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="880">ληροῦντι λῆρον; Θεσμοφορεῖον τουτογί.</l>
@@ -3160,7 +3160,7 @@
                   <speaker>Εὐριπίδης</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="881">αὐτὸς δὲ Πρωτεὺς ἔνδον ἔστʼ ἢ ʼξώπιος;</l>
                </sp>
-               <sp who="#gyne_g">
+               <sp who="#gyne-g">
                   <speaker>Γυνὴ Γ</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="882">οὐκ ἔσθʼ ὅπως οὐ ναυτιᾷς ἔτʼ ὦ ξένε,</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="883">ὅστις <add>γʼ</add> ἀκούσας ὅτι τέθνηκε Πρωτέας</l>
@@ -3175,7 +3175,7 @@
                   <speaker>Μνησίλοχος</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="886">τόδʼ ἐστὶν αὐτοῦ σῆμʼ, ἐφʼ ᾧ καθήμεθα.</l>
                </sp>
-               <sp who="#gyne_g">
+               <sp who="#gyne-g">
                   <speaker>Γυνὴ Γ</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="887">κακῶς τʼ ἄρʼ ἐξόλοιο κἀξολεῖ γέ τοι,</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="888">ὅστις γε τολμᾷς σῆμα τὸν βωμὸν καλεῖν.</l>
@@ -3194,7 +3194,7 @@
                      part="F">βιάζομαι</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="891">γάμοισι Πρωτέως παιδὶ συμμεῖξαι λέχος.</l>
                </sp>
-               <sp who="#gyne_g">
+               <sp who="#gyne-g">
                   <speaker>Γυνὴ Γ</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="892">τί ὦ κακόδαιμον ἐξαπατᾷς αὖ τὸν ξένον;</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="893">οὗτος πανουργῶν δεῦρʼ ἀνῆλθεν ὦ ξένε</l>
@@ -3214,7 +3214,7 @@
                      n="897"
                      part="I">αὕτη Θεονόη Πρωτέως.</l>
                </sp>
-               <sp who="#gyne_g">
+               <sp who="#gyne-g">
                   <speaker>Γυνὴ Γ</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                      n="897b"
@@ -3279,7 +3279,7 @@
                      n="916"
                      part="I">λαβὼν ταχὺ πάνυ.</l>
                </sp>
-               <sp who="#gyne_g">
+               <sp who="#gyne-g">
                   <speaker>Γυνὴ Γ</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                      n="916b"
@@ -3291,7 +3291,7 @@
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="918">σὺ τὴν ἐμὴν γυναῖκα κωλύεις ἐμέ,</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="919">τὴν Τυνδάρειον παῖδʼ, ἐπὶ Σπάρτην ἄγειν;</l>
                </sp>
-               <sp who="#gyne_g">
+               <sp who="#gyne-g">
                   <speaker>Γυνὴ Γ</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="920">οἴμʼ ὡς πανοῦργος καὐτὸς εἶναί μοι δοκεῖς</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2" n="921">καὶ τοῦδέ τις ξύμβουλος. οὐκ ἐτὸς πάλαι</l>
@@ -3331,7 +3331,7 @@
                      n="934"
                      part="I">παῖʼ ἢν προσίῃ τις.</l>
                </sp>
-               <sp who="#gyne_g">
+               <sp who="#gyne-g">
                   <speaker>Γυνὴ Γ</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                      n="934b"

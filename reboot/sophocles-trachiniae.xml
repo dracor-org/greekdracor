@@ -29,7 +29,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/7c0b38536878e7719915faeb33715f4764eb89b5/data/tlg0011/tlg001/tlg0011.tlg001.perseus-grc2.xml">Perseus Digital Library</ref>
+               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/9aba817233190bc527fccd72730dc0ec1671fcec/data/tlg0011/tlg001/tlg0011.tlg001.perseus-grc2.xml">Perseus Digital Library</ref>
                <availability>
                   <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                         CC BY-SA 4.0
@@ -85,8 +85,8 @@
                <personGrp xml:id="choros" sex="FEMALE" role="chorus virgo">
                   <name>Χορός</name>
                   <name type="variant">Χορὸς Παρθενών Τραχινίων</name>
-                  <name type="variant">Ἡμιχόριον</name>
                   <name xml:lang="en">Chorus of Trachinian Maidens</name>
+                  <name type="variant">Ἡμιχόριον</name>
                </personGrp>
                <personGrp xml:id="hemichorion-1"
                           sex="FEMALE"
@@ -135,7 +135,7 @@
          </particDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-05-16">Transformed into DraCor TEI</change>
+         <change when="2026-05-19">Transformed into DraCor TEI</change>
          <change when="2017-01-24" who="Lisa Cerrato">improvements to markup; change log, quotes, etc.</change>
          <change when="2016-01-14" who="TDBuck">Hookified</change>
          <change when="2015" who="Stella Dee">converted to EpiDoc</change>

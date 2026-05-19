@@ -29,7 +29,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/7c0b38536878e7719915faeb33715f4764eb89b5/data/tlg0011/tlg007/tlg0011.tlg007.perseus-grc2.xml">Perseus Digital Library</ref>
+               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/9aba817233190bc527fccd72730dc0ec1671fcec/data/tlg0011/tlg007/tlg0011.tlg007.perseus-grc2.xml">Perseus Digital Library</ref>
                <availability>
                   <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                         CC BY-SA 4.0
@@ -130,7 +130,7 @@
          </particDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-05-16">Transformed into DraCor TEI</change>
+         <change when="2026-05-19">Transformed into DraCor TEI</change>
          <change when="2017-02-08" who="Lisa Cerrato">regularizing structure; fixing change log, quotes, etc.</change>
          <change when="2016-01-15" who="TDBuck">p4 to p5</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>

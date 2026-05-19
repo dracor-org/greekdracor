@@ -33,7 +33,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/7c0b38536878e7719915faeb33715f4764eb89b5/data/tlg0019/tlg009/tlg0019.tlg009.perseus-grc2.xml">Perseus Digital Library</ref>
+               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/9aba817233190bc527fccd72730dc0ec1671fcec/data/tlg0019/tlg009/tlg0019.tlg009.perseus-grc2.xml">Perseus Digital Library</ref>
                <availability>
                   <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                         CC BY-SA 4.0
@@ -97,7 +97,7 @@
                   <persName>Χάρων</persName>
                   <persName xml:lang="en">Charon</persName>
                </person>
-               <personGrp xml:id="batraxoi" sex="UNKNOWN" role="chorus rana">
+               <personGrp xml:id="batrachoi" sex="UNKNOWN" role="chorus rana">
                   <name>Βάτραχοι</name>
                   <name type="variant">Παραχορήγημα βατράχων</name>
                   <name xml:lang="en">Secondary Chorus of Frogs</name>
@@ -157,7 +157,7 @@
          </particDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-05-16">Transformed into DraCor TEI</change>
+         <change when="2026-05-19">Transformed into DraCor TEI</change>
          <change when="2023-02-27" who="Lisa Cerrato">EpiDoc and CTS updates: header compliance and said to speaker changes as well as line numbering verification</change>
          <change when="2017-02-03" who="TDBuck">CTS and epidoc updates part of reading list updates</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>
@@ -1313,7 +1313,7 @@
                </sp>
                <milestone ed="p" n="209" unit="card"/>
                <div type="textpart" subtype="trochees">
-                  <sp who="#batraxoi">
+                  <sp who="#batrachoi">
                      <speaker n="#Βάτραχοι">Βάτραχοι</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg009.perseus-grc2" n="209">βρεκεκεκὲξ κοὰξ κοάξ,</l>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg009.perseus-grc2" n="210">βρεκεκεκὲξ κοὰξ κοάξ.</l>
@@ -1336,7 +1336,7 @@
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg009.perseus-grc2" n="224">ὑμῖν δʼ ἴσως οὐδὲν μέλει.</l>
                   </sp>
                   <milestone ed="p" n="225" unit="card"/>
-                  <sp who="#batraxoi">
+                  <sp who="#batrachoi">
                      <speaker n="#Βάτραχοι">Βάτραχοι</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg009.perseus-grc2" n="225">βρεκεκεκὲξ κοὰξ κοάξ.</l>
                   </sp>
@@ -1345,7 +1345,7 @@
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg009.perseus-grc2" n="226">ἀλλʼ ἐξόλοισθʼ αὐτῷ κοάξ·</l>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg009.perseus-grc2" n="227">οὐδὲν γάρ ἐστʼ ἀλλʼ ἢ κοάξ.</l>
                   </sp>
-                  <sp who="#batraxoi">
+                  <sp who="#batrachoi">
                      <speaker n="#Βάτραχοι">Βάτραχοι</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg009.perseus-grc2" n="228">εἰκότως γʼ ὦ πολλὰ πράττων.</l>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg009.perseus-grc2" n="229">ἐμὲ γὰρ ἔστερξαν εὔλυροί τε Μοῦσαι</l>
@@ -1361,7 +1361,7 @@
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg009.perseus-grc2" n="237">χὠ πρωκτὸς ἰδίει πάλαι,</l>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg009.perseus-grc2" n="238">κᾆτʼ αὐτίκʼ ἐκκύψας ἐρεῖ—</l>
                   </sp>
-                  <sp who="#batraxoi">
+                  <sp who="#batrachoi">
                      <speaker n="#Βάτραχοι">Βάτραχοι</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg009.perseus-grc2" n="239">βρεκεκεκὲξ κοὰξ κοάξ.</l>
                   </sp>
@@ -1372,7 +1372,7 @@
                         n="241"
                         part="I">παύσασθε.</l>
                   </sp>
-                  <sp who="#batraxoi">
+                  <sp who="#batrachoi">
                      <speaker n="#Βάτραχοι">Βάτραχοι</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg009.perseus-grc2"
                         n="241b"
@@ -1392,7 +1392,7 @@
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg009.perseus-grc2" n="251">βρεκεκεκὲξ κοὰξ κοάξ.</l>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg009.perseus-grc2" n="252">τουτὶ παρʼ ὑμῶν λαμβάνω.</l>
                   </sp>
-                  <sp who="#batraxoi">
+                  <sp who="#batrachoi">
                      <speaker n="#Βάτραχοι">Βάτραχοι</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg009.perseus-grc2" n="253">δεινά τἄρα πεισόμεσθα.</l>
                   </sp>
@@ -1401,7 +1401,7 @@
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg009.perseus-grc2" n="254">δεινότερα δʼ ἔγωγʼ, ἐλαύνων</l>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg009.perseus-grc2" n="255">εἰ διαρραγήσομαι.</l>
                   </sp>
-                  <sp who="#batraxoi">
+                  <sp who="#batrachoi">
                      <speaker n="#Βάτραχοι">Βάτραχοι</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg009.perseus-grc2" n="256">βρεκεκεκὲξ κοὰξ κοάξ.</l>
                   </sp>
@@ -1409,7 +1409,7 @@
                      <speaker n="#Διόνυσος">Διόνυσος</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg009.perseus-grc2" n="257">οἰμώζετʼ· οὐ γάρ μοι μέλει.</l>
                   </sp>
-                  <sp who="#batraxoi">
+                  <sp who="#batrachoi">
                      <speaker n="#Βάτραχοι">Βάτραχοι</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg009.perseus-grc2" n="258">ἀλλὰ μὴν κεκραξόμεσθά γʼ</l>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg009.perseus-grc2" n="259">ὁπόσον ἡ φάρυξ ἂν ἡμῶν</l>
@@ -1420,7 +1420,7 @@
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg009.perseus-grc2" n="261">βρεκεκεκὲξ κοὰξ κοάξ.</l>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg009.perseus-grc2" n="262">τούτῳ γὰρ οὐ νικήσετε.</l>
                   </sp>
-                  <sp who="#batraxoi">
+                  <sp who="#batrachoi">
                      <speaker n="#Βάτραχοι">Βάτραχοι</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg009.perseus-grc2" n="263">οὐδὲ μὴν ἡμᾶς σὺ πάντως.</l>
                   </sp>

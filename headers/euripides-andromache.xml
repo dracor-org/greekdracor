@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="dracor" xml:id="greek000001" xml:lang="grc">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ἀνδρομάχη</title>
+                <title xml:lang="la">Andromache</title>
+                <title xml:lang="en">Andromache</title>
+                <title type="short">Andr.</title>
+                <author>
+                    <persName>Εὐριπίδης</persName>
+                    <persName xml:lang="la">Euripides</persName>
+                    <persName xml:lang="en">Euripides</persName>
+                    <idno type="wikidata">Q48305</idno>
+                </author>
+                <editor>
+                    <persName>Gilbert Murray</persName>
+                    <idno type="wikidata">Q538478</idno>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher xml:id="dracor">DraCor</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digitalSource">
+                </bibl>
+                <bibl type="originalSource">
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="andromache" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q19376">
+                        <persName>Ἀνδρομάχη</persName>
+                        <persName xml:lang="en">Andromache</persName>
+                    </person>
+                    <person xml:id="therapaina" sex="FEMALE">
+                        <persName>Θεράπαινα</persName>
+                        <persName xml:lang="en">Slave</persName>
+                    </person>
+                    <personGrp xml:id="choros" sex="FEMALE">
+                        <name>Χορός</name>
+                        <name xml:lang="en">Chorus of Phthian Women</name>
+                    </personGrp>
+                    <person xml:id="hermione" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q658523">
+                        <persName>Ἑρμιόνη</persName>
+                        <persName xml:lang="en">Hermione</persName>
+                    </person>
+                    <person xml:id="menelaos" sex="MALE" ana="https://www.wikidata.org/wiki/Q171839">
+                        <persName>Μενέλαος</persName>
+                        <persName xml:lang="en">Menelaus</persName>
+                    </person>
+                    <person xml:id="pais" sex="UNKNOWN">
+                        <persName>Παῖς</persName>
+                        <persName type="variant">Παῖς Ἀνδρομάχης</persName>
+                        <persName xml:lang="en">Child of Andromache</persName>
+                    </person>
+                    <person xml:id="peleus" sex="MALE" ana="https://www.wikidata.org/wiki/Q178641">
+                        <persName>Πηλεύς</persName>
+                        <persName xml:lang="en">Peleus</persName>
+                    </person>
+                    <person xml:id="trophos" sex="FEMALE">
+                        <persName>Τροφός</persName>
+                        <persName xml:lang="en">Nurse</persName>
+                    </person>
+                    <person xml:id="orestes" sex="MALE" ana="https://www.wikidata.org/wiki/Q192407">
+                        <persName>Ὀρέστης</persName>
+                        <persName xml:lang="en">Orestes</persName>
+                    </person>
+                    <person xml:id="angelos" sex="MALE">
+                        <persName>Ἄγγελος</persName>
+                        <persName xml:lang="en">Messenger</persName>
+                    </person>
+                    <person xml:id="thetis" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q184437">
+                        <persName>Θέτις</persName>
+                        <persName xml:lang="en">Thetis</persName>
+                    </person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+</TEI>

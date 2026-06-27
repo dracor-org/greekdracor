@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="dracor" xml:id="greek000001" xml:lang="grc">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ἱππόλυτος</title>
+                <title xml:lang="la">Hippolytus</title>
+                <title xml:lang="en">Hippolytus</title>
+                <title type="short">Hipp.</title>
+                <author>
+                    <persName>Εὐριπίδης</persName>
+                    <persName xml:lang="la">Euripides</persName>
+                    <persName xml:lang="en">Euripides</persName>
+                    <idno type="wikidata">Q48305</idno>
+                </author>
+                <editor>
+                    <persName>Gilbert Murray</persName>
+                    <idno type="wikidata">Q538478</idno>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher xml:id="dracor">DraCor</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digitalSource">
+                </bibl>
+                <bibl type="originalSource">
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="aphrodite" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q35500">
+                        <persName>Ἀφροδίτη</persName>
+                        <persName xml:lang="en">Aphrodite</persName>
+                    </person>
+                    <person xml:id="hippolytus" sex="MALE" ana="https://www.wikidata.org/wiki/Q338201">
+                        <persName>Ἱππόλυτος</persName>
+                        <persName xml:lang="en">Hippolytus</persName>
+                    </person>
+                    <personGrp xml:id="choros-kynegon" sex="MALE">
+                        <name>Χορὸς Κυνηγῶν</name>
+                        <name type="variant">Χορός</name>
+                        <name xml:lang="en">Chorus of Hunters</name>
+                    </personGrp>
+                    <person xml:id="therapon" sex="MALE">
+                        <persName>Θεράπων</persName>
+                        <persName xml:lang="en">Slave</persName>
+                    </person>
+                    <personGrp xml:id="choros-troizenion-gynaikon" sex="FEMALE">
+                        <name>Χορὸς Τροιζηνίων Γυναικών</name>
+                        <name type="variant">Χορός</name>
+                        <name xml:lang="en">Chorus of Troezenian Women</name>
+                    </personGrp>
+                    <person xml:id="trophos" sex="FEMALE">
+                        <persName>Τροφός</persName>
+                        <persName xml:lang="en">Nurse</persName>
+                    </person>
+                    <person xml:id="phaidra" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q212818">
+                        <persName>Φαίδρα</persName>
+                        <persName xml:lang="en">Phaedra</persName>
+                    </person>
+                    <person xml:id="theseus" sex="MALE" ana="https://www.wikidata.org/wiki/Q1320718">
+                        <persName>Θησεύς</persName>
+                        <persName xml:lang="en">Theseus</persName>
+                    </person>
+                    <person xml:id="angelos" sex="MALE">
+                        <persName>Ἄγγελος</persName>
+                        <persName xml:lang="en">Messenger</persName>
+                    </person>
+                    <person xml:id="artemis" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q39503">
+                        <persName>Ἄρτεμις</persName>
+                        <persName xml:lang="en">Artemis</persName>
+                    </person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+</TEI>

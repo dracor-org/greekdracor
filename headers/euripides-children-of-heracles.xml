@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="dracor" xml:id="greek000001" xml:lang="grc">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ἡρακλεῖδαι</title>
+                <title xml:lang="la">Heraclidae</title>
+                <title xml:lang="en">Children of Heracles</title>
+                <title type="short">Heracl.</title>
+                <author>
+                    <persName>Εὐριπίδης</persName>
+                    <persName xml:lang="la">Euripides</persName>
+                    <persName xml:lang="en">Euripides</persName>
+                    <idno type="wikidata">Q48305</idno>
+                </author>
+                <editor>
+                    <persName>Gilbert Murray</persName>
+                    <idno type="wikidata">Q538478</idno>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher xml:id="dracor">DraCor</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digitalSource">
+                </bibl>
+                <bibl type="originalSource">
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="iolaos" sex="MALE" ana="https://www.wikidata.org/wiki/Q504076">
+                        <persName>Ἰόλαος</persName>
+                        <persName xml:lang="en">Iolaus</persName>
+                    </person>
+                    <person xml:id="kerux" sex="MALE" ana="https://www.wikidata.org/wiki/Q2641203">
+                        <persName>Κῆρυξ</persName>
+                        <persName xml:lang="en">Herald</persName>
+                    </person>
+                    <personGrp xml:id="choros" sex="MALE">
+                        <name>Χορός</name>
+                        <name xml:lang="en">Chorus of Aged Athenians</name>
+                    </personGrp>
+                    <person xml:id="demophon" sex="MALE" ana="https://www.wikidata.org/wiki/Q912376">
+                        <persName>Δημοφῶν</persName>
+                        <persName xml:lang="en">Demophon</persName>
+                    </person>
+                    <person xml:id="makaria" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q1550960">
+                        <persName>Μακαρία</persName>
+                        <persName type="variant">Μακαρία Παρθένος</persName>
+                        <persName xml:lang="en">Macaria</persName>
+                    </person>
+                    <person xml:id="therapon" sex="MALE">
+                        <persName>Θεράπων</persName>
+                        <persName xml:lang="en">Slave</persName>
+                    </person>
+                    <person xml:id="alkmene" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q190543">
+                        <persName>Ἀλκμήνη</persName>
+                        <persName xml:lang="en">Alcmena</persName>
+                    </person>
+                    <person xml:id="angelos" sex="MALE">
+                        <persName>Ἀγγελος</persName>
+                        <persName xml:lang="en">Messenger</persName>
+                    </person>
+                    <person xml:id="eurystheus" sex="MALE" ana="https://www.wikidata.org/wiki/Q212087">
+                        <persName>Ἐυρυσθεύς</persName>
+                        <persName xml:lang="en">Eurystheus</persName>
+                    </person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+</TEI>

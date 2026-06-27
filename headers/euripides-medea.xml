@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="dracor" xml:id="greek000001" xml:lang="grc">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Μήδεια</title>
+                <title xml:lang="la">Medea</title>
+                <title xml:lang="en">Medea</title>
+                <title type="short">Med.</title>
+                <author>
+                    <persName>Εὐριπίδης</persName>
+                    <persName xml:lang="la">Euripides</persName>
+                    <persName xml:lang="en">Euripides</persName>
+                    <idno type="wikidata">Q48305</idno>
+                </author>
+                <editor>
+                    <persName>Gilbert Murray</persName>
+                    <idno type="wikidata">Q538478</idno>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher xml:id="dracor">DraCor</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digitalSource">
+                </bibl>
+                <bibl type="originalSource">
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="trophos" sex="FEMALE">
+                        <persName>Τροφός</persName>
+                        <persName xml:lang="en">Nurse</persName>
+                    </person>
+                    <person xml:id="kreon" sex="MALE" ana="https://www.wikidata.org/wiki/Q786573">
+                        <persName>Κρέων</persName>
+                        <persName xml:lang="en">Creon</persName>
+                    </person>
+                    <personGrp xml:id="paides" sex="UNKNOWN">
+                        <name>Παῖδες</name>
+                        <name type="variant">Παῖδες Μηδείας</name>
+                        <name xml:lang="en">Children of Medea</name>
+                    </personGrp>
+                    <person xml:id="paidagogos" sex="MALE">
+                        <persName>Παιδαγωγός</persName>
+                        <persName xml:lang="en">Old Slave</persName>
+                    </person>
+                    <person xml:id="iason" sex="MALE" ana="https://www.wikidata.org/wiki/Q176758">
+                        <persName>Ἰάσων</persName>
+                        <persName xml:lang="en">Jason</persName>
+                    </person>
+                    <personGrp xml:id="choros" sex="FEMALE">
+                        <name>Χορός</name>
+                        <name type="variant">Χορὸς γυναικών</name>
+                        <name xml:lang="en">Chrous of Corinthian Women</name>
+                    </personGrp>
+                    <person xml:id="aigeus" sex="MALE" ana="https://www.wikidata.org/wiki/Q191725">
+                        <persName>Αἰγεύς</persName>
+                        <persName xml:lang="en">Aegeus</persName>
+                    </person>
+                    <person xml:id="medeia" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q174278">
+                        <persName>Μήδεια</persName>
+                        <persName xml:lang="en">Medea</persName>
+                    </person>
+                    <person xml:id="angelos" sex="MALE">
+                        <persName>Ἄγγελος</persName>
+                        <persName xml:lang="en">Messenger</persName>
+                    </person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+</TEI>

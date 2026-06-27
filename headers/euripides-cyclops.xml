@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="dracor" xml:id="greek000001" xml:lang="grc">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Κύκλωψ</title>
+                <title xml:lang="la">Cyclops</title>
+                <title xml:lang="en">Cyclops</title>
+                <title type="short">Cyc.</title>
+                <author>
+                    <persName>Εὐριπίδης</persName>
+                    <persName xml:lang="la">Euripides</persName>
+                    <persName xml:lang="en">Euripides</persName>
+                    <idno type="wikidata">Q48305</idno>
+                </author>
+                <editor>
+                    <persName>Gilbert Murray</persName>
+                    <idno type="wikidata">Q538478</idno>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher xml:id="dracor">DraCor</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digitalSource">
+                </bibl>
+                <bibl type="originalSource">
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="silenos" sex="MALE" ana="https://www.wikidata.org/wiki/Q464091">
+                        <persName>Σιληνός</persName>
+                        <persName xml:lang="en">Silenus</persName>
+                    </person>
+                    <personGrp xml:id="choros-satyron" sex="MALE" ana="https://www.wikidata.org/wiki/Q163709">
+                        <name>Χορὸς Σατύρων</name>
+                        <name type="variant">Χορός</name>
+                        <name xml:lang="en">Chorus of Satyrs</name>
+                    </personGrp>
+                    <person xml:id="odysseus" sex="MALE" ana="https://www.wikidata.org/wiki/Q47231">
+                        <persName>Ὀδυσσεύς</persName>
+                        <persName xml:lang="en">Odysseus</persName>
+                    </person>
+                    <person xml:id="kyklops" sex="MALE" ana="https://www.wikidata.org/wiki/Q128430">
+                        <persName>Κύκλωψ</persName>
+                        <persName xml:lang="en">Cyclops</persName>
+                    </person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+</TEI>

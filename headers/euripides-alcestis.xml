@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="dracor" xml:id="greek000001" xml:lang="grc">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ἄλκηστις</title>
+                <title xml:lang="la">Alcestis</title>
+                <title xml:lang="en">Alcestis</title>
+                <title type="short">Alc.</title>
+                <author>
+                    <persName>Εὐριπίδης</persName>
+                    <persName xml:lang="la">Euripides</persName>
+                    <persName xml:lang="en">Euripides</persName>
+                    <idno type="wikidata">Q48305</idno>
+                </author>
+                <editor>
+                    <persName>Gilbert Murray</persName>
+                    <idno type="wikidata">Q538478</idno>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher xml:id="dracor">DraCor</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digitalSource">
+                </bibl>
+                <bibl type="originalSource">
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="apollon" sex="MALE" ana="https://www.wikidata.org/wiki/Q37340">
+                        <persName>Ἀπόλλων</persName>
+                        <persName xml:lang="en">Apollo</persName>
+                    </person>
+                    <person xml:id="thanatos" sex="MALE" ana="https://www.wikidata.org/wiki/Q199647">
+                        <persName>Θάνατος</persName>
+                        <persName xml:lang="en">Death</persName>
+                    </person>
+                    <personGrp xml:id="choros" sex="MALE">
+                        <name>Χορός</name>
+                        <name xml:lang="en">Chorus of Old Men of Pherae</name>
+                    </personGrp>
+                    <person xml:id="therapaina" sex="FEMALE">
+                        <persName>Θεράπαινα</persName>
+                        <persName type="variant">Θεράπαινα Ἀλκήστιδος</persName>
+                        <persName xml:lang="en">Slave of Alcestis</persName>
+                    </person>
+                    <person xml:id="alkestis" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q320449">
+                        <persName>Ἄλκηστις</persName>
+                        <persName xml:lang="en">Alcestis</persName>
+                    </person>
+                    <person xml:id="admetos" sex="MALE" ana="https://www.wikidata.org/wiki/Q192109">
+                        <persName>Ἄδμητος</persName>
+                        <persName xml:lang="en">Admetus</persName>
+                    </person>
+                    <person xml:id="pais" sex="MALE" ana="https://www.wikidata.org/wiki/Q1686620">
+                        <persName>Παῖς</persName>
+                        <persName type="variant">Παῖς Ἀλκήστιδος</persName>
+                        <persName xml:lang="en">Child of Alcestis</persName>
+                    </person>
+                    <person xml:id="herakles" sex="MALE" ana="https://www.wikidata.org/wiki/Q122248">
+                        <persName>Ἡρακλῆς</persName>
+                        <persName xml:lang="en">Heracles</persName>
+                    </person>
+                    <person xml:id="pheres" sex="MALE" ana="https://www.wikidata.org/wiki/Q731181">
+                        <persName>Φέρης</persName>
+                        <persName xml:lang="en">Pheres</persName>
+                    </person>
+                    <person xml:id="therapon" sex="MALE">
+                        <persName>Θεράπων</persName>
+                        <persName xml:lang="en">Slave</persName>
+                    </person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+</TEI>

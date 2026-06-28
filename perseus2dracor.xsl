@@ -122,6 +122,8 @@
     </xsl:copy>
   </xsl:template>
 
+  <xsl:template match="tei:l[@style='hidden' and not(node())]" mode="text"/>
+
   <xsl:template match="tei:sp" mode="text">
     <xsl:param name="particDesc" tunnel="yes"/>
     <xsl:variable name="speaker"

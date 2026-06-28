@@ -78,6 +78,24 @@
               </fileDesc>
               <profileDesc>
                 <xsl:copy-of select="tei:particDesc"/>
+                <xsl:if test="@textclass">
+                  <textClass>
+                    <xsl:choose>
+                      <xsl:when test="@textclass eq 'Q1050848'">
+                        <xsl:comment>satyr play</xsl:comment>
+                      </xsl:when>
+                      <xsl:when test="@textclass eq 'Q40831'">
+                        <xsl:comment>comedy</xsl:comment>
+                      </xsl:when>
+                      <xsl:when test="@textclass eq 'Q80930'">
+                        <xsl:comment>tragedy</xsl:comment>
+                      </xsl:when>
+                    </xsl:choose>
+                    <classCode scheme="http://www.wikidata.org/entity/">
+                      <xsl:value-of select="string(@textclass)"/>
+                    </classCode>
+                  </textClass>
+                </xsl:if>
               </profileDesc>
               <revisionDesc>
                 <change when="{format-date(current-date(), '[Y0001]-[M01]-[D01]')}">Transformed into DraCor TEI</change>

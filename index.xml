@@ -8,7 +8,8 @@
    <play id="greek000001"
          source="tlg0006/tlg017/tlg0006.tlg017.perseus-grc2.xml"
          slug="euripides-bacchae"
-         wikidata="Q934597">
+         wikidata="Q934597"
+         textclass="Q80930">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Βάκχαι</title>
          <title xml:lang="la">Bacchae</title>
@@ -89,7 +90,8 @@
    <play id="greek000002"
          source="tlg0006/tlg013/tlg0006.tlg013.perseus-grc2.xml"
          slug="euripides-iphigenia-in-tauris"
-         wikidata="Q523227">
+         wikidata="Q523227"
+         textclass="Q80930">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Ἰφιγένεια ἐν Ταύροις</title>
          <title xml:lang="la">Iphigenia Taurica</title>
@@ -162,7 +164,8 @@
    <play id="greek000003"
          source="tlg0006/tlg007/tlg0006.tlg007.perseus-grc2.xml"
          slug="euripides-hecuba"
-         wikidata="Q1115611">
+         wikidata="Q1115611"
+         textclass="Q80930">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Ἑκάβη</title>
          <title xml:lang="la">Hecuba</title>
@@ -244,7 +247,8 @@
    <play id="greek000004"
          source="tlg0085/tlg007/tlg0085.tlg007.perseus-grc2.xml"
          slug="aeschylus-eumenides"
-         wikidata="Q1233164">
+         wikidata="Q1233164"
+         textclass="Q80930">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Εὐμενίδες</title>
          <title xml:lang="la">Eumenides</title>
@@ -328,7 +332,8 @@
    <play id="greek000005"
          source="tlg0085/tlg004/tlg0085.tlg004.perseus-grc2.xml"
          slug="aeschylus-seven-against-thebes"
-         wikidata="Q506546">
+         wikidata="Q506546"
+         textclass="Q80930">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Ἑπτὰ ἐπὶ Θήβας</title>
          <title xml:lang="la">Septem adversus Thebas</title>
@@ -412,7 +417,8 @@
    <play id="greek000006"
          source="tlg0006/tlg008/tlg0006.tlg008.perseus-grc2.xml"
          slug="euripides-suppliants"
-         wikidata="Q672319">
+         wikidata="Q672319"
+         textclass="Q80930">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Ἱκέτιδες</title>
          <title xml:lang="la">Supplices </title>
@@ -495,7 +501,8 @@
    <play id="greek000007"
          source="tlg0011/tlg003/tlg0011.tlg003.perseus-grc2.xml"
          slug="sophocles-ajax"
-         wikidata="Q412341">
+         wikidata="Q412341"
+         textclass="Q80930">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Αἴας</title>
          <title xml:lang="la">Aias</title>
@@ -607,7 +614,8 @@
    <play id="greek000008"
          source="tlg0085/tlg006/tlg0085.tlg006.perseus-grc2.xml"
          slug="aeschylus-libation-bearers"
-         wikidata="Q11688406">
+         wikidata="Q11688406"
+         textclass="Q80930">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Χοηφóρoι</title>
          <title xml:lang="la">Choephoroi</title>
@@ -699,7 +707,8 @@
    <play id="greek000009"
          source="tlg0019/tlg008/tlg0019.tlg008.perseus-grc2.xml"
          slug="aristophanes-thesmophoriazusae"
-         wikidata="Q761731">
+         wikidata="Q761731"
+         textclass="Q40831">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Θεσμοφοριάζουσαι</title>
          <title xml:lang="la">Thesmophoriazusae</title>
@@ -804,7 +813,8 @@
    <play id="greek000010"
          source="tlg0019/tlg002/tlg0019.tlg002.perseus-grc2.xml"
          slug="aristophanes-knights"
-         wikidata="Q1215817">
+         wikidata="Q1215817"
+         textclass="Q40831">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Ἱππῆς</title>
          <title xml:lang="la">Equites</title>
@@ -886,7 +896,8 @@
    <play id="greek000011"
          source="tlg0085/tlg003/tlg0085.tlg003.perseus-grc2.xml"
          slug="aeschylus-prometheus-bound"
-         wikidata="Q846870">
+         wikidata="Q846870"
+         textclass="Q80930">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Προμηθεὺς δεσμώτης</title>
          <title xml:lang="la">Prometheus</title>
@@ -975,7 +986,8 @@
    <play id="greek000012"
          source="tlg0019/tlg006/tlg0019.tlg006.perseus-grc2.xml"
          slug="aristophanes-birds"
-         wikidata="Q1164079">
+         wikidata="Q1164079"
+         textclass="Q40831">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Ὄρνιθες</title>
          <title xml:lang="la">Aves</title>
@@ -1138,7 +1150,8 @@
    <play id="greek000013"
          source="tlg0006/tlg009/tlg0006.tlg009.perseus-grc2.xml"
          slug="euripides-heracles"
-         wikidata="Q1233835">
+         wikidata="Q1233835"
+         textclass="Q80930">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Ἡρακλῆς</title>
          <title xml:lang="la">Hercules</title>
@@ -1219,7 +1232,8 @@
    <play id="greek000014"
          source="tlg0019/tlg004/tlg0019.tlg004.perseus-grc2.xml"
          slug="aristophanes-wasps"
-         wikidata="Q1217552">
+         wikidata="Q1217552"
+         textclass="Q40831">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Σφῆκες</title>
          <title xml:lang="la">Vespae</title>
@@ -1305,7 +1319,8 @@
    <play id="greek000015"
          source="tlg0011/tlg004/tlg0011.tlg004.perseus-grc2.xml"
          slug="sophocles-oedipus-tyrannus"
-         wikidata="Q148643">
+         wikidata="Q148643"
+         textclass="Q80930">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Οἰδίπους Τύραννος</title>
          <title xml:lang="la">Oedipus Rex</title>
@@ -1390,7 +1405,8 @@
    <play id="greek000016"
          source="tlg0019/tlg007/tlg0019.tlg007.perseus-grc2.xml"
          slug="aristophanes-lysistrata"
-         wikidata="Q753907">
+         wikidata="Q753907"
+         textclass="Q40831">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Λυσιστράτη</title>
          <title xml:lang="la">Lysistrata</title>
@@ -1536,7 +1552,8 @@
    <play id="greek000017"
          source="tlg0019/tlg009/tlg0019.tlg009.perseus-grc2.xml"
          slug="aristophanes-frogs"
-         wikidata="Q815376">
+         wikidata="Q815376"
+         textclass="Q40831">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Βάτραχοι</title>
          <title xml:lang="la">Ranae</title>
@@ -1659,7 +1676,8 @@
    <play id="greek000018"
          source="tlg0011/tlg008/tlg0011.tlg008.perseus-grc2.xml"
          slug="sophocles-ichneutae"
-         wikidata="Q733158">
+         wikidata="Q733158"
+         textclass="Q1050848">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Ἰχνευταί</title>
          <title xml:lang="la">Ichneutae</title>
@@ -1747,7 +1765,8 @@
    <play id="greek000019"
          source="tlg0006/tlg011/tlg0006.tlg011.perseus-grc2.xml"
          slug="euripides-trojan-women"
-         wikidata="Q1216943">
+         wikidata="Q1216943"
+         textclass="Q80930">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Τρῳάδες</title>
          <title xml:lang="la">Troades</title>
@@ -1839,7 +1858,8 @@
    <play id="greek000020"
          source="tlg0085/tlg001/tlg0085.tlg001.perseus-grc2.xml"
          slug="aeschylus-suppliant-women"
-         wikidata="Q1216139">
+         wikidata="Q1216139"
+         textclass="Q80930">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Ἱκέτιδες</title>
          <title xml:lang="la">Supplices</title>
@@ -1940,7 +1960,8 @@
    <play id="greek000021"
          source="tlg0011/tlg005/tlg0011.tlg005.perseus-grc2.xml"
          slug="sophocles-electra"
-         wikidata="Q733444">
+         wikidata="Q733444"
+         textclass="Q80930">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Ἠλέκτρα</title>
          <title xml:lang="la">Electra</title>
@@ -2025,7 +2046,8 @@
    <play id="greek000022"
          source="tlg0085/tlg002/tlg0085.tlg002.perseus-grc2.xml"
          slug="aeschylus-persians"
-         wikidata="Q788458">
+         wikidata="Q788458"
+         textclass="Q80930">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Πέρσαι</title>
          <title xml:lang="la">Persae</title>
@@ -2095,7 +2117,8 @@
    <play id="greek000023"
          source="tlg0006/tlg016/tlg0006.tlg016.perseus-grc2.xml"
          slug="euripides-orestes"
-         wikidata="Q663886">
+         wikidata="Q663886"
+         textclass="Q80930">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Ὀρέστης</title>
          <title xml:lang="la">Orestes</title>
@@ -2196,7 +2219,8 @@
    <play id="greek000024"
          source="tlg0011/tlg001/tlg0011.tlg001.perseus-grc2.xml"
          slug="sophocles-trachiniae"
-         wikidata="Q945342">
+         wikidata="Q945342"
+         textclass="Q80930">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Τραχίνιαι</title>
          <title xml:lang="la">Trachiniae</title>
@@ -2295,7 +2319,8 @@
    <play id="greek000025"
          source="tlg0011/tlg002/tlg0011.tlg002.perseus-grc2.xml"
          slug="sophocles-antigone"
-         wikidata="Q241077">
+         wikidata="Q241077"
+         textclass="Q80930">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Ἀντιγόνη</title>
          <title xml:lang="la">Antigone</title>
@@ -2394,7 +2419,8 @@
    <play id="greek000026"
          source="tlg0085/tlg005/tlg0085.tlg005.perseus-grc2.xml"
          slug="aeschylus-agamemnon"
-         wikidata="Q3320792">
+         wikidata="Q3320792"
+         textclass="Q80930">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Ἀγαμέμνων</title>
          <title xml:lang="la">Agamemnon</title>
@@ -2472,7 +2498,8 @@
    <play id="greek000027"
          source="tlg0019/tlg010/tlg0019.tlg010.perseus-grc2.xml"
          slug="aristophanes-ecclesiazusae"
-         wikidata="Q608261">
+         wikidata="Q608261"
+         textclass="Q40831">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Ἐκκλησιάζουσαι</title>
          <title xml:lang="la">Ecclesiazusae</title>
@@ -2581,7 +2608,8 @@
    <play id="greek000028"
          source="tlg0006/tlg018/tlg0006.tlg018.perseus-grc2.xml"
          slug="euripides-iphigenia-in-aulis"
-         wikidata="Q1233770">
+         wikidata="Q1233770"
+         textclass="Q80930">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Ἰφιγένεια ἐν Αὐλίδι</title>
          <title xml:lang="la">Iphigenia Aulidensis</title>
@@ -2664,7 +2692,8 @@
    <play id="greek000029"
          source="tlg0006/tlg014/tlg0006.tlg014.perseus-grc2.xml"
          slug="euripides-helen"
-         wikidata="Q1248812">
+         wikidata="Q1248812"
+         textclass="Q80930">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Ἑλένη</title>
          <title xml:lang="la">Helena</title>
@@ -2750,7 +2779,8 @@
    <play id="greek000030"
          source="tlg0006/tlg015/tlg0006.tlg015.perseus-grc2.xml"
          slug="euripides-phoenissae"
-         wikidata="Q1233660">
+         wikidata="Q1233660"
+         textclass="Q80930">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Φοίνισσαι</title>
          <title xml:lang="la">Phoenissae</title>
@@ -2848,7 +2878,8 @@
    <play id="greek000031"
          source="tlg0006/tlg019/tlg0006.tlg019.perseus-grc2.xml"
          slug="euripides-rhesus"
-         wikidata="Q667750">
+         wikidata="Q667750"
+         textclass="Q80930">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Ῥῆσος</title>
          <title xml:lang="la">Rhesus</title>
@@ -2948,7 +2979,8 @@
    <play id="greek000032"
          source="tlg0019/tlg001/tlg0019.tlg001.perseus-grc2.xml"
          slug="aristophanes-acharnians"
-         wikidata="Q1059987">
+         wikidata="Q1059987"
+         textclass="Q40831">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Ἀχαρνῆς</title>
          <title xml:lang="la">Acharnenses</title>
@@ -3103,7 +3135,8 @@
    <play id="greek000033"
          source="tlg0019/tlg005/tlg0019.tlg005.perseus-grc2.xml"
          slug="aristophanes-peace"
-         wikidata="Q1193602">
+         wikidata="Q1193602"
+         textclass="Q40831">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Εἰρήνη</title>
          <title xml:lang="la">Pax</title>
@@ -3244,7 +3277,8 @@
    <play id="greek000034"
          source="tlg0006/tlg010/tlg0006.tlg010.perseus-grc2.xml"
          slug="euripides-ion"
-         wikidata="Q614607">
+         wikidata="Q614607"
+         textclass="Q80930">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Ἴων</title>
          <title xml:lang="la">Ion</title>
@@ -3326,7 +3360,8 @@
    <play id="greek000035"
          source="tlg0019/tlg003/tlg0019.tlg003.perseus-grc2.xml"
          slug="aristophanes-clouds"
-         wikidata="Q868447">
+         wikidata="Q868447"
+         textclass="Q40831">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Νεφέλαι</title>
          <title xml:lang="la">Nubes</title>
@@ -3448,7 +3483,8 @@
    <play id="greek000036"
          source="tlg0011/tlg007/tlg0011.tlg007.perseus-grc2.xml"
          slug="sophocles-oedipus-at-colonus"
-         wikidata="Q294001">
+         wikidata="Q294001"
+         textclass="Q80930">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Οἰδίπους ἐπὶ Κολωνῷ</title>
          <title xml:lang="la">Oedipus Coloneus</title>
@@ -3542,7 +3578,8 @@
    <play id="greek000037"
          source="tlg0019/tlg011/tlg0019.tlg011.perseus-grc2.xml"
          slug="aristophanes-plutus"
-         wikidata="Q1196456">
+         wikidata="Q1196456"
+         textclass="Q40831">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Πλοῦτος</title>
          <title xml:lang="la">Plutus</title>
@@ -3646,7 +3683,8 @@
    <play id="greek000038"
          source="tlg0011/tlg006/tlg0011.tlg006.perseus-grc2.xml"
          slug="sophocles-philoctetes"
-         wikidata="Q1415903">
+         wikidata="Q1415903"
+         textclass="Q80930">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Φιλοκτήτης</title>
          <title xml:lang="la">Philoctetes</title>
@@ -3717,7 +3755,8 @@
    <play id="greek000039"
          source="tlg0006/tlg012/tlg0006.tlg012.perseus-grc2.xml"
          slug="euripides-electra"
-         wikidata="Q540161">
+         wikidata="Q540161"
+         textclass="Q80930">
       <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
          <title>Ἠλέκτρα</title>
          <title xml:lang="la">Electra</title>

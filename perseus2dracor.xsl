@@ -10,7 +10,7 @@
 
   <xsl:param name="perseus-dir" select="'perseusdl/data'"/>
   <xsl:param name="perseus-sha" select="'master'"/>
-  <xsl:param name="out-dir" select="'reboot'"/>
+  <xsl:param name="out-dir" select="'tei'"/>
   <xsl:param name="id" select="''"/>
 
   <xsl:template match="/">

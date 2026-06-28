@@ -3792,25 +3792,436 @@
    <play id="greek000041"
          source="tlg0006/tlg001/tlg0006.tlg001.perseus-grc2.xml"
          slug="euripides-cyclops"
-         wikidata="Q1206121"/>
+         wikidata="Q1206121">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Κύκλωψ</title>
+         <title xml:lang="la">Cyclops</title>
+         <title xml:lang="en">Cyclops</title>
+         <title type="short">Cyc.</title>
+         <author>
+            <persName>Εὐριπίδης</persName>
+            <persName xml:lang="la">Euripides</persName>
+            <persName xml:lang="en">Euripides</persName>
+            <idno type="wikidata">Q48305</idno>
+         </author>
+         <editor>
+            <persName>Gilbert Murray</persName>
+            <idno type="wikidata">Q538478</idno>
+         </editor>
+      </titleStmt>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="silenos"
+                    sex="MALE"
+                    ana="https://www.wikidata.org/wiki/Q464091">
+               <persName>Σιληνός</persName>
+               <persName xml:lang="en">Silenus</persName>
+            </person>
+            <personGrp xml:id="choros-satyron"
+                       sex="MALE"
+                       ana="https://www.wikidata.org/wiki/Q163709">
+               <name>Χορὸς Σατύρων</name>
+               <name type="variant">Χορός</name>
+               <name xml:lang="en">Chorus of Satyrs</name>
+            </personGrp>
+            <person xml:id="odysseus"
+                    sex="MALE"
+                    ana="https://www.wikidata.org/wiki/Q47231">
+               <persName>Ὀδυσσεύς</persName>
+               <persName xml:lang="en">Odysseus</persName>
+            </person>
+            <person xml:id="kyklops"
+                    sex="MALE"
+                    ana="https://www.wikidata.org/wiki/Q128430">
+               <persName>Κύκλωψ</persName>
+               <persName xml:lang="en">Cyclops</persName>
+            </person>
+         </listPerson>
+      </particDesc>
+   </play>
    <play id="greek000042"
          source="tlg0006/tlg002/tlg0006.tlg002.perseus-grc2.xml"
          slug="euripides-alcestis"
-         wikidata="Q1246408"/>
+         wikidata="Q1246408">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Ἄλκηστις</title>
+         <title xml:lang="la">Alcestis</title>
+         <title xml:lang="en">Alcestis</title>
+         <title type="short">Alc.</title>
+         <author>
+            <persName>Εὐριπίδης</persName>
+            <persName xml:lang="la">Euripides</persName>
+            <persName xml:lang="en">Euripides</persName>
+            <idno type="wikidata">Q48305</idno>
+         </author>
+         <editor>
+            <persName>Gilbert Murray</persName>
+            <idno type="wikidata">Q538478</idno>
+         </editor>
+      </titleStmt>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="apollon"
+                    sex="MALE"
+                    ana="https://www.wikidata.org/wiki/Q37340">
+               <persName>Ἀπόλλων</persName>
+               <persName xml:lang="en">Apollo</persName>
+            </person>
+            <person xml:id="thanatos"
+                    sex="MALE"
+                    ana="https://www.wikidata.org/wiki/Q199647">
+               <persName>Θάνατος</persName>
+               <persName xml:lang="en">Death</persName>
+            </person>
+            <personGrp xml:id="choros" sex="MALE">
+               <name>Χορός</name>
+               <name xml:lang="en">Chorus of Old Men of Pherae</name>
+            </personGrp>
+            <person xml:id="therapaina" sex="FEMALE">
+               <persName>Θεράπαινα</persName>
+               <persName type="variant">Θεράπαινα Ἀλκήστιδος</persName>
+               <persName xml:lang="en">Slave of Alcestis</persName>
+            </person>
+            <person xml:id="alkestis"
+                    sex="FEMALE"
+                    ana="https://www.wikidata.org/wiki/Q320449">
+               <persName>Ἄλκηστις</persName>
+               <persName xml:lang="en">Alcestis</persName>
+            </person>
+            <person xml:id="admetos"
+                    sex="MALE"
+                    ana="https://www.wikidata.org/wiki/Q192109">
+               <persName>Ἄδμητος</persName>
+               <persName xml:lang="en">Admetus</persName>
+            </person>
+            <person xml:id="pais"
+                    sex="MALE"
+                    ana="https://www.wikidata.org/wiki/Q1686620">
+               <persName>Παῖς</persName>
+               <persName type="variant">Παῖς Ἀλκήστιδος</persName>
+               <persName xml:lang="en">Child of Alcestis</persName>
+            </person>
+            <person xml:id="herakles"
+                    sex="MALE"
+                    ana="https://www.wikidata.org/wiki/Q122248">
+               <persName>Ἡρακλῆς</persName>
+               <persName xml:lang="en">Heracles</persName>
+            </person>
+            <person xml:id="pheres"
+                    sex="MALE"
+                    ana="https://www.wikidata.org/wiki/Q731181">
+               <persName>Φέρης</persName>
+               <persName xml:lang="en">Pheres</persName>
+            </person>
+            <person xml:id="therapon" sex="MALE">
+               <persName>Θεράπων</persName>
+               <persName xml:lang="en">Slave</persName>
+            </person>
+         </listPerson>
+      </particDesc>
+   </play>
    <play id="greek000043"
          source="tlg0006/tlg003/tlg0006.tlg003.perseus-grc2.xml"
          slug="euripides-medea"
-         wikidata="Q286381"/>
+         wikidata="Q286381">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Μήδεια</title>
+         <title xml:lang="la">Medea</title>
+         <title xml:lang="en">Medea</title>
+         <title type="short">Med.</title>
+         <author>
+            <persName>Εὐριπίδης</persName>
+            <persName xml:lang="la">Euripides</persName>
+            <persName xml:lang="en">Euripides</persName>
+            <idno type="wikidata">Q48305</idno>
+         </author>
+         <editor>
+            <persName>Gilbert Murray</persName>
+            <idno type="wikidata">Q538478</idno>
+         </editor>
+      </titleStmt>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="trophos" sex="FEMALE">
+               <persName>Τροφός</persName>
+               <persName xml:lang="en">Nurse</persName>
+            </person>
+            <person xml:id="kreon"
+                    sex="MALE"
+                    ana="https://www.wikidata.org/wiki/Q786573">
+               <persName>Κρέων</persName>
+               <persName xml:lang="en">Creon</persName>
+            </person>
+            <personGrp xml:id="paides" sex="UNKNOWN">
+               <name>Παῖδες</name>
+               <name type="variant">Παῖδες Μηδείας</name>
+               <name xml:lang="en">Children of Medea</name>
+            </personGrp>
+            <person xml:id="paidagogos" sex="MALE">
+               <persName>Παιδαγωγός</persName>
+               <persName xml:lang="en">Old Slave</persName>
+            </person>
+            <person xml:id="iason"
+                    sex="MALE"
+                    ana="https://www.wikidata.org/wiki/Q176758">
+               <persName>Ἰάσων</persName>
+               <persName xml:lang="en">Jason</persName>
+            </person>
+            <personGrp xml:id="choros" sex="FEMALE">
+               <name>Χορός</name>
+               <name type="variant">Χορὸς γυναικών</name>
+               <name xml:lang="en">Chrous of Corinthian Women</name>
+            </personGrp>
+            <person xml:id="aigeus"
+                    sex="MALE"
+                    ana="https://www.wikidata.org/wiki/Q191725">
+               <persName>Αἰγεύς</persName>
+               <persName xml:lang="en">Aegeus</persName>
+            </person>
+            <person xml:id="medeia"
+                    sex="FEMALE"
+                    ana="https://www.wikidata.org/wiki/Q174278">
+               <persName>Μήδεια</persName>
+               <persName xml:lang="en">Medea</persName>
+            </person>
+            <person xml:id="angelos" sex="MALE">
+               <persName>Ἄγγελος</persName>
+               <persName xml:lang="en">Messenger</persName>
+            </person>
+         </listPerson>
+      </particDesc>
+   </play>
    <play id="greek000044"
          source="tlg0006/tlg004/tlg0006.tlg004.perseus-grc2.xml"
          slug="euripides-children-of-heracles"
-         wikidata="Q1233203"/>
+         wikidata="Q1233203">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Ἡρακλεῖδαι</title>
+         <title xml:lang="la">Heraclidae</title>
+         <title xml:lang="en">Children of Heracles</title>
+         <title type="short">Heracl.</title>
+         <author>
+            <persName>Εὐριπίδης</persName>
+            <persName xml:lang="la">Euripides</persName>
+            <persName xml:lang="en">Euripides</persName>
+            <idno type="wikidata">Q48305</idno>
+         </author>
+         <editor>
+            <persName>Gilbert Murray</persName>
+            <idno type="wikidata">Q538478</idno>
+         </editor>
+      </titleStmt>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="iolaos"
+                    sex="MALE"
+                    ana="https://www.wikidata.org/wiki/Q504076">
+               <persName>Ἰόλαος</persName>
+               <persName xml:lang="en">Iolaus</persName>
+            </person>
+            <person xml:id="kerux"
+                    sex="MALE"
+                    ana="https://www.wikidata.org/wiki/Q2641203">
+               <persName>Κῆρυξ</persName>
+               <persName xml:lang="en">Herald</persName>
+            </person>
+            <personGrp xml:id="choros" sex="MALE">
+               <name>Χορός</name>
+               <name xml:lang="en">Chorus of Aged Athenians</name>
+            </personGrp>
+            <person xml:id="demophon"
+                    sex="MALE"
+                    ana="https://www.wikidata.org/wiki/Q912376">
+               <persName>Δημοφῶν</persName>
+               <persName xml:lang="en">Demophon</persName>
+            </person>
+            <person xml:id="makaria"
+                    sex="FEMALE"
+                    ana="https://www.wikidata.org/wiki/Q1550960">
+               <persName>Μακαρία</persName>
+               <persName type="variant">Μακαρία Παρθένος</persName>
+               <persName xml:lang="en">Macaria</persName>
+            </person>
+            <person xml:id="therapon" sex="MALE">
+               <persName>Θεράπων</persName>
+               <persName xml:lang="en">Slave</persName>
+            </person>
+            <person xml:id="alkmene"
+                    sex="FEMALE"
+                    ana="https://www.wikidata.org/wiki/Q190543">
+               <persName>Ἀλκμήνη</persName>
+               <persName xml:lang="en">Alcmena</persName>
+            </person>
+            <person xml:id="angelos" sex="MALE">
+               <persName>Ἀγγελος</persName>
+               <persName xml:lang="en">Messenger</persName>
+            </person>
+            <person xml:id="eurystheus"
+                    sex="MALE"
+                    ana="https://www.wikidata.org/wiki/Q212087">
+               <persName>Ἐυρυσθεύς</persName>
+               <persName xml:lang="en">Eurystheus</persName>
+            </person>
+         </listPerson>
+      </particDesc>
+   </play>
    <play id="greek000045"
          source="tlg0006/tlg005/tlg0006.tlg005.perseus-grc2.xml"
          slug="euripides-hippolytus"
-         wikidata="Q375786"/>
+         wikidata="Q375786">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Ἱππόλυτος</title>
+         <title xml:lang="la">Hippolytus</title>
+         <title xml:lang="en">Hippolytus</title>
+         <title type="short">Hipp.</title>
+         <author>
+            <persName>Εὐριπίδης</persName>
+            <persName xml:lang="la">Euripides</persName>
+            <persName xml:lang="en">Euripides</persName>
+            <idno type="wikidata">Q48305</idno>
+         </author>
+         <editor>
+            <persName>Gilbert Murray</persName>
+            <idno type="wikidata">Q538478</idno>
+         </editor>
+      </titleStmt>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="aphrodite"
+                    sex="FEMALE"
+                    ana="https://www.wikidata.org/wiki/Q35500">
+               <persName>Ἀφροδίτη</persName>
+               <persName xml:lang="en">Aphrodite</persName>
+            </person>
+            <person xml:id="hippolytus"
+                    sex="MALE"
+                    ana="https://www.wikidata.org/wiki/Q338201">
+               <persName>Ἱππόλυτος</persName>
+               <persName xml:lang="en">Hippolytus</persName>
+            </person>
+            <personGrp xml:id="choros-kynegon" sex="MALE">
+               <name>Χορὸς Κυνηγῶν</name>
+               <name type="variant">Χορός</name>
+               <name xml:lang="en">Chorus of Hunters</name>
+            </personGrp>
+            <person xml:id="therapon" sex="MALE">
+               <persName>Θεράπων</persName>
+               <persName xml:lang="en">Slave</persName>
+            </person>
+            <personGrp xml:id="choros-troizenion-gynaikon" sex="FEMALE">
+               <name>Χορὸς Τροιζηνίων Γυναικών</name>
+               <name type="variant">Χορός</name>
+               <name xml:lang="en">Chorus of Troezenian Women</name>
+            </personGrp>
+            <person xml:id="trophos" sex="FEMALE">
+               <persName>Τροφός</persName>
+               <persName xml:lang="en">Nurse</persName>
+            </person>
+            <person xml:id="phaidra"
+                    sex="FEMALE"
+                    ana="https://www.wikidata.org/wiki/Q212818">
+               <persName>Φαίδρα</persName>
+               <persName xml:lang="en">Phaedra</persName>
+            </person>
+            <person xml:id="theseus"
+                    sex="MALE"
+                    ana="https://www.wikidata.org/wiki/Q1320718">
+               <persName>Θησεύς</persName>
+               <persName xml:lang="en">Theseus</persName>
+            </person>
+            <person xml:id="angelos" sex="MALE">
+               <persName>Ἄγγελος</persName>
+               <persName xml:lang="en">Messenger</persName>
+            </person>
+            <person xml:id="artemis"
+                    sex="FEMALE"
+                    ana="https://www.wikidata.org/wiki/Q39503">
+               <persName>Ἄρτεμις</persName>
+               <persName xml:lang="en">Artemis</persName>
+            </person>
+         </listPerson>
+      </particDesc>
+   </play>
    <play id="greek000046"
          source="tlg0006/tlg006/tlg0006.tlg006.perseus-grc2.xml"
          slug="euripides-andromache"
-         wikidata="Q512802"/>
+         wikidata="Q512802">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Ἀνδρομάχη</title>
+         <title xml:lang="la">Andromache</title>
+         <title xml:lang="en">Andromache</title>
+         <title type="short">Andr.</title>
+         <author>
+            <persName>Εὐριπίδης</persName>
+            <persName xml:lang="la">Euripides</persName>
+            <persName xml:lang="en">Euripides</persName>
+            <idno type="wikidata">Q48305</idno>
+         </author>
+         <editor>
+            <persName>Gilbert Murray</persName>
+            <idno type="wikidata">Q538478</idno>
+         </editor>
+      </titleStmt>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="andromache"
+                    sex="FEMALE"
+                    ana="https://www.wikidata.org/wiki/Q19376">
+               <persName>Ἀνδρομάχη</persName>
+               <persName xml:lang="en">Andromache</persName>
+            </person>
+            <person xml:id="therapaina" sex="FEMALE">
+               <persName>Θεράπαινα</persName>
+               <persName xml:lang="en">Slave</persName>
+            </person>
+            <personGrp xml:id="choros" sex="FEMALE">
+               <name>Χορός</name>
+               <name xml:lang="en">Chorus of Phthian Women</name>
+            </personGrp>
+            <person xml:id="hermione"
+                    sex="FEMALE"
+                    ana="https://www.wikidata.org/wiki/Q658523">
+               <persName>Ἑρμιόνη</persName>
+               <persName xml:lang="en">Hermione</persName>
+            </person>
+            <person xml:id="menelaos"
+                    sex="MALE"
+                    ana="https://www.wikidata.org/wiki/Q171839">
+               <persName>Μενέλαος</persName>
+               <persName xml:lang="en">Menelaus</persName>
+            </person>
+            <person xml:id="pais" sex="UNKNOWN">
+               <persName>Παῖς</persName>
+               <persName type="variant">Παῖς Ἀνδρομάχης</persName>
+               <persName xml:lang="en">Child of Andromache</persName>
+            </person>
+            <person xml:id="peleus"
+                    sex="MALE"
+                    ana="https://www.wikidata.org/wiki/Q178641">
+               <persName>Πηλεύς</persName>
+               <persName xml:lang="en">Peleus</persName>
+            </person>
+            <person xml:id="trophos" sex="FEMALE">
+               <persName>Τροφός</persName>
+               <persName xml:lang="en">Nurse</persName>
+            </person>
+            <person xml:id="orestes"
+                    sex="MALE"
+                    ana="https://www.wikidata.org/wiki/Q192407">
+               <persName>Ὀρέστης</persName>
+               <persName xml:lang="en">Orestes</persName>
+            </person>
+            <person xml:id="angelos" sex="MALE">
+               <persName>Ἄγγελος</persName>
+               <persName xml:lang="en">Messenger</persName>
+            </person>
+            <person xml:id="thetis"
+                    sex="FEMALE"
+                    ana="https://www.wikidata.org/wiki/Q184437">
+               <persName>Θέτις</persName>
+               <persName xml:lang="en">Thetis</persName>
+            </person>
+         </listPerson>
+      </particDesc>
+   </play>
 </index>

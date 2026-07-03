@@ -63,7 +63,7 @@
             <listPerson>
                <personGrp xml:id="choros-satyron"
                           sex="MALE"
-                          role="chorus satyrus filius"
+                          role="chorus_satyrus_filius"
                           ana="https://www.wikidata.org/wiki/Q163709">
                   <name>Χορὸς Σατύρων</name>
                   <name type="variant">Χορός</name>
@@ -71,7 +71,7 @@
                </personGrp>
                <personGrp xml:id="hemichoros-a"
                           sex="MALE"
-                          role="semichorus satyrus filius"
+                          role="semichorus_satyrus_filius"
                           corresp="#choros-satyron"
                           ana="https://www.wikidata.org/wiki/Q163709">
                   <name>Ἡμιχορὸς α</name>
@@ -81,7 +81,7 @@
                </personGrp>
                <personGrp xml:id="hemichoros-b"
                           sex="MALE"
-                          role="semichorus satyrus filius"
+                          role="semichorus_satyrus_filius"
                           corresp="#choros-satyron"
                           ana="https://www.wikidata.org/wiki/Q163709">
                   <name>Ἡμιχορὸς β</name>
@@ -90,7 +90,7 @@
                </personGrp>
                <person xml:id="silenos"
                        sex="MALE"
-                       role="satyrus pater"
+                       role="satyrus_pater"
                        ana="http://www.wikidata.org/entity/Q464091">
                   <persName>Σιληνός</persName>
                   <persName xml:lang="en">Silenus</persName>
@@ -125,7 +125,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-06-28">Transformed into DraCor TEI</change>
+         <change when="2026-07-03">Transformed into DraCor TEI</change>
          <change when="2017-02-16" who="Lisa Cerrato">review of EpiDoc and CTS compliance; removed English from notes; entities, etc.</change>
          <change when="2016-01-15" who="TDBuck">p4 to p5</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>

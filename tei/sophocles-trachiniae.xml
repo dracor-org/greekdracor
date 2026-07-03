@@ -82,7 +82,7 @@
                   <persName>Ὕλλος</persName>
                   <persName xml:lang="en">Hyllus</persName>
                </person>
-               <personGrp xml:id="choros" sex="FEMALE" role="chorus virgo">
+               <personGrp xml:id="choros" sex="FEMALE" role="chorus_virgo">
                   <name>Χορός</name>
                   <name type="variant">Χορὸς Παρθενών Τραχινίων</name>
                   <name xml:lang="en">Chorus of Trachinian Maidens</name>
@@ -90,14 +90,14 @@
                </personGrp>
                <personGrp xml:id="hemichorion-1"
                           sex="FEMALE"
-                          role="semichorus virgo"
+                          role="semichorus_virgo"
                           corresp="#choros">
                   <name>Ἡμιχόριον 1</name>
                   <name xml:lang="en">Semi-Chorus 1</name>
                </personGrp>
                <personGrp xml:id="hemichorion-2"
                           sex="FEMALE"
-                          role="semichorus virgo"
+                          role="semichorus_virgo"
                           corresp="#choros">
                   <name>Ἡμιχόριον 2</name>
                   <name xml:lang="en">Semi-Chorus 2</name>
@@ -138,7 +138,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-06-28">Transformed into DraCor TEI</change>
+         <change when="2026-07-03">Transformed into DraCor TEI</change>
          <change when="2017-01-24" who="Lisa Cerrato">improvements to markup; change log, quotes, etc.</change>
          <change when="2016-01-14" who="TDBuck">Hookified</change>
          <change when="2015" who="Stella Dee">converted to EpiDoc</change>

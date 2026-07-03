@@ -99,7 +99,7 @@
                   <persName xml:lang="en">Herald of the Sons of Aegyptus</persName>
                   <persName type="variant">&lt;Κῆρυξ&gt;</persName>
                </person>
-               <personGrp xml:id="choros-therapainon" sex="FEMALE" role="chorus ancilla">
+               <personGrp xml:id="choros-therapainon" sex="FEMALE" role="chorus_ancilla">
                   <name>Χορὸς Θεραπαινῶν</name>
                   <name type="variant">Χορός Θεραπαινῶν</name>
                   <name xml:lang="en">Chorus of Handmaidens</name>
@@ -141,7 +141,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-06-28">Transformed into DraCor TEI</change>
+         <change when="2026-07-03">Transformed into DraCor TEI</change>
          <change when="2017-02-22" who="Lisa Cerrato">review of EpiDoc and CTS markup; adding line numbers, fixing change log, etc.</change>
          <change who="TDBuck" when="2016-01-11">p4 to p5</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>

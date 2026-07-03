@@ -84,21 +84,21 @@
                   <persName>Αἴας</persName>
                   <persName xml:lang="en">Ajax</persName>
                </person>
-               <personGrp xml:id="choros" sex="MALE" role="chorus nauta">
+               <personGrp xml:id="choros" sex="MALE" role="chorus_nauta">
                   <name>Χορός</name>
                   <name type="variant">Χορὸς Σαλαμινίων Ναυτῶν</name>
                   <name xml:lang="en">Chorus of Mariners of Salamis</name>
                </personGrp>
                <personGrp xml:id="hemichorion-1"
                           sex="MALE"
-                          role="semichorus nauta"
+                          role="semichorus_nauta"
                           corresp="#choros">
                   <name>Ἡμιχόριον 1</name>
                   <name xml:lang="en">Semi-Chorus 1</name>
                </personGrp>
                <personGrp xml:id="hemichorion-2"
                           sex="MALE"
-                          role="semichorus nauta"
+                          role="semichorus_nauta"
                           corresp="#choros">
                   <name>Ἡμιχόριον 2</name>
                   <name xml:lang="en">Semi-Chorus 2</name>
@@ -151,7 +151,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-06-28">Transformed into DraCor TEI</change>
+         <change when="2026-07-03">Transformed into DraCor TEI</change>
          <change when="2017-02-06" who="Lisa Cerrato">revising structure to reflect break at lines</change>
          <change when="2017-01-23" who="Lisa Cerrato">improvements to line numbering, change log, quotes, etc.</change>
          <change when="2016-01-15" who="TDBuck">p4 to p5</change>

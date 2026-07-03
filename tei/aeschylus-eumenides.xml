@@ -91,7 +91,7 @@
                </person>
                <personGrp xml:id="choros"
                           sex="FEMALE"
-                          role="chorus dea"
+                          role="chorus_dea"
                           ana="http://www.wikidata.org/entity/Q180262">
                   <name>Χορός</name>
                   <name type="variant">Χορὸς Εὐμενίδων</name>
@@ -122,7 +122,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-06-28">Transformed into DraCor TEI</change>
+         <change when="2026-07-03">Transformed into DraCor TEI</change>
          <change when="2017-03-08" who="Lisa Cerrato">review of structure, adding line numbers, removing entities and quotes, etc.</change>
          <change when="2016-01-14" who="TDBuck">p4 to p5</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>

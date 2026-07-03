@@ -97,7 +97,7 @@
                   <persName>Χάρων</persName>
                   <persName xml:lang="en">Charon</persName>
                </person>
-               <personGrp xml:id="batrachoi" sex="UNKNOWN" role="chorus rana">
+               <personGrp xml:id="batrachoi" sex="UNKNOWN" role="chorus_rana">
                   <name>Βάτραχοι</name>
                   <name type="variant">Παραχορήγημα βατράχων</name>
                   <name xml:lang="en">Secondary Chorus of Frogs</name>
@@ -160,7 +160,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-06-28">Transformed into DraCor TEI</change>
+         <change when="2026-07-03">Transformed into DraCor TEI</change>
          <change when="2023-02-27" who="Lisa Cerrato">EpiDoc and CTS updates: header compliance and said to speaker changes as well as line numbering verification</change>
          <change when="2017-02-03" who="TDBuck">CTS and epidoc updates part of reading list updates</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>

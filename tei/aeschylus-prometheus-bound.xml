@@ -87,7 +87,7 @@
                </person>
                <personGrp xml:id="choros"
                           sex="FEMALE"
-                          role="chorus dea filia"
+                          role="chorus_dea_filia"
                           ana="http://www.wikidata.org/entity/Q20575671">
                   <name>Χορός</name>
                   <name type="variant">Χορὸς Ὠκεανίδων</name>
@@ -129,7 +129,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-06-28">Transformed into DraCor TEI</change>
+         <change when="2026-07-03">Transformed into DraCor TEI</change>
          <change when="2017-02-24" who="Lisa Cerrato">adding line numbers and fixing markup inconsistencies; restoring deleted log; fixing structure</change>
          <change when="2016-01-12" who="TDBuck">cleaned up small problems in SS's version</change>
          <change when="2014-06-19" who="Bridget Almas">Added line numbers</change>

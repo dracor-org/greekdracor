@@ -84,7 +84,7 @@
                   <persName>Ἠλέκτρα</persName>
                   <persName xml:lang="en">Electra</persName>
                </person>
-               <personGrp xml:id="choros" sex="FEMALE" role="chorus virgo">
+               <personGrp xml:id="choros" sex="FEMALE" role="chorus_virgo">
                   <name>Χορός</name>
                   <name xml:lang="en">Chorus of Mycenean Women</name>
                </personGrp>
@@ -124,7 +124,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-06-28">Transformed into DraCor TEI</change>
+         <change when="2026-07-03">Transformed into DraCor TEI</change>
          <change when="2017-02-07" who="Lisa Cerrato">changes to structure and adding line numbers</change>
          <change when="2017-01-13" who="Lisa Cerrato">fixed change log</change>
          <change when="2016-01-15" who="TDBuck">p4 to p5</change>

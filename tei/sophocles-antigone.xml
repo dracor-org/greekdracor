@@ -77,7 +77,7 @@
                   <persName>Ἰσμήνη</persName>
                   <persName xml:lang="en">Ismene</persName>
                </person>
-               <personGrp xml:id="choros" sex="MALE" role="chorus senex">
+               <personGrp xml:id="choros" sex="MALE" role="chorus_senex">
                   <name>Χορός</name>
                   <name xml:lang="en">Chorus of Theban Elders</name>
                </personGrp>
@@ -138,7 +138,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-06-28">Transformed into DraCor TEI</change>
+         <change when="2026-07-03">Transformed into DraCor TEI</change>
          <change when="2017-01-25" who="Lisa Cerrato">fixing change log, adding line numbers</change>
          <change when="2016-01-15" who="TDBuck">CTS RefsDecl added fixed divs for CTS</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>

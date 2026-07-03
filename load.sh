@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-for f in reboot/*.xml; do
+for f in tei/*.xml; do
   echo
   n=$(basename $f .xml)
   echo "Loading $n..."

@@ -9,7 +9,7 @@ Content: 7 plays by Aeschylus, 8 by Sophocles, 19 by Euripides, 11 by Aristophan
 
 Betacode to Unicode conversion done with [betacode 0.2](https://pypi.org/project/betacode/).
 
-## Scans of the editions on which the Perseus Digital Library team based their digitisation:
+## Scans of the editions on which the Perseus Digital Library team based their digitisation
 
 * Aeschylus. With an English translation by Herbert Weir Smyth. In two volumes. 
   * [Volume I. London: William Heinemann; New York: G. P. Putnam’s Sons 1922. (= The Loeb Classical Library 145).](https://archive.org/details/L145AeschylusISuppliantPersiansPrometheusSevenAgainstThebes/page/n2/)

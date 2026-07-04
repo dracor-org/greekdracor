@@ -1,15 +1,13 @@
 # GreekDraCor
-Ancient Greek drama. **39 plays** in [TEI P5](https://tei-c.org/guidelines/p5/) format, adapted from the [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/opensource/download), first converted to DraCor format in May 2019. Licenced under [CC BY-SA 3.0 US](https://creativecommons.org/licenses/by-sa/3.0/us/). Menander's comedy “Dyskolos” derived from Wikisource, licenced under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+Ancient Greek drama. 45 plays in [TEI P5](https://tei-c.org/guidelines/p5/) format, adapted from the [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/opensource/download), first converted to DraCor format in May 2019. Licenced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Menander's comedy “Dyskolos” derived from Wikisource, licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 
 The corpus is maintained by Julia Jennifer Beine (University of Würzburg) and Frank Fischer (Freie Universität Berlin).
 
-Update: This corpus will be completely rebooted in 2026, also adding the latest versions from the PDL. 
+**Update: This corpus is currently being completely rebooted in 2026, also adding the latest versions from the PDL.** 
 
-Content: 7 plays by Aeschylus, 8 by Sophocles, 13 by Euripides, 11 by Aristophanes, 1 by Menander.
+Content: 7 plays by Aeschylus, 8 by Sophocles, 19 by Euripides, 11 by Aristophanes, 1 by Menander.
 
 Betacode to Unicode conversion done with [betacode 0.2](https://pypi.org/project/betacode/).
-
-Thanks to Dmitry S. Krylov for the metric markup (June 2020).
 
 ## Scans of the editions on which the Perseus Digital Library team based their digitisation:
 
@@ -30,7 +28,7 @@ Thanks to Dmitry S. Krylov for the metric markup (June 2020).
 
 * Euripidis Fabulae. Recognovit brevique adnotatione critica instruxit Gilbertus Murray.
   * [Tomus I. Oxford: Clarendon Press 1902 (= Scriptorum Classicorum Bibliotheca Oxoniensis).](https://archive.org/details/euripidisfabulae01euriuoft/page/n8/)
-    * <s>Cyclops.</s> <s>Alcestis.</s> <s>Medea.</s> <s>Heraclidae.</s> <s>Hippolytus.</s> <s>Andromacha.</s> Hecuba.
+    * Cyclops. Alcestis. Medea. Heraclidae. Hippolytus. Andromacha. Hecuba.
   * [Tomus II. 3rd edition. Oxford: Clarendon Press 1913 (= Scriptorum Classicorum Bibliotheca Oxoniensis).](https://archive.org/details/euripidisfabu02euri/page/1/)
     * Supplices. Hercules. Ion. Troiades. Electra. Iphigenia Taurica.
   * [Tomus III. 2nd edition. Oxford: Clarendon Press 1913 (= Scriptorum Classicorum Bibliotheca Oxoniensis).](https://archive.org/details/euripidisfabulae03euri_0/page/n6/)
@@ -41,15 +39,6 @@ Thanks to Dmitry S. Krylov for the metric markup (June 2020).
     * Acharnenses. Equites. Nubes. Vespae. Pax. Aves.
   * [Tomus II. 2nd edition. Oxford: Clarendon Press [1907] (= Scriptorum Classicorum Bibliotheca Oxoniensis).](https://archive.org/details/aristophaniscomo02arisuoft/page/n8)
     * Lysistrata. Thesmophoriazusae. Ranae. Ecclesiazusae. Plutus. <s>Fragmenta.</s>
-
-## Missing plays
-
-The [Greek Drama](https://www.perseus.tufts.edu/hopper/collection?collection=Perseus%3Acorpus%3Aperseus%2CGreek%20Drama) section of Perseus features more plays by Euripides. They are from an edition that does not seem to be in the public domain:
-
-* Euripides, with an English translation by David Kovacs. Cambridge. Harvard University Press. Forthcoming (1994?).
-  * Alcestis. Andromache. Cyclops. Heracleidae. Hippolytus. Medea.
-
-These plays are not in the downloadable set of Greek plays. We are ready to add them to the Greek Drama Corpus as soon as the copyright situation is clarified.
 
 ## Generate from Perseus Files
 

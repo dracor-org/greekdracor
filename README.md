@@ -7,8 +7,6 @@ The corpus is maintained by Julia Jennifer Beine (University of Würzburg) and F
 
 Content: 7 plays by Aeschylus, 8 by Sophocles, 19 by Euripides, 11 by Aristophanes, 1 by Menander.
 
-Betacode to Unicode conversion done with [betacode 0.2](https://pypi.org/project/betacode/).
-
 ## Scans of the editions on which the Perseus Digital Library team based their digitisation
 
 * Aeschylus. With an English translation by Herbert Weir Smyth. In two volumes. 

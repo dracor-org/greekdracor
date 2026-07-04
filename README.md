@@ -1,5 +1,5 @@
 # GreekDraCor
-Ancient Greek drama. 45 plays in [TEI P5](https://tei-c.org/guidelines/p5/) format, adapted from the [Perseus Digital Library](https://github.com/PerseusDL), first converted to DraCor format in May 2019, rebooted in 2026. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Menander's comedy “Dyskolos” derived from Wikisource, licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+Ancient Greek drama. 45 plays in [TEI P5](https://tei-c.org/guidelines/p5/) format, adapted from the [Perseus Digital Library](https://github.com/PerseusDL), first converted to DraCor format in May 2019, rebooted in 2026. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Menander’s comedy “Dyskolos” derived from Wikisource, licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 
 The corpus is maintained by Julia Jennifer Beine (University of Würzburg) and Frank Fischer (Freie Universität Berlin).
 

@@ -28,6 +28,12 @@
           on GitHub</ref>.
         </p>
       </projectDesc>
+      <refsDecl>
+        <citeStructure
+          unit="scene"
+          match="/tei:TEI//tei:body//tei:div[@type='textpart' and @subtype =('choral', 'episode', 'Agon', 'Choral', 'Episode', 'Exodus', 'Lyric-Scene', 'Parabasis', 'Parodos', 'Prologue')]"
+          use="position()" />
+      </refsDecl>
     </encodingDesc>
   </teiHeader>
 </teiCorpus>

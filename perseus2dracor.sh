@@ -4,7 +4,7 @@
 for f in tei/*.xml; do
   slug=$(basename "$f" .xml)
   if ! grep -q "slug=\"$slug\"" index.xml; then
-    echo "$f"
+    rm -v "$f"
   fi
 done
 

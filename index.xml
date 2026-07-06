@@ -34,36 +34,31 @@
       </listEvent>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="dionysos"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q41680">
+            <person xml:id="dionysos" sex="MALE">
                <persName>Διόνυσος</persName>
                <persName xml:lang="en">Dionysus</persName>
                <persName type="variant">Διονυσος</persName>
+               <idno type="wikidata">Q41680</idno>
             </person>
-            <personGrp xml:id="choros"
-                       sex="FEMALE"
-                       ana="https://www.wikidata.org/wiki/Q209599">
+            <personGrp xml:id="choros" sex="FEMALE">
                <name>Χορός</name>
                <name xml:lang="en">Chorus of Asian Bacchants</name>
+               <idno type="wikidata">Q209599</idno>
             </personGrp>
-            <person xml:id="teiresias"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q656881">
+            <person xml:id="teiresias" sex="MALE">
                <persName>Τειρεσίας</persName>
                <persName xml:lang="en">Teiresias</persName>
+               <idno type="wikidata">Q656881</idno>
             </person>
-            <person xml:id="kadmos"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q27613">
+            <person xml:id="kadmos" sex="MALE">
                <persName>Κάδμος</persName>
                <persName xml:lang="en">Cadmus</persName>
+               <idno type="wikidata">Q27613</idno>
             </person>
-            <person xml:id="pentheus"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q391091">
+            <person xml:id="pentheus" sex="MALE">
                <persName>Πενθεύς</persName>
                <persName xml:lang="en">Pentheus</persName>
+               <idno type="wikidata">Q391091</idno>
             </person>
             <person xml:id="therapon" sex="MALE">
                <persName>Θεράπων</persName>
@@ -78,11 +73,10 @@
                <persName type="variant">Ἄγγελος</persName>
                <persName xml:lang="en">Second Messenger</persName>
             </person>
-            <person xml:id="agaue"
-                    sex="FEMALE"
-                    ana="https://www.wikidata.org/wiki/Q381459">
+            <person xml:id="agaue" sex="FEMALE">
                <persName>Ἀγαύη</persName>
                <persName xml:lang="en">Agave</persName>
+               <idno type="wikidata">Q381459</idno>
             </person>
          </listPerson>
       </particDesc>
@@ -117,23 +111,20 @@
       </listEvent>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="iphigeneia"
-                    sex="FEMALE"
-                    ana="http://www.wikidata.org/entity/Q192673">
+            <person xml:id="iphigeneia" sex="FEMALE">
                <persName>Ἰφιγένεια</persName>
                <persName xml:lang="en">Iphigenia</persName>
+               <idno type="wikidata">Q192673</idno>
             </person>
-            <person xml:id="orestes"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q192407">
+            <person xml:id="orestes" sex="MALE">
                <persName>Ὀρέστης</persName>
                <persName xml:lang="en">Orestes</persName>
+               <idno type="wikidata">Q192407</idno>
             </person>
-            <person xml:id="pylades"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q494886">
+            <person xml:id="pylades" sex="MALE">
                <persName>Πυλάδης</persName>
                <persName xml:lang="en">Pylades</persName>
+               <idno type="wikidata">Q494886</idno>
             </person>
             <personGrp xml:id="choros" sex="FEMALE">
                <name>Χορός</name>
@@ -143,21 +134,19 @@
                <persName>Βουκόλος</persName>
                <persName xml:lang="en">Herdsman</persName>
             </person>
-            <person xml:id="thoas"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q1246185">
+            <person xml:id="thoas" sex="MALE">
                <persName>Θόας</persName>
                <persName xml:lang="en">Thoas</persName>
+               <idno type="wikidata">Q1246185</idno>
             </person>
             <person xml:id="angelos" sex="MALE">
                <persName>Ἄγγελος</persName>
                <persName xml:lang="en">Messenger</persName>
             </person>
-            <person xml:id="athena"
-                    sex="FEMALE"
-                    ana="http://www.wikidata.org/entity/Q37122">
+            <person xml:id="athena" sex="FEMALE">
                <persName>Ἀθήνα</persName>
                <persName xml:lang="en">Athena</persName>
+               <idno type="wikidata">Q37122</idno>
             </person>
          </listPerson>
       </particDesc>
@@ -191,56 +180,49 @@
       </listEvent>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="polydorou-eidolon"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q346634">
+            <person xml:id="polydorou-eidolon" sex="MALE">
                <persName>Πολυδώρου εἴδωλον</persName>
                <persName xml:lang="en">Ghost of Polydorus</persName>
+               <idno type="wikidata">Q346634</idno>
             </person>
-            <person xml:id="hekabe"
-                    sex="FEMALE"
-                    ana="http://www.wikidata.org/entity/Q193433">
+            <person xml:id="hekabe" sex="FEMALE">
                <persName>Ἑκάβη</persName>
                <persName xml:lang="en">Hecuba</persName>
+               <idno type="wikidata">Q193433</idno>
             </person>
             <personGrp xml:id="choros" sex="FEMALE">
                <name>Χορός</name>
                <name type="variant">Χορὸς Αἰχμαλωτίδων Γυναικών</name>
                <name xml:lang="en">Chorus of Captive Trojan Women</name>
             </personGrp>
-            <person xml:id="polyxene"
-                    sex="FEMALE"
-                    ana="http://www.wikidata.org/entity/Q750236">
+            <person xml:id="polyxene" sex="FEMALE">
                <persName>Πολυξένη</persName>
                <persName xml:lang="en">Polyxena</persName>
+               <idno type="wikidata">Q750236</idno>
             </person>
-            <person xml:id="odysseus"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q47231">
+            <person xml:id="odysseus" sex="MALE">
                <persName>Ὀδυσσεύς</persName>
                <persName xml:lang="en">Odysseus</persName>
+               <idno type="wikidata">Q47231</idno>
             </person>
-            <person xml:id="talthybios"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q1367860">
+            <person xml:id="talthybios" sex="MALE">
                <persName>Ταλθύβιος</persName>
                <persName xml:lang="en">Talthybius</persName>
+               <idno type="wikidata">Q1367860</idno>
             </person>
             <person xml:id="therapaina" sex="FEMALE">
                <persName>Θεράπαινα</persName>
                <persName xml:lang="en">Maid</persName>
             </person>
-            <person xml:id="agamemnon"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q128176">
+            <person xml:id="agamemnon" sex="MALE">
                <persName>Ἀγαμέμνων</persName>
                <persName xml:lang="en">Agamemnon</persName>
+               <idno type="wikidata">Q128176</idno>
             </person>
-            <person xml:id="polymestor"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q2288153">
+            <person xml:id="polymestor" sex="MALE">
                <persName>Πολυμήστωρ</persName>
                <persName xml:lang="en">Polymestor</persName>
+               <idno type="wikidata">Q2288153</idno>
             </person>
          </listPerson>
       </particDesc>
@@ -279,43 +261,33 @@
                <persName type="variant">Πυθιὰς Προφῆτις</persName>
                <persName xml:lang="en">The Pythian Prophetess</persName>
             </person>
-            <person xml:id="apollon"
-                    sex="MALE"
-                    role="deus"
-                    ana="http://www.wikidata.org/entity/Q37340">
+            <person xml:id="apollon" sex="MALE" role="deus">
                <persName>Ἀπόλλων</persName>
                <persName xml:lang="en">Apollo</persName>
+               <idno type="wikidata">Q37340</idno>
             </person>
-            <person xml:id="orestes"
-                    sex="MALE"
-                    role="filius"
-                    ana="http://www.wikidata.org/entity/Q192407">
+            <person xml:id="orestes" sex="MALE" role="filius">
                <persName>Ὀρέστης</persName>
                <persName xml:lang="en">Orestes</persName>
+               <idno type="wikidata">Q192407</idno>
             </person>
-            <person xml:id="klytaimestras-eidolon"
-                    sex="FEMALE"
-                    role="uxor mater"
-                    ana="http://www.wikidata.org/entity/Q131157">
+            <person xml:id="klytaimestras-eidolon" sex="FEMALE" role="uxor mater">
                <persName>Κλυταιμήστρας Εἴδωλον</persName>
                <persName type="variant">Κλυταιμήστρα</persName>
                <persName xml:lang="en">Shade of Clytemnestra</persName>
+               <idno type="wikidata">Q131157</idno>
             </person>
-            <personGrp xml:id="choros"
-                       sex="FEMALE"
-                       role="chorus_dea"
-                       ana="http://www.wikidata.org/entity/Q180262">
+            <personGrp xml:id="choros" sex="FEMALE" role="chorus_dea">
                <name>Χορός</name>
                <name type="variant">Χορὸς Εὐμενίδων</name>
                <name xml:lang="en">Chorus of Erinyes</name>
                <name type="variant">Χορος</name>
+               <idno type="wikidata">Q180262</idno>
             </personGrp>
-            <person xml:id="athena"
-                    sex="FEMALE"
-                    role="dea"
-                    ana="http://www.wikidata.org/entity/Q37122">
+            <person xml:id="athena" sex="FEMALE" role="dea">
                <persName>Ἀθηνᾶ</persName>
                <persName xml:lang="en">Athena</persName>
+               <idno type="wikidata">Q37122</idno>
             </person>
             <personGrp xml:id="propompoi" sex="FEMALE" role="chorus">
                <name>Προπομποί</name>
@@ -360,12 +332,10 @@
       </listEvent>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="eteokles"
-                    sex="MALE"
-                    role="rex"
-                    ana="http://www.wikidata.org/entity/Q506550">
+            <person xml:id="eteokles" sex="MALE" role="rex">
                <persName>Ἐτεοκλής</persName>
                <persName xml:lang="en">Eteocles</persName>
+               <idno type="wikidata">Q506550</idno>
             </person>
             <person xml:id="angelos" sex="MALE" role="nuntius">
                <persName>Ἄγγελος</persName>
@@ -391,19 +361,15 @@
                <name>Ἡμιχόριον Β</name>
                <name xml:lang="en">Semi-Chorus B</name>
             </personGrp>
-            <person xml:id="antigone"
-                    sex="FEMALE"
-                    role="soror"
-                    ana="http://www.wikidata.org/entity/Q131351">
+            <person xml:id="antigone" sex="FEMALE" role="soror">
                <persName>Ἀντιγόνη</persName>
                <persName xml:lang="en">Antigone</persName>
+               <idno type="wikidata">Q131351</idno>
             </person>
-            <person xml:id="ismene"
-                    sex="FEMALE"
-                    role="soror"
-                    ana="http://www.wikidata.org/entity/Q753902">
+            <person xml:id="ismene" sex="FEMALE" role="soror">
                <persName>Ἰσμήνη</persName>
                <persName xml:lang="en">Ismene</persName>
+               <idno type="wikidata">Q753902</idno>
             </person>
             <person xml:id="keryx" sex="MALE" role="praeco">
                <persName>Κῆρυξ</persName>
@@ -446,27 +412,24 @@
       </listEvent>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="aithra"
-                    sex="FEMALE"
-                    ana="http://www.wikidata.org/entity/Q11921121">
+            <person xml:id="aithra" sex="FEMALE">
                <persName>Αἴθρα</persName>
                <persName xml:lang="en">Aethra</persName>
+               <idno type="wikidata">Q11921121</idno>
             </person>
             <personGrp xml:id="choros" sex="FEMALE">
                <name>Χορός</name>
                <name xml:lang="en">Chorus of the Mothers of the Seven</name>
             </personGrp>
-            <person xml:id="theseus"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q1320718">
+            <person xml:id="theseus" sex="MALE">
                <persName>Θησεύς</persName>
                <persName xml:lang="en">Theseus</persName>
+               <idno type="wikidata">Q1320718</idno>
             </person>
-            <person xml:id="adrastos"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q223152">
+            <person xml:id="adrastos" sex="MALE">
                <persName>Ἄδραστος</persName>
                <persName xml:lang="en">Adrastus</persName>
+               <idno type="wikidata">Q223152</idno>
             </person>
             <person xml:id="keryx" sex="MALE">
                <persName>Κῆρυξ</persName>
@@ -476,27 +439,24 @@
                <persName>Ἄγγελος</persName>
                <persName xml:lang="en">Messenger</persName>
             </person>
-            <person xml:id="euadne"
-                    sex="FEMALE"
-                    ana="https://www.wikidata.org/wiki/Q1142062">
+            <person xml:id="euadne" sex="FEMALE">
                <persName>Εὐάδνη</persName>
                <persName xml:lang="en">Evadne</persName>
+               <idno type="wikidata">Q1142062</idno>
             </person>
-            <person xml:id="iphis"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q696330">
+            <person xml:id="iphis" sex="MALE">
                <persName>Ἶφις</persName>
                <persName xml:lang="en">Iphis</persName>
+               <idno type="wikidata">Q696330</idno>
             </person>
             <personGrp xml:id="paides">
                <name>Παῖδες</name>
                <persName xml:lang="en">Sons of the Seven</persName>
             </personGrp>
-            <person xml:id="athena"
-                    sex="FEMALE"
-                    ana="http://www.wikidata.org/entity/Q37122">
+            <person xml:id="athena" sex="FEMALE">
                <persName>Ἀθήνα</persName>
                <persName xml:lang="en">Athena</persName>
+               <idno type="wikidata">Q37122</idno>
             </person>
          </listPerson>
       </particDesc>
@@ -531,26 +491,20 @@
       </listEvent>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="athena"
-                    sex="FEMALE"
-                    role="dea"
-                    ana="http://www.wikidata.org/entity/Q37122">
+            <person xml:id="athena" sex="FEMALE" role="dea">
                <persName>Ἀθήνα</persName>
                <persName xml:lang="en">Athena</persName>
+               <idno type="wikidata">Q37122</idno>
             </person>
-            <person xml:id="odysseus"
-                    sex="MALE"
-                    role="heros rex"
-                    ana="http://www.wikidata.org/entity/Q47231">
+            <person xml:id="odysseus" sex="MALE" role="heros rex">
                <persName>Ὀδυσσεύς</persName>
                <persName xml:lang="en">Odysseus</persName>
+               <idno type="wikidata">Q47231</idno>
             </person>
-            <person xml:id="aias"
-                    sex="MALE"
-                    role="heros"
-                    ana="http://www.wikidata.org/entity/Q172725">
+            <person xml:id="aias" sex="MALE" role="heros">
                <persName>Αἴας</persName>
                <persName xml:lang="en">Ajax</persName>
+               <idno type="wikidata">Q172725</idno>
             </person>
             <personGrp xml:id="choros" sex="MALE" role="chorus_nauta">
                <name>Χορός</name>
@@ -571,37 +525,29 @@
                <name>Ἡμιχόριον 2</name>
                <name xml:lang="en">Semi-Chorus 2</name>
             </personGrp>
-            <person xml:id="tekmessa"
-                    sex="FEMALE"
-                    role="uxor"
-                    ana="http://www.wikidata.org/entity/Q10796858">
+            <person xml:id="tekmessa" sex="FEMALE" role="uxor">
                <persName>Τέκμησσα</persName>
                <persName xml:lang="en">Tecmessa</persName>
+               <idno type="wikidata">Q10796858</idno>
             </person>
             <person xml:id="angelos" sex="MALE" role="nuntius">
                <persName>Ἄγγελος</persName>
                <persName xml:lang="en">A Messenger</persName>
             </person>
-            <person xml:id="teukros"
-                    sex="MALE"
-                    role="heros"
-                    ana="http://www.wikidata.org/entity/Q878184">
+            <person xml:id="teukros" sex="MALE" role="heros">
                <persName>Τεῦκρος</persName>
                <persName xml:lang="en">Teucer</persName>
+               <idno type="wikidata">Q878184</idno>
             </person>
-            <person xml:id="menelaos"
-                    sex="MALE"
-                    role="heros rex"
-                    ana="http://www.wikidata.org/entity/Q171839">
+            <person xml:id="menelaos" sex="MALE" role="heros rex">
                <persName>Μενέλαος</persName>
                <persName xml:lang="en">Menelaus</persName>
+               <idno type="wikidata">Q171839</idno>
             </person>
-            <person xml:id="agamemnon"
-                    sex="MALE"
-                    role="heros rex"
-                    ana="http://www.wikidata.org/entity/Q128176">
+            <person xml:id="agamemnon" sex="MALE" role="heros rex">
                <persName>Ἀγαμέμνων</persName>
                <persName xml:lang="en">Agamemnon</persName>
+               <idno type="wikidata">Q128176</idno>
             </person>
             <listRelation>
                <relation name="associated_with" active="#odysseus" passive="#athena"/>
@@ -645,52 +591,42 @@
       </listEvent>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="orestes"
-                    sex="MALE"
-                    role="filius"
-                    ana="http://www.wikidata.org/entity/Q192407">
+            <person xml:id="orestes" sex="MALE" role="filius">
                <persName>Ὀρέστης</persName>
                <persName xml:lang="en">Orestes</persName>
+               <idno type="wikidata">Q192407</idno>
             </person>
             <personGrp xml:id="choros" sex="FEMALE" role="ancilla">
                <name>Χορός</name>
                <name xml:lang="en">Chorus of Slave-Women</name>
             </personGrp>
-            <person xml:id="elektra"
-                    sex="FEMALE"
-                    role="filia"
-                    ana="http://www.wikidata.org/entity/Q131651">
+            <person xml:id="elektra" sex="FEMALE" role="filia">
                <persName>Ἠλέκτρα</persName>
                <persName xml:lang="en">Electra</persName>
+               <idno type="wikidata">Q131651</idno>
             </person>
             <person xml:id="oiketes" sex="MALE" role="servus">
                <persName>Οἰκέτης</persName>
                <persName xml:lang="en">A Servant</persName>
             </person>
-            <person xml:id="klytaimnestra"
-                    sex="FEMALE"
-                    role="uxor mater regina"
-                    ana="http://www.wikidata.org/entity/Q131157">
+            <person xml:id="klytaimnestra" sex="FEMALE" role="uxor mater regina">
                <persName>Κλυταιμνήστρα</persName>
                <persName xml:lang="en">Clytemnestra</persName>
+               <idno type="wikidata">Q131157</idno>
             </person>
-            <person xml:id="pylades"
-                    sex="MALE"
-                    role="amicus"
-                    ana="http://www.wikidata.org/entity/Q494886">
+            <person xml:id="pylades" sex="MALE" role="amicus">
                <persName>Πυλάδης</persName>
                <persName xml:lang="en">Pylades</persName>
+               <idno type="wikidata">Q494886</idno>
             </person>
             <person xml:id="trophos" sex="FEMALE" role="nutrix">
                <persName>Τροφός</persName>
                <persName xml:lang="en">A Nurse</persName>
             </person>
-            <person xml:id="aigisthos"
-                    sex="MALE"
-                    role="rex"
-                    ana="http://www.wikidata.org/entity/Q212091">
+            <person xml:id="aigisthos" sex="MALE" role="rex">
                <persName>Αἴγισθος</persName>
                <persName xml:lang="en">Aegisthus</persName>
+               <idno type="wikidata">Q212091</idno>
             </person>
             <listRelation>
                <relation name="parent_of"
@@ -746,25 +682,21 @@
                <persName>Μνησίλοχος</persName>
                <persName xml:lang="en">Mnesilochus</persName>
             </person>
-            <person xml:id="euripides"
-                    sex="MALE"
-                    role="poeta"
-                    ana="http://www.wikidata.org/entity/Q48305">
+            <person xml:id="euripides" sex="MALE" role="poeta">
                <persName>Εὐριπίδης</persName>
                <persName xml:lang="en">Euripides</persName>
+               <idno type="wikidata">Q48305</idno>
             </person>
             <person xml:id="therapon" sex="MALE" role="servus">
                <persName>Θεράπων</persName>
                <persName type="variant">Θεράπων Ἀγάθωνος</persName>
                <persName xml:lang="en">A Slave of Agathon</persName>
             </person>
-            <person xml:id="agathon"
-                    sex="MALE"
-                    role="poeta"
-                    ana="https://www.wikidata.org/wiki/Q380482">
+            <person xml:id="agathon" sex="MALE" role="poeta">
                <persName>Ἀγάθων</persName>
                <persName type="variant">Χορὸς Ἀγάθωνος</persName>
                <persName xml:lang="en">Agathon</persName>
+               <idno type="wikidata">Q380482</idno>
             </person>
             <person xml:id="kerykaina" sex="FEMALE" role="praeco">
                <persName>Κηρύκαινα</persName>
@@ -787,26 +719,20 @@
                <persName>Γυνὴ Γ</persName>
                <persName xml:lang="en">Third Woman</persName>
             </person>
-            <person xml:id="kleisthenes"
-                    sex="MALE"
-                    role="adulescens"
-                    ana="https://www.wikidata.org/wiki/Q5131112">
+            <person xml:id="kleisthenes" sex="MALE" role="adulescens">
                <persName>Κλεισθένης</persName>
                <persName xml:lang="en">Cleisthenes</persName>
+               <idno type="wikidata">Q5131112</idno>
             </person>
-            <person xml:id="prytanis"
-                    sex="MALE"
-                    role="magistratus"
-                    ana="https://www.wikidata.org/wiki/Q456334">
+            <person xml:id="prytanis" sex="MALE" role="magistratus">
                <persName>Πρύτανις</persName>
                <persName xml:lang="en">A Magistrate</persName>
+               <idno type="wikidata">Q456334</idno>
             </person>
-            <person xml:id="toksotes"
-                    sex="MALE"
-                    role="custos"
-                    ana="https://www.wikidata.org/wiki/Q12884611">
+            <person xml:id="toksotes" sex="MALE" role="custos">
                <persName>Τοξότης</persName>
                <persName xml:lang="en">A Policeman</persName>
+               <idno type="wikidata">Q12884611</idno>
             </person>
             <listRelation>
                <relation name="related_with" active="#mnesilochos" passive="#euripides"/>
@@ -849,23 +775,19 @@
       </listEvent>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="demosthenes"
-                    sex="MALE"
-                    role="servus"
-                    ana="https://www.wikidata.org/wiki/https://www.wikidata.org/wiki/Q504986">
+            <person xml:id="demosthenes" sex="MALE" role="servus">
                <persName>Δημοσθένης</persName>
                <persName type="variant">Δημοσθένης οἰκητής</persName>
                <persName xml:lang="en">Demosthenes, A Slave of Demos</persName>
                <persName type="variant">Δημοσθένης καὶ Νικίας</persName>
+               <idno type="wikidata">Q504986</idno>
             </person>
-            <person xml:id="nikias"
-                    sex="MALE"
-                    role="servus"
-                    ana="https://www.wikidata.org/wiki/Q315822">
+            <person xml:id="nikias" sex="MALE" role="servus">
                <persName>Νικίας</persName>
                <persName type="variant">Νικίας οἰκητής</persName>
                <persName xml:lang="en">Nicias, A Slave of Demos</persName>
                <persName type="variant">Δημοσθένης καὶ Νικίας</persName>
+               <idno type="wikidata">Q315822</idno>
             </person>
             <person xml:id="allantopoles" sex="MALE" role="mercator">
                <persName>Ἀλλαντοπώλης</persName>
@@ -873,13 +795,11 @@
                <persName xml:lang="en">Agoracritus, A Sausage Seller</persName>
                <persName type="variant">Κλέων καὶ Ἀλλαντοπώλης</persName>
             </person>
-            <person xml:id="kleon"
-                    sex="MALE"
-                    role="servus"
-                    ana="https://www.wikidata.org/wiki/Q298220">
+            <person xml:id="kleon" sex="MALE" role="servus">
                <persName>Κλέων</persName>
                <persName xml:lang="en">Cleon</persName>
                <persName type="variant">Κλέων καὶ Ἀλλαντοπώλης</persName>
+               <idno type="wikidata">Q298220</idno>
             </person>
             <personGrp xml:id="choros" sex="MALE" role="chorus_eques">
                <name>Χορός</name>
@@ -929,54 +849,41 @@
       </listEvent>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="kratos"
-                    sex="MALE"
-                    role="deus"
-                    ana="http://www.wikidata.org/entity/Q334447">
+            <person xml:id="kratos" sex="MALE" role="deus">
                <persName>Κράτος</persName>
                <persName xml:lang="en">Kratos</persName>
+               <idno type="wikidata">Q334447</idno>
             </person>
-            <person xml:id="hephaistos"
-                    sex="MALE"
-                    role="deus"
-                    ana="http://www.wikidata.org/entity/Q44384">
+            <person xml:id="hephaistos" sex="MALE" role="deus">
                <persName>Ἥφαιστος</persName>
                <persName xml:lang="en">Hephaestus</persName>
+               <idno type="wikidata">Q44384</idno>
             </person>
-            <person xml:id="prometheus"
-                    sex="MALE"
-                    role="deus"
-                    ana="http://www.wikidata.org/entity/Q83160">
+            <person xml:id="prometheus" sex="MALE" role="deus">
                <persName>Προμηθεύς</persName>
                <persName xml:lang="en">Prometheus</persName>
+               <idno type="wikidata">Q83160</idno>
             </person>
-            <personGrp xml:id="choros"
-                       sex="FEMALE"
-                       role="chorus_dea_filia"
-                       ana="http://www.wikidata.org/entity/Q20575671">
+            <personGrp xml:id="choros" sex="FEMALE" role="chorus_dea_filia">
                <name>Χορός</name>
                <name type="variant">Χορὸς Ὠκεανίδων</name>
                <name xml:lang="en">Chorus of the Daughters of Oceanus</name>
+               <idno type="wikidata">Q20575671</idno>
             </personGrp>
-            <person xml:id="okeanos"
-                    sex="MALE"
-                    role="deus pater"
-                    ana="http://www.wikidata.org/entity/Q161419">
+            <person xml:id="okeanos" sex="MALE" role="deus pater">
                <persName>Ὠκεανός</persName>
                <persName xml:lang="en">Oceanus</persName>
+               <idno type="wikidata">Q161419</idno>
             </person>
-            <person xml:id="io"
-                    sex="FEMALE"
-                    ana="http://www.wikidata.org/entity/Q179014">
+            <person xml:id="io" sex="FEMALE">
                <persName>Ἰώ</persName>
                <persName xml:lang="en">Io</persName>
+               <idno type="wikidata">Q179014</idno>
             </person>
-            <person xml:id="hermes"
-                    sex="MALE"
-                    role="deus"
-                    ana="http://www.wikidata.org/entity/Q41484">
+            <person xml:id="hermes" sex="MALE" role="deus">
                <persName>Ἑρμῆς</persName>
                <persName xml:lang="en">Hermes</persName>
+               <idno type="wikidata">Q41484</idno>
             </person>
             <listRelation>
                <relation name="parent_of" active="#okeanos" passive="#choros"/>
@@ -1032,19 +939,15 @@
                <persName>Πισθέταιρος</persName>
                <persName xml:lang="en">Pisthetaerus</persName>
             </person>
-            <person xml:id="therapon-epopos"
-                    sex="MALE"
-                    role="servus avis"
-                    ana="https://www.wikidata.org/wiki/Q687310">
+            <person xml:id="therapon-epopos" sex="MALE" role="servus avis">
                <persName>Θεράπων Ἔποπος</persName>
                <persName xml:lang="en">The Footbird of Hoopoe</persName>
+               <idno type="wikidata">Q687310</idno>
             </person>
-            <person xml:id="epops"
-                    sex="MALE"
-                    role="avis"
-                    ana="https://www.wikidata.org/wiki/Q1138506">
+            <person xml:id="epops" sex="MALE" role="avis">
                <persName>Ἔποψ</persName>
                <persName xml:lang="en">Epops (Hoopoe)</persName>
+               <idno type="wikidata">Q1138506</idno>
             </person>
             <personGrp xml:id="choros" sex="UNKNOWN" role="chorus_avis">
                <name>Χορός</name>
@@ -1072,13 +975,11 @@
                <persName>Χρησμολόγος</persName>
                <persName xml:lang="en">An Oracle-Monger</persName>
             </person>
-            <person xml:id="meton"
-                    sex="MALE"
-                    role="mathematicus"
-                    ana="https://www.wikidata.org/wiki/Q261909">
+            <person xml:id="meton" sex="MALE" role="mathematicus">
                <persName>Μέτων</persName>
                <persName type="variant">Μέτων γεωμέτρης</persName>
                <persName xml:lang="en">Meton, a Geometrician</persName>
+               <idno type="wikidata">Q261909</idno>
             </person>
             <person xml:id="episkopos" sex="MALE" role="speculator">
                <persName>Ἐπίσκοπος</persName>
@@ -1101,53 +1002,43 @@
                <persName xml:lang="en">Messenger B (a bird)</persName>
                <persName type="variant">Ἄγγελος Β.</persName>
             </person>
-            <person xml:id="iris"
-                    sex="FEMALE"
-                    role="dea"
-                    ana="https://www.wikidata.org/wiki/Q184570">
+            <person xml:id="iris" sex="FEMALE" role="dea">
                <persName>Ἶρις</persName>
                <persName xml:lang="en">Iris</persName>
+               <idno type="wikidata">Q184570</idno>
             </person>
             <person xml:id="patraloias" sex="MALE" role="parricida">
                <persName>Πατραλοίας</persName>
                <persName xml:lang="en">A Parricides</persName>
             </person>
-            <person xml:id="kinesias"
-                    sex="MALE"
-                    role="poeta"
-                    ana="https://www.wikidata.org/wiki/Q2973270">
+            <person xml:id="kinesias" sex="MALE" role="poeta">
                <persName>Κινησίας</persName>
                <persName>Κινησίας διθυραμβοποιός</persName>
                <persName xml:lang="en">Cinesias, a dithyrambic Poet</persName>
+               <idno type="wikidata">Q2973270</idno>
             </person>
             <person xml:id="sykophantes" sex="MALE" role="sycophanta">
                <persName>Συκοφάντης</persName>
                <persName xml:lang="en">An Informer</persName>
             </person>
-            <person xml:id="prometheus"
-                    sex="MALE"
-                    role="deus"
-                    ana="http://www.wikidata.org/entity/Q83160">
+            <person xml:id="prometheus" sex="MALE" role="deus">
                <persName>Προμηθεύς</persName>
                <persName xml:lang="en">Prometheus</persName>
+               <idno type="wikidata">Q83160</idno>
             </person>
-            <person xml:id="poseidon"
-                    sex="MALE"
-                    role="deus legatus"
-                    ana="http://www.wikidata.org/entity/Q41127">
+            <person xml:id="poseidon" sex="MALE" role="deus legatus">
                <persName>Ποσειδῶν</persName>
                <persName xml:lang="en">Poseidon</persName>
+               <idno type="wikidata">Q41127</idno>
             </person>
             <person xml:id="triballos" sex="MALE" role="deus legatus">
                <persName>Τριβαλλός</persName>
                <persName xml:lang="en">Triballus</persName>
             </person>
-            <person xml:id="herakles"
-                    sex="MALE"
-                    role="deus legatus"
-                    ana="http://www.wikidata.org/entity/Q122248">
+            <person xml:id="herakles" sex="MALE" role="deus legatus">
                <persName>Ἡρακλῆς</persName>
                <persName xml:lang="en">Heracles</persName>
+               <idno type="wikidata">Q122248</idno>
             </person>
             <listRelation>
                <relation name="associated_with" active="#therapon-epopos" passive="#epops"/>
@@ -1185,55 +1076,48 @@
       </listEvent>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="amphitryon"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q206214">
+            <person xml:id="amphitryon" sex="MALE">
                <persName>Ἀμφιτρύων</persName>
                <persName xml:lang="en">Amphitryon</persName>
+               <idno type="wikidata">Q206214</idno>
             </person>
-            <person xml:id="megara"
-                    sex="FEMALE"
-                    ana="http://www.wikidata.org/entity/Q929768">
+            <person xml:id="megara" sex="FEMALE">
                <persName>Μεγάρα</persName>
                <persName xml:lang="en">Megara</persName>
+               <idno type="wikidata">Q929768</idno>
             </person>
             <personGrp xml:id="choros" sex="MALE">
                <name>Χορός</name>
                <name xml:lang="en">Chorus of Old Men of Thebes</name>
             </personGrp>
-            <person xml:id="lykos"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q1393416">
+            <person xml:id="lykos" sex="MALE">
                <persName>Λύκος</persName>
                <persName xml:lang="en">Lycus</persName>
+               <idno type="wikidata">Q1393416</idno>
             </person>
-            <person xml:id="herakles"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q122248">
+            <person xml:id="herakles" sex="MALE">
                <persName>Ἡρακλῆς</persName>
                <persName xml:lang="en">Heracles</persName>
+               <idno type="wikidata">Q122248</idno>
             </person>
-            <person xml:id="iris"
-                    sex="FEMALE"
-                    ana="http://www.wikidata.org/entity/Q184570">
+            <person xml:id="iris" sex="FEMALE">
                <persName>Ἶρις</persName>
                <persName xml:lang="en">Iris</persName>
+               <idno type="wikidata">Q184570</idno>
             </person>
-            <person xml:id="lyssa"
-                    sex="FEMALE"
-                    ana="http://www.wikidata.org/entity/Q1084868">
+            <person xml:id="lyssa" sex="FEMALE">
                <persName>Λύσσα</persName>
                <persName xml:lang="en">Lyssa</persName>
+               <idno type="wikidata">Q1084868</idno>
             </person>
             <person xml:id="angelos" sex="MALE">
                <persName>Ἄγγελος</persName>
                <persName xml:lang="en">Messenger</persName>
             </person>
-            <person xml:id="theseus"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q1320718">
+            <person xml:id="theseus" sex="MALE">
                <persName>Θησεύς</persName>
                <persName xml:lang="en">Theseus</persName>
+               <idno type="wikidata">Q1320718</idno>
             </person>
          </listPerson>
       </particDesc>
@@ -1276,12 +1160,10 @@
                <persName>Σωσίας</persName>
                <persName xml:lang="en">Sosias</persName>
             </person>
-            <person xml:id="xanthias"
-                    sex="MALE"
-                    role="servus"
-                    ana="https://www.wikidata.org/wiki/Q8042969">
+            <person xml:id="xanthias" sex="MALE" role="servus">
                <persName>Ξανθίας</persName>
                <persName xml:lang="en">Xanthias</persName>
+               <idno type="wikidata">Q8042969</idno>
             </person>
             <person xml:id="bdelykleon" sex="MALE" role="adulescens">
                <persName>Βδελυκλέων</persName>
@@ -1356,41 +1238,34 @@
       </listEvent>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="oidipous"
-                    sex="MALE"
-                    role="rex"
-                    ana="http://www.wikidata.org/entity/Q130890">
+            <person xml:id="oidipous" sex="MALE" role="rex">
                <persName>Οἰδίπους</persName>
                <persName xml:lang="en">Oedipus</persName>
+               <idno type="wikidata">Q130890</idno>
             </person>
             <person xml:id="hiereus" sex="MALE" role="sacerdos">
                <persName>Ἱερεύς</persName>
                <persName xml:lang="en">The Priest of Zeus</persName>
             </person>
-            <person xml:id="kreon"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q732066">
+            <person xml:id="kreon" sex="MALE">
                <persName>Κρέων</persName>
                <persName xml:lang="en">Creon</persName>
+               <idno type="wikidata">Q732066</idno>
             </person>
             <personGrp xml:id="choros" sex="MALE" role="chorus_senex">
                <name>Χορός</name>
                <name type="variant">Χορὸς Γερόντων Θηβαίων</name>
                <name xml:lang="en">Chorus of Theban Elders</name>
             </personGrp>
-            <person xml:id="teiresias"
-                    sex="MALE"
-                    role="vates senex"
-                    ana="http://www.wikidata.org/entity/Q656881">
+            <person xml:id="teiresias" sex="MALE" role="vates senex">
                <persName>Τειρεσίας</persName>
                <persName xml:lang="en">Teiresias</persName>
+               <idno type="wikidata">Q656881</idno>
             </person>
-            <person xml:id="iokaste"
-                    sex="FEMALE"
-                    role="uxor"
-                    ana="http://www.wikidata.org/entity/Q131445">
+            <person xml:id="iokaste" sex="FEMALE" role="uxor">
                <persName>Ἰοκάστη</persName>
                <persName xml:lang="en">Jocasta</persName>
+               <idno type="wikidata">Q131445</idno>
             </person>
             <person xml:id="angelos" sex="MALE" role="nuntius">
                <persName>Ἄγγελος</persName>
@@ -1446,12 +1321,10 @@
       </listEvent>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="lysistrate"
-                    sex="FEMALE"
-                    role="uxor"
-                    ana="https://www.wikidata.org/wiki/Q63535426">
+            <person xml:id="lysistrate" sex="FEMALE" role="uxor">
                <persName>Λυσιστράτη</persName>
                <persName xml:lang="en">Lysistrata</persName>
+               <idno type="wikidata">Q63535426</idno>
             </person>
             <person xml:id="kalonike" sex="FEMALE" role="uxor">
                <persName>Καλονίκη</persName>
@@ -1594,37 +1467,29 @@
       </listEvent>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="xanthias"
-                    sex="MALE"
-                    role="servus"
-                    ana="https://www.wikidata.org/wiki/Q8042969">
+            <person xml:id="xanthias" sex="MALE" role="servus">
                <persName>Ξανθίας</persName>
                <persName xml:lang="en">Xanthias</persName>
+               <idno type="wikidata">Q8042969</idno>
             </person>
-            <person xml:id="dionysos"
-                    sex="MALE"
-                    role="deus"
-                    ana="http://www.wikidata.org/entity/Q41680">
+            <person xml:id="dionysos" sex="MALE" role="deus">
                <persName>Διόνυσος</persName>
                <persName xml:lang="en">Dionysus</persName>
+               <idno type="wikidata">Q41680</idno>
             </person>
-            <person xml:id="herakles"
-                    sex="MALE"
-                    role="heros"
-                    ana="http://www.wikidata.org/entity/Q122248">
+            <person xml:id="herakles" sex="MALE" role="heros">
                <persName>Ἡρακλῆς</persName>
                <persName xml:lang="en">Heracles</persName>
+               <idno type="wikidata">Q122248</idno>
             </person>
             <person xml:id="nekros" sex="MALE" role="mortuus">
                <persName>Νέκρος</persName>
                <persName xml:lang="en">A Corpse</persName>
             </person>
-            <person xml:id="charon"
-                    sex="MALE"
-                    role="inferus"
-                    ana="http://www.wikidata.org/entity/Q6612">
+            <person xml:id="charon" sex="MALE" role="inferus">
                <persName>Χάρων</persName>
                <persName xml:lang="en">Charon</persName>
+               <idno type="wikidata">Q6612</idno>
             </person>
             <personGrp xml:id="batrachoi" sex="UNKNOWN" role="chorus_rana">
                <name>Βάτραχοι</name>
@@ -1654,30 +1519,24 @@
                <persName xml:lang="en">Plathane</persName>
                <persName type="variant">Πλαθάνη.</persName>
             </person>
-            <person xml:id="euripides"
-                    sex="MALE"
-                    role="poeta"
-                    ana="http://www.wikidata.org/entity/Q48305">
+            <person xml:id="euripides" sex="MALE" role="poeta">
                <persName>Εὐριπίδης</persName>
                <persName xml:lang="en">Euripides</persName>
                <persName type="variant">Αἰσχύλος καί Εὐριπίδης</persName>
                <persName type="variant">Αἰσχύλος καὶ Εὐριπίδης</persName>
+               <idno type="wikidata">Q48305</idno>
             </person>
-            <person xml:id="aischylos"
-                    sex="MALE"
-                    role="poeta"
-                    ana="http://www.wikidata.org/entity/Q40939">
+            <person xml:id="aischylos" sex="MALE" role="poeta">
                <persName>Αἰσχύλος</persName>
                <persName xml:lang="en">Aeschylus</persName>
                <persName type="variant">Αἰσχύλος καί Εὐριπίδης</persName>
                <persName type="variant">Αἰσχύλος καὶ Εὐριπίδης</persName>
+               <idno type="wikidata">Q40939</idno>
             </person>
-            <person xml:id="plouton"
-                    sex="MALE"
-                    role="deus"
-                    ana="https://www.wikidata.org/wiki/Q152262">
+            <person xml:id="plouton" sex="MALE" role="deus">
                <persName>Πλούτων</persName>
                <persName xml:lang="en">Pluto</persName>
+               <idno type="wikidata">Q152262</idno>
             </person>
             <listRelation>
                <relation name="associated_with" active="#xanthias" passive="#dionysos"/>
@@ -1714,54 +1573,40 @@
       </listEvent>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <personGrp xml:id="choros-satyron"
-                       sex="MALE"
-                       role="chorus_satyrus_filius"
-                       ana="https://www.wikidata.org/wiki/Q163709">
+            <personGrp xml:id="choros-satyron" sex="MALE" role="chorus_satyrus_filius">
                <name>Χορὸς Σατύρων</name>
                <name type="variant">Χορός</name>
                <name xml:lang="en">Chorus of Satyrs</name>
+               <idno type="wikidata">Q163709</idno>
             </personGrp>
-            <personGrp xml:id="hemichoros-a"
-                       sex="MALE"
-                       role="semichorus_satyrus_filius"
-                       corresp="#choros-satyron"
-                       ana="https://www.wikidata.org/wiki/Q163709">
+            <personGrp xml:id="hemichoros-a" sex="MALE" role="semichorus_satyrus_filius" corresp="#choros-satyron">
                <name>Ἡμιχορὸς α</name>
                <name xml:lang="en">Semi-Chorus a</name>
                <name type="variant">Ἡμιχορός α</name>
                <name type="variant">Ἡμιχ. α</name>
+               <idno type="wikidata">Q163709</idno>
             </personGrp>
-            <personGrp xml:id="hemichoros-b"
-                       sex="MALE"
-                       role="semichorus_satyrus_filius"
-                       corresp="#choros-satyron"
-                       ana="https://www.wikidata.org/wiki/Q163709">
+            <personGrp xml:id="hemichoros-b" sex="MALE" role="semichorus_satyrus_filius" corresp="#choros-satyron">
                <name>Ἡμιχορὸς β</name>
                <name xml:lang="en">Semi-Chorus b</name>
                <name type="variant">Ἡμιχ. β</name>
+               <idno type="wikidata">Q163709</idno>
             </personGrp>
-            <person xml:id="silenos"
-                    sex="MALE"
-                    role="satyrus_pater"
-                    ana="http://www.wikidata.org/entity/Q464091">
+            <person xml:id="silenos" sex="MALE" role="satyrus_pater">
                <persName>Σιληνός</persName>
                <persName xml:lang="en">Silenus</persName>
+               <idno type="wikidata">Q464091</idno>
             </person>
-            <person xml:id="kyllene"
-                    sex="FEMALE"
-                    role="dea"
-                    ana="http://www.wikidata.org/entity/Q7595427">
+            <person xml:id="kyllene" sex="FEMALE" role="dea">
                <persName>Κυλλήνη</persName>
                <persName xml:lang="en">Cyllene</persName>
                <persName type="variant">κυλλήνη</persName>
+               <idno type="wikidata">Q7595427</idno>
             </person>
-            <person xml:id="apollon"
-                    sex="MALE"
-                    role="deus"
-                    ana="http://www.wikidata.org/entity/Q37340">
+            <person xml:id="apollon" sex="MALE" role="deus">
                <persName>Ἀπόλλων</persName>
                <persName xml:lang="en">Apollo</persName>
+               <idno type="wikidata">Q37340</idno>
             </person>
             <listRelation>
                <relation name="parent_of"
@@ -1804,23 +1649,20 @@
       </listEvent>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="poseidon"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q41127">
+            <person xml:id="poseidon" sex="MALE">
                <persName>Ποσειδῶν</persName>
                <persName xml:lang="en">Poseidon</persName>
+               <idno type="wikidata">Q41127</idno>
             </person>
-            <person xml:id="athena"
-                    sex="FEMALE"
-                    ana="http://www.wikidata.org/entity/Q37122">
+            <person xml:id="athena" sex="FEMALE">
                <persName>Ἀθήνα</persName>
                <persName xml:lang="en">Athena</persName>
+               <idno type="wikidata">Q37122</idno>
             </person>
-            <person xml:id="hekabe"
-                    sex="FEMALE"
-                    ana="http://www.wikidata.org/entity/Q193433">
+            <person xml:id="hekabe" sex="FEMALE">
                <persName>Ἑκάβη</persName>
                <persName xml:lang="en">Hecuba</persName>
+               <idno type="wikidata">Q193433</idno>
             </person>
             <personGrp xml:id="choros" sex="FEMALE">
                <name>Χορός</name>
@@ -1835,35 +1677,30 @@
                <name>Ἡμιχόριον Β</name>
                <name xml:lang="en">Semi-Chorus B</name>
             </personGrp>
-            <person xml:id="talthybios"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q1367860">
+            <person xml:id="talthybios" sex="MALE">
                <persName>Ταλθύβιος</persName>
                <persName xml:lang="en">Talthybius</persName>
+               <idno type="wikidata">Q1367860</idno>
             </person>
-            <person xml:id="kasandra"
-                    sex="FEMALE"
-                    ana="http://www.wikidata.org/entity/Q170779">
+            <person xml:id="kasandra" sex="FEMALE">
                <persName>Κασάνδρα</persName>
                <persName xml:lang="en">Cassandra</persName>
+               <idno type="wikidata">Q170779</idno>
             </person>
-            <person xml:id="andromache"
-                    sex="FEMALE"
-                    ana="http://www.wikidata.org/entity/Q19376">
+            <person xml:id="andromache" sex="FEMALE">
                <persName>Ἀνδρομάχη</persName>
                <persName xml:lang="en">Andromache</persName>
+               <idno type="wikidata">Q19376</idno>
             </person>
-            <person xml:id="menelaos"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q171839">
+            <person xml:id="menelaos" sex="MALE">
                <persName>Μενέλαος</persName>
                <persName xml:lang="en">Menelaus</persName>
+               <idno type="wikidata">Q171839</idno>
             </person>
-            <person xml:id="helene"
-                    sex="FEMALE"
-                    ana="http://www.wikidata.org/entity/Q164061">
+            <person xml:id="helene" sex="FEMALE">
                <persName>Ἑλένη</persName>
                <persName xml:lang="en">Helen</persName>
+               <idno type="wikidata">Q164061</idno>
             </person>
          </listPerson>
       </particDesc>
@@ -1898,10 +1735,7 @@
       </listEvent>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <personGrp xml:id="choros-danaidon"
-                       sex="FEMALE"
-                       role="chorus"
-                       ana="http://www.wikidata.org/entity/Q724907">
+            <personGrp xml:id="choros-danaidon" sex="FEMALE" role="chorus">
                <name>Χορὸς Δαναΐδων</name>
                <name type="variant">Χορός</name>
                <name type="variant">Χορός Δαναΐδων</name>
@@ -1910,23 +1744,20 @@
                <name type="variant">&lt;Χορός &gt;</name>
                <name type="variant">&lt;Χορός&gt;</name>
                <name type="variant">Χορός &lt;Δαναΐδων&gt;</name>
+               <idno type="wikidata">Q724907</idno>
             </personGrp>
-            <person xml:id="danaos"
-                    role="rex pater"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q210883">
+            <person xml:id="danaos" role="rex pater" sex="MALE">
                <persName>Δαναός</persName>
                <persName xml:lang="en">Danaus</persName>
+               <idno type="wikidata">Q210883</idno>
             </person>
-            <person xml:id="basileus"
-                    role="rex"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q1636827">
+            <person xml:id="basileus" role="rex" sex="MALE">
                <persName>Βασιλεύς</persName>
                <persName type="variant">Βασιλεύς Ἀργεΐων</persName>
                <persName xml:lang="en">Pelasgus, King of Argus</persName>
                <persName type="variant">βασιλεύς</persName>
                <persName type="variant">&lt;Βασιλεύς&gt;</persName>
+               <idno type="wikidata">Q1636827</idno>
             </person>
             <person xml:id="keryx" sex="MALE" role="praeco">
                <persName>Κῆρυξ</persName>
@@ -1940,19 +1771,13 @@
                <name type="variant">&lt;Χορός Θεραπαινῶν&gt;</name>
                <name type="variant">&lt;Χορός&gt;</name>
             </personGrp>
-            <person xml:id="danais"
-                    sex="FEMALE"
-                    role="filia"
-                    ana="http://www.wikidata.org/entity/Q724907"
-                    corresp="#choros-danaidon">
+            <person xml:id="danais" sex="FEMALE" role="filia" corresp="#choros-danaidon">
                <persName>Δαναΐς</persName>
                <persName xml:lang="en">A Danaid</persName>
                <persName type="variant">&lt;Δαναΐς&gt;</persName>
+               <idno type="wikidata">Q724907</idno>
             </person>
-            <person xml:id="therapaina"
-                    sex="FEMALE"
-                    role="ancilla"
-                    corresp="choros-therapainon">
+            <person xml:id="therapaina" sex="FEMALE" role="ancilla" corresp="choros-therapainon">
                <persName>Θεράπαινα</persName>
                <persName xml:lang="en">A Handmaiden</persName>
                <persName type="variant">&lt;Θεράπαινα&gt;</persName>
@@ -2000,51 +1825,39 @@
       </listEvent>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="paidagogos"
-                    sex="MALE"
-                    role="paedagogus"
-                    ana="http://www.wikidata.org/entity/Q1367860">
+            <person xml:id="paidagogos" sex="MALE" role="paedagogus">
                <persName>Παιδαγωγός</persName>
                <persName xml:lang="en">Old Slave</persName>
+               <idno type="wikidata">Q1367860</idno>
             </person>
-            <person xml:id="orestes"
-                    sex="MALE"
-                    role="filius"
-                    ana="http://www.wikidata.org/entity/Q192407">
+            <person xml:id="orestes" sex="MALE" role="filius">
                <persName>Ὀρέστης</persName>
                <persName xml:lang="en">Orestes</persName>
+               <idno type="wikidata">Q192407</idno>
             </person>
-            <person xml:id="elektra"
-                    sex="FEMALE"
-                    role="filia"
-                    ana="http://www.wikidata.org/entity/Q131651">
+            <person xml:id="elektra" sex="FEMALE" role="filia">
                <persName>Ἠλέκτρα</persName>
                <persName xml:lang="en">Electra</persName>
+               <idno type="wikidata">Q131651</idno>
             </person>
             <personGrp xml:id="choros" sex="FEMALE" role="chorus_virgo">
                <name>Χορός</name>
                <name xml:lang="en">Chorus of Mycenean Women</name>
             </personGrp>
-            <person xml:id="chrysothemis"
-                    sex="FEMALE"
-                    role="filia"
-                    ana="http://www.wikidata.org/entity/Q1146076">
+            <person xml:id="chrysothemis" sex="FEMALE" role="filia">
                <persName>Χρυσόθεμις</persName>
                <persName xml:lang="en">Chrysothemis</persName>
+               <idno type="wikidata">Q1146076</idno>
             </person>
-            <person xml:id="klytaimnestra"
-                    sex="FEMALE"
-                    role="uxor mater regina"
-                    ana="http://www.wikidata.org/entity/Q131157">
+            <person xml:id="klytaimnestra" sex="FEMALE" role="uxor mater regina">
                <persName>Κλυταιμνήστρα</persName>
                <persName xml:lang="en">Clytemnestra</persName>
+               <idno type="wikidata">Q131157</idno>
             </person>
-            <person xml:id="aigisthos"
-                    sex="MALE"
-                    role="rex"
-                    ana="http://www.wikidata.org/entity/Q212091">
+            <person xml:id="aigisthos" sex="MALE" role="rex">
                <persName>Αἴγισθος</persName>
                <persName xml:lang="en">Aegisthus</persName>
+               <idno type="wikidata">Q212091</idno>
             </person>
             <listRelation>
                <relation name="associated_with" active="#paidagogos" passive="#orestes"/>
@@ -2092,31 +1905,25 @@
                <name type="variant">Χορὸς Γερόντων</name>
                <name xml:lang="en">Chorus of Persian Elders</name>
             </personGrp>
-            <person xml:id="atossa"
-                    sex="FEMALE"
-                    role="uxor"
-                    ana="http://www.wikidata.org/entity/Q233359">
+            <person xml:id="atossa" sex="FEMALE" role="uxor">
                <persName>Ἄτοσσα</persName>
                <persName xml:lang="en">Atossa</persName>
+               <idno type="wikidata">Q233359</idno>
             </person>
             <person xml:id="angelos" sex="MALE" role="nuntius">
                <persName>Ἄγγελος</persName>
                <persName xml:lang="en">A Messenger</persName>
             </person>
-            <person xml:id="eidolon-dareiou"
-                    sex="MALE"
-                    role="rex"
-                    ana="http://www.wikidata.org/entity/Q44387">
+            <person xml:id="eidolon-dareiou" sex="MALE" role="rex">
                <persName>Εἴδωλον Δαρείου</persName>
                <persName type="variant">Δαρεῖος</persName>
                <persName xml:lang="en">Ghost of Darius</persName>
+               <idno type="wikidata">Q44387</idno>
             </person>
-            <person xml:id="xerxes"
-                    sex="MALE"
-                    role="rex"
-                    ana="http://www.wikidata.org/entity/Q129165">
+            <person xml:id="xerxes" sex="MALE" role="rex">
                <persName>Ξέρξης</persName>
                <persName xml:lang="en">Xerxes</persName>
+               <idno type="wikidata">Q129165</idno>
             </person>
             <listRelation>
                <relation name="#choros" passive="#xerxes"/>
@@ -2158,17 +1965,15 @@
       </listEvent>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="elektra"
-                    sex="FEMALE"
-                    ana="http://www.wikidata.org/entity/Q131651">
+            <person xml:id="elektra" sex="FEMALE">
                <persName>Ἠλέκτρα</persName>
                <persName xml:lang="en">Electra</persName>
+               <idno type="wikidata">Q131651</idno>
             </person>
-            <person xml:id="helene"
-                    sex="FEMALE"
-                    ana="http://www.wikidata.org/entity/Q164061">
+            <person xml:id="helene" sex="FEMALE">
                <persName>Ἑλένη</persName>
                <persName xml:lang="en">Helen</persName>
+               <idno type="wikidata">Q164061</idno>
             </person>
             <personGrp xml:id="choros" sex="FEMALE">
                <name>Χορός</name>
@@ -2185,48 +1990,44 @@
                <name xml:lang="en">Second Semi-Chorus</name>
                <name type="variant">Ἡμίχορος</name>
             </personGrp>
-            <person xml:id="orestes"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q192407">
+            <person xml:id="orestes" sex="MALE">
                <persName>Ὀρέστης</persName>
                <persName xml:lang="en">Orestes</persName>
+               <idno type="wikidata">Q192407</idno>
             </person>
-            <person xml:id="menelaos" ana="http://www.wikidata.org/entity/Q171839">
+            <person xml:id="menelaos">
                <persName>Μενέλαος</persName>
                <persName xml:lang="en">Menelaus</persName>
+               <idno type="wikidata">Q171839</idno>
             </person>
-            <person xml:id="tyndareos"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q192946">
+            <person xml:id="tyndareos" sex="MALE">
                <persName>Τυνδάρεως</persName>
                <persName xml:lang="en">Tyndareus</persName>
+               <idno type="wikidata">Q192946</idno>
             </person>
-            <person xml:id="pylades"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q494886">
+            <person xml:id="pylades" sex="MALE">
                <persName>Πυλάδης</persName>
                <persName xml:lang="en">Pylades</persName>
+               <idno type="wikidata">Q494886</idno>
             </person>
             <person xml:id="angelos" sex="MALE">
                <persName>Ἄγγελος</persName>
                <persName xml:lang="en">Messenger</persName>
             </person>
-            <person xml:id="hermione"
-                    sex="FEMALE"
-                    ana="http://www.wikidata.org/entity/Q658523">
+            <person xml:id="hermione" sex="FEMALE">
                <persName>Ἑρμιόνη</persName>
                <persName xml:lang="en">Hermione</persName>
                <persName type="variant">Ερμιόνη</persName>
+               <idno type="wikidata">Q658523</idno>
             </person>
             <person xml:id="phryx" sex="MALE">
                <persName>Φρύξ</persName>
                <persName xml:lang="en">Phrygian Slave</persName>
             </person>
-            <person xml:id="apollon"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q37340">
+            <person xml:id="apollon" sex="MALE">
                <persName>Ἀπόλλων</persName>
                <persName xml:lang="en">Apollo</persName>
+               <idno type="wikidata">Q37340</idno>
             </person>
          </listPerson>
       </particDesc>
@@ -2260,24 +2061,20 @@
       </listEvent>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="deianeira"
-                    sex="FEMALE"
-                    role="uxor"
-                    ana="http://www.wikidata.org/entity/Q272000">
+            <person xml:id="deianeira" sex="FEMALE" role="uxor">
                <persName>Δηιάνειρα</persName>
                <persName xml:lang="en">Deianira</persName>
+               <idno type="wikidata">Q272000</idno>
             </person>
             <person xml:id="therapaina" sex="FEMALE" role="ancilla nutrix">
                <persName>Θεράπαινα</persName>
                <persName type="variant">Τροφός</persName>
                <persName xml:lang="en">A Nurse</persName>
             </person>
-            <person xml:id="hyllos"
-                    sex="MALE"
-                    role="filius"
-                    ana="http://www.wikidata.org/entity/Q847268">
+            <person xml:id="hyllos" sex="MALE" role="filius">
                <persName>Ὕλλος</persName>
                <persName xml:lang="en">Hyllus</persName>
+               <idno type="wikidata">Q847268</idno>
             </person>
             <personGrp xml:id="choros" sex="FEMALE" role="chorus_virgo">
                <name>Χορός</name>
@@ -2303,23 +2100,19 @@
                <persName>Ἄγγελος</persName>
                <persName xml:lang="en">A Messenger</persName>
             </person>
-            <person xml:id="lichas"
-                    sex="MALE"
-                    role="servus"
-                    ana="https://www.wikidata.org/wiki/Q922330">
+            <person xml:id="lichas" sex="MALE" role="servus">
                <persName>Λίχας</persName>
                <persName xml:lang="en">Lichas</persName>
+               <idno type="wikidata">Q922330</idno>
             </person>
             <person xml:id="presbys" sex="MALE" role="senex">
                <persName>Πρέσβυς</persName>
                <persName xml:lang="en">An Old Man</persName>
             </person>
-            <person xml:id="herakles"
-                    sex="MALE"
-                    role="heros"
-                    ana="http://www.wikidata.org/entity/Q122248">
+            <person xml:id="herakles" sex="MALE" role="heros">
                <persName>Ἡρακλῆς</persName>
                <persName xml:lang="en">Heracles</persName>
+               <idno type="wikidata">Q122248</idno>
             </person>
             <listRelation>
                <relation name="associated_with" active="#therapaina" passive="#deianeira"/>
@@ -2360,59 +2153,47 @@
       </listEvent>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="antigone"
-                    sex="FEMALE"
-                    role="soror"
-                    ana="http://www.wikidata.org/entity/Q131351">
+            <person xml:id="antigone" sex="FEMALE" role="soror">
                <persName>Ἀντιγόνη</persName>
                <persName xml:lang="en">Antigone</persName>
+               <idno type="wikidata">Q131351</idno>
             </person>
-            <person xml:id="ismene"
-                    sex="FEMALE"
-                    role="soror"
-                    ana="http://www.wikidata.org/entity/Q753902">
+            <person xml:id="ismene" sex="FEMALE" role="soror">
                <persName>Ἰσμήνη</persName>
                <persName xml:lang="en">Ismene</persName>
+               <idno type="wikidata">Q753902</idno>
             </person>
             <personGrp xml:id="choros" sex="MALE" role="chorus_senex">
                <name>Χορός</name>
                <name xml:lang="en">Chorus of Theban Elders</name>
             </personGrp>
-            <person xml:id="kreon"
-                    sex="MALE"
-                    role="rex"
-                    ana="http://www.wikidata.org/entity/Q732066">
+            <person xml:id="kreon" sex="MALE" role="rex">
                <persName>Κρέων</persName>
                <persName xml:lang="en">Creon</persName>
+               <idno type="wikidata">Q732066</idno>
             </person>
             <person xml:id="phylax" sex="MALE" role="custos">
                <persName>Φύλαξ</persName>
                <persName xml:lang="en">A Watchman</persName>
             </person>
-            <person xml:id="haimon"
-                    sex="MALE"
-                    role="filius"
-                    ana="http://www.wikidata.org/entity/Q733985">
+            <person xml:id="haimon" sex="MALE" role="filius">
                <persName>Αἵμων</persName>
                <persName xml:lang="en">Haemon</persName>
+               <idno type="wikidata">Q733985</idno>
             </person>
-            <person xml:id="teiresias"
-                    sex="MALE"
-                    role="vates senex"
-                    ana="http://www.wikidata.org/entity/Q656881">
+            <person xml:id="teiresias" sex="MALE" role="vates senex">
                <persName>Τειρεσίας</persName>
                <persName xml:lang="en">Teiresias</persName>
+               <idno type="wikidata">Q656881</idno>
             </person>
             <person xml:id="angelos" sex="MALE" role="nuntius">
                <persName>Ἄγγελος</persName>
                <persName xml:lang="en">A Messenger</persName>
             </person>
-            <person xml:id="eurydike"
-                    sex="FEMALE"
-                    role="uxor"
-                    ana="http://www.wikidata.org/entity/Q1378457">
+            <person xml:id="eurydike" sex="FEMALE" role="uxor">
                <persName>Εὐρυδίκη</persName>
                <persName xml:lang="en">Eurydice</persName>
+               <idno type="wikidata">Q1378457</idno>
             </person>
             <person xml:id="exangelos" sex="MALE" role="nuntius">
                <persName>Ἐξάγγελος</persName>
@@ -2468,37 +2249,29 @@
                <name>Χορός</name>
                <name xml:lang="en">Chorus of Argive Elders</name>
             </personGrp>
-            <person xml:id="klytaimestra"
-                    sex="FEMALE"
-                    role="uxor mater regina"
-                    ana="http://www.wikidata.org/entity/Q131157">
+            <person xml:id="klytaimestra" sex="FEMALE" role="uxor mater regina">
                <persName>Κλυταιμήστρα</persName>
                <persName xml:lang="en">Clytaemnestra</persName>
+               <idno type="wikidata">Q131157</idno>
             </person>
             <person xml:id="keryx" sex="MALE" role="praeco">
                <persName>Κῆρυξ</persName>
                <persName xml:lang="en">A Herald</persName>
             </person>
-            <person xml:id="agamemnon"
-                    sex="MALE"
-                    role="rex heros"
-                    ana="http://www.wikidata.org/entity/Q128176">
+            <person xml:id="agamemnon" sex="MALE" role="rex heros">
                <persName>Ἀγαμέμνων</persName>
                <persName xml:lang="en">Agamemnon</persName>
+               <idno type="wikidata">Q128176</idno>
             </person>
-            <person xml:id="kasandra"
-                    sex="FEMALE"
-                    role="captiva virgo"
-                    ana="http://www.wikidata.org/entity/Q170779">
+            <person xml:id="kasandra" sex="FEMALE" role="captiva virgo">
                <persName>Κασάνδρα</persName>
                <persName xml:lang="en">Cassandra</persName>
+               <idno type="wikidata">Q170779</idno>
             </person>
-            <person xml:id="aigisthos"
-                    sex="MALE"
-                    role="rex"
-                    ana="http://www.wikidata.org/entity/Q212091">
+            <person xml:id="aigisthos" sex="MALE" role="rex">
                <persName>Αἴγισθος</persName>
                <persName xml:lang="en">Aegisthus</persName>
+               <idno type="wikidata">Q212091</idno>
             </person>
             <listRelation>
                <relation name="associated_with" active="#phylax" passive="#agamemnon"/>
@@ -2650,11 +2423,10 @@
       </listEvent>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="agamemnon"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q128176">
+            <person xml:id="agamemnon" sex="MALE">
                <persName>Ἀγαμέμνων</persName>
                <persName xml:lang="en">Agamemnon</persName>
+               <idno type="wikidata">Q128176</idno>
             </person>
             <person xml:id="presbytes" sex="MALE">
                <persName>Πρεσβύτης</persName>
@@ -2664,11 +2436,10 @@
                <name>Χορός</name>
                <name xml:lang="en">Chorus of Euboean Women</name>
             </personGrp>
-            <person xml:id="menelaos"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q171839">
+            <person xml:id="menelaos" sex="MALE">
                <persName>Μενέλαος</persName>
                <persName xml:lang="en">Menelaus</persName>
+               <idno type="wikidata">Q171839</idno>
             </person>
             <person xml:id="angelos-a" sex="MALE">
                <persName>Αγγελος Α</persName>
@@ -2679,23 +2450,20 @@
                <name xml:lang="en">Chorus of Argive Men</name>
                <name type="variant">Χορός ανδρων Αργειων</name>
             </personGrp>
-            <person xml:id="klytaimestra"
-                    sex="FEMALE"
-                    ana="http://www.wikidata.org/entity/Q131157">
+            <person xml:id="klytaimestra" sex="FEMALE">
                <persName>Κλυταιμήστρα</persName>
                <persName xml:lang="en">Clytaemestra</persName>
+               <idno type="wikidata">Q131157</idno>
             </person>
-            <person xml:id="iphigeneia"
-                    sex="FEMALE"
-                    ana="http://www.wikidata.org/entity/Q192673">
+            <person xml:id="iphigeneia" sex="FEMALE">
                <persName>Ἰφιγένεια</persName>
                <persName xml:lang="en">Iphigenia</persName>
+               <idno type="wikidata">Q192673</idno>
             </person>
-            <person xml:id="achilleus"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q41746">
+            <person xml:id="achilleus" sex="MALE">
                <persName>Ἀχιλλεύς</persName>
                <persName xml:lang="en">Achilles</persName>
+               <idno type="wikidata">Q41746</idno>
             </person>
             <person xml:id="angelos" sex="MALE">
                <persName>Ἄγγελος</persName>
@@ -2735,28 +2503,25 @@
       </listEvent>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="helene"
-                    sex="FEMALE"
-                    ana="http://www.wikidata.org/entity/Q164061">
+            <person xml:id="helene" sex="FEMALE">
                <persName>Ἑλένη</persName>
                <persName xml:lang="en">Helen</persName>
+               <idno type="wikidata">Q164061</idno>
             </person>
-            <person xml:id="teukros"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q878184">
+            <person xml:id="teukros" sex="MALE">
                <persName>Τεῦκρος</persName>
                <persName xml:lang="en">Teucer</persName>
+               <idno type="wikidata">Q878184</idno>
             </person>
             <personGrp xml:id="choros" sex="FEMALE">
                <name>Χορός</name>
                <name xml:lang="en">Chorus of Captive Greek Woman in Egypt</name>
             </personGrp>
-            <person xml:id="meneleos"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q171839">
+            <person xml:id="meneleos" sex="MALE">
                <persName>Μενελέως</persName>
                <persName xml:lang="en">Menelaus</persName>
                <persName type="variant">&lt;Μενελέως</persName>
+               <idno type="wikidata">Q171839</idno>
             </person>
             <person xml:id="graus" sex="FEMALE">
                <persName>Γραῦς</persName>
@@ -2767,28 +2532,25 @@
                <persName>Ἄγγελος</persName>
                <persName xml:lang="en">Messenger</persName>
             </person>
-            <person xml:id="theonoe"
-                    sex="FEMALE"
-                    ana="http://www.wikidata.org/entity/Q16217794">
+            <person xml:id="theonoe" sex="FEMALE">
                <persName>Θεονόη</persName>
                <persName xml:lang="en">Theonoe</persName>
+               <idno type="wikidata">Q16217794</idno>
             </person>
-            <person xml:id="theoklymenos"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q3983831">
+            <person xml:id="theoklymenos" sex="MALE">
                <persName>Θεοκλύμενος</persName>
                <persName xml:lang="en">Theoclymenus</persName>
+               <idno type="wikidata">Q3983831</idno>
             </person>
             <!-- check in new Loeb edition -->
             <person xml:id="therapon" sex="MALE">
                <persName>Θεράπων</persName>
                <persName xml:lang="en">Slave</persName>
             </person>
-            <person xml:id="dioskoroi"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q190103">
+            <person xml:id="dioskoroi" sex="MALE">
                <persName>Διόσκοροι</persName>
                <persName xml:lang="en">Dioscures</persName>
+               <idno type="wikidata">Q190103</idno>
             </person>
          </listPerson>
       </particDesc>
@@ -2822,57 +2584,50 @@
       </listEvent>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="iokaste"
-                    sex="FEMALE"
-                    ana="http://www.wikidata.org/entity/Q131445">
+            <person xml:id="iokaste" sex="FEMALE">
                <persName>Ἰοκάστη</persName>
                <persName xml:lang="en">Jocasta</persName>
+               <idno type="wikidata">Q131445</idno>
             </person>
             <person xml:id="paidagogos" sex="MALE">
                <persName>Παιδαγωγός</persName>
                <persName xml:lang="en">Old Slave</persName>
             </person>
-            <person xml:id="antigone"
-                    sex="FEMALE"
-                    ana="http://www.wikidata.org/entity/Q131351">
+            <person xml:id="antigone" sex="FEMALE">
                <persName>Ἀντιγόνη</persName>
                <persName xml:lang="en">Antigone</persName>
                <persName type="variant">[Ἀντιγόνη ]</persName>
+               <idno type="wikidata">Q131351</idno>
             </person>
             <personGrp xml:id="choros" sex="UNKNOWN">
                <name>Χορός</name>
                <name type="variant">Χορὸς ἐκ Φοινισσῶν</name>
                <name xml:lang="en">Chorus of Phoenician Temple Slaves</name>
             </personGrp>
-            <person xml:id="polyneikes"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q334817">
+            <person xml:id="polyneikes" sex="MALE">
                <persName>Πολυνείκης</persName>
                <persName xml:lang="en">Polynices</persName>
+               <idno type="wikidata">Q334817</idno>
             </person>
-            <person xml:id="eteokles"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q506550">
+            <person xml:id="eteokles" sex="MALE">
                <persName>Ἐτεοκλῆς</persName>
                <persName xml:lang="en">Eteocles</persName>
+               <idno type="wikidata">Q506550</idno>
             </person>
-            <person xml:id="kreon"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q732066">
+            <person xml:id="kreon" sex="MALE">
                <persName>Κρέων</persName>
                <persName xml:lang="en">Creon</persName>
+               <idno type="wikidata">Q732066</idno>
             </person>
-            <person xml:id="teiresias"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q656881">
+            <person xml:id="teiresias" sex="MALE">
                <persName>Τειρεσίας</persName>
                <persName xml:lang="en">Teiresias</persName>
+               <idno type="wikidata">Q656881</idno>
             </person>
-            <person xml:id="menoikeus"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q744871">
+            <person xml:id="menoikeus" sex="MALE">
                <persName>Μενοικεύς</persName>
                <persName xml:lang="en">Menoeceus</persName>
+               <idno type="wikidata">Q744871</idno>
             </person>
             <person xml:id="angelos" sex="MALE">
                <persName>Ἄγγελος</persName>
@@ -2883,11 +2638,10 @@
                <persName xml:lang="en">Another Messenger</persName>
                <persName type="variant">Ἄγγελος</persName>
             </person>
-            <person xml:id="oidipous"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q130890">
+            <person xml:id="oidipous" sex="MALE">
                <persName>Οἰδίπους</persName>
                <persName xml:lang="en">Oedipus</persName>
+               <idno type="wikidata">Q130890</idno>
             </person>
          </listPerson>
       </particDesc>
@@ -2926,69 +2680,60 @@
                <name type="variant">Χορὸς Φυλακών</name>
                <name xml:lang="en">Chorus of Trojan Soldiers</name>
             </personGrp>
-            <person xml:id="hektor"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q159666">
+            <person xml:id="hektor" sex="MALE">
                <persName>Ἕκτωρ</persName>
                <persName xml:lang="en">Hector</persName>
+               <idno type="wikidata">Q159666</idno>
             </person>
-            <person xml:id="aineias"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q82732">
+            <person xml:id="aineias" sex="MALE">
                <persName>Αἰνείας</persName>
                <persName xml:lang="en">Aeneas</persName>
+               <idno type="wikidata">Q82732</idno>
             </person>
-            <person xml:id="dolon"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q854056">
+            <person xml:id="dolon" sex="MALE">
                <persName>Δόλων</persName>
                <persName xml:lang="en">Dolon</persName>
+               <idno type="wikidata">Q854056</idno>
             </person>
             <person xml:id="angelos" sex="MALE">
                <persName>Ἄγγελος</persName>
                <persName type="variant">Ἄγγελος Ποιμήν</persName>
                <persName xml:lang="en">Messenger (Herdsman)</persName>
             </person>
-            <person xml:id="resos"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q1061782">
+            <person xml:id="resos" sex="MALE">
                <persName>Ῥῆσος</persName>
                <persName xml:lang="en">Rhesus</persName>
+               <idno type="wikidata">Q1061782</idno>
             </person>
-            <person xml:id="odysseus"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q47231">
+            <person xml:id="odysseus" sex="MALE">
                <persName>Ὀδυσσεύς</persName>
                <persName xml:lang="en">Odysseus</persName>
+               <idno type="wikidata">Q47231</idno>
             </person>
-            <person xml:id="diomedes"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q208256">
+            <person xml:id="diomedes" sex="MALE">
                <persName>Διομήδης</persName>
                <persName xml:lang="en">Diomedes</persName>
+               <idno type="wikidata">Q208256</idno>
             </person>
-            <person xml:id="athena"
-                    sex="FEMALE"
-                    ana="http://www.wikidata.org/entity/Q37122">
+            <person xml:id="athena" sex="FEMALE">
                <persName>Ἀθήνα</persName>
                <persName xml:lang="en">Athena</persName>
+               <idno type="wikidata">Q37122</idno>
             </person>
-            <person xml:id="alexandros"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q167646">
+            <person xml:id="alexandros" sex="MALE">
                <persName>Ἀλέξανδρος</persName>
                <persName type="variant">Πάρις</persName>
                <persName xml:lang="en">Alexandros (Paris)</persName>
+               <idno type="wikidata">Q167646</idno>
             </person>
             <person xml:id="heniochos" sex="MALE">
                <persName>Ἡνίοχος</persName>
                <persName xml:lang="en">Charioteer</persName>
             </person>
-            <person xml:id="mousa"
-                    sex="FEMALE"
-                    ana="http://www.wikidata.org/entity/Q66016">
+            <person xml:id="mousa" sex="FEMALE">
                <persName>Μοῦσα</persName>
                <persName xml:lang="en">Muse</persName>
+               <idno type="wikidata">Q66016</idno>
             </person>
          </listPerson>
       </particDesc>
@@ -3079,12 +2824,10 @@
                <persName>Κηφισόφων</persName>
                <persName xml:lang="en">Cephisophon</persName>
             </person>
-            <person xml:id="euripides"
-                    sex="MALE"
-                    role="poeta"
-                    ana="http://www.wikidata.org/entity/Q48305">
+            <person xml:id="euripides" sex="MALE" role="poeta">
                <persName>Εὐριπίδης</persName>
                <persName xml:lang="en">Euripides</persName>
+               <idno type="wikidata">Q48305</idno>
             </person>
             <person xml:id="lamachos" sex="MALE" role="dux">
                <persName>Λάμαχος</persName>
@@ -3204,26 +2947,20 @@
                <persName>Παιδίον</persName>
                <persName xml:lang="en">Daughter</persName>
             </person>
-            <person xml:id="hermes"
-                    sex="MALE"
-                    role="deus"
-                    ana="http://www.wikidata.org/entity/Q41484">
+            <person xml:id="hermes" sex="MALE" role="deus">
                <persName>Ἑρμῆς</persName>
                <persName xml:lang="en">Hermes</persName>
+               <idno type="wikidata">Q41484</idno>
             </person>
-            <person xml:id="polemos"
-                    sex="MALE"
-                    role="allegoria deus"
-                    ana="https://www.wikidata.org/wiki/Q2713002">
+            <person xml:id="polemos" sex="MALE" role="allegoria deus">
                <persName>Πόλεμος</persName>
                <persName xml:lang="en">War</persName>
+               <idno type="wikidata">Q2713002</idno>
             </person>
-            <person xml:id="kydoimos"
-                    sex="MALE"
-                    role="allegoria servus"
-                    ana="https://www.wikidata.org/wiki/Q636428">
+            <person xml:id="kydoimos" sex="MALE" role="allegoria servus">
                <persName>Κύδοιμος</persName>
                <persName xml:lang="en">Hubbub</persName>
+               <idno type="wikidata">Q636428</idno>
             </person>
             <personGrp xml:id="choros" sex="MALE" role="chorus_senex">
                <name>Χορός</name>
@@ -3322,34 +3059,30 @@
       </listEvent>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="hermes"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q41484">
+            <person xml:id="hermes" sex="MALE">
                <persName>Ἑρμῆς</persName>
                <persName xml:lang="en">Hermes</persName>
+               <idno type="wikidata">Q41484</idno>
             </person>
-            <person xml:id="ion"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q853462">
+            <person xml:id="ion" sex="MALE">
                <persName>Ἴων</persName>
                <persName xml:lang="en">Ion</persName>
+               <idno type="wikidata">Q853462</idno>
             </person>
             <personGrp xml:id="choros" sex="FEMALE">
                <name>Χορός</name>
                <name>Χορὸς ἐκ Θεραπαινίδων Κρεούσης</name>
                <name xml:lang="en">Chorus of Creusa’s Handmaidens</name>
             </personGrp>
-            <person xml:id="kreousa"
-                    sex="FEMALE"
-                    ana="https://www.wikidata.org/wiki/Q2196048">
+            <person xml:id="kreousa" sex="FEMALE">
                <persName>Κρέουσα</persName>
                <persName xml:lang="en">Creusa</persName>
+               <idno type="wikidata">Q2196048</idno>
             </person>
-            <person xml:id="xouthos"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q514746">
+            <person xml:id="xouthos" sex="MALE">
                <persName>Ξοῦθος</persName>
                <persName xml:lang="en">Xuthus</persName>
+               <idno type="wikidata">Q514746</idno>
             </person>
             <person xml:id="presbytes" sex="MALE">
                <persName>Πρεσβύτης</persName>
@@ -3360,18 +3093,16 @@
                <persName type="variant">Θεράπων Κρεούσης</persName>
                <persName xml:lang="en">Slave of Creusa</persName>
             </person>
-            <person xml:id="prophetis"
-                    sex="FEMALE"
-                    ana="https://www.wikidata.org/wiki/Q220344">
+            <person xml:id="prophetis" sex="FEMALE">
                <persName>Προφῆτις</persName>
                <persName type="variant">Πύθια</persName>
                <persName xml:lang="en">Pythian Priestess</persName>
+               <idno type="wikidata">Q220344</idno>
             </person>
-            <person xml:id="athena"
-                    sex="FEMALE"
-                    ana="http://www.wikidata.org/entity/Q37122">
+            <person xml:id="athena" sex="FEMALE">
                <persName>Ἀθήνα</persName>
                <persName xml:lang="en">Athena</persName>
+               <idno type="wikidata">Q37122</idno>
             </person>
          </listPerson>
       </particDesc>
@@ -3442,12 +3173,10 @@
                <persName xml:lang="en">Pupil G</persName>
                <persName type="variant">Μαθητής Γ</persName>
             </person>
-            <person xml:id="sokrates"
-                    sex="MALE"
-                    role="didascalus"
-                    ana="http://www.wikidata.org/entity/Q913">
+            <person xml:id="sokrates" sex="MALE" role="didascalus">
                <persName>Σωκράτης</persName>
                <persName xml:lang="en">Socrates</persName>
+               <idno type="wikidata">Q913</idno>
             </person>
             <personGrp xml:id="choros" sex="UNKNOWN" role="chorus">
                <name>Χορός</name>
@@ -3476,19 +3205,15 @@
                <persName type="variant">Αμυνίας δανειστής</persName>
                <persName xml:lang="en">Amynias, a Creditor</persName>
             </person>
-            <person xml:id="chairephon"
-                    sex="MALE"
-                    role="didascalus"
-                    ana="https://www.wikidata.org/wiki/Q744125">
+            <person xml:id="chairephon" sex="MALE" role="didascalus">
                <persName>Χαιρεφῶν</persName>
                <persName xml:lang="en">Chaerephon</persName>
+               <idno type="wikidata">Q744125</idno>
             </person>
-            <person xml:id="hermes"
-                    sex="MALE"
-                    role="deus"
-                    ana="http://www.wikidata.org/entity/Q41484">
+            <person xml:id="hermes" sex="MALE" role="deus">
                <persName>Ερμῆς</persName>
                <persName xml:lang="en">Hermes</persName>
+               <idno type="wikidata">Q41484</idno>
             </person>
             <listRelation>
                <relation name="parent_of" active="#strepsiades" passive="#pheidippides"/>
@@ -3530,19 +3255,15 @@
       </listEvent>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="oidipous"
-                    sex="MALE"
-                    role="exul"
-                    ana="http://www.wikidata.org/entity/Q130890">
+            <person xml:id="oidipous" sex="MALE" role="exul">
                <persName>Οἰδίπους</persName>
                <persName xml:lang="en">Oedipus</persName>
+               <idno type="wikidata">Q130890</idno>
             </person>
-            <person xml:id="antigone"
-                    sex="FEMALE"
-                    role="filia"
-                    ana="http://www.wikidata.org/entity/Q131351">
+            <person xml:id="antigone" sex="FEMALE" role="filia">
                <persName>Ἀντιγόνη</persName>
                <persName xml:lang="en">Antigone</persName>
+               <idno type="wikidata">Q131351</idno>
             </person>
             <person xml:id="xenos" sex="MALE" role="peregrinus">
                <persName>Ξένος</persName>
@@ -3552,33 +3273,25 @@
                <name>Χορός</name>
                <name xml:lang="en">Chorus of Citizens of Colonus</name>
             </personGrp>
-            <person xml:id="ismene"
-                    sex="FEMALE"
-                    role="filia"
-                    ana="http://www.wikidata.org/entity/Q753902">
+            <person xml:id="ismene" sex="FEMALE" role="filia">
                <persName>Ἰσμήνη</persName>
                <persName xml:lang="en">Ismene</persName>
+               <idno type="wikidata">Q753902</idno>
             </person>
-            <person xml:id="theseus"
-                    sex="MALE"
-                    role="rex"
-                    ana="http://www.wikidata.org/entity/Q1320718">
+            <person xml:id="theseus" sex="MALE" role="rex">
                <persName>Θησεύς</persName>
                <persName xml:lang="en">Theseus</persName>
+               <idno type="wikidata">Q1320718</idno>
             </person>
-            <person xml:id="kreon"
-                    sex="MALE"
-                    role="rex"
-                    ana="http://www.wikidata.org/entity/Q732066">
+            <person xml:id="kreon" sex="MALE" role="rex">
                <persName>Κρέων</persName>
                <persName xml:lang="en">Creon</persName>
+               <idno type="wikidata">Q732066</idno>
             </person>
-            <person xml:id="polyneikes"
-                    sex="MALE"
-                    role="filius"
-                    ana="http://www.wikidata.org/entity/Q334817">
+            <person xml:id="polyneikes" sex="MALE" role="filius">
                <persName>Πολυνείκης</persName>
                <persName xml:lang="en">Ployneices</persName>
+               <idno type="wikidata">Q334817</idno>
             </person>
             <person xml:id="angelos" sex="MALE" role="nuntius">
                <persName>Ἄγγελος</persName>
@@ -3637,12 +3350,10 @@
                <persName>Χρεμύλος</persName>
                <persName xml:lang="en">Chremylus</persName>
             </person>
-            <person xml:id="ploutos"
-                    sex="MALE"
-                    role="deus"
-                    ana="http://www.wikidata.org/entity/Q205251">
+            <person xml:id="ploutos" sex="MALE" role="deus">
                <persName>Πλοῦτος</persName>
                <persName xml:lang="en">Plutus</persName>
+               <idno type="wikidata">Q205251</idno>
             </person>
             <personGrp xml:id="choros" sex="MALE" role="chorus_rusticus">
                <name>Χορός</name>
@@ -3653,12 +3364,10 @@
                <persName>Βλεψίδημος</persName>
                <persName xml:lang="en">Blepsidemus</persName>
             </person>
-            <person xml:id="penia"
-                    sex="FEMALE"
-                    role="dea"
-                    ana="https://www.wikidata.org/wiki/Q3899052">
+            <person xml:id="penia" sex="FEMALE" role="dea">
                <persName>Πενία</persName>
                <persName xml:lang="en">Penia</persName>
+               <idno type="wikidata">Q3899052</idno>
             </person>
             <person xml:id="gyne" sex="FEMALE" role="uxor">
                <persName>Γυνή</persName>
@@ -3682,11 +3391,10 @@
                <persName>Νεανίας</persName>
                <persName xml:lang="en">A Young Man</persName>
             </person>
-            <person xml:id="hermes"
-                    role="deus"
-                    ana="http://www.wikidata.org/entity/Q41484">
+            <person xml:id="hermes" role="deus">
                <persName>Ἑρμῆς</persName>
                <persName xml:lang="en">Hermes</persName>
+               <idno type="wikidata">Q41484</idno>
             </person>
             <person xml:id="hiereus" sex="MALE" role="sacerdos">
                <persName>Ἱερεύς</persName>
@@ -3730,12 +3438,10 @@
       </listEvent>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="odysseus"
-                    sex="MALE"
-                    role="heros rex"
-                    ana="http://www.wikidata.org/entity/Q47231">
+            <person xml:id="odysseus" sex="MALE" role="heros rex">
                <persName>Ὀδυσσεύς</persName>
                <persName xml:lang="en">Odysseus</persName>
+               <idno type="wikidata">Q47231</idno>
             </person>
             <personGrp xml:id="choros" sex="MALE" role="chorus_nauta">
                <name>Χορός</name>
@@ -3746,26 +3452,20 @@
                <persName type="variant">Σκοπός</persName>
                <persName xml:lang="en">Sailor, disguised as Merchant Captain</persName>
             </person>
-            <person xml:id="neoptolemos"
-                    sex="MALE"
-                    role="heros"
-                    ana="http://www.wikidata.org/entity/Q322639">
+            <person xml:id="neoptolemos" sex="MALE" role="heros">
                <persName>Νεοπτόλεμος</persName>
                <persName xml:lang="en">Neoptolemus</persName>
+               <idno type="wikidata">Q322639</idno>
             </person>
-            <person xml:id="philoktetes"
-                    sex="MALE"
-                    role="heros"
-                    ana="http://www.wikidata.org/entity/Q212827">
+            <person xml:id="philoktetes" sex="MALE" role="heros">
                <persName>Φιλοκτήτης</persName>
                <persName xml:lang="en">Philoctetes</persName>
+               <idno type="wikidata">Q212827</idno>
             </person>
-            <person xml:id="herakles"
-                    sex="MALE"
-                    role="heros"
-                    ana="http://www.wikidata.org/entity/Q122248">
+            <person xml:id="herakles" sex="MALE" role="heros">
                <persName>Ἡρακλῆς</persName>
                <persName xml:lang="en">Heracles</persName>
+               <idno type="wikidata">Q122248</idno>
             </person>
             <listRelation>
                <relation name="associated_with" active="#choros" passive="#neoptolemos"/>
@@ -3807,17 +3507,15 @@
                <persName type="variant">Αὐτουργὸς Μυκηναῖος</persName>
                <persName xml:lang="en">Mycenaean Farmer</persName>
             </person>
-            <person xml:id="elektra"
-                    sex="FEMALE"
-                    ana="http://www.wikidata.org/entity/Q131651">
+            <person xml:id="elektra" sex="FEMALE">
                <persName>Ἠλέκτρα</persName>
                <persName xml:lang="en">Electra</persName>
+               <idno type="wikidata">Q131651</idno>
             </person>
-            <person xml:id="orestes"
-                    sex="MALE"
-                    ana="http://www.wikidata.org/entity/Q192407">
+            <person xml:id="orestes" sex="MALE">
                <persName>Ὀρέστης</persName>
                <persName xml:lang="en">Orestes</persName>
+               <idno type="wikidata">Q192407</idno>
             </person>
             <personGrp xml:id="choros" sex="FEMALE">
                <name>Χορός</name>
@@ -3831,17 +3529,15 @@
                <persName>Ἄγγελος</persName>
                <persName xml:lang="en">Messenger</persName>
             </person>
-            <person xml:id="klytaimestra"
-                    sex="FEMALE"
-                    ana="http://www.wikidata.org/entity/Q131157">
+            <person xml:id="klytaimestra" sex="FEMALE">
                <persName>Κλυταιμήστρα</persName>
                <persName xml:lang="en">Clytaemestra</persName>
+               <idno type="wikidata">Q131157</idno>
             </person>
-            <personGrp xml:id="dioskoyroi"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q190103">
+            <personGrp xml:id="dioskoyroi" sex="MALE">
                <name>Διόσκουροι</name>
                <name xml:lang="en">Dioscures</name>
+               <idno type="wikidata">Q190103</idno>
             </personGrp>
          </listPerson>
       </particDesc>
@@ -3871,30 +3567,26 @@
       </titleStmt>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="silenos"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q464091">
+            <person xml:id="silenos" sex="MALE">
                <persName>Σιληνός</persName>
                <persName xml:lang="en">Silenus</persName>
+               <idno type="wikidata">Q464091</idno>
             </person>
-            <personGrp xml:id="choros-satyron"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q163709">
+            <personGrp xml:id="choros-satyron" sex="MALE">
                <name>Χορὸς Σατύρων</name>
                <name type="variant">Χορός</name>
                <name xml:lang="en">Chorus of Satyrs</name>
+               <idno type="wikidata">Q163709</idno>
             </personGrp>
-            <person xml:id="odysseus"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q47231">
+            <person xml:id="odysseus" sex="MALE">
                <persName>Ὀδυσσεύς</persName>
                <persName xml:lang="en">Odysseus</persName>
+               <idno type="wikidata">Q47231</idno>
             </person>
-            <person xml:id="kyklops"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q128430">
+            <person xml:id="kyklops" sex="MALE">
                <persName>Κύκλωψ</persName>
                <persName xml:lang="en">Cyclops</persName>
+               <idno type="wikidata">Q128430</idno>
             </person>
          </listPerson>
       </particDesc>
@@ -3921,17 +3613,15 @@
       </titleStmt>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="apollon"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q37340">
+            <person xml:id="apollon" sex="MALE">
                <persName>Ἀπόλλων</persName>
                <persName xml:lang="en">Apollo</persName>
+               <idno type="wikidata">Q37340</idno>
             </person>
-            <person xml:id="thanatos"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q199647">
+            <person xml:id="thanatos" sex="MALE">
                <persName>Θάνατος</persName>
                <persName xml:lang="en">Death</persName>
+               <idno type="wikidata">Q199647</idno>
             </person>
             <personGrp xml:id="choros" sex="MALE">
                <name>Χορός</name>
@@ -3942,36 +3632,31 @@
                <persName type="variant">Θεράπαινα Ἀλκήστιδος</persName>
                <persName xml:lang="en">Slave of Alcestis</persName>
             </person>
-            <person xml:id="alkestis"
-                    sex="FEMALE"
-                    ana="https://www.wikidata.org/wiki/Q320449">
+            <person xml:id="alkestis" sex="FEMALE">
                <persName>Ἄλκηστις</persName>
                <persName xml:lang="en">Alcestis</persName>
+               <idno type="wikidata">Q320449</idno>
             </person>
-            <person xml:id="admetos"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q192109">
+            <person xml:id="admetos" sex="MALE">
                <persName>Ἄδμητος</persName>
                <persName xml:lang="en">Admetus</persName>
+               <idno type="wikidata">Q192109</idno>
             </person>
-            <person xml:id="pais"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q1686620">
+            <person xml:id="pais" sex="MALE">
                <persName>Παῖς</persName>
                <persName type="variant">Παῖς Ἀλκήστιδος</persName>
                <persName xml:lang="en">Child of Alcestis</persName>
+               <idno type="wikidata">Q1686620</idno>
             </person>
-            <person xml:id="herakles"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q122248">
+            <person xml:id="herakles" sex="MALE">
                <persName>Ἡρακλῆς</persName>
                <persName xml:lang="en">Heracles</persName>
+               <idno type="wikidata">Q122248</idno>
             </person>
-            <person xml:id="pheres"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q731181">
+            <person xml:id="pheres" sex="MALE">
                <persName>Φέρης</persName>
                <persName xml:lang="en">Pheres</persName>
+               <idno type="wikidata">Q731181</idno>
             </person>
             <person xml:id="therapon" sex="MALE">
                <persName>Θεράπων</persName>
@@ -4006,11 +3691,10 @@
                <persName>Τροφός</persName>
                <persName xml:lang="en">Nurse</persName>
             </person>
-            <person xml:id="kreon"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q786573">
+            <person xml:id="kreon" sex="MALE">
                <persName>Κρέων</persName>
                <persName xml:lang="en">Creon</persName>
+               <idno type="wikidata">Q786573</idno>
             </person>
             <personGrp xml:id="paides" sex="UNKNOWN">
                <name>Παῖδες</name>
@@ -4021,28 +3705,25 @@
                <persName>Παιδαγωγός</persName>
                <persName xml:lang="en">Old Slave</persName>
             </person>
-            <person xml:id="iason"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q176758">
+            <person xml:id="iason" sex="MALE">
                <persName>Ἰάσων</persName>
                <persName xml:lang="en">Jason</persName>
+               <idno type="wikidata">Q176758</idno>
             </person>
             <personGrp xml:id="choros" sex="FEMALE">
                <name>Χορός</name>
                <name type="variant">Χορὸς γυναικών</name>
                <name xml:lang="en">Chrous of Corinthian Women</name>
             </personGrp>
-            <person xml:id="aigeus"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q191725">
+            <person xml:id="aigeus" sex="MALE">
                <persName>Αἰγεύς</persName>
                <persName xml:lang="en">Aegeus</persName>
+               <idno type="wikidata">Q191725</idno>
             </person>
-            <person xml:id="medeia"
-                    sex="FEMALE"
-                    ana="https://www.wikidata.org/wiki/Q174278">
+            <person xml:id="medeia" sex="FEMALE">
                <persName>Μήδεια</persName>
                <persName xml:lang="en">Medea</persName>
+               <idno type="wikidata">Q174278</idno>
             </person>
             <person xml:id="angelos" sex="MALE">
                <persName>Ἄγγελος</persName>
@@ -4074,54 +3755,48 @@
       </titleStmt>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="iolaos"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q504076">
+            <person xml:id="iolaos" sex="MALE">
                <persName>Ἰόλαος</persName>
                <persName xml:lang="en">Iolaus</persName>
+               <idno type="wikidata">Q504076</idno>
             </person>
-            <person xml:id="kerux"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q2641203">
+            <person xml:id="kerux" sex="MALE">
                <persName>Κῆρυξ</persName>
                <persName xml:lang="en">Herald</persName>
+               <idno type="wikidata">Q2641203</idno>
             </person>
             <personGrp xml:id="choros" sex="MALE">
                <name>Χορός</name>
                <name xml:lang="en">Chorus of Aged Athenians</name>
             </personGrp>
-            <person xml:id="demophon"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q912376">
+            <person xml:id="demophon" sex="MALE">
                <persName>Δημοφῶν</persName>
                <persName xml:lang="en">Demophon</persName>
+               <idno type="wikidata">Q912376</idno>
             </person>
-            <person xml:id="makaria"
-                    sex="FEMALE"
-                    ana="https://www.wikidata.org/wiki/Q1550960">
+            <person xml:id="makaria" sex="FEMALE">
                <persName>Μακαρία</persName>
                <persName type="variant">Μακαρία Παρθένος</persName>
                <persName xml:lang="en">Macaria</persName>
+               <idno type="wikidata">Q1550960</idno>
             </person>
             <person xml:id="therapon" sex="MALE">
                <persName>Θεράπων</persName>
                <persName xml:lang="en">Slave</persName>
             </person>
-            <person xml:id="alkmene"
-                    sex="FEMALE"
-                    ana="https://www.wikidata.org/wiki/Q190543">
+            <person xml:id="alkmene" sex="FEMALE">
                <persName>Ἀλκμήνη</persName>
                <persName xml:lang="en">Alcmena</persName>
+               <idno type="wikidata">Q190543</idno>
             </person>
             <person xml:id="angelos" sex="MALE">
                <persName>Ἀγγελος</persName>
                <persName xml:lang="en">Messenger</persName>
             </person>
-            <person xml:id="eurystheus"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q212087">
+            <person xml:id="eurystheus" sex="MALE">
                <persName>Ἐυρυσθεύς</persName>
                <persName xml:lang="en">Eurystheus</persName>
+               <idno type="wikidata">Q212087</idno>
             </person>
          </listPerson>
       </particDesc>
@@ -4148,17 +3823,15 @@
       </titleStmt>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="aphrodite"
-                    sex="FEMALE"
-                    ana="https://www.wikidata.org/wiki/Q35500">
+            <person xml:id="aphrodite" sex="FEMALE">
                <persName>Ἀφροδίτη</persName>
                <persName xml:lang="en">Aphrodite</persName>
+               <idno type="wikidata">Q35500</idno>
             </person>
-            <person xml:id="hippolytus"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q338201">
+            <person xml:id="hippolytus" sex="MALE">
                <persName>Ἱππόλυτος</persName>
                <persName xml:lang="en">Hippolytus</persName>
+               <idno type="wikidata">Q338201</idno>
             </person>
             <personGrp xml:id="choros-kynegon" sex="MALE">
                <name>Χορὸς Κυνηγῶν</name>
@@ -4178,27 +3851,24 @@
                <persName>Τροφός</persName>
                <persName xml:lang="en">Nurse</persName>
             </person>
-            <person xml:id="phaidra"
-                    sex="FEMALE"
-                    ana="https://www.wikidata.org/wiki/Q212818">
+            <person xml:id="phaidra" sex="FEMALE">
                <persName>Φαίδρα</persName>
                <persName xml:lang="en">Phaedra</persName>
+               <idno type="wikidata">Q212818</idno>
             </person>
-            <person xml:id="theseus"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q1320718">
+            <person xml:id="theseus" sex="MALE">
                <persName>Θησεύς</persName>
                <persName xml:lang="en">Theseus</persName>
+               <idno type="wikidata">Q1320718</idno>
             </person>
             <person xml:id="angelos" sex="MALE">
                <persName>Ἄγγελος</persName>
                <persName xml:lang="en">Messenger</persName>
             </person>
-            <person xml:id="artemis"
-                    sex="FEMALE"
-                    ana="https://www.wikidata.org/wiki/Q39503">
+            <person xml:id="artemis" sex="FEMALE">
                <persName>Ἄρτεμις</persName>
                <persName xml:lang="en">Artemis</persName>
+               <idno type="wikidata">Q39503</idno>
             </person>
          </listPerson>
       </particDesc>
@@ -4225,11 +3895,10 @@
       </titleStmt>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="andromache"
-                    sex="FEMALE"
-                    ana="https://www.wikidata.org/wiki/Q19376">
+            <person xml:id="andromache" sex="FEMALE">
                <persName>Ἀνδρομάχη</persName>
                <persName xml:lang="en">Andromache</persName>
+               <idno type="wikidata">Q19376</idno>
             </person>
             <person xml:id="therapaina" sex="FEMALE">
                <persName>Θεράπαινα</persName>
@@ -4239,48 +3908,43 @@
                <name>Χορός</name>
                <name xml:lang="en">Chorus of Phthian Women</name>
             </personGrp>
-            <person xml:id="hermione"
-                    sex="FEMALE"
-                    ana="https://www.wikidata.org/wiki/Q658523">
+            <person xml:id="hermione" sex="FEMALE">
                <persName>Ἑρμιόνη</persName>
                <persName xml:lang="en">Hermione</persName>
+               <idno type="wikidata">Q658523</idno>
             </person>
-            <person xml:id="menelaos"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q171839">
+            <person xml:id="menelaos" sex="MALE">
                <persName>Μενέλαος</persName>
                <persName xml:lang="en">Menelaus</persName>
+               <idno type="wikidata">Q171839</idno>
             </person>
             <person xml:id="pais" sex="UNKNOWN">
                <persName>Παῖς</persName>
                <persName type="variant">Παῖς Ἀνδρομάχης</persName>
                <persName xml:lang="en">Child of Andromache</persName>
             </person>
-            <person xml:id="peleus"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q178641">
+            <person xml:id="peleus" sex="MALE">
                <persName>Πηλεύς</persName>
                <persName xml:lang="en">Peleus</persName>
+               <idno type="wikidata">Q178641</idno>
             </person>
             <person xml:id="trophos" sex="FEMALE">
                <persName>Τροφός</persName>
                <persName xml:lang="en">Nurse</persName>
             </person>
-            <person xml:id="orestes"
-                    sex="MALE"
-                    ana="https://www.wikidata.org/wiki/Q192407">
+            <person xml:id="orestes" sex="MALE">
                <persName>Ὀρέστης</persName>
                <persName xml:lang="en">Orestes</persName>
+               <idno type="wikidata">Q192407</idno>
             </person>
             <person xml:id="angelos" sex="MALE">
                <persName>Ἄγγελος</persName>
                <persName xml:lang="en">Messenger</persName>
             </person>
-            <person xml:id="thetis"
-                    sex="FEMALE"
-                    ana="https://www.wikidata.org/wiki/Q184437">
+            <person xml:id="thetis" sex="FEMALE">
                <persName>Θέτις</persName>
                <persName xml:lang="en">Thetis</persName>
+               <idno type="wikidata">Q184437</idno>
             </person>
          </listPerson>
       </particDesc>

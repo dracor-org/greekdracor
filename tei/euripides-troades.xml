@@ -60,23 +60,20 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="poseidon"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q41127">
+               <person xml:id="poseidon" sex="MALE">
                   <persName>Ποσειδῶν</persName>
                   <persName xml:lang="en">Poseidon</persName>
+                  <idno type="wikidata">Q41127</idno>
                </person>
-               <person xml:id="athena"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q37122">
+               <person xml:id="athena" sex="FEMALE">
                   <persName>Ἀθήνα</persName>
                   <persName xml:lang="en">Athena</persName>
+                  <idno type="wikidata">Q37122</idno>
                </person>
-               <person xml:id="hekabe"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q193433">
+               <person xml:id="hekabe" sex="FEMALE">
                   <persName>Ἑκάβη</persName>
                   <persName xml:lang="en">Hecuba</persName>
+                  <idno type="wikidata">Q193433</idno>
                </person>
                <personGrp xml:id="choros" sex="FEMALE">
                   <name>Χορός</name>
@@ -91,35 +88,30 @@
                   <name>Ἡμιχόριον Β</name>
                   <name xml:lang="en">Semi-Chorus B</name>
                </personGrp>
-               <person xml:id="talthybios"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q1367860">
+               <person xml:id="talthybios" sex="MALE">
                   <persName>Ταλθύβιος</persName>
                   <persName xml:lang="en">Talthybius</persName>
+                  <idno type="wikidata">Q1367860</idno>
                </person>
-               <person xml:id="kasandra"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q170779">
+               <person xml:id="kasandra" sex="FEMALE">
                   <persName>Κασάνδρα</persName>
                   <persName xml:lang="en">Cassandra</persName>
+                  <idno type="wikidata">Q170779</idno>
                </person>
-               <person xml:id="andromache"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q19376">
+               <person xml:id="andromache" sex="FEMALE">
                   <persName>Ἀνδρομάχη</persName>
                   <persName xml:lang="en">Andromache</persName>
+                  <idno type="wikidata">Q19376</idno>
                </person>
-               <person xml:id="menelaos"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q171839">
+               <person xml:id="menelaos" sex="MALE">
                   <persName>Μενέλαος</persName>
                   <persName xml:lang="en">Menelaus</persName>
+                  <idno type="wikidata">Q171839</idno>
                </person>
-               <person xml:id="helene"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q164061">
+               <person xml:id="helene" sex="FEMALE">
                   <persName>Ἑλένη</persName>
                   <persName xml:lang="en">Helen</persName>
+                  <idno type="wikidata">Q164061</idno>
                </person>
             </listPerson>
          </particDesc>

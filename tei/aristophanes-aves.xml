@@ -73,19 +73,15 @@
                   <persName>Πισθέταιρος</persName>
                   <persName xml:lang="en">Pisthetaerus</persName>
                </person>
-               <person xml:id="therapon-epopos"
-                       sex="MALE"
-                       role="servus avis"
-                       ana="https://www.wikidata.org/wiki/Q687310">
+               <person xml:id="therapon-epopos" sex="MALE" role="servus avis">
                   <persName>Θεράπων Ἔποπος</persName>
                   <persName xml:lang="en">The Footbird of Hoopoe</persName>
+                  <idno type="wikidata">Q687310</idno>
                </person>
-               <person xml:id="epops"
-                       sex="MALE"
-                       role="avis"
-                       ana="https://www.wikidata.org/wiki/Q1138506">
+               <person xml:id="epops" sex="MALE" role="avis">
                   <persName>Ἔποψ</persName>
                   <persName xml:lang="en">Epops (Hoopoe)</persName>
+                  <idno type="wikidata">Q1138506</idno>
                </person>
                <personGrp xml:id="choros" sex="UNKNOWN" role="chorus_avis">
                   <name>Χορός</name>
@@ -113,13 +109,11 @@
                   <persName>Χρησμολόγος</persName>
                   <persName xml:lang="en">An Oracle-Monger</persName>
                </person>
-               <person xml:id="meton"
-                       sex="MALE"
-                       role="mathematicus"
-                       ana="https://www.wikidata.org/wiki/Q261909">
+               <person xml:id="meton" sex="MALE" role="mathematicus">
                   <persName>Μέτων</persName>
                   <persName type="variant">Μέτων γεωμέτρης</persName>
                   <persName xml:lang="en">Meton, a Geometrician</persName>
+                  <idno type="wikidata">Q261909</idno>
                </person>
                <person xml:id="episkopos" sex="MALE" role="speculator">
                   <persName>Ἐπίσκοπος</persName>
@@ -142,53 +136,43 @@
                   <persName xml:lang="en">Messenger B (a bird)</persName>
                   <persName type="variant">Ἄγγελος Β.</persName>
                </person>
-               <person xml:id="iris"
-                       sex="FEMALE"
-                       role="dea"
-                       ana="https://www.wikidata.org/wiki/Q184570">
+               <person xml:id="iris" sex="FEMALE" role="dea">
                   <persName>Ἶρις</persName>
                   <persName xml:lang="en">Iris</persName>
+                  <idno type="wikidata">Q184570</idno>
                </person>
                <person xml:id="patraloias" sex="MALE" role="parricida">
                   <persName>Πατραλοίας</persName>
                   <persName xml:lang="en">A Parricides</persName>
                </person>
-               <person xml:id="kinesias"
-                       sex="MALE"
-                       role="poeta"
-                       ana="https://www.wikidata.org/wiki/Q2973270">
+               <person xml:id="kinesias" sex="MALE" role="poeta">
                   <persName>Κινησίας</persName>
                   <persName>Κινησίας διθυραμβοποιός</persName>
                   <persName xml:lang="en">Cinesias, a dithyrambic Poet</persName>
+                  <idno type="wikidata">Q2973270</idno>
                </person>
                <person xml:id="sykophantes" sex="MALE" role="sycophanta">
                   <persName>Συκοφάντης</persName>
                   <persName xml:lang="en">An Informer</persName>
                </person>
-               <person xml:id="prometheus"
-                       sex="MALE"
-                       role="deus"
-                       ana="http://www.wikidata.org/entity/Q83160">
+               <person xml:id="prometheus" sex="MALE" role="deus">
                   <persName>Προμηθεύς</persName>
                   <persName xml:lang="en">Prometheus</persName>
+                  <idno type="wikidata">Q83160</idno>
                </person>
-               <person xml:id="poseidon"
-                       sex="MALE"
-                       role="deus legatus"
-                       ana="http://www.wikidata.org/entity/Q41127">
+               <person xml:id="poseidon" sex="MALE" role="deus legatus">
                   <persName>Ποσειδῶν</persName>
                   <persName xml:lang="en">Poseidon</persName>
+                  <idno type="wikidata">Q41127</idno>
                </person>
                <person xml:id="triballos" sex="MALE" role="deus legatus">
                   <persName>Τριβαλλός</persName>
                   <persName xml:lang="en">Triballus</persName>
                </person>
-               <person xml:id="herakles"
-                       sex="MALE"
-                       role="deus legatus"
-                       ana="http://www.wikidata.org/entity/Q122248">
+               <person xml:id="herakles" sex="MALE" role="deus legatus">
                   <persName>Ἡρακλῆς</persName>
                   <persName xml:lang="en">Heracles</persName>
+                  <idno type="wikidata">Q122248</idno>
                </person>
                <listRelation>
                   <relation name="associated_with" active="#therapon-epopos" passive="#epops"/>

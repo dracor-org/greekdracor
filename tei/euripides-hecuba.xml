@@ -60,56 +60,49 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="polydorou-eidolon"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q346634">
+               <person xml:id="polydorou-eidolon" sex="MALE">
                   <persName>Πολυδώρου εἴδωλον</persName>
                   <persName xml:lang="en">Ghost of Polydorus</persName>
+                  <idno type="wikidata">Q346634</idno>
                </person>
-               <person xml:id="hekabe"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q193433">
+               <person xml:id="hekabe" sex="FEMALE">
                   <persName>Ἑκάβη</persName>
                   <persName xml:lang="en">Hecuba</persName>
+                  <idno type="wikidata">Q193433</idno>
                </person>
                <personGrp xml:id="choros" sex="FEMALE">
                   <name>Χορός</name>
                   <name type="variant">Χορὸς Αἰχμαλωτίδων Γυναικών</name>
                   <name xml:lang="en">Chorus of Captive Trojan Women</name>
                </personGrp>
-               <person xml:id="polyxene"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q750236">
+               <person xml:id="polyxene" sex="FEMALE">
                   <persName>Πολυξένη</persName>
                   <persName xml:lang="en">Polyxena</persName>
+                  <idno type="wikidata">Q750236</idno>
                </person>
-               <person xml:id="odysseus"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q47231">
+               <person xml:id="odysseus" sex="MALE">
                   <persName>Ὀδυσσεύς</persName>
                   <persName xml:lang="en">Odysseus</persName>
+                  <idno type="wikidata">Q47231</idno>
                </person>
-               <person xml:id="talthybios"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q1367860">
+               <person xml:id="talthybios" sex="MALE">
                   <persName>Ταλθύβιος</persName>
                   <persName xml:lang="en">Talthybius</persName>
+                  <idno type="wikidata">Q1367860</idno>
                </person>
                <person xml:id="therapaina" sex="FEMALE">
                   <persName>Θεράπαινα</persName>
                   <persName xml:lang="en">Maid</persName>
                </person>
-               <person xml:id="agamemnon"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q128176">
+               <person xml:id="agamemnon" sex="MALE">
                   <persName>Ἀγαμέμνων</persName>
                   <persName xml:lang="en">Agamemnon</persName>
+                  <idno type="wikidata">Q128176</idno>
                </person>
-               <person xml:id="polymestor"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q2288153">
+               <person xml:id="polymestor" sex="MALE">
                   <persName>Πολυμήστωρ</persName>
                   <persName xml:lang="en">Polymestor</persName>
+                  <idno type="wikidata">Q2288153</idno>
                </person>
             </listPerson>
          </particDesc>

@@ -60,23 +60,20 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="iphigeneia"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q192673">
+               <person xml:id="iphigeneia" sex="FEMALE">
                   <persName>Ἰφιγένεια</persName>
                   <persName xml:lang="en">Iphigenia</persName>
+                  <idno type="wikidata">Q192673</idno>
                </person>
-               <person xml:id="orestes"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q192407">
+               <person xml:id="orestes" sex="MALE">
                   <persName>Ὀρέστης</persName>
                   <persName xml:lang="en">Orestes</persName>
+                  <idno type="wikidata">Q192407</idno>
                </person>
-               <person xml:id="pylades"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q494886">
+               <person xml:id="pylades" sex="MALE">
                   <persName>Πυλάδης</persName>
                   <persName xml:lang="en">Pylades</persName>
+                  <idno type="wikidata">Q494886</idno>
                </person>
                <personGrp xml:id="choros" sex="FEMALE">
                   <name>Χορός</name>
@@ -86,21 +83,19 @@
                   <persName>Βουκόλος</persName>
                   <persName xml:lang="en">Herdsman</persName>
                </person>
-               <person xml:id="thoas"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q1246185">
+               <person xml:id="thoas" sex="MALE">
                   <persName>Θόας</persName>
                   <persName xml:lang="en">Thoas</persName>
+                  <idno type="wikidata">Q1246185</idno>
                </person>
                <person xml:id="angelos" sex="MALE">
                   <persName>Ἄγγελος</persName>
                   <persName xml:lang="en">Messenger</persName>
                </person>
-               <person xml:id="athena"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q37122">
+               <person xml:id="athena" sex="FEMALE">
                   <persName>Ἀθήνα</persName>
                   <persName xml:lang="en">Athena</persName>
+                  <idno type="wikidata">Q37122</idno>
                </person>
             </listPerson>
          </particDesc>

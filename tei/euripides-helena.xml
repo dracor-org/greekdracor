@@ -60,28 +60,25 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="helene"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q164061">
+               <person xml:id="helene" sex="FEMALE">
                   <persName>Ἑλένη</persName>
                   <persName xml:lang="en">Helen</persName>
+                  <idno type="wikidata">Q164061</idno>
                </person>
-               <person xml:id="teukros"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q878184">
+               <person xml:id="teukros" sex="MALE">
                   <persName>Τεῦκρος</persName>
                   <persName xml:lang="en">Teucer</persName>
+                  <idno type="wikidata">Q878184</idno>
                </person>
                <personGrp xml:id="choros" sex="FEMALE">
                   <name>Χορός</name>
                   <name xml:lang="en">Chorus of Captive Greek Woman in Egypt</name>
                </personGrp>
-               <person xml:id="meneleos"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q171839">
+               <person xml:id="meneleos" sex="MALE">
                   <persName>Μενελέως</persName>
                   <persName xml:lang="en">Menelaus</persName>
                   <persName type="variant">&lt;Μενελέως</persName>
+                  <idno type="wikidata">Q171839</idno>
                </person>
                <person xml:id="graus" sex="FEMALE">
                   <persName>Γραῦς</persName>
@@ -92,28 +89,25 @@
                   <persName>Ἄγγελος</persName>
                   <persName xml:lang="en">Messenger</persName>
                </person>
-               <person xml:id="theonoe"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q16217794">
+               <person xml:id="theonoe" sex="FEMALE">
                   <persName>Θεονόη</persName>
                   <persName xml:lang="en">Theonoe</persName>
+                  <idno type="wikidata">Q16217794</idno>
                </person>
-               <person xml:id="theoklymenos"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q3983831">
+               <person xml:id="theoklymenos" sex="MALE">
                   <persName>Θεοκλύμενος</persName>
                   <persName xml:lang="en">Theoclymenus</persName>
+                  <idno type="wikidata">Q3983831</idno>
                </person>
                <!-- check in new Loeb edition -->
                <person xml:id="therapon" sex="MALE">
                   <persName>Θεράπων</persName>
                   <persName xml:lang="en">Slave</persName>
                </person>
-               <person xml:id="dioskoroi"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q190103">
+               <person xml:id="dioskoroi" sex="MALE">
                   <persName>Διόσκοροι</persName>
                   <persName xml:lang="en">Dioscures</persName>
+                  <idno type="wikidata">Q190103</idno>
                </person>
             </listPerson>
          </particDesc>

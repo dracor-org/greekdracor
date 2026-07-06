@@ -60,11 +60,10 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="agamemnon"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q128176">
+               <person xml:id="agamemnon" sex="MALE">
                   <persName>Ἀγαμέμνων</persName>
                   <persName xml:lang="en">Agamemnon</persName>
+                  <idno type="wikidata">Q128176</idno>
                </person>
                <person xml:id="presbytes" sex="MALE">
                   <persName>Πρεσβύτης</persName>
@@ -74,11 +73,10 @@
                   <name>Χορός</name>
                   <name xml:lang="en">Chorus of Euboean Women</name>
                </personGrp>
-               <person xml:id="menelaos"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q171839">
+               <person xml:id="menelaos" sex="MALE">
                   <persName>Μενέλαος</persName>
                   <persName xml:lang="en">Menelaus</persName>
+                  <idno type="wikidata">Q171839</idno>
                </person>
                <person xml:id="angelos-a" sex="MALE">
                   <persName>Αγγελος Α</persName>
@@ -89,23 +87,20 @@
                   <name xml:lang="en">Chorus of Argive Men</name>
                   <name type="variant">Χορός ανδρων Αργειων</name>
                </personGrp>
-               <person xml:id="klytaimestra"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q131157">
+               <person xml:id="klytaimestra" sex="FEMALE">
                   <persName>Κλυταιμήστρα</persName>
                   <persName xml:lang="en">Clytaemestra</persName>
+                  <idno type="wikidata">Q131157</idno>
                </person>
-               <person xml:id="iphigeneia"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q192673">
+               <person xml:id="iphigeneia" sex="FEMALE">
                   <persName>Ἰφιγένεια</persName>
                   <persName xml:lang="en">Iphigenia</persName>
+                  <idno type="wikidata">Q192673</idno>
                </person>
-               <person xml:id="achilleus"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q41746">
+               <person xml:id="achilleus" sex="MALE">
                   <persName>Ἀχιλλεύς</persName>
                   <persName xml:lang="en">Achilles</persName>
+                  <idno type="wikidata">Q41746</idno>
                </person>
                <person xml:id="angelos" sex="MALE">
                   <persName>Ἄγγελος</persName>

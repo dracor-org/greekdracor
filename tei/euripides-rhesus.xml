@@ -65,69 +65,60 @@
                   <name type="variant">Χορὸς Φυλακών</name>
                   <name xml:lang="en">Chorus of Trojan Soldiers</name>
                </personGrp>
-               <person xml:id="hektor"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q159666">
+               <person xml:id="hektor" sex="MALE">
                   <persName>Ἕκτωρ</persName>
                   <persName xml:lang="en">Hector</persName>
+                  <idno type="wikidata">Q159666</idno>
                </person>
-               <person xml:id="aineias"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q82732">
+               <person xml:id="aineias" sex="MALE">
                   <persName>Αἰνείας</persName>
                   <persName xml:lang="en">Aeneas</persName>
+                  <idno type="wikidata">Q82732</idno>
                </person>
-               <person xml:id="dolon"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q854056">
+               <person xml:id="dolon" sex="MALE">
                   <persName>Δόλων</persName>
                   <persName xml:lang="en">Dolon</persName>
+                  <idno type="wikidata">Q854056</idno>
                </person>
                <person xml:id="angelos" sex="MALE">
                   <persName>Ἄγγελος</persName>
                   <persName type="variant">Ἄγγελος Ποιμήν</persName>
                   <persName xml:lang="en">Messenger (Herdsman)</persName>
                </person>
-               <person xml:id="resos"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q1061782">
+               <person xml:id="resos" sex="MALE">
                   <persName>Ῥῆσος</persName>
                   <persName xml:lang="en">Rhesus</persName>
+                  <idno type="wikidata">Q1061782</idno>
                </person>
-               <person xml:id="odysseus"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q47231">
+               <person xml:id="odysseus" sex="MALE">
                   <persName>Ὀδυσσεύς</persName>
                   <persName xml:lang="en">Odysseus</persName>
+                  <idno type="wikidata">Q47231</idno>
                </person>
-               <person xml:id="diomedes"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q208256">
+               <person xml:id="diomedes" sex="MALE">
                   <persName>Διομήδης</persName>
                   <persName xml:lang="en">Diomedes</persName>
+                  <idno type="wikidata">Q208256</idno>
                </person>
-               <person xml:id="athena"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q37122">
+               <person xml:id="athena" sex="FEMALE">
                   <persName>Ἀθήνα</persName>
                   <persName xml:lang="en">Athena</persName>
+                  <idno type="wikidata">Q37122</idno>
                </person>
-               <person xml:id="alexandros"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q167646">
+               <person xml:id="alexandros" sex="MALE">
                   <persName>Ἀλέξανδρος</persName>
                   <persName type="variant">Πάρις</persName>
                   <persName xml:lang="en">Alexandros (Paris)</persName>
+                  <idno type="wikidata">Q167646</idno>
                </person>
                <person xml:id="heniochos" sex="MALE">
                   <persName>Ἡνίοχος</persName>
                   <persName xml:lang="en">Charioteer</persName>
                </person>
-               <person xml:id="mousa"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q66016">
+               <person xml:id="mousa" sex="FEMALE">
                   <persName>Μοῦσα</persName>
                   <persName xml:lang="en">Muse</persName>
+                  <idno type="wikidata">Q66016</idno>
                </person>
             </listPerson>
          </particDesc>

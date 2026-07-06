@@ -63,41 +63,34 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="oidipous"
-                       sex="MALE"
-                       role="rex"
-                       ana="http://www.wikidata.org/entity/Q130890">
+               <person xml:id="oidipous" sex="MALE" role="rex">
                   <persName>Οἰδίπους</persName>
                   <persName xml:lang="en">Oedipus</persName>
+                  <idno type="wikidata">Q130890</idno>
                </person>
                <person xml:id="hiereus" sex="MALE" role="sacerdos">
                   <persName>Ἱερεύς</persName>
                   <persName xml:lang="en">The Priest of Zeus</persName>
                </person>
-               <person xml:id="kreon"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q732066">
+               <person xml:id="kreon" sex="MALE">
                   <persName>Κρέων</persName>
                   <persName xml:lang="en">Creon</persName>
+                  <idno type="wikidata">Q732066</idno>
                </person>
                <personGrp xml:id="choros" sex="MALE" role="chorus_senex">
                   <name>Χορός</name>
                   <name type="variant">Χορὸς Γερόντων Θηβαίων</name>
                   <name xml:lang="en">Chorus of Theban Elders</name>
                </personGrp>
-               <person xml:id="teiresias"
-                       sex="MALE"
-                       role="vates senex"
-                       ana="http://www.wikidata.org/entity/Q656881">
+               <person xml:id="teiresias" sex="MALE" role="vates senex">
                   <persName>Τειρεσίας</persName>
                   <persName xml:lang="en">Teiresias</persName>
+                  <idno type="wikidata">Q656881</idno>
                </person>
-               <person xml:id="iokaste"
-                       sex="FEMALE"
-                       role="uxor"
-                       ana="http://www.wikidata.org/entity/Q131445">
+               <person xml:id="iokaste" sex="FEMALE" role="uxor">
                   <persName>Ἰοκάστη</persName>
                   <persName xml:lang="en">Jocasta</persName>
+                  <idno type="wikidata">Q131445</idno>
                </person>
                <person xml:id="angelos" sex="MALE" role="nuntius">
                   <persName>Ἄγγελος</persName>

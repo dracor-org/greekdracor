@@ -60,55 +60,48 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="amphitryon"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q206214">
+               <person xml:id="amphitryon" sex="MALE">
                   <persName>Ἀμφιτρύων</persName>
                   <persName xml:lang="en">Amphitryon</persName>
+                  <idno type="wikidata">Q206214</idno>
                </person>
-               <person xml:id="megara"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q929768">
+               <person xml:id="megara" sex="FEMALE">
                   <persName>Μεγάρα</persName>
                   <persName xml:lang="en">Megara</persName>
+                  <idno type="wikidata">Q929768</idno>
                </person>
                <personGrp xml:id="choros" sex="MALE">
                   <name>Χορός</name>
                   <name xml:lang="en">Chorus of Old Men of Thebes</name>
                </personGrp>
-               <person xml:id="lykos"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q1393416">
+               <person xml:id="lykos" sex="MALE">
                   <persName>Λύκος</persName>
                   <persName xml:lang="en">Lycus</persName>
+                  <idno type="wikidata">Q1393416</idno>
                </person>
-               <person xml:id="herakles"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q122248">
+               <person xml:id="herakles" sex="MALE">
                   <persName>Ἡρακλῆς</persName>
                   <persName xml:lang="en">Heracles</persName>
+                  <idno type="wikidata">Q122248</idno>
                </person>
-               <person xml:id="iris"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q184570">
+               <person xml:id="iris" sex="FEMALE">
                   <persName>Ἶρις</persName>
                   <persName xml:lang="en">Iris</persName>
+                  <idno type="wikidata">Q184570</idno>
                </person>
-               <person xml:id="lyssa"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q1084868">
+               <person xml:id="lyssa" sex="FEMALE">
                   <persName>Λύσσα</persName>
                   <persName xml:lang="en">Lyssa</persName>
+                  <idno type="wikidata">Q1084868</idno>
                </person>
                <person xml:id="angelos" sex="MALE">
                   <persName>Ἄγγελος</persName>
                   <persName xml:lang="en">Messenger</persName>
                </person>
-               <person xml:id="theseus"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q1320718">
+               <person xml:id="theseus" sex="MALE">
                   <persName>Θησεύς</persName>
                   <persName xml:lang="en">Theseus</persName>
+                  <idno type="wikidata">Q1320718</idno>
                </person>
             </listPerson>
          </particDesc>

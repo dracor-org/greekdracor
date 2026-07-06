@@ -54,30 +54,26 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="silenos"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q464091">
+               <person xml:id="silenos" sex="MALE">
                   <persName>Σιληνός</persName>
                   <persName xml:lang="en">Silenus</persName>
+                  <idno type="wikidata">Q464091</idno>
                </person>
-               <personGrp xml:id="choros-satyron"
-                          sex="MALE"
-                          ana="https://www.wikidata.org/wiki/Q163709">
+               <personGrp xml:id="choros-satyron" sex="MALE">
                   <name>Χορὸς Σατύρων</name>
                   <name type="variant">Χορός</name>
                   <name xml:lang="en">Chorus of Satyrs</name>
+                  <idno type="wikidata">Q163709</idno>
                </personGrp>
-               <person xml:id="odysseus"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q47231">
+               <person xml:id="odysseus" sex="MALE">
                   <persName>Ὀδυσσεύς</persName>
                   <persName xml:lang="en">Odysseus</persName>
+                  <idno type="wikidata">Q47231</idno>
                </person>
-               <person xml:id="kyklops"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q128430">
+               <person xml:id="kyklops" sex="MALE">
                   <persName>Κύκλωψ</persName>
                   <persName xml:lang="en">Cyclops</persName>
+                  <idno type="wikidata">Q128430</idno>
                </person>
             </listPerson>
          </particDesc>

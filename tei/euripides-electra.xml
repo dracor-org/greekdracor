@@ -65,17 +65,15 @@
                   <persName type="variant">Αὐτουργὸς Μυκηναῖος</persName>
                   <persName xml:lang="en">Mycenaean Farmer</persName>
                </person>
-               <person xml:id="elektra"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q131651">
+               <person xml:id="elektra" sex="FEMALE">
                   <persName>Ἠλέκτρα</persName>
                   <persName xml:lang="en">Electra</persName>
+                  <idno type="wikidata">Q131651</idno>
                </person>
-               <person xml:id="orestes"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q192407">
+               <person xml:id="orestes" sex="MALE">
                   <persName>Ὀρέστης</persName>
                   <persName xml:lang="en">Orestes</persName>
+                  <idno type="wikidata">Q192407</idno>
                </person>
                <personGrp xml:id="choros" sex="FEMALE">
                   <name>Χορός</name>
@@ -89,17 +87,15 @@
                   <persName>Ἄγγελος</persName>
                   <persName xml:lang="en">Messenger</persName>
                </person>
-               <person xml:id="klytaimestra"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q131157">
+               <person xml:id="klytaimestra" sex="FEMALE">
                   <persName>Κλυταιμήστρα</persName>
                   <persName xml:lang="en">Clytaemestra</persName>
+                  <idno type="wikidata">Q131157</idno>
                </person>
-               <personGrp xml:id="dioskoyroi"
-                          sex="MALE"
-                          ana="https://www.wikidata.org/wiki/Q190103">
+               <personGrp xml:id="dioskoyroi" sex="MALE">
                   <name>Διόσκουροι</name>
                   <name xml:lang="en">Dioscures</name>
+                  <idno type="wikidata">Q190103</idno>
                </personGrp>
             </listPerson>
          </particDesc>

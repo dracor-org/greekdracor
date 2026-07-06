@@ -54,11 +54,10 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="andromache"
-                       sex="FEMALE"
-                       ana="https://www.wikidata.org/wiki/Q19376">
+               <person xml:id="andromache" sex="FEMALE">
                   <persName>Ἀνδρομάχη</persName>
                   <persName xml:lang="en">Andromache</persName>
+                  <idno type="wikidata">Q19376</idno>
                </person>
                <person xml:id="therapaina" sex="FEMALE">
                   <persName>Θεράπαινα</persName>
@@ -68,48 +67,43 @@
                   <name>Χορός</name>
                   <name xml:lang="en">Chorus of Phthian Women</name>
                </personGrp>
-               <person xml:id="hermione"
-                       sex="FEMALE"
-                       ana="https://www.wikidata.org/wiki/Q658523">
+               <person xml:id="hermione" sex="FEMALE">
                   <persName>Ἑρμιόνη</persName>
                   <persName xml:lang="en">Hermione</persName>
+                  <idno type="wikidata">Q658523</idno>
                </person>
-               <person xml:id="menelaos"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q171839">
+               <person xml:id="menelaos" sex="MALE">
                   <persName>Μενέλαος</persName>
                   <persName xml:lang="en">Menelaus</persName>
+                  <idno type="wikidata">Q171839</idno>
                </person>
                <person xml:id="pais" sex="UNKNOWN">
                   <persName>Παῖς</persName>
                   <persName type="variant">Παῖς Ἀνδρομάχης</persName>
                   <persName xml:lang="en">Child of Andromache</persName>
                </person>
-               <person xml:id="peleus"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q178641">
+               <person xml:id="peleus" sex="MALE">
                   <persName>Πηλεύς</persName>
                   <persName xml:lang="en">Peleus</persName>
+                  <idno type="wikidata">Q178641</idno>
                </person>
                <person xml:id="trophos" sex="FEMALE">
                   <persName>Τροφός</persName>
                   <persName xml:lang="en">Nurse</persName>
                </person>
-               <person xml:id="orestes"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q192407">
+               <person xml:id="orestes" sex="MALE">
                   <persName>Ὀρέστης</persName>
                   <persName xml:lang="en">Orestes</persName>
+                  <idno type="wikidata">Q192407</idno>
                </person>
                <person xml:id="angelos" sex="MALE">
                   <persName>Ἄγγελος</persName>
                   <persName xml:lang="en">Messenger</persName>
                </person>
-               <person xml:id="thetis"
-                       sex="FEMALE"
-                       ana="https://www.wikidata.org/wiki/Q184437">
+               <person xml:id="thetis" sex="FEMALE">
                   <persName>Θέτις</persName>
                   <persName xml:lang="en">Thetis</persName>
+                  <idno type="wikidata">Q184437</idno>
                </person>
             </listPerson>
          </particDesc>

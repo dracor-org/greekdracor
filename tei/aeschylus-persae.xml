@@ -69,31 +69,25 @@
                   <name type="variant">Χορὸς Γερόντων</name>
                   <name xml:lang="en">Chorus of Persian Elders</name>
                </personGrp>
-               <person xml:id="atossa"
-                       sex="FEMALE"
-                       role="uxor"
-                       ana="http://www.wikidata.org/entity/Q233359">
+               <person xml:id="atossa" sex="FEMALE" role="uxor">
                   <persName>Ἄτοσσα</persName>
                   <persName xml:lang="en">Atossa</persName>
+                  <idno type="wikidata">Q233359</idno>
                </person>
                <person xml:id="angelos" sex="MALE" role="nuntius">
                   <persName>Ἄγγελος</persName>
                   <persName xml:lang="en">A Messenger</persName>
                </person>
-               <person xml:id="eidolon-dareiou"
-                       sex="MALE"
-                       role="rex"
-                       ana="http://www.wikidata.org/entity/Q44387">
+               <person xml:id="eidolon-dareiou" sex="MALE" role="rex">
                   <persName>Εἴδωλον Δαρείου</persName>
                   <persName type="variant">Δαρεῖος</persName>
                   <persName xml:lang="en">Ghost of Darius</persName>
+                  <idno type="wikidata">Q44387</idno>
                </person>
-               <person xml:id="xerxes"
-                       sex="MALE"
-                       role="rex"
-                       ana="http://www.wikidata.org/entity/Q129165">
+               <person xml:id="xerxes" sex="MALE" role="rex">
                   <persName>Ξέρξης</persName>
                   <persName xml:lang="en">Xerxes</persName>
+                  <idno type="wikidata">Q129165</idno>
                </person>
                <listRelation>
                   <relation name="#choros" passive="#xerxes"/>

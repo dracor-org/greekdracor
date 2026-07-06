@@ -97,12 +97,10 @@
                   <persName xml:lang="en">Pupil G</persName>
                   <persName type="variant">Μαθητής Γ</persName>
                </person>
-               <person xml:id="sokrates"
-                       sex="MALE"
-                       role="didascalus"
-                       ana="http://www.wikidata.org/entity/Q913">
+               <person xml:id="sokrates" sex="MALE" role="didascalus">
                   <persName>Σωκράτης</persName>
                   <persName xml:lang="en">Socrates</persName>
+                  <idno type="wikidata">Q913</idno>
                </person>
                <personGrp xml:id="choros" sex="UNKNOWN" role="chorus">
                   <name>Χορός</name>
@@ -131,19 +129,15 @@
                   <persName type="variant">Αμυνίας δανειστής</persName>
                   <persName xml:lang="en">Amynias, a Creditor</persName>
                </person>
-               <person xml:id="chairephon"
-                       sex="MALE"
-                       role="didascalus"
-                       ana="https://www.wikidata.org/wiki/Q744125">
+               <person xml:id="chairephon" sex="MALE" role="didascalus">
                   <persName>Χαιρεφῶν</persName>
                   <persName xml:lang="en">Chaerephon</persName>
+                  <idno type="wikidata">Q744125</idno>
                </person>
-               <person xml:id="hermes"
-                       sex="MALE"
-                       role="deus"
-                       ana="http://www.wikidata.org/entity/Q41484">
+               <person xml:id="hermes" sex="MALE" role="deus">
                   <persName>Ερμῆς</persName>
                   <persName xml:lang="en">Hermes</persName>
+                  <idno type="wikidata">Q41484</idno>
                </person>
                <listRelation>
                   <relation name="parent_of" active="#strepsiades" passive="#pheidippides"/>

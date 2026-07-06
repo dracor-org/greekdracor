@@ -63,12 +63,10 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="odysseus"
-                       sex="MALE"
-                       role="heros rex"
-                       ana="http://www.wikidata.org/entity/Q47231">
+               <person xml:id="odysseus" sex="MALE" role="heros rex">
                   <persName>Ὀδυσσεύς</persName>
                   <persName xml:lang="en">Odysseus</persName>
+                  <idno type="wikidata">Q47231</idno>
                </person>
                <personGrp xml:id="choros" sex="MALE" role="chorus_nauta">
                   <name>Χορός</name>
@@ -79,26 +77,20 @@
                   <persName type="variant">Σκοπός</persName>
                   <persName xml:lang="en">Sailor, disguised as Merchant Captain</persName>
                </person>
-               <person xml:id="neoptolemos"
-                       sex="MALE"
-                       role="heros"
-                       ana="http://www.wikidata.org/entity/Q322639">
+               <person xml:id="neoptolemos" sex="MALE" role="heros">
                   <persName>Νεοπτόλεμος</persName>
                   <persName xml:lang="en">Neoptolemus</persName>
+                  <idno type="wikidata">Q322639</idno>
                </person>
-               <person xml:id="philoktetes"
-                       sex="MALE"
-                       role="heros"
-                       ana="http://www.wikidata.org/entity/Q212827">
+               <person xml:id="philoktetes" sex="MALE" role="heros">
                   <persName>Φιλοκτήτης</persName>
                   <persName xml:lang="en">Philoctetes</persName>
+                  <idno type="wikidata">Q212827</idno>
                </person>
-               <person xml:id="herakles"
-                       sex="MALE"
-                       role="heros"
-                       ana="http://www.wikidata.org/entity/Q122248">
+               <person xml:id="herakles" sex="MALE" role="heros">
                   <persName>Ἡρακλῆς</persName>
                   <persName xml:lang="en">Heracles</persName>
+                  <idno type="wikidata">Q122248</idno>
                </person>
                <listRelation>
                   <relation name="associated_with" active="#choros" passive="#neoptolemos"/>

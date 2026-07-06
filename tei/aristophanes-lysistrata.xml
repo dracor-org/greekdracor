@@ -65,12 +65,10 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="lysistrate"
-                       sex="FEMALE"
-                       role="uxor"
-                       ana="https://www.wikidata.org/wiki/Q63535426">
+               <person xml:id="lysistrate" sex="FEMALE" role="uxor">
                   <persName>Λυσιστράτη</persName>
                   <persName xml:lang="en">Lysistrata</persName>
+                  <idno type="wikidata">Q63535426</idno>
                </person>
                <person xml:id="kalonike" sex="FEMALE" role="uxor">
                   <persName>Καλονίκη</persName>

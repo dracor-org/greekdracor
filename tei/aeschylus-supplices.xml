@@ -64,10 +64,7 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <personGrp xml:id="choros-danaidon"
-                          sex="FEMALE"
-                          role="chorus"
-                          ana="http://www.wikidata.org/entity/Q724907">
+               <personGrp xml:id="choros-danaidon" sex="FEMALE" role="chorus">
                   <name>Χορὸς Δαναΐδων</name>
                   <name type="variant">Χορός</name>
                   <name type="variant">Χορός Δαναΐδων</name>
@@ -76,23 +73,20 @@
                   <name type="variant">&lt;Χορός &gt;</name>
                   <name type="variant">&lt;Χορός&gt;</name>
                   <name type="variant">Χορός &lt;Δαναΐδων&gt;</name>
+                  <idno type="wikidata">Q724907</idno>
                </personGrp>
-               <person xml:id="danaos"
-                       role="rex pater"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q210883">
+               <person xml:id="danaos" role="rex pater" sex="MALE">
                   <persName>Δαναός</persName>
                   <persName xml:lang="en">Danaus</persName>
+                  <idno type="wikidata">Q210883</idno>
                </person>
-               <person xml:id="basileus"
-                       role="rex"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q1636827">
+               <person xml:id="basileus" role="rex" sex="MALE">
                   <persName>Βασιλεύς</persName>
                   <persName type="variant">Βασιλεύς Ἀργεΐων</persName>
                   <persName xml:lang="en">Pelasgus, King of Argus</persName>
                   <persName type="variant">βασιλεύς</persName>
                   <persName type="variant">&lt;Βασιλεύς&gt;</persName>
+                  <idno type="wikidata">Q1636827</idno>
                </person>
                <person xml:id="keryx" sex="MALE" role="praeco">
                   <persName>Κῆρυξ</persName>
@@ -109,11 +103,11 @@
                <person xml:id="danais"
                        sex="FEMALE"
                        role="filia"
-                       ana="http://www.wikidata.org/entity/Q724907"
                        corresp="#choros-danaidon">
                   <persName>Δαναΐς</persName>
                   <persName xml:lang="en">A Danaid</persName>
                   <persName type="variant">&lt;Δαναΐς&gt;</persName>
+                  <idno type="wikidata">Q724907</idno>
                </person>
                <person xml:id="therapaina"
                        sex="FEMALE"

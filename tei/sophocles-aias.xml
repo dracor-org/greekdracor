@@ -63,26 +63,20 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="athena"
-                       sex="FEMALE"
-                       role="dea"
-                       ana="http://www.wikidata.org/entity/Q37122">
+               <person xml:id="athena" sex="FEMALE" role="dea">
                   <persName>Ἀθήνα</persName>
                   <persName xml:lang="en">Athena</persName>
+                  <idno type="wikidata">Q37122</idno>
                </person>
-               <person xml:id="odysseus"
-                       sex="MALE"
-                       role="heros rex"
-                       ana="http://www.wikidata.org/entity/Q47231">
+               <person xml:id="odysseus" sex="MALE" role="heros rex">
                   <persName>Ὀδυσσεύς</persName>
                   <persName xml:lang="en">Odysseus</persName>
+                  <idno type="wikidata">Q47231</idno>
                </person>
-               <person xml:id="aias"
-                       sex="MALE"
-                       role="heros"
-                       ana="http://www.wikidata.org/entity/Q172725">
+               <person xml:id="aias" sex="MALE" role="heros">
                   <persName>Αἴας</persName>
                   <persName xml:lang="en">Ajax</persName>
+                  <idno type="wikidata">Q172725</idno>
                </person>
                <personGrp xml:id="choros" sex="MALE" role="chorus_nauta">
                   <name>Χορός</name>
@@ -103,37 +97,29 @@
                   <name>Ἡμιχόριον 2</name>
                   <name xml:lang="en">Semi-Chorus 2</name>
                </personGrp>
-               <person xml:id="tekmessa"
-                       sex="FEMALE"
-                       role="uxor"
-                       ana="http://www.wikidata.org/entity/Q10796858">
+               <person xml:id="tekmessa" sex="FEMALE" role="uxor">
                   <persName>Τέκμησσα</persName>
                   <persName xml:lang="en">Tecmessa</persName>
+                  <idno type="wikidata">Q10796858</idno>
                </person>
                <person xml:id="angelos" sex="MALE" role="nuntius">
                   <persName>Ἄγγελος</persName>
                   <persName xml:lang="en">A Messenger</persName>
                </person>
-               <person xml:id="teukros"
-                       sex="MALE"
-                       role="heros"
-                       ana="http://www.wikidata.org/entity/Q878184">
+               <person xml:id="teukros" sex="MALE" role="heros">
                   <persName>Τεῦκρος</persName>
                   <persName xml:lang="en">Teucer</persName>
+                  <idno type="wikidata">Q878184</idno>
                </person>
-               <person xml:id="menelaos"
-                       sex="MALE"
-                       role="heros rex"
-                       ana="http://www.wikidata.org/entity/Q171839">
+               <person xml:id="menelaos" sex="MALE" role="heros rex">
                   <persName>Μενέλαος</persName>
                   <persName xml:lang="en">Menelaus</persName>
+                  <idno type="wikidata">Q171839</idno>
                </person>
-               <person xml:id="agamemnon"
-                       sex="MALE"
-                       role="heros rex"
-                       ana="http://www.wikidata.org/entity/Q128176">
+               <person xml:id="agamemnon" sex="MALE" role="heros rex">
                   <persName>Ἀγαμέμνων</persName>
                   <persName xml:lang="en">Agamemnon</persName>
+                  <idno type="wikidata">Q128176</idno>
                </person>
                <listRelation>
                   <relation name="associated_with" active="#odysseus" passive="#athena"/>

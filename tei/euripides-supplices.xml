@@ -60,27 +60,24 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="aithra"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q11921121">
+               <person xml:id="aithra" sex="FEMALE">
                   <persName>Αἴθρα</persName>
                   <persName xml:lang="en">Aethra</persName>
+                  <idno type="wikidata">Q11921121</idno>
                </person>
                <personGrp xml:id="choros" sex="FEMALE">
                   <name>Χορός</name>
                   <name xml:lang="en">Chorus of the Mothers of the Seven</name>
                </personGrp>
-               <person xml:id="theseus"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q1320718">
+               <person xml:id="theseus" sex="MALE">
                   <persName>Θησεύς</persName>
                   <persName xml:lang="en">Theseus</persName>
+                  <idno type="wikidata">Q1320718</idno>
                </person>
-               <person xml:id="adrastos"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q223152">
+               <person xml:id="adrastos" sex="MALE">
                   <persName>Ἄδραστος</persName>
                   <persName xml:lang="en">Adrastus</persName>
+                  <idno type="wikidata">Q223152</idno>
                </person>
                <person xml:id="keryx" sex="MALE">
                   <persName>Κῆρυξ</persName>
@@ -90,27 +87,24 @@
                   <persName>Ἄγγελος</persName>
                   <persName xml:lang="en">Messenger</persName>
                </person>
-               <person xml:id="euadne"
-                       sex="FEMALE"
-                       ana="https://www.wikidata.org/wiki/Q1142062">
+               <person xml:id="euadne" sex="FEMALE">
                   <persName>Εὐάδνη</persName>
                   <persName xml:lang="en">Evadne</persName>
+                  <idno type="wikidata">Q1142062</idno>
                </person>
-               <person xml:id="iphis"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q696330">
+               <person xml:id="iphis" sex="MALE">
                   <persName>Ἶφις</persName>
                   <persName xml:lang="en">Iphis</persName>
+                  <idno type="wikidata">Q696330</idno>
                </person>
                <personGrp xml:id="paides">
                   <name>Παῖδες</name>
                   <persName xml:lang="en">Sons of the Seven</persName>
                </personGrp>
-               <person xml:id="athena"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q37122">
+               <person xml:id="athena" sex="FEMALE">
                   <persName>Ἀθήνα</persName>
                   <persName xml:lang="en">Athena</persName>
+                  <idno type="wikidata">Q37122</idno>
                </person>
             </listPerson>
          </particDesc>

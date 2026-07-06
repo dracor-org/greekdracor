@@ -61,54 +61,46 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <personGrp xml:id="choros-satyron"
-                          sex="MALE"
-                          role="chorus_satyrus_filius"
-                          ana="https://www.wikidata.org/wiki/Q163709">
+               <personGrp xml:id="choros-satyron" sex="MALE" role="chorus_satyrus_filius">
                   <name>Χορὸς Σατύρων</name>
                   <name type="variant">Χορός</name>
                   <name xml:lang="en">Chorus of Satyrs</name>
+                  <idno type="wikidata">Q163709</idno>
                </personGrp>
                <personGrp xml:id="hemichoros-a"
                           sex="MALE"
                           role="semichorus_satyrus_filius"
-                          corresp="#choros-satyron"
-                          ana="https://www.wikidata.org/wiki/Q163709">
+                          corresp="#choros-satyron">
                   <name>Ἡμιχορὸς α</name>
                   <name xml:lang="en">Semi-Chorus a</name>
                   <name type="variant">Ἡμιχορός α</name>
                   <name type="variant">Ἡμιχ. α</name>
+                  <idno type="wikidata">Q163709</idno>
                </personGrp>
                <personGrp xml:id="hemichoros-b"
                           sex="MALE"
                           role="semichorus_satyrus_filius"
-                          corresp="#choros-satyron"
-                          ana="https://www.wikidata.org/wiki/Q163709">
+                          corresp="#choros-satyron">
                   <name>Ἡμιχορὸς β</name>
                   <name xml:lang="en">Semi-Chorus b</name>
                   <name type="variant">Ἡμιχ. β</name>
+                  <idno type="wikidata">Q163709</idno>
                </personGrp>
-               <person xml:id="silenos"
-                       sex="MALE"
-                       role="satyrus_pater"
-                       ana="http://www.wikidata.org/entity/Q464091">
+               <person xml:id="silenos" sex="MALE" role="satyrus_pater">
                   <persName>Σιληνός</persName>
                   <persName xml:lang="en">Silenus</persName>
+                  <idno type="wikidata">Q464091</idno>
                </person>
-               <person xml:id="kyllene"
-                       sex="FEMALE"
-                       role="dea"
-                       ana="http://www.wikidata.org/entity/Q7595427">
+               <person xml:id="kyllene" sex="FEMALE" role="dea">
                   <persName>Κυλλήνη</persName>
                   <persName xml:lang="en">Cyllene</persName>
                   <persName type="variant">κυλλήνη</persName>
+                  <idno type="wikidata">Q7595427</idno>
                </person>
-               <person xml:id="apollon"
-                       sex="MALE"
-                       role="deus"
-                       ana="http://www.wikidata.org/entity/Q37340">
+               <person xml:id="apollon" sex="MALE" role="deus">
                   <persName>Ἀπόλλων</persName>
                   <persName xml:lang="en">Apollo</persName>
+                  <idno type="wikidata">Q37340</idno>
                </person>
                <listRelation>
                   <relation name="parent_of"

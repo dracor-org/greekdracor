@@ -60,34 +60,30 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="hermes"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q41484">
+               <person xml:id="hermes" sex="MALE">
                   <persName>Ἑρμῆς</persName>
                   <persName xml:lang="en">Hermes</persName>
+                  <idno type="wikidata">Q41484</idno>
                </person>
-               <person xml:id="ion"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q853462">
+               <person xml:id="ion" sex="MALE">
                   <persName>Ἴων</persName>
                   <persName xml:lang="en">Ion</persName>
+                  <idno type="wikidata">Q853462</idno>
                </person>
                <personGrp xml:id="choros" sex="FEMALE">
                   <name>Χορός</name>
                   <name>Χορὸς ἐκ Θεραπαινίδων Κρεούσης</name>
                   <name xml:lang="en">Chorus of Creusa’s Handmaidens</name>
                </personGrp>
-               <person xml:id="kreousa"
-                       sex="FEMALE"
-                       ana="https://www.wikidata.org/wiki/Q2196048">
+               <person xml:id="kreousa" sex="FEMALE">
                   <persName>Κρέουσα</persName>
                   <persName xml:lang="en">Creusa</persName>
+                  <idno type="wikidata">Q2196048</idno>
                </person>
-               <person xml:id="xouthos"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q514746">
+               <person xml:id="xouthos" sex="MALE">
                   <persName>Ξοῦθος</persName>
                   <persName xml:lang="en">Xuthus</persName>
+                  <idno type="wikidata">Q514746</idno>
                </person>
                <person xml:id="presbytes" sex="MALE">
                   <persName>Πρεσβύτης</persName>
@@ -98,18 +94,16 @@
                   <persName type="variant">Θεράπων Κρεούσης</persName>
                   <persName xml:lang="en">Slave of Creusa</persName>
                </person>
-               <person xml:id="prophetis"
-                       sex="FEMALE"
-                       ana="https://www.wikidata.org/wiki/Q220344">
+               <person xml:id="prophetis" sex="FEMALE">
                   <persName>Προφῆτις</persName>
                   <persName type="variant">Πύθια</persName>
                   <persName xml:lang="en">Pythian Priestess</persName>
+                  <idno type="wikidata">Q220344</idno>
                </person>
-               <person xml:id="athena"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q37122">
+               <person xml:id="athena" sex="FEMALE">
                   <persName>Ἀθήνα</persName>
                   <persName xml:lang="en">Athena</persName>
+                  <idno type="wikidata">Q37122</idno>
                </person>
             </listPerson>
          </particDesc>

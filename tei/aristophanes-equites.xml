@@ -65,23 +65,19 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="demosthenes"
-                       sex="MALE"
-                       role="servus"
-                       ana="https://www.wikidata.org/wiki/https://www.wikidata.org/wiki/Q504986">
+               <person xml:id="demosthenes" sex="MALE" role="servus">
                   <persName>Δημοσθένης</persName>
                   <persName type="variant">Δημοσθένης οἰκητής</persName>
                   <persName xml:lang="en">Demosthenes, A Slave of Demos</persName>
                   <persName type="variant">Δημοσθένης καὶ Νικίας</persName>
+                  <idno type="wikidata">Q504986</idno>
                </person>
-               <person xml:id="nikias"
-                       sex="MALE"
-                       role="servus"
-                       ana="https://www.wikidata.org/wiki/Q315822">
+               <person xml:id="nikias" sex="MALE" role="servus">
                   <persName>Νικίας</persName>
                   <persName type="variant">Νικίας οἰκητής</persName>
                   <persName xml:lang="en">Nicias, A Slave of Demos</persName>
                   <persName type="variant">Δημοσθένης καὶ Νικίας</persName>
+                  <idno type="wikidata">Q315822</idno>
                </person>
                <person xml:id="allantopoles" sex="MALE" role="mercator">
                   <persName>Ἀλλαντοπώλης</persName>
@@ -89,13 +85,11 @@
                   <persName xml:lang="en">Agoracritus, A Sausage Seller</persName>
                   <persName type="variant">Κλέων καὶ Ἀλλαντοπώλης</persName>
                </person>
-               <person xml:id="kleon"
-                       sex="MALE"
-                       role="servus"
-                       ana="https://www.wikidata.org/wiki/Q298220">
+               <person xml:id="kleon" sex="MALE" role="servus">
                   <persName>Κλέων</persName>
                   <persName xml:lang="en">Cleon</persName>
                   <persName type="variant">Κλέων καὶ Ἀλλαντοπώλης</persName>
+                  <idno type="wikidata">Q298220</idno>
                </person>
                <personGrp xml:id="choros" sex="MALE" role="chorus_eques">
                   <name>Χορός</name>

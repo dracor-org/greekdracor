@@ -60,36 +60,31 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="dionysos"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q41680">
+               <person xml:id="dionysos" sex="MALE">
                   <persName>Διόνυσος</persName>
                   <persName xml:lang="en">Dionysus</persName>
                   <persName type="variant">Διονυσος</persName>
+                  <idno type="wikidata">Q41680</idno>
                </person>
-               <personGrp xml:id="choros"
-                          sex="FEMALE"
-                          ana="https://www.wikidata.org/wiki/Q209599">
+               <personGrp xml:id="choros" sex="FEMALE">
                   <name>Χορός</name>
                   <name xml:lang="en">Chorus of Asian Bacchants</name>
+                  <idno type="wikidata">Q209599</idno>
                </personGrp>
-               <person xml:id="teiresias"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q656881">
+               <person xml:id="teiresias" sex="MALE">
                   <persName>Τειρεσίας</persName>
                   <persName xml:lang="en">Teiresias</persName>
+                  <idno type="wikidata">Q656881</idno>
                </person>
-               <person xml:id="kadmos"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q27613">
+               <person xml:id="kadmos" sex="MALE">
                   <persName>Κάδμος</persName>
                   <persName xml:lang="en">Cadmus</persName>
+                  <idno type="wikidata">Q27613</idno>
                </person>
-               <person xml:id="pentheus"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q391091">
+               <person xml:id="pentheus" sex="MALE">
                   <persName>Πενθεύς</persName>
                   <persName xml:lang="en">Pentheus</persName>
+                  <idno type="wikidata">Q391091</idno>
                </person>
                <person xml:id="therapon" sex="MALE">
                   <persName>Θεράπων</persName>
@@ -104,11 +99,10 @@
                   <persName type="variant">Ἄγγελος</persName>
                   <persName xml:lang="en">Second Messenger</persName>
                </person>
-               <person xml:id="agaue"
-                       sex="FEMALE"
-                       ana="https://www.wikidata.org/wiki/Q381459">
+               <person xml:id="agaue" sex="FEMALE">
                   <persName>Ἀγαύη</persName>
                   <persName xml:lang="en">Agave</persName>
+                  <idno type="wikidata">Q381459</idno>
                </person>
             </listPerson>
          </particDesc>

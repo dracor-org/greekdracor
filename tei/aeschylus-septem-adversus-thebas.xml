@@ -64,12 +64,10 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="eteokles"
-                       sex="MALE"
-                       role="rex"
-                       ana="http://www.wikidata.org/entity/Q506550">
+               <person xml:id="eteokles" sex="MALE" role="rex">
                   <persName>Ἐτεοκλής</persName>
                   <persName xml:lang="en">Eteocles</persName>
+                  <idno type="wikidata">Q506550</idno>
                </person>
                <person xml:id="angelos" sex="MALE" role="nuntius">
                   <persName>Ἄγγελος</persName>
@@ -95,19 +93,15 @@
                   <name>Ἡμιχόριον Β</name>
                   <name xml:lang="en">Semi-Chorus B</name>
                </personGrp>
-               <person xml:id="antigone"
-                       sex="FEMALE"
-                       role="soror"
-                       ana="http://www.wikidata.org/entity/Q131351">
+               <person xml:id="antigone" sex="FEMALE" role="soror">
                   <persName>Ἀντιγόνη</persName>
                   <persName xml:lang="en">Antigone</persName>
+                  <idno type="wikidata">Q131351</idno>
                </person>
-               <person xml:id="ismene"
-                       sex="FEMALE"
-                       role="soror"
-                       ana="http://www.wikidata.org/entity/Q753902">
+               <person xml:id="ismene" sex="FEMALE" role="soror">
                   <persName>Ἰσμήνη</persName>
                   <persName xml:lang="en">Ismene</persName>
+                  <idno type="wikidata">Q753902</idno>
                </person>
                <person xml:id="keryx" sex="MALE" role="praeco">
                   <persName>Κῆρυξ</persName>

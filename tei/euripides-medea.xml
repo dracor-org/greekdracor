@@ -58,11 +58,10 @@
                   <persName>Τροφός</persName>
                   <persName xml:lang="en">Nurse</persName>
                </person>
-               <person xml:id="kreon"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q786573">
+               <person xml:id="kreon" sex="MALE">
                   <persName>Κρέων</persName>
                   <persName xml:lang="en">Creon</persName>
+                  <idno type="wikidata">Q786573</idno>
                </person>
                <personGrp xml:id="paides" sex="UNKNOWN">
                   <name>Παῖδες</name>
@@ -73,28 +72,25 @@
                   <persName>Παιδαγωγός</persName>
                   <persName xml:lang="en">Old Slave</persName>
                </person>
-               <person xml:id="iason"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q176758">
+               <person xml:id="iason" sex="MALE">
                   <persName>Ἰάσων</persName>
                   <persName xml:lang="en">Jason</persName>
+                  <idno type="wikidata">Q176758</idno>
                </person>
                <personGrp xml:id="choros" sex="FEMALE">
                   <name>Χορός</name>
                   <name type="variant">Χορὸς γυναικών</name>
                   <name xml:lang="en">Chrous of Corinthian Women</name>
                </personGrp>
-               <person xml:id="aigeus"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q191725">
+               <person xml:id="aigeus" sex="MALE">
                   <persName>Αἰγεύς</persName>
                   <persName xml:lang="en">Aegeus</persName>
+                  <idno type="wikidata">Q191725</idno>
                </person>
-               <person xml:id="medeia"
-                       sex="FEMALE"
-                       ana="https://www.wikidata.org/wiki/Q174278">
+               <person xml:id="medeia" sex="FEMALE">
                   <persName>Μήδεια</persName>
                   <persName xml:lang="en">Medea</persName>
+                  <idno type="wikidata">Q174278</idno>
                </person>
                <person xml:id="angelos" sex="MALE">
                   <persName>Ἄγγελος</persName>

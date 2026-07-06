@@ -85,26 +85,20 @@
                   <persName>Παιδίον</persName>
                   <persName xml:lang="en">Daughter</persName>
                </person>
-               <person xml:id="hermes"
-                       sex="MALE"
-                       role="deus"
-                       ana="http://www.wikidata.org/entity/Q41484">
+               <person xml:id="hermes" sex="MALE" role="deus">
                   <persName>Ἑρμῆς</persName>
                   <persName xml:lang="en">Hermes</persName>
+                  <idno type="wikidata">Q41484</idno>
                </person>
-               <person xml:id="polemos"
-                       sex="MALE"
-                       role="allegoria deus"
-                       ana="https://www.wikidata.org/wiki/Q2713002">
+               <person xml:id="polemos" sex="MALE" role="allegoria deus">
                   <persName>Πόλεμος</persName>
                   <persName xml:lang="en">War</persName>
+                  <idno type="wikidata">Q2713002</idno>
                </person>
-               <person xml:id="kydoimos"
-                       sex="MALE"
-                       role="allegoria servus"
-                       ana="https://www.wikidata.org/wiki/Q636428">
+               <person xml:id="kydoimos" sex="MALE" role="allegoria servus">
                   <persName>Κύδοιμος</persName>
                   <persName xml:lang="en">Hubbub</persName>
+                  <idno type="wikidata">Q636428</idno>
                </person>
                <personGrp xml:id="choros" sex="MALE" role="chorus_senex">
                   <name>Χορός</name>

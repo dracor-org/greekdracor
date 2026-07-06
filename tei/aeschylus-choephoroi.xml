@@ -62,52 +62,42 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="orestes"
-                       sex="MALE"
-                       role="filius"
-                       ana="http://www.wikidata.org/entity/Q192407">
+               <person xml:id="orestes" sex="MALE" role="filius">
                   <persName>Ὀρέστης</persName>
                   <persName xml:lang="en">Orestes</persName>
+                  <idno type="wikidata">Q192407</idno>
                </person>
                <personGrp xml:id="choros" sex="FEMALE" role="ancilla">
                   <name>Χορός</name>
                   <name xml:lang="en">Chorus of Slave-Women</name>
                </personGrp>
-               <person xml:id="elektra"
-                       sex="FEMALE"
-                       role="filia"
-                       ana="http://www.wikidata.org/entity/Q131651">
+               <person xml:id="elektra" sex="FEMALE" role="filia">
                   <persName>Ἠλέκτρα</persName>
                   <persName xml:lang="en">Electra</persName>
+                  <idno type="wikidata">Q131651</idno>
                </person>
                <person xml:id="oiketes" sex="MALE" role="servus">
                   <persName>Οἰκέτης</persName>
                   <persName xml:lang="en">A Servant</persName>
                </person>
-               <person xml:id="klytaimnestra"
-                       sex="FEMALE"
-                       role="uxor mater regina"
-                       ana="http://www.wikidata.org/entity/Q131157">
+               <person xml:id="klytaimnestra" sex="FEMALE" role="uxor mater regina">
                   <persName>Κλυταιμνήστρα</persName>
                   <persName xml:lang="en">Clytemnestra</persName>
+                  <idno type="wikidata">Q131157</idno>
                </person>
-               <person xml:id="pylades"
-                       sex="MALE"
-                       role="amicus"
-                       ana="http://www.wikidata.org/entity/Q494886">
+               <person xml:id="pylades" sex="MALE" role="amicus">
                   <persName>Πυλάδης</persName>
                   <persName xml:lang="en">Pylades</persName>
+                  <idno type="wikidata">Q494886</idno>
                </person>
                <person xml:id="trophos" sex="FEMALE" role="nutrix">
                   <persName>Τροφός</persName>
                   <persName xml:lang="en">A Nurse</persName>
                </person>
-               <person xml:id="aigisthos"
-                       sex="MALE"
-                       role="rex"
-                       ana="http://www.wikidata.org/entity/Q212091">
+               <person xml:id="aigisthos" sex="MALE" role="rex">
                   <persName>Αἴγισθος</persName>
                   <persName xml:lang="en">Aegisthus</persName>
+                  <idno type="wikidata">Q212091</idno>
                </person>
                <listRelation>
                   <relation name="parent_of"

@@ -117,12 +117,10 @@
                   <persName>Κηφισόφων</persName>
                   <persName xml:lang="en">Cephisophon</persName>
                </person>
-               <person xml:id="euripides"
-                       sex="MALE"
-                       role="poeta"
-                       ana="http://www.wikidata.org/entity/Q48305">
+               <person xml:id="euripides" sex="MALE" role="poeta">
                   <persName>Εὐριπίδης</persName>
                   <persName xml:lang="en">Euripides</persName>
+                  <idno type="wikidata">Q48305</idno>
                </person>
                <person xml:id="lamachos" sex="MALE" role="dux">
                   <persName>Λάμαχος</persName>

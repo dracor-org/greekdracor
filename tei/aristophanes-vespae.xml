@@ -69,12 +69,10 @@
                   <persName>Σωσίας</persName>
                   <persName xml:lang="en">Sosias</persName>
                </person>
-               <person xml:id="xanthias"
-                       sex="MALE"
-                       role="servus"
-                       ana="https://www.wikidata.org/wiki/Q8042969">
+               <person xml:id="xanthias" sex="MALE" role="servus">
                   <persName>Ξανθίας</persName>
                   <persName xml:lang="en">Xanthias</persName>
+                  <idno type="wikidata">Q8042969</idno>
                </person>
                <person xml:id="bdelykleon" sex="MALE" role="adulescens">
                   <persName>Βδελυκλέων</persName>

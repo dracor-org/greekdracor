@@ -54,54 +54,48 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="iolaos"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q504076">
+               <person xml:id="iolaos" sex="MALE">
                   <persName>Ἰόλαος</persName>
                   <persName xml:lang="en">Iolaus</persName>
+                  <idno type="wikidata">Q504076</idno>
                </person>
-               <person xml:id="kerux"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q2641203">
+               <person xml:id="kerux" sex="MALE">
                   <persName>Κῆρυξ</persName>
                   <persName xml:lang="en">Herald</persName>
+                  <idno type="wikidata">Q2641203</idno>
                </person>
                <personGrp xml:id="choros" sex="MALE">
                   <name>Χορός</name>
                   <name xml:lang="en">Chorus of Aged Athenians</name>
                </personGrp>
-               <person xml:id="demophon"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q912376">
+               <person xml:id="demophon" sex="MALE">
                   <persName>Δημοφῶν</persName>
                   <persName xml:lang="en">Demophon</persName>
+                  <idno type="wikidata">Q912376</idno>
                </person>
-               <person xml:id="makaria"
-                       sex="FEMALE"
-                       ana="https://www.wikidata.org/wiki/Q1550960">
+               <person xml:id="makaria" sex="FEMALE">
                   <persName>Μακαρία</persName>
                   <persName type="variant">Μακαρία Παρθένος</persName>
                   <persName xml:lang="en">Macaria</persName>
+                  <idno type="wikidata">Q1550960</idno>
                </person>
                <person xml:id="therapon" sex="MALE">
                   <persName>Θεράπων</persName>
                   <persName xml:lang="en">Slave</persName>
                </person>
-               <person xml:id="alkmene"
-                       sex="FEMALE"
-                       ana="https://www.wikidata.org/wiki/Q190543">
+               <person xml:id="alkmene" sex="FEMALE">
                   <persName>Ἀλκμήνη</persName>
                   <persName xml:lang="en">Alcmena</persName>
+                  <idno type="wikidata">Q190543</idno>
                </person>
                <person xml:id="angelos" sex="MALE">
                   <persName>Ἀγγελος</persName>
                   <persName xml:lang="en">Messenger</persName>
                </person>
-               <person xml:id="eurystheus"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q212087">
+               <person xml:id="eurystheus" sex="MALE">
                   <persName>Ἐυρυσθεύς</persName>
                   <persName xml:lang="en">Eurystheus</persName>
+                  <idno type="wikidata">Q212087</idno>
                </person>
             </listPerson>
          </particDesc>

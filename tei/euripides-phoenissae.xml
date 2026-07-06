@@ -60,57 +60,50 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="iokaste"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q131445">
+               <person xml:id="iokaste" sex="FEMALE">
                   <persName>Ἰοκάστη</persName>
                   <persName xml:lang="en">Jocasta</persName>
+                  <idno type="wikidata">Q131445</idno>
                </person>
                <person xml:id="paidagogos" sex="MALE">
                   <persName>Παιδαγωγός</persName>
                   <persName xml:lang="en">Old Slave</persName>
                </person>
-               <person xml:id="antigone"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q131351">
+               <person xml:id="antigone" sex="FEMALE">
                   <persName>Ἀντιγόνη</persName>
                   <persName xml:lang="en">Antigone</persName>
                   <persName type="variant">[Ἀντιγόνη ]</persName>
+                  <idno type="wikidata">Q131351</idno>
                </person>
                <personGrp xml:id="choros" sex="UNKNOWN">
                   <name>Χορός</name>
                   <name type="variant">Χορὸς ἐκ Φοινισσῶν</name>
                   <name xml:lang="en">Chorus of Phoenician Temple Slaves</name>
                </personGrp>
-               <person xml:id="polyneikes"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q334817">
+               <person xml:id="polyneikes" sex="MALE">
                   <persName>Πολυνείκης</persName>
                   <persName xml:lang="en">Polynices</persName>
+                  <idno type="wikidata">Q334817</idno>
                </person>
-               <person xml:id="eteokles"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q506550">
+               <person xml:id="eteokles" sex="MALE">
                   <persName>Ἐτεοκλῆς</persName>
                   <persName xml:lang="en">Eteocles</persName>
+                  <idno type="wikidata">Q506550</idno>
                </person>
-               <person xml:id="kreon"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q732066">
+               <person xml:id="kreon" sex="MALE">
                   <persName>Κρέων</persName>
                   <persName xml:lang="en">Creon</persName>
+                  <idno type="wikidata">Q732066</idno>
                </person>
-               <person xml:id="teiresias"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q656881">
+               <person xml:id="teiresias" sex="MALE">
                   <persName>Τειρεσίας</persName>
                   <persName xml:lang="en">Teiresias</persName>
+                  <idno type="wikidata">Q656881</idno>
                </person>
-               <person xml:id="menoikeus"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q744871">
+               <person xml:id="menoikeus" sex="MALE">
                   <persName>Μενοικεύς</persName>
                   <persName xml:lang="en">Menoeceus</persName>
+                  <idno type="wikidata">Q744871</idno>
                </person>
                <person xml:id="angelos" sex="MALE">
                   <persName>Ἄγγελος</persName>
@@ -121,11 +114,10 @@
                   <persName xml:lang="en">Another Messenger</persName>
                   <persName type="variant">Ἄγγελος</persName>
                </person>
-               <person xml:id="oidipous"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q130890">
+               <person xml:id="oidipous" sex="MALE">
                   <persName>Οἰδίπους</persName>
                   <persName xml:lang="en">Oedipus</persName>
+                  <idno type="wikidata">Q130890</idno>
                </person>
             </listPerson>
          </particDesc>

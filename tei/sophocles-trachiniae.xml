@@ -63,24 +63,20 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="deianeira"
-                       sex="FEMALE"
-                       role="uxor"
-                       ana="http://www.wikidata.org/entity/Q272000">
+               <person xml:id="deianeira" sex="FEMALE" role="uxor">
                   <persName>Δηιάνειρα</persName>
                   <persName xml:lang="en">Deianira</persName>
+                  <idno type="wikidata">Q272000</idno>
                </person>
                <person xml:id="therapaina" sex="FEMALE" role="ancilla nutrix">
                   <persName>Θεράπαινα</persName>
                   <persName type="variant">Τροφός</persName>
                   <persName xml:lang="en">A Nurse</persName>
                </person>
-               <person xml:id="hyllos"
-                       sex="MALE"
-                       role="filius"
-                       ana="http://www.wikidata.org/entity/Q847268">
+               <person xml:id="hyllos" sex="MALE" role="filius">
                   <persName>Ὕλλος</persName>
                   <persName xml:lang="en">Hyllus</persName>
+                  <idno type="wikidata">Q847268</idno>
                </person>
                <personGrp xml:id="choros" sex="FEMALE" role="chorus_virgo">
                   <name>Χορός</name>
@@ -106,23 +102,19 @@
                   <persName>Ἄγγελος</persName>
                   <persName xml:lang="en">A Messenger</persName>
                </person>
-               <person xml:id="lichas"
-                       sex="MALE"
-                       role="servus"
-                       ana="https://www.wikidata.org/wiki/Q922330">
+               <person xml:id="lichas" sex="MALE" role="servus">
                   <persName>Λίχας</persName>
                   <persName xml:lang="en">Lichas</persName>
+                  <idno type="wikidata">Q922330</idno>
                </person>
                <person xml:id="presbys" sex="MALE" role="senex">
                   <persName>Πρέσβυς</persName>
                   <persName xml:lang="en">An Old Man</persName>
                </person>
-               <person xml:id="herakles"
-                       sex="MALE"
-                       role="heros"
-                       ana="http://www.wikidata.org/entity/Q122248">
+               <person xml:id="herakles" sex="MALE" role="heros">
                   <persName>Ἡρακλῆς</persName>
                   <persName xml:lang="en">Heracles</persName>
+                  <idno type="wikidata">Q122248</idno>
                </person>
                <listRelation>
                   <relation name="associated_with" active="#therapaina" passive="#deianeira"/>

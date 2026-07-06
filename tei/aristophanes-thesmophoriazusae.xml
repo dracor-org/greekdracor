@@ -69,25 +69,21 @@
                   <persName>Μνησίλοχος</persName>
                   <persName xml:lang="en">Mnesilochus</persName>
                </person>
-               <person xml:id="euripides"
-                       sex="MALE"
-                       role="poeta"
-                       ana="http://www.wikidata.org/entity/Q48305">
+               <person xml:id="euripides" sex="MALE" role="poeta">
                   <persName>Εὐριπίδης</persName>
                   <persName xml:lang="en">Euripides</persName>
+                  <idno type="wikidata">Q48305</idno>
                </person>
                <person xml:id="therapon" sex="MALE" role="servus">
                   <persName>Θεράπων</persName>
                   <persName type="variant">Θεράπων Ἀγάθωνος</persName>
                   <persName xml:lang="en">A Slave of Agathon</persName>
                </person>
-               <person xml:id="agathon"
-                       sex="MALE"
-                       role="poeta"
-                       ana="https://www.wikidata.org/wiki/Q380482">
+               <person xml:id="agathon" sex="MALE" role="poeta">
                   <persName>Ἀγάθων</persName>
                   <persName type="variant">Χορὸς Ἀγάθωνος</persName>
                   <persName xml:lang="en">Agathon</persName>
+                  <idno type="wikidata">Q380482</idno>
                </person>
                <person xml:id="kerykaina" sex="FEMALE" role="praeco">
                   <persName>Κηρύκαινα</persName>
@@ -110,26 +106,20 @@
                   <persName>Γυνὴ Γ</persName>
                   <persName xml:lang="en">Third Woman</persName>
                </person>
-               <person xml:id="kleisthenes"
-                       sex="MALE"
-                       role="adulescens"
-                       ana="https://www.wikidata.org/wiki/Q5131112">
+               <person xml:id="kleisthenes" sex="MALE" role="adulescens">
                   <persName>Κλεισθένης</persName>
                   <persName xml:lang="en">Cleisthenes</persName>
+                  <idno type="wikidata">Q5131112</idno>
                </person>
-               <person xml:id="prytanis"
-                       sex="MALE"
-                       role="magistratus"
-                       ana="https://www.wikidata.org/wiki/Q456334">
+               <person xml:id="prytanis" sex="MALE" role="magistratus">
                   <persName>Πρύτανις</persName>
                   <persName xml:lang="en">A Magistrate</persName>
+                  <idno type="wikidata">Q456334</idno>
                </person>
-               <person xml:id="toksotes"
-                       sex="MALE"
-                       role="custos"
-                       ana="https://www.wikidata.org/wiki/Q12884611">
+               <person xml:id="toksotes" sex="MALE" role="custos">
                   <persName>Τοξότης</persName>
                   <persName xml:lang="en">A Policeman</persName>
+                  <idno type="wikidata">Q12884611</idno>
                </person>
                <listRelation>
                   <relation name="related_with" active="#mnesilochos" passive="#euripides"/>

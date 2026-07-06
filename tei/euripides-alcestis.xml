@@ -54,17 +54,15 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="apollon"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q37340">
+               <person xml:id="apollon" sex="MALE">
                   <persName>Ἀπόλλων</persName>
                   <persName xml:lang="en">Apollo</persName>
+                  <idno type="wikidata">Q37340</idno>
                </person>
-               <person xml:id="thanatos"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q199647">
+               <person xml:id="thanatos" sex="MALE">
                   <persName>Θάνατος</persName>
                   <persName xml:lang="en">Death</persName>
+                  <idno type="wikidata">Q199647</idno>
                </person>
                <personGrp xml:id="choros" sex="MALE">
                   <name>Χορός</name>
@@ -75,36 +73,31 @@
                   <persName type="variant">Θεράπαινα Ἀλκήστιδος</persName>
                   <persName xml:lang="en">Slave of Alcestis</persName>
                </person>
-               <person xml:id="alkestis"
-                       sex="FEMALE"
-                       ana="https://www.wikidata.org/wiki/Q320449">
+               <person xml:id="alkestis" sex="FEMALE">
                   <persName>Ἄλκηστις</persName>
                   <persName xml:lang="en">Alcestis</persName>
+                  <idno type="wikidata">Q320449</idno>
                </person>
-               <person xml:id="admetos"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q192109">
+               <person xml:id="admetos" sex="MALE">
                   <persName>Ἄδμητος</persName>
                   <persName xml:lang="en">Admetus</persName>
+                  <idno type="wikidata">Q192109</idno>
                </person>
-               <person xml:id="pais"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q1686620">
+               <person xml:id="pais" sex="MALE">
                   <persName>Παῖς</persName>
                   <persName type="variant">Παῖς Ἀλκήστιδος</persName>
                   <persName xml:lang="en">Child of Alcestis</persName>
+                  <idno type="wikidata">Q1686620</idno>
                </person>
-               <person xml:id="herakles"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q122248">
+               <person xml:id="herakles" sex="MALE">
                   <persName>Ἡρακλῆς</persName>
                   <persName xml:lang="en">Heracles</persName>
+                  <idno type="wikidata">Q122248</idno>
                </person>
-               <person xml:id="pheres"
-                       sex="MALE"
-                       ana="https://www.wikidata.org/wiki/Q731181">
+               <person xml:id="pheres" sex="MALE">
                   <persName>Φέρης</persName>
                   <persName xml:lang="en">Pheres</persName>
+                  <idno type="wikidata">Q731181</idno>
                </person>
                <person xml:id="therapon" sex="MALE">
                   <persName>Θεράπων</persName>

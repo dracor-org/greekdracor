@@ -65,37 +65,29 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="xanthias"
-                       sex="MALE"
-                       role="servus"
-                       ana="https://www.wikidata.org/wiki/Q8042969">
+               <person xml:id="xanthias" sex="MALE" role="servus">
                   <persName>Ξανθίας</persName>
                   <persName xml:lang="en">Xanthias</persName>
+                  <idno type="wikidata">Q8042969</idno>
                </person>
-               <person xml:id="dionysos"
-                       sex="MALE"
-                       role="deus"
-                       ana="http://www.wikidata.org/entity/Q41680">
+               <person xml:id="dionysos" sex="MALE" role="deus">
                   <persName>Διόνυσος</persName>
                   <persName xml:lang="en">Dionysus</persName>
+                  <idno type="wikidata">Q41680</idno>
                </person>
-               <person xml:id="herakles"
-                       sex="MALE"
-                       role="heros"
-                       ana="http://www.wikidata.org/entity/Q122248">
+               <person xml:id="herakles" sex="MALE" role="heros">
                   <persName>Ἡρακλῆς</persName>
                   <persName xml:lang="en">Heracles</persName>
+                  <idno type="wikidata">Q122248</idno>
                </person>
                <person xml:id="nekros" sex="MALE" role="mortuus">
                   <persName>Νέκρος</persName>
                   <persName xml:lang="en">A Corpse</persName>
                </person>
-               <person xml:id="charon"
-                       sex="MALE"
-                       role="inferus"
-                       ana="http://www.wikidata.org/entity/Q6612">
+               <person xml:id="charon" sex="MALE" role="inferus">
                   <persName>Χάρων</persName>
                   <persName xml:lang="en">Charon</persName>
+                  <idno type="wikidata">Q6612</idno>
                </person>
                <personGrp xml:id="batrachoi" sex="UNKNOWN" role="chorus_rana">
                   <name>Βάτραχοι</name>
@@ -125,30 +117,24 @@
                   <persName xml:lang="en">Plathane</persName>
                   <persName type="variant">Πλαθάνη.</persName>
                </person>
-               <person xml:id="euripides"
-                       sex="MALE"
-                       role="poeta"
-                       ana="http://www.wikidata.org/entity/Q48305">
+               <person xml:id="euripides" sex="MALE" role="poeta">
                   <persName>Εὐριπίδης</persName>
                   <persName xml:lang="en">Euripides</persName>
                   <persName type="variant">Αἰσχύλος καί Εὐριπίδης</persName>
                   <persName type="variant">Αἰσχύλος καὶ Εὐριπίδης</persName>
+                  <idno type="wikidata">Q48305</idno>
                </person>
-               <person xml:id="aischylos"
-                       sex="MALE"
-                       role="poeta"
-                       ana="http://www.wikidata.org/entity/Q40939">
+               <person xml:id="aischylos" sex="MALE" role="poeta">
                   <persName>Αἰσχύλος</persName>
                   <persName xml:lang="en">Aeschylus</persName>
                   <persName type="variant">Αἰσχύλος καί Εὐριπίδης</persName>
                   <persName type="variant">Αἰσχύλος καὶ Εὐριπίδης</persName>
+                  <idno type="wikidata">Q40939</idno>
                </person>
-               <person xml:id="plouton"
-                       sex="MALE"
-                       role="deus"
-                       ana="https://www.wikidata.org/wiki/Q152262">
+               <person xml:id="plouton" sex="MALE" role="deus">
                   <persName>Πλούτων</persName>
                   <persName xml:lang="en">Pluto</persName>
+                  <idno type="wikidata">Q152262</idno>
                </person>
                <listRelation>
                   <relation name="associated_with" active="#xanthias" passive="#dionysos"/>

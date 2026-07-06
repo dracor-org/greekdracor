@@ -60,17 +60,15 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="elektra"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q131651">
+               <person xml:id="elektra" sex="FEMALE">
                   <persName>Ἠλέκτρα</persName>
                   <persName xml:lang="en">Electra</persName>
+                  <idno type="wikidata">Q131651</idno>
                </person>
-               <person xml:id="helene"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q164061">
+               <person xml:id="helene" sex="FEMALE">
                   <persName>Ἑλένη</persName>
                   <persName xml:lang="en">Helen</persName>
+                  <idno type="wikidata">Q164061</idno>
                </person>
                <personGrp xml:id="choros" sex="FEMALE">
                   <name>Χορός</name>
@@ -87,48 +85,44 @@
                   <name xml:lang="en">Second Semi-Chorus</name>
                   <name type="variant">Ἡμίχορος</name>
                </personGrp>
-               <person xml:id="orestes"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q192407">
+               <person xml:id="orestes" sex="MALE">
                   <persName>Ὀρέστης</persName>
                   <persName xml:lang="en">Orestes</persName>
+                  <idno type="wikidata">Q192407</idno>
                </person>
-               <person xml:id="menelaos" ana="http://www.wikidata.org/entity/Q171839">
+               <person xml:id="menelaos">
                   <persName>Μενέλαος</persName>
                   <persName xml:lang="en">Menelaus</persName>
+                  <idno type="wikidata">Q171839</idno>
                </person>
-               <person xml:id="tyndareos"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q192946">
+               <person xml:id="tyndareos" sex="MALE">
                   <persName>Τυνδάρεως</persName>
                   <persName xml:lang="en">Tyndareus</persName>
+                  <idno type="wikidata">Q192946</idno>
                </person>
-               <person xml:id="pylades"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q494886">
+               <person xml:id="pylades" sex="MALE">
                   <persName>Πυλάδης</persName>
                   <persName xml:lang="en">Pylades</persName>
+                  <idno type="wikidata">Q494886</idno>
                </person>
                <person xml:id="angelos" sex="MALE">
                   <persName>Ἄγγελος</persName>
                   <persName xml:lang="en">Messenger</persName>
                </person>
-               <person xml:id="hermione"
-                       sex="FEMALE"
-                       ana="http://www.wikidata.org/entity/Q658523">
+               <person xml:id="hermione" sex="FEMALE">
                   <persName>Ἑρμιόνη</persName>
                   <persName xml:lang="en">Hermione</persName>
                   <persName type="variant">Ερμιόνη</persName>
+                  <idno type="wikidata">Q658523</idno>
                </person>
                <person xml:id="phryx" sex="MALE">
                   <persName>Φρύξ</persName>
                   <persName xml:lang="en">Phrygian Slave</persName>
                </person>
-               <person xml:id="apollon"
-                       sex="MALE"
-                       ana="http://www.wikidata.org/entity/Q37340">
+               <person xml:id="apollon" sex="MALE">
                   <persName>Ἀπόλλων</persName>
                   <persName xml:lang="en">Apollo</persName>
+                  <idno type="wikidata">Q37340</idno>
                </person>
             </listPerson>
          </particDesc>

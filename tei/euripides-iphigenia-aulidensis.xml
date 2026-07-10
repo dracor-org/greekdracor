@@ -78,7 +78,7 @@
                   <persName xml:lang="en">First Messenger</persName>
                </person>
                <personGrp xml:id="choros-andron-argeion" sex="MALE">
-                  <name>Χορὸς ανδρων Αργειων</name>
+                  <name>Χορὸς ἀνδρῶν Ἀργείων</name>
                   <name xml:lang="en">Chorus of Argive Men</name>
                   <name type="variant">Χορός ανδρων Αργειων</name>
                </personGrp>
@@ -1456,7 +1456,7 @@
             <milestone resp="perseus" unit="card" n="590"/>
             <div type="textpart" subtype="episode">
                <div type="textpart" subtype="anapests">
-                  <sp>
+                  <sp who="#choros-andron-argeion">
                      <speaker>Χορὸς ἀνδρῶν Ἀργείων</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg018.perseus-grc2"
                         rend="indent"

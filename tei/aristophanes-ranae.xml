@@ -41,14 +41,8 @@
                </availability>
             </bibl>
             <bibl type="originalSource">
-               <author>Aristophanes</author>
-               <title>Aristophanis Comoediae</title>
-               <editor>F. W. Hall</editor>
-               <editor>William M. Geldart</editor>
-               <pubPlace>Oxford</pubPlace>
-               <publisher>Clarendon Press</publisher>
-               <date>1907</date>
-               <biblScope unit="volume">2</biblScope>
+               <author>Aristophanes</author>. <title>Aristophanis Comoediae</title>. Vol. <biblScope unit="volume">2</biblScope>. Edited by <editor>F. W. Hall</editor> and <editor>William M. Geldart</editor>. <pubPlace>Oxford</pubPlace>: <publisher>Clarendon Press</publisher>, <date>1907</date>.</bibl>
+            <bibl>
                <ref target="https://archive.org/details/aristophaniscomo02arisuoft/page/100/mode/2up">Internet Archive</ref>
             </bibl>
             <bibl type="wikidata">
@@ -146,7 +140,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-07-06">Transformed into DraCor TEI</change>
+         <change when="2026-07-10">Transformed into DraCor TEI</change>
          <change when="2023-02-27" who="Lisa Cerrato">EpiDoc and CTS updates: header compliance and said to speaker changes as well as line numbering verification</change>
          <change when="2017-02-03" who="TDBuck">CTS and epidoc updates part of reading list updates</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>

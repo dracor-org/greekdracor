@@ -37,18 +37,9 @@
                </availability>
             </bibl>
             <bibl type="originalSource">
-               <author>Aeschylus</author>
-               <title>Aeschylus</title>
-               <title type="sub">Suppliant Maidens Persians Prometheus Seven Against Thebes</title>
-               <editor>Herbert Weir Smyth</editor>
-               <pubPlace>New York</pubPlace>
-               <pubPlace>London</pubPlace>
-               <publisher>William Heinemann</publisher>
-               <publisher>G.P. Putnam's Sons</publisher>
-               <date>1922</date>
-               <biblScope unit="volume">1</biblScope>
-               <ref target="https://hdl.handle.net/2027/uc1.32106006136839?urlappend=%3Bseq=156%3Bownerid=9007199263410116-160">HathiTrust</ref>
-               <ref target="https://archive.org/details/L145AeschylusISuppliantPersiansPrometheusSevenAgainstThebes/page/106/mode/2up">Internet Archive</ref>
+               <title>Aeschylus</title>. Vol. <biblScope unit="volume">1</biblScope>. <title type="sub">Suppliant Maidens Persians Prometheus Seven Against Thebes</title>. Edited by <editor>Herbert Weir Smyth</editor>. <pubPlace>New York</pubPlace>, <pubPlace>London</pubPlace>: <publisher>William Heinemann</publisher>, <publisher>G.P. Putnam's Sons</publisher>, <date>1922</date>.</bibl>
+            <bibl>
+               <ref target="https://hdl.handle.net/2027/uc1.32106006136839?urlappend=%3Bseq=156%3Bownerid=9007199263410116-160">HathiTrust</ref>; <ref target="https://archive.org/details/L145AeschylusISuppliantPersiansPrometheusSevenAgainstThebes/page/106/mode/2up">Internet Archive</ref>
             </bibl>
             <bibl type="wikidata">
                <idno>Q788458</idno>
@@ -104,7 +95,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-07-06">Transformed into DraCor TEI</change>
+         <change when="2026-07-10">Transformed into DraCor TEI</change>
          <change when="2017-02-22" who="Lisa Cerrato">review of EpiDoc and CTS markup; adding line numbers, fixing change log, etc.</change>
          <change who="TDBuck" when="2016-01-11">p4 to p5</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>

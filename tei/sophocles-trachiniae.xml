@@ -37,16 +37,8 @@
                </availability>
             </bibl>
             <bibl type="originalSource">
-               <author>Sophocles</author>
-               <title>Sophocles</title>
-               <title type="sub" xml:lang="mul">Ajax. Electra. Trachiniae. Philoctetes</title>
-               <editor>Francis Storr</editor>
-               <pubPlace>London</pubPlace>
-               <pubPlace>New York</pubPlace>
-               <publisher>William Heinemann Ltd.</publisher>
-               <publisher>The Macmillan Company</publisher>
-               <date>1913</date>
-               <biblScope unit="volume">2</biblScope>
+               <title>Sophocles</title>. Vol. <biblScope unit="volume">2</biblScope>. <title type="sub" xml:lang="mul">Ajax. Electra. Trachiniae. Philoctetes</title>. Edited by <editor>Francis Storr</editor>. <pubPlace>London</pubPlace>, <pubPlace>New York</pubPlace>: <publisher>William Heinemann Ltd.</publisher>, <publisher>The Macmillan Company</publisher>, <date>1913</date>.</bibl>
+            <bibl>
                <ref target="https://archive.org/details/sophoclesstor02sophuoft/page/258/mode/2up">Internet Archive</ref>
             </bibl>
             <bibl type="wikidata">
@@ -130,7 +122,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-07-06">Transformed into DraCor TEI</change>
+         <change when="2026-07-10">Transformed into DraCor TEI</change>
          <change when="2017-01-24" who="Lisa Cerrato">improvements to markup; change log, quotes, etc.</change>
          <change when="2016-01-14" who="TDBuck">Hookified</change>
          <change when="2015" who="Stella Dee">converted to EpiDoc</change>

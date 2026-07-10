@@ -37,13 +37,8 @@
                </availability>
             </bibl>
             <bibl type="originalSource">
-               <author>Euripides</author>
-               <title xml:lang="lat">Euripidis Fabulae</title>
-               <editor>Gilbert Murray</editor>
-               <pubPlace>Oxford</pubPlace>
-               <publisher>Clarendon Press</publisher>
-               <date>1902</date>
-               <biblScope unit="volume">1</biblScope>
+               <author>Euripides</author>. <title xml:lang="lat">Euripidis Fabulae</title>. Vol. <biblScope unit="volume">1</biblScope>. Edited by <editor>Gilbert Murray</editor>. <pubPlace>Oxford</pubPlace>: <publisher>Clarendon Press</publisher>, <date>1902</date>.</bibl>
+            <bibl>
                <ref target="https://archive.org/details/euripidisfabulae01euriuoft/page/n55/mode/2up">The Internet Archive</ref>
             </bibl>
             <bibl type="wikidata">
@@ -107,7 +102,7 @@
          </particDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-07-06">Transformed into DraCor TEI</change>
+         <change when="2026-07-10">Transformed into DraCor TEI</change>
          <change when="2020-09-20" who="Lisa Cerrato"/>
       </revisionDesc>
    </teiHeader>

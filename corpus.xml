@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<dracorCorpus xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -7,14 +7,17 @@
       </titleStmt>
       <publicationStmt>
         <publisher>DraCor</publisher>
-        <idno type="URI" xml:base="https://dracor.org/">greek</idno>
-        <idno type="repo">https://github.com/dracor-org/greekdracor#reboot</idno>
+        <idno>greek</idno>
+        <ref type="repo" target="https://github.com/dracor-org/greekdracor#reboot"/>
         <availability>
           <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
             CC BY-SA 4.0
           </licence>
         </availability>
       </publicationStmt>
+      <sourceDesc>
+        <p>See source information in individual TEI files.</p>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc>
       <projectDesc>
@@ -36,4 +39,4 @@
       </refsDecl>
     </encodingDesc>
   </teiHeader>
-</teiCorpus>
+</dracorCorpus>

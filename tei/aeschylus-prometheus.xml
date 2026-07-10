@@ -37,18 +37,9 @@
                </availability>
             </bibl>
             <bibl type="originalSource">
-               <author>Aeschylus</author>
-               <title>Aeschylus</title>
-               <title type="sub">Suppliant Maidens Persians Prometheus Seven Against Thebes</title>
-               <editor>Herbert Weir Smyth</editor>
-               <pubPlace>New York</pubPlace>
-               <pubPlace>London</pubPlace>
-               <publisher>William Heinemann</publisher>
-               <publisher>G.P. Putnam's Sons</publisher>
-               <date>1922</date>
-               <biblScope unit="volume">1</biblScope>
-               <ref target="https://hdl.handle.net/2027/uc1.32106006136839?urlappend=%3Bseq=260%3Bownerid=9007199263390187-264">HathiTrust</ref>
-               <ref target=" https://archive.org/details/L145AeschylusISuppliantPersiansPrometheusSevenAgainstThebes/page/209/">Internet Archive</ref>
+               <title>Aeschylus</title>. Vol. <biblScope unit="volume">1</biblScope>. <title type="sub">Suppliant Maidens Persians Prometheus Seven Against Thebes</title>. Edited by <editor>Herbert Weir Smyth</editor>. <pubPlace>New York</pubPlace>, <pubPlace>London</pubPlace>: <publisher>William Heinemann</publisher>, <publisher>G.P. Putnam's Sons</publisher>, <date>1922</date>.</bibl>
+            <bibl>
+               <ref target="https://hdl.handle.net/2027/uc1.32106006136839?urlappend=%3Bseq=260%3Bownerid=9007199263390187-264">HathiTrust</ref>; <ref target=" https://archive.org/details/L145AeschylusISuppliantPersiansPrometheusSevenAgainstThebes/page/209/">Internet Archive</ref>
             </bibl>
             <bibl type="wikidata">
                <idno>Q846870</idno>
@@ -116,7 +107,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-07-06">Transformed into DraCor TEI</change>
+         <change when="2026-07-10">Transformed into DraCor TEI</change>
          <change when="2017-02-24" who="Lisa Cerrato">adding line numbers and fixing markup inconsistencies; restoring deleted log; fixing structure</change>
          <change when="2016-01-12" who="TDBuck">cleaned up small problems in SS's version</change>
          <change when="2014-06-19" who="Bridget Almas">Added line numbers</change>

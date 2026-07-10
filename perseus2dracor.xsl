@@ -61,13 +61,100 @@
                       </licence>
                     </availability>
                   </bibl>
+                  <xsl:variable name="biblStruct"
+                    select="$src//tei:sourceDesc/tei:biblStruct"/>
+                  <xsl:variable name="monogr" select="$biblStruct/tei:monogr"/>
+                  <xsl:variable name="mainTitle"
+                    select="$monogr/tei:title[not(@type) or @type != 'sub'][1]"/>
+                  <xsl:variable name="subTitle"
+                    select="$monogr/tei:title[@type='sub']"/>
+                  <xsl:variable name="author" select="$monogr/tei:author"/>
+                  <xsl:variable name="editor" select="$monogr/tei:editor"/>
+                  <xsl:variable name="pubPlaces"
+                    select="$monogr//tei:pubPlace"/>
+                  <xsl:variable name="publishers"
+                    select="$monogr//tei:publisher"/>
+                  <xsl:variable name="date" select="$monogr//tei:date"/>
+                  <xsl:variable name="volume"
+                    select="$monogr//tei:biblScope[@unit='volume']"/>
                   <bibl type="originalSource">
-                    <xsl:copy-of select="$src//tei:sourceDesc/tei:biblStruct/tei:monogr/tei:author"/>
-                    <xsl:copy-of select="$src//tei:sourceDesc/tei:biblStruct/tei:monogr/tei:title"/>
-                    <xsl:copy-of select="$src//tei:sourceDesc/tei:biblStruct/tei:monogr/tei:editor"/>
-                    <xsl:copy-of select="$src//tei:sourceDesc/tei:biblStruct/tei:monogr//(tei:publisher|tei:pubPlace|tei:date|tei:biblScope)"/>
-                    <xsl:copy-of select="$src//tei:sourceDesc/tei:biblStruct/tei:ref"/>
+                    <xsl:if test="$author and normalize-space($author) != normalize-space($mainTitle)">
+                      <xsl:copy-of select="$author"/>
+                      <xsl:text>. </xsl:text>
+                    </xsl:if>
+                    <xsl:if test="$mainTitle">
+                      <xsl:copy-of select="$mainTitle"/>
+                      <xsl:text>. </xsl:text>
+                    </xsl:if>
+                    <xsl:if test="$volume">
+                      <xsl:text>Vol. </xsl:text>
+                      <xsl:copy-of select="$volume"/>
+                      <xsl:text>. </xsl:text>
+                    </xsl:if>
+                    <xsl:for-each select="$subTitle">
+                      <xsl:copy-of select="."/>
+                      <xsl:text>. </xsl:text>
+                    </xsl:for-each>
+                    <xsl:if test="$editor">
+                      <xsl:choose>
+                        <xsl:when test="$editor[1]/@role='translator'">
+                          <xsl:text>Translated by </xsl:text>
+                        </xsl:when>
+                        <xsl:otherwise>
+                          <xsl:text>Edited by </xsl:text>
+                        </xsl:otherwise>
+                      </xsl:choose>
+                      <xsl:for-each select="$editor">
+                        <xsl:copy-of select="."/>
+                        <xsl:choose>
+                          <xsl:when test="position() = last()"/>
+                          <xsl:when test="position() = last() - 1">
+                            <xsl:text> and </xsl:text>
+                          </xsl:when>
+                          <xsl:otherwise>
+                            <xsl:text>, </xsl:text>
+                          </xsl:otherwise>
+                        </xsl:choose>
+                      </xsl:for-each>
+                      <xsl:text>. </xsl:text>
+                    </xsl:if>
+                    <xsl:for-each select="$pubPlaces">
+                      <xsl:copy-of select="."/>
+                      <xsl:choose>
+                        <xsl:when test="position() != last()">
+                          <xsl:text>, </xsl:text>
+                        </xsl:when>
+                        <xsl:when test="$publishers">
+                          <xsl:text>: </xsl:text>
+                        </xsl:when>
+                      </xsl:choose>
+                    </xsl:for-each>
+                    <xsl:for-each select="$publishers">
+                      <xsl:copy-of select="."/>
+                      <xsl:if test="position() != last()">
+                        <xsl:text>, </xsl:text>
+                      </xsl:if>
+                    </xsl:for-each>
+                    <xsl:if test="$date">
+                      <xsl:if test="$publishers or $pubPlaces">
+                        <xsl:text>, </xsl:text>
+                      </xsl:if>
+                      <xsl:copy-of select="$date"/>
+                    </xsl:if>
+                    <xsl:if test="$date or $publishers or $pubPlaces">
+                      <xsl:text>.</xsl:text>
+                    </xsl:if>
                   </bibl>
+                  <xsl:if test="$biblStruct/tei:ref">
+                    <bibl>
+                      <xsl:for-each select="$biblStruct/tei:ref">
+                        <xsl:copy-of select="."/>
+                        <xsl:if test="position() != last()">
+                          <xsl:text>; </xsl:text>
+                        </xsl:if>
+                      </xsl:for-each>
+                    </bibl>
+                  </xsl:if>
                   <xsl:if test="@wikidata">
                     <bibl type="wikidata">
                       <idno><xsl:value-of select="@wikidata/string()"/></idno>

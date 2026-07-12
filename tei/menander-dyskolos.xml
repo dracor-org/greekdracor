@@ -72,6 +72,14 @@
         </bibl>
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <refsDecl>
+        <citeStructure
+          unit="act"
+          match="/tei:TEI//tei:body//tei:div[@type='act']"
+          use="position()"/>
+      </refsDecl>
+    </encodingDesc>
     <profileDesc>
       <particDesc>
         <listPerson>

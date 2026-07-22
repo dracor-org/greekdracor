@@ -4,53 +4,3949 @@
   the Perseus Digital Library and adds Wikidata IDs where available.
   It also determines the filenames for the new GreekDraCor files.
 -->
-<ids>
-  <play id="greek000001" source="tlg0006/tlg017/tlg0006.tlg017.perseus-grc2.xml" slug="euripides-bacchae" wikidata="Q934597"/>
-  <play id="greek000002" source="tlg0006/tlg013/tlg0006.tlg013.perseus-grc2.xml" slug="euripides-iphigenia-in-tauris" wikidata="Q523227"/>
-  <play id="greek000003" source="tlg0006/tlg007/tlg0006.tlg007.perseus-grc2.xml" slug="euripides-hecuba" wikidata="Q1115611"/>
-  <play id="greek000004" source="tlg0085/tlg007/tlg0085.tlg007.perseus-grc2.xml" slug="aeschylus-eumenides" wikidata="Q1233164"/>
-  <play id="greek000005" source="tlg0085/tlg004/tlg0085.tlg004.perseus-grc2.xml" slug="aeschylus-seven-against-thebes" wikidata="Q506546"/>
-  <play id="greek000006" source="tlg0006/tlg008/tlg0006.tlg008.perseus-grc2.xml" slug="euripides-suppliants" wikidata="Q672319"/>
-  <play id="greek000007" source="tlg0011/tlg003/tlg0011.tlg003.perseus-grc2.xml" slug="sophocles-ajax" wikidata="Q412341"/>
-  <play id="greek000008" source="tlg0085/tlg006/tlg0085.tlg006.perseus-grc2.xml" slug="aeschylus-libation-bearers" wikidata="Q11688406"/>
-  <play id="greek000009" source="tlg0019/tlg008/tlg0019.tlg008.perseus-grc2.xml" slug="aristophanes-thesmophoriazusae" wikidata="Q761731"/>
-  <play id="greek000010" source="tlg0019/tlg002/tlg0019.tlg002.perseus-grc2.xml" slug="aristophanes-knights" wikidata="Q1215817"/>
-  <play id="greek000011" source="tlg0085/tlg003/tlg0085.tlg003.perseus-grc2.xml" slug="aeschylus-prometheus-bound" wikidata="Q846870"/>
-  <play id="greek000012" source="tlg0019/tlg006/tlg0019.tlg006.perseus-grc2.xml" slug="aristophanes-birds" wikidata="Q1164079"/>
-  <play id="greek000013" source="tlg0006/tlg009/tlg0006.tlg009.perseus-grc2.xml" slug="euripides-heracles" wikidata="Q1233835"/>
-  <play id="greek000014" source="tlg0019/tlg004/tlg0019.tlg004.perseus-grc2.xml" slug="aristophanes-wasps" wikidata="Q1217552"/>
-  <play id="greek000015" source="tlg0011/tlg004/tlg0011.tlg004.perseus-grc2.xml" slug="sophocles-oedipus-tyrannus" wikidata="Q148643"/>
-  <play id="greek000016" source="tlg0019/tlg007/tlg0019.tlg007.perseus-grc2.xml" slug="aristophanes-lysistrata" wikidata="Q753907"/>
-  <play id="greek000017" source="tlg0019/tlg009/tlg0019.tlg009.perseus-grc2.xml" slug="aristophanes-frogs" wikidata="Q815376"/>
-  <play id="greek000018" source="tlg0011/tlg008/tlg0011.tlg008.perseus-grc2.xml" slug="sophocles-ichneutae" wikidata="Q733158"/>
-  <play id="greek000019" source="tlg0006/tlg011/tlg0006.tlg011.perseus-grc2.xml" slug="euripides-trojan-women" wikidata="Q1216943"/>
-  <play id="greek000020" source="tlg0085/tlg001/tlg0085.tlg001.perseus-grc2.xml" slug="aeschylus-suppliant-women" wikidata="Q1216139"/>
-  <play id="greek000021" source="tlg0011/tlg005/tlg0011.tlg005.perseus-grc2.xml" slug="sophocles-electra" wikidata="Q733444"/>
-  <play id="greek000022" source="tlg0085/tlg002/tlg0085.tlg002.perseus-grc2.xml" slug="aeschylus-persians" wikidata="Q788458"/>
-  <play id="greek000023" source="tlg0006/tlg016/tlg0006.tlg016.perseus-grc2.xml" slug="euripides-orestes" wikidata="Q663886"/>
-  <play id="greek000024" source="tlg0011/tlg001/tlg0011.tlg001.perseus-grc2.xml" slug="sophocles-trachiniae" wikidata="Q945342"/>
-  <play id="greek000025" source="tlg0011/tlg002/tlg0011.tlg002.perseus-grc2.xml" slug="sophocles-antigone" wikidata="Q241077"/>
-  <play id="greek000026" source="tlg0085/tlg005/tlg0085.tlg005.perseus-grc2.xml" slug="aeschylus-agamemnon" wikidata="Q3320792"/>
-  <play id="greek000027" source="tlg0019/tlg010/tlg0019.tlg010.perseus-grc2.xml" slug="aristophanes-ecclesiazusae" wikidata="Q608261"/>
-  <play id="greek000028" source="tlg0006/tlg018/tlg0006.tlg018.perseus-grc2.xml" slug="euripides-iphigenia-in-aulis" wikidata="Q1233770"/>
-  <play id="greek000029" source="tlg0006/tlg014/tlg0006.tlg014.perseus-grc2.xml" slug="euripides-helen" wikidata="Q1248812"/>
-  <play id="greek000030" source="tlg0006/tlg015/tlg0006.tlg015.perseus-grc2.xml" slug="euripides-phoenissae" wikidata="Q1233660"/>
-  <play id="greek000031" source="tlg0006/tlg019/tlg0006.tlg019.perseus-grc2.xml" slug="euripides-rhesus" wikidata="Q667750"/>
-  <play id="greek000032" source="tlg0019/tlg001/tlg0019.tlg001.perseus-grc2.xml" slug="aristophanes-acharnians" wikidata="Q1059987"/>
-  <play id="greek000033" source="tlg0019/tlg005/tlg0019.tlg005.perseus-grc2.xml" slug="aristophanes-peace" wikidata="Q1193602"/>
-  <play id="greek000034" source="tlg0006/tlg010/tlg0006.tlg010.perseus-grc2.xml" slug="euripides-ion" wikidata="Q614607"/>
-  <play id="greek000035" source="tlg0019/tlg003/tlg0019.tlg003.perseus-grc2.xml" slug="aristophanes-clouds" wikidata="Q868447"/>
-  <play id="greek000036" source="tlg0011/tlg007/tlg0011.tlg007.perseus-grc2.xml" slug="sophocles-oedipus-at-colonus" wikidata="Q294001"/>
-  <play id="greek000037" source="tlg0019/tlg011/tlg0019.tlg011.perseus-grc2.xml" slug="aristophanes-plutus" wikidata="Q1196456"/>
-  <play id="greek000038" source="tlg0011/tlg006/tlg0011.tlg006.perseus-grc2.xml" slug="sophocles-philoctetes" wikidata="Q1415903"/>
-  <play id="greek000039" source="tlg0006/tlg012/tlg0006.tlg012.perseus-grc2.xml" slug="euripides-electra" wikidata="Q540161"/>
-  <!-- greek000040 is not in the PDL but GreekDraCor-specific -->
-  <play id="greek000040" slug="menander-dyskolos" wikidata="Q1248766"/>
-  <!-- The following plays will be imported into GreekDraCor for the first time. -->
-  <play id="greek000041" source="tlg0006/tlg001/tlg0006.tlg001.perseus-grc2.xml" slug="euripides-cyclops" wikidata="Q1206121"/>
-  <play id="greek000042" source="tlg0006/tlg002/tlg0006.tlg002.perseus-grc2.xml" slug="euripides-alcestis" wikidata="Q1246408"/>
-  <play id="greek000043" source="tlg0006/tlg003/tlg0006.tlg003.perseus-grc2.xml" slug="euripides-medea" wikidata="Q286381"/>
-  <play id="greek000044" source="tlg0006/tlg004/tlg0006.tlg004.perseus-grc2.xml" slug="euripides-children-of-heracles" wikidata="Q1233203"/>
-  <play id="greek000045" source="tlg0006/tlg005/tlg0006.tlg005.perseus-grc2.xml" slug="euripides-hippolytus" wikidata="Q375786"/>
-  <play id="greek000046" source="tlg0006/tlg006/tlg0006.tlg006.perseus-grc2.xml" slug="euripides-andromache" wikidata="Q512802"/>
-</ids>
+<index>
+   <play id="greek000001"
+         source="tlg0006/tlg017/tlg0006.tlg017.perseus-grc2.xml"
+         slug="euripides-bacchae"
+         wikidata="Q934597"
+         textclass="Q80930">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Βάκχαι</title>
+         <title xml:lang="la">Bacchae</title>
+         <title xml:lang="en">Bacchae</title>
+         <title type="short">Bacch.</title>
+         <author>
+            <persName>Εὐριπίδης</persName>
+            <persName xml:lang="la">Euripides</persName>
+            <persName xml:lang="en">Euripides</persName>
+            <idno type="wikidata">Q48305</idno>
+         </author>
+         <editor>
+            <persName>Gilbert Murray</persName>
+            <idno type="wikidata">Q538478</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" notBefore="-0405">
+            <label>after 406 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Euripides. In: DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0087.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="dionysos" sex="MALE">
+               <persName>Διόνυσος</persName>
+               <persName xml:lang="en">Dionysus</persName>
+               <persName type="variant">Διονυσος</persName>
+               <idno type="wikidata">Q41680</idno>
+            </person>
+            <personGrp xml:id="choros" sex="FEMALE">
+               <name>Χορός</name>
+               <name xml:lang="en">Chorus of Asian Bacchants</name>
+               <idno type="wikidata">Q209599</idno>
+            </personGrp>
+            <person xml:id="teiresias" sex="MALE">
+               <persName>Τειρεσίας</persName>
+               <persName xml:lang="en">Teiresias</persName>
+               <idno type="wikidata">Q656881</idno>
+            </person>
+            <person xml:id="kadmos" sex="MALE">
+               <persName>Κάδμος</persName>
+               <persName xml:lang="en">Cadmus</persName>
+               <idno type="wikidata">Q27613</idno>
+            </person>
+            <person xml:id="pentheus" sex="MALE">
+               <persName>Πενθεύς</persName>
+               <persName xml:lang="en">Pentheus</persName>
+               <idno type="wikidata">Q391091</idno>
+            </person>
+            <person xml:id="therapon" sex="MALE">
+               <persName>Θεράπων</persName>
+               <persName xml:lang="en">Slave</persName>
+            </person>
+            <person xml:id="angelos" sex="MALE">
+               <persName>Ἄγγελος</persName>
+               <persName xml:lang="en">First Messenger</persName>
+            </person>
+            <person xml:id="angelos-b" sex="MALE">
+               <persName>Ἄγγελος Β</persName>
+               <persName type="variant">Ἄγγελος</persName>
+               <persName xml:lang="en">Second Messenger</persName>
+            </person>
+            <person xml:id="agaue" sex="FEMALE">
+               <persName>Ἀγαύη</persName>
+               <persName xml:lang="en">Agave</persName>
+               <idno type="wikidata">Q381459</idno>
+            </person>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000002"
+         source="tlg0006/tlg013/tlg0006.tlg013.perseus-grc2.xml"
+         slug="euripides-iphigenia-taurica"
+         slug-en="euripides-iphigenia-in-tauris"
+         wikidata="Q523227"
+         textclass="Q80930">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Ἰφιγένεια ἐν Ταύροις</title>
+         <title xml:lang="la">Iphigenia Taurica</title>
+         <title xml:lang="en">Iphigenia in Tauris</title>
+         <title type="short">Iph. T.</title>
+         <author>
+            <persName>Εὐριπίδης</persName>
+            <persName xml:lang="la">Euripides</persName>
+            <persName xml:lang="en">Euripides</persName>
+            <idno type="wikidata">Q48305</idno>
+         </author>
+         <editor>
+            <persName>Gilbert Murray</persName>
+            <idno type="wikidata">Q538478</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" when="-0414">
+            <label>414 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Euripides. In: DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0087.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="iphigeneia" sex="FEMALE">
+               <persName>Ἰφιγένεια</persName>
+               <persName xml:lang="en">Iphigenia</persName>
+               <idno type="wikidata">Q192673</idno>
+            </person>
+            <person xml:id="orestes" sex="MALE">
+               <persName>Ὀρέστης</persName>
+               <persName xml:lang="en">Orestes</persName>
+               <idno type="wikidata">Q192407</idno>
+            </person>
+            <person xml:id="pylades" sex="MALE">
+               <persName>Πυλάδης</persName>
+               <persName xml:lang="en">Pylades</persName>
+               <idno type="wikidata">Q494886</idno>
+            </person>
+            <personGrp xml:id="choros" sex="FEMALE">
+               <name>Χορός</name>
+               <name xml:lang="en">Chorus of Greek Female Slaves</name>
+            </personGrp>
+            <person xml:id="boukolos" sex="MALE">
+               <persName>Βουκόλος</persName>
+               <persName xml:lang="en">Herdsman</persName>
+            </person>
+            <person xml:id="thoas" sex="MALE">
+               <persName>Θόας</persName>
+               <persName xml:lang="en">Thoas</persName>
+               <idno type="wikidata">Q1246185</idno>
+            </person>
+            <person xml:id="angelos" sex="MALE">
+               <persName>Ἄγγελος</persName>
+               <persName xml:lang="en">Messenger</persName>
+            </person>
+            <person xml:id="athena" sex="FEMALE">
+               <persName>Ἀθήνα</persName>
+               <persName xml:lang="en">Athena</persName>
+               <idno type="wikidata">Q37122</idno>
+            </person>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000003"
+         source="tlg0006/tlg007/tlg0006.tlg007.perseus-grc2.xml"
+         slug="euripides-hecuba"
+         wikidata="Q1115611"
+         textclass="Q80930">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Ἑκάβη</title>
+         <title xml:lang="la">Hecuba</title>
+         <title xml:lang="en">Hecuba</title>
+         <title type="short">Hec.</title>
+         <author>
+            <persName>Εὐριπίδης</persName>
+            <persName xml:lang="la">Euripides</persName>
+            <persName xml:lang="en">Euripides</persName>
+            <idno type="wikidata">Q48305</idno>
+         </author>
+         <editor>
+            <persName>Gilbert Murray</persName>
+            <idno type="wikidata">Q538478</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" notBefore="-0429" notAfter="-0420">
+            <label>429–420 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Euripides. In: DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0087.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="polydorou-eidolon" sex="MALE">
+               <persName>Πολυδώρου εἴδωλον</persName>
+               <persName xml:lang="en">Ghost of Polydorus</persName>
+               <idno type="wikidata">Q346634</idno>
+            </person>
+            <person xml:id="hekabe" sex="FEMALE">
+               <persName>Ἑκάβη</persName>
+               <persName xml:lang="en">Hecuba</persName>
+               <idno type="wikidata">Q193433</idno>
+            </person>
+            <personGrp xml:id="choros" sex="FEMALE">
+               <name>Χορός</name>
+               <name type="variant">Χορὸς Αἰχμαλωτίδων Γυναικών</name>
+               <name xml:lang="en">Chorus of Captive Trojan Women</name>
+            </personGrp>
+            <person xml:id="polyxene" sex="FEMALE">
+               <persName>Πολυξένη</persName>
+               <persName xml:lang="en">Polyxena</persName>
+               <idno type="wikidata">Q750236</idno>
+            </person>
+            <person xml:id="odysseus" sex="MALE">
+               <persName>Ὀδυσσεύς</persName>
+               <persName xml:lang="en">Odysseus</persName>
+               <idno type="wikidata">Q47231</idno>
+            </person>
+            <person xml:id="talthybios" sex="MALE">
+               <persName>Ταλθύβιος</persName>
+               <persName xml:lang="en">Talthybius</persName>
+               <idno type="wikidata">Q1367860</idno>
+            </person>
+            <person xml:id="therapaina" sex="FEMALE">
+               <persName>Θεράπαινα</persName>
+               <persName xml:lang="en">Maid</persName>
+            </person>
+            <person xml:id="agamemnon" sex="MALE">
+               <persName>Ἀγαμέμνων</persName>
+               <persName xml:lang="en">Agamemnon</persName>
+               <idno type="wikidata">Q128176</idno>
+            </person>
+            <person xml:id="polymestor" sex="MALE">
+               <persName>Πολυμήστωρ</persName>
+               <persName xml:lang="en">Polymestor</persName>
+               <idno type="wikidata">Q2288153</idno>
+            </person>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000004"
+         source="tlg0085/tlg007/tlg0085.tlg007.perseus-grc2.xml"
+         slug="aeschylus-eumenides"
+         wikidata="Q1233164"
+         textclass="Q80930">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Εὐμενίδες</title>
+         <title xml:lang="la">Eumenides</title>
+         <title xml:lang="en">Eumenides</title>
+         <title type="short">Eum.</title>
+         <author>
+            <persName>Αἰσχύλος</persName>
+            <persName xml:lang="la">Aeschylus</persName>
+            <persName xml:lang="en">Aeschylus</persName>
+            <idno type="wikidata">Q40939</idno>
+         </author>
+         <editor>
+            <persName>Herbert Weir Smyth</persName>
+            <idno type="wikidata">Q471925</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" when="-0458">
+            <label>458 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Aeschylus of Athens. In: DNP Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0006.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="pythias" sex="FEMALE" role="vates sacerdos">
+               <persName>Πυθιάς</persName>
+               <persName type="variant">Πυθιὰς Προφῆτις</persName>
+               <persName xml:lang="en">The Pythian Prophetess</persName>
+            </person>
+            <person xml:id="apollon" sex="MALE" role="deus">
+               <persName>Ἀπόλλων</persName>
+               <persName xml:lang="en">Apollo</persName>
+               <idno type="wikidata">Q37340</idno>
+            </person>
+            <person xml:id="orestes" sex="MALE" role="filius">
+               <persName>Ὀρέστης</persName>
+               <persName xml:lang="en">Orestes</persName>
+               <idno type="wikidata">Q192407</idno>
+            </person>
+            <person xml:id="klytaimestras-eidolon" sex="FEMALE" role="uxor mater">
+               <persName>Κλυταιμήστρας Εἴδωλον</persName>
+               <persName type="variant">Κλυταιμήστρα</persName>
+               <persName xml:lang="en">Shade of Clytemnestra</persName>
+               <idno type="wikidata">Q131157</idno>
+            </person>
+            <personGrp xml:id="choros" sex="FEMALE" role="chorus_dea">
+               <name>Χορός</name>
+               <name type="variant">Χορὸς Εὐμενίδων</name>
+               <name xml:lang="en">Chorus of Erinyes</name>
+               <name type="variant">Χορος</name>
+               <idno type="wikidata">Q180262</idno>
+            </personGrp>
+            <person xml:id="athena" sex="FEMALE" role="dea">
+               <persName>Ἀθηνᾶ</persName>
+               <persName xml:lang="en">Athena</persName>
+               <idno type="wikidata">Q37122</idno>
+            </person>
+            <personGrp xml:id="propompoi" sex="FEMALE" role="chorus">
+               <name>Προπομποί</name>
+               <name xml:lang="en">An Escort</name>
+            </personGrp>
+            <listRelation>
+               <relation name="associated_with" active="#pythias" passive="#apollon"/>
+               <relation name="parent_of" active="#klytaimestras-eidolon" passive="#orestes"/>
+               <relation name="associated_with" active="#orestes" passive="#apollon #athena"/>
+               <relation name="associated_with" active="#propompoi" passive="#athena"/>
+            </listRelation>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000005"
+         source="tlg0085/tlg004/tlg0085.tlg004.perseus-grc2.xml"
+         slug="aeschylus-septem-adversus-thebas"
+         slug-en="aeschylus-seven-against-thebes"
+         wikidata="Q506546"
+         textclass="Q80930">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Ἑπτὰ ἐπὶ Θήβας</title>
+         <title xml:lang="la">Septem adversus Thebas</title>
+         <title xml:lang="en">Seven Against Thebes</title>
+         <title type="short">Sept.</title>
+         <author>
+            <persName>Αἰσχύλος</persName>
+            <persName xml:lang="la">Aeschylus</persName>
+            <persName xml:lang="en">Aeschylus</persName>
+            <idno type="wikidata">Q40939</idno>
+         </author>
+         <editor>
+            <persName>Herbert Weir Smyth</persName>
+            <idno type="wikidata">Q471925</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" when="-0467">
+            <label>467 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Aeschylus of Athens. In: DNP Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0006.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="eteokles" sex="MALE" role="rex">
+               <persName>Ἐτεοκλής</persName>
+               <persName xml:lang="en">Eteocles</persName>
+               <idno type="wikidata">Q506550</idno>
+            </person>
+            <person xml:id="angelos" sex="MALE" role="nuntius">
+               <persName>Ἄγγελος</persName>
+               <persName type="variant">Ἄγγελος Κατάσκοπος</persName>
+               <persName xml:lang="en">A Messenger (Scout)</persName>
+            </person>
+            <personGrp xml:id="choros" sex="FEMALE" role="chorus_virgo">
+               <name>Χορός</name>
+               <name type="variant">Χορὸς Παρθένων</name>
+               <name xml:lang="en">Chorus of Theban Maidens</name>
+            </personGrp>
+            <personGrp xml:id="hemichorion-a"
+                       sex="FEMALE"
+                       role="chorus"
+                       corresp="#choros">
+               <name>Ἡμιχόριον Α</name>
+               <name xml:lang="en">Semi-Chorus A</name>
+            </personGrp>
+            <personGrp xml:id="hemichorion-b"
+                       sex="FEMALE"
+                       role="chorus"
+                       corresp="#choros">
+               <name>Ἡμιχόριον Β</name>
+               <name xml:lang="en">Semi-Chorus B</name>
+            </personGrp>
+            <person xml:id="antigone" sex="FEMALE" role="soror">
+               <persName>Ἀντιγόνη</persName>
+               <persName xml:lang="en">Antigone</persName>
+               <idno type="wikidata">Q131351</idno>
+            </person>
+            <person xml:id="ismene" sex="FEMALE" role="soror">
+               <persName>Ἰσμήνη</persName>
+               <persName xml:lang="en">Ismene</persName>
+               <idno type="wikidata">Q753902</idno>
+            </person>
+            <person xml:id="keryx" sex="MALE" role="praeco">
+               <persName>Κῆρυξ</persName>
+               <persName xml:lang="en">A Herald</persName>
+            </person>
+            <listRelation>
+               <relation name="siblings" mutual="#antigone #ismene #eteokles"/>
+               <relation name="associated_with" active="#angelos" passive="#eteokles"/>
+            </listRelation>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000006"
+         source="tlg0006/tlg008/tlg0006.tlg008.perseus-grc2.xml"
+         slug="euripides-supplices"
+         slug-en="euripides-suppliants"
+         wikidata="Q672319"
+         textclass="Q80930">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Ἱκέτιδες</title>
+         <title xml:lang="la">Supplices</title>
+         <title xml:lang="en">Suppliants</title>
+         <title type="short">Suppl.</title>
+         <author>
+            <persName>Εὐριπίδης</persName>
+            <persName xml:lang="la">Euripides</persName>
+            <persName xml:lang="en">Euripides</persName>
+            <idno type="wikidata">Q48305</idno>
+         </author>
+         <editor>
+            <persName>Gilbert Murray</persName>
+            <idno type="wikidata">Q538478</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" notBefore="-0485" notAfter="-0406">
+            <label>485–406 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Euripides. In: DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0087.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="aithra" sex="FEMALE">
+               <persName>Αἴθρα</persName>
+               <persName xml:lang="en">Aethra</persName>
+               <idno type="wikidata">Q11921121</idno>
+            </person>
+            <personGrp xml:id="choros" sex="FEMALE">
+               <name>Χορός</name>
+               <name xml:lang="en">Chorus of the Mothers of the Seven</name>
+            </personGrp>
+            <person xml:id="theseus" sex="MALE">
+               <persName>Θησεύς</persName>
+               <persName xml:lang="en">Theseus</persName>
+               <idno type="wikidata">Q1320718</idno>
+            </person>
+            <person xml:id="adrastos" sex="MALE">
+               <persName>Ἄδραστος</persName>
+               <persName xml:lang="en">Adrastus</persName>
+               <idno type="wikidata">Q223152</idno>
+            </person>
+            <person xml:id="keryx" sex="MALE">
+               <persName>Κῆρυξ</persName>
+               <persName xml:lang="en">Herald</persName>
+            </person>
+            <person xml:id="angelos" sex="MALE">
+               <persName>Ἄγγελος</persName>
+               <persName xml:lang="en">Messenger</persName>
+            </person>
+            <person xml:id="euadne" sex="FEMALE">
+               <persName>Εὐάδνη</persName>
+               <persName xml:lang="en">Evadne</persName>
+               <idno type="wikidata">Q1142062</idno>
+            </person>
+            <person xml:id="iphis" sex="MALE">
+               <persName>Ἶφις</persName>
+               <persName xml:lang="en">Iphis</persName>
+               <idno type="wikidata">Q696330</idno>
+            </person>
+            <personGrp xml:id="paides">
+               <name>Παῖδες</name>
+               <persName xml:lang="en">Sons of the Seven</persName>
+            </personGrp>
+            <person xml:id="athena" sex="FEMALE">
+               <persName>Ἀθήνα</persName>
+               <persName xml:lang="en">Athena</persName>
+               <idno type="wikidata">Q37122</idno>
+            </person>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000007"
+         source="tlg0011/tlg003/tlg0011.tlg003.perseus-grc2.xml"
+         slug="sophocles-aias"
+         slug-en="sophocles-ajax"
+         wikidata="Q412341"
+         textclass="Q80930">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Αἴας</title>
+         <title xml:lang="la">Aias</title>
+         <title xml:lang="en">Ajax</title>
+         <title type="short">Ai.</title>
+         <author>
+            <persName>Σοφοκλῆς</persName>
+            <persName xml:lang="la">Sophocles</persName>
+            <persName xml:lang="en">Sophocles</persName>
+            <idno type="wikidata">Q7235</idno>
+         </author>
+         <editor>
+            <persName>F. Storr</persName>
+            <idno type="wikidata">Q16861781</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" when="-0450">
+            <label>450 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Sophocles. In:DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0204.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="athena" sex="FEMALE" role="dea">
+               <persName>Ἀθήνα</persName>
+               <persName xml:lang="en">Athena</persName>
+               <idno type="wikidata">Q37122</idno>
+            </person>
+            <person xml:id="odysseus" sex="MALE" role="heros rex">
+               <persName>Ὀδυσσεύς</persName>
+               <persName xml:lang="en">Odysseus</persName>
+               <idno type="wikidata">Q47231</idno>
+            </person>
+            <person xml:id="aias" sex="MALE" role="heros">
+               <persName>Αἴας</persName>
+               <persName xml:lang="en">Ajax</persName>
+               <idno type="wikidata">Q172725</idno>
+            </person>
+            <personGrp xml:id="choros" sex="MALE" role="chorus_nauta">
+               <name>Χορός</name>
+               <name type="variant">Χορὸς Σαλαμινίων Ναυτῶν</name>
+               <name xml:lang="en">Chorus of Mariners of Salamis</name>
+            </personGrp>
+            <personGrp xml:id="hemichorion-1"
+                       sex="MALE"
+                       role="semichorus_nauta"
+                       corresp="#choros">
+               <name>Ἡμιχόριον 1</name>
+               <name xml:lang="en">Semi-Chorus 1</name>
+            </personGrp>
+            <personGrp xml:id="hemichorion-2"
+                       sex="MALE"
+                       role="semichorus_nauta"
+                       corresp="#choros">
+               <name>Ἡμιχόριον 2</name>
+               <name xml:lang="en">Semi-Chorus 2</name>
+            </personGrp>
+            <person xml:id="tekmessa" sex="FEMALE" role="uxor">
+               <persName>Τέκμησσα</persName>
+               <persName xml:lang="en">Tecmessa</persName>
+               <idno type="wikidata">Q10796858</idno>
+            </person>
+            <person xml:id="angelos" sex="MALE" role="nuntius">
+               <persName>Ἄγγελος</persName>
+               <persName xml:lang="en">A Messenger</persName>
+            </person>
+            <person xml:id="teukros" sex="MALE" role="heros">
+               <persName>Τεῦκρος</persName>
+               <persName xml:lang="en">Teucer</persName>
+               <idno type="wikidata">Q878184</idno>
+            </person>
+            <person xml:id="menelaos" sex="MALE" role="heros rex">
+               <persName>Μενέλαος</persName>
+               <persName xml:lang="en">Menelaus</persName>
+               <idno type="wikidata">Q171839</idno>
+            </person>
+            <person xml:id="agamemnon" sex="MALE" role="heros rex">
+               <persName>Ἀγαμέμνων</persName>
+               <persName xml:lang="en">Agamemnon</persName>
+               <idno type="wikidata">Q128176</idno>
+            </person>
+            <listRelation>
+               <relation name="associated_with" active="#odysseus" passive="#athena"/>
+               <relation name="associated_with"
+                         active="#choros #hemichorion-1 #hemichorion-2"
+                         passive="#aias"/>
+               <relation name="spouses" mutual="#aias #tekmessa"/>
+               <relation name="siblings" mutual="#teukros #aias"/>
+               <relation name="associated_with" active="#angelos" passive="#teukros"/>
+            </listRelation>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000008"
+         source="tlg0085/tlg006/tlg0085.tlg006.perseus-grc2.xml"
+         slug="aeschylus-choephoroi"
+         slug-en="aeschylus-libation-bearers"
+         wikidata="Q11688406"
+         textclass="Q80930">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Χοηφóρoι</title>
+         <title xml:lang="la">Choephoroi</title>
+         <title xml:lang="en">Libation Bearers</title>
+         <title type="short">Choeph.</title>
+         <author>
+            <persName>Αἰσχύλος</persName>
+            <persName xml:lang="la">Aeschylus</persName>
+            <persName xml:lang="en">Aeschylus</persName>
+            <idno type="wikidata">Q40939</idno>
+         </author>
+         <editor>
+            <persName>Herbert Weir Smyth</persName>
+            <idno type="wikidata">Q471925</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" when="-0458">
+            <label>458 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Aeschylus of Athens. In: DNP Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0006.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="orestes" sex="MALE" role="filius">
+               <persName>Ὀρέστης</persName>
+               <persName xml:lang="en">Orestes</persName>
+               <idno type="wikidata">Q192407</idno>
+            </person>
+            <personGrp xml:id="choros" sex="FEMALE" role="ancilla">
+               <name>Χορός</name>
+               <name xml:lang="en">Chorus of Slave-Women</name>
+            </personGrp>
+            <person xml:id="elektra" sex="FEMALE" role="filia">
+               <persName>Ἠλέκτρα</persName>
+               <persName xml:lang="en">Electra</persName>
+               <idno type="wikidata">Q131651</idno>
+            </person>
+            <person xml:id="oiketes" sex="MALE" role="servus">
+               <persName>Οἰκέτης</persName>
+               <persName xml:lang="en">A Servant</persName>
+            </person>
+            <person xml:id="klytaimnestra" sex="FEMALE" role="uxor mater regina">
+               <persName>Κλυταιμνήστρα</persName>
+               <persName xml:lang="en">Clytemnestra</persName>
+               <idno type="wikidata">Q131157</idno>
+            </person>
+            <person xml:id="pylades" sex="MALE" role="amicus">
+               <persName>Πυλάδης</persName>
+               <persName xml:lang="en">Pylades</persName>
+               <idno type="wikidata">Q494886</idno>
+            </person>
+            <person xml:id="trophos" sex="FEMALE" role="nutrix">
+               <persName>Τροφός</persName>
+               <persName xml:lang="en">A Nurse</persName>
+            </person>
+            <person xml:id="aigisthos" sex="MALE" role="rex">
+               <persName>Αἴγισθος</persName>
+               <persName xml:lang="en">Aegisthus</persName>
+               <idno type="wikidata">Q212091</idno>
+            </person>
+            <listRelation>
+               <relation name="parent_of"
+                         active="#klytaimnestra"
+                         passive="#elektra #orestes"/>
+               <relation name="siblings" mutual="#elektre #orestes"/>
+               <relation name="friends" mutual="#orestes #pylades"/>
+               <relation name="associated_with" active="#choros" passive="#elektra"/>
+               <relation name="parent_of" active="#aigisthos" passive="#klytaimnestra"/>
+               <relation name="associated_with"
+                         active="#oiketes"
+                         passive="#klytaimnestra #aigisthos"/>
+               <relation name="associated_with" active="#trophos" passive="#orestes"/>
+               <relation name="lover_of" active="#aigisthos" passive="#klytaimnestra"/>
+            </listRelation>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000009"
+         source="tlg0019/tlg008/tlg0019.tlg008.perseus-grc2.xml"
+         slug="aristophanes-thesmophoriazusae"
+         wikidata="Q761731"
+         textclass="Q40831">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Θεσμοφοριάζουσαι</title>
+         <title xml:lang="la">Thesmophoriazusae</title>
+         <title xml:lang="en">Thesmophoriazusae</title>
+         <title type="short">Thesm.</title>
+         <author>
+            <persName>Ἀριστοφάνης</persName>
+            <persName xml:lang="la">Aristophanes</persName>
+            <persName xml:lang="en">Aristophanes</persName>
+            <idno type="wikidata">Q43353</idno>
+         </author>
+         <editor>
+            <persName>F. W. Hall</persName>
+            <idno type="wikidata">Q5499076</idno>
+         </editor>
+         <editor>
+            <persName>W. M. Geldart</persName>
+            <idno type="wikidata">Q8015194</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" when="-0411">
+            <label>411 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Aristophanes of Athens. In: DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0032.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="mnesilochos" sex="MALE" role="senex">
+               <persName>Μνησίλοχος</persName>
+               <persName xml:lang="en">Mnesilochus</persName>
+            </person>
+            <person xml:id="euripides" sex="MALE" role="poeta">
+               <persName>Εὐριπίδης</persName>
+               <persName xml:lang="en">Euripides</persName>
+               <idno type="wikidata">Q48305</idno>
+            </person>
+            <person xml:id="therapon" sex="MALE" role="servus">
+               <persName>Θεράπων</persName>
+               <persName type="variant">Θεράπων Ἀγάθωνος</persName>
+               <persName xml:lang="en">A Slave of Agathon</persName>
+            </person>
+            <person xml:id="agathon" sex="MALE" role="poeta">
+               <persName>Ἀγάθων</persName>
+               <persName type="variant">Χορὸς Ἀγάθωνος</persName>
+               <persName xml:lang="en">Agathon</persName>
+               <idno type="wikidata">Q380482</idno>
+            </person>
+            <person xml:id="kerykaina" sex="FEMALE" role="praeco">
+               <persName>Κηρύκαινα</persName>
+               <persName xml:lang="en">A Herald</persName>
+            </person>
+            <personGrp xml:id="choros" sex="FEMALE" role="chorus_uxor">
+               <name>Χορός</name>
+               <name type="variant">Χορὸς Θεσμοφοριαζουσῶν</name>
+               <name xml:lang="en">Chorus of Women celebrating the Thesmophoria</name>
+            </personGrp>
+            <person xml:id="gyne-a" sex="FEMALE" role="uxor">
+               <persName>Γυνὴ Α</persName>
+               <persName xml:lang="en">First Woman</persName>
+            </person>
+            <person xml:id="gyne-b" sex="FEMALE" role="uxor">
+               <persName>Γυνὴ Β</persName>
+               <persName xml:lang="en">Second Woman</persName>
+            </person>
+            <person xml:id="gyne-g" sex="FEMALE" role="uxor">
+               <persName>Γυνὴ Γ</persName>
+               <persName xml:lang="en">Third Woman</persName>
+            </person>
+            <person xml:id="kleisthenes" sex="MALE" role="adulescens">
+               <persName>Κλεισθένης</persName>
+               <persName xml:lang="en">Cleisthenes</persName>
+               <idno type="wikidata">Q5131112</idno>
+            </person>
+            <person xml:id="prytanis" sex="MALE" role="magistratus">
+               <persName>Πρύτανις</persName>
+               <persName xml:lang="en">A Magistrate</persName>
+               <idno type="wikidata">Q456334</idno>
+            </person>
+            <person xml:id="toksotes" sex="MALE" role="custos">
+               <persName>Τοξότης</persName>
+               <persName xml:lang="en">A Policeman</persName>
+               <idno type="wikidata">Q12884611</idno>
+            </person>
+            <listRelation>
+               <relation name="related_with" active="#mnesilochos" passive="#euripides"/>
+               <relation name="associated_with" active="#therapon" passive="#agathon"/>
+            </listRelation>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000010"
+         source="tlg0019/tlg002/tlg0019.tlg002.perseus-grc2.xml"
+         slug="aristophanes-equites"
+         slug-en="aristophanes-knights"
+         wikidata="Q1215817"
+         textclass="Q40831">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Ἱππῆς</title>
+         <title xml:lang="la">Equites</title>
+         <title xml:lang="en">Knights</title>
+         <title type="short">Equ.</title>
+         <author>
+            <persName>Ἀριστοφάνης</persName>
+            <persName xml:lang="la">Aristophanes</persName>
+            <persName xml:lang="en">Aristophanes</persName>
+            <idno type="wikidata">Q43353</idno>
+         </author>
+         <editor>
+            <persName>F. W. Hall</persName>
+            <idno type="wikidata">Q5499076</idno>
+         </editor>
+         <editor>
+            <persName>W. M. Geldart</persName>
+            <idno type="wikidata">Q8015194</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" when="-0424">
+            <label>424 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Aristophanes of Athens. In: DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0032.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="demosthenes" sex="MALE" role="servus">
+               <persName>Δημοσθένης</persName>
+               <persName type="variant">Δημοσθένης οἰκητής</persName>
+               <persName xml:lang="en">Demosthenes, A Slave of Demos</persName>
+               <persName type="variant">Δημοσθένης καὶ Νικίας</persName>
+               <idno type="wikidata">Q504986</idno>
+            </person>
+            <person xml:id="nikias" sex="MALE" role="servus">
+               <persName>Νικίας</persName>
+               <persName type="variant">Νικίας οἰκητής</persName>
+               <persName xml:lang="en">Nicias, A Slave of Demos</persName>
+               <persName type="variant">Δημοσθένης καὶ Νικίας</persName>
+               <idno type="wikidata">Q315822</idno>
+            </person>
+            <person xml:id="allantopoles" sex="MALE" role="mercator">
+               <persName>Ἀλλαντοπώλης</persName>
+               <persName type="variant">Άγοράκριτος Ἀλλαντοπώλης</persName>
+               <persName xml:lang="en">Agoracritus, A Sausage Seller</persName>
+               <persName type="variant">Κλέων καὶ Ἀλλαντοπώλης</persName>
+            </person>
+            <person xml:id="kleon" sex="MALE" role="servus">
+               <persName>Κλέων</persName>
+               <persName xml:lang="en">Cleon</persName>
+               <persName type="variant">Κλέων καὶ Ἀλλαντοπώλης</persName>
+               <idno type="wikidata">Q298220</idno>
+            </person>
+            <personGrp xml:id="choros" sex="MALE" role="chorus_eques">
+               <name>Χορός</name>
+               <name type="variant">Χορὸς Ἱππεῶν</name>
+               <name xml:lang="en">Chorus of Knights</name>
+               <name type="variant">Χορός Ἱππεῶν</name>
+            </personGrp>
+            <person xml:id="demos" sex="MALE" role="allegoria dominus">
+               <persName>Δῆμος</persName>
+               <persName xml:lang="en">Demos</persName>
+            </person>
+            <listRelation>
+               <relation name="associated_with"
+                         active="#demosthenes #nikias #kleon"
+                         passive="#demos"/>
+            </listRelation>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000011"
+         source="tlg0085/tlg003/tlg0085.tlg003.perseus-grc2.xml"
+         slug="aeschylus-prometheus"
+         slug-en="aeschylus-prometheus-bound"
+         wikidata="Q846870"
+         textclass="Q80930">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Προμηθεὺς δεσμώτης</title>
+         <title xml:lang="la">Prometheus</title>
+         <title xml:lang="en">Prometheus Bound</title>
+         <title type="short">Prom.</title>
+         <author>
+            <persName>Αἰσχύλος</persName>
+            <persName xml:lang="la">Aeschylus</persName>
+            <persName xml:lang="en">Aeschylus</persName>
+            <idno type="wikidata">Q40939</idno>
+         </author>
+         <editor>
+            <persName>Herbert Weir Smyth</persName>
+            <idno type="wikidata">Q471925</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" when="-0470">
+            <label>470 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Aeschylus of Athens. In: DNP Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0006.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="kratos" sex="MALE" role="deus">
+               <persName>Κράτος</persName>
+               <persName xml:lang="en">Kratos</persName>
+               <idno type="wikidata">Q334447</idno>
+            </person>
+            <person xml:id="hephaistos" sex="MALE" role="deus">
+               <persName>Ἥφαιστος</persName>
+               <persName xml:lang="en">Hephaestus</persName>
+               <idno type="wikidata">Q44384</idno>
+            </person>
+            <person xml:id="prometheus" sex="MALE" role="deus">
+               <persName>Προμηθεύς</persName>
+               <persName xml:lang="en">Prometheus</persName>
+               <idno type="wikidata">Q83160</idno>
+            </person>
+            <personGrp xml:id="choros" sex="FEMALE" role="chorus_dea_filia">
+               <name>Χορός</name>
+               <name type="variant">Χορὸς Ὠκεανίδων</name>
+               <name xml:lang="en">Chorus of the Daughters of Oceanus</name>
+               <idno type="wikidata">Q20575671</idno>
+            </personGrp>
+            <person xml:id="okeanos" sex="MALE" role="deus pater">
+               <persName>Ὠκεανός</persName>
+               <persName xml:lang="en">Oceanus</persName>
+               <idno type="wikidata">Q161419</idno>
+            </person>
+            <person xml:id="io" sex="FEMALE">
+               <persName>Ἰώ</persName>
+               <persName xml:lang="en">Io</persName>
+               <idno type="wikidata">Q179014</idno>
+            </person>
+            <person xml:id="hermes" sex="MALE" role="deus">
+               <persName>Ἑρμῆς</persName>
+               <persName xml:lang="en">Hermes</persName>
+               <idno type="wikidata">Q41484</idno>
+            </person>
+            <listRelation>
+               <relation name="parent_of" active="#okeanos" passive="#choros"/>
+               <relation name="associated_with" active="#kratos" passive="#hephaistos"/>
+               <relation name="related_with" active="#hephaistos" passive="#prometheus"/>
+               <relation name="friends" mutual="#hephaistos #prometheus"/>
+               <relation name="related_with" active="#okeanos" passive="#prometheus"/>
+               <relation name="friends" mutual="#okeanos #prometheus"/>
+               <relation name="related_with" active="#io" passive="#choros"/>
+            </listRelation>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000012"
+         source="tlg0019/tlg006/tlg0019.tlg006.perseus-grc2.xml"
+         slug="aristophanes-aves"
+         slug-en="aristophanes-birds"
+         wikidata="Q1164079"
+         textclass="Q40831">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Ὄρνιθες</title>
+         <title xml:lang="la">Aves</title>
+         <title xml:lang="en">Birds</title>
+         <title type="short">Av.</title>
+         <author>
+            <persName>Ἀριστοφάνης</persName>
+            <persName xml:lang="la">Aristophanes</persName>
+            <persName xml:lang="en">Aristophanes</persName>
+            <idno type="wikidata">Q43353</idno>
+         </author>
+         <editor>
+            <persName>F. W. Hall</persName>
+            <idno type="wikidata">Q5499076</idno>
+         </editor>
+         <editor>
+            <persName>W. M. Geldart</persName>
+            <idno type="wikidata">Q8015194</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" when="-0414">
+            <label>414 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Aristophanes of Athens. In: DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0032.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="euelpides" sex="MALE" role="atheniensis">
+               <persName>Ἐυελπίδης</persName>
+               <persName xml:lang="en">Euelpides</persName>
+            </person>
+            <person xml:id="pisthetairos" sex="MALE" role="atheniensis">
+               <persName>Πισθέταιρος</persName>
+               <persName xml:lang="en">Pisthetaerus</persName>
+            </person>
+            <person xml:id="therapon-epopos" sex="MALE" role="servus avis">
+               <persName>Θεράπων Ἔποπος</persName>
+               <persName xml:lang="en">The Footbird of Hoopoe</persName>
+               <idno type="wikidata">Q687310</idno>
+            </person>
+            <person xml:id="epops" sex="MALE" role="avis">
+               <persName>Ἔποψ</persName>
+               <persName xml:lang="en">Epops (Hoopoe)</persName>
+               <idno type="wikidata">Q1138506</idno>
+            </person>
+            <personGrp xml:id="choros" sex="UNKNOWN" role="chorus_avis">
+               <name>Χορός</name>
+               <name type="variant">Χορὸς Ὀρνιθών</name>
+               <name xml:lang="en">Chorus of Birds</name>
+               <name type="variant">Χορὸς</name>
+            </personGrp>
+            <person xml:id="ornis_tis" sex="UNKNOWN" role="avis">
+               <persName>Ὄρνις Τις</persName>
+               <persName xml:lang="en">A Bird</persName>
+            </person>
+            <person xml:id="keryx" sex="MALE" role="praeco">
+               <persName>Κῆρυξ</persName>
+               <persName xml:lang="en">A Herald</persName>
+            </person>
+            <person xml:id="hiereus" sex="MALE" role="sacerdos">
+               <persName>Ἱερεύς</persName>
+               <persName xml:lang="en">A Priest</persName>
+            </person>
+            <person xml:id="poietes" sex="MALE" role="poeta">
+               <persName>Ποιητής</persName>
+               <persName xml:lang="en">A Poet</persName>
+            </person>
+            <person xml:id="chresmologos" sex="MALE" role="vates">
+               <persName>Χρησμολόγος</persName>
+               <persName xml:lang="en">An Oracle-Monger</persName>
+            </person>
+            <person xml:id="meton" sex="MALE" role="mathematicus">
+               <persName>Μέτων</persName>
+               <persName type="variant">Μέτων γεωμέτρης</persName>
+               <persName xml:lang="en">Meton, a Geometrician</persName>
+               <idno type="wikidata">Q261909</idno>
+            </person>
+            <person xml:id="episkopos" sex="MALE" role="speculator">
+               <persName>Ἐπίσκοπος</persName>
+               <persName xml:lang="en">An Inspector</persName>
+            </person>
+            <person xml:id="psephismatopoles" sex="MALE" role="´mercator">
+               <persName>Ψηφισματοπώλης</persName>
+               <persName xml:lang="en">A Dealer in Decrees</persName>
+            </person>
+            <person xml:id="angelos" sex="MALE" role="nuntius avis">
+               <persName>Ἄγγελος</persName>
+               <persName xml:lang="en">A Messenger (a bird)</persName>
+            </person>
+            <person xml:id="angelos-a" sex="MALE" role="nuntius avis">
+               <persName>Ἄγγελος Α</persName>
+               <persName xml:lang="en">Messenger A (a bird)</persName>
+            </person>
+            <person xml:id="angelos-b" sex="MALE" role="nuntius avis">
+               <persName>Ἄγγελος Β</persName>
+               <persName xml:lang="en">Messenger B (a bird)</persName>
+               <persName type="variant">Ἄγγελος Β.</persName>
+            </person>
+            <person xml:id="iris" sex="FEMALE" role="dea">
+               <persName>Ἶρις</persName>
+               <persName xml:lang="en">Iris</persName>
+               <idno type="wikidata">Q184570</idno>
+            </person>
+            <person xml:id="patraloias" sex="MALE" role="parricida">
+               <persName>Πατραλοίας</persName>
+               <persName xml:lang="en">A Parricides</persName>
+            </person>
+            <person xml:id="kinesias" sex="MALE" role="poeta">
+               <persName>Κινησίας</persName>
+               <persName>Κινησίας διθυραμβοποιός</persName>
+               <persName xml:lang="en">Cinesias, a dithyrambic Poet</persName>
+               <idno type="wikidata">Q2973270</idno>
+            </person>
+            <person xml:id="sykophantes" sex="MALE" role="sycophanta">
+               <persName>Συκοφάντης</persName>
+               <persName xml:lang="en">An Informer</persName>
+            </person>
+            <person xml:id="prometheus" sex="MALE" role="deus">
+               <persName>Προμηθεύς</persName>
+               <persName xml:lang="en">Prometheus</persName>
+               <idno type="wikidata">Q83160</idno>
+            </person>
+            <person xml:id="poseidon" sex="MALE" role="deus legatus">
+               <persName>Ποσειδῶν</persName>
+               <persName xml:lang="en">Poseidon</persName>
+               <idno type="wikidata">Q41127</idno>
+            </person>
+            <person xml:id="triballos" sex="MALE" role="deus legatus">
+               <persName>Τριβαλλός</persName>
+               <persName xml:lang="en">Triballus</persName>
+            </person>
+            <person xml:id="herakles" sex="MALE" role="deus legatus">
+               <persName>Ἡρακλῆς</persName>
+               <persName xml:lang="en">Heracles</persName>
+               <idno type="wikidata">Q122248</idno>
+            </person>
+            <listRelation>
+               <relation name="associated_with" active="#therapon-epopos" passive="#epops"/>
+            </listRelation>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000013"
+         source="tlg0006/tlg009/tlg0006.tlg009.perseus-grc2.xml"
+         slug="euripides-hercules"
+         slug-en="euripides-heracles"
+         wikidata="Q1233835"
+         textclass="Q80930">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Ἡρακλῆς</title>
+         <title xml:lang="la">Hercules</title>
+         <title xml:lang="en">Heracles</title>
+         <title type="short">Herc.</title>
+         <author>
+            <persName>Εὐριπίδης</persName>
+            <persName xml:lang="la">Euripides</persName>
+            <persName xml:lang="en">Euripides</persName>
+            <idno type="wikidata">Q48305</idno>
+         </author>
+         <editor>
+            <persName>Gilbert Murray</persName>
+            <idno type="wikidata">Q538478</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" when="-0416">
+            <label>416 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Euripides. In: DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0087.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="amphitryon" sex="MALE">
+               <persName>Ἀμφιτρύων</persName>
+               <persName xml:lang="en">Amphitryon</persName>
+               <idno type="wikidata">Q206214</idno>
+            </person>
+            <person xml:id="megara" sex="FEMALE">
+               <persName>Μεγάρα</persName>
+               <persName xml:lang="en">Megara</persName>
+               <idno type="wikidata">Q929768</idno>
+            </person>
+            <personGrp xml:id="choros" sex="MALE">
+               <name>Χορός</name>
+               <name xml:lang="en">Chorus of Old Men of Thebes</name>
+            </personGrp>
+            <person xml:id="lykos" sex="MALE">
+               <persName>Λύκος</persName>
+               <persName xml:lang="en">Lycus</persName>
+               <idno type="wikidata">Q1393416</idno>
+            </person>
+            <person xml:id="herakles" sex="MALE">
+               <persName>Ἡρακλῆς</persName>
+               <persName xml:lang="en">Heracles</persName>
+               <idno type="wikidata">Q122248</idno>
+            </person>
+            <person xml:id="iris" sex="FEMALE">
+               <persName>Ἶρις</persName>
+               <persName xml:lang="en">Iris</persName>
+               <idno type="wikidata">Q184570</idno>
+            </person>
+            <person xml:id="lyssa" sex="FEMALE">
+               <persName>Λύσσα</persName>
+               <persName xml:lang="en">Lyssa</persName>
+               <idno type="wikidata">Q1084868</idno>
+            </person>
+            <person xml:id="angelos" sex="MALE">
+               <persName>Ἄγγελος</persName>
+               <persName xml:lang="en">Messenger</persName>
+            </person>
+            <person xml:id="theseus" sex="MALE">
+               <persName>Θησεύς</persName>
+               <persName xml:lang="en">Theseus</persName>
+               <idno type="wikidata">Q1320718</idno>
+            </person>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000014"
+         source="tlg0019/tlg004/tlg0019.tlg004.perseus-grc2.xml"
+         slug="aristophanes-vespae"
+         slug-en="aristophanes-wasps"
+         wikidata="Q1217552"
+         textclass="Q40831">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Σφῆκες</title>
+         <title xml:lang="la">Vespae</title>
+         <title xml:lang="en">Wasps</title>
+         <title type="short">Vesp.</title>
+         <author>
+            <persName>Ἀριστοφάνης</persName>
+            <persName xml:lang="la">Aristophanes</persName>
+            <persName xml:lang="en">Aristophanes</persName>
+            <idno type="wikidata">Q43353</idno>
+         </author>
+         <editor>
+            <persName>F. W. Hall</persName>
+            <idno type="wikidata">Q5499076</idno>
+         </editor>
+         <editor>
+            <persName>W. M. Geldart</persName>
+            <idno type="wikidata">Q8015194</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" when="-0422">
+            <label>422 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Aristophanes of Athens. In: DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0032.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="sosias" sex="MALE" role="servus">
+               <persName>Σωσίας</persName>
+               <persName xml:lang="en">Sosias</persName>
+            </person>
+            <person xml:id="xanthias" sex="MALE" role="servus">
+               <persName>Ξανθίας</persName>
+               <persName xml:lang="en">Xanthias</persName>
+               <idno type="wikidata">Q8042969</idno>
+            </person>
+            <person xml:id="bdelykleon" sex="MALE" role="adulescens">
+               <persName>Βδελυκλέων</persName>
+               <persName xml:lang="en">Bdelycleon</persName>
+            </person>
+            <person xml:id="philokleon" sex="MALE" role="senex">
+               <persName>Φιλοκλέων</persName>
+               <persName xml:lang="en">Philocleon</persName>
+            </person>
+            <personGrp xml:id="choros" sex="MALE" role="chorus_senex">
+               <name>Χορός</name>
+               <name type="variant">Χορὸς Γερόντων Σφηκών</name>
+               <name xml:lang="en">Chorus of Old Wasps</name>
+            </personGrp>
+            <person xml:id="pais" sex="MALE" role="filius">
+               <persName>Παίς</persName>
+               <persName xml:lang="en">Boy</persName>
+            </person>
+            <person xml:id="kyon" sex="MALE" role="canis">
+               <persName>Κύων</persName>
+               <persName xml:lang="en">Watchdog</persName>
+            </person>
+            <person xml:id="artopolis" sex="FEMALE" role="venditrix">
+               <persName>Αρτόπωλις</persName>
+               <persName xml:lang="en">A Breadwoman</persName>
+            </person>
+            <person xml:id="kategoros" sex="MALE" role="accusator">
+               <persName>Κατήγορος</persName>
+               <persName xml:lang="en">Accuser</persName>
+            </person>
+            <person xml:id="xymotes-tis" sex="MALE">
+               <persName>Ξυμότης τις</persName>
+               <persName xml:lang="en">A Fellow-Drinker</persName>
+            </person>
+            <listRelation>
+               <relation name="associated_with"
+                         active="#sosias #xanthias"
+                         passive="#bdelykleon"/>
+               <relation name="parent_of" active="#philokleon" passive="#bdelykleon"/>
+               <relation name="parent_of" active="#choros" passive="#pais"/>
+            </listRelation>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000015"
+         source="tlg0011/tlg004/tlg0011.tlg004.perseus-grc2.xml"
+         slug="sophocles-oedipus-rex"
+         slug-en="sophocles-oedipus-tyrannus"
+         wikidata="Q148643"
+         textclass="Q80930">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Οἰδίπους Τύραννος</title>
+         <title xml:lang="la">Oedipus Rex</title>
+         <title xml:lang="en">Oedipus Tyrannus</title>
+         <title type="short">Oid. T.</title>
+         <author>
+            <persName>Σοφοκλῆς</persName>
+            <persName xml:lang="la">Sophocles</persName>
+            <persName xml:lang="en">Sophocles</persName>
+            <idno type="wikidata">Q7235</idno>
+         </author>
+         <editor>
+            <persName>F. Storr</persName>
+            <idno type="wikidata">Q16861781</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" notBefore="-0436" notAfter="-0433">
+            <label>436–433 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Sophocles. In:DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0204.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="oidipous" sex="MALE" role="rex">
+               <persName>Οἰδίπους</persName>
+               <persName xml:lang="en">Oedipus</persName>
+               <idno type="wikidata">Q130890</idno>
+            </person>
+            <person xml:id="hiereus" sex="MALE" role="sacerdos">
+               <persName>Ἱερεύς</persName>
+               <persName xml:lang="en">The Priest of Zeus</persName>
+            </person>
+            <person xml:id="kreon" sex="MALE">
+               <persName>Κρέων</persName>
+               <persName xml:lang="en">Creon</persName>
+               <idno type="wikidata">Q732066</idno>
+            </person>
+            <personGrp xml:id="choros" sex="MALE" role="chorus_senex">
+               <name>Χορός</name>
+               <name type="variant">Χορὸς Γερόντων Θηβαίων</name>
+               <name xml:lang="en">Chorus of Theban Elders</name>
+            </personGrp>
+            <person xml:id="teiresias" sex="MALE" role="vates senex">
+               <persName>Τειρεσίας</persName>
+               <persName xml:lang="en">Teiresias</persName>
+               <idno type="wikidata">Q656881</idno>
+            </person>
+            <person xml:id="iokaste" sex="FEMALE" role="uxor">
+               <persName>Ἰοκάστη</persName>
+               <persName xml:lang="en">Jocasta</persName>
+               <idno type="wikidata">Q131445</idno>
+            </person>
+            <person xml:id="angelos" sex="MALE" role="nuntius">
+               <persName>Ἄγγελος</persName>
+               <persName xml:lang="en">A Messenger</persName>
+            </person>
+            <person xml:id="therapon" sex="MALE" role="servus">
+               <persName>Θεράπων</persName>
+               <persName type="variant">Θεράπων Λαιοῦ</persName>
+               <persName xml:lang="en">Herd of Laius</persName>
+            </person>
+            <person xml:id="exangelos" sex="MALE" role="nuntius">
+               <persName>Ἐξάγγελος</persName>
+               <persName xml:lang="en">A Second Messenger</persName>
+            </person>
+            <listRelation type="personal">
+               <relation name="parent_of" active="#iokaste" passive="#oidipous"/>
+               <relation name="spouses" mutual="#oidipous #iokaste"/>
+               <relation name="siblings" mutual="#iokaste #kreon"/>
+            </listRelation>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000016"
+         source="tlg0019/tlg007/tlg0019.tlg007.perseus-grc2.xml"
+         slug="aristophanes-lysistrata"
+         wikidata="Q753907"
+         textclass="Q40831">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Λυσιστράτη</title>
+         <title xml:lang="la">Lysistrata</title>
+         <title xml:lang="en">Lysistrata</title>
+         <title type="short">Lys.</title>
+         <author>
+            <persName>Ἀριστοφάνης</persName>
+            <persName xml:lang="la">Aristophanes</persName>
+            <persName xml:lang="en">Aristophanes</persName>
+            <idno type="wikidata">Q43353</idno>
+         </author>
+         <editor>
+            <persName>F. W. Hall</persName>
+            <idno type="wikidata">Q5499076</idno>
+         </editor>
+         <editor>
+            <persName>W. M. Geldart</persName>
+            <idno type="wikidata">Q8015194</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" when="-0411">
+            <label>411 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Aristophanes of Athens. In: DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0032.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="lysistrate" sex="FEMALE" role="uxor">
+               <persName>Λυσιστράτη</persName>
+               <persName xml:lang="en">Lysistrata</persName>
+               <idno type="wikidata">Q63535426</idno>
+            </person>
+            <person xml:id="kalonike" sex="FEMALE" role="uxor">
+               <persName>Καλονίκη</persName>
+               <persName xml:lang="en">Calonice</persName>
+            </person>
+            <person xml:id="myrrine" sex="FEMALE" role="uxor">
+               <persName>Μυρρίνη</persName>
+               <persName xml:lang="en">Myrrhine</persName>
+            </person>
+            <person xml:id="lampito" sex="FEMALE" role="uxor">
+               <persName>Λαμπιτῶ</persName>
+               <persName type="variant">Λαμπιτώ</persName>
+               <persName xml:lang="en">Lampito</persName>
+            </person>
+            <personGrp xml:id="choros" sex="UNKNOWN" role="chorus">
+               <name>Χορός</name>
+               <name type="variant">Χορὸς Ἀθηναίων</name>
+               <name xml:lang="en">Chorus of Athenians</name>
+            </personGrp>
+            <personGrp xml:id="choros-geronton"
+                       sex="MALE"
+                       role="semichorus_senex"
+                       corresp="#choros">
+               <name>Χορὸς Γερόντων</name>
+               <name type="variant">Χορὸς γερόντων</name>
+               <name xml:lang="en">Chorus of Old Athenian Men</name>
+            </personGrp>
+            <personGrp xml:id="choros-gynaikon"
+                       sex="FEMALE"
+                       role="semichorus_uxor"
+                       corresp="#choros">
+               <name>Χορὸς Γυναικῶν</name>
+               <name xml:lang="en">Chorus of Old Athenian Women</name>
+            </personGrp>
+            <person xml:id="proboulos" sex="MALE" role="magistratus">
+               <persName>Πρόβουλος</persName>
+               <persName xml:lang="en">A Magistrate</persName>
+            </person>
+            <person xml:id="gyne" sex="FEMALE" role="uxor">
+               <persName>Γυνή</persName>
+               <persName xml:lang="en">A Wife</persName>
+               <persName type="variant">Γυνὴ</persName>
+            </person>
+            <person xml:id="gyne-a" sex="FEMALE" role="uxor">
+               <persName>Γυνὴ Α</persName>
+               <persName xml:lang="en">First Wife</persName>
+               <persName type="variant">Γυνὴ A</persName>
+            </person>
+            <person xml:id="gyne-b" sex="FEMALE" role="uxor">
+               <persName>Γυνὴ Β</persName>
+               <persName xml:lang="en">Second Wife</persName>
+            </person>
+            <person xml:id="gyne-g" sex="FEMALE" role="uxor">
+               <persName>Γυνὴ Γ</persName>
+               <persName xml:lang="en">Third Wife</persName>
+            </person>
+            <person xml:id="alle" sex="FEMALE" role="uxor">
+               <persName>Ἄλλη</persName>
+               <persName xml:lang="en">Another Wife</persName>
+            </person>
+            <person xml:id="kinesias" sex="MALE" role="maritus">
+               <persName>Κινησίας</persName>
+               <persName xml:lang="en">Cinesias</persName>
+            </person>
+            <person xml:id="pais-kinesiou" sex="UNKNOWN" role="filius filia">
+               <persName>Παῖς Κινησίου</persName>
+               <persName xml:lang="en">Child of Cinesias</persName>
+            </person>
+            <person xml:id="keryx_lakedaimonion" sex="MALE" role="praeco">
+               <persName>Κῆρυξ Λακεδαιμονίων</persName>
+               <persName xml:lang="en">Herald from Sparta</persName>
+            </person>
+            <person xml:id="lakon" sex="MALE" role="legatus">
+               <persName>Λάκων</persName>
+               <persName xml:lang="en">A Spartan Delegate</persName>
+            </person>
+            <person xml:id="geron" sex="MALE" role="senex">
+               <persName>Γέρων</persName>
+               <persName type="variant">γέρων</persName>
+               <persName xml:lang="en">An Old Man</persName>
+            </person>
+            <person xml:id="athenaios" sex="MALE" role="legatus">
+               <persName>Ἀθηναῖος</persName>
+               <persName xml:lang="en">An Athenian Delegate</persName>
+            </person>
+            <person xml:id="athenaios-a" sex="MALE" role="legatus">
+               <persName>Ἀθηναῖος Α</persName>
+               <persName xml:lang="en">First Athenian Delegate</persName>
+               <persName type="variant">Ἀθηναῖος Α.</persName>
+            </person>
+            <person xml:id="athenaios-b" sex="MALE" role="legatus">
+               <persName>Ἀθηναῖος Β</persName>
+               <persName xml:lang="en">Second Athenian Delegate</persName>
+               <persName type="variant">Ἀθηναῖος Β.</persName>
+            </person>
+            <personGrp xml:id="choros-lakedaimonion" sex="UNKNOWN" role="chorus">
+               <name>Χορὸς Λακεδαιμονίων</name>
+               <name xml:lang="en">Chorus of Spartan Men</name>
+            </personGrp>
+            <listRelation>
+               <relation name="spouses" mutual="#myrrine #kinesias"/>
+               <relation name="parent_of"
+                         active="#myrrine #kinesias"
+                         passive="#pais-kinesiou"/>
+            </listRelation>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000017"
+         source="tlg0019/tlg009/tlg0019.tlg009.perseus-grc2.xml"
+         slug="aristophanes-ranae"
+         slug-en="aristophanes-frogs"
+         wikidata="Q815376"
+         textclass="Q40831">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Βάτραχοι</title>
+         <title xml:lang="la">Ranae</title>
+         <title xml:lang="en">Frogs</title>
+         <title type="short">Ran.</title>
+         <author>
+            <persName>Ἀριστοφάνης</persName>
+            <persName xml:lang="la">Aristophanes</persName>
+            <persName xml:lang="en">Aristophanes</persName>
+            <idno type="wikidata">Q43353</idno>
+         </author>
+         <editor>
+            <persName>F. W. Hall</persName>
+            <idno type="wikidata">Q5499076</idno>
+         </editor>
+         <editor>
+            <persName>W. M. Geldart</persName>
+            <idno type="wikidata">Q8015194</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" when="-0405">
+            <label>405 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Aristophanes of Athens. In: DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0032.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="xanthias" sex="MALE" role="servus">
+               <persName>Ξανθίας</persName>
+               <persName xml:lang="en">Xanthias</persName>
+               <idno type="wikidata">Q8042969</idno>
+            </person>
+            <person xml:id="dionysos" sex="MALE" role="deus">
+               <persName>Διόνυσος</persName>
+               <persName xml:lang="en">Dionysus</persName>
+               <idno type="wikidata">Q41680</idno>
+            </person>
+            <person xml:id="herakles" sex="MALE" role="heros">
+               <persName>Ἡρακλῆς</persName>
+               <persName xml:lang="en">Heracles</persName>
+               <idno type="wikidata">Q122248</idno>
+            </person>
+            <person xml:id="nekros" sex="MALE" role="mortuus">
+               <persName>Νέκρος</persName>
+               <persName xml:lang="en">A Corpse</persName>
+            </person>
+            <person xml:id="charon" sex="MALE" role="inferus">
+               <persName>Χάρων</persName>
+               <persName xml:lang="en">Charon</persName>
+               <idno type="wikidata">Q6612</idno>
+            </person>
+            <personGrp xml:id="batrachoi" sex="UNKNOWN" role="chorus_rana">
+               <name>Βάτραχοι</name>
+               <name type="variant">Παραχορήγημα βατράχων</name>
+               <name xml:lang="en">Secondary Chorus of Frogs</name>
+            </personGrp>
+            <personGrp xml:id="choros" sex="UNKNOWN" role="chorus">
+               <name>Χορός</name>
+               <name type="variant">Χορὸς μυστῶν</name>
+               <name xml:lang="en">Chorus of Initiates</name>
+            </personGrp>
+            <person xml:id="aiakos" sex="MALE" role="inferus">
+               <persName>Ἄιακος</persName>
+               <persName xml:lang="en">Aeacus</persName>
+            </person>
+            <person xml:id="therapaina" sex="FEMALE" role="ancilla">
+               <persName>Θεράπαινα</persName>
+               <persName type="variant">Θεράπαινα Περσεφόνης</persName>
+               <persName xml:lang="en">Maid of Persephone</persName>
+            </person>
+            <person xml:id="pandokeutria" sex="FEMALE" role="hospita">
+               <persName>Πανδοκευτρία</persName>
+               <persName xml:lang="en">A Hostess</persName>
+            </person>
+            <person xml:id="plathane" sex="FEMALE" role="hospita">
+               <persName>Πλαθάνη</persName>
+               <persName xml:lang="en">Plathane</persName>
+               <persName type="variant">Πλαθάνη.</persName>
+            </person>
+            <person xml:id="euripides" sex="MALE" role="poeta">
+               <persName>Εὐριπίδης</persName>
+               <persName xml:lang="en">Euripides</persName>
+               <persName type="variant">Αἰσχύλος καί Εὐριπίδης</persName>
+               <persName type="variant">Αἰσχύλος καὶ Εὐριπίδης</persName>
+               <idno type="wikidata">Q48305</idno>
+            </person>
+            <person xml:id="aischylos" sex="MALE" role="poeta">
+               <persName>Αἰσχύλος</persName>
+               <persName xml:lang="en">Aeschylus</persName>
+               <persName type="variant">Αἰσχύλος καί Εὐριπίδης</persName>
+               <persName type="variant">Αἰσχύλος καὶ Εὐριπίδης</persName>
+               <idno type="wikidata">Q40939</idno>
+            </person>
+            <person xml:id="plouton" sex="MALE" role="deus">
+               <persName>Πλούτων</persName>
+               <persName xml:lang="en">Pluto</persName>
+               <idno type="wikidata">Q152262</idno>
+            </person>
+            <listRelation>
+               <relation name="associated_with" active="#xanthias" passive="#dionysos"/>
+            </listRelation>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000018"
+         source="tlg0011/tlg008/tlg0011.tlg008.perseus-grc2.xml"
+         slug="sophocles-ichneutae"
+         wikidata="Q733158"
+         textclass="Q1050848">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Ἰχνευταί</title>
+         <title xml:lang="la">Ichneutae</title>
+         <title xml:lang="en">Ichneutae</title>
+         <title type="short">Ichn.</title>
+         <author>
+            <persName>Σοφοκλῆς</persName>
+            <persName xml:lang="la">Sophocles</persName>
+            <persName xml:lang="en">Sophocles</persName>
+            <idno type="wikidata">Q7235</idno>
+         </author>
+         <editor>
+            <persName>Arthur S. Hunt</persName>
+            <idno type="wikidata">Q573778</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" notBefore="-0497" notAfter="-0405">
+            <label>497–405 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Sophocles. In:DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0204.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <personGrp xml:id="choros-satyron" sex="MALE" role="chorus_satyrus_filius">
+               <name>Χορὸς Σατύρων</name>
+               <name type="variant">Χορός</name>
+               <name xml:lang="en">Chorus of Satyrs</name>
+               <idno type="wikidata">Q163709</idno>
+            </personGrp>
+            <personGrp xml:id="hemichoros-a" sex="MALE" role="semichorus_satyrus_filius" corresp="#choros-satyron">
+               <name>Ἡμιχορὸς α</name>
+               <name xml:lang="en">Semi-Chorus a</name>
+               <name type="variant">Ἡμιχορός α</name>
+               <name type="variant">Ἡμιχ. α</name>
+               <idno type="wikidata">Q163709</idno>
+            </personGrp>
+            <personGrp xml:id="hemichoros-b" sex="MALE" role="semichorus_satyrus_filius" corresp="#choros-satyron">
+               <name>Ἡμιχορὸς β</name>
+               <name xml:lang="en">Semi-Chorus b</name>
+               <name type="variant">Ἡμιχ. β</name>
+               <idno type="wikidata">Q163709</idno>
+            </personGrp>
+            <person xml:id="silenos" sex="MALE" role="satyrus_pater">
+               <persName>Σιληνός</persName>
+               <persName xml:lang="en">Silenus</persName>
+               <idno type="wikidata">Q464091</idno>
+            </person>
+            <person xml:id="kyllene" sex="FEMALE" role="dea">
+               <persName>Κυλλήνη</persName>
+               <persName xml:lang="en">Cyllene</persName>
+               <persName type="variant">κυλλήνη</persName>
+               <idno type="wikidata">Q7595427</idno>
+            </person>
+            <person xml:id="apollon" sex="MALE" role="deus">
+               <persName>Ἀπόλλων</persName>
+               <persName xml:lang="en">Apollo</persName>
+               <idno type="wikidata">Q37340</idno>
+            </person>
+            <listRelation>
+               <relation name="parent_of"
+                         active="#silenos"
+                         passive="#choros-satyron #hemichoros-a #hemichoros-b"/>
+               <relation name="associated_with"
+                         active="#silenos #choros-satyron #hemichoros-a #hemichoros-b"
+                         passive="#apollon"/>
+            </listRelation>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000019"
+         source="tlg0006/tlg011/tlg0006.tlg011.perseus-grc2.xml"
+         slug="euripides-troades"
+         slug-en="euripides-trojan-women"
+         wikidata="Q1216943"
+         textclass="Q80930">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Τρῳάδες</title>
+         <title xml:lang="la">Troades</title>
+         <title xml:lang="en">Trojan Women</title>
+         <title type="short">Tro.</title>
+         <author>
+            <persName>Εὐριπίδης</persName>
+            <persName xml:lang="la">Euripides</persName>
+            <persName xml:lang="en">Euripides</persName>
+            <idno type="wikidata">Q48305</idno>
+         </author>
+         <editor>
+            <persName>Gilbert Murray</persName>
+            <idno type="wikidata">Q538478</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" when="-0415">
+            <label>415 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Euripides. In: DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0087.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="poseidon" sex="MALE">
+               <persName>Ποσειδῶν</persName>
+               <persName xml:lang="en">Poseidon</persName>
+               <idno type="wikidata">Q41127</idno>
+            </person>
+            <person xml:id="athena" sex="FEMALE">
+               <persName>Ἀθήνα</persName>
+               <persName xml:lang="en">Athena</persName>
+               <idno type="wikidata">Q37122</idno>
+            </person>
+            <person xml:id="hekabe" sex="FEMALE">
+               <persName>Ἑκάβη</persName>
+               <persName xml:lang="en">Hecuba</persName>
+               <idno type="wikidata">Q193433</idno>
+            </person>
+            <personGrp xml:id="choros" sex="FEMALE">
+               <name>Χορός</name>
+               <name>Χορὸς Αἰχμαλωτίδων Τρῳάδων</name>
+               <name xml:lang="en">Chorus of Captive Trojan Women</name>
+            </personGrp>
+            <personGrp xml:id="hemichorion-a" sex="FEMALE" corresp="#choros">
+               <name>Ἡμιχόριον Α</name>
+               <name xml:lang="en">Semi-Chorus A</name>
+            </personGrp>
+            <personGrp xml:id="hemichorion-b" sex="FEMALE" corresp="#choros">
+               <name>Ἡμιχόριον Β</name>
+               <name xml:lang="en">Semi-Chorus B</name>
+            </personGrp>
+            <person xml:id="talthybios" sex="MALE">
+               <persName>Ταλθύβιος</persName>
+               <persName xml:lang="en">Talthybius</persName>
+               <idno type="wikidata">Q1367860</idno>
+            </person>
+            <person xml:id="kasandra" sex="FEMALE">
+               <persName>Κασάνδρα</persName>
+               <persName xml:lang="en">Cassandra</persName>
+               <idno type="wikidata">Q170779</idno>
+            </person>
+            <person xml:id="andromache" sex="FEMALE">
+               <persName>Ἀνδρομάχη</persName>
+               <persName xml:lang="en">Andromache</persName>
+               <idno type="wikidata">Q19376</idno>
+            </person>
+            <person xml:id="menelaos" sex="MALE">
+               <persName>Μενέλαος</persName>
+               <persName xml:lang="en">Menelaus</persName>
+               <idno type="wikidata">Q171839</idno>
+            </person>
+            <person xml:id="helene" sex="FEMALE">
+               <persName>Ἑλένη</persName>
+               <persName xml:lang="en">Helen</persName>
+               <idno type="wikidata">Q164061</idno>
+            </person>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000020"
+         source="tlg0085/tlg001/tlg0085.tlg001.perseus-grc2.xml"
+         slug="aeschylus-supplices"
+         slug-en="aeschylus-suppliant-women"
+         wikidata="Q1216139"
+         textclass="Q80930">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Ἱκέτιδες</title>
+         <title xml:lang="la">Supplices</title>
+         <title xml:lang="en">Suppliant Women</title>
+         <title type="short">Suppl.</title>
+         <author>
+            <persName>Αἰσχύλος</persName>
+            <persName xml:lang="la">Aeschylus</persName>
+            <persName xml:lang="en">Aeschylus</persName>
+            <idno type="wikidata">Q40939</idno>
+         </author>
+         <editor>
+            <persName>Herbert Weir Smyth</persName>
+            <idno type="wikidata">Q471925</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" notBefore="-0465" notAfter="-0460">
+            <label>465–460 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Aeschylus of Athens. In: DNP Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0006.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <personGrp xml:id="choros-danaidon" sex="FEMALE" role="chorus">
+               <name>Χορὸς Δαναΐδων</name>
+               <name type="variant">Χορός</name>
+               <name type="variant">Χορός Δαναΐδων</name>
+               <name xml:lang="en">Chorus of the Daughters of Danaus</name>
+               <name type="variant">[Χορός]</name>
+               <name type="variant">&lt;Χορός &gt;</name>
+               <name type="variant">&lt;Χορός&gt;</name>
+               <name type="variant">Χορός &lt;Δαναΐδων&gt;</name>
+               <idno type="wikidata">Q724907</idno>
+            </personGrp>
+            <person xml:id="danaos" role="rex pater" sex="MALE">
+               <persName>Δαναός</persName>
+               <persName xml:lang="en">Danaus</persName>
+               <idno type="wikidata">Q210883</idno>
+            </person>
+            <person xml:id="basileus" role="rex" sex="MALE">
+               <persName>Βασιλεύς</persName>
+               <persName type="variant">Βασιλεύς Ἀργεΐων</persName>
+               <persName xml:lang="en">Pelasgus, King of Argus</persName>
+               <persName type="variant">βασιλεύς</persName>
+               <persName type="variant">&lt;Βασιλεύς&gt;</persName>
+               <idno type="wikidata">Q1636827</idno>
+            </person>
+            <person xml:id="keryx" sex="MALE" role="praeco">
+               <persName>Κῆρυξ</persName>
+               <persName xml:lang="en">Herald of the Sons of Aegyptus</persName>
+               <persName type="variant">&lt;Κῆρυξ&gt;</persName>
+            </person>
+            <personGrp xml:id="choros-therapainon" sex="FEMALE" role="chorus_ancilla">
+               <name>Χορὸς Θεραπαινῶν</name>
+               <name type="variant">Χορός Θεραπαινῶν</name>
+               <name xml:lang="en">Chorus of Handmaidens</name>
+               <name type="variant">&lt;Χορός Θεραπαινῶν&gt;</name>
+               <name type="variant">&lt;Χορός&gt;</name>
+            </personGrp>
+            <person xml:id="danais" sex="FEMALE" role="filia" corresp="#choros-danaidon">
+               <persName>Δαναΐς</persName>
+               <persName xml:lang="en">A Danaid</persName>
+               <persName type="variant">&lt;Δαναΐς&gt;</persName>
+               <idno type="wikidata">Q724907</idno>
+            </person>
+            <person xml:id="therapaina" sex="FEMALE" role="ancilla" corresp="choros-therapainon">
+               <persName>Θεράπαινα</persName>
+               <persName xml:lang="en">A Handmaiden</persName>
+               <persName type="variant">&lt;Θεράπαινα&gt;</persName>
+            </person>
+            <listRelation>
+               <relation name="parent_of"
+                         active="#danaos"
+                         passive="#choros-danaidon #danais"/>
+               <relation name="related_with"
+                         active="#choros-danaidon #danais #danaos"
+                         passive="#basileus"/>
+               <relation name="associated_with"
+                         active="#choros-therapainon #therapaina"
+                         passive="choros-danaidon #danais"/>
+            </listRelation>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000021"
+         source="tlg0011/tlg005/tlg0011.tlg005.perseus-grc2.xml"
+         slug="sophocles-electra"
+         wikidata="Q733444"
+         textclass="Q80930">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Ἠλέκτρα</title>
+         <title xml:lang="la">Electra</title>
+         <title xml:lang="en">Electra</title>
+         <title type="short">El.</title>
+         <author>
+            <persName>Σοφοκλῆς</persName>
+            <persName xml:lang="la">Sophocles</persName>
+            <persName xml:lang="en">Sophocles</persName>
+            <idno type="wikidata">Q7235</idno>
+         </author>
+         <editor>
+            <persName>F. Storr</persName>
+            <idno type="wikidata">Q16861781</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" notBefore="-0414" notAfter="-0411">
+            <label>414–411 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Sophocles. In:DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0204.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="paidagogos" sex="MALE" role="paedagogus">
+               <persName>Παιδαγωγός</persName>
+               <persName xml:lang="en">Old Slave</persName>
+               <idno type="wikidata">Q1367860</idno>
+            </person>
+            <person xml:id="orestes" sex="MALE" role="filius">
+               <persName>Ὀρέστης</persName>
+               <persName xml:lang="en">Orestes</persName>
+               <idno type="wikidata">Q192407</idno>
+            </person>
+            <person xml:id="elektra" sex="FEMALE" role="filia">
+               <persName>Ἠλέκτρα</persName>
+               <persName xml:lang="en">Electra</persName>
+               <idno type="wikidata">Q131651</idno>
+            </person>
+            <personGrp xml:id="choros" sex="FEMALE" role="chorus_virgo">
+               <name>Χορός</name>
+               <name xml:lang="en">Chorus of Mycenean Women</name>
+            </personGrp>
+            <person xml:id="chrysothemis" sex="FEMALE" role="filia">
+               <persName>Χρυσόθεμις</persName>
+               <persName xml:lang="en">Chrysothemis</persName>
+               <idno type="wikidata">Q1146076</idno>
+            </person>
+            <person xml:id="klytaimnestra" sex="FEMALE" role="uxor mater regina">
+               <persName>Κλυταιμνήστρα</persName>
+               <persName xml:lang="en">Clytemnestra</persName>
+               <idno type="wikidata">Q131157</idno>
+            </person>
+            <person xml:id="aigisthos" sex="MALE" role="rex">
+               <persName>Αἴγισθος</persName>
+               <persName xml:lang="en">Aegisthus</persName>
+               <idno type="wikidata">Q212091</idno>
+            </person>
+            <listRelation>
+               <relation name="associated_with" active="#paidagogos" passive="#orestes"/>
+               <relation name="siblings" mutual="#orestes #elektra #chrysothemis"/>
+               <relation name="parent_of"
+                         active="#klytaimnestra"
+                         passive="#orestes #elektra #chrysothemis"/>
+               <relation name="lover_of" active="#aigisthos" passive="#klytaimnestra"/>
+            </listRelation>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000022"
+         source="tlg0085/tlg002/tlg0085.tlg002.perseus-grc2.xml"
+         slug="aeschylus-persae"
+         slug-en="aeschylus-persians"
+         wikidata="Q788458"
+         textclass="Q80930">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Πέρσαι</title>
+         <title xml:lang="la">Persae</title>
+         <title xml:lang="en">Persians</title>
+         <title type="short">Pers.</title>
+         <author>
+            <persName>Αἰσχύλος</persName>
+            <persName xml:lang="la">Aeschylus</persName>
+            <persName xml:lang="en">Aeschylus</persName>
+            <idno type="wikidata">Q40939</idno>
+         </author>
+         <editor>
+            <persName>Herbert Weir Smyth</persName>
+            <idno type="wikidata">Q471925</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" when="-0472">
+            <label>472 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Aeschylus of Athens. In: DNP Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0006.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <personGrp xml:id="choros" sex="MALE" role="chorus_senex">
+               <name>Χορός</name>
+               <name type="variant">Χορὸς Γερόντων</name>
+               <name xml:lang="en">Chorus of Persian Elders</name>
+            </personGrp>
+            <person xml:id="atossa" sex="FEMALE" role="uxor">
+               <persName>Ἄτοσσα</persName>
+               <persName xml:lang="en">Atossa</persName>
+               <idno type="wikidata">Q233359</idno>
+            </person>
+            <person xml:id="angelos" sex="MALE" role="nuntius">
+               <persName>Ἄγγελος</persName>
+               <persName xml:lang="en">A Messenger</persName>
+            </person>
+            <person xml:id="eidolon-dareiou" sex="MALE" role="rex">
+               <persName>Εἴδωλον Δαρείου</persName>
+               <persName type="variant">Δαρεῖος</persName>
+               <persName xml:lang="en">Ghost of Darius</persName>
+               <idno type="wikidata">Q44387</idno>
+            </person>
+            <person xml:id="xerxes" sex="MALE" role="rex">
+               <persName>Ξέρξης</persName>
+               <persName xml:lang="en">Xerxes</persName>
+               <idno type="wikidata">Q129165</idno>
+            </person>
+            <listRelation>
+               <relation name="#choros" passive="#xerxes"/>
+               <relation name="spouses" mutual="#atossa #eidolon-dareiou"/>
+               <relation name="parent_of"
+                         active="#atossa #eidolon-dareiou"
+                         passive="#xerxes"/>
+               <relation name="associated_with" active="#angelos" passive="#atossa"/>
+            </listRelation>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000023"
+         source="tlg0006/tlg016/tlg0006.tlg016.perseus-grc2.xml"
+         slug="euripides-orestes"
+         wikidata="Q663886"
+         textclass="Q80930">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Ὀρέστης</title>
+         <title xml:lang="la">Orestes</title>
+         <title xml:lang="en">Orestes</title>
+         <title type="short">Or.</title>
+         <author>
+            <persName>Εὐριπίδης</persName>
+            <persName xml:lang="la">Euripides</persName>
+            <persName xml:lang="en">Euripides</persName>
+            <idno type="wikidata">Q48305</idno>
+         </author>
+         <editor>
+            <persName>Gilbert Murray</persName>
+            <idno type="wikidata">Q538478</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" when="-0408">
+            <label>408 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Euripides. In: DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0087.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="elektra" sex="FEMALE">
+               <persName>Ἠλέκτρα</persName>
+               <persName xml:lang="en">Electra</persName>
+               <idno type="wikidata">Q131651</idno>
+            </person>
+            <person xml:id="helene" sex="FEMALE">
+               <persName>Ἑλένη</persName>
+               <persName xml:lang="en">Helen</persName>
+               <idno type="wikidata">Q164061</idno>
+            </person>
+            <personGrp xml:id="choros" sex="FEMALE">
+               <name>Χορός</name>
+               <name xml:lang="en">Chorus of Argive Women</name>
+               <name type="variant">[Χορός ]</name>
+            </personGrp>
+            <personGrp xml:id="hemichoros-a" sex="FEMALE" corresp="#choros">
+               <name>Ἡμίχορος A</name>
+               <name xml:lang="en">First Semi-Chorus</name>
+               <name type="variant">Ἡμίχορος</name>
+            </personGrp>
+            <personGrp xml:id="hemichoros-b" sex="FEMALE" corresp="#choros">
+               <name>Ἡμίχορος B</name>
+               <name xml:lang="en">Second Semi-Chorus</name>
+               <name type="variant">Ἡμίχορος</name>
+            </personGrp>
+            <person xml:id="orestes" sex="MALE">
+               <persName>Ὀρέστης</persName>
+               <persName xml:lang="en">Orestes</persName>
+               <idno type="wikidata">Q192407</idno>
+            </person>
+            <person xml:id="menelaos">
+               <persName>Μενέλαος</persName>
+               <persName xml:lang="en">Menelaus</persName>
+               <idno type="wikidata">Q171839</idno>
+            </person>
+            <person xml:id="tyndareos" sex="MALE">
+               <persName>Τυνδάρεως</persName>
+               <persName xml:lang="en">Tyndareus</persName>
+               <idno type="wikidata">Q192946</idno>
+            </person>
+            <person xml:id="pylades" sex="MALE">
+               <persName>Πυλάδης</persName>
+               <persName xml:lang="en">Pylades</persName>
+               <idno type="wikidata">Q494886</idno>
+            </person>
+            <person xml:id="angelos" sex="MALE">
+               <persName>Ἄγγελος</persName>
+               <persName xml:lang="en">Messenger</persName>
+            </person>
+            <person xml:id="hermione" sex="FEMALE">
+               <persName>Ἑρμιόνη</persName>
+               <persName xml:lang="en">Hermione</persName>
+               <persName type="variant">Ερμιόνη</persName>
+               <idno type="wikidata">Q658523</idno>
+            </person>
+            <person xml:id="phryx" sex="MALE">
+               <persName>Φρύξ</persName>
+               <persName xml:lang="en">Phrygian Slave</persName>
+            </person>
+            <person xml:id="apollon" sex="MALE">
+               <persName>Ἀπόλλων</persName>
+               <persName xml:lang="en">Apollo</persName>
+               <idno type="wikidata">Q37340</idno>
+            </person>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000024"
+         source="tlg0011/tlg001/tlg0011.tlg001.perseus-grc2.xml"
+         slug="sophocles-trachiniae"
+         wikidata="Q945342"
+         textclass="Q80930">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Τραχίνιαι</title>
+         <title xml:lang="la">Trachiniae</title>
+         <title xml:lang="en">Trachiniae</title>
+         <title type="short">Trach.</title>
+         <author>
+            <persName>Σοφοκλῆς</persName>
+            <persName xml:lang="la">Sophocles</persName>
+            <persName xml:lang="en">Sophocles</persName>
+            <idno type="wikidata">Q7235</idno>
+         </author>
+         <editor>
+            <persName>F. Storr</persName>
+            <idno type="wikidata">Q16861781</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" when="-0445">
+            <label>445 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Sophocles. In:DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0204.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="deianeira" sex="FEMALE" role="uxor">
+               <persName>Δηιάνειρα</persName>
+               <persName xml:lang="en">Deianira</persName>
+               <idno type="wikidata">Q272000</idno>
+            </person>
+            <person xml:id="therapaina" sex="FEMALE" role="ancilla nutrix">
+               <persName>Θεράπαινα</persName>
+               <persName type="variant">Τροφός</persName>
+               <persName xml:lang="en">A Nurse</persName>
+            </person>
+            <person xml:id="hyllos" sex="MALE" role="filius">
+               <persName>Ὕλλος</persName>
+               <persName xml:lang="en">Hyllus</persName>
+               <idno type="wikidata">Q847268</idno>
+            </person>
+            <personGrp xml:id="choros" sex="FEMALE" role="chorus_virgo">
+               <name>Χορός</name>
+               <name type="variant">Χορὸς Παρθενών Τραχινίων</name>
+               <name xml:lang="en">Chorus of Trachinian Maidens</name>
+               <name type="variant">Ἡμιχόριον</name>
+            </personGrp>
+            <personGrp xml:id="hemichorion-1"
+                       sex="FEMALE"
+                       role="semichorus_virgo"
+                       corresp="#choros">
+               <name>Ἡμιχόριον 1</name>
+               <name xml:lang="en">Semi-Chorus 1</name>
+            </personGrp>
+            <personGrp xml:id="hemichorion-2"
+                       sex="FEMALE"
+                       role="semichorus_virgo"
+                       corresp="#choros">
+               <name>Ἡμιχόριον 2</name>
+               <name xml:lang="en">Semi-Chorus 2</name>
+            </personGrp>
+            <person xml:id="angelos" sex="MALE" role="nuntius">
+               <persName>Ἄγγελος</persName>
+               <persName xml:lang="en">A Messenger</persName>
+            </person>
+            <person xml:id="lichas" sex="MALE" role="servus">
+               <persName>Λίχας</persName>
+               <persName xml:lang="en">Lichas</persName>
+               <idno type="wikidata">Q922330</idno>
+            </person>
+            <person xml:id="presbys" sex="MALE" role="senex">
+               <persName>Πρέσβυς</persName>
+               <persName xml:lang="en">An Old Man</persName>
+            </person>
+            <person xml:id="herakles" sex="MALE" role="heros">
+               <persName>Ἡρακλῆς</persName>
+               <persName xml:lang="en">Heracles</persName>
+               <idno type="wikidata">Q122248</idno>
+            </person>
+            <listRelation>
+               <relation name="associated_with" active="#therapaina" passive="#deianeira"/>
+               <relation name="spouses" mutual="#deianeira #herakles"/>
+               <relation name="parent_of" active="#deianeira #herakles" passive="#hyllos"/>
+               <relation name="associated_with" active="#angelos" passive="#herakles"/>
+               <relation name="associated_with" active="#lichas" passive="#herakles"/>
+            </listRelation>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000025"
+         source="tlg0011/tlg002/tlg0011.tlg002.perseus-grc2.xml"
+         slug="sophocles-antigone"
+         wikidata="Q241077"
+         textclass="Q80930">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Ἀντιγόνη</title>
+         <title xml:lang="la">Antigone</title>
+         <title xml:lang="en">Antigone</title>
+         <title type="short">Ant.</title>
+         <author>
+            <persName>Σοφοκλῆς</persName>
+            <persName xml:lang="la">Sophocles</persName>
+            <persName xml:lang="en">Sophocles</persName>
+            <idno type="wikidata">Q7235</idno>
+         </author>
+         <editor>
+            <persName>F. Storr</persName>
+            <idno type="wikidata">Q16861781</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" notBefore="-0442" notAfter="-0440">
+            <label>442–440 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Sophocles. In:DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0204.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="antigone" sex="FEMALE" role="soror">
+               <persName>Ἀντιγόνη</persName>
+               <persName xml:lang="en">Antigone</persName>
+               <idno type="wikidata">Q131351</idno>
+            </person>
+            <person xml:id="ismene" sex="FEMALE" role="soror">
+               <persName>Ἰσμήνη</persName>
+               <persName xml:lang="en">Ismene</persName>
+               <idno type="wikidata">Q753902</idno>
+            </person>
+            <personGrp xml:id="choros" sex="MALE" role="chorus_senex">
+               <name>Χορός</name>
+               <name xml:lang="en">Chorus of Theban Elders</name>
+            </personGrp>
+            <person xml:id="kreon" sex="MALE" role="rex">
+               <persName>Κρέων</persName>
+               <persName xml:lang="en">Creon</persName>
+               <idno type="wikidata">Q732066</idno>
+            </person>
+            <person xml:id="phylax" sex="MALE" role="custos">
+               <persName>Φύλαξ</persName>
+               <persName xml:lang="en">A Watchman</persName>
+            </person>
+            <person xml:id="haimon" sex="MALE" role="filius">
+               <persName>Αἵμων</persName>
+               <persName xml:lang="en">Haemon</persName>
+               <idno type="wikidata">Q733985</idno>
+            </person>
+            <person xml:id="teiresias" sex="MALE" role="vates senex">
+               <persName>Τειρεσίας</persName>
+               <persName xml:lang="en">Teiresias</persName>
+               <idno type="wikidata">Q656881</idno>
+            </person>
+            <person xml:id="angelos" sex="MALE" role="nuntius">
+               <persName>Ἄγγελος</persName>
+               <persName xml:lang="en">A Messenger</persName>
+            </person>
+            <person xml:id="eurydike" sex="FEMALE" role="uxor">
+               <persName>Εὐρυδίκη</persName>
+               <persName xml:lang="en">Eurydice</persName>
+               <idno type="wikidata">Q1378457</idno>
+            </person>
+            <person xml:id="exangelos" sex="MALE" role="nuntius">
+               <persName>Ἐξάγγελος</persName>
+               <persName xml:lang="en">A Second Messenger</persName>
+            </person>
+            <listRelation>
+               <relation name="siblings" mutual="#antigone #ismene"/>
+               <relation name="spouses" mutual="#antigone #haimon"/>
+               <relation name="spouses" mutual="#kreon #eurydike"/>
+               <relation name="parent_of" active="#kreon #eurydike" passive="#haimon"/>
+               <relation name="related_with" active="#antigone #ismene" passive="#kreon"/>
+               <relation name="associated_with" active="#phylax" passive="#kreon"/>
+               <relation name="associated_with" active="#exangelos" passive="#kreon"/>
+               <relation name="associated_with" active="#angelos" passive="#kreon #eurydike"/>
+            </listRelation>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000026"
+         source="tlg0085/tlg005/tlg0085.tlg005.perseus-grc2.xml"
+         slug="aeschylus-agamemnon"
+         wikidata="Q3320792"
+         textclass="Q80930">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Ἀγαμέμνων</title>
+         <title xml:lang="la">Agamemnon</title>
+         <title xml:lang="en">Agamemnon</title>
+         <title type="short">Ag.</title>
+         <author>
+            <persName>Αἰσχύλος</persName>
+            <persName xml:lang="la">Aeschylus</persName>
+            <persName xml:lang="en">Aeschylus</persName>
+            <idno type="wikidata">Q40939</idno>
+         </author>
+         <editor>
+            <persName>Herbert Weir Smyth</persName>
+            <idno type="wikidata">Q471925</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" when="-0458">
+            <label>458 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Aeschylus of Athens. In: DNP Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0006.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="phylax" sex="MALE" role="custos">
+               <persName>Φύλαξ</persName>
+               <persName xml:lang="en">A Watchman</persName>
+            </person>
+            <personGrp xml:id="choros" sex="MALE" role="chorus_senex">
+               <name>Χορός</name>
+               <name xml:lang="en">Chorus of Argive Elders</name>
+            </personGrp>
+            <person xml:id="klytaimestra" sex="FEMALE" role="uxor mater regina">
+               <persName>Κλυταιμήστρα</persName>
+               <persName xml:lang="en">Clytaemnestra</persName>
+               <idno type="wikidata">Q131157</idno>
+            </person>
+            <person xml:id="keryx" sex="MALE" role="praeco">
+               <persName>Κῆρυξ</persName>
+               <persName xml:lang="en">A Herald</persName>
+            </person>
+            <person xml:id="agamemnon" sex="MALE" role="rex heros">
+               <persName>Ἀγαμέμνων</persName>
+               <persName xml:lang="en">Agamemnon</persName>
+               <idno type="wikidata">Q128176</idno>
+            </person>
+            <person xml:id="kasandra" sex="FEMALE" role="captiva virgo">
+               <persName>Κασάνδρα</persName>
+               <persName xml:lang="en">Cassandra</persName>
+               <idno type="wikidata">Q170779</idno>
+            </person>
+            <person xml:id="aigisthos" sex="MALE" role="rex">
+               <persName>Αἴγισθος</persName>
+               <persName xml:lang="en">Aegisthus</persName>
+               <idno type="wikidata">Q212091</idno>
+            </person>
+            <listRelation>
+               <relation name="associated_with" active="#phylax" passive="#agamemnon"/>
+               <relation name="associated_with" active="#keryx" passive="#agamemnon"/>
+               <relation name="associated_with" active="#kasandra" passive="#agamemnon"/>
+               <relation name="related_with" active="#aigisthos" passive="#agamemnon"/>
+               <relation name="lover_of" active="#aigisthos" passive="#klytaimestra"/>
+            </listRelation>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000027"
+         source="tlg0019/tlg010/tlg0019.tlg010.perseus-grc2.xml"
+         slug="aristophanes-ecclesiazusae"
+         wikidata="Q608261"
+         textclass="Q40831">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Ἐκκλησιάζουσαι</title>
+         <title xml:lang="la">Ecclesiazusae</title>
+         <title xml:lang="en">Ecclesiazusae</title>
+         <title type="short">Eccl.</title>
+         <author>
+            <persName>Ἀριστοφάνης</persName>
+            <persName xml:lang="la">Aristophanes</persName>
+            <persName xml:lang="en">Aristophanes</persName>
+            <idno type="wikidata">Q43353</idno>
+         </author>
+         <editor>
+            <persName>F. W. Hall</persName>
+            <idno type="wikidata">Q5499076</idno>
+         </editor>
+         <editor>
+            <persName>W. M. Geldart</persName>
+            <idno type="wikidata">Q8015194</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" notBefore="-0393" notAfter="-0391">
+            <label>393–391 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Aristophanes of Athens. In: DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0032.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="praxagora" sex="FEMALE" role="uxor">
+               <persName>Πραξάγορα</persName>
+               <persName xml:lang="en">Praxagora</persName>
+            </person>
+            <person xml:id="gyne-a" sex="FEMALE" role="uxor">
+               <persName>Γυνὴ Α</persName>
+               <persName xml:lang="en">First Woman</persName>
+            </person>
+            <person xml:id="gyne-b" sex="FEMALE" role="uxor">
+               <persName>Γυνὴ Β</persName>
+               <persName xml:lang="en">Second Woman</persName>
+            </person>
+            <person xml:id="gyne-g" sex="FEMALE" role="uxor">
+               <persName>Γυνὴ Γ</persName>
+               <persName xml:lang="en">Third Woman</persName>
+            </person>
+            <personGrp xml:id="choros" sex="FEMALE" role="chorus_uxor">
+               <name>Χορός</name>
+               <name type="variant">Χορὸς γυναικῶν</name>
+               <name xml:lang="en">Chorus of Athenian Women</name>
+               <name type="variant">Χορὸς</name>
+            </personGrp>
+            <person xml:id="blepyros" sex="MALE" role="maritus">
+               <persName>Βλέπυρος</persName>
+               <persName xml:lang="en">Blepyrus</persName>
+            </person>
+            <person xml:id="aner" sex="MALE" role="vir">
+               <persName>Ἀνήρ</persName>
+               <persName xml:lang="en">A Man (A Neighbour of Blebyrus)</persName>
+            </person>
+            <person xml:id="aner-a" sex="MALE" role="vir">
+               <persName>Ἀνὴρ Α</persName>
+               <persName xml:lang="en">First Man</persName>
+            </person>
+            <person xml:id="aner-b" sex="MALE" role="vir">
+               <persName>Ἀνὴρ Β</persName>
+               <persName xml:lang="en">Second Man</persName>
+            </person>
+            <person xml:id="chremes" sex="MALE" role="senex">
+               <persName>Χρέμης</persName>
+               <persName xml:lang="en">Chremes</persName>
+            </person>
+            <person xml:id="kerykaina" sex="FEMALE" role="praeco">
+               <persName>Κηρύκαινα</persName>
+               <persName xml:lang="en">A Herald</persName>
+            </person>
+            <person xml:id="graus-a" sex="FEMALE" role="anus">
+               <persName>Γραῦς Α</persName>
+               <persName xml:lang="en">First Old Woman</persName>
+            </person>
+            <person xml:id="graus-b" sex="FEMALE" role="anus">
+               <persName>Γραῦς Β</persName>
+               <persName xml:lang="en">Second Old Woman</persName>
+            </person>
+            <person xml:id="graus-g" sex="FEMALE" role="anus">
+               <persName>Γραῦς Γ</persName>
+               <persName xml:lang="en">Third Old Woman</persName>
+            </person>
+            <person xml:id="neanis" sex="MALE" role="virgo">
+               <persName>Νεᾶνις</persName>
+               <persName xml:lang="en">A Young Woman</persName>
+            </person>
+            <person xml:id="neanias" sex="MALE" role="adulescens">
+               <persName>Νεανίας</persName>
+               <persName xml:lang="en">A Young Man</persName>
+            </person>
+            <person xml:id="therapaina" sex="FEMALE" role="ancilla">
+               <persName>Θεραπαίνα</persName>
+               <persName xml:lang="en">A Slave</persName>
+            </person>
+            <listRelation>
+               <relation name="spouses" mutual="#praxagora #blepyros"/>
+               <relation name="associated_with" active="#therapaina" passive="#praxagora"/>
+            </listRelation>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000028"
+         source="tlg0006/tlg018/tlg0006.tlg018.perseus-grc2.xml"
+         slug="euripides-iphigenia-aulidensis"
+         slug-en="euripides-iphigenia-in-aulis"
+         wikidata="Q1233770"
+         textclass="Q80930">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Ἰφιγένεια ἐν Αὐλίδι</title>
+         <title xml:lang="la">Iphigenia Aulidensis</title>
+         <title xml:lang="en">Iphigenia in Aulis</title>
+         <title type="short">Iph. A.</title>
+         <author>
+            <persName>Εὐριπίδης</persName>
+            <persName xml:lang="la">Euripides</persName>
+            <persName xml:lang="en">Euripides</persName>
+            <idno type="wikidata">Q48305</idno>
+         </author>
+         <editor>
+            <persName>Gilbert Murray</persName>
+            <idno type="wikidata">Q538478</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" notBefore="-0405">
+            <label>after 406 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Euripides. In: DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0087.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="agamemnon" sex="MALE">
+               <persName>Ἀγαμέμνων</persName>
+               <persName xml:lang="en">Agamemnon</persName>
+               <idno type="wikidata">Q128176</idno>
+            </person>
+            <person xml:id="presbytes" sex="MALE">
+               <persName>Πρεσβύτης</persName>
+               <persName xml:lang="en">Old Male Slave</persName>
+            </person>
+            <personGrp xml:id="choros" sex="FEMALE">
+               <name>Χορός</name>
+               <name xml:lang="en">Chorus of Euboean Women</name>
+            </personGrp>
+            <person xml:id="menelaos" sex="MALE">
+               <persName>Μενέλαος</persName>
+               <persName xml:lang="en">Menelaus</persName>
+               <idno type="wikidata">Q171839</idno>
+            </person>
+            <person xml:id="angelos-a" sex="MALE">
+               <persName>Αγγελος Α</persName>
+               <persName xml:lang="en">First Messenger</persName>
+            </person>
+            <personGrp xml:id="choros-andron-argeion" sex="MALE">
+               <name>Χορὸς ἀνδρῶν Ἀργείων</name>
+               <name xml:lang="en">Chorus of Argive Men</name>
+               <name type="variant">Χορός ανδρων Αργειων</name>               
+            </personGrp>
+            <person xml:id="klytaimestra" sex="FEMALE">
+               <persName>Κλυταιμήστρα</persName>
+               <persName xml:lang="en">Clytaemestra</persName>
+               <idno type="wikidata">Q131157</idno>
+            </person>
+            <person xml:id="iphigeneia" sex="FEMALE">
+               <persName>Ἰφιγένεια</persName>
+               <persName xml:lang="en">Iphigenia</persName>
+               <idno type="wikidata">Q192673</idno>
+            </person>
+            <person xml:id="achilleus" sex="MALE">
+               <persName>Ἀχιλλεύς</persName>
+               <persName xml:lang="en">Achilles</persName>
+               <idno type="wikidata">Q41746</idno>
+            </person>
+            <person xml:id="angelos" sex="MALE">
+               <persName>Ἄγγελος</persName>
+               <persName type="variant">Ἄγγελος B</persName>
+               <persName xml:lang="en">Second Messenger</persName>
+            </person>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000029"
+         source="tlg0006/tlg014/tlg0006.tlg014.perseus-grc2.xml"
+         slug="euripides-helena"
+         slug-en="euripides-helen"
+         wikidata="Q1248812"
+         textclass="Q80930">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Ἑλένη</title>
+         <title xml:lang="la">Helena</title>
+         <title xml:lang="en">Helen</title>
+         <title type="short">Hel.</title>
+         <author>
+            <persName>Εὐριπίδης</persName>
+            <persName xml:lang="la">Euripides</persName>
+            <persName xml:lang="en">Euripides</persName>
+            <idno type="wikidata">Q48305</idno>
+         </author>
+         <editor>
+            <persName>Gilbert Murray</persName>
+            <idno type="wikidata">Q538478</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" when="-0412">
+            <label>412 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Euripides. In: DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0087.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="helene" sex="FEMALE">
+               <persName>Ἑλένη</persName>
+               <persName xml:lang="en">Helen</persName>
+               <idno type="wikidata">Q164061</idno>
+            </person>
+            <person xml:id="teukros" sex="MALE">
+               <persName>Τεῦκρος</persName>
+               <persName xml:lang="en">Teucer</persName>
+               <idno type="wikidata">Q878184</idno>
+            </person>
+            <personGrp xml:id="choros" sex="FEMALE">
+               <name>Χορός</name>
+               <name xml:lang="en">Chorus of Captive Greek Woman in Egypt</name>
+            </personGrp>
+            <person xml:id="meneleos" sex="MALE">
+               <persName>Μενελέως</persName>
+               <persName xml:lang="en">Menelaus</persName>
+               <persName type="variant">&lt;Μενελέως</persName>
+               <idno type="wikidata">Q171839</idno>
+            </person>
+            <person xml:id="graus" sex="FEMALE">
+               <persName>Γραῦς</persName>
+               <persName xml:lang="en">Old Woman</persName>
+            </person>
+            <!-- check in new Loeb edition -->
+            <person xml:id="angelos" sex="MALE">
+               <persName>Ἄγγελος</persName>
+               <persName xml:lang="en">Messenger</persName>
+            </person>
+            <person xml:id="theonoe" sex="FEMALE">
+               <persName>Θεονόη</persName>
+               <persName xml:lang="en">Theonoe</persName>
+               <idno type="wikidata">Q16217794</idno>
+            </person>
+            <person xml:id="theoklymenos" sex="MALE">
+               <persName>Θεοκλύμενος</persName>
+               <persName xml:lang="en">Theoclymenus</persName>
+               <idno type="wikidata">Q3983831</idno>
+            </person>
+            <!-- check in new Loeb edition -->
+            <person xml:id="therapon" sex="MALE">
+               <persName>Θεράπων</persName>
+               <persName xml:lang="en">Slave</persName>
+            </person>
+            <person xml:id="dioskoroi" sex="MALE">
+               <persName>Διόσκοροι</persName>
+               <persName xml:lang="en">Dioscures</persName>
+               <idno type="wikidata">Q190103</idno>
+            </person>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000030"
+         source="tlg0006/tlg015/tlg0006.tlg015.perseus-grc2.xml"
+         slug="euripides-phoenissae"
+         wikidata="Q1233660"
+         textclass="Q80930">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Φοίνισσαι</title>
+         <title xml:lang="la">Phoenissae</title>
+         <title xml:lang="en">Phoenissae</title>
+         <title type="short">Phoen.</title>
+         <author>
+            <persName>Εὐριπίδης</persName>
+            <persName xml:lang="la">Euripides</persName>
+            <persName xml:lang="en">Euripides</persName>
+            <idno type="wikidata">Q48305</idno>
+         </author>
+         <editor>
+            <persName>Gilbert Murray</persName>
+            <idno type="wikidata">Q538478</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" when="-0411">
+            <label>411 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Euripides. In: DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0087.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="iokaste" sex="FEMALE">
+               <persName>Ἰοκάστη</persName>
+               <persName xml:lang="en">Jocasta</persName>
+               <idno type="wikidata">Q131445</idno>
+            </person>
+            <person xml:id="paidagogos" sex="MALE">
+               <persName>Παιδαγωγός</persName>
+               <persName xml:lang="en">Old Slave</persName>
+            </person>
+            <person xml:id="antigone" sex="FEMALE">
+               <persName>Ἀντιγόνη</persName>
+               <persName xml:lang="en">Antigone</persName>
+               <persName type="variant">[Ἀντιγόνη ]</persName>
+               <idno type="wikidata">Q131351</idno>
+            </person>
+            <personGrp xml:id="choros" sex="UNKNOWN">
+               <name>Χορός</name>
+               <name type="variant">Χορὸς ἐκ Φοινισσῶν</name>
+               <name xml:lang="en">Chorus of Phoenician Temple Slaves</name>
+            </personGrp>
+            <person xml:id="polyneikes" sex="MALE">
+               <persName>Πολυνείκης</persName>
+               <persName xml:lang="en">Polynices</persName>
+               <idno type="wikidata">Q334817</idno>
+            </person>
+            <person xml:id="eteokles" sex="MALE">
+               <persName>Ἐτεοκλῆς</persName>
+               <persName xml:lang="en">Eteocles</persName>
+               <idno type="wikidata">Q506550</idno>
+            </person>
+            <person xml:id="kreon" sex="MALE">
+               <persName>Κρέων</persName>
+               <persName xml:lang="en">Creon</persName>
+               <idno type="wikidata">Q732066</idno>
+            </person>
+            <person xml:id="teiresias" sex="MALE">
+               <persName>Τειρεσίας</persName>
+               <persName xml:lang="en">Teiresias</persName>
+               <idno type="wikidata">Q656881</idno>
+            </person>
+            <person xml:id="menoikeus" sex="MALE">
+               <persName>Μενοικεύς</persName>
+               <persName xml:lang="en">Menoeceus</persName>
+               <idno type="wikidata">Q744871</idno>
+            </person>
+            <person xml:id="angelos" sex="MALE">
+               <persName>Ἄγγελος</persName>
+               <persName xml:lang="en">Messenger</persName>
+            </person>
+            <person xml:id="heteros-angelos" sex="MALE">
+               <persName>Ἕτερος Ἄγγελος</persName>
+               <persName xml:lang="en">Another Messenger</persName>
+               <persName type="variant">Ἄγγελος</persName>
+            </person>
+            <person xml:id="oidipous" sex="MALE">
+               <persName>Οἰδίπους</persName>
+               <persName xml:lang="en">Oedipus</persName>
+               <idno type="wikidata">Q130890</idno>
+            </person>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000031"
+         source="tlg0006/tlg019/tlg0006.tlg019.perseus-grc2.xml"
+         slug="euripides-rhesus"
+         wikidata="Q667750"
+         textclass="Q80930">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Ῥῆσος</title>
+         <title xml:lang="la">Rhesus</title>
+         <title xml:lang="en">Rhesus</title>
+         <title type="short">Rhes.</title>
+         <author>
+            <persName>Εὐριπίδης</persName>
+            <persName xml:lang="la">Euripides</persName>
+            <persName xml:lang="en">Euripides</persName>
+            <idno type="wikidata">Q48305</idno>
+         </author>
+         <editor>
+            <persName>Gilbert Murray</persName>
+            <idno type="wikidata">Q538478</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" notBefore="-0485" notAfter="-0406">
+            <label>485–406 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Euripides. In: DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0087.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <personGrp xml:id="choros" sex="MALE">
+               <name>Χορός</name>
+               <name type="variant">Χορὸς Φυλακών</name>
+               <name xml:lang="en">Chorus of Trojan Soldiers</name>
+            </personGrp>
+            <person xml:id="hektor" sex="MALE">
+               <persName>Ἕκτωρ</persName>
+               <persName xml:lang="en">Hector</persName>
+               <idno type="wikidata">Q159666</idno>
+            </person>
+            <person xml:id="aineias" sex="MALE">
+               <persName>Αἰνείας</persName>
+               <persName xml:lang="en">Aeneas</persName>
+               <idno type="wikidata">Q82732</idno>
+            </person>
+            <person xml:id="dolon" sex="MALE">
+               <persName>Δόλων</persName>
+               <persName xml:lang="en">Dolon</persName>
+               <idno type="wikidata">Q854056</idno>
+            </person>
+            <person xml:id="angelos" sex="MALE">
+               <persName>Ἄγγελος</persName>
+               <persName type="variant">Ἄγγελος Ποιμήν</persName>
+               <persName xml:lang="en">Messenger (Herdsman)</persName>
+            </person>
+            <person xml:id="resos" sex="MALE">
+               <persName>Ῥῆσος</persName>
+               <persName xml:lang="en">Rhesus</persName>
+               <idno type="wikidata">Q1061782</idno>
+            </person>
+            <person xml:id="odysseus" sex="MALE">
+               <persName>Ὀδυσσεύς</persName>
+               <persName xml:lang="en">Odysseus</persName>
+               <idno type="wikidata">Q47231</idno>
+            </person>
+            <person xml:id="diomedes" sex="MALE">
+               <persName>Διομήδης</persName>
+               <persName xml:lang="en">Diomedes</persName>
+               <idno type="wikidata">Q208256</idno>
+            </person>
+            <person xml:id="athena" sex="FEMALE">
+               <persName>Ἀθήνα</persName>
+               <persName xml:lang="en">Athena</persName>
+               <idno type="wikidata">Q37122</idno>
+            </person>
+            <person xml:id="alexandros" sex="MALE">
+               <persName>Ἀλέξανδρος</persName>
+               <persName type="variant">Πάρις</persName>
+               <persName xml:lang="en">Alexandros (Paris)</persName>
+               <idno type="wikidata">Q167646</idno>
+            </person>
+            <person xml:id="heniochos" sex="MALE">
+               <persName>Ἡνίοχος</persName>
+               <persName xml:lang="en">Charioteer</persName>
+            </person>
+            <person xml:id="mousa" sex="FEMALE">
+               <persName>Μοῦσα</persName>
+               <persName xml:lang="en">Muse</persName>
+               <idno type="wikidata">Q66016</idno>
+            </person>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000032"
+         source="tlg0019/tlg001/tlg0019.tlg001.perseus-grc2.xml"
+         slug="aristophanes-acharnenses"
+         slug-en="aristophanes-acharnians"
+         wikidata="Q1059987"
+         textclass="Q40831">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Ἀχαρνῆς</title>
+         <title xml:lang="la">Acharnenses</title>
+         <title xml:lang="en">Acharnians</title>
+         <title type="short">Ach.</title>
+         <author>
+            <persName>Ἀριστοφάνης</persName>
+            <persName xml:lang="la">Aristophanes</persName>
+            <persName xml:lang="en">Aristophanes</persName>
+            <idno type="wikidata">Q43353</idno>
+         </author>
+         <editor>
+            <persName>F. W. Hall</persName>
+            <idno type="wikidata">Q5499076</idno>
+         </editor>
+         <editor>
+            <persName>W. M. Geldart</persName>
+            <idno type="wikidata">Q8015194</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" when="-0425">
+            <label>425 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Aristophanes of Athens. In: DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0032.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="dikaiopolis" sex="MALE" role="rusticus">
+               <persName>Δικαιόπολις</persName>
+               <persName xml:lang="en">Dikaiopolis</persName>
+            </person>
+            <person xml:id="keryx" sex="MALE" role="praeco">
+               <persName>Κῆρυξ</persName>
+               <persName xml:lang="en">A Herald</persName>
+            </person>
+            <person xml:id="amphitheos" sex="MALE" role="legatus">
+               <persName>Ἀμφίθεος</persName>
+               <persName xml:lang="en">Amphitheus</persName>
+            </person>
+            <person xml:id="presbys" sex="MALE" role="senex legatus">
+               <persName>Πρέσβυς</persName>
+               <persName xml:lang="en">An Old Man</persName>
+            </person>
+            <person xml:id="pseudartabas" sex="MALE" role="legatus">
+               <persName>Ψευδαρτάβας</persName>
+               <persName xml:lang="en">Pseudartabas</persName>
+            </person>
+            <person xml:id="theoros" sex="MALE" role="legatus">
+               <persName>Θέωρος</persName>
+               <persName xml:lang="en">Theorus</persName>
+            </person>
+            <personGrp xml:id="choros" sex="MALE" role="chorus_senex">
+               <name>Χορός</name>
+               <name type="variant">Χορὸς Ἀχαρνέων</name>
+               <name xml:lang="en">Chorus of Acharnian Elders</name>
+            </personGrp>
+            <personGrp xml:id="hemichorion-a"
+                       sex="MALE"
+                       role="semichorus_senex"
+                       corresp="#choros">
+               <name>Ἡμιχόριον Α</name>
+               <name xml:lang="en">Semi-Chorus A</name>
+            </personGrp>
+            <personGrp xml:id="hemichorion-b"
+                       sex="MALE"
+                       role="semichorus_senex"
+                       corresp="#choros">
+               <name>Ἡμιχόριον Β</name>
+               <name xml:lang="en">Semi-Chorus B</name>
+            </personGrp>
+            <person xml:id="thygater" sex="FEMALE" role="filia">
+               <persName>Θυγάτηρ</persName>
+               <persName type="variant">Θυγάτηρ Δικαιοπόλιδος</persName>
+               <persName xml:lang="en">Daughter of Dikaiopolis</persName>
+            </person>
+            <person xml:id="kephisophon" sex="MALE" role="servus">
+               <persName>Κηφισόφων</persName>
+               <persName xml:lang="en">Cephisophon</persName>
+            </person>
+            <person xml:id="euripides" sex="MALE" role="poeta">
+               <persName>Εὐριπίδης</persName>
+               <persName xml:lang="en">Euripides</persName>
+               <idno type="wikidata">Q48305</idno>
+            </person>
+            <person xml:id="lamachos" sex="MALE" role="dux">
+               <persName>Λάμαχος</persName>
+               <persName xml:lang="en">Lamachus</persName>
+            </person>
+            <person xml:id="megareus" sex="MALE" role="peregrinus">
+               <persName>Μεγαρεύς</persName>
+               <persName xml:lang="en">A Megarian</persName>
+            </person>
+            <person xml:id="kora" sex="FEMALE" role="filia">
+               <persName>Κόρα</persName>
+               <persName xml:lang="en">A Girl</persName>
+            </person>
+            <person xml:id="kore" sex="FEMALE" role="filia">
+               <persName>Κόρη</persName>
+               <persName xml:lang="en">A Girl</persName>
+            </person>
+            <person xml:id="sykophantes" sex="MALE" role="sycophanta">
+               <persName>Συκοφάντης</persName>
+               <persName xml:lang="en">An Informer</persName>
+            </person>
+            <person xml:id="boiotos" sex="MALE" role="peregrinus">
+               <persName>Βοιωτός</persName>
+               <persName xml:lang="en">A Boeotian</persName>
+            </person>
+            <person xml:id="nikarchos" sex="MALE" role="sycophanta">
+               <persName>Νίκαρχος</persName>
+               <persName xml:lang="en">Nicarchus</persName>
+            </person>
+            <person xml:id="therapon-lamachou" sex="MALE" role="servus">
+               <persName>Θεράπων Λαμάχου</persName>
+               <persName xml:lang="en">A Servant of Lamachus</persName>
+            </person>
+            <person xml:id="keryx-heteros" sex="MALE" role="praeco">
+               <persName>Κῆρυξ ἕτερος</persName>
+               <persName type="variant">Κῆρυξ</persName>
+               <persName xml:lang="en">Another Herald</persName>
+            </person>
+            <person xml:id="georgos" sex="MALE" role="rusticus">
+               <persName>Γεωργός</persName>
+               <persName xml:lang="en">A Farmer</persName>
+            </person>
+            <person xml:id="paranymphos" sex="MALE">
+               <persName>Παράνυμφος</persName>
+               <persName xml:lang="en">The Best Man</persName>
+            </person>
+            <person xml:id="angelos-a" sex="MALE" role="nuntius">
+               <persName>Ἄγγελος Α</persName>
+               <persName xml:lang="en">Messenger A</persName>
+            </person>
+            <person xml:id="angelos-b" sex="MALE" role="nuntius">
+               <persName>Ἄγγελος Β</persName>
+               <persName xml:lang="en">Messenger A</persName>
+            </person>
+            <listRelation>
+               <relation name="parent_of" active="#dikaiopolis" passive="#thygater"/>
+               <relation name="parent_of" active="#megareus" passive="#kora #kore"/>
+               <relation name="associated_with" active="#kephisophon" passive="#euripides"/>
+               <relation name="associated_with"
+                         active="#therapon-lamachou"
+                         passive="#lamachos"/>
+            </listRelation>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000033"
+         source="tlg0019/tlg005/tlg0019.tlg005.perseus-grc2.xml"
+         slug="aristophanes-pax"
+         slug-en="aristophanes-peace"
+         wikidata="Q1193602"
+         textclass="Q40831">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Εἰρήνη</title>
+         <title xml:lang="la">Pax</title>
+         <title xml:lang="en">Peace</title>
+         <title type="short">Pax</title>
+         <author>
+            <persName>Ἀριστοφάνης</persName>
+            <persName xml:lang="la">Aristophanes</persName>
+            <persName xml:lang="en">Aristophanes</persName>
+            <idno type="wikidata">Q43353</idno>
+         </author>
+         <editor>
+            <persName>F. W. Hall</persName>
+            <idno type="wikidata">Q5499076</idno>
+         </editor>
+         <editor>
+            <persName>W. M. Geldart</persName>
+            <idno type="wikidata">Q8015194</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" when="-0421">
+            <label>421 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Aristophanes of Athens. In: DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0032.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="oiketes" sex="MALE" role="servus">
+               <persName>Οἰκέτης</persName>
+               <persName xml:lang="en">A Slave</persName>
+            </person>
+            <person xml:id="oiketes-a" sex="MALE" role="servus">
+               <persName>Οἰκέτης Α</persName>
+               <persName xml:lang="en">First Slave</persName>
+            </person>
+            <person xml:id="oiketes-b" sex="MALE" role="servus">
+               <persName>Οἰκέτης Β</persName>
+               <persName xml:lang="en">Second Slave</persName>
+            </person>
+            <person xml:id="trygaios" sex="MALE" role="dominus">
+               <persName>Τρυγαῖος</persName>
+               <persName xml:lang="en">Thrygaeus</persName>
+            </person>
+            <person xml:id="paidion" sex="FEMALE" role="filia">
+               <persName>Παιδίον</persName>
+               <persName xml:lang="en">Daughter</persName>
+            </person>
+            <person xml:id="hermes" sex="MALE" role="deus">
+               <persName>Ἑρμῆς</persName>
+               <persName xml:lang="en">Hermes</persName>
+               <idno type="wikidata">Q41484</idno>
+            </person>
+            <person xml:id="polemos" sex="MALE" role="allegoria deus">
+               <persName>Πόλεμος</persName>
+               <persName xml:lang="en">War</persName>
+               <idno type="wikidata">Q2713002</idno>
+            </person>
+            <person xml:id="kydoimos" sex="MALE" role="allegoria servus">
+               <persName>Κύδοιμος</persName>
+               <persName xml:lang="en">Hubbub</persName>
+               <idno type="wikidata">Q636428</idno>
+            </person>
+            <personGrp xml:id="choros" sex="MALE" role="chorus_senex">
+               <name>Χορός</name>
+               <name type="variant">Χορὸς Γερόντων</name>
+               <name xml:lang="en">Chorus of Elders</name>
+            </personGrp>
+            <personGrp xml:id="hemichorion-a"
+                       sex="MALE"
+                       role="semichorus_senex"
+                       corresp="#choros">
+               <name>Ἡμιχόριον Α</name>
+               <name xml:lang="en">Semi-Chorus A</name>
+            </personGrp>
+            <personGrp xml:id="hemichorion-b"
+                       sex="MALE"
+                       role="semichorus_senex"
+                       corresp="#choros">
+               <name>Ἡμιχόριον Β</name>
+               <name xml:lang="en">Semi-Chorus B</name>
+            </personGrp>
+            <person xml:id="hierokles" sex="MALE" role="vates">
+               <persName>Ἱεροκλῆς</persName>
+               <persName xml:lang="en">Hierocles</persName>
+            </person>
+            <person xml:id="drepanourgos" sex="MALE" role="faber">
+               <persName>Δρεπανουργός</persName>
+               <persName xml:lang="en">Sickle Maker</persName>
+            </person>
+            <person xml:id="lophopoios" sex="MALE" role="faber">
+               <persName>Λοφοποιός</persName>
+               <persName xml:lang="en">Crest Maker</persName>
+            </person>
+            <person xml:id="thorakopoles" sex="MALE" role="mercator">
+               <persName>Θωρακοπώλης</persName>
+               <persName xml:lang="en">Dealer in Breastplates</persName>
+               <persName type="variant">Θωρακόπωλης</persName>
+            </person>
+            <person xml:id="salpingopoios" role="faber">
+               <persName>Σαλπιγγοποιός</persName>
+               <persName xml:lang="en">Maker of War Trumpets</persName>
+            </person>
+            <person xml:id="kranopoios" sex="MALE" role="faber">
+               <persName>Κρανοποιός</persName>
+               <persName xml:lang="en">Helmet Maker</persName>
+            </person>
+            <person xml:id="doryksos" sex="MALE" role="faber">
+               <persName>Δορυξός</persName>
+               <persName xml:lang="en">Speer Maker</persName>
+            </person>
+            <person xml:id="pais-lamachou" sex="MALE" role="filius">
+               <persName>Παῖς Λαμάχου</persName>
+               <persName xml:lang="en">Son of Lamachus</persName>
+               <persName type="variant">Παῖς &lt;Λαμάχου&gt;</persName>
+            </person>
+            <person xml:id="pais-kleonymou" sex="MALE" role="filius">
+               <persName>Παῖς Κλεωνύμου</persName>
+               <persName xml:lang="en">Son of Cleonymus</persName>
+               <persName type="variant">Παῖς &lt;Κλεωνύμου&gt;</persName>
+            </person>
+            <listRelation>
+               <relation name="associated_with"
+                         active="#oiketes #oiketes-a #oiketes-b"
+                         passive="#trygaios"/>
+               <relation name="parent_of" active="#trygaios" passive="#paidion"/>
+               <relation name="associated_with" active="#kydoimos" passive="#polemos"/>
+            </listRelation>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000034"
+         source="tlg0006/tlg010/tlg0006.tlg010.perseus-grc2.xml"
+         slug="euripides-ion"
+         wikidata="Q614607"
+         textclass="Q80930">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Ἴων</title>
+         <title xml:lang="la">Ion</title>
+         <title xml:lang="en">Ion</title>
+         <title type="short">Ion</title>
+         <author>
+            <persName>Εὐριπίδης</persName>
+            <persName xml:lang="la">Euripides</persName>
+            <persName xml:lang="en">Euripides</persName>
+            <idno type="wikidata">Q48305</idno>
+         </author>
+         <editor>
+            <persName>Gilbert Murray</persName>
+            <idno type="wikidata">Q538478</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" when="-0413">
+            <label>413 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Euripides. In: DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0087.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="hermes" sex="MALE">
+               <persName>Ἑρμῆς</persName>
+               <persName xml:lang="en">Hermes</persName>
+               <idno type="wikidata">Q41484</idno>
+            </person>
+            <person xml:id="ion" sex="MALE">
+               <persName>Ἴων</persName>
+               <persName xml:lang="en">Ion</persName>
+               <idno type="wikidata">Q853462</idno>
+            </person>
+            <personGrp xml:id="choros" sex="FEMALE">
+               <name>Χορός</name>
+               <name>Χορὸς ἐκ Θεραπαινίδων Κρεούσης</name>
+               <name xml:lang="en">Chorus of Creusa’s Handmaidens</name>
+            </personGrp>
+            <person xml:id="kreousa" sex="FEMALE">
+               <persName>Κρέουσα</persName>
+               <persName xml:lang="en">Creusa</persName>
+               <idno type="wikidata">Q2196048</idno>
+            </person>
+            <person xml:id="xouthos" sex="MALE">
+               <persName>Ξοῦθος</persName>
+               <persName xml:lang="en">Xuthus</persName>
+               <idno type="wikidata">Q514746</idno>
+            </person>
+            <person xml:id="presbytes" sex="MALE">
+               <persName>Πρεσβύτης</persName>
+               <persName xml:lang="en">Old Male Slave</persName>
+            </person>
+            <person xml:id="therapon" sex="MALE">
+               <persName>Θεράπων</persName>
+               <persName type="variant">Θεράπων Κρεούσης</persName>
+               <persName xml:lang="en">Slave of Creusa</persName>
+            </person>
+            <person xml:id="prophetis" sex="FEMALE">
+               <persName>Προφῆτις</persName>
+               <persName type="variant">Πύθια</persName>
+               <persName xml:lang="en">Pythian Priestess</persName>
+               <idno type="wikidata">Q220344</idno>
+            </person>
+            <person xml:id="athena" sex="FEMALE">
+               <persName>Ἀθήνα</persName>
+               <persName xml:lang="en">Athena</persName>
+               <idno type="wikidata">Q37122</idno>
+            </person>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000035"
+         source="tlg0019/tlg003/tlg0019.tlg003.perseus-grc2.xml"
+         slug="aristophanes-nubes"
+         slug-en="aristophanes-clouds"
+         wikidata="Q868447"
+         textclass="Q40831">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Νεφέλαι</title>
+         <title xml:lang="la">Nubes</title>
+         <title xml:lang="en">Clouds</title>
+         <title type="short">Nub.</title>
+         <author>
+            <persName>Ἀριστοφάνης</persName>
+            <persName xml:lang="la">Aristophanes</persName>
+            <persName xml:lang="en">Aristophanes</persName>
+            <idno type="wikidata">Q43353</idno>
+         </author>
+         <editor>
+            <persName>F. W. Hall</persName>
+            <idno type="wikidata">Q5499076</idno>
+         </editor>
+         <editor>
+            <persName>W. M. Geldart</persName>
+            <idno type="wikidata">Q8015194</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" when="-0423">
+            <label>423 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Aristophanes of Athens. In: DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0032.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="strepsiades" sex="MALE" role="rusticus">
+               <persName>Στρεψιάδης</persName>
+               <persName xml:lang="en">Strepsiades</persName>
+            </person>
+            <person xml:id="pheidippides" sex="MALE" role="filius">
+               <persName>Φειδιππίδης</persName>
+               <persName xml:lang="en">Phidippides</persName>
+            </person>
+            <person xml:id="therapon" sex="MALE" role="servus">
+               <persName>Θεράπων</persName>
+               <persName type="variant">Θεράπων Στρεψιάδου</persName>
+               <persName xml:lang="en">A Slave of Strepsiades</persName>
+            </person>
+            <person xml:id="mathetes" sex="MALE" role="discipulus">
+               <persName>Μαθητής</persName>
+               <persName xml:lang="en">A Pupil</persName>
+            </person>
+            <person xml:id="mathetes-a" sex="MALE" role="discipulus">
+               <persName>Μαθητὴς Α</persName>
+               <persName xml:lang="en">Pupil A</persName>
+               <persName type="variant">Μαθητής Α</persName>
+            </person>
+            <person xml:id="mathetes-b" sex="MALE" role="discipulus">
+               <persName>Μαθητὴς Β</persName>
+               <persName xml:lang="en">Pupil B</persName>
+               <persName type="variant">Μαθητής Β</persName>
+            </person>
+            <person xml:id="mathetes-g" sex="MALE" role="discipulus">
+               <persName>Μαθητὴς Γ</persName>
+               <persName xml:lang="en">Pupil G</persName>
+               <persName type="variant">Μαθητής Γ</persName>
+            </person>
+            <person xml:id="sokrates" sex="MALE" role="didascalus">
+               <persName>Σωκράτης</persName>
+               <persName xml:lang="en">Socrates</persName>
+               <idno type="wikidata">Q913</idno>
+            </person>
+            <personGrp xml:id="choros" sex="UNKNOWN" role="chorus">
+               <name>Χορός</name>
+               <name type="variant">Χορὸς νεφελῶν</name>
+               <name xml:lang="en">Chorus of Clouds</name>
+            </personGrp>
+            <person xml:id="dikaios-logos" sex="UNKNOWN" role="allegoria">
+               <persName>Δίκαιος Λόγος</persName>
+               <persName xml:lang="en">Better Argument</persName>
+            </person>
+            <person xml:id="adikos-logos" sex="UNKNOWN" role="allegoria">
+               <persName>Ἄδικος Λόγος</persName>
+               <persName xml:lang="en">Worse Argument</persName>
+            </person>
+            <person xml:id="pasias" sex="MALE" role="creditor">
+               <persName>Πασίας</persName>
+               <persName type="variant">Πασίας δανειστής</persName>
+               <persName xml:lang="en">Pasias, a Creditor</persName>
+            </person>
+            <person xml:id="martys" sex="MALE" role="testis">
+               <persName>Μάρτυς</persName>
+               <persName xml:lang="en">A Witness</persName>
+            </person>
+            <person xml:id="amynias" sex="MALE" role="creditor">
+               <persName>Αμυνίας</persName>
+               <persName type="variant">Αμυνίας δανειστής</persName>
+               <persName xml:lang="en">Amynias, a Creditor</persName>
+            </person>
+            <person xml:id="chairephon" sex="MALE" role="didascalus">
+               <persName>Χαιρεφῶν</persName>
+               <persName xml:lang="en">Chaerephon</persName>
+               <idno type="wikidata">Q744125</idno>
+            </person>
+            <person xml:id="hermes" sex="MALE" role="deus">
+               <persName>Ερμῆς</persName>
+               <persName xml:lang="en">Hermes</persName>
+               <idno type="wikidata">Q41484</idno>
+            </person>
+            <listRelation>
+               <relation name="parent_of" active="#strepsiades" passive="#pheidippides"/>
+               <relation name="associated_with" active="#therapon" passive="#strepsiades"/>
+               <relation name="associated_with"
+                         active="#mathetes #mathetes-a #mathetes-b #mathetes-g"
+                         passive="#sokrates"/>
+            </listRelation>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000036"
+         source="tlg0011/tlg007/tlg0011.tlg007.perseus-grc2.xml"
+         slug="sophocles-oedipus-coloneus"
+         slug-en="sophocles-oedipus-at-colonus"
+         wikidata="Q294001"
+         textclass="Q80930">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Οἰδίπους ἐπὶ Κολωνῷ</title>
+         <title xml:lang="la">Oedipus Coloneus</title>
+         <title xml:lang="en">Oedipus at Colonus</title>
+         <title type="short">Oid. K.</title>
+         <author>
+            <persName>Σοφοκλῆς</persName>
+            <persName xml:lang="la">Sophocles</persName>
+            <persName xml:lang="en">Sophocles</persName>
+            <idno type="wikidata">Q7235</idno>
+         </author>
+         <editor>
+            <persName>F. Storr</persName>
+            <idno type="wikidata">Q16861781</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" when="-0401">
+            <label>401 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Sophocles. In:DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0204.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="oidipous" sex="MALE" role="exul">
+               <persName>Οἰδίπους</persName>
+               <persName xml:lang="en">Oedipus</persName>
+               <idno type="wikidata">Q130890</idno>
+            </person>
+            <person xml:id="antigone" sex="FEMALE" role="filia">
+               <persName>Ἀντιγόνη</persName>
+               <persName xml:lang="en">Antigone</persName>
+               <idno type="wikidata">Q131351</idno>
+            </person>
+            <person xml:id="xenos" sex="MALE" role="peregrinus">
+               <persName>Ξένος</persName>
+               <persName xml:lang="en">A Stranger, a native of Colonus</persName>
+            </person>
+            <personGrp xml:id="choros" sex="MALE" role="chorus_senex">
+               <name>Χορός</name>
+               <name xml:lang="en">Chorus of Citizens of Colonus</name>
+            </personGrp>
+            <person xml:id="ismene" sex="FEMALE" role="filia">
+               <persName>Ἰσμήνη</persName>
+               <persName xml:lang="en">Ismene</persName>
+               <idno type="wikidata">Q753902</idno>
+            </person>
+            <person xml:id="theseus" sex="MALE" role="rex">
+               <persName>Θησεύς</persName>
+               <persName xml:lang="en">Theseus</persName>
+               <idno type="wikidata">Q1320718</idno>
+            </person>
+            <person xml:id="kreon" sex="MALE" role="rex">
+               <persName>Κρέων</persName>
+               <persName xml:lang="en">Creon</persName>
+               <idno type="wikidata">Q732066</idno>
+            </person>
+            <person xml:id="polyneikes" sex="MALE" role="filius">
+               <persName>Πολυνείκης</persName>
+               <persName xml:lang="en">Ployneices</persName>
+               <idno type="wikidata">Q334817</idno>
+            </person>
+            <person xml:id="angelos" sex="MALE" role="nuntius">
+               <persName>Ἄγγελος</persName>
+               <persName xml:lang="en">A Messenger</persName>
+            </person>
+            <listRelation>
+               <relation name="parent_of"
+                         active="#oidipous"
+                         passive="#antigone #ismene #polyneikes"/>
+               <relation name="siblings" mutual="#antigone #ismene #polyneikes"/>
+               <relation name="related_with"
+                         active="#antigone #ismene #polyneikes"
+                         passive="#kreon"/>
+            </listRelation>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000037"
+         source="tlg0019/tlg011/tlg0019.tlg011.perseus-grc2.xml"
+         slug="aristophanes-plutus"
+         wikidata="Q1196456"
+         textclass="Q40831">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Πλοῦτος</title>
+         <title xml:lang="la">Plutus</title>
+         <title xml:lang="en">Plutus</title>
+         <title type="short">Plut.</title>
+         <author>
+            <persName>Ἀριστοφάνης</persName>
+            <persName xml:lang="la">Aristophanes</persName>
+            <persName xml:lang="en">Aristophanes</persName>
+            <idno type="wikidata">Q43353</idno>
+         </author>
+         <editor>
+            <persName>F. W. Hall</persName>
+            <idno type="wikidata">Q5499076</idno>
+         </editor>
+         <editor>
+            <persName>W. M. Geldart</persName>
+            <idno type="wikidata">Q8015194</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" when="-0388">
+            <label>388 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Aristophanes of Athens. In: DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0032.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="karion" sex="MALE" role="servus">
+               <persName>Καρίων</persName>
+               <persName xml:lang="en">Cario</persName>
+            </person>
+            <person xml:id="chremylos" sex="MALE">
+               <persName>Χρεμύλος</persName>
+               <persName xml:lang="en">Chremylus</persName>
+            </person>
+            <person xml:id="ploutos" sex="MALE" role="deus">
+               <persName>Πλοῦτος</persName>
+               <persName xml:lang="en">Plutus</persName>
+               <idno type="wikidata">Q205251</idno>
+            </person>
+            <personGrp xml:id="choros" sex="MALE" role="chorus_rusticus">
+               <name>Χορός</name>
+               <name type="variant">Χορὸς ἀγροίκων</name>
+               <name xml:lang="en">Chorus of Farmers</name>
+            </personGrp>
+            <person xml:id="blepsidemos" sex="MALE" role="amicus">
+               <persName>Βλεψίδημος</persName>
+               <persName xml:lang="en">Blepsidemus</persName>
+            </person>
+            <person xml:id="penia" sex="FEMALE" role="dea">
+               <persName>Πενία</persName>
+               <persName xml:lang="en">Penia</persName>
+               <idno type="wikidata">Q3899052</idno>
+            </person>
+            <person xml:id="gyne" sex="FEMALE" role="uxor">
+               <persName>Γυνή</persName>
+               <persName type="variant">Γυνὴ Χρεμύλου</persName>
+               <persName xml:lang="en">Wife of Chremylus</persName>
+            </person>
+            <person xml:id="dikaios" sex="MALE" role="vir">
+               <persName>Δίκαιος</persName>
+               <persName type="variant">Δίκαιος ἀνήρ</persName>
+               <persName xml:lang="en">A Just Man</persName>
+            </person>
+            <person xml:id="sykophantes" sex="MALE" role="sycophanta">
+               <persName>Συκοφάντης</persName>
+               <persName xml:lang="en">An Informer</persName>
+            </person>
+            <person xml:id="graus" sex="FEMALE" role="anus">
+               <persName>Γραῦς</persName>
+               <persName xml:lang="en">An Old Woman</persName>
+            </person>
+            <person xml:id="neanias" sex="MALE" role="adulescens">
+               <persName>Νεανίας</persName>
+               <persName xml:lang="en">A Young Man</persName>
+            </person>
+            <person xml:id="hermes" role="deus">
+               <persName>Ἑρμῆς</persName>
+               <persName xml:lang="en">Hermes</persName>
+               <idno type="wikidata">Q41484</idno>
+            </person>
+            <person xml:id="hiereus" sex="MALE" role="sacerdos">
+               <persName>Ἱερεύς</persName>
+               <persName type="variant">Ἱερεὺς Διός</persName>
+               <persName xml:lang="en">Priest of Zeus</persName>
+            </person>
+            <listRelation>
+               <relation name="associated_with" active="#karion" passive="#chremylos"/>
+               <relation name="friends" mutual="#chremylos #blepsidemos"/>
+               <relation name="spouses" mutual="#chremylos #gyne"/>
+            </listRelation>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000038"
+         source="tlg0011/tlg006/tlg0011.tlg006.perseus-grc2.xml"
+         slug="sophocles-philoctetes"
+         wikidata="Q1415903"
+         textclass="Q80930">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Φιλοκτήτης</title>
+         <title xml:lang="la">Philoctetes</title>
+         <title xml:lang="en">Philoctetes</title>
+         <title type="short">Phil.</title>
+         <author>
+            <persName>Σοφοκλῆς</persName>
+            <persName xml:lang="la">Sophocles</persName>
+            <persName xml:lang="en">Sophocles</persName>
+            <idno type="wikidata">Q7235</idno>
+         </author>
+         <editor>
+            <persName>F. Storr</persName>
+            <idno type="wikidata">Q16861781</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" when="-0409">
+            <label>409 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Sophocles. In:DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0204.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="odysseus" sex="MALE" role="heros rex">
+               <persName>Ὀδυσσεύς</persName>
+               <persName xml:lang="en">Odysseus</persName>
+               <idno type="wikidata">Q47231</idno>
+            </person>
+            <personGrp xml:id="choros" sex="MALE" role="chorus_nauta">
+               <name>Χορός</name>
+               <name xml:lang="en">Chorus of Scyrian Sailors</name>
+            </personGrp>
+            <person xml:id="emporos" sex="MALE" role="mercator">
+               <persName>Ἔμπορος</persName>
+               <persName type="variant">Σκοπός</persName>
+               <persName xml:lang="en">Sailor, disguised as Merchant Captain</persName>
+            </person>
+            <person xml:id="neoptolemos" sex="MALE" role="heros">
+               <persName>Νεοπτόλεμος</persName>
+               <persName xml:lang="en">Neoptolemus</persName>
+               <idno type="wikidata">Q322639</idno>
+            </person>
+            <person xml:id="philoktetes" sex="MALE" role="heros">
+               <persName>Φιλοκτήτης</persName>
+               <persName xml:lang="en">Philoctetes</persName>
+               <idno type="wikidata">Q212827</idno>
+            </person>
+            <person xml:id="herakles" sex="MALE" role="heros">
+               <persName>Ἡρακλῆς</persName>
+               <persName xml:lang="en">Heracles</persName>
+               <idno type="wikidata">Q122248</idno>
+            </person>
+            <listRelation>
+               <relation name="associated_with" active="#choros" passive="#neoptolemos"/>
+            </listRelation>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000039"
+         source="tlg0006/tlg012/tlg0006.tlg012.perseus-grc2.xml"
+         slug="euripides-electra"
+         wikidata="Q540161"
+         textclass="Q80930">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Ἠλέκτρα</title>
+         <title xml:lang="la">Electra</title>
+         <title xml:lang="en">Electra</title>
+         <title type="short">El.</title>
+         <author>
+            <persName>Εὐριπίδης</persName>
+            <persName xml:lang="la">Euripides</persName>
+            <persName xml:lang="en">Euripides</persName>
+            <idno type="wikidata">Q48305</idno>
+         </author>
+         <editor>
+            <persName>Gilbert Murray</persName>
+            <idno type="wikidata">Q538478</idno>
+         </editor>
+      </titleStmt>
+      <listEvent xmlns="http://www.tei-c.org/ns/1.0">
+         <event type="premiere" notBefore="-0429" notAfter="-0420">
+            <label>429–420 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Euripides. In: DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0087.</desc>
+         </event>
+      </listEvent>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="autourgos" sex="MALE">
+               <persName>Αὐτουργός</persName>
+               <persName type="variant">Αὐτουργὸς Μυκηναῖος</persName>
+               <persName xml:lang="en">Mycenaean Farmer</persName>
+            </person>
+            <person xml:id="elektra" sex="FEMALE">
+               <persName>Ἠλέκτρα</persName>
+               <persName xml:lang="en">Electra</persName>
+               <idno type="wikidata">Q131651</idno>
+            </person>
+            <person xml:id="orestes" sex="MALE">
+               <persName>Ὀρέστης</persName>
+               <persName xml:lang="en">Orestes</persName>
+               <idno type="wikidata">Q192407</idno>
+            </person>
+            <personGrp xml:id="choros" sex="FEMALE">
+               <name>Χορός</name>
+               <name xml:lang="en">Chorus of Women</name>
+            </personGrp>
+            <person xml:id="presbys" sex="MALE">
+               <persName>Πρέσβυς</persName>
+               <persName xml:lang="en">Old Man</persName>
+            </person>
+            <person xml:id="angelos" sex="MALE">
+               <persName>Ἄγγελος</persName>
+               <persName xml:lang="en">Messenger</persName>
+            </person>
+            <person xml:id="klytaimestra" sex="FEMALE">
+               <persName>Κλυταιμήστρα</persName>
+               <persName xml:lang="en">Clytaemestra</persName>
+               <idno type="wikidata">Q131157</idno>
+            </person>
+            <personGrp xml:id="dioskoyroi" sex="MALE">
+               <name>Διόσκουροι</name>
+               <name xml:lang="en">Dioscures</name>
+               <idno type="wikidata">Q190103</idno>
+            </personGrp>
+         </listPerson>
+      </particDesc>
+   </play>
+   <!-- greek000040 is not in the PDL but GreekDraCor-specific -->
+   <play id="greek000040" slug="menander-dyskolos" wikidata="Q1248766"/>
+   <!-- The following plays will be imported into GreekDraCor for the first time. -->
+   <play id="greek000041"
+         source="tlg0006/tlg001/tlg0006.tlg001.perseus-grc2.xml"
+         slug="euripides-cyclops"
+         wikidata="Q1206121">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Κύκλωψ</title>
+         <title xml:lang="la">Cyclops</title>
+         <title xml:lang="en">Cyclops</title>
+         <title type="short">Cyc.</title>
+         <author>
+            <persName>Εὐριπίδης</persName>
+            <persName xml:lang="la">Euripides</persName>
+            <persName xml:lang="en">Euripides</persName>
+            <idno type="wikidata">Q48305</idno>
+         </author>
+         <editor>
+            <persName>Gilbert Murray</persName>
+            <idno type="wikidata">Q538478</idno>
+         </editor>
+      </titleStmt>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="silenos" sex="MALE">
+               <persName>Σιληνός</persName>
+               <persName xml:lang="en">Silenus</persName>
+               <idno type="wikidata">Q464091</idno>
+            </person>
+            <personGrp xml:id="choros-satyron" sex="MALE">
+               <name>Χορὸς Σατύρων</name>
+               <name type="variant">Χορός</name>
+               <name xml:lang="en">Chorus of Satyrs</name>
+               <idno type="wikidata">Q163709</idno>
+            </personGrp>
+            <person xml:id="odysseus" sex="MALE">
+               <persName>Ὀδυσσεύς</persName>
+               <persName xml:lang="en">Odysseus</persName>
+               <idno type="wikidata">Q47231</idno>
+            </person>
+            <person xml:id="kyklops" sex="MALE">
+               <persName>Κύκλωψ</persName>
+               <persName xml:lang="en">Cyclops</persName>
+               <idno type="wikidata">Q128430</idno>
+            </person>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000042"
+         source="tlg0006/tlg002/tlg0006.tlg002.perseus-grc2.xml"
+         slug="euripides-alcestis"
+         wikidata="Q1246408">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Ἄλκηστις</title>
+         <title xml:lang="la">Alcestis</title>
+         <title xml:lang="en">Alcestis</title>
+         <title type="short">Alc.</title>
+         <author>
+            <persName>Εὐριπίδης</persName>
+            <persName xml:lang="la">Euripides</persName>
+            <persName xml:lang="en">Euripides</persName>
+            <idno type="wikidata">Q48305</idno>
+         </author>
+         <editor>
+            <persName>Gilbert Murray</persName>
+            <idno type="wikidata">Q538478</idno>
+         </editor>
+      </titleStmt>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="apollon" sex="MALE">
+               <persName>Ἀπόλλων</persName>
+               <persName xml:lang="en">Apollo</persName>
+               <idno type="wikidata">Q37340</idno>
+            </person>
+            <person xml:id="thanatos" sex="MALE">
+               <persName>Θάνατος</persName>
+               <persName xml:lang="en">Death</persName>
+               <idno type="wikidata">Q199647</idno>
+            </person>
+            <personGrp xml:id="choros" sex="MALE">
+               <name>Χορός</name>
+               <name xml:lang="en">Chorus of Old Men of Pherae</name>
+            </personGrp>
+            <person xml:id="therapaina" sex="FEMALE">
+               <persName>Θεράπαινα</persName>
+               <persName type="variant">Θεράπαινα Ἀλκήστιδος</persName>
+               <persName xml:lang="en">Slave of Alcestis</persName>
+            </person>
+            <person xml:id="alkestis" sex="FEMALE">
+               <persName>Ἄλκηστις</persName>
+               <persName xml:lang="en">Alcestis</persName>
+               <idno type="wikidata">Q320449</idno>
+            </person>
+            <person xml:id="admetos" sex="MALE">
+               <persName>Ἄδμητος</persName>
+               <persName xml:lang="en">Admetus</persName>
+               <idno type="wikidata">Q192109</idno>
+            </person>
+            <person xml:id="pais" sex="MALE">
+               <persName>Παῖς</persName>
+               <persName type="variant">Παῖς Ἀλκήστιδος</persName>
+               <persName xml:lang="en">Child of Alcestis</persName>
+               <idno type="wikidata">Q1686620</idno>
+            </person>
+            <person xml:id="herakles" sex="MALE">
+               <persName>Ἡρακλῆς</persName>
+               <persName xml:lang="en">Heracles</persName>
+               <idno type="wikidata">Q122248</idno>
+            </person>
+            <person xml:id="pheres" sex="MALE">
+               <persName>Φέρης</persName>
+               <persName xml:lang="en">Pheres</persName>
+               <idno type="wikidata">Q731181</idno>
+            </person>
+            <person xml:id="therapon" sex="MALE">
+               <persName>Θεράπων</persName>
+               <persName xml:lang="en">Slave</persName>
+            </person>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000043"
+         source="tlg0006/tlg003/tlg0006.tlg003.perseus-grc2.xml"
+         slug="euripides-medea"
+         wikidata="Q286381">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Μήδεια</title>
+         <title xml:lang="la">Medea</title>
+         <title xml:lang="en">Medea</title>
+         <title type="short">Med.</title>
+         <author>
+            <persName>Εὐριπίδης</persName>
+            <persName xml:lang="la">Euripides</persName>
+            <persName xml:lang="en">Euripides</persName>
+            <idno type="wikidata">Q48305</idno>
+         </author>
+         <editor>
+            <persName>Gilbert Murray</persName>
+            <idno type="wikidata">Q538478</idno>
+         </editor>
+      </titleStmt>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="trophos" sex="FEMALE">
+               <persName>Τροφός</persName>
+               <persName xml:lang="en">Nurse</persName>
+            </person>
+            <person xml:id="kreon" sex="MALE">
+               <persName>Κρέων</persName>
+               <persName xml:lang="en">Creon</persName>
+               <idno type="wikidata">Q786573</idno>
+            </person>
+            <personGrp xml:id="paides" sex="UNKNOWN">
+               <name>Παῖδες</name>
+               <name type="variant">Παῖδες Μηδείας</name>
+               <name xml:lang="en">Children of Medea</name>
+            </personGrp>
+            <person xml:id="paidagogos" sex="MALE">
+               <persName>Παιδαγωγός</persName>
+               <persName xml:lang="en">Old Slave</persName>
+            </person>
+            <person xml:id="iason" sex="MALE">
+               <persName>Ἰάσων</persName>
+               <persName xml:lang="en">Jason</persName>
+               <idno type="wikidata">Q176758</idno>
+            </person>
+            <personGrp xml:id="choros" sex="FEMALE">
+               <name>Χορός</name>
+               <name type="variant">Χορὸς γυναικών</name>
+               <name xml:lang="en">Chrous of Corinthian Women</name>
+            </personGrp>
+            <person xml:id="aigeus" sex="MALE">
+               <persName>Αἰγεύς</persName>
+               <persName xml:lang="en">Aegeus</persName>
+               <idno type="wikidata">Q191725</idno>
+            </person>
+            <person xml:id="medeia" sex="FEMALE">
+               <persName>Μήδεια</persName>
+               <persName xml:lang="en">Medea</persName>
+               <idno type="wikidata">Q174278</idno>
+            </person>
+            <person xml:id="angelos" sex="MALE">
+               <persName>Ἄγγελος</persName>
+               <persName xml:lang="en">Messenger</persName>
+            </person>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000044"
+         source="tlg0006/tlg004/tlg0006.tlg004.perseus-grc2.xml"
+         slug="euripides-heraclidae"
+         slug-en="euripides-children-of-heracles"
+         wikidata="Q1233203">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Ἡρακλεῖδαι</title>
+         <title xml:lang="la">Heraclidae</title>
+         <title xml:lang="en">Children of Heracles</title>
+         <title type="short">Heracl.</title>
+         <author>
+            <persName>Εὐριπίδης</persName>
+            <persName xml:lang="la">Euripides</persName>
+            <persName xml:lang="en">Euripides</persName>
+            <idno type="wikidata">Q48305</idno>
+         </author>
+         <editor>
+            <persName>Gilbert Murray</persName>
+            <idno type="wikidata">Q538478</idno>
+         </editor>
+      </titleStmt>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="iolaos" sex="MALE">
+               <persName>Ἰόλαος</persName>
+               <persName xml:lang="en">Iolaus</persName>
+               <idno type="wikidata">Q504076</idno>
+            </person>
+            <person xml:id="kerux" sex="MALE">
+               <persName>Κῆρυξ</persName>
+               <persName xml:lang="en">Herald</persName>
+               <idno type="wikidata">Q2641203</idno>
+            </person>
+            <personGrp xml:id="choros" sex="MALE">
+               <name>Χορός</name>
+               <name xml:lang="en">Chorus of Aged Athenians</name>
+            </personGrp>
+            <person xml:id="demophon" sex="MALE">
+               <persName>Δημοφῶν</persName>
+               <persName xml:lang="en">Demophon</persName>
+               <idno type="wikidata">Q912376</idno>
+            </person>
+            <person xml:id="makaria" sex="FEMALE">
+               <persName>Μακαρία</persName>
+               <persName type="variant">Μακαρία Παρθένος</persName>
+               <persName xml:lang="en">Macaria</persName>
+               <idno type="wikidata">Q1550960</idno>
+            </person>
+            <person xml:id="therapon" sex="MALE">
+               <persName>Θεράπων</persName>
+               <persName xml:lang="en">Slave</persName>
+            </person>
+            <person xml:id="alkmene" sex="FEMALE">
+               <persName>Ἀλκμήνη</persName>
+               <persName xml:lang="en">Alcmena</persName>
+               <idno type="wikidata">Q190543</idno>
+            </person>
+            <person xml:id="angelos" sex="MALE">
+               <persName>Ἀγγελος</persName>
+               <persName xml:lang="en">Messenger</persName>
+            </person>
+            <person xml:id="eurystheus" sex="MALE">
+               <persName>Ἐυρυσθεύς</persName>
+               <persName xml:lang="en">Eurystheus</persName>
+               <idno type="wikidata">Q212087</idno>
+            </person>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000045"
+         source="tlg0006/tlg005/tlg0006.tlg005.perseus-grc2.xml"
+         slug="euripides-hippolytus"
+         wikidata="Q375786">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Ἱππόλυτος</title>
+         <title xml:lang="la">Hippolytus</title>
+         <title xml:lang="en">Hippolytus</title>
+         <title type="short">Hipp.</title>
+         <author>
+            <persName>Εὐριπίδης</persName>
+            <persName xml:lang="la">Euripides</persName>
+            <persName xml:lang="en">Euripides</persName>
+            <idno type="wikidata">Q48305</idno>
+         </author>
+         <editor>
+            <persName>Gilbert Murray</persName>
+            <idno type="wikidata">Q538478</idno>
+         </editor>
+      </titleStmt>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="aphrodite" sex="FEMALE">
+               <persName>Ἀφροδίτη</persName>
+               <persName xml:lang="en">Aphrodite</persName>
+               <idno type="wikidata">Q35500</idno>
+            </person>
+            <person xml:id="hippolytus" sex="MALE">
+               <persName>Ἱππόλυτος</persName>
+               <persName xml:lang="en">Hippolytus</persName>
+               <idno type="wikidata">Q338201</idno>
+            </person>
+            <personGrp xml:id="choros-kynegon" sex="MALE">
+               <name>Χορὸς Κυνηγῶν</name>
+               <name type="variant">Χορός</name>
+               <name xml:lang="en">Chorus of Hunters</name>
+            </personGrp>
+            <person xml:id="therapon" sex="MALE">
+               <persName>Θεράπων</persName>
+               <persName xml:lang="en">Slave</persName>
+            </person>
+            <personGrp xml:id="choros-troizenion-gynaikon" sex="FEMALE">
+               <name>Χορὸς Τροιζηνίων Γυναικών</name>
+               <name type="variant">Χορός</name>
+               <name xml:lang="en">Chorus of Troezenian Women</name>
+            </personGrp>
+            <person xml:id="trophos" sex="FEMALE">
+               <persName>Τροφός</persName>
+               <persName xml:lang="en">Nurse</persName>
+            </person>
+            <person xml:id="phaidra" sex="FEMALE">
+               <persName>Φαίδρα</persName>
+               <persName xml:lang="en">Phaedra</persName>
+               <idno type="wikidata">Q212818</idno>
+            </person>
+            <person xml:id="theseus" sex="MALE">
+               <persName>Θησεύς</persName>
+               <persName xml:lang="en">Theseus</persName>
+               <idno type="wikidata">Q1320718</idno>
+            </person>
+            <person xml:id="angelos" sex="MALE">
+               <persName>Ἄγγελος</persName>
+               <persName xml:lang="en">Messenger</persName>
+            </person>
+            <person xml:id="artemis" sex="FEMALE">
+               <persName>Ἄρτεμις</persName>
+               <persName xml:lang="en">Artemis</persName>
+               <idno type="wikidata">Q39503</idno>
+            </person>
+         </listPerson>
+      </particDesc>
+   </play>
+   <play id="greek000046"
+         source="tlg0006/tlg006/tlg0006.tlg006.perseus-grc2.xml"
+         slug="euripides-andromache"
+         wikidata="Q512802">
+      <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+         <title>Ἀνδρομάχη</title>
+         <title xml:lang="la">Andromache</title>
+         <title xml:lang="en">Andromache</title>
+         <title type="short">Andr.</title>
+         <author>
+            <persName>Εὐριπίδης</persName>
+            <persName xml:lang="la">Euripides</persName>
+            <persName xml:lang="en">Euripides</persName>
+            <idno type="wikidata">Q48305</idno>
+         </author>
+         <editor>
+            <persName>Gilbert Murray</persName>
+            <idno type="wikidata">Q538478</idno>
+         </editor>
+      </titleStmt>
+      <particDesc xmlns="http://www.tei-c.org/ns/1.0">
+         <listPerson>
+            <person xml:id="andromache" sex="FEMALE">
+               <persName>Ἀνδρομάχη</persName>
+               <persName xml:lang="en">Andromache</persName>
+               <idno type="wikidata">Q19376</idno>
+            </person>
+            <person xml:id="therapaina" sex="FEMALE">
+               <persName>Θεράπαινα</persName>
+               <persName xml:lang="en">Slave</persName>
+            </person>
+            <personGrp xml:id="choros" sex="FEMALE">
+               <name>Χορός</name>
+               <name xml:lang="en">Chorus of Phthian Women</name>
+            </personGrp>
+            <person xml:id="hermione" sex="FEMALE">
+               <persName>Ἑρμιόνη</persName>
+               <persName xml:lang="en">Hermione</persName>
+               <idno type="wikidata">Q658523</idno>
+            </person>
+            <person xml:id="menelaos" sex="MALE">
+               <persName>Μενέλαος</persName>
+               <persName xml:lang="en">Menelaus</persName>
+               <idno type="wikidata">Q171839</idno>
+            </person>
+            <person xml:id="pais" sex="UNKNOWN">
+               <persName>Παῖς</persName>
+               <persName type="variant">Παῖς Ἀνδρομάχης</persName>
+               <persName xml:lang="en">Child of Andromache</persName>
+            </person>
+            <person xml:id="peleus" sex="MALE">
+               <persName>Πηλεύς</persName>
+               <persName xml:lang="en">Peleus</persName>
+               <idno type="wikidata">Q178641</idno>
+            </person>
+            <person xml:id="trophos" sex="FEMALE">
+               <persName>Τροφός</persName>
+               <persName xml:lang="en">Nurse</persName>
+            </person>
+            <person xml:id="orestes" sex="MALE">
+               <persName>Ὀρέστης</persName>
+               <persName xml:lang="en">Orestes</persName>
+               <idno type="wikidata">Q192407</idno>
+            </person>
+            <person xml:id="angelos" sex="MALE">
+               <persName>Ἄγγελος</persName>
+               <persName xml:lang="en">Messenger</persName>
+            </person>
+            <person xml:id="thetis" sex="FEMALE">
+               <persName>Θέτις</persName>
+               <persName xml:lang="en">Thetis</persName>
+               <idno type="wikidata">Q184437</idno>
+            </person>
+         </listPerson>
+      </particDesc>
+   </play>
+</index>

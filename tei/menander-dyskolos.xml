@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="greek000040" xml:lang="grc">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="greek000040" xml:lang="grc" type="dracor">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -60,19 +60,26 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>Wikisource</name>
-          <idno type="URL">https://el.wikisource.org/wiki/Δύσκολος</idno>
+          <ref target="https://el.wikisource.org/wiki/Δύσκολος">Wikisource</ref>
           <availability status="free">
             <licence target="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</licence>
           </availability>
-          <bibl type="originalSource">
-            <title level="s">Menandri reliquiae selectae</title>. ed. <editor>F. H. Sandbach</editor>.
-              Revised edition. <pubPlace>Oxford</pubPlace>: <publisher>OUP</publisher> <date>1990</date>,
-              pp. <biblScope unit="page" from="43" to="91">43–91</biblScope> (= Oxford Classical Texts).
-          </bibl>
+        </bibl>
+        <bibl type="originalSource">
+          <title level="s">Menandri reliquiae selectae</title>. ed. <editor>F. H. Sandbach</editor>.
+          Revised edition. <pubPlace>Oxford</pubPlace>: <publisher>OUP</publisher> <date>1990</date>,
+          pp. <biblScope unit="page" from="43" to="91">43–91</biblScope> (= Oxford Classical Texts).
         </bibl>
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <refsDecl>
+        <citeStructure
+          unit="act"
+          match="/tei:TEI//tei:body//tei:div[@type='act']"
+          use="position()"/>
+      </refsDecl>
+    </encodingDesc>
     <profileDesc>
       <particDesc>
         <listPerson>

@@ -298,6 +298,7 @@
                <relation name="parent-of" active="#klytaimestras-eidolon" passive="#orestes"/>
                <relation name="associated-with" active="#orestes" passive="#apollon #athena"/>
                <relation name="associated-with" active="#propompoi" passive="#athena"/>
+               <relation name="killer-of" active="orestes" passive ="#klytaimestras-eidolon"/>
             </listRelation>
          </listPerson>
       </particDesc>
@@ -557,6 +558,7 @@
                <relation name="spouses" mutual="#aias #tekmessa"/>
                <relation name="siblings" mutual="#teukros #aias"/>
                <relation name="associated-with" active="#angelos" passive="#teukros"/>
+               <relation name="killer-of" active="#aias" passive="#aias"/>
             </listRelation>
          </listPerson>
       </particDesc>
@@ -641,6 +643,7 @@
                          passive="#klytaimnestra #aigisthos"/>
                <relation name="associated-with" active="#trophos" passive="#orestes"/>
                <relation name="lover-of" active="#aigisthos" passive="#klytaimnestra"/>
+               <relation name="killer-of" active="orestes" passive="#aigisthos #klytaimnestra"/>
             </listRelation>
          </listPerson>
       </particDesc>
@@ -1284,6 +1287,7 @@
                <relation name="parent-of" active="#iokaste" passive="#oidipous"/>
                <relation name="spouses" mutual="#oidipous #iokaste"/>
                <relation name="siblings" mutual="#iokaste #kreon"/>
+               <relation name="killer-of" active="#iokaste" passive="#iokaste"/>
             </listRelation>
          </listPerson>
       </particDesc>
@@ -1866,6 +1870,7 @@
                          active="#klytaimnestra"
                          passive="#orestes #elektra #chrysothemis"/>
                <relation name="lover-of" active="#aigisthos" passive="#klytaimnestra"/>
+               <relation name="killer-of" active="#orestes" passive="#klytaimnestra #aigisthos"/>
             </listRelation>
          </listPerson>
       </particDesc>
@@ -2120,6 +2125,7 @@
                <relation name="parent-of" active="#deianeira #herakles" passive="#hyllos"/>
                <relation name="associated-with" active="#angelos" passive="#herakles"/>
                <relation name="associated-with" active="#lichas" passive="#herakles"/>
+               <relation name="killer-of" active="#deianeira" passive="#herakles #deianeira"/>
             </listRelation>
          </listPerson>
       </particDesc>
@@ -2208,6 +2214,9 @@
                <relation name="associated-with" active="#phylax" passive="#kreon"/>
                <relation name="associated-with" active="#exangelos" passive="#kreon"/>
                <relation name="associated-with" active="#angelos" passive="#kreon #eurydike"/>
+               <relation name="killer-of" active="#kreon" passive="#antigone"/>
+               <relation name="killer-of" active="#haimon" passive="#haimon"/>
+               <relation name="killer-of" active="#eurydike" passive="#eurydike"/>
             </listRelation>
          </listPerson>
       </particDesc>
@@ -2279,6 +2288,7 @@
                <relation name="associated-with" active="#kasandra" passive="#agamemnon"/>
                <relation name="related-with" active="#aigisthos" passive="#agamemnon"/>
                <relation name="lover-of" active="#aigisthos" passive="#klytaimestra"/>
+               <relation name="killer-of" active="klyteimestra" passive="#agamemnon #kasandra"/>
             </listRelation>
          </listPerson>
       </particDesc>

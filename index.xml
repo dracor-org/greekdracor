@@ -294,10 +294,10 @@
                <name xml:lang="en">An Escort</name>
             </personGrp>
             <listRelation>
-               <relation name="associated_with" active="#pythias" passive="#apollon"/>
-               <relation name="parent_of" active="#klytaimestras-eidolon" passive="#orestes"/>
-               <relation name="associated_with" active="#orestes" passive="#apollon #athena"/>
-               <relation name="associated_with" active="#propompoi" passive="#athena"/>
+               <relation name="associated-with" active="#pythias" passive="#apollon"/>
+               <relation name="parent-of" active="#klytaimestras-eidolon" passive="#orestes"/>
+               <relation name="associated-with" active="#orestes" passive="#apollon #athena"/>
+               <relation name="associated-with" active="#propompoi" passive="#athena"/>
             </listRelation>
          </listPerson>
       </particDesc>
@@ -377,7 +377,7 @@
             </person>
             <listRelation>
                <relation name="siblings" mutual="#antigone #ismene #eteokles"/>
-               <relation name="associated_with" active="#angelos" passive="#eteokles"/>
+               <relation name="associated-with" active="#angelos" passive="#eteokles"/>
             </listRelation>
          </listPerson>
       </particDesc>
@@ -550,13 +550,13 @@
                <idno type="wikidata">Q128176</idno>
             </person>
             <listRelation>
-               <relation name="associated_with" active="#odysseus" passive="#athena"/>
-               <relation name="associated_with"
+               <relation name="associated-with" active="#odysseus" passive="#athena"/>
+               <relation name="associated-with"
                          active="#choros #hemichorion-1 #hemichorion-2"
                          passive="#aias"/>
                <relation name="spouses" mutual="#aias #tekmessa"/>
                <relation name="siblings" mutual="#teukros #aias"/>
-               <relation name="associated_with" active="#angelos" passive="#teukros"/>
+               <relation name="associated-with" active="#angelos" passive="#teukros"/>
             </listRelation>
          </listPerson>
       </particDesc>
@@ -629,18 +629,18 @@
                <idno type="wikidata">Q212091</idno>
             </person>
             <listRelation>
-               <relation name="parent_of"
+               <relation name="parent-of"
                          active="#klytaimnestra"
                          passive="#elektra #orestes"/>
                <relation name="siblings" mutual="#elektre #orestes"/>
                <relation name="friends" mutual="#orestes #pylades"/>
-               <relation name="associated_with" active="#choros" passive="#elektra"/>
-               <relation name="parent_of" active="#aigisthos" passive="#klytaimnestra"/>
-               <relation name="associated_with"
+               <relation name="associated-with" active="#choros" passive="#elektra"/>
+               <relation name="parent-of" active="#aigisthos" passive="#klytaimnestra"/>
+               <relation name="associated-with"
                          active="#oiketes"
                          passive="#klytaimnestra #aigisthos"/>
-               <relation name="associated_with" active="#trophos" passive="#orestes"/>
-               <relation name="lover_of" active="#aigisthos" passive="#klytaimnestra"/>
+               <relation name="associated-with" active="#trophos" passive="#orestes"/>
+               <relation name="lover-of" active="#aigisthos" passive="#klytaimnestra"/>
             </listRelation>
          </listPerson>
       </particDesc>
@@ -735,8 +735,8 @@
                <idno type="wikidata">Q12884611</idno>
             </person>
             <listRelation>
-               <relation name="related_with" active="#mnesilochos" passive="#euripides"/>
-               <relation name="associated_with" active="#therapon" passive="#agathon"/>
+               <relation name="related-with" active="#mnesilochos" passive="#euripides"/>
+               <relation name="associated-with" active="#therapon" passive="#agathon"/>
             </listRelation>
          </listPerson>
       </particDesc>
@@ -812,7 +812,7 @@
                <persName xml:lang="en">Demos</persName>
             </person>
             <listRelation>
-               <relation name="associated_with"
+               <relation name="associated-with"
                          active="#demosthenes #nikias #kleon"
                          passive="#demos"/>
             </listRelation>
@@ -886,13 +886,13 @@
                <idno type="wikidata">Q41484</idno>
             </person>
             <listRelation>
-               <relation name="parent_of" active="#okeanos" passive="#choros"/>
-               <relation name="associated_with" active="#kratos" passive="#hephaistos"/>
-               <relation name="related_with" active="#hephaistos" passive="#prometheus"/>
+               <relation name="parent-of" active="#okeanos" passive="#choros"/>
+               <relation name="associated-with" active="#kratos" passive="#hephaistos"/>
+               <relation name="related-with" active="#hephaistos" passive="#prometheus"/>
                <relation name="friends" mutual="#hephaistos #prometheus"/>
-               <relation name="related_with" active="#okeanos" passive="#prometheus"/>
+               <relation name="related-with" active="#okeanos" passive="#prometheus"/>
                <relation name="friends" mutual="#okeanos #prometheus"/>
-               <relation name="related_with" active="#io" passive="#choros"/>
+               <relation name="related-with" active="#io" passive="#choros"/>
             </listRelation>
          </listPerson>
       </particDesc>
@@ -1041,7 +1041,7 @@
                <idno type="wikidata">Q122248</idno>
             </person>
             <listRelation>
-               <relation name="associated_with" active="#therapon-epopos" passive="#epops"/>
+               <relation name="associated-with" active="#therapon-epopos" passive="#epops"/>
             </listRelation>
          </listPerson>
       </particDesc>
@@ -1199,11 +1199,11 @@
                <persName xml:lang="en">A Fellow-Drinker</persName>
             </person>
             <listRelation>
-               <relation name="associated_with"
+               <relation name="associated-with"
                          active="#sosias #xanthias"
                          passive="#bdelykleon"/>
-               <relation name="parent_of" active="#philokleon" passive="#bdelykleon"/>
-               <relation name="parent_of" active="#choros" passive="#pais"/>
+               <relation name="parent-of" active="#philokleon" passive="#bdelykleon"/>
+               <relation name="parent-of" active="#choros" passive="#pais"/>
             </listRelation>
          </listPerson>
       </particDesc>
@@ -1281,7 +1281,7 @@
                <persName xml:lang="en">A Second Messenger</persName>
             </person>
             <listRelation type="personal">
-               <relation name="parent_of" active="#iokaste" passive="#oidipous"/>
+               <relation name="parent-of" active="#iokaste" passive="#oidipous"/>
                <relation name="spouses" mutual="#oidipous #iokaste"/>
                <relation name="siblings" mutual="#iokaste #kreon"/>
             </listRelation>
@@ -1426,7 +1426,7 @@
             </personGrp>
             <listRelation>
                <relation name="spouses" mutual="#myrrine #kinesias"/>
-               <relation name="parent_of"
+               <relation name="parent-of"
                          active="#myrrine #kinesias"
                          passive="#pais-kinesiou"/>
             </listRelation>
@@ -1539,7 +1539,7 @@
                <idno type="wikidata">Q152262</idno>
             </person>
             <listRelation>
-               <relation name="associated_with" active="#xanthias" passive="#dionysos"/>
+               <relation name="associated-with" active="#xanthias" passive="#dionysos"/>
             </listRelation>
          </listPerson>
       </particDesc>
@@ -1609,10 +1609,10 @@
                <idno type="wikidata">Q37340</idno>
             </person>
             <listRelation>
-               <relation name="parent_of"
+               <relation name="parent-of"
                          active="#silenos"
                          passive="#choros-satyron #hemichoros-a #hemichoros-b"/>
-               <relation name="associated_with"
+               <relation name="associated-with"
                          active="#silenos #choros-satyron #hemichoros-a #hemichoros-b"
                          passive="#apollon"/>
             </listRelation>
@@ -1783,13 +1783,13 @@
                <persName type="variant">&lt;Θεράπαινα&gt;</persName>
             </person>
             <listRelation>
-               <relation name="parent_of"
+               <relation name="parent-of"
                          active="#danaos"
                          passive="#choros-danaidon #danais"/>
-               <relation name="related_with"
+               <relation name="related-with"
                          active="#choros-danaidon #danais #danaos"
                          passive="#basileus"/>
-               <relation name="associated_with"
+               <relation name="associated-with"
                          active="#choros-therapainon #therapaina"
                          passive="choros-danaidon #danais"/>
             </listRelation>
@@ -1860,12 +1860,12 @@
                <idno type="wikidata">Q212091</idno>
             </person>
             <listRelation>
-               <relation name="associated_with" active="#paidagogos" passive="#orestes"/>
+               <relation name="associated-with" active="#paidagogos" passive="#orestes"/>
                <relation name="siblings" mutual="#orestes #elektra #chrysothemis"/>
-               <relation name="parent_of"
+               <relation name="parent-of"
                          active="#klytaimnestra"
                          passive="#orestes #elektra #chrysothemis"/>
-               <relation name="lover_of" active="#aigisthos" passive="#klytaimnestra"/>
+               <relation name="lover-of" active="#aigisthos" passive="#klytaimnestra"/>
             </listRelation>
          </listPerson>
       </particDesc>
@@ -1928,10 +1928,10 @@
             <listRelation>
                <relation name="#choros" passive="#xerxes"/>
                <relation name="spouses" mutual="#atossa #eidolon-dareiou"/>
-               <relation name="parent_of"
+               <relation name="parent-of"
                          active="#atossa #eidolon-dareiou"
                          passive="#xerxes"/>
-               <relation name="associated_with" active="#angelos" passive="#atossa"/>
+               <relation name="associated-with" active="#angelos" passive="#atossa"/>
             </listRelation>
          </listPerson>
       </particDesc>
@@ -2115,11 +2115,11 @@
                <idno type="wikidata">Q122248</idno>
             </person>
             <listRelation>
-               <relation name="associated_with" active="#therapaina" passive="#deianeira"/>
+               <relation name="associated-with" active="#therapaina" passive="#deianeira"/>
                <relation name="spouses" mutual="#deianeira #herakles"/>
-               <relation name="parent_of" active="#deianeira #herakles" passive="#hyllos"/>
-               <relation name="associated_with" active="#angelos" passive="#herakles"/>
-               <relation name="associated_with" active="#lichas" passive="#herakles"/>
+               <relation name="parent-of" active="#deianeira #herakles" passive="#hyllos"/>
+               <relation name="associated-with" active="#angelos" passive="#herakles"/>
+               <relation name="associated-with" active="#lichas" passive="#herakles"/>
             </listRelation>
          </listPerson>
       </particDesc>
@@ -2203,11 +2203,11 @@
                <relation name="siblings" mutual="#antigone #ismene"/>
                <relation name="spouses" mutual="#antigone #haimon"/>
                <relation name="spouses" mutual="#kreon #eurydike"/>
-               <relation name="parent_of" active="#kreon #eurydike" passive="#haimon"/>
-               <relation name="related_with" active="#antigone #ismene" passive="#kreon"/>
-               <relation name="associated_with" active="#phylax" passive="#kreon"/>
-               <relation name="associated_with" active="#exangelos" passive="#kreon"/>
-               <relation name="associated_with" active="#angelos" passive="#kreon #eurydike"/>
+               <relation name="parent-of" active="#kreon #eurydike" passive="#haimon"/>
+               <relation name="related-with" active="#antigone #ismene" passive="#kreon"/>
+               <relation name="associated-with" active="#phylax" passive="#kreon"/>
+               <relation name="associated-with" active="#exangelos" passive="#kreon"/>
+               <relation name="associated-with" active="#angelos" passive="#kreon #eurydike"/>
             </listRelation>
          </listPerson>
       </particDesc>
@@ -2274,11 +2274,11 @@
                <idno type="wikidata">Q212091</idno>
             </person>
             <listRelation>
-               <relation name="associated_with" active="#phylax" passive="#agamemnon"/>
-               <relation name="associated_with" active="#keryx" passive="#agamemnon"/>
-               <relation name="associated_with" active="#kasandra" passive="#agamemnon"/>
-               <relation name="related_with" active="#aigisthos" passive="#agamemnon"/>
-               <relation name="lover_of" active="#aigisthos" passive="#klytaimestra"/>
+               <relation name="associated-with" active="#phylax" passive="#agamemnon"/>
+               <relation name="associated-with" active="#keryx" passive="#agamemnon"/>
+               <relation name="associated-with" active="#kasandra" passive="#agamemnon"/>
+               <relation name="related-with" active="#aigisthos" passive="#agamemnon"/>
+               <relation name="lover-of" active="#aigisthos" passive="#klytaimestra"/>
             </listRelation>
          </listPerson>
       </particDesc>
@@ -2388,7 +2388,7 @@
             </person>
             <listRelation>
                <relation name="spouses" mutual="#praxagora #blepyros"/>
-               <relation name="associated_with" active="#therapaina" passive="#praxagora"/>
+               <relation name="associated-with" active="#therapaina" passive="#praxagora"/>
             </listRelation>
          </listPerson>
       </particDesc>
@@ -2883,10 +2883,10 @@
                <persName xml:lang="en">Messenger A</persName>
             </person>
             <listRelation>
-               <relation name="parent_of" active="#dikaiopolis" passive="#thygater"/>
-               <relation name="parent_of" active="#megareus" passive="#kora #kore"/>
-               <relation name="associated_with" active="#kephisophon" passive="#euripides"/>
-               <relation name="associated_with"
+               <relation name="parent-of" active="#dikaiopolis" passive="#thygater"/>
+               <relation name="parent-of" active="#megareus" passive="#kora #kore"/>
+               <relation name="associated-with" active="#kephisophon" passive="#euripides"/>
+               <relation name="associated-with"
                          active="#therapon-lamachou"
                          passive="#lamachos"/>
             </listRelation>
@@ -3021,11 +3021,11 @@
                <persName type="variant">Παῖς &lt;Κλεωνύμου&gt;</persName>
             </person>
             <listRelation>
-               <relation name="associated_with"
+               <relation name="associated-with"
                          active="#oiketes #oiketes-a #oiketes-b"
                          passive="#trygaios"/>
-               <relation name="parent_of" active="#trygaios" passive="#paidion"/>
-               <relation name="associated_with" active="#kydoimos" passive="#polemos"/>
+               <relation name="parent-of" active="#trygaios" passive="#paidion"/>
+               <relation name="associated-with" active="#kydoimos" passive="#polemos"/>
             </listRelation>
          </listPerson>
       </particDesc>
@@ -3216,9 +3216,9 @@
                <idno type="wikidata">Q41484</idno>
             </person>
             <listRelation>
-               <relation name="parent_of" active="#strepsiades" passive="#pheidippides"/>
-               <relation name="associated_with" active="#therapon" passive="#strepsiades"/>
-               <relation name="associated_with"
+               <relation name="parent-of" active="#strepsiades" passive="#pheidippides"/>
+               <relation name="associated-with" active="#therapon" passive="#strepsiades"/>
+               <relation name="associated-with"
                          active="#mathetes #mathetes-a #mathetes-b #mathetes-g"
                          passive="#sokrates"/>
             </listRelation>
@@ -3298,11 +3298,11 @@
                <persName xml:lang="en">A Messenger</persName>
             </person>
             <listRelation>
-               <relation name="parent_of"
+               <relation name="parent-of"
                          active="#oidipous"
                          passive="#antigone #ismene #polyneikes"/>
                <relation name="siblings" mutual="#antigone #ismene #polyneikes"/>
-               <relation name="related_with"
+               <relation name="related-with"
                          active="#antigone #ismene #polyneikes"
                          passive="#kreon"/>
             </listRelation>
@@ -3402,7 +3402,7 @@
                <persName xml:lang="en">Priest of Zeus</persName>
             </person>
             <listRelation>
-               <relation name="associated_with" active="#karion" passive="#chremylos"/>
+               <relation name="associated-with" active="#karion" passive="#chremylos"/>
                <relation name="friends" mutual="#chremylos #blepsidemos"/>
                <relation name="spouses" mutual="#chremylos #gyne"/>
             </listRelation>
@@ -3468,7 +3468,7 @@
                <idno type="wikidata">Q122248</idno>
             </person>
             <listRelation>
-               <relation name="associated_with" active="#choros" passive="#neoptolemos"/>
+               <relation name="associated-with" active="#choros" passive="#neoptolemos"/>
             </listRelation>
          </listPerson>
       </particDesc>

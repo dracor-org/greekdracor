@@ -277,7 +277,7 @@
                <persName xml:lang="en">Shade of Clytemnestra</persName>
                <idno type="wikidata">Q131157</idno>
             </person>
-            <personGrp xml:id="choros" sex="FEMALE" role="chorus_dea">
+            <personGrp xml:id="choros" sex="FEMALE" role="chorus dea">
                <name>Χορός</name>
                <name type="variant">Χορὸς Εὐμενίδων</name>
                <name xml:lang="en">Chorus of Erinyes</name>
@@ -343,7 +343,7 @@
                <persName type="variant">Ἄγγελος Κατάσκοπος</persName>
                <persName xml:lang="en">A Messenger (Scout)</persName>
             </person>
-            <personGrp xml:id="choros" sex="FEMALE" role="chorus_virgo">
+            <personGrp xml:id="choros" sex="FEMALE" role="chorus virgo">
                <name>Χορός</name>
                <name type="variant">Χορὸς Παρθένων</name>
                <name xml:lang="en">Chorus of Theban Maidens</name>
@@ -507,21 +507,21 @@
                <persName xml:lang="en">Ajax</persName>
                <idno type="wikidata">Q172725</idno>
             </person>
-            <personGrp xml:id="choros" sex="MALE" role="chorus_nauta">
+            <personGrp xml:id="choros" sex="MALE" role="chorus nauta">
                <name>Χορός</name>
                <name type="variant">Χορὸς Σαλαμινίων Ναυτῶν</name>
                <name xml:lang="en">Chorus of Mariners of Salamis</name>
             </personGrp>
             <personGrp xml:id="hemichorion-1"
                        sex="MALE"
-                       role="semichorus_nauta"
+                       role="semichorus nauta"
                        corresp="#choros">
                <name>Ἡμιχόριον 1</name>
                <name xml:lang="en">Semi-Chorus 1</name>
             </personGrp>
             <personGrp xml:id="hemichorion-2"
                        sex="MALE"
-                       role="semichorus_nauta"
+                       role="semichorus nauta"
                        corresp="#choros">
                <name>Ἡμιχόριον 2</name>
                <name xml:lang="en">Semi-Chorus 2</name>
@@ -705,7 +705,7 @@
                <persName>Κηρύκαινα</persName>
                <persName xml:lang="en">A Herald</persName>
             </person>
-            <personGrp xml:id="choros" sex="FEMALE" role="chorus_uxor">
+            <personGrp xml:id="choros" sex="FEMALE" role="chorus uxor">
                <name>Χορός</name>
                <name type="variant">Χορὸς Θεσμοφοριαζουσῶν</name>
                <name xml:lang="en">Chorus of Women celebrating the Thesmophoria</name>
@@ -804,7 +804,7 @@
                <persName type="variant">Κλέων καὶ Ἀλλαντοπώλης</persName>
                <idno type="wikidata">Q298220</idno>
             </person>
-            <personGrp xml:id="choros" sex="MALE" role="chorus_eques">
+            <personGrp xml:id="choros" sex="MALE" role="chorus eques">
                <name>Χορός</name>
                <name type="variant">Χορὸς Ἱππεῶν</name>
                <name xml:lang="en">Chorus of Knights</name>
@@ -867,7 +867,7 @@
                <persName xml:lang="en">Prometheus</persName>
                <idno type="wikidata">Q83160</idno>
             </person>
-            <personGrp xml:id="choros" sex="FEMALE" role="chorus_dea_filia">
+            <personGrp xml:id="choros" sex="FEMALE" role="chorus dea filia">
                <name>Χορός</name>
                <name type="variant">Χορὸς Ὠκεανίδων</name>
                <name xml:lang="en">Chorus of the Daughters of Oceanus</name>
@@ -952,7 +952,7 @@
                <persName xml:lang="en">Epops (Hoopoe)</persName>
                <idno type="wikidata">Q1138506</idno>
             </person>
-            <personGrp xml:id="choros" sex="UNKNOWN" role="chorus_avis">
+            <personGrp xml:id="choros" sex="UNKNOWN" role="chorus avis">
                <name>Χορός</name>
                <name type="variant">Χορὸς Ὀρνιθών</name>
                <name xml:lang="en">Chorus of Birds</name>
@@ -1176,7 +1176,7 @@
                <persName>Φιλοκλέων</persName>
                <persName xml:lang="en">Philocleon</persName>
             </person>
-            <personGrp xml:id="choros" sex="MALE" role="chorus_senex">
+            <personGrp xml:id="choros" sex="MALE" role="chorus senex">
                <name>Χορός</name>
                <name type="variant">Χορὸς Γερόντων Σφηκών</name>
                <name xml:lang="en">Chorus of Old Wasps</name>
@@ -1255,7 +1255,7 @@
                <persName xml:lang="en">Creon</persName>
                <idno type="wikidata">Q732066</idno>
             </person>
-            <personGrp xml:id="choros" sex="MALE" role="chorus_senex">
+            <personGrp xml:id="choros" sex="MALE" role="chorus senex">
                <name>Χορός</name>
                <name type="variant">Χορὸς Γερόντων Θηβαίων</name>
                <name xml:lang="en">Chorus of Theban Elders</name>
@@ -1350,7 +1350,7 @@
             </personGrp>
             <personGrp xml:id="choros-geronton"
                        sex="MALE"
-                       role="semichorus_senex"
+                       role="semichorus senex"
                        corresp="#choros">
                <name>Χορὸς Γερόντων</name>
                <name type="variant">Χορὸς γερόντων</name>
@@ -1358,7 +1358,7 @@
             </personGrp>
             <personGrp xml:id="choros-gynaikon"
                        sex="FEMALE"
-                       role="semichorus_uxor"
+                       role="semichorus uxor"
                        corresp="#choros">
                <name>Χορὸς Γυναικῶν</name>
                <name xml:lang="en">Chorus of Old Athenian Women</name>
@@ -1495,7 +1495,7 @@
                <persName xml:lang="en">Charon</persName>
                <idno type="wikidata">Q6612</idno>
             </person>
-            <personGrp xml:id="batrachoi" sex="UNKNOWN" role="chorus_rana">
+            <personGrp xml:id="batrachoi" sex="UNKNOWN" role="chorus rana">
                <name>Βάτραχοι</name>
                <name type="variant">Παραχορήγημα βατράχων</name>
                <name xml:lang="en">Secondary Chorus of Frogs</name>
@@ -1577,26 +1577,26 @@
       </listEvent>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <personGrp xml:id="choros-satyron" sex="MALE" role="chorus_satyrus_filius">
+            <personGrp xml:id="choros-satyron" sex="MALE" role="chorus satyrus filius">
                <name>Χορὸς Σατύρων</name>
                <name type="variant">Χορός</name>
                <name xml:lang="en">Chorus of Satyrs</name>
                <idno type="wikidata">Q163709</idno>
             </personGrp>
-            <personGrp xml:id="hemichoros-a" sex="MALE" role="semichorus_satyrus_filius" corresp="#choros-satyron">
+            <personGrp xml:id="hemichoros-a" sex="MALE" role="semichorus satyrus filius" corresp="#choros-satyron">
                <name>Ἡμιχορὸς α</name>
                <name xml:lang="en">Semi-Chorus a</name>
                <name type="variant">Ἡμιχορός α</name>
                <name type="variant">Ἡμιχ. α</name>
                <idno type="wikidata">Q163709</idno>
             </personGrp>
-            <personGrp xml:id="hemichoros-b" sex="MALE" role="semichorus_satyrus_filius" corresp="#choros-satyron">
+            <personGrp xml:id="hemichoros-b" sex="MALE" role="semichorus satyrus filius" corresp="#choros-satyron">
                <name>Ἡμιχορὸς β</name>
                <name xml:lang="en">Semi-Chorus b</name>
                <name type="variant">Ἡμιχ. β</name>
                <idno type="wikidata">Q163709</idno>
             </personGrp>
-            <person xml:id="silenos" sex="MALE" role="satyrus_pater">
+            <person xml:id="silenos" sex="MALE" role="satyrus pater">
                <persName>Σιληνός</persName>
                <persName xml:lang="en">Silenus</persName>
                <idno type="wikidata">Q464091</idno>
@@ -1768,7 +1768,7 @@
                <persName xml:lang="en">Herald of the Sons of Aegyptus</persName>
                <persName type="variant">&lt;Κῆρυξ&gt;</persName>
             </person>
-            <personGrp xml:id="choros-therapainon" sex="FEMALE" role="chorus_ancilla">
+            <personGrp xml:id="choros-therapainon" sex="FEMALE" role="chorus ancilla">
                <name>Χορὸς Θεραπαινῶν</name>
                <name type="variant">Χορός Θεραπαινῶν</name>
                <name xml:lang="en">Chorus of Handmaidens</name>
@@ -1844,7 +1844,7 @@
                <persName xml:lang="en">Electra</persName>
                <idno type="wikidata">Q131651</idno>
             </person>
-            <personGrp xml:id="choros" sex="FEMALE" role="chorus_virgo">
+            <personGrp xml:id="choros" sex="FEMALE" role="chorus virgo">
                <name>Χορός</name>
                <name xml:lang="en">Chorus of Mycenean Women</name>
             </personGrp>
@@ -1905,7 +1905,7 @@
       </listEvent>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <personGrp xml:id="choros" sex="MALE" role="chorus_senex">
+            <personGrp xml:id="choros" sex="MALE" role="chorus senex">
                <name>Χορός</name>
                <name type="variant">Χορὸς Γερόντων</name>
                <name xml:lang="en">Chorus of Persian Elders</name>
@@ -2081,7 +2081,7 @@
                <persName xml:lang="en">Hyllus</persName>
                <idno type="wikidata">Q847268</idno>
             </person>
-            <personGrp xml:id="choros" sex="FEMALE" role="chorus_virgo">
+            <personGrp xml:id="choros" sex="FEMALE" role="chorus virgo">
                <name>Χορός</name>
                <name type="variant">Χορὸς Παρθενών Τραχινίων</name>
                <name xml:lang="en">Chorus of Trachinian Maidens</name>
@@ -2089,14 +2089,14 @@
             </personGrp>
             <personGrp xml:id="hemichorion-1"
                        sex="FEMALE"
-                       role="semichorus_virgo"
+                       role="semichorus virgo"
                        corresp="#choros">
                <name>Ἡμιχόριον 1</name>
                <name xml:lang="en">Semi-Chorus 1</name>
             </personGrp>
             <personGrp xml:id="hemichorion-2"
                        sex="FEMALE"
-                       role="semichorus_virgo"
+                       role="semichorus virgo"
                        corresp="#choros">
                <name>Ἡμιχόριον 2</name>
                <name xml:lang="en">Semi-Chorus 2</name>
@@ -2169,7 +2169,7 @@
                <persName xml:lang="en">Ismene</persName>
                <idno type="wikidata">Q753902</idno>
             </person>
-            <personGrp xml:id="choros" sex="MALE" role="chorus_senex">
+            <personGrp xml:id="choros" sex="MALE" role="chorus senex">
                <name>Χορός</name>
                <name xml:lang="en">Chorus of Theban Elders</name>
             </personGrp>
@@ -2254,7 +2254,7 @@
                <persName>Φύλαξ</persName>
                <persName xml:lang="en">A Watchman</persName>
             </person>
-            <personGrp xml:id="choros" sex="MALE" role="chorus_senex">
+            <personGrp xml:id="choros" sex="MALE" role="chorus senex">
                <name>Χορός</name>
                <name xml:lang="en">Chorus of Argive Elders</name>
             </personGrp>
@@ -2342,7 +2342,7 @@
                <persName>Γυνὴ Γ</persName>
                <persName xml:lang="en">Third Woman</persName>
             </person>
-            <personGrp xml:id="choros" sex="FEMALE" role="chorus_uxor">
+            <personGrp xml:id="choros" sex="FEMALE" role="chorus uxor">
                <name>Χορός</name>
                <name type="variant">Χορὸς γυναικῶν</name>
                <name xml:lang="en">Chorus of Athenian Women</name>
@@ -2806,21 +2806,21 @@
                <persName>Θέωρος</persName>
                <persName xml:lang="en">Theorus</persName>
             </person>
-            <personGrp xml:id="choros" sex="MALE" role="chorus_senex">
+            <personGrp xml:id="choros" sex="MALE" role="chorus senex">
                <name>Χορός</name>
                <name type="variant">Χορὸς Ἀχαρνέων</name>
                <name xml:lang="en">Chorus of Acharnian Elders</name>
             </personGrp>
             <personGrp xml:id="hemichorion-a"
                        sex="MALE"
-                       role="semichorus_senex"
+                       role="semichorus senex"
                        corresp="#choros">
                <name>Ἡμιχόριον Α</name>
                <name xml:lang="en">Semi-Chorus A</name>
             </personGrp>
             <personGrp xml:id="hemichorion-b"
                        sex="MALE"
-                       role="semichorus_senex"
+                       role="semichorus senex"
                        corresp="#choros">
                <name>Ἡμιχόριον Β</name>
                <name xml:lang="en">Semi-Chorus B</name>
@@ -2972,21 +2972,21 @@
                <persName xml:lang="en">Hubbub</persName>
                <idno type="wikidata">Q636428</idno>
             </person>
-            <personGrp xml:id="choros" sex="MALE" role="chorus_senex">
+            <personGrp xml:id="choros" sex="MALE" role="chorus senex">
                <name>Χορός</name>
                <name type="variant">Χορὸς Γερόντων</name>
                <name xml:lang="en">Chorus of Elders</name>
             </personGrp>
             <personGrp xml:id="hemichorion-a"
                        sex="MALE"
-                       role="semichorus_senex"
+                       role="semichorus senex"
                        corresp="#choros">
                <name>Ἡμιχόριον Α</name>
                <name xml:lang="en">Semi-Chorus A</name>
             </personGrp>
             <personGrp xml:id="hemichorion-b"
                        sex="MALE"
-                       role="semichorus_senex"
+                       role="semichorus senex"
                        corresp="#choros">
                <name>Ἡμιχόριον Β</name>
                <name xml:lang="en">Semi-Chorus B</name>
@@ -3279,7 +3279,7 @@
                <persName>Ξένος</persName>
                <persName xml:lang="en">A Stranger, a native of Colonus</persName>
             </person>
-            <personGrp xml:id="choros" sex="MALE" role="chorus_senex">
+            <personGrp xml:id="choros" sex="MALE" role="chorus senex">
                <name>Χορός</name>
                <name xml:lang="en">Chorus of Citizens of Colonus</name>
             </personGrp>
@@ -3365,7 +3365,7 @@
                <persName xml:lang="en">Plutus</persName>
                <idno type="wikidata">Q205251</idno>
             </person>
-            <personGrp xml:id="choros" sex="MALE" role="chorus_rusticus">
+            <personGrp xml:id="choros" sex="MALE" role="chorus rusticus">
                <name>Χορός</name>
                <name type="variant">Χορὸς ἀγροίκων</name>
                <name xml:lang="en">Chorus of Farmers</name>
@@ -3453,7 +3453,7 @@
                <persName xml:lang="en">Odysseus</persName>
                <idno type="wikidata">Q47231</idno>
             </person>
-            <personGrp xml:id="choros" sex="MALE" role="chorus_nauta">
+            <personGrp xml:id="choros" sex="MALE" role="chorus nauta">
                <name>Χορός</name>
                <name xml:lang="en">Chorus of Scyrian Sailors</name>
             </personGrp>

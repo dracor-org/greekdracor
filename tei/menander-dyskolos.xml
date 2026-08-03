@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="greek000040" xml:lang="grc" type="dracor">
   <teiHeader>
     <fileDesc>
@@ -70,6 +69,13 @@
           Revised edition. <pubPlace>Oxford</pubPlace>: <publisher>OUP</publisher> <date>1990</date>,
           pp. <biblScope unit="page" from="43" to="91">43–91</biblScope> (= Oxford Classical Texts).
         </bibl>
+        <bibl type="wikidata"><idno>Q1248766</idno></bibl>
+        <listEvent>
+          <event type="premiere" when="-0316">
+            <label>316 BC</label>
+            <desc>Based on Landfester, Manfred: Art. Menander of Athens. In: DNP Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0145.</desc>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -83,9 +89,10 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="pan" sex="MALE" role="deus prologus" ana="https://www.wikidata.org/wiki/Q132582">
+          <person xml:id="pan" sex="MALE" role="deus prologus">
             <persName>Πάν</persName>
             <persName xml:lang="en">Pan</persName>
+            <idno type="wikidata">Q132582</idno>
           </person>
           <person xml:id="chaireas" sex="MALE" role="parasitus">
             <persName>Χαιρέας</persName>
@@ -157,17 +164,6 @@
       </textClass>
     </profileDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="premiere" when="-0316">
-        <label>316 BC</label>
-        <desc>Based on Landfester, Manfred: Art. Menander of Athens. In: DNP Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0145.</desc>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/greek000040" passive="http://www.wikidata.org/entity/Q1248766"/>
-    </listRelation>
-  </standOff>
   <text>
     <body>
       <div n="1" type="act">

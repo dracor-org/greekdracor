@@ -75,7 +75,7 @@
                   <persName>Γυνὴ Γ</persName>
                   <persName xml:lang="en">Third Woman</persName>
                </person>
-               <personGrp xml:id="choros" sex="FEMALE" role="chorus_uxor">
+               <personGrp xml:id="choros" sex="FEMALE" role="chorus uxor">
                   <name>Χορός</name>
                   <name type="variant">Χορὸς γυναικῶν</name>
                   <name xml:lang="en">Chorus of Athenian Women</name>
@@ -131,7 +131,7 @@
                </person>
                <listRelation>
                   <relation name="spouses" mutual="#praxagora #blepyros"/>
-                  <relation name="associated_with" active="#therapaina" passive="#praxagora"/>
+                  <relation name="associated-with" active="#therapaina" passive="#praxagora"/>
                </listRelation>
             </listPerson>
          </particDesc>
@@ -140,7 +140,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-07-10">Transformed into DraCor TEI</change>
+         <change when="2026-08-03">Transformed into DraCor TEI</change>
          <change when="2023-03-14" who="Lisa Cerrato">EpiDoc and CTS updates: header compliance and said to speaker changes as well as line numbering verification</change>
          <change who="Aurélien Berra" when="2018-05-12">Test full compliance with CapiTainS CTS via HookTest and revise file: harmonise language @ident to grc and lat, de-duplicate lines where needed adding letters to numbers in @n, fix Latin content in some bibl tags erroneously in Greek, update EpiDoc schema metadata.</change>
          <change who="Bridget Almas">

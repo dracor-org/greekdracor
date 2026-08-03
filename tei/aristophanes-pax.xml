@@ -94,21 +94,21 @@
                   <persName xml:lang="en">Hubbub</persName>
                   <idno type="wikidata">Q636428</idno>
                </person>
-               <personGrp xml:id="choros" sex="MALE" role="chorus_senex">
+               <personGrp xml:id="choros" sex="MALE" role="chorus senex">
                   <name>Χορός</name>
                   <name type="variant">Χορὸς Γερόντων</name>
                   <name xml:lang="en">Chorus of Elders</name>
                </personGrp>
                <personGrp xml:id="hemichorion-a"
                           sex="MALE"
-                          role="semichorus_senex"
+                          role="semichorus senex"
                           corresp="#choros">
                   <name>Ἡμιχόριον Α</name>
                   <name xml:lang="en">Semi-Chorus A</name>
                </personGrp>
                <personGrp xml:id="hemichorion-b"
                           sex="MALE"
-                          role="semichorus_senex"
+                          role="semichorus senex"
                           corresp="#choros">
                   <name>Ἡμιχόριον Β</name>
                   <name xml:lang="en">Semi-Chorus B</name>
@@ -153,11 +153,11 @@
                   <persName type="variant">Παῖς &lt;Κλεωνύμου&gt;</persName>
                </person>
                <listRelation>
-                  <relation name="associated_with"
+                  <relation name="associated-with"
                             active="#oiketes #oiketes-a #oiketes-b"
                             passive="#trygaios"/>
-                  <relation name="parent_of" active="#trygaios" passive="#paidion"/>
-                  <relation name="associated_with" active="#kydoimos" passive="#polemos"/>
+                  <relation name="parent-of" active="#trygaios" passive="#paidion"/>
+                  <relation name="associated-with" active="#kydoimos" passive="#polemos"/>
                </listRelation>
             </listPerson>
          </particDesc>
@@ -166,7 +166,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-07-10">Transformed into DraCor TEI</change>
+         <change when="2026-08-03">Transformed into DraCor TEI</change>
          <change when="2023-03-06" who="Lisa Cerrato">EpiDoc and CTS updates: header compliance and line numbering verification</change>
          <change when="2018-05-12" who="Aurélien Berra">Convert to TEI P5 and EpiDoc. Test full compliance with CapiTainS CTS via HookTest and revise file: harmonise language @ident to grc and lat, de-duplicate lines where needed adding letters to numbers in @n, fix Latin content in some bibl tags erroneously in Greek, update EpiDoc schema metadata.</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory </change>

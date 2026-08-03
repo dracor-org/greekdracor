@@ -55,7 +55,7 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <personGrp xml:id="choros" sex="MALE" role="chorus_senex">
+               <personGrp xml:id="choros" sex="MALE" role="chorus senex">
                   <name>Χορός</name>
                   <name type="variant">Χορὸς Γερόντων</name>
                   <name xml:lang="en">Chorus of Persian Elders</name>
@@ -83,10 +83,10 @@
                <listRelation>
                   <relation name="#choros" passive="#xerxes"/>
                   <relation name="spouses" mutual="#atossa #eidolon-dareiou"/>
-                  <relation name="parent_of"
+                  <relation name="parent-of"
                             active="#atossa #eidolon-dareiou"
                             passive="#xerxes"/>
-                  <relation name="associated_with" active="#angelos" passive="#atossa"/>
+                  <relation name="associated-with" active="#angelos" passive="#atossa"/>
                </listRelation>
             </listPerson>
          </particDesc>
@@ -95,7 +95,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-07-10">Transformed into DraCor TEI</change>
+         <change when="2026-08-03">Transformed into DraCor TEI</change>
          <change when="2017-02-22" who="Lisa Cerrato">review of EpiDoc and CTS markup; adding line numbers, fixing change log, etc.</change>
          <change who="TDBuck" when="2016-01-11">p4 to p5</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>

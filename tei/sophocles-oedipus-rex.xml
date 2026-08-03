@@ -69,7 +69,7 @@
                   <persName xml:lang="en">Creon</persName>
                   <idno type="wikidata">Q732066</idno>
                </person>
-               <personGrp xml:id="choros" sex="MALE" role="chorus_senex">
+               <personGrp xml:id="choros" sex="MALE" role="chorus senex">
                   <name>Χορός</name>
                   <name type="variant">Χορὸς Γερόντων Θηβαίων</name>
                   <name xml:lang="en">Chorus of Theban Elders</name>
@@ -98,9 +98,10 @@
                   <persName xml:lang="en">A Second Messenger</persName>
                </person>
                <listRelation type="personal">
-                  <relation name="parent_of" active="#iokaste" passive="#oidipous"/>
+                  <relation name="parent-of" active="#iokaste" passive="#oidipous"/>
                   <relation name="spouses" mutual="#oidipous #iokaste"/>
                   <relation name="siblings" mutual="#iokaste #kreon"/>
+                  <relation name="killer-of" active="#iokaste" passive="#iokaste"/>
                </listRelation>
             </listPerson>
          </particDesc>
@@ -109,7 +110,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-07-10">Transformed into DraCor TEI</change>
+         <change when="2026-08-03">Transformed into DraCor TEI</change>
          <change when="2017-02-06" who="Lisa Cerrato">restructing to lines; minor cleanup such as change log.</change>
          <change when="2016-01-15" who="TDBuck">p4 to p5</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>

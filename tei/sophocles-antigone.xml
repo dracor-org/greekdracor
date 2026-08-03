@@ -65,7 +65,7 @@
                   <persName xml:lang="en">Ismene</persName>
                   <idno type="wikidata">Q753902</idno>
                </person>
-               <personGrp xml:id="choros" sex="MALE" role="chorus_senex">
+               <personGrp xml:id="choros" sex="MALE" role="chorus senex">
                   <name>Χορός</name>
                   <name xml:lang="en">Chorus of Theban Elders</name>
                </personGrp>
@@ -105,11 +105,14 @@
                   <relation name="siblings" mutual="#antigone #ismene"/>
                   <relation name="spouses" mutual="#antigone #haimon"/>
                   <relation name="spouses" mutual="#kreon #eurydike"/>
-                  <relation name="parent_of" active="#kreon #eurydike" passive="#haimon"/>
-                  <relation name="related_with" active="#antigone #ismene" passive="#kreon"/>
-                  <relation name="associated_with" active="#phylax" passive="#kreon"/>
-                  <relation name="associated_with" active="#exangelos" passive="#kreon"/>
-                  <relation name="associated_with" active="#angelos" passive="#kreon #eurydike"/>
+                  <relation name="parent-of" active="#kreon #eurydike" passive="#haimon"/>
+                  <relation name="related-with" active="#antigone #ismene" passive="#kreon"/>
+                  <relation name="associated-with" active="#phylax" passive="#kreon"/>
+                  <relation name="associated-with" active="#exangelos" passive="#kreon"/>
+                  <relation name="associated-with" active="#angelos" passive="#kreon #eurydike"/>
+                  <relation name="killer-of" active="#kreon" passive="#antigone"/>
+                  <relation name="killer-of" active="#haimon" passive="#haimon"/>
+                  <relation name="killer-of" active="#eurydike" passive="#eurydike"/>
                </listRelation>
             </listPerson>
          </particDesc>
@@ -118,7 +121,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-07-10">Transformed into DraCor TEI</change>
+         <change when="2026-08-03">Transformed into DraCor TEI</change>
          <change when="2017-01-25" who="Lisa Cerrato">fixing change log, adding line numbers</change>
          <change when="2016-01-15" who="TDBuck">CTS RefsDecl added fixed divs for CTS</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>

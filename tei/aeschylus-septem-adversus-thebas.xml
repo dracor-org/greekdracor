@@ -65,7 +65,7 @@
                   <persName type="variant">Ἄγγελος Κατάσκοπος</persName>
                   <persName xml:lang="en">A Messenger (Scout)</persName>
                </person>
-               <personGrp xml:id="choros" sex="FEMALE" role="chorus_virgo">
+               <personGrp xml:id="choros" sex="FEMALE" role="chorus virgo">
                   <name>Χορός</name>
                   <name type="variant">Χορὸς Παρθένων</name>
                   <name xml:lang="en">Chorus of Theban Maidens</name>
@@ -100,7 +100,7 @@
                </person>
                <listRelation>
                   <relation name="siblings" mutual="#antigone #ismene #eteokles"/>
-                  <relation name="associated_with" active="#angelos" passive="#eteokles"/>
+                  <relation name="associated-with" active="#angelos" passive="#eteokles"/>
                </listRelation>
             </listPerson>
          </particDesc>
@@ -109,7 +109,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-07-10">Transformed into DraCor TEI</change>
+         <change when="2026-08-03">Transformed into DraCor TEI</change>
          <change when="2017-02-28" who="Lisa Cerrato">adding line numbers and fixing markup inconsistencies</change>
          <change who="TDBuck" when="2016-01-11">p4 to p5</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>

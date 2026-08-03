@@ -69,7 +69,7 @@
                   <persName>Ξένος</persName>
                   <persName xml:lang="en">A Stranger, a native of Colonus</persName>
                </person>
-               <personGrp xml:id="choros" sex="MALE" role="chorus_senex">
+               <personGrp xml:id="choros" sex="MALE" role="chorus senex">
                   <name>Χορός</name>
                   <name xml:lang="en">Chorus of Citizens of Colonus</name>
                </personGrp>
@@ -98,11 +98,11 @@
                   <persName xml:lang="en">A Messenger</persName>
                </person>
                <listRelation>
-                  <relation name="parent_of"
+                  <relation name="parent-of"
                             active="#oidipous"
                             passive="#antigone #ismene #polyneikes"/>
                   <relation name="siblings" mutual="#antigone #ismene #polyneikes"/>
-                  <relation name="related_with"
+                  <relation name="related-with"
                             active="#antigone #ismene #polyneikes"
                             passive="#kreon"/>
                </listRelation>
@@ -113,7 +113,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-07-10">Transformed into DraCor TEI</change>
+         <change when="2026-08-03">Transformed into DraCor TEI</change>
          <change when="2017-02-08" who="Lisa Cerrato">regularizing structure; fixing change log, quotes, etc.</change>
          <change when="2016-01-15" who="TDBuck">p4 to p5</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>

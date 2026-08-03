@@ -76,7 +76,7 @@
                   <persName xml:lang="en">Shade of Clytemnestra</persName>
                   <idno type="wikidata">Q131157</idno>
                </person>
-               <personGrp xml:id="choros" sex="FEMALE" role="chorus_dea">
+               <personGrp xml:id="choros" sex="FEMALE" role="chorus dea">
                   <name>Χορός</name>
                   <name type="variant">Χορὸς Εὐμενίδων</name>
                   <name xml:lang="en">Chorus of Erinyes</name>
@@ -93,10 +93,11 @@
                   <name xml:lang="en">An Escort</name>
                </personGrp>
                <listRelation>
-                  <relation name="associated_with" active="#pythias" passive="#apollon"/>
-                  <relation name="parent_of" active="#klytaimestras-eidolon" passive="#orestes"/>
-                  <relation name="associated_with" active="#orestes" passive="#apollon #athena"/>
-                  <relation name="associated_with" active="#propompoi" passive="#athena"/>
+                  <relation name="associated-with" active="#pythias" passive="#apollon"/>
+                  <relation name="parent-of" active="#klytaimestras-eidolon" passive="#orestes"/>
+                  <relation name="associated-with" active="#orestes" passive="#apollon #athena"/>
+                  <relation name="associated-with" active="#propompoi" passive="#athena"/>
+                  <relation name="killer-of" active="orestes" passive="#klytaimestras-eidolon"/>
                </listRelation>
             </listPerson>
          </particDesc>
@@ -105,7 +106,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-07-10">Transformed into DraCor TEI</change>
+         <change when="2026-08-03">Transformed into DraCor TEI</change>
          <change when="2017-03-08" who="Lisa Cerrato">review of structure, adding line numbers, removing entities and quotes, etc.</change>
          <change when="2016-01-14" who="TDBuck">p4 to p5</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>

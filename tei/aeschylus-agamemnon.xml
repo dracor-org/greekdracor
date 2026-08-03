@@ -59,7 +59,7 @@
                   <persName>Φύλαξ</persName>
                   <persName xml:lang="en">A Watchman</persName>
                </person>
-               <personGrp xml:id="choros" sex="MALE" role="chorus_senex">
+               <personGrp xml:id="choros" sex="MALE" role="chorus senex">
                   <name>Χορός</name>
                   <name xml:lang="en">Chorus of Argive Elders</name>
                </personGrp>
@@ -88,11 +88,14 @@
                   <idno type="wikidata">Q212091</idno>
                </person>
                <listRelation>
-                  <relation name="associated_with" active="#phylax" passive="#agamemnon"/>
-                  <relation name="associated_with" active="#keryx" passive="#agamemnon"/>
-                  <relation name="associated_with" active="#kasandra" passive="#agamemnon"/>
-                  <relation name="related_with" active="#aigisthos" passive="#agamemnon"/>
-                  <relation name="lover_of" active="#aigisthos" passive="#klytaimestra"/>
+                  <relation name="associated-with" active="#phylax" passive="#agamemnon"/>
+                  <relation name="associated-with" active="#keryx" passive="#agamemnon"/>
+                  <relation name="associated-with" active="#kasandra" passive="#agamemnon"/>
+                  <relation name="related-with" active="#aigisthos" passive="#agamemnon"/>
+                  <relation name="lover-of" active="#aigisthos" passive="#klytaimestra"/>
+                  <relation name="killer-of"
+                            active="klyteimestra"
+                            passive="#agamemnon #kasandra"/>
                </listRelation>
             </listPerson>
          </particDesc>
@@ -101,7 +104,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-07-10">Transformed into DraCor TEI</change>
+         <change when="2026-08-03">Transformed into DraCor TEI</change>
          <change when="2017-01-17" who="Lisa Cerrato">fixed change log and other minor inconsitencies; fixed line numbering for display functions; removed daggers</change>
          <change when="2016-01-12" who="TDBuck">p4 to p5</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>

@@ -70,7 +70,7 @@
                   <persName xml:lang="en">Prometheus</persName>
                   <idno type="wikidata">Q83160</idno>
                </person>
-               <personGrp xml:id="choros" sex="FEMALE" role="chorus_dea_filia">
+               <personGrp xml:id="choros" sex="FEMALE" role="chorus dea filia">
                   <name>Χορός</name>
                   <name type="variant">Χορὸς Ὠκεανίδων</name>
                   <name xml:lang="en">Chorus of the Daughters of Oceanus</name>
@@ -92,13 +92,13 @@
                   <idno type="wikidata">Q41484</idno>
                </person>
                <listRelation>
-                  <relation name="parent_of" active="#okeanos" passive="#choros"/>
-                  <relation name="associated_with" active="#kratos" passive="#hephaistos"/>
-                  <relation name="related_with" active="#hephaistos" passive="#prometheus"/>
+                  <relation name="parent-of" active="#okeanos" passive="#choros"/>
+                  <relation name="associated-with" active="#kratos" passive="#hephaistos"/>
+                  <relation name="related-with" active="#hephaistos" passive="#prometheus"/>
                   <relation name="friends" mutual="#hephaistos #prometheus"/>
-                  <relation name="related_with" active="#okeanos" passive="#prometheus"/>
+                  <relation name="related-with" active="#okeanos" passive="#prometheus"/>
                   <relation name="friends" mutual="#okeanos #prometheus"/>
-                  <relation name="related_with" active="#io" passive="#choros"/>
+                  <relation name="related-with" active="#io" passive="#choros"/>
                </listRelation>
             </listPerson>
          </particDesc>
@@ -107,7 +107,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-07-10">Transformed into DraCor TEI</change>
+         <change when="2026-08-03">Transformed into DraCor TEI</change>
          <change when="2017-02-24" who="Lisa Cerrato">adding line numbers and fixing markup inconsistencies; restoring deleted log; fixing structure</change>
          <change when="2016-01-12" who="TDBuck">cleaned up small problems in SS's version</change>
          <change when="2014-06-19" who="Bridget Almas">Added line numbers</change>

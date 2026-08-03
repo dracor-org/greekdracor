@@ -93,18 +93,21 @@
                   <idno type="wikidata">Q212091</idno>
                </person>
                <listRelation>
-                  <relation name="parent_of"
+                  <relation name="parent-of"
                             active="#klytaimnestra"
                             passive="#elektra #orestes"/>
                   <relation name="siblings" mutual="#elektre #orestes"/>
                   <relation name="friends" mutual="#orestes #pylades"/>
-                  <relation name="associated_with" active="#choros" passive="#elektra"/>
-                  <relation name="parent_of" active="#aigisthos" passive="#klytaimnestra"/>
-                  <relation name="associated_with"
+                  <relation name="associated-with" active="#choros" passive="#elektra"/>
+                  <relation name="parent-of" active="#aigisthos" passive="#klytaimnestra"/>
+                  <relation name="associated-with"
                             active="#oiketes"
                             passive="#klytaimnestra #aigisthos"/>
-                  <relation name="associated_with" active="#trophos" passive="#orestes"/>
-                  <relation name="lover_of" active="#aigisthos" passive="#klytaimnestra"/>
+                  <relation name="associated-with" active="#trophos" passive="#orestes"/>
+                  <relation name="lover-of" active="#aigisthos" passive="#klytaimnestra"/>
+                  <relation name="killer-of"
+                            active="orestes"
+                            passive="#aigisthos #klytaimnestra"/>
                </listRelation>
             </listPerson>
          </particDesc>
@@ -113,7 +116,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-07-10">Transformed into DraCor TEI</change>
+         <change when="2026-08-03">Transformed into DraCor TEI</change>
          <change when="2017-03-01" who="Lisa Cerrato">review of structure, adding line numbers, removing entities and quotes, etc.</change>
          <change when="2016-01-14" who="TDBuck">p4 to p5</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>

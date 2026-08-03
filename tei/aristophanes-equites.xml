@@ -85,7 +85,7 @@
                   <persName type="variant">Κλέων καὶ Ἀλλαντοπώλης</persName>
                   <idno type="wikidata">Q298220</idno>
                </person>
-               <personGrp xml:id="choros" sex="MALE" role="chorus_eques">
+               <personGrp xml:id="choros" sex="MALE" role="chorus eques">
                   <name>Χορός</name>
                   <name type="variant">Χορὸς Ἱππεῶν</name>
                   <name xml:lang="en">Chorus of Knights</name>
@@ -96,7 +96,7 @@
                   <persName xml:lang="en">Demos</persName>
                </person>
                <listRelation>
-                  <relation name="associated_with"
+                  <relation name="associated-with"
                             active="#demosthenes #nikias #kleon"
                             passive="#demos"/>
                </listRelation>
@@ -107,7 +107,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-07-10">Transformed into DraCor TEI</change>
+         <change when="2026-08-03">Transformed into DraCor TEI</change>
          <change when="2023-03-03" who="Lisa Cerrato">EpiDoc and CTS updates: header compliance and line numbering verification</change>
          <change who="Aurélien Berra" when="2018-05-12">Convert to TEI P5 and EpiDoc. Test full compliance with CapiTainS CTS via HookTest and revise file: harmonise language @ident to grc and lat, de-duplicate lines where needed adding letters to numbers in @n, fix Latin content in some bibl tags erroneously in Greek, update EpiDoc schema metadata.</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory </change>

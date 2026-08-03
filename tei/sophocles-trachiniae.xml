@@ -70,7 +70,7 @@
                   <persName xml:lang="en">Hyllus</persName>
                   <idno type="wikidata">Q847268</idno>
                </person>
-               <personGrp xml:id="choros" sex="FEMALE" role="chorus_virgo">
+               <personGrp xml:id="choros" sex="FEMALE" role="chorus virgo">
                   <name>Χορός</name>
                   <name type="variant">Χορὸς Παρθενών Τραχινίων</name>
                   <name xml:lang="en">Chorus of Trachinian Maidens</name>
@@ -78,14 +78,14 @@
                </personGrp>
                <personGrp xml:id="hemichorion-1"
                           sex="FEMALE"
-                          role="semichorus_virgo"
+                          role="semichorus virgo"
                           corresp="#choros">
                   <name>Ἡμιχόριον 1</name>
                   <name xml:lang="en">Semi-Chorus 1</name>
                </personGrp>
                <personGrp xml:id="hemichorion-2"
                           sex="FEMALE"
-                          role="semichorus_virgo"
+                          role="semichorus virgo"
                           corresp="#choros">
                   <name>Ἡμιχόριον 2</name>
                   <name xml:lang="en">Semi-Chorus 2</name>
@@ -109,11 +109,12 @@
                   <idno type="wikidata">Q122248</idno>
                </person>
                <listRelation>
-                  <relation name="associated_with" active="#therapaina" passive="#deianeira"/>
+                  <relation name="associated-with" active="#therapaina" passive="#deianeira"/>
                   <relation name="spouses" mutual="#deianeira #herakles"/>
-                  <relation name="parent_of" active="#deianeira #herakles" passive="#hyllos"/>
-                  <relation name="associated_with" active="#angelos" passive="#herakles"/>
-                  <relation name="associated_with" active="#lichas" passive="#herakles"/>
+                  <relation name="parent-of" active="#deianeira #herakles" passive="#hyllos"/>
+                  <relation name="associated-with" active="#angelos" passive="#herakles"/>
+                  <relation name="associated-with" active="#lichas" passive="#herakles"/>
+                  <relation name="killer-of" active="#deianeira" passive="#herakles #deianeira"/>
                </listRelation>
             </listPerson>
          </particDesc>
@@ -122,7 +123,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-07-10">Transformed into DraCor TEI</change>
+         <change when="2026-08-03">Transformed into DraCor TEI</change>
          <change when="2017-01-24" who="Lisa Cerrato">improvements to markup; change log, quotes, etc.</change>
          <change when="2016-01-14" who="TDBuck">Hookified</change>
          <change when="2015" who="Stella Dee">converted to EpiDoc</change>

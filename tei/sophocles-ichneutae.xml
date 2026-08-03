@@ -55,7 +55,7 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <personGrp xml:id="choros-satyron" sex="MALE" role="chorus_satyrus_filius">
+               <personGrp xml:id="choros-satyron" sex="MALE" role="chorus satyrus filius">
                   <name>Χορὸς Σατύρων</name>
                   <name type="variant">Χορός</name>
                   <name xml:lang="en">Chorus of Satyrs</name>
@@ -63,7 +63,7 @@
                </personGrp>
                <personGrp xml:id="hemichoros-a"
                           sex="MALE"
-                          role="semichorus_satyrus_filius"
+                          role="semichorus satyrus filius"
                           corresp="#choros-satyron">
                   <name>Ἡμιχορὸς α</name>
                   <name xml:lang="en">Semi-Chorus a</name>
@@ -73,14 +73,14 @@
                </personGrp>
                <personGrp xml:id="hemichoros-b"
                           sex="MALE"
-                          role="semichorus_satyrus_filius"
+                          role="semichorus satyrus filius"
                           corresp="#choros-satyron">
                   <name>Ἡμιχορὸς β</name>
                   <name xml:lang="en">Semi-Chorus b</name>
                   <name type="variant">Ἡμιχ. β</name>
                   <idno type="wikidata">Q163709</idno>
                </personGrp>
-               <person xml:id="silenos" sex="MALE" role="satyrus_pater">
+               <person xml:id="silenos" sex="MALE" role="satyrus pater">
                   <persName>Σιληνός</persName>
                   <persName xml:lang="en">Silenus</persName>
                   <idno type="wikidata">Q464091</idno>
@@ -97,10 +97,10 @@
                   <idno type="wikidata">Q37340</idno>
                </person>
                <listRelation>
-                  <relation name="parent_of"
+                  <relation name="parent-of"
                             active="#silenos"
                             passive="#choros-satyron #hemichoros-a #hemichoros-b"/>
-                  <relation name="associated_with"
+                  <relation name="associated-with"
                             active="#silenos #choros-satyron #hemichoros-a #hemichoros-b"
                             passive="#apollon"/>
                </listRelation>
@@ -111,7 +111,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-07-10">Transformed into DraCor TEI</change>
+         <change when="2026-08-03">Transformed into DraCor TEI</change>
          <change when="2017-02-16" who="Lisa Cerrato">review of EpiDoc and CTS compliance; removed English from notes; entities, etc.</change>
          <change when="2016-01-15" who="TDBuck">p4 to p5</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>

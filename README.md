@@ -3,7 +3,7 @@ Ancient Greek drama. **39 plays** in [TEI P5](https://tei-c.org/guidelines/p5/) 
 
 The corpus is maintained by Julia Jennifer Beine (University of Würzburg) and Frank Fischer (Freie Universität Berlin).
 
-Update: This corpus will be completely rebooted in 2026, also adding the latest versions from the PDL. 
+Update: This corpus is currently being rebooted, also adding the latest versions from the PDL. You may already see the rebooted version on the [reboot branch](https://github.com/dracor-org/greekdracor/tree/reboot).
 
 Content: 7 plays by Aeschylus, 8 by Sophocles, 13 by Euripides, 11 by Aristophanes, 1 by Menander.
 

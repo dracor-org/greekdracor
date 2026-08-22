@@ -694,10 +694,13 @@
             </person>
             <person xml:id="agathon" sex="MALE" role="poeta">
                <persName>Ἀγάθων</persName>
-               <persName type="variant">Χορὸς Ἀγάθωνος</persName>
                <persName xml:lang="en">Agathon</persName>
                <idno type="wikidata">Q380482</idno>
             </person>
+            <personGrp xml:id="choros-agathonos" sex="UNKNOWN" role="chorus">
+               <name>Χορὸς Ἀγάθωνος</name>
+               <name xml:lang="en">Chorus of Agathon</name>
+            </personGrp>
             <person xml:id="kerykaina" sex="FEMALE" role="praeco">
                <persName>Κηρύκαινα</persName>
                <persName xml:lang="en">A Herald</persName>
@@ -737,6 +740,7 @@
             <listRelation>
                <relation name="related-with" active="#mnesilochos" passive="#euripides"/>
                <relation name="associated-with" active="#therapon" passive="#agathon"/>
+               <relation name="associated-with" active="choros-agathonos" passive="agathon"/>
             </listRelation>
          </listPerson>
       </particDesc>

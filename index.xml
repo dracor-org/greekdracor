@@ -3747,6 +3747,16 @@
                <persName>Ἄγγελος</persName>
                <persName xml:lang="en">Messenger</persName>
             </person>
+            <listRelation>
+               <relation name="associated-with" active="#trophos" passive="#medeia #iason"/>
+               <relation name="parent-of" active="#medeia #iason" pasive="#paides"/>
+               <relation name="associated-with" active="#paidagogos" passive="#medeia #iason"/>
+               <relation name="spouses" mutual="#medeia #iason"/>
+               <relation name="associated-with" active="#medeia" passive="#aigeus"/>
+               <relation name="associated-with" active="#angelos" passive="#iason"/>
+               <relation name="killer-of" active="medeia" passive="paides"/>
+               <relation name="associated-with" active="#choros" passive="#medeia"/>
+            </listRelation>
          </listPerson>
       </particDesc>
    </play>

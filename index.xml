@@ -3679,6 +3679,15 @@
                <persName>Θεράπων</persName>
                <persName xml:lang="en">Slave</persName>
             </person>
+            <listRelation>
+               <relation name="spouses" mutual="#alkestis #admetos"/>
+               <relation name="parent-of" active="#admetos #alkestis" passive="#pais"/>
+               <relation name="parent-of" active="#pheres" passive="#admetos"/>
+               <relation name="associated-with" active="#apollon" passive="#admetos"/>
+               <relation name="associated-with" active="#therapaina" passive="#alkestis #admetos"/>
+               <relation name="associated-with" active="#therapon" passive="#alkestis #admetos"/>
+               <relation name="killer-of" active="#thanatos" passive="alkestis"/>
+            </listRelation>
          </listPerson>
       </particDesc>
    </play>

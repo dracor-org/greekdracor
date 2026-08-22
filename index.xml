@@ -295,7 +295,7 @@
                <relation name="parent-of" active="#klytaimestras-eidolon" passive="#orestes"/>
                <relation name="associated-with" active="#orestes" passive="#apollon #athena"/>
                <relation name="associated-with" active="#propompoi" passive="#athena"/>
-               <relation name="killer-of" active="orestes" passive ="#klytaimestras-eidolon"/>
+               <relation name="killer-of" active="orestes" passive="#klytaimestras-eidolon"/>
             </listRelation>
          </listPerson>
       </particDesc>

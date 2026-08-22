@@ -590,7 +590,7 @@
       </listEvent>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="orestes" sex="MALE" role="filius">
+            <person xml:id="orestes" sex="MALE" role="filius frater">
                <persName>Ὀρέστης</persName>
                <persName xml:lang="en">Orestes</persName>
                <idno type="wikidata">Q192407</idno>
@@ -599,7 +599,7 @@
                <name>Χορός</name>
                <name xml:lang="en">Chorus of Slave-Women</name>
             </personGrp>
-            <person xml:id="elektra" sex="FEMALE" role="filia">
+            <person xml:id="elektra" sex="FEMALE" role="filia soror">
                <persName>Ἠλέκτρα</persName>
                <persName xml:lang="en">Electra</persName>
                <idno type="wikidata">Q131651</idno>

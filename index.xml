@@ -37,7 +37,6 @@
             <person xml:id="dionysos" sex="MALE">
                <persName>Διόνυσος</persName>
                <persName xml:lang="en">Dionysus</persName>
-               <persName type="variant">Διονυσος</persName>
                <idno type="wikidata">Q41680</idno>
             </person>
             <personGrp xml:id="choros" sex="FEMALE">
@@ -281,7 +280,6 @@
                <name>Χορός</name>
                <name type="variant">Χορὸς Εὐμενίδων</name>
                <name xml:lang="en">Chorus of Erinyes</name>
-               <name type="variant">Χορος</name>
                <idno type="wikidata">Q180262</idno>
             </personGrp>
             <person xml:id="athena" sex="FEMALE" role="dea">
@@ -808,7 +806,6 @@
                <name>Χορός</name>
                <name type="variant">Χορὸς Ἱππεῶν</name>
                <name xml:lang="en">Chorus of Knights</name>
-               <name type="variant">Χορός Ἱππεῶν</name>
             </personGrp>
             <person xml:id="demos" sex="MALE" role="allegoria dominus">
                <persName>Δῆμος</persName>
@@ -956,7 +953,6 @@
                <name>Χορός</name>
                <name type="variant">Χορὸς Ὀρνιθών</name>
                <name xml:lang="en">Chorus of Birds</name>
-               <name type="variant">Χορὸς</name>
             </personGrp>
             <person xml:id="ornis_tis" sex="UNKNOWN" role="avis">
                <persName>Ὄρνις Τις</persName>
@@ -1003,7 +999,6 @@
             <person xml:id="angelos-b" sex="MALE" role="nuntius avis">
                <persName>Ἄγγελος Β</persName>
                <persName xml:lang="en">Messenger B (a bird)</persName>
-               <persName type="variant">Ἄγγελος Β.</persName>
             </person>
             <person xml:id="iris" sex="FEMALE" role="dea">
                <persName>Ἶρις</persName>
@@ -1370,7 +1365,6 @@
             <person xml:id="gyne" sex="FEMALE" role="uxor">
                <persName>Γυνή</persName>
                <persName xml:lang="en">A Wife</persName>
-               <persName type="variant">Γυνὴ</persName>
             </person>
             <person xml:id="gyne-a" sex="FEMALE" role="uxor">
                <persName>Γυνὴ Α</persName>
@@ -1417,12 +1411,10 @@
             <person xml:id="athenaios-a" sex="MALE" role="legatus">
                <persName>Ἀθηναῖος Α</persName>
                <persName xml:lang="en">First Athenian Delegate</persName>
-               <persName type="variant">Ἀθηναῖος Α.</persName>
             </person>
             <person xml:id="athenaios-b" sex="MALE" role="legatus">
                <persName>Ἀθηναῖος Β</persName>
                <persName xml:lang="en">Second Athenian Delegate</persName>
-               <persName type="variant">Ἀθηναῖος Β.</persName>
             </person>
             <personGrp xml:id="choros-lakedaimonion" sex="UNKNOWN" role="chorus">
                <name>Χορὸς Λακεδαιμονίων</name>
@@ -1526,14 +1518,12 @@
             <person xml:id="euripides" sex="MALE" role="poeta">
                <persName>Εὐριπίδης</persName>
                <persName xml:lang="en">Euripides</persName>
-               <persName type="variant">Αἰσχύλος καί Εὐριπίδης</persName>
                <persName type="variant">Αἰσχύλος καὶ Εὐριπίδης</persName>
                <idno type="wikidata">Q48305</idno>
             </person>
             <person xml:id="aischylos" sex="MALE" role="poeta">
                <persName>Αἰσχύλος</persName>
                <persName xml:lang="en">Aeschylus</persName>
-               <persName type="variant">Αἰσχύλος καί Εὐριπίδης</persName>
                <persName type="variant">Αἰσχύλος καὶ Εὐριπίδης</persName>
                <idno type="wikidata">Q40939</idno>
             </person>
@@ -1586,14 +1576,11 @@
             <personGrp xml:id="hemichoros-a" sex="MALE" role="semichorus satyrus filius" corresp="#choros-satyron">
                <name>Ἡμιχορὸς α</name>
                <name xml:lang="en">Semi-Chorus a</name>
-               <name type="variant">Ἡμιχορός α</name>
-               <name type="variant">Ἡμιχ. α</name>
                <idno type="wikidata">Q163709</idno>
             </personGrp>
             <personGrp xml:id="hemichoros-b" sex="MALE" role="semichorus satyrus filius" corresp="#choros-satyron">
                <name>Ἡμιχορὸς β</name>
                <name xml:lang="en">Semi-Chorus b</name>
-               <name type="variant">Ἡμιχ. β</name>
                <idno type="wikidata">Q163709</idno>
             </personGrp>
             <person xml:id="silenos" sex="MALE" role="satyrus pater">
@@ -1742,7 +1729,6 @@
             <personGrp xml:id="choros-danaidon" sex="FEMALE" role="chorus">
                <name>Χορὸς Δαναΐδων</name>
                <name type="variant">Χορός</name>
-               <name type="variant">Χορός Δαναΐδων</name>
                <name xml:lang="en">Chorus of the Daughters of Danaus</name>
                <name type="variant">[Χορός]</name>
                <name type="variant">&lt;Χορός &gt;</name>
@@ -2346,7 +2332,6 @@
                <name>Χορός</name>
                <name type="variant">Χορὸς γυναικῶν</name>
                <name xml:lang="en">Chorus of Athenian Women</name>
-               <name type="variant">Χορὸς</name>
             </personGrp>
             <person xml:id="blepyros" sex="MALE" role="maritus">
                <persName>Βλέπυρος</persName>
@@ -2458,7 +2443,6 @@
             <personGrp xml:id="choros-andron-argeion" sex="MALE">
                <name>Χορὸς ἀνδρῶν Ἀργείων</name>
                <name xml:lang="en">Chorus of Argive Men</name>
-               <name type="variant">Χορός ανδρων Αργειων</name>               
             </personGrp>
             <person xml:id="klytaimestra" sex="FEMALE">
                <persName>Κλυταιμήστρα</persName>
@@ -3006,7 +2990,6 @@
             <person xml:id="thorakopoles" sex="MALE" role="mercator">
                <persName>Θωρακοπώλης</persName>
                <persName xml:lang="en">Dealer in Breastplates</persName>
-               <persName type="variant">Θωρακόπωλης</persName>
             </person>
             <person xml:id="salpingopoios" role="faber">
                <persName>Σαλπιγγοποιός</persName>
@@ -3171,17 +3154,14 @@
             <person xml:id="mathetes-a" sex="MALE" role="discipulus">
                <persName>Μαθητὴς Α</persName>
                <persName xml:lang="en">Pupil A</persName>
-               <persName type="variant">Μαθητής Α</persName>
             </person>
             <person xml:id="mathetes-b" sex="MALE" role="discipulus">
                <persName>Μαθητὴς Β</persName>
                <persName xml:lang="en">Pupil B</persName>
-               <persName type="variant">Μαθητής Β</persName>
             </person>
             <person xml:id="mathetes-g" sex="MALE" role="discipulus">
                <persName>Μαθητὴς Γ</persName>
                <persName xml:lang="en">Pupil G</persName>
-               <persName type="variant">Μαθητής Γ</persName>
             </person>
             <person xml:id="sokrates" sex="MALE" role="didascalus">
                <persName>Σωκράτης</persName>

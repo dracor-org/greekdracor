@@ -634,7 +634,6 @@
                <relation name="siblings" mutual="#elektre #orestes"/>
                <relation name="friends" mutual="#orestes #pylades"/>
                <relation name="associated-with" active="#choros" passive="#elektra"/>
-               <relation name="parent-of" active="#aigisthos" passive="#klytaimnestra"/>
                <relation name="associated-with"
                          active="#oiketes"
                          passive="#klytaimnestra #aigisthos"/>

@@ -3630,52 +3630,52 @@
       </titleStmt>
       <particDesc xmlns="http://www.tei-c.org/ns/1.0">
          <listPerson>
-            <person xml:id="apollon" sex="MALE">
+            <person xml:id="apollon" sex="MALE" role="deus">
                <persName>Ἀπόλλων</persName>
                <persName xml:lang="en">Apollo</persName>
                <idno type="wikidata">Q37340</idno>
             </person>
-            <person xml:id="thanatos" sex="MALE">
+            <person xml:id="thanatos" sex="MALE" role="deus allegoria">
                <persName>Θάνατος</persName>
                <persName xml:lang="en">Death</persName>
                <idno type="wikidata">Q199647</idno>
             </person>
-            <personGrp xml:id="choros" sex="MALE">
+            <personGrp xml:id="choros" sex="MALE" role="chorus">
                <name>Χορός</name>
                <name xml:lang="en">Chorus of Old Men of Pherae</name>
             </personGrp>
-            <person xml:id="therapaina" sex="FEMALE">
+            <person xml:id="therapaina" sex="FEMALE" role="ancilla">
                <persName>Θεράπαινα</persName>
                <persName type="variant">Θεράπαινα Ἀλκήστιδος</persName>
                <persName xml:lang="en">Slave of Alcestis</persName>
             </person>
-            <person xml:id="alkestis" sex="FEMALE">
+            <person xml:id="alkestis" sex="FEMALE" role="uxor">
                <persName>Ἄλκηστις</persName>
                <persName xml:lang="en">Alcestis</persName>
                <idno type="wikidata">Q320449</idno>
             </person>
-            <person xml:id="admetos" sex="MALE">
+            <person xml:id="admetos" sex="MALE" role="rex maritus filius pater">
                <persName>Ἄδμητος</persName>
                <persName xml:lang="en">Admetus</persName>
                <idno type="wikidata">Q192109</idno>
             </person>
-            <person xml:id="pais" sex="MALE">
+            <person xml:id="pais" sex="MALE" role="filius">
                <persName>Παῖς</persName>
                <persName type="variant">Παῖς Ἀλκήστιδος</persName>
                <persName xml:lang="en">Child of Alcestis</persName>
                <idno type="wikidata">Q1686620</idno>
             </person>
-            <person xml:id="herakles" sex="MALE">
+            <person xml:id="herakles" sex="MALE" role="hospes">
                <persName>Ἡρακλῆς</persName>
                <persName xml:lang="en">Heracles</persName>
                <idno type="wikidata">Q122248</idno>
             </person>
-            <person xml:id="pheres" sex="MALE">
+            <person xml:id="pheres" sex="MALE" role="pater senex">
                <persName>Φέρης</persName>
                <persName xml:lang="en">Pheres</persName>
                <idno type="wikidata">Q731181</idno>
             </person>
-            <person xml:id="therapon" sex="MALE">
+            <person xml:id="therapon" sex="MALE" role="servus">
                <persName>Θεράπων</persName>
                <persName xml:lang="en">Slave</persName>
             </person>

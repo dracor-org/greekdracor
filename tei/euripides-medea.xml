@@ -94,7 +94,7 @@
                </person>
                <listRelation>
                   <relation name="associated-with" active="#trophos" passive="#medeia #iason"/>
-                  <relation name="parent-of" active="#medeia #iason" pasive="#paides"/>
+                  <relation name="parent-of" active="#medeia #iason" passive="#paides"/>
                   <relation name="associated-with"
                             active="#paidagogos"
                             passive="#medeia #iason"/>

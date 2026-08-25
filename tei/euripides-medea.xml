@@ -29,7 +29,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/3bd56262e3f3fed7cfdeab11ff37f69f0758eaf3/data/tlg0006/tlg003/tlg0006.tlg003.perseus-grc2.xml">Perseus Digital Library</ref>
+               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/a065c359aab33c33bd17ddc2cac7d27fdc9cd870/data/tlg0006/tlg003/tlg0006.tlg003.perseus-grc2.xml">Perseus Digital Library</ref>
                <availability>
                   <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                         CC BY-SA 4.0
@@ -49,53 +49,66 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="trophos" sex="FEMALE">
+               <person xml:id="trophos" sex="FEMALE" role="nutrix">
                   <persName>Τροφός</persName>
                   <persName xml:lang="en">Nurse</persName>
                </person>
-               <person xml:id="kreon" sex="MALE">
+               <person xml:id="kreon" sex="MALE" role="rex pater">
                   <persName>Κρέων</persName>
                   <persName xml:lang="en">Creon</persName>
                   <idno type="wikidata">Q786573</idno>
                </person>
-               <personGrp xml:id="paides" sex="UNKNOWN">
+               <personGrp xml:id="paides" sex="MALE" role="filius">
                   <name>Παῖδες</name>
                   <name type="variant">Παῖδες Μηδείας</name>
                   <name xml:lang="en">Children of Medea</name>
                </personGrp>
-               <person xml:id="paidagogos" sex="MALE">
+               <person xml:id="paidagogos" sex="MALE" role="paedagogus">
                   <persName>Παιδαγωγός</persName>
                   <persName xml:lang="en">Old Slave</persName>
+                  <persName type="variant">Παιδαγωγός.</persName>
                </person>
-               <person xml:id="iason" sex="MALE">
+               <person xml:id="iason" sex="MALE" role="maritus pater">
                   <persName>Ἰάσων</persName>
                   <persName xml:lang="en">Jason</persName>
                   <idno type="wikidata">Q176758</idno>
                </person>
-               <personGrp xml:id="choros" sex="FEMALE">
+               <personGrp xml:id="choros" sex="FEMALE" role="chorus">
                   <name>Χορός</name>
                   <name type="variant">Χορὸς γυναικών</name>
                   <name xml:lang="en">Chrous of Corinthian Women</name>
                </personGrp>
-               <person xml:id="aigeus" sex="MALE">
+               <person xml:id="aigeus" sex="MALE" role="rex">
                   <persName>Αἰγεύς</persName>
                   <persName xml:lang="en">Aegeus</persName>
                   <idno type="wikidata">Q191725</idno>
                </person>
-               <person xml:id="medeia" sex="FEMALE">
+               <person xml:id="medeia" sex="FEMALE" role="uxor mater">
                   <persName>Μήδεια</persName>
                   <persName xml:lang="en">Medea</persName>
                   <idno type="wikidata">Q174278</idno>
                </person>
-               <person xml:id="angelos" sex="MALE">
+               <person xml:id="angelos" sex="MALE" role="nuntius">
                   <persName>Ἄγγελος</persName>
                   <persName xml:lang="en">Messenger</persName>
                </person>
+               <listRelation>
+                  <relation name="associated-with" active="#trophos" passive="#medeia #iason"/>
+                  <relation name="parent-of" active="#medeia #iason" pasive="#paides"/>
+                  <relation name="associated-with"
+                            active="#paidagogos"
+                            passive="#medeia #iason"/>
+                  <relation name="spouses" mutual="#medeia #iason"/>
+                  <relation name="associated-with" active="#medeia" passive="#aigeus"/>
+                  <relation name="associated-with" active="#angelos" passive="#iason"/>
+                  <relation name="killer-of" active="medeia" passive="paides"/>
+                  <relation name="associated-with" active="#choros" passive="#medeia"/>
+               </listRelation>
             </listPerson>
          </particDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-08-03">Transformed into DraCor TEI</change>
+         <change when="2026-08-25">Transformed into DraCor TEI</change>
          <change when="2021-03-09" who="Lisa Cerrato">rescanned Murray via Lace; diff file against perseus version; added to structure</change>
       </revisionDesc>
    </teiHeader>
@@ -2190,7 +2203,7 @@
                      n="1009"
                      part="I">αἰαῖ μάλ’ αὖθις.</l>
                </sp>
-               <sp>
+               <sp who="#paidagogos">
                   <speaker>Παιδαγωγός.</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0006.tlg003.perseus-grc2"
                      rend="indent"

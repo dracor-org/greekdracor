@@ -29,7 +29,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/3bd56262e3f3fed7cfdeab11ff37f69f0758eaf3/data/tlg0006/tlg012/tlg0006.tlg012.perseus-grc2.xml">Perseus Digital Library</ref>
+               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/a065c359aab33c33bd17ddc2cac7d27fdc9cd870/data/tlg0006/tlg012/tlg0006.tlg012.perseus-grc2.xml">Perseus Digital Library</ref>
                <availability>
                   <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                         CC BY-SA 4.0
@@ -87,7 +87,7 @@
                   <persName xml:lang="en">Clytaemestra</persName>
                   <idno type="wikidata">Q131157</idno>
                </person>
-               <personGrp xml:id="dioskoyroi" sex="MALE">
+               <personGrp xml:id="dioskouroi" sex="MALE">
                   <name>Διόσκουροι</name>
                   <name xml:lang="en">Dioscures</name>
                   <idno type="wikidata">Q190103</idno>
@@ -99,7 +99,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-08-03">Transformed into DraCor TEI</change>
+         <change when="2026-08-25">Transformed into DraCor TEI</change>
          <change when="2020-01-14" who="Lisa Cerrato">EpiDoc and CTS conversion</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>
          <change when="2013-06-13" who="gcrane">tagging now should be compatible with CTS</change>
@@ -3385,7 +3385,7 @@
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg012.perseus-grc2" n="1237">ὄψιν βαίνουσι βροτοῖσιν;</l>
                   </sp>
                   <milestone resp="perseus" unit="card" n="1238"/>
-                  <sp who="#dioskoyroi">
+                  <sp who="#dioskouroi">
                      <speaker>Διόσκουροι</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg012.perseus-grc2"
                         rend="indent"
@@ -3461,7 +3461,7 @@
                         n="1292">ὦ παῖδε Διός, θέμις ἐς φθογγὰς</l>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg012.perseus-grc2" n="1293">τὰς ὑμετέρας ἡμῖν πελάθειν;</l>
                   </sp>
-                  <sp who="#dioskoyroi">
+                  <sp who="#dioskouroi">
                      <speaker>Διόσκουροι</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg012.perseus-grc2"
                         rend="indent"
@@ -3473,7 +3473,7 @@
                         rend="indent"
                         n="1295">κἀμοὶ μύθου μέτα, Τυνδαρίδαι;</l>
                   </sp>
-                  <sp who="#dioskoyroi">
+                  <sp who="#dioskouroi">
                      <speaker>Διόσκουροι</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg012.perseus-grc2"
                         rend="indent"
@@ -3488,7 +3488,7 @@
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg012.perseus-grc2" n="1299">τῆς καπφθιμένης</l>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg012.perseus-grc2" n="1300">οὐκ ἠρκέσατον κῆρας μελάθροις;</l>
                   </sp>
-                  <sp who="#dioskoyroi">
+                  <sp who="#dioskouroi">
                      <speaker>Διόσκουροι</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg012.perseus-grc2"
                         rend="indent"
@@ -3502,7 +3502,7 @@
                         n="1303">τίς δʼ ἔμʼ Ἀπόλλων, ποῖοι χρησμοὶ</l>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg012.perseus-grc2" n="1304">φονίαν ἔδοσαν μητρὶ γενέσθαι;</l>
                   </sp>
-                  <sp who="#dioskoyroi">
+                  <sp who="#dioskouroi">
                      <speaker>Διόσκουροι</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg012.perseus-grc2"
                         rend="indent"
@@ -3518,7 +3518,7 @@
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg012.perseus-grc2" n="1309">τῶν σῶν εὐθὺς φίλτρων στέρομαι</l>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg012.perseus-grc2" n="1310">καὶ σʼ ἀπολείψω σοῦ λειπόμενος.</l>
                   </sp>
-                  <sp who="#dioskoyroi">
+                  <sp who="#dioskouroi">
                      <speaker>Διόσκουροι</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg012.perseus-grc2"
                         rend="indent"
@@ -3541,7 +3541,7 @@
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg012.perseus-grc2" n="1317">καὶ ἐπʼ ἀλλοτρίαις ψήφοισι φόνον</l>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg012.perseus-grc2" n="1318">μητρὸς ὑφέξω.</l>
                   </sp>
-                  <sp who="#dioskoyroi">
+                  <sp who="#dioskouroi">
                      <speaker>Διόσκουροι</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg012.perseus-grc2"
                         rend="indent"
@@ -3565,7 +3565,7 @@
                         n="1325">βάλε, πρόσπτυξον σῶμα· θανόντος δʼ</l>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg012.perseus-grc2" n="1326">ὡς ἐπὶ τύμβῳ καταθρήνησον.</l>
                   </sp>
-                  <sp who="#dioskoyroi">
+                  <sp who="#dioskouroi">
                      <speaker>Διόσκουροι</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg012.perseus-grc2"
                         rend="indent"
@@ -3618,7 +3618,7 @@
                         n="1340">Πυλάδη, χαίρων ἴθι, νυμφεύου</l>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg012.perseus-grc2" n="1341">δέμας Ἠλέκτρας.</l>
                   </sp>
-                  <sp who="#dioskoyroi">
+                  <sp who="#dioskouroi">
                      <speaker>Διόσκουροι</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg012.perseus-grc2"
                         rend="indent"

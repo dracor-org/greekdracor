@@ -33,7 +33,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/3bd56262e3f3fed7cfdeab11ff37f69f0758eaf3/data/tlg0019/tlg010/tlg0019.tlg010.perseus-grc2.xml">Perseus Digital Library</ref>
+               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/a065c359aab33c33bd17ddc2cac7d27fdc9cd870/data/tlg0019/tlg010/tlg0019.tlg010.perseus-grc2.xml">Perseus Digital Library</ref>
                <availability>
                   <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                         CC BY-SA 4.0
@@ -79,7 +79,6 @@
                   <name>Χορός</name>
                   <name type="variant">Χορὸς γυναικῶν</name>
                   <name xml:lang="en">Chorus of Athenian Women</name>
-                  <name type="variant">Χορὸς</name>
                </personGrp>
                <person xml:id="blepyros" sex="MALE" role="maritus">
                   <persName>Βλέπυρος</persName>
@@ -140,7 +139,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-08-03">Transformed into DraCor TEI</change>
+         <change when="2026-08-25">Transformed into DraCor TEI</change>
          <change when="2023-03-14" who="Lisa Cerrato">EpiDoc and CTS updates: header compliance and said to speaker changes as well as line numbering verification</change>
          <change who="Aurélien Berra" when="2018-05-12">Test full compliance with CapiTainS CTS via HookTest and revise file: harmonise language @ident to grc and lat, de-duplicate lines where needed adding letters to numbers in @n, fix Latin content in some bibl tags erroneously in Greek, update EpiDoc schema metadata.</change>
          <change who="Bridget Almas">

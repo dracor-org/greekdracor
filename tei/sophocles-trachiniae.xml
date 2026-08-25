@@ -29,7 +29,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/3bd56262e3f3fed7cfdeab11ff37f69f0758eaf3/data/tlg0011/tlg001/tlg0011.tlg001.perseus-grc2.xml">Perseus Digital Library</ref>
+               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/a065c359aab33c33bd17ddc2cac7d27fdc9cd870/data/tlg0011/tlg001/tlg0011.tlg001.perseus-grc2.xml">Perseus Digital Library</ref>
                <availability>
                   <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                         CC BY-SA 4.0
@@ -81,14 +81,14 @@
                           role="semichorus virgo"
                           corresp="#choros">
                   <name>Ἡμιχόριον 1</name>
-                  <name xml:lang="en">Semi-Chorus 1</name>
+                  <name xml:lang="en">First Semi-Chorus</name>
                </personGrp>
                <personGrp xml:id="hemichorion-2"
                           sex="FEMALE"
                           role="semichorus virgo"
                           corresp="#choros">
                   <name>Ἡμιχόριον 2</name>
-                  <name xml:lang="en">Semi-Chorus 2</name>
+                  <name xml:lang="en">Second Semi-Chorus</name>
                </personGrp>
                <person xml:id="angelos" sex="MALE" role="nuntius">
                   <persName>Ἄγγελος</persName>
@@ -123,7 +123,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-08-03">Transformed into DraCor TEI</change>
+         <change when="2026-08-25">Transformed into DraCor TEI</change>
          <change when="2017-01-24" who="Lisa Cerrato">improvements to markup; change log, quotes, etc.</change>
          <change when="2016-01-14" who="TDBuck">Hookified</change>
          <change when="2015" who="Stella Dee">converted to EpiDoc</change>

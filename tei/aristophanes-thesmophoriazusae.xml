@@ -33,7 +33,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/3bd56262e3f3fed7cfdeab11ff37f69f0758eaf3/data/tlg0019/tlg008/tlg0019.tlg008.perseus-grc2.xml">Perseus Digital Library</ref>
+               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/a065c359aab33c33bd17ddc2cac7d27fdc9cd870/data/tlg0019/tlg008/tlg0019.tlg008.perseus-grc2.xml">Perseus Digital Library</ref>
                <availability>
                   <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                         CC BY-SA 4.0
@@ -75,10 +75,13 @@
                </person>
                <person xml:id="agathon" sex="MALE" role="poeta">
                   <persName>Ἀγάθων</persName>
-                  <persName type="variant">Χορὸς Ἀγάθωνος</persName>
                   <persName xml:lang="en">Agathon</persName>
                   <idno type="wikidata">Q380482</idno>
                </person>
+               <personGrp xml:id="choros-agathonos" sex="UNKNOWN" role="chorus">
+                  <name>Χορὸς Ἀγάθωνος</name>
+                  <name xml:lang="en">Chorus of Agathon</name>
+               </personGrp>
                <person xml:id="kerykaina" sex="FEMALE" role="praeco">
                   <persName>Κηρύκαινα</persName>
                   <persName xml:lang="en">A Herald</persName>
@@ -118,6 +121,7 @@
                <listRelation>
                   <relation name="related-with" active="#mnesilochos" passive="#euripides"/>
                   <relation name="associated-with" active="#therapon" passive="#agathon"/>
+                  <relation name="associated-with" active="choros-agathonos" passive="agathon"/>
                </listRelation>
             </listPerson>
          </particDesc>
@@ -126,7 +130,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-08-03">Transformed into DraCor TEI</change>
+         <change when="2026-08-25">Transformed into DraCor TEI</change>
          <change when="2023-03-13" who="Lisa Cerrato">EpiDoc and CTS updates: header compliance and line numbering verification; header fixes; restore change log; deal with broken lines; said to speaker</change>
          <change when="2018-05-12" who="Aurélien Berra">Test full compliance with CapiTainS CTS via HookTest and revise file: harmonise language @ident to grc and lat, de-duplicate lines where needed adding letters to numbers in @n, fix Latin content in some bibl tags erroneously in Greek, update EpiDoc schema metadata.</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>
@@ -691,7 +695,7 @@
                         n="103"
                         rend="align(indent)">πατρίδι χορεύσασθε βοάν.</l>
                   </sp>
-                  <sp who="#agathon">
+                  <sp who="#choros-agathonos">
                      <speaker>Χορὸς Ἀγάθωνος</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                         n="104"
@@ -718,7 +722,7 @@
                         n="110"
                         rend="align(indent)">γύαλα Σιμουντίδι γᾷ.</l>
                   </sp>
-                  <sp who="#agathon">
+                  <sp who="#choros-agathonos">
                      <speaker>Χορὸς Ἀγάθωνος</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                         n="111"
@@ -742,7 +746,7 @@
                         n="116"
                         rend="align(indent)">Ἄρτεμιν ἀγροτέραν.</l>
                   </sp>
-                  <sp who="#agathon">
+                  <sp who="#choros-agathonos">
                      <speaker>Χορὸς Ἀγάθωνος</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                         n="117"
@@ -766,7 +770,7 @@
                         n="122"
                         rend="align(indent)">διανεύματα Χαρίτων†.</l>
                   </sp>
-                  <sp who="#agathon">
+                  <sp who="#choros-agathonos">
                      <speaker>Χορὸς Ἀγάθωνος</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0019.tlg008.perseus-grc2"
                         n="123"

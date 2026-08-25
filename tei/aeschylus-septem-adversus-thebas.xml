@@ -29,7 +29,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/3bd56262e3f3fed7cfdeab11ff37f69f0758eaf3/data/tlg0085/tlg004/tlg0085.tlg004.perseus-grc2.xml">Perseus Digital Library</ref>
+               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/a065c359aab33c33bd17ddc2cac7d27fdc9cd870/data/tlg0085/tlg004/tlg0085.tlg004.perseus-grc2.xml">Perseus Digital Library</ref>
                <availability>
                   <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                         CC BY-SA 4.0
@@ -75,14 +75,14 @@
                           role="chorus"
                           corresp="#choros">
                   <name>Ἡμιχόριον Α</name>
-                  <name xml:lang="en">Semi-Chorus A</name>
+                  <name xml:lang="en">First Semi-Chorus</name>
                </personGrp>
                <personGrp xml:id="hemichorion-b"
                           sex="FEMALE"
                           role="chorus"
                           corresp="#choros">
                   <name>Ἡμιχόριον Β</name>
-                  <name xml:lang="en">Semi-Chorus B</name>
+                  <name xml:lang="en">Second Semi-Chorus</name>
                </personGrp>
                <person xml:id="antigone" sex="FEMALE" role="soror">
                   <persName>Ἀντιγόνη</persName>
@@ -109,7 +109,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-08-03">Transformed into DraCor TEI</change>
+         <change when="2026-08-25">Transformed into DraCor TEI</change>
          <change when="2017-02-28" who="Lisa Cerrato">adding line numbers and fixing markup inconsistencies</change>
          <change who="TDBuck" when="2016-01-11">p4 to p5</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>

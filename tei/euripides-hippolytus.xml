@@ -29,7 +29,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/3bd56262e3f3fed7cfdeab11ff37f69f0758eaf3/data/tlg0006/tlg005/tlg0006.tlg005.perseus-grc2.xml">Perseus Digital Library</ref>
+               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/a065c359aab33c33bd17ddc2cac7d27fdc9cd870/data/tlg0006/tlg005/tlg0006.tlg005.perseus-grc2.xml">Perseus Digital Library</ref>
                <availability>
                   <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                         CC BY-SA 4.0
@@ -61,8 +61,8 @@
                </person>
                <personGrp xml:id="choros-kynegon" sex="MALE">
                   <name>Χορὸς Κυνηγῶν</name>
-                  <name type="variant">Χορός</name>
                   <name xml:lang="en">Chorus of Hunters</name>
+                  <name type="variant">Χορός Κυνηγῶν</name>
                </personGrp>
                <person xml:id="therapon" sex="MALE">
                   <persName>Θεράπων</persName>
@@ -100,7 +100,7 @@
          </particDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-08-03">Transformed into DraCor TEI</change>
+         <change when="2026-08-25">Transformed into DraCor TEI</change>
          <change when="2020-03-13" who="Lisa Cerrato">rescanned Murray via Lace; diff file against perseus version; added to structure</change>
       </revisionDesc>
    </teiHeader>
@@ -207,7 +207,7 @@
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="59">τὰν Διὸς οὐρανίαν</l>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="60">Ἄρτεμιν, ᾇ μελόμεσθα.</l>
                   </sp>
-                  <sp>
+                  <sp who="#choros-kynegon">
                      <speaker>Χορός Κυνηγῶν</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -395,7 +395,7 @@
             <milestone resp="perseus" n="121" unit="card"/>
             <div type="textpart" subtype="choral">
                <div type="textpart" subtype="strophe" n="1">
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -413,7 +413,7 @@
                </div>
                <milestone resp="perseus" n="131" unit="card"/>
                <div type="textpart" subtype="antistrophe" n="1">
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -431,7 +431,7 @@
                </div>
                <milestone resp="perseus" n="141" unit="card"/>
                <div type="textpart" subtype="strophe" n="2">
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -449,7 +449,7 @@
                </div>
                <milestone resp="perseus" n="151" unit="card"/>
                <div type="textpart" subtype="antistrophe" n="2">
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -467,7 +467,7 @@
                </div>
                <milestone resp="perseus" n="161" unit="card"/>
                <div type="textpart" subtype="epode">
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -485,7 +485,7 @@
             <milestone resp="perseus" n="170" unit="card"/>
             <div type="textpart" subtype="episode">
                <div type="textpart" subtype="anapests">
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -650,7 +650,7 @@
                </div>
                <milestone resp="perseus" n="267" unit="card"/>
                <div type="textpart" subtype="dialogue">
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -665,7 +665,7 @@
                         rend="indent"
                         n="271">οὐκ οἶδ’ ἐλέγχους· οὐ γὰρ ἐννέπειν θέλει.</l>
                   </sp>
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -677,7 +677,7 @@
                         rend="indent"
                         n="273">ἐς ταὐτὸν ἥκεις· πάντα γὰρ σιγᾷ τάδε.</l>
                   </sp>
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -689,7 +689,7 @@
                         rend="indent"
                         n="275">πῶς δ’ οὔ, τριταίαν γ’ οὖσ’ ἄσιτος ἡμέραν;</l>
                   </sp>
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -701,7 +701,7 @@
                         rend="indent"
                         n="277">θανεῖν; ἀσιτεῖ γ’ εἰς ἀπόστασιν βίου.</l>
                   </sp>
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -713,7 +713,7 @@
                         rend="indent"
                         n="279">κρύπτει γὰρ ἥδε πῆμα κοὔ φησιν νοσεῖν.</l>
                   </sp>
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -725,7 +725,7 @@
                         rend="indent"
                         n="281">ἔκδημος ὢν γὰρ τῆσδε τυγχάνει χθονός.</l>
                   </sp>
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -1058,7 +1058,7 @@
                </div>
                <milestone resp="perseus" n="362" unit="card"/>
                <div type="textpart" subtype="strophe" n="1">
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -1148,7 +1148,7 @@
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="429">προθεὶς κάτοπτρον ὥστε παρθένῳ νέᾳ</l>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="430">χρόνος· παρ’ οἷσι μήποτ’ ὀφθείην ἐγώ.</l>
                   </sp>
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -1217,7 +1217,7 @@
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="480">ἦ τἄρ’ ἂν ὀψέ γ’ ἄνδρες ἐξεύροιεν ἄν,</l>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="481">εἰ μὴ γυναῖκες μηχανὰς εὑρήσομεν.</l>
                   </sp>
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -1333,7 +1333,7 @@
             <milestone resp="perseus" n="525" unit="card"/>
             <div type="textpart" subtype="choral">
                <div type="textpart" subtype="strophe" n="1">
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -1350,7 +1350,7 @@
                </div>
                <milestone resp="perseus" n="535" unit="card"/>
                <div type="textpart" subtype="antistrophe" n="1">
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -1367,7 +1367,7 @@
                </div>
                <milestone resp="perseus" n="545" unit="card"/>
                <div type="textpart" subtype="strophe" n="2">
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -1385,7 +1385,7 @@
                </div>
                <milestone resp="perseus" n="555" unit="card"/>
                <div type="textpart" subtype="antistrophe" n="2">
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -1409,7 +1409,7 @@
                      rend="indent"
                      n="565">σιγήσατ’, ὦ γυναῖκες· ἐξειργάσμεθα.</l>
                </sp>
-               <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+               <sp who="#choros-troizenion-gynaikon">
                   <speaker>Χορός</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                      rend="indent"
@@ -1421,7 +1421,7 @@
                      rend="indent"
                      n="567">ἐπίσχετ’, αὐδὴν τῶν ἔσωθεν ἐκμάθω.</l>
                </sp>
-               <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+               <sp who="#choros-troizenion-gynaikon">
                   <speaker>Χορός</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                      rend="indent"
@@ -1436,7 +1436,7 @@
                </sp>
                <milestone resp="perseus" n="571" unit="card"/>
                <div type="textpart" subtype="lyric">
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -1455,7 +1455,7 @@
                </div>
                <milestone resp="perseus" n="577" unit="card"/>
                <div type="textpart" subtype="lyric">
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -1474,7 +1474,7 @@
                </div>
                <milestone resp="perseus" n="585" unit="card"/>
                <div type="textpart" subtype="lyric">
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -1493,7 +1493,7 @@
                </div>
                <milestone resp="perseus" n="591" unit="card"/>
                <div type="textpart" subtype="lyric">
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -1507,7 +1507,7 @@
                         rend="indent"
                         n="594">αἰαῖ, ἒ ἔ.</l>
                   </sp>
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -1521,7 +1521,7 @@
                         n="596">ἀπώλεσέν μ’ εἰποῦσα συμφορὰς ἐμάς,</l>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="597">φίλως, καλῶς δ’ οὐ τήνδ’ ἰωμένη νόσον.</l>
                   </sp>
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -1717,7 +1717,7 @@
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="679">κακοτυχεστάτα γυναικῶν ἐγώ.</l>
                   </sp>
                   <milestone resp="perseus" n="680" unit="card"/>
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -1782,7 +1782,7 @@
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="711">τοσόνδε μοι παράσχετ’ ἐξαιτουμένῃ,</l>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="712">σιγῇ καλύπτειν ἁνθάδ’ εἰσηκούσατε.</l>
                   </sp>
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -1801,7 +1801,7 @@
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="720">οὐδ’ ἐς πρόσωπον Θησέως ἀφίξομαι</l>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="721">αἰσχροῖς ἐπ’ ἔργοις οὕνεκα ψυχῆς μιᾶς.</l>
                   </sp>
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -1813,7 +1813,7 @@
                         rend="indent"
                         n="723">θανεῖν· ὅπως δέ, τοῦτ’ ἐγὼ βουλεύσομαι.</l>
                   </sp>
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -1839,7 +1839,7 @@
             <milestone resp="perseus" n="732" unit="card"/>
             <div type="textpart" subtype="choral">
                <div type="textpart" subtype="strophe" n="1">
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -1858,7 +1858,7 @@
                </div>
                <milestone resp="perseus" n="742" unit="card"/>
                <div type="textpart" subtype="antistrophe" n="1">
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -1877,7 +1877,7 @@
                </div>
                <milestone resp="perseus" n="752" unit="card"/>
                <div type="textpart" subtype="strophe" n="2">
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -1896,7 +1896,7 @@
                </div>
                <milestone resp="perseus" n="764" unit="card"/>
                <div type="textpart" subtype="antistrophe" n="2">
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -1923,7 +1923,7 @@
                   <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="776a">βοηδρομεῖτε πάντες οἱ πέλας δόμων·</l>
                   <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="777">ἐν ἀγχόναις δέσποινα, Θησέως δάμαρ.</l>
                </sp>
-               <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+               <sp who="#choros-troizenion-gynaikon">
                   <speaker>Χορός</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                      rend="indent"
@@ -1937,7 +1937,7 @@
                      n="780">οὐ σπεύσετ’; οὐκ οἴσει τις ἀμφιδέξιον</l>
                   <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="781">σίδηρον, ᾧ τόδ’ ἅμμα λύσομεν δέρης;</l>
                </sp>
-               <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+               <sp who="#choros-troizenion-gynaikon">
                   <speaker>Χορός</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                      rend="indent"
@@ -1953,7 +1953,7 @@
                      n="786">ὀρθώσατ’ ἐκτείνοντες ἄθλιον νέκυν·</l>
                   <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="787">πικρὸν τόδ’ οἰκούρημα δεσπόταις ἐμοῖς.</l>
                </sp>
-               <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+               <sp who="#choros-troizenion-gynaikon">
                   <speaker>Χορός</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                      rend="indent"
@@ -1974,7 +1974,7 @@
                   <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="795">πρόσω μὲν ἤδη βίοτος, ἀλλ’ ὅμως ἔτ’ ἂν</l>
                   <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="796">λυπηρὸς ἡμῖν τούσδ’ ἂν ἐκλίποι δόμους.</l>
                </sp>
-               <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+               <sp who="#choros-troizenion-gynaikon">
                   <speaker>Χορός</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                      rend="indent"
@@ -1987,7 +1987,7 @@
                      rend="indent"
                      n="799">οἴμοι· τέκνων μοι μή τι συλᾶται βίος;</l>
                </sp>
-               <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+               <sp who="#choros-troizenion-gynaikon">
                   <speaker>Χορός</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                      rend="indent"
@@ -1999,7 +1999,7 @@
                      rend="indent"
                      n="801">τί φῄς; ὄλωλεν ἄλοχος; ἐκ τίνος τύχης;</l>
                </sp>
-               <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+               <sp who="#choros-troizenion-gynaikon">
                   <speaker>Χορός</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                      rend="indent"
@@ -2011,7 +2011,7 @@
                      rend="indent"
                      n="803">λύπῃ παχνωθεῖσ’, ἢ ἀπὸ συμφορᾶς τινος;</l>
                </sp>
-               <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+               <sp who="#choros-troizenion-gynaikon">
                   <speaker>Χορός</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                      rend="indent"
@@ -2030,7 +2030,7 @@
                </sp>
                <milestone resp="perseus" n="811" unit="card"/>
                <div type="textpart" subtype="lyric">
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -2067,7 +2067,7 @@
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="833">ἀμπλακίαισι τῶν πάροιθέν τινος.</l>
                   </sp>
                   <milestone resp="perseus" n="834" unit="card"/>
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -2106,7 +2106,7 @@
                </div>
                <milestone resp="perseus" n="852" unit="card"/>
                <div type="textpart" subtype="lyric">
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -2135,7 +2135,7 @@
                </div>
                <milestone resp="perseus" n="866" unit="card"/>
                <div type="textpart" subtype="lyric">
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -2157,7 +2157,7 @@
                         n="874">οἴμοι· τόδ’ οἷον ἄλλο πρὸς κακῷ κακόν,</l>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="875">οὐ τλητὸν οὐδὲ λεκτόν. ὦ τάλας ἐγώ.</l>
                   </sp>
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -2175,7 +2175,7 @@
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="879">οἷον οἷον εἶδον <del>ἐν</del> γραφαῖς μέλος</l>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="880">φθεγγόμενον τλάμων.</l>
                   </sp>
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -2196,7 +2196,7 @@
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="890">τήνδ’, εἴπερ ἡμῖν ὤπασας σαφεῖς ἀράς.</l>
                   </sp>
                   <milestone resp="perseus" n="891" unit="card"/>
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -2214,7 +2214,7 @@
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="897">ἢ τῆσδε χώρας ἐκπεσὼν ἀλώμενος</l>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="898">ξένην ἐπ’ αἶαν λυπρὸν ἀντλήσει βίον.</l>
                   </sp>
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -2339,7 +2339,7 @@
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="979">οὐδ’ αἱ θαλάσσῃ σύννομοι Σκιρωνίδες</l>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="980">φήσουσι πέτραι τοῖς κακοῖς μ’ εἶναι βαρύν.</l>
                   </sp>
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -2407,7 +2407,7 @@
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="1034">ἐσωφρόνησεν οὐκ ἔχουσα σωφρονεῖν,</l>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="1035">ἡμεῖς δ’ ἔχοντες οὐ καλῶς ἐχρώμεθα.</l>
                   </sp>
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -2601,7 +2601,7 @@
             <milestone resp="perseus" n="1102" unit="card"/>
             <div type="textpart" subtype="choral">
                <div type="textpart" subtype="strophe" n="1">
-                  <sp>
+                  <sp who="#choros-kynegon">
                      <speaker>Χορός Κυνηγῶν</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -2615,7 +2615,7 @@
                </div>
                <milestone resp="perseus" n="1111" unit="card"/>
                <div type="textpart" subtype="antistrophe" n="1">
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -2628,7 +2628,7 @@
                </div>
                <milestone resp="perseus" n="1120" unit="card"/>
                <div type="textpart" subtype="strophe" n="2">
-                  <sp>
+                  <sp who="#choros-kynegon">
                      <speaker>Χορός Κυνηγῶν</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -2646,7 +2646,7 @@
                </div>
                <milestone resp="perseus" n="1131" unit="card"/>
                <div type="textpart" subtype="antistrophe" n="2">
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -2663,7 +2663,7 @@
                </div>
                <milestone resp="perseus" n="1142" unit="card"/>
                <div type="textpart" subtype="epode">
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -2681,7 +2681,7 @@
             </div>
             <milestone resp="perseus" n="1151" unit="card"/>
             <div type="textpart" subtype="episode">
-               <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+               <sp who="#choros-troizenion-gynaikon">
                   <speaker>Χορός</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                      rend="indent"
@@ -2696,7 +2696,7 @@
                   <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="1154">εὕροιμ’ ἄν, ὦ γυναῖκες; εἴπερ ἴστε μοι</l>
                   <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="1155">σημήνατ’· ἆρα τῶνδε δωμάτων ἔσω;</l>
                </sp>
-               <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+               <sp who="#choros-troizenion-gynaikon">
                   <speaker>Χορός</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                      rend="indent"
@@ -2847,7 +2847,7 @@
                   <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="1253">καὶ τὴν ἐν Ἴδῃ  γραμμάτων πλήσειέ τις</l>
                   <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="1254">πεύκην, ἐπεί νιν ἐσθλὸν ὄντ’ ἐπίσταμαι.</l>
                </sp>
-               <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+               <sp who="#choros-troizenion-gynaikon">
                   <speaker>Χορός</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                      rend="indent"
@@ -2884,7 +2884,7 @@
             <milestone resp="perseus" n="1268" unit="card"/>
             <div type="textpart" subtype="choral">
                <div type="textpart" subtype="lyric">
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -3001,7 +3001,7 @@
                </div>
                <milestone resp="perseus" n="1342" unit="card"/>
                <div type="textpart" subtype="anapests">
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
@@ -3353,7 +3353,7 @@
                </div>
                <milestone resp="perseus" n="1462" unit="card"/>
                <div type="textpart" subtype="anapests">
-                  <sp who="#choros-kynegon #choros-troizenion-gynaikon">
+                  <sp who="#choros-troizenion-gynaikon">
                      <speaker>Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"

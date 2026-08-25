@@ -29,7 +29,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/3bd56262e3f3fed7cfdeab11ff37f69f0758eaf3/data/tlg0085/tlg001/tlg0085.tlg001.perseus-grc2.xml">Perseus Digital Library</ref>
+               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/a065c359aab33c33bd17ddc2cac7d27fdc9cd870/data/tlg0085/tlg001/tlg0085.tlg001.perseus-grc2.xml">Perseus Digital Library</ref>
                <availability>
                   <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                         CC BY-SA 4.0
@@ -58,8 +58,8 @@
                <personGrp xml:id="choros-danaidon" sex="FEMALE" role="chorus">
                   <name>Χορὸς Δαναΐδων</name>
                   <name type="variant">Χορός</name>
-                  <name type="variant">Χορός Δαναΐδων</name>
                   <name xml:lang="en">Chorus of the Daughters of Danaus</name>
+                  <name type="variant">Χορός Δαναΐδων</name>
                   <name type="variant">[Χορός]</name>
                   <name type="variant">&lt;Χορός &gt;</name>
                   <name type="variant">&lt;Χορός&gt;</name>
@@ -126,7 +126,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-08-03">Transformed into DraCor TEI</change>
+         <change when="2026-08-25">Transformed into DraCor TEI</change>
          <change when="2017-02-22" who="Lisa Cerrato">review of EpiDoc and CTS markup; adding line numbers, fixing change log, etc.</change>
          <change who="TDBuck" when="2016-01-11">p4 to p5</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>

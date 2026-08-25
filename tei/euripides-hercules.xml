@@ -29,7 +29,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/3bd56262e3f3fed7cfdeab11ff37f69f0758eaf3/data/tlg0006/tlg009/tlg0006.tlg009.perseus-grc2.xml">Perseus Digital Library</ref>
+               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/a065c359aab33c33bd17ddc2cac7d27fdc9cd870/data/tlg0006/tlg009/tlg0006.tlg009.perseus-grc2.xml">Perseus Digital Library</ref>
                <availability>
                   <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                         CC BY-SA 4.0
@@ -105,7 +105,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-08-03">Transformed into DraCor TEI</change>
+         <change when="2026-08-25">Transformed into DraCor TEI</change>
          <change when="2020-02-10" who="Lisa Cerrato">converted said to speaker and fixed minor encoding issues</change>
          <change when="2016-06-10" who="Lisa Cerrato">fixed change log; reviewed line breaks. Note some missing line numbers arbitrarily chosen; various problems with line breaks across source texts. Note section 735-755, 905-912, 1015-1020, 1045-1077, 1200-1210 in particular.</change>
          <change when="2016-06-10" who="Bridget Almas">Converted all speaker tags to said</change>

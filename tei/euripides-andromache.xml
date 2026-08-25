@@ -29,7 +29,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/3bd56262e3f3fed7cfdeab11ff37f69f0758eaf3/data/tlg0006/tlg006/tlg0006.tlg006.perseus-grc2.xml">Perseus Digital Library</ref>
+               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/a065c359aab33c33bd17ddc2cac7d27fdc9cd870/data/tlg0006/tlg006/tlg0006.tlg006.perseus-grc2.xml">Perseus Digital Library</ref>
                <availability>
                   <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                         CC BY-SA 4.0
@@ -44,6 +44,12 @@
             <bibl type="wikidata">
                <idno>Q512802</idno>
             </bibl>
+            <listEvent>
+               <event type="premiere" notBefore="-0485" notAfter="-0406">
+                  <label>485–406 BC</label>
+                  <desc>Based on Landfester, Manfred: Art. Euripides. In: DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0087.</desc>
+               </event>
+            </listEvent>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
@@ -56,6 +62,7 @@
                </person>
                <person xml:id="therapaina" sex="FEMALE">
                   <persName>Θεράπαινα</persName>
+                  <persName type="variant">θεράπαινα</persName>
                   <persName xml:lang="en">Slave</persName>
                </person>
                <personGrp xml:id="choros" sex="FEMALE">
@@ -104,7 +111,7 @@
          </particDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-08-03">Transformed into DraCor TEI</change>
+         <change when="2026-08-25">Transformed into DraCor TEI</change>
          <change when="2020-02-24" who="Lisa Cerrato">rescanned Murray via Lace; diff file against perseus version; added to structure</change>
          <change when="2020-02-01" who="Gregory Crane">creation of new file and markup</change>
       </revisionDesc>
@@ -219,7 +226,7 @@
                   <l xml:base="urn:cts:greekLit:tlg0006.tlg006.perseus-grc2" n="66">τί δρῶσι; ποίας μηχανὰς πλέκουσιν αὖ,</l>
                   <l xml:base="urn:cts:greekLit:tlg0006.tlg006.perseus-grc2" n="67">κτεῖναι θέλοντες τὴν παναθλίαν ἐμέ;</l>
                </sp>
-               <sp>
+               <sp who="#therapaina">
                   <speaker>θεράπαινα</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0006.tlg006.perseus-grc2"
                      rend="indent"

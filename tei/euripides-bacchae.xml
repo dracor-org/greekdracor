@@ -29,7 +29,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/3bd56262e3f3fed7cfdeab11ff37f69f0758eaf3/data/tlg0006/tlg017/tlg0006.tlg017.perseus-grc2.xml">Perseus Digital Library</ref>
+               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/a065c359aab33c33bd17ddc2cac7d27fdc9cd870/data/tlg0006/tlg017/tlg0006.tlg017.perseus-grc2.xml">Perseus Digital Library</ref>
                <availability>
                   <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                         CC BY-SA 4.0
@@ -45,7 +45,7 @@
                <idno>Q934597</idno>
             </bibl>
             <listEvent>
-               <event type="premiere" notBefore="-0405">
+               <event type="premiere" notBefore="-0406">
                   <label>after 406 BC</label>
                   <desc>Based on Landfester, Manfred: Art. Euripides. In: DNP. Supplements I.2 (2009). Online 2011. http://dx.doi.org/10.1163/2214-8647_bnps2_COM_0087.</desc>
                </event>
@@ -58,7 +58,6 @@
                <person xml:id="dionysos" sex="MALE">
                   <persName>Διόνυσος</persName>
                   <persName xml:lang="en">Dionysus</persName>
-                  <persName type="variant">Διονυσος</persName>
                   <idno type="wikidata">Q41680</idno>
                </person>
                <personGrp xml:id="choros" sex="FEMALE">
@@ -91,7 +90,6 @@
                </person>
                <person xml:id="angelos-b" sex="MALE">
                   <persName>Ἄγγελος Β</persName>
-                  <persName type="variant">Ἄγγελος</persName>
                   <persName xml:lang="en">Second Messenger</persName>
                </person>
                <person xml:id="agaue" sex="FEMALE">
@@ -106,7 +104,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-08-03">Transformed into DraCor TEI</change>
+         <change when="2026-08-25">Transformed into DraCor TEI</change>
          <change when="2023-10-27" who="Lisa Cerrato">Re-split previously joined and noted words to reflect print edition. NB Supplemented numbers for off-count lines use a; split lines use b.</change>
          <change when="2017-02-10" who="Lisa Cerrato">EpiDoc and CTS file conversion work; note that missing lines and split lines are indicated differently. I had been using digit, digit plus a, digit plus b, etc. This file had digit plus b in some places already, so I adapted that. Partial lines are tagged. Missing lines will not have a part attribute.</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>
@@ -1529,7 +1527,7 @@
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg017.perseus-grc2" n="658">ὃς ἐξ ὄρους πάρεστιν ἀγγελῶν τί σοι·</l>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg017.perseus-grc2" n="659">ἡμεῖς δέ σοι μενοῦμεν, οὐ φευξούμεθα.</l>
                   </sp>
-                  <sp who="#angelos #angelos-b">
+                  <sp who="#angelos">
                      <speaker>Ἄγγελος</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg017.perseus-grc2"
                         rend="indent"
@@ -1543,7 +1541,7 @@
                         rend="indent"
                         n="663">ἥκεις δὲ ποίαν προστιθεὶς σπουδὴν λόγου;</l>
                   </sp>
-                  <sp who="#angelos #angelos-b">
+                  <sp who="#angelos">
                      <speaker>Ἄγγελος</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg017.perseus-grc2"
                         rend="indent"
@@ -1567,7 +1565,7 @@
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg017.perseus-grc2" n="676">γυναιξὶ τόνδε τῇ δίκῃ προσθήσομεν.</l>
                      <milestone resp="perseus" unit="card" n="677"/>
                   </sp>
-                  <sp who="#angelos #angelos-b">
+                  <sp who="#angelos">
                      <speaker>Ἄγγελος</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg017.perseus-grc2"
                         rend="indent"
@@ -2448,8 +2446,8 @@
                      rend="indent"
                      n="1029">τί δʼ ἔστιν; ἐκ βακχῶν τι μηνύεις νέον;</l>
                </sp>
-               <sp who="#angelos #angelos-b">
-                  <speaker>Ἄγγελος</speaker>
+               <sp who="#angelos-b">
+                  <speaker>Ἄγγελος Β</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0006.tlg017.perseus-grc2"
                      rend="indent"
                      n="1030">Πενθεὺς ὄλωλεν, παῖς Ἐχίονος πατρός.</l>
@@ -2461,8 +2459,8 @@
                         rend="indent"
                         n="1031">ὦναξ Βρόμιε, θεὸς φαίνῃ μέγας.</l>
                   </sp>
-                  <sp who="#angelos #angelos-b">
-                     <speaker>Ἄγγελος</speaker>
+                  <sp who="#angelos-b">
+                     <speaker>Ἄγγελος Β</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg017.perseus-grc2"
                         rend="indent"
                         n="1032">πῶς φῄς; τί τοῦτʼ ἔλεξας; ἦ ʼπὶ τοῖς ἐμοῖς</l>
@@ -2477,8 +2475,8 @@
                         n="1034">εὐάζω ξένα μέλεσι βαρβάροις·</l>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg017.perseus-grc2" n="1035">οὐκέτι γὰρ δεσμῶν ὑπὸ φόβῳ πτήσσω.</l>
                   </sp>
-                  <sp who="#angelos #angelos-b">
-                     <speaker>Ἄγγελος</speaker>
+                  <sp who="#angelos-b">
+                     <speaker>Ἄγγελος Β</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg017.perseus-grc2"
                         rend="indent"
                         n="1036">Θήβας δʼ ἀνάνδρους ὧδʼ ἄγεις  <gap reason="lost"/>
@@ -2496,8 +2494,8 @@
                         n="1037">ὁ Διόνυσος ὁ Διόνυσος, οὐ Θῆβαι</l>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg017.perseus-grc2" n="1038">κράτος ἔχουσʼ ἐμόν.</l>
                   </sp>
-                  <sp who="#angelos #angelos-b">
-                     <speaker>Ἄγγελος</speaker>
+                  <sp who="#angelos-b">
+                     <speaker>Ἄγγελος Β</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg017.perseus-grc2"
                         rend="indent"
                         n="1039">συγγνωστὰ μέν σοι, πλὴν ἐπʼ ἐξειργασμένοις</l>
@@ -2513,8 +2511,8 @@
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg017.perseus-grc2" n="1042">ἄδικος ἄδικά τʼ ἐκπορίζων ἀνήρ;</l>
                      <milestone resp="perseus" unit="card" n="1043"/>
                   </sp>
-                  <sp who="#angelos #angelos-b">
-                     <speaker>Ἄγγελος</speaker>
+                  <sp who="#angelos-b">
+                     <speaker>Ἄγγελος Β</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg017.perseus-grc2"
                         rend="indent"
                         n="1043">ἐπεὶ θεράπνας τῆσδε Θηβαίας χθονὸς</l>

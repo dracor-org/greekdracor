@@ -33,7 +33,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/3bd56262e3f3fed7cfdeab11ff37f69f0758eaf3/data/tlg0019/tlg007/tlg0019.tlg007.perseus-grc2.xml">Perseus Digital Library</ref>
+               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/a065c359aab33c33bd17ddc2cac7d27fdc9cd870/data/tlg0019/tlg007/tlg0019.tlg007.perseus-grc2.xml">Perseus Digital Library</ref>
                <availability>
                   <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                         CC BY-SA 4.0
@@ -104,7 +104,6 @@
                <person xml:id="gyne" sex="FEMALE" role="uxor">
                   <persName>Γυνή</persName>
                   <persName xml:lang="en">A Wife</persName>
-                  <persName type="variant">Γυνὴ</persName>
                </person>
                <person xml:id="gyne-a" sex="FEMALE" role="uxor">
                   <persName>Γυνὴ Α</persName>
@@ -151,12 +150,10 @@
                <person xml:id="athenaios-a" sex="MALE" role="legatus">
                   <persName>Ἀθηναῖος Α</persName>
                   <persName xml:lang="en">First Athenian Delegate</persName>
-                  <persName type="variant">Ἀθηναῖος Α.</persName>
                </person>
                <person xml:id="athenaios-b" sex="MALE" role="legatus">
                   <persName>Ἀθηναῖος Β</persName>
                   <persName xml:lang="en">Second Athenian Delegate</persName>
-                  <persName type="variant">Ἀθηναῖος Β.</persName>
                </person>
                <personGrp xml:id="choros-lakedaimonion" sex="UNKNOWN" role="chorus">
                   <name>Χορὸς Λακεδαιμονίων</name>
@@ -175,7 +172,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-08-03">Transformed into DraCor TEI</change>
+         <change when="2026-08-25">Transformed into DraCor TEI</change>
          <change when="2023-03-09" who="Lisa Cerrato">EpiDoc and CTS updates: header compliance and line numbering verification; header fixes; restore change log; deal with broken lines; said to speaker</change>
          <change who="Aurélien Berra" when="2018-05-12">Test full compliance with CapiTainS CTS via HookTest and revise file: harmonise language @ident to grc and lat, de-duplicate lines where needed adding letters to numbers in @n, fix Latin content in some bibl tags erroneously in Greek, update EpiDoc schema metadata.</change>
          <change who="Bridget Almas" when="2014-06-09">Converted from TEI edition at https://github.com/PerseusDL/canonical/blob/master/CTS_XML_TEI/perseus/greekLit/tlg0019/tlg006/tlg0019.tlg007.perseus-grc1.xml Conversion involved: converting speaker tags to said tags, adding line numbers, converting div1 and div2 to divs.</change>

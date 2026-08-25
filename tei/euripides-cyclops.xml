@@ -29,7 +29,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/3bd56262e3f3fed7cfdeab11ff37f69f0758eaf3/data/tlg0006/tlg001/tlg0006.tlg001.perseus-grc2.xml">Perseus Digital Library</ref>
+               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/a065c359aab33c33bd17ddc2cac7d27fdc9cd870/data/tlg0006/tlg001/tlg0006.tlg001.perseus-grc2.xml">Perseus Digital Library</ref>
                <availability>
                   <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                         CC BY-SA 4.0
@@ -60,6 +60,38 @@
                   <name xml:lang="en">Chorus of Satyrs</name>
                   <idno type="wikidata">Q163709</idno>
                </personGrp>
+               <personGrp xml:id="hemichorion-a" sex="MALE" corresp="#choros-satyron">
+                  <name>Χορὸς α</name>
+                  <name type="variant">Χορός α</name>
+                  <name type="variant">
+                     <add>Ημιχ.</add> Χορός</name>
+                  <name xml:lang="en">First Semi-Chorus of Satyrs</name>
+                  <idno type="wikidata">Q163709</idno>
+               </personGrp>
+               <personGrp xml:id="hemichorion-b" sex="MALE" corresp="#choros-satyron">
+                  <name>Χορὸς β</name>
+                  <name type="variant">Χορός β</name>
+                  <name type="variant">
+                     <add>Ημιχ.</add> Χορός</name>
+                  <name xml:lang="en">Second Semi-Chorus of Satyrs</name>
+                  <idno type="wikidata">Q163709</idno>
+               </personGrp>
+               <personGrp xml:id="hemichorion-g" sex="MALE" corresp="#choros-satyron">
+                  <name>Χορὸς γ</name>
+                  <name type="variant">Χορός γ</name>
+                  <name type="variant">
+                     <add>Ημιχ.</add> Χορός</name>
+                  <name xml:lang="en">Third Semi-Chorus of Satyrs</name>
+                  <idno type="wikidata">Q163709</idno>
+               </personGrp>
+               <personGrp xml:id="hemichorion-d" sex="MALE" corresp="#choros-satyron">
+                  <name>Χορὸς δ</name>
+                  <name type="variant">Χορός δ</name>
+                  <name type="variant">
+                     <add>Ημιχ.</add> Χορός</name>
+                  <name xml:lang="en">Fourth Semi-Chorus of Satyrs</name>
+                  <idno type="wikidata">Q163709</idno>
+               </personGrp>
                <person xml:id="odysseus" sex="MALE">
                   <persName>Ὀδυσσεύς</persName>
                   <persName xml:lang="en">Odysseus</persName>
@@ -74,7 +106,7 @@
          </particDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-08-03">Transformed into DraCor TEI</change>
+         <change when="2026-08-25">Transformed into DraCor TEI</change>
          <change when="2020-09-20" who="Lisa Cerrato">Created file from OCR and added markup.</change>
       </revisionDesc>
    </teiHeader>
@@ -1422,7 +1454,7 @@
                </div>
                <milestone unit="card" n="495" resp="perseus"/>
                <div n="1" type="textpart" subtype="strophe">
-                  <sp>
+                  <sp who="#hemichorion-a #hemichorion-b #hemichorion-g #hemichorion-d">
                      <speaker>
                         <add>Ημιχ.</add> Χορός</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg001.perseus-grc2"
@@ -1978,20 +2010,20 @@
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg001.perseus-grc2" n="633">καυτὸν μοχλὸν λαβόντας ἐκκάειν τὸ φῶς  </l>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg001.perseus-grc2" n="634">Κύκλωπος, ὡς ἂν τῆς τύχης κοινώμεθα; </l>
                   </sp>
-                  <sp>
+                  <sp who="#hemichorion-a">
                      <speaker>Χορός α</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg001.perseus-grc2"
                         rend="indent"
                         n="635">ἡμεῖς μέν ἐσμεν μακροτέρω πρὸ τῶν θυρῶν </l>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg001.perseus-grc2" n="636">ἑστῶτες ὠθεῖν ἐς τὸν ὀφθαλμὸν τὸ πῦρ.  </l>
                   </sp>
-                  <sp>
+                  <sp who="#hemichorion-b">
                      <speaker>Χορός β</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg001.perseus-grc2"
                         rend="indent"
                         n="637">ἡμεῖς δὲ χωλοί γ’ ἀρτίως γεγενήμεθα.  </l>
                   </sp>
-                  <sp>
+                  <sp who="#hemichorion-g">
                      <speaker>Χορός γ</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg001.perseus-grc2"
                         rend="indent"
@@ -2005,7 +2037,7 @@
                         n="640"
                         part="I">ἑστῶτες ἐσπάσθητε; </l>
                   </sp>
-                  <sp>
+                  <sp who="#hemichorion-d">
                      <speaker>Χορός δ</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg001.perseus-grc2"
                         rend="indent"

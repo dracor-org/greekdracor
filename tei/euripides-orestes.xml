@@ -29,7 +29,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/3bd56262e3f3fed7cfdeab11ff37f69f0758eaf3/data/tlg0006/tlg016/tlg0006.tlg016.perseus-grc2.xml">Perseus Digital Library</ref>
+               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/a065c359aab33c33bd17ddc2cac7d27fdc9cd870/data/tlg0006/tlg016/tlg0006.tlg016.perseus-grc2.xml">Perseus Digital Library</ref>
                <availability>
                   <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                         CC BY-SA 4.0
@@ -73,12 +73,10 @@
                <personGrp xml:id="hemichoros-a" sex="FEMALE" corresp="#choros">
                   <name>Ἡμίχορος A</name>
                   <name xml:lang="en">First Semi-Chorus</name>
-                  <name type="variant">Ἡμίχορος</name>
                </personGrp>
                <personGrp xml:id="hemichoros-b" sex="FEMALE" corresp="#choros">
                   <name>Ἡμίχορος B</name>
                   <name xml:lang="en">Second Semi-Chorus</name>
-                  <name type="variant">Ἡμίχορος</name>
                </personGrp>
                <person xml:id="orestes" sex="MALE">
                   <persName>Ὀρέστης</persName>
@@ -107,7 +105,6 @@
                <person xml:id="hermione" sex="FEMALE">
                   <persName>Ἑρμιόνη</persName>
                   <persName xml:lang="en">Hermione</persName>
-                  <persName type="variant">Ερμιόνη</persName>
                   <idno type="wikidata">Q658523</idno>
                </person>
                <person xml:id="phryx" sex="MALE">
@@ -126,7 +123,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-08-03">Transformed into DraCor TEI</change>
+         <change when="2026-08-25">Transformed into DraCor TEI</change>
          <change when="2019-12-19" who="Lisa Cerrato">EpiDoc and CTS conversion</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>
          <change when="2013-06-13" who="gcrane">tagging now should be compatible with CTS</change>
@@ -3642,15 +3639,15 @@
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg016.perseus-grc2" n="1256">σταθεὶς ἐπὶ φοίνιον αἷμα</l>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg016.perseus-grc2" n="1257">πήματα πήμασιν ἐξεύρῃ.</l>
                   </sp>
-                  <sp who="#hemichoros-a #hemichoros-b">
-                     <speaker>Ἡμίχορος</speaker>
+                  <sp>
+                     <speaker>Ἡμίχορος Α</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg016.perseus-grc2"
                         rend="indent"
                         n="1258">χωρεῖτʼ, ἐπειγώμεσθʼ· ἐγὼ μὲν οὖν τρίβον</l>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg016.perseus-grc2" n="1259">τόνδʼ ἐκφυλάξω, τὸν πρὸς ἡλίου βολάς.</l>
                   </sp>
-                  <sp who="#hemichoros-a #hemichoros-b">
-                     <speaker>Ἡμίχορος</speaker>
+                  <sp>
+                     <speaker>Ἡμίχορος Β</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg016.perseus-grc2"
                         rend="indent"
                         n="1260">καὶ μὴν ἐγὼ τόνδʼ, ὃς πρὸς ἑσπέραν φέρει.</l>
@@ -3678,8 +3675,8 @@
                         n="1266">ἑλίσσετέ νυν βλέφαρα,</l>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg016.perseus-grc2" n="1267">κόραισι δίδοτε πάντα διὰ βοστρύχων.</l>
                   </sp>
-                  <sp who="#hemichoros-a #hemichoros-b">
-                     <speaker>Ἡμίχορος</speaker>
+                  <sp>
+                     <speaker>Ἡμίχορος Α</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg016.perseus-grc2"
                         rend="indent"
                         n="1268">ὅδε τις ἐν τρίβῳ <del>προσέρχεται</del>. τίς ὅδʼ ἄρʼ ἀμ-</l>
@@ -3692,8 +3689,8 @@
                         n="1271">ἀπωλόμεσθʼ ἄρʼ, ὦ φίλαι· κεκρυμμένους</l>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg016.perseus-grc2" n="1272">θῆρας ξιφήρεις αὐτίκʼ ἐχθροῖσιν φανεῖ.</l>
                   </sp>
-                  <sp who="#hemichoros-a #hemichoros-b">
-                     <speaker>Ἡμίχορος</speaker>
+                  <sp>
+                     <speaker>Ἡμίχορος Α</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg016.perseus-grc2"
                         rend="indent"
                         n="1273">ἄφοβος ἔχε· κενός, ὦ φίλα,</l>
@@ -3707,15 +3704,15 @@
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg016.perseus-grc2" n="1276">δὸς ἀγγελίαν ἀγαθάν τινʼ,</l>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg016.perseus-grc2" n="1277">εἰ τάδʼ ἔρημα τὰ πρόσθʼ αὐλᾶς.</l>
                   </sp>
-                  <sp who="#hemichoros-a #hemichoros-b">
-                     <speaker>Ἡμίχορος</speaker>
+                  <sp>
+                     <speaker>Ἡμίχορος Β</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg016.perseus-grc2"
                         rend="indent"
                         n="1278">καλῶς τά γʼ ἐνθένδʼ. ἀλλὰ τἀπὶ σοῦ σκόπει·</l>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg016.perseus-grc2" n="1279">ὡς οὔτις ἡμῖν Δαναϊδῶν πελάζεται.</l>
                   </sp>
-                  <sp who="#hemichoros-a #hemichoros-b">
-                     <speaker>Ἡμίχορος</speaker>
+                  <sp>
+                     <speaker>Ἡμίχορος Α</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg016.perseus-grc2"
                         rend="indent"
                         n="1280">ἐς ταὐτὸν ἥκεις· καὶ γὰρ οὐδὲ τῇδʼ ὄχλος.</l>

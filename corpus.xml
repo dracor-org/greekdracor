@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<dracorCorpus xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -7,27 +7,36 @@
       </titleStmt>
       <publicationStmt>
         <publisher>DraCor</publisher>
-        <idno type="URI" xml:base="https://dracor.org/">greek</idno>
-        <idno type="repo">https://github.com/dracor-org/greekdracor</idno>
+        <idno>greek</idno>
+        <ref type="repo" target="https://github.com/dracor-org/greekdracor#reboot"/>
         <availability>
-          <licence target="https://creativecommons.org/licenses/by-sa/3.0/us/">
-            CC BY-SA 3.0 US
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+            CC BY-SA 4.0
           </licence>
         </availability>
       </publicationStmt>
+      <sourceDesc>
+        <p>See source information in individual TEI files.</p>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc>
       <projectDesc>
         <p>
-          39 plays derived from
-          <ref target="http://www.perseus.tufts.edu/hopper/opensource/download">Perseus
-          Digital Library</ref>, licenced under CC BY-SA 3.0 US. Menander's comedy
-          "Dyskolos" derived from Wikisource, licenced under CC BY-SA 3.0. Maintained
-          by Julia Jennifer Beine and Frank Fischer. Corpus description and list of
-          enhancements in the <ref target="https://github.com/dracor-org/greekdracor">README
+          45 plays derived from
+          <ref target="https://github.com/PerseusDL/canonical-greekLit">Perseus
+          Digital Library</ref>, licensed under CC BY-SA 4.0. Menander’s comedy
+          “Dyskolos” derived from Wikisource, licensed under CC BY-SA 3.0. Maintained
+          by Julia Jennifer Beine and Frank Fischer. For corpus description and citation,
+          please see the <ref target="https://github.com/dracor-org/greekdracor">README
           on GitHub</ref>.
         </p>
       </projectDesc>
+      <refsDecl>
+        <citeStructure
+          unit="scene"
+          match="/tei:TEI//tei:body//tei:div[@type='textpart' and @subtype =('choral', 'episode', 'Agon', 'Choral', 'Episode', 'Exodus', 'Lyric-Scene', 'Parabasis', 'Parodos', 'Prologue')]"
+          use="position()" />
+      </refsDecl>
     </encodingDesc>
   </teiHeader>
-</teiCorpus>
+</dracorCorpus>

@@ -1920,7 +1920,7 @@
                <idno type="wikidata">Q129165</idno>
             </person>
             <listRelation>
-               <relation name="#choros" passive="#xerxes"/>
+               <relation name="associated-with" active="#choros" passive="#xerxes"/>
                <relation name="spouses" mutual="#atossa #eidolon-dareiou"/>
                <relation name="parent-of"
                          active="#atossa #eidolon-dareiou"

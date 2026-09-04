@@ -35,6 +35,7 @@ jobs:
         with:
           files: |
             tei/*.xml
+          exclude_submodules: true
 
       - name: Get changed files
         id: all-tei-files

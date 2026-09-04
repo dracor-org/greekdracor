@@ -60,10 +60,6 @@
                   <name type="variant">Χορός</name>
                   <name xml:lang="en">Chorus of the Daughters of Danaus</name>
                   <name type="variant">Χορός Δαναΐδων</name>
-                  <name type="variant">[Χορός]</name>
-                  <name type="variant">&lt;Χορός &gt;</name>
-                  <name type="variant">&lt;Χορός&gt;</name>
-                  <name type="variant">Χορός &lt;Δαναΐδων&gt;</name>
                   <idno type="wikidata">Q724907</idno>
                </personGrp>
                <person xml:id="danaos" role="rex pater" sex="MALE">
@@ -76,20 +72,16 @@
                   <persName type="variant">Βασιλεύς Ἀργεΐων</persName>
                   <persName xml:lang="en">Pelasgus, King of Argus</persName>
                   <persName type="variant">βασιλεύς</persName>
-                  <persName type="variant">&lt;Βασιλεύς&gt;</persName>
                   <idno type="wikidata">Q1636827</idno>
                </person>
                <person xml:id="keryx" sex="MALE" role="praeco">
                   <persName>Κῆρυξ</persName>
                   <persName xml:lang="en">Herald of the Sons of Aegyptus</persName>
-                  <persName type="variant">&lt;Κῆρυξ&gt;</persName>
                </person>
                <personGrp xml:id="choros-therapainon" sex="FEMALE" role="chorus ancilla">
                   <name>Χορὸς Θεραπαινῶν</name>
                   <name type="variant">Χορός Θεραπαινῶν</name>
                   <name xml:lang="en">Chorus of Handmaidens</name>
-                  <name type="variant">&lt;Χορός Θεραπαινῶν&gt;</name>
-                  <name type="variant">&lt;Χορός&gt;</name>
                </personGrp>
                <person xml:id="danais"
                        sex="FEMALE"
@@ -97,7 +89,6 @@
                        corresp="#choros-danaidon">
                   <persName>Δαναΐς</persName>
                   <persName xml:lang="en">A Danaid</persName>
-                  <persName type="variant">&lt;Δαναΐς&gt;</persName>
                   <idno type="wikidata">Q724907</idno>
                </person>
                <person xml:id="therapaina"
@@ -106,7 +97,6 @@
                        corresp="choros-therapainon">
                   <persName>Θεράπαινα</persName>
                   <persName xml:lang="en">A Handmaiden</persName>
-                  <persName type="variant">&lt;Θεράπαινα&gt;</persName>
                </person>
                <listRelation>
                   <relation name="parent-of"

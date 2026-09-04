@@ -33,7 +33,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/a065c359aab33c33bd17ddc2cac7d27fdc9cd870/data/tlg0019/tlg001/tlg0019.tlg001.perseus-grc2.xml">Perseus Digital Library</ref>
+               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/341e309c821d5eca8c976bebca77c28b10bad58f/data/tlg0019/tlg001/tlg0019.tlg001.perseus-grc2.xml">Perseus Digital Library</ref>
                <availability>
                   <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                         CC BY-SA 4.0
@@ -150,7 +150,6 @@
                </person>
                <person xml:id="keryx-heteros" sex="MALE" role="praeco">
                   <persName>Κῆρυξ ἕτερος</persName>
-                  <persName type="variant">Κῆρυξ</persName>
                   <persName xml:lang="en">Another Herald</persName>
                </person>
                <person xml:id="georgos" sex="MALE" role="rusticus">
@@ -184,7 +183,9 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-08-25">Transformed into DraCor TEI</change>
+         <change when="2026-09-04">Transformed into DraCor TEI</change>
+         <change who="Charles Pletcher" when="2026-08-26">Add citeStructure refsDecl</change>
+         <change who="Charles Pletcher" when="2026-08-27">Add CTS-card refsDecl</change>
          <change when="2023-03-02" who="Lisa Cerrato">EpiDoc and CTS updates: header compliance and line numbering verification</change>
          <change when="2018-05-12" who="Aurélien Berra">Convert to TEI P5 and EpiDoc. Test full compliance with CapiTainS CTS via HookTest and revise file: harmonise language @ident to grc and lat, de-duplicate lines where needed adding letters to numbers in @n, fix Latin content in some bibl tags erroneously in Greek, update EpiDoc schema metadata.</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory </change>
@@ -208,11 +209,11 @@
          <change when="1988" who="EM, Scott Ettinger and Roger Travis">Text scanned at U. Chicago in 1988. Basic SGML tagging by Lowell Bowditch</change>
       </revisionDesc>
    </teiHeader>
-   <text>
-      <body>
-         <div type="edition"
-              xml:lang="grc"
-              n="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2">
+   <text xml:lang="grc">
+      <body xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2">
+         <div n="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2"
+              type="edition"
+              xml:lang="grc">
             <div type="textpart" subtype="Prologue">
                     
                <milestone ed="p" n="1" unit="card"/>
@@ -263,7 +264,7 @@
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2" n="42">ἐς τὴν προεδρίαν πᾶς ἀνὴρ ὠστίζεται.</l>
                </sp>
                <milestone ed="p" n="43" unit="card"/>
-               <sp who="#keryx #keryx-heteros">
+               <sp who="#keryx">
                   <speaker>Κῆρυξ</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2" n="43">πάριτʼ ἐς τὸ πρόσθεν,</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2" n="44">πάριθʼ, ὡς ἂν ἐντὸς ἦτε τοῦ καθάρματος.</l>
@@ -274,7 +275,7 @@
                      n="45"
                      part="I">ἤδη τις εἶπε;</l>
                </sp>
-               <sp who="#keryx #keryx-heteros">
+               <sp who="#keryx">
                   <speaker>Κῆρυξ</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2"
                      n="45b"
@@ -286,7 +287,7 @@
                      n="46"
                      part="I">ἐγώ.</l>
                </sp>
-               <sp who="#keryx #keryx-heteros">
+               <sp who="#keryx">
                   <speaker>Κῆρυξ</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2"
                      n="46b"
@@ -298,7 +299,7 @@
                      n="46c"
                      part="M">Ἀμφίθεος.</l>
                </sp>
-               <sp who="#keryx #keryx-heteros">
+               <sp who="#keryx">
                   <speaker>Κῆρυξ</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2"
                      n="46d"
@@ -320,8 +321,8 @@
                      n="54"
                      part="I">οὐ γὰρ διδόασιν οἱ πρυτάνεις.</l>
                </sp>
-               <sp who="#keryx #keryx-heteros">
-                  <speaker>Κῆρυξ</speaker>
+               <sp who="#keryx-heteros">
+                  <speaker>Κῆρυξ ἕτερος</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2"
                      n="54b"
                      part="F">οἱ τοξόται.</l>
@@ -336,8 +337,8 @@
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2" n="57">τὸν ἄνδρʼ ἀπάγοντες, ὅστις ἡμῖν ἤθελε</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2" n="58">σπονδὰς ποιεῖσθαι καὶ κρεμάσαι τὰς ἀσπίδας.</l>
                </sp>
-               <sp who="#keryx #keryx-heteros">
-                  <speaker>Κῆρυξ</speaker>
+               <sp who="#keryx-heteros">
+                  <speaker>Κῆρυξ ἕτερος</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2"
                      n="59"
                      part="I">κάθησο, σῖγα.</l>
@@ -349,7 +350,7 @@
                      part="F">μὰ τὸν Ἀπόλλω ʼγὼ μὲν οὔ,</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2" n="60">ἢν μὴ περὶ εἰρήνης γε πρυτανεύσητέ μοι.</l>
                </sp>
-               <sp who="#keryx #keryx-heteros">
+               <sp who="#keryx">
                   <speaker>Κῆρυξ</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2" n="61">οἱ πρέσβεις οἱ παρὰ βασιλέως.</l>
                </sp>
@@ -358,7 +359,7 @@
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2" n="62">ποίου βασιλέως; ἄχθομαι ʼγὼ πρέσβεσιν</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2" n="63">καὶ τοῖς ταὧσι τοῖς τʼ ἀλαζονεύμασιν.</l>
                </sp>
-               <sp who="#keryx #keryx-heteros">
+               <sp who="#keryx">
                   <speaker>Κῆρυξ</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2"
                      n="64"
@@ -473,7 +474,7 @@
                      part="F">ἐκκόψειέ γε</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2" n="93">κόραξ πατάξας, τόν τε σὸν τοῦ πρέσβεως.</l>
                </sp>
-               <sp who="#keryx #keryx-heteros">
+               <sp who="#keryx">
                   <speaker>Κῆρυξ</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2"
                      n="94"
@@ -557,7 +558,7 @@
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2" n="121">εὐνοῦχος ἡμῖν ἦλθες ἐσκευασμένος;</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2" n="122">ὁδὶ δὲ τίς ποτʼ ἐστίν; οὐ δήπου Στράτων;</l>
                </sp>
-               <sp who="#keryx #keryx-heteros">
+               <sp who="#keryx">
                   <speaker>Κῆρυξ</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2" n="123">σίγα, κάθιζε.</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2" n="124">τὸν βασιλέως ὀφθαλμὸν ἡ βουλὴ καλεῖ</l>
@@ -591,7 +592,7 @@
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2" n="133">ὑμεῖς δὲ πρεσβεύεσθε καὶ κεχήνετε.</l>
                </sp>
                <milestone ed="p" n="134" unit="card"/>
-               <sp who="#keryx #keryx-heteros">
+               <sp who="#keryx">
                   <speaker>Κῆρυξ</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2"
                      n="134"
@@ -649,7 +650,7 @@
                      n="154b"
                      part="F">τοῦτο μέν γʼ ἤδη σαφές.</l>
                </sp>
-               <sp who="#keryx #keryx-heteros">
+               <sp who="#keryx">
                   <speaker>Κῆρυξ</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2" n="155">οἱ Θρᾷκες ἴτε δεῦρʼ, οὓς Θέωρος ἤγαγεν.</l>
                </sp>
@@ -701,7 +702,7 @@
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2" n="171">διοσημία ʼστὶ καὶ ῥανὶς βέβληκέ με.</l>
                </sp>
                <milestone ed="p" n="172" unit="card"/>
-               <sp who="#keryx #keryx-heteros">
+               <sp who="#keryx">
                   <speaker>Κῆρυξ</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2" n="172">τοὺς Θρᾷκας ἀπιέναι, παρεῖναι δʼ εἰς ἔνην.</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2" n="173">οἱ γὰρ πρυτάνεις λύουσι τὴν ἐκκλησίαν.</l>
@@ -3017,8 +3018,8 @@
             </div>
             <milestone ed="p" n="1000" unit="card"/>
             <div type="textpart" subtype="Lyric-Scene">
-               <sp who="#keryx #keryx-heteros">
-                  <speaker>Κῆρυξ</speaker>
+               <sp who="#keryx-heteros">
+                  <speaker>Κῆρυξ ἕτερος</speaker>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2" n="1000">ἀκούετε λεῴ· κατὰ τὰ πάτρια τοὺς Χοᾶς</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2" n="1001">πίνειν ὑπὸ τῆς σάλπιγγος· ὃς δʼ ἂν ἐκπίῃ</l>
                   <l xml:base="urn:cts:greekLit:tlg0019.tlg001.perseus-grc2" n="1002">πρώτιστος, ἀσκὸν Κτησιφῶντος λήψεται.</l>

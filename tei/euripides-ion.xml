@@ -29,7 +29,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/a065c359aab33c33bd17ddc2cac7d27fdc9cd870/data/tlg0006/tlg010/tlg0006.tlg010.perseus-grc2.xml">Perseus Digital Library</ref>
+               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/341e309c821d5eca8c976bebca77c28b10bad58f/data/tlg0006/tlg010/tlg0006.tlg010.perseus-grc2.xml">Perseus Digital Library</ref>
                <availability>
                   <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                         CC BY-SA 4.0
@@ -107,7 +107,9 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-08-25">Transformed into DraCor TEI</change>
+         <change when="2026-09-04">Transformed into DraCor TEI</change>
+         <change who="Charles Pletcher" when="2026-08-26">Add citeStructure refsDecl</change>
+         <change who="Charles Pletcher" when="2026-08-27">Add CTS-card refsDecl</change>
          <change when="2020-01-17" who="Lisa Cerrato">EpiDoc and CTS conversion</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>
          <change when="2013-06-13" who="gcrane">tagging now should be compatible with CTS</change>
@@ -131,9 +133,9 @@
       </revisionDesc>
    </teiHeader>
    <text xml:lang="grc">
-      <body>
-         <div type="edition"
-              n="urn:cts:greekLit:tlg0006.tlg010.perseus-grc2"
+      <body xml:base="urn:cts:greekLit:tlg0006.tlg010.perseus-grc2">
+         <div n="urn:cts:greekLit:tlg0006.tlg010.perseus-grc2"
+              type="edition"
               xml:lang="grc">
             <milestone resp="perseus" unit="card" n="1"/>
                     
@@ -1658,7 +1660,8 @@
                      <speaker>Ἴων</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg010.perseus-grc2"
                         rend="indent"
-                        n="535">τίνα συνάντησιν;</l>
+                        n="535"
+                        part="I">τίνα συνάντησιν;</l>
                   </sp>
                   <sp who="#xouthos">
                      <speaker>Ξοῦθος</speaker>
@@ -1727,7 +1730,8 @@
                      <speaker>Ἴων</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg010.perseus-grc2"
                         rend="indent"
-                        n="540">ἔα. τίνος δέ σοι πέφυκα μητρός;</l>
+                        n="540"
+                        part="I">ἔα. τίνος δέ σοι πέφυκα μητρός;</l>
                   </sp>
                   <sp who="#xouthos">
                      <speaker>Ξοῦθος</speaker>
@@ -1797,7 +1801,8 @@
                      <speaker>Ἴων</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg010.perseus-grc2"
                         rend="indent"
-                        n="545">ἦλθες ἐς νόθον τι λέκτρον;</l>
+                        n="545"
+                        part="I">ἦλθες ἐς νόθον τι λέκτρον;</l>
                   </sp>
                   <sp who="#xouthos">
                      <speaker>Ξοῦθος</speaker>
@@ -1866,7 +1871,8 @@
                      <speaker>Ἴων</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg010.perseus-grc2"
                         rend="indent"
-                        n="550">Πυθίαν δʼ ἦλθες πέτραν πρίν;</l>
+                        n="550"
+                        part="I">Πυθίαν δʼ ἦλθες πέτραν πρίν;</l>
                   </sp>
                   <sp who="#xouthos">
                      <speaker>Ξοῦθος</speaker>
@@ -1936,7 +1942,8 @@
                      <speaker>Ἴων</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg010.perseus-grc2"
                         rend="indent"
-                        n="555">πῶς δʼ ἀφικόμεσθα ναούς;</l>
+                        n="555"
+                        part="I">πῶς δʼ ἀφικόμεσθα ναούς;</l>
                   </sp>
                   <sp who="#xouthos">
                      <speaker>Ξοῦθος</speaker>
@@ -2005,7 +2012,8 @@
                      <speaker>Ἴων</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg010.perseus-grc2"
                         rend="indent"
-                        n="560">ἦ θίγω δῆθʼ οἵ μʼ ἔφυσαν;</l>
+                        n="560"
+                        part="I">ἦ θίγω δῆθʼ οἵ μʼ ἔφυσαν;</l>
                   </sp>
                   <sp who="#xouthos">
                      <speaker>Ξοῦθος</speaker>

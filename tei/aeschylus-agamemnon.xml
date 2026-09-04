@@ -29,7 +29,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/a065c359aab33c33bd17ddc2cac7d27fdc9cd870/data/tlg0085/tlg005/tlg0085.tlg005.perseus-grc2.xml">Perseus Digital Library</ref>
+               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/341e309c821d5eca8c976bebca77c28b10bad58f/data/tlg0085/tlg005/tlg0085.tlg005.perseus-grc2.xml">Perseus Digital Library</ref>
                <availability>
                   <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                         CC BY-SA 4.0
@@ -104,7 +104,9 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-08-25">Transformed into DraCor TEI</change>
+         <change when="2026-09-04">Transformed into DraCor TEI</change>
+         <change who="Charles Pletcher" when="2026-08-26">Add citeStructure refsDecl</change>
+         <change who="Charles Pletcher" when="2026-08-27">Add CTS-card refsDecl</change>
          <change when="2017-01-17" who="Lisa Cerrato">fixed change log and other minor inconsitencies; fixed line numbering for display functions; removed daggers</change>
          <change when="2016-01-12" who="TDBuck">p4 to p5</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>
@@ -137,9 +139,9 @@
       </revisionDesc>
    </teiHeader>
    <text xml:lang="grc">
-      <body>
-         <div type="edition"
-              n="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2"
+      <body xml:base="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2">
+         <div n="urn:cts:greekLit:tlg0085.tlg005.perseus-grc2"
+              type="edition"
               xml:lang="grc">
             <div type="textpart" subtype="episode">
                <milestone ed="p" n="1" unit="card"/>
@@ -246,9 +248,7 @@
                      <l n="81">στείχει, παιδὸς δʼ οὐδὲν ἀρείων</l>
                      <l n="82">
                         <milestone ed="P" unit="para"/>ὄναρ ἡμερόφαντον ἀλαίνει.</l>
-                  </sp>
-                  <milestone ed="p" n="83" unit="card"/>
-                  <sp>
+                     <milestone ed="p" n="83" unit="card"/>
                      <l n="83">σὺ δέ, Τυνδάρεω</l>
                      <l n="84">θύγατερ, βασίλεια Κλυταιμήστρα,</l>
                      <l n="85">τί χρέος;  τί νέον;  τί δʼ ἐπαισθομένη,</l>

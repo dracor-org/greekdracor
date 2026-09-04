@@ -29,7 +29,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/a065c359aab33c33bd17ddc2cac7d27fdc9cd870/data/tlg0011/tlg008/tlg0011.tlg008.perseus-grc2.xml">Perseus Digital Library</ref>
+               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/341e309c821d5eca8c976bebca77c28b10bad58f/data/tlg0011/tlg008/tlg0011.tlg008.perseus-grc2.xml">Perseus Digital Library</ref>
                <availability>
                   <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                         CC BY-SA 4.0
@@ -108,7 +108,9 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-08-25">Transformed into DraCor TEI</change>
+         <change when="2026-09-04">Transformed into DraCor TEI</change>
+         <change who="Charles Pletcher" when="2026-08-26">Add citeStructure refsDecl</change>
+         <change who="Charles Pletcher" when="2026-08-27">Add CTS-card refsDecl</change>
          <change when="2017-02-16" who="Lisa Cerrato">review of EpiDoc and CTS compliance; removed English from notes; entities, etc.</change>
          <change when="2016-01-15" who="TDBuck">p4 to p5</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>
@@ -128,9 +130,9 @@ I think this particular one is a true supplement rather than an unclear letter, 
       </revisionDesc>
    </teiHeader>
    <text xml:lang="grc">
-      <body>
-         <div type="edition"
-              n="urn:cts:greekLit:tlg0011.tlg008.perseus-grc2"
+      <body xml:base="urn:cts:greekLit:tlg0011.tlg008.perseus-grc2">
+         <div n="urn:cts:greekLit:tlg0011.tlg008.perseus-grc2"
+              type="edition"
               xml:lang="grc">
             <milestone unit="card" n="1"/>
             <milestone n="1" unit="column"/>
@@ -513,12 +515,8 @@ I think this particular one is a true supplement rather than an unclear letter, 
                <l n="199">ἀπελεύθερος ὢν ολ [</l>
                <l n="200">ἀλλὰ μὴ παραπλακ[</l>
                <l n="201">ἔπ[ι]θʼ [ἔ]πεχʼ εἴσιθʼ ἴθι[</l>
-               <l n="202">τ[ὸ] δὲ πλάγιον ἔχομ[εν
-
-            </l>
-            </sp>
-            <milestone unit="card" n="203"/>
-            <sp>
+               <l n="202">τ[ὸ] δὲ πλάγιον ἔχομ[εν</l>
+               <milestone unit="card" n="203"/>
                <l n="203">πάτερ, τί σιγᾷς; μῶν ἀληθ[ὲς εἴπομεν;</l>
                <l n="204">οὐ[κ ε]ἰσακο[ύε]ις; ἦ κεκώφη[σαι, ψόφον;</l>
             </sp>

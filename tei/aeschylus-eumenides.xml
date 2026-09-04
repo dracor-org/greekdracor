@@ -29,7 +29,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/a065c359aab33c33bd17ddc2cac7d27fdc9cd870/data/tlg0085/tlg007/tlg0085.tlg007.perseus-grc2.xml">Perseus Digital Library</ref>
+               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/341e309c821d5eca8c976bebca77c28b10bad58f/data/tlg0085/tlg007/tlg0085.tlg007.perseus-grc2.xml">Perseus Digital Library</ref>
                <availability>
                   <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                         CC BY-SA 4.0
@@ -105,7 +105,9 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-08-25">Transformed into DraCor TEI</change>
+         <change when="2026-09-04">Transformed into DraCor TEI</change>
+         <change who="Charles Pletcher" when="2026-08-26">Add citeStructure refsDecl</change>
+         <change who="Charles Pletcher" when="2026-08-27">Add CTS-card refsDecl</change>
          <change when="2017-03-08" who="Lisa Cerrato">review of structure, adding line numbers, removing entities and quotes, etc.</change>
          <change when="2016-01-14" who="TDBuck">p4 to p5</change>
          <change when="2013-09-13" who="balmas01">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>
@@ -132,9 +134,9 @@
       </revisionDesc>
    </teiHeader>
    <text xml:lang="grc">
-      <body>
-         <div type="edition"
-              n="urn:cts:greekLit:tlg0085.tlg007.perseus-grc2"
+      <body xml:base="urn:cts:greekLit:tlg0085.tlg007.perseus-grc2">
+         <div n="urn:cts:greekLit:tlg0085.tlg007.perseus-grc2"
+              type="edition"
               xml:lang="grc">
             <milestone n="1" unit="card"/>
             <div type="textpart" subtype="episode">

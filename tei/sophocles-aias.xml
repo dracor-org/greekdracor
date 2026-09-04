@@ -29,7 +29,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/a065c359aab33c33bd17ddc2cac7d27fdc9cd870/data/tlg0011/tlg003/tlg0011.tlg003.perseus-grc2.xml">Perseus Digital Library</ref>
+               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/341e309c821d5eca8c976bebca77c28b10bad58f/data/tlg0011/tlg003/tlg0011.tlg003.perseus-grc2.xml">Perseus Digital Library</ref>
                <availability>
                   <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                         CC BY-SA 4.0
@@ -130,7 +130,9 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-08-25">Transformed into DraCor TEI</change>
+         <change when="2026-09-04">Transformed into DraCor TEI</change>
+         <change who="Charles Pletcher" when="2026-08-26">Add citeStructure refsDecl</change>
+         <change who="Charles Pletcher" when="2026-08-27">Add CTS-card refsDecl</change>
          <change when="2017-02-06" who="Lisa Cerrato">revising structure to reflect break at lines</change>
          <change when="2017-01-23" who="Lisa Cerrato">improvements to line numbering, change log, quotes, etc.</change>
          <change when="2016-01-15" who="TDBuck">p4 to p5</change>
@@ -161,9 +163,9 @@
       </revisionDesc>
    </teiHeader>
    <text xml:lang="grc">
-      <body n="Aj.">
-         <div type="edition"
-              n="urn:cts:greekLit:tlg0011.tlg003.perseus-grc2"
+      <body xml:base="urn:cts:greekLit:tlg0011.tlg003.perseus-grc2" n="Aj.">
+         <div n="urn:cts:greekLit:tlg0011.tlg003.perseus-grc2"
+              type="edition"
               xml:lang="grc">
             <milestone unit="card" n="1" resp="p"/>
             <div type="textpart" subtype="episode">

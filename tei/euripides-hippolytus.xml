@@ -29,7 +29,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/a065c359aab33c33bd17ddc2cac7d27fdc9cd870/data/tlg0006/tlg005/tlg0006.tlg005.perseus-grc2.xml">Perseus Digital Library</ref>
+               <ref target="https://github.com/PerseusDL/canonical-greekLit/blob/341e309c821d5eca8c976bebca77c28b10bad58f/data/tlg0006/tlg005/tlg0006.tlg005.perseus-grc2.xml">Perseus Digital Library</ref>
                <availability>
                   <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                         CC BY-SA 4.0
@@ -100,15 +100,17 @@
          </particDesc>
       </profileDesc>
       <revisionDesc>
-         <change when="2026-08-25">Transformed into DraCor TEI</change>
+         <change when="2026-09-04">Transformed into DraCor TEI</change>
+         <change who="Charles Pletcher" when="2026-08-26">Add citeStructure refsDecl</change>
+         <change who="Charles Pletcher" when="2026-08-27">Add CTS-card refsDecl</change>
          <change when="2020-03-13" who="Lisa Cerrato">rescanned Murray via Lace; diff file against perseus version; added to structure</change>
       </revisionDesc>
    </teiHeader>
    <text xml:lang="grc">
-      <body>
-         <div type="edition"
-              xml:lang="grc"
-              n="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2">
+      <body xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2">
+         <div n="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
+              type="edition"
+              xml:lang="grc">
             <milestone resp="perseus" n="1" unit="card"/> 
                 
                 
@@ -116,7 +118,7 @@
                <p>τὰ τοῦ δράματος πρόσωπα</p>
                <p>Ἀφροδίτη</p>
                <p>Ἱππόλυτος</p>
-               <p>Χορός Κυνηγῶν</p>
+               <p>Χορὸς Κυνηγῶν</p>
                <p>Θεράπων</p>
                <p>Χορός Τροιζηνίων Γυναικών</p>
                <p>Τροφός</p>
@@ -208,7 +210,7 @@
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2" n="60">Ἄρτεμιν, ᾇ μελόμεσθα.</l>
                   </sp>
                   <sp who="#choros-kynegon">
-                     <speaker>Χορός Κυνηγῶν</speaker>
+                     <speaker>Χορὸς Κυνηγῶν</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
                         n="61">πότνια πότνια σεμνοτάτα,</l>
@@ -2602,7 +2604,7 @@
             <div type="textpart" subtype="choral">
                <div type="textpart" subtype="strophe" n="1">
                   <sp who="#choros-kynegon">
-                     <speaker>Χορός Κυνηγῶν</speaker>
+                     <speaker>Χορὸς Κυνηγῶν</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
                         n="1102">ἦ μέγα μοι τὰ θεῶν μελεδήμαθ’, ὅταν φρένας ἔλθῃ,</l>
@@ -2629,7 +2631,7 @@
                <milestone resp="perseus" n="1120" unit="card"/>
                <div type="textpart" subtype="strophe" n="2">
                   <sp who="#choros-kynegon">
-                     <speaker>Χορός Κυνηγῶν</speaker>
+                     <speaker>Χορὸς Κυνηγῶν</speaker>
                      <l xml:base="urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
                         rend="indent"
                         n="1120">οὐκέτι γὰρ καθαρὰν φρέν’ ἔχω <add>τὰ</add> παρ’ ἐλπίδα λεύσ-</l>

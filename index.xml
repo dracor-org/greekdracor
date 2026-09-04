@@ -1754,6 +1754,7 @@
             <personGrp xml:id="choros-therapainon" sex="FEMALE" role="chorus ancilla">
                <name>Χορὸς Θεραπαινῶν</name>
                <name type="variant">Χορός Θεραπαινῶν</name>
+               <name type="variant" scope="exists(tei:l[number(@n) ge 1062 and number(@n) le 1073])">Χορός</name>
                <name xml:lang="en">Chorus of Handmaidens</name>
             </personGrp>
             <person xml:id="danais" sex="FEMALE" role="filia" corresp="#choros-danaidon">
@@ -2614,13 +2615,13 @@
                <idno type="wikidata">Q744871</idno>
             </person>
             <person xml:id="angelos" sex="MALE">
-               <persName>Ἄγγελος</persName>
+               <persName scope="empty(preceding::tei:milestone[@unit='card' and number(@n) ge 1335])">Ἄγγελος</persName>
                <persName xml:lang="en">Messenger</persName>
             </person>
             <person xml:id="heteros-angelos" sex="MALE">
                <persName>Ἕτερος Ἄγγελος</persName>
                <persName xml:lang="en">Another Messenger</persName>
-               <persName type="variant">Ἄγγελος</persName>
+               <persName type="variant" scope="exists(preceding::tei:milestone[@unit='card' and number(@n) ge 1335])">Ἄγγελος</persName>
             </person>
             <person xml:id="oidipous" sex="MALE">
                <persName>Οἰδίπους</persName>

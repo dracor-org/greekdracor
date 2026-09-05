@@ -81,6 +81,7 @@
                <personGrp xml:id="choros-therapainon" sex="FEMALE" role="chorus ancilla">
                   <name>Χορὸς Θεραπαινῶν</name>
                   <name type="variant">Χορός Θεραπαινῶν</name>
+                  <name type="variant">Χορός</name>
                   <name xml:lang="en">Chorus of Handmaidens</name>
                </personGrp>
                <person xml:id="danais"
@@ -2359,7 +2360,7 @@
                </div>
                <milestone unit="card" n="1062"/>
                <div type="textpart" subtype="strophe" n="4">
-                  <sp who="#choros-danaidon">
+                  <sp who="#choros-danaidon #choros-therapainon">
                      <speaker>
                         <add>Χορός</add>
                      </speaker>
@@ -2373,7 +2374,7 @@
                </div>
                <milestone unit="card" n="1068"/>
                <div type="textpart" subtype="antistrophe" n="4">
-                  <sp who="#choros-danaidon">
+                  <sp who="#choros-danaidon #choros-therapainon">
                      <speaker>
                         <add>Χορός</add>
                      </speaker>

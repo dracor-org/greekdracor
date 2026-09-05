@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet version="2.0"
+<xsl:stylesheet version="3.0"
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
   xmlns:tei="http://www.tei-c.org/ns/1.0"
   xmlns="http://www.tei-c.org/ns/1.0"
-  exclude-result-prefixes="tei">
+  exclude-result-prefixes="tei xs">
 
   <xsl:output method="xml" indent="yes" encoding="UTF-8"
     omit-xml-declaration="no"/>
@@ -164,7 +165,7 @@
                 </sourceDesc>
               </fileDesc>
               <profileDesc>
-                <xsl:copy-of select="tei:particDesc"/>
+                <xsl:apply-templates select="tei:particDesc" mode="particDesc"/>
                 <xsl:if test="@textclass">
                   <textClass>
                     <xsl:choose>
@@ -203,27 +204,49 @@
     </xsl:choose>
   </xsl:template>
 
-  <xsl:template match="@*|node()" mode="text">
+  <xsl:template match="@*|node()" mode="text particDesc">
     <xsl:copy>
-      <xsl:apply-templates select="@*|node()" mode="text"/>
+      <xsl:apply-templates select="@*|node()" mode="#current"/>
     </xsl:copy>
   </xsl:template>
+
+  <!-- @scope is a DraCor-internal hint used by the speaker lookup in
+       tei:sp/mode="text"; don't leak it into the generated files. -->
+  <xsl:template match="@scope" mode="particDesc"/>
 
   <xsl:template match="tei:l[@style='hidden' and not(node())]" mode="text"/>
 
   <xsl:template match="tei:sp" mode="text">
     <xsl:param name="particDesc" tunnel="yes"/>
+    <xsl:variable name="sp" select="."/>
     <xsl:variable name="speaker"
       select="normalize-unicode(normalize-space(tei:speaker))"/>
-    <xsl:variable name="ids" select="
-      $particDesc//*[self::tei:person or self::tei:personGrp][
-        (tei:persName | tei:name)[
-          normalize-unicode(normalize-space(.)) = $speaker
-        ]
-      ]/@xml:id"/>
+    <xsl:variable name="names" select="
+      $particDesc//*[self::tei:person or self::tei:personGrp]/*[
+        (self::tei:persName or self::tei:name) and
+        normalize-unicode(normalize-space(.)) = $speaker
+      ]"/>
+    <xsl:variable name="matches" as="element()*">
+      <xsl:for-each select="$names">
+        <xsl:choose>
+          <xsl:when test="@scope">
+            <xsl:variable name="ok" as="xs:boolean">
+              <xsl:evaluate as="xs:boolean" context-item="$sp" xpath="@scope"/>
+            </xsl:variable>
+            <xsl:if test="$ok">
+              <xsl:sequence select="."/>
+            </xsl:if>
+          </xsl:when>
+          <xsl:otherwise>
+            <xsl:sequence select="."/>
+          </xsl:otherwise>
+        </xsl:choose>
+      </xsl:for-each>
+    </xsl:variable>
+    <xsl:variable name="ids" select="distinct-values($matches/parent::*/@xml:id)"/>
     <xsl:copy>
       <xsl:choose>
-        <xsl:when test="$ids">
+        <xsl:when test="exists($ids)">
           <xsl:apply-templates select="@* except @who" mode="text"/>
           <xsl:attribute name="who" select="
             string-join(for $i in $ids return concat('#', $i), ' ')"/>

@@ -2,7 +2,8 @@
 <!--
   This file maps DraCor IDs for GreekDraCor to the file names of the plays in 
   the Perseus Digital Library and adds Wikidata IDs where available.
-  It also determines the filenames for the new GreekDraCor files.
+  It also determines the filenames for the new GreekDraCor files. Finally, it
+  provides further information for the TEI header in the generated GreekDraCor files.
 -->
 <index>
    <play id="greek000001"
